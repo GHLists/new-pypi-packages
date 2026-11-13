@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T20:27:58Z,torch-ec,0.1.0,,,7067352,
+2026-11-13T20:28:03Z,sable-sphynx,0.7.0.dev0,,Proprietary,2353165,Sphynx offline evaluation SDK
+2026-11-13T20:28:43Z,noblecloak-claude-agent-sdk,0.0.0,NobleCloak,Apache-2.0,12569,"Approvals for the Claude Agent SDK (Python): decide, ask, verify, retry."
+2026-11-13T20:33:03Z,textutils-hs,0.1.0,Hamza Fikri,MIT,12889,"Small, dependency-free helpers for common text tasks."
+2026-11-13T20:36:01Z,aws_sdk_firehose,0.0.0,,Apache-2.0,1969,Placeholder reserving the aws_sdk_firehose name. Not yet functional.
+2026-11-13T20:36:46Z,aws_sdk_ecr,0.0.0,,Apache-2.0,1914,Placeholder reserving the aws_sdk_ecr name. Not yet functional.
+2026-11-13T20:39:16Z,scriptrs,0.5.0,Praveen Perera,Apache-2.0,9910695,Fast NVIDIA Parakeet TDT v2 and v3 speech-to-text on Core ML (macOS) and CUDA (Linux and Windows)
+2026-11-13T20:39:24Z,aws_sdk_eventbridge,0.0.0,,Apache-2.0,2002,Placeholder reserving the aws_sdk_eventbridge name. Not yet functional.
+2026-11-13T20:39:42Z,aws_sdk_sfn,0.0.0,,Apache-2.0,1914,Placeholder reserving the aws_sdk_sfn name. Not yet functional.
+2026-11-13T20:41:07Z,aws_sdk_sso,0.0.0,,Apache-2.0,1911,Placeholder reserving the aws_sdk_sso name. Not yet functional.
+2026-11-13T20:42:32Z,aws_sdk_ssm,0.0.0,,Apache-2.0,1909,Placeholder reserving the aws_sdk_ssm name. Not yet functional.
+2026-11-13T20:42:50Z,browserwhale,0.1.0b1,,Apache-2.0,33362,Python client for the hosted Browserwhale web agent API.
+2026-11-13T20:43:06Z,ocr-software-haystack,0.1.0,,MIT,13368,Haystack component that reads PDFs and scans with the ocr-software.com OCR API.
+2026-11-13T20:43:27Z,aws_sdk_sesv2,0.0.0,,Apache-2.0,1937,Placeholder reserving the aws_sdk_sesv2 name. Not yet functional.
+2026-11-13T20:44:40Z,aws_sdk_cloudwatch_logs,0.0.0,,Apache-2.0,2051,Placeholder reserving the aws_sdk_cloudwatch_logs name. Not yet functional.
+2026-11-13T20:49:19Z,llm-queue,0.1.0b1,The llm-queue authors,MIT,289623,"LLM calls through a queue on Valkey / Redis: RPM and TPM budgets per account and region, balancing, fallback, health and status."
+2026-11-13T20:51:22Z,strokeoutline,0.1.0,Holger Nahrstaedt,Apache-2.0,59378,Deterministic variable-width stroke expansion from 2D centerlines to filled contours.
+2026-11-13T20:51:43Z,rupay,0.1.0,rupay contributors,MIT,42286,"?????? Python-?????????? ??? ?????? ? ??????????? ?????????? ????????? (?Money, QIWI, Tinkoff)"
+2026-11-13T20:51:54Z,optforge,0.2.0,Max Miller <ali.alipour4576@gmail.com>,"MIT License Copyright (c) 2026 OptForge contributors Permission is hereby granted, free of charge,…",72076,"Cross-platform developer CLI tools for ports, environment variables, disk usage, and Python cache cleanup."
+2026-11-13T20:52:02Z,doc-store-client-dev,0.1.186,Vasiliy Zdanovskiy,MIT,80159,Client library for the doc-store documentation service.
+2026-11-13T20:52:20Z,aws_sdk_cloudwatch,0.0.0,,Apache-2.0,1991,Placeholder reserving the aws_sdk_cloudwatch name. Not yet functional.
+2026-11-13T20:54:32Z,aws_sdk_sso_oidc,0.0.0,,Apache-2.0,1974,Placeholder reserving the aws_sdk_sso_oidc name. Not yet functional.
+2026-11-13T20:56:42Z,aws_sdk_ses,0.0.0,,Apache-2.0,1911,Placeholder reserving the aws_sdk_ses name. Not yet functional.
+2026-11-13T20:57:35Z,aws_sdk_cognito_identity_provider,0.0.0,,Apache-2.0,2148,Placeholder reserving the aws_sdk_cognito_identity_provider name. Not yet functional.
+2026-11-13T20:57:50Z,data-vault-mcp,0.1.0,,,57509,Local MCP tools for Confidential Agentic Data Vault
+2026-11-13T21:00:14Z,relay-runtime,0.1.0,Relay Contributors,GPL-3.0-or-later,8042,Official Python library and public handler interfaces for Relay applications.
+2026-11-13T21:01:41Z,thzdaq,0.0.6b3,yarvod,MIT,3627,"ThzDAQ: SIS mixer bench control and measurements (command, client library, extras)"
+2026-11-13T21:01:42Z,thzdaq-analysis,0.0.6b3,yarvod,MIT,9475,"ThzDAQ analysis: I-V curves, noise temperature, shot noise, 2SB sideband ratios"
+2026-11-13T21:01:44Z,thzdaq-api,0.0.6b3,yarvod,MIT,122008,"ThzDAQ contract and client: operations, data types and events of the bench daemon"
+2026-11-13T21:01:45Z,thzdaq-cli,0.0.6b3,yarvod,MIT,30377,ThzDAQ command line: a client of the bench daemon
+2026-11-13T21:03:23Z,pepkio-rapiddot-genome-viewer,0.1.0,Pepkio Team <tools@pepkio.com>,,49304,Python client for Pepkio rapiddot-genome-viewer tool
+2026-11-13T21:05:29Z,statwarrant,0.5.0,Haifaa Owayed,"MIT License Copyright (c) 2026 Haifaa Owayed Permission is hereby granted, free of charge, to any p…",252533,"What your statistical result warrants you to say: equivalence, minimal-effect and zero tests turned into allowed and blocked claims."
+2026-11-13T21:10:36Z,elastic-ase,0.0.1,Pranav Kumar,MIT,113077,Second-order elastic constants from energy-strain calculations with ASE calculators
+2026-11-13T21:10:48Z,milvaion-worker,1.0.0,,Apache-2.0,52678,Python worker SDK for the Milvaion job scheduler
+2026-11-13T21:10:58Z,uakep,0.1.0,Anton Butsyk,MIT,78440,"Ukrainian qualified electronic signatures (КЕП, ДСТУ 4145-2002) in pure Python"
+2026-11-13T21:14:04Z,ptbr-sampler,0.3.0,"Jandira Tech, Arthur Souza Rodrigues",MIT,202422,"Empirically grounded Brazilian demographic, location, and synthetic document sampler backed by IBGE Census 2022"
+2026-11-13T21:15:42Z,rilweb,0.1.0,Arlo Talkington <mongpod67@gmail.com>,MIT,14223,A simple http framework built in python using `socket` and `asyncio`.
+2026-11-13T21:20:02Z,agent-session-insights,0.1.0,Agent Session Insights contributors,MIT,145686,Evidence-linked reports and offline players for coding-agent sessions.
+2026-11-13T21:20:16Z,GHIElectronics.Endpoint.Devices.Touch,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,3640,"Touchscreen support for Endpoint. The Touch class is abstract: subclass it for your panel's chip. Ships one concrete subclass, InputTouch, that wraps a kernel /dev/input/eventN (used for USB touchscr…"
+2026-11-13T21:20:23Z,GHIElectronics.Endpoint.Devices.UsbHost,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,10251,"USB devices of GHI Electronics Endpoint: connected and disconnected events, what each device is and its port or network interface."
+2026-11-13T21:20:30Z,GHIElectronics.Endpoint.Devices.Watchdog,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,2961,"The watchdog of GHI Electronics Endpoint, with the TinyCLR API."
+2026-11-13T21:20:37Z,GHIElectronics.Endpoint.Drawing,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,8570,"Off-screen 2D drawing primitives for Endpoint: Canvas, Color, Font, Image, PixelFormat. Pure pixel drawing independent of the LVGL-backed UI widget library. Hand the Canvas buffer to any display, SPI…"
