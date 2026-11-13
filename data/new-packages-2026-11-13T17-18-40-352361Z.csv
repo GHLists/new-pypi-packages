@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T16:19:23Z,handover-check,0.1.0,Suleman Ali,MIT,32176,"Test a conveyor station's AMR/AGV load-handover handshake over OPC UA before the robot arrives: plays the vehicle side, also the ways a vehicle fails, and reports rule by rule."
+2026-11-13T16:20:56Z,catsim-better-inputs,0.1.4,adventure-gpt,MIT,155625,Better inputs for RLBot bots: catSim lag correction and physics-checked car flags in RocketSim's field names
+2026-11-13T16:21:29Z,edgelab-books,0.1.2,,MIT AND CC-BY-NC-4.0,535556,Interactive books you install and run on your own machine: a local library of marimo lessons. First book: evals.
+2026-11-13T16:21:36Z,mcp-attest,0.1.1,Balanov.PRO,MIT,42996,"Conformance and attestation harness for MCP agent access control: prove that a policy actually enforces, detect shadow MCP paths, and emit tamper-evident receipts."
+2026-11-13T16:23:39Z,protein-tools-mcp,0.1.0,Tahsin Hassan Akash,MIT,179757,MCP server for general protein characterization (+ metal-site module)
+2026-11-13T16:24:57Z,Dragon-Ball-API-Alejo,0.2,Eduardo Lopez,MIT,26720,Api unoficial de dragon ball inspirado de la fandom de dragon ball
+2026-11-13T16:27:47Z,jupydev,0.1.0,Frank,MIT,7759,Commandline tool for the jupydev cookiecutter workflow
+2026-11-13T16:28:41Z,atli,0.5.1,atli contributors,MIT,140399,Lightweight CLI for self-hosted Jira and Confluence (Server / Data Center)
+2026-11-13T16:30:05Z,deja-browser,0.1.3,,MIT,88370,"The agent browser that remembers: a separate Chromium profile your AI agent drives over CDP, with site recipes so the second visit skips reading the page."
+2026-11-13T16:30:54Z,diffenix,0.0.0.1,Paul Huet,,82743,A library to model the gas evolution in debris discs
+2026-11-13T16:31:33Z,langchain-nestdaddy,0.1.1,NestDaddy <hello@nestdaddy.com>,MIT,20778,"LangChain integration for NestDaddy: give your AI today's internet. Live web search, real-time news and page reading."
+2026-11-13T16:32:09Z,ai-agent-tap,0.3.3,,MIT,237211,"Local usage analytics, error debugging, trace correlation, and service monitoring for Claude Code, Codex, Copilot CLI, Aider, Cline, LiteLLM, Ollama, SearXNG, Firecrawl, and local AI services"
+2026-11-13T16:33:20Z,studydesk,1.2.0,Subham Divakar,MIT,2850991,"A local-first workspace for reading research papers: PDF reader, highlights, notes, search and a history of your reading."
+2026-11-13T16:33:31Z,swarmcontrol,0.1.1,Ayush Chaurasia,Apache-2.0,2106957,"The control loop for AI agent swarms: per-agent laws enforced before actions run, live health, and training data from every correction."
+2026-11-13T16:35:41Z,mcp-skill-scanner,0.2.0,,,117557,Static security scanner for MCP servers and AI agent skills.
+2026-11-13T16:37:39Z,browser-py,0.1.0,,,288207,An experimental Python-to-browser compiler and Transcrypt competitor
+2026-11-13T16:38:45Z,rubberruler,0.1.0,Shuhei Tanaka,MIT,132382,"Decide with BBOB, MA-BBOB, or your own objective functions whether to compute features value-based or rank-based."
+2026-11-13T16:39:46Z,tech-rkj,0.1.0,Jaydeep Prajapati,MIT,700941,Deterministic AVX2 Closed-Form & Online Continual Learning Subspace Engine in Rust
+2026-11-13T16:40:03Z,decision-journal,0.10.0,Decision Journal Contributors,MIT,590407,"Local-first AI decision assistant with Web, CLI, and installable Skill interfaces"
+2026-11-13T16:40:41Z,h3-image-mlx-qwen-runtime,0.1.0a1,,Apache-2.0 AND MIT AND BSD-3-Clause,83849492,Standalone native MLX worker for Qwen Image 2.1
+2026-11-13T16:42:31Z,hub-laat,0.2.0,Simone Vilardi <s.vilardi@rug.nl>,,5106693,Hub-Aware Locally Aligned Ant Technique for structure detection in point clouds.
+2026-11-13T16:43:26Z,devinsight-mcp,1.0.0,,MIT,26895,"An MCP server that gives Claude tools to inspect, analyze, and grade local git repositories"
+2026-11-13T16:45:59Z,suvereo-agent-tools,1.0.0,Mateusz Porebski,,6458,Shared tools for Suvereo agents
+2026-11-13T16:45:59Z,suvereo-integration-mcp,1.0.0,Rafal Cymerys,,12802,MCP (Model Context Protocol) server integration for Suvereo — connect one or more MCP servers per dataset.
+2026-11-13T16:46:01Z,suvereo-model-openai,1.0.0,Rafal Cymerys,,5132,A plugin for Suvereo that provides an OpenAI connector.
+2026-11-13T16:46:08Z,talp-arena,0.0.0,Talp,,1237,This name is reserved by Talp. This release contains no code.
+2026-11-13T16:46:25Z,suvereo-agent-tool-calling,1.0.0,Damian Sowiński,,6659,Base implementation of a Tool Calling agent for Suvereo
+2026-11-13T16:49:01Z,sive,0.9.3,Valentin JOURNET <valentin.journet@talan.com>,MIT,250805,"SIVE (Scrap Ingest Vectorize Extends): documentation ingestion, vector indexing and MCP retrieval"
+2026-11-13T16:50:27Z,splent-feature-account-approval,0.1.0,,LGPL-3.0-or-later,62701,
+2026-11-13T16:50:37Z,pandappi,2.0.0,"""Dr. Pritam Kumar Panda"" <pritam@stanford.edu>",MIT,143884,"Map and visualize every contact at protein-protein, protein-peptide, antibody-antigen and protein-nucleic acid interfaces"
+2026-11-13T16:51:49Z,odoo-addon-sale-order-introduction-text,16.0.1.0.0.2,"BizzAppDev Systems Pvt. Ltd.,Odoo Community Association (OCA)",LGPL-3,26894,"Add introduction text to sale orders, sale order reports, and customer portal."
+2026-11-13T16:52:33Z,splent-feature-reservations,0.1.0,,LGPL-3.0-or-later,140283,
+2026-11-13T16:52:39Z,mdfi-connect,0.1.0,TopTop Oy,Apache-2.0,120834,MCP stdio connector that lets coding agents read documents through the mdfi cloud API
+2026-11-13T16:53:23Z,splent-feature-skin-console,0.1.0,,LGPL-3.0-or-later,46555,
+2026-11-13T16:54:07Z,odoo-addon-animal-medicament,16.0.1.0.0.3,"Akretion, Odoo Community Association (OCA)",AGPL-3,26787,Drug posologies definition for animals
+2026-11-13T16:54:24Z,splent-feature-lab-storage,0.1.0,,LGPL-3.0-or-later,72343,
+2026-11-13T16:55:52Z,sparx-graph,0.2.1,,Apache-2.0,16328511,"Memory-mapped analytics for large static sparse graphs: k-cores, k-trusses, triangles, communities (Louvain, Leiden, label propagation, spectral), shortest paths, centralities"
+2026-11-13T16:56:00Z,solverr,0.1.0,,MIT,47198,Server SDK for the Solverr crypto payment API.
+2026-11-13T16:57:46Z,argus-mask,0.1.0,smk762,MIT,2094429,"A talking face for the Argus suite: audio in, facial animation frames out, rendered in a browser on any screen on the LAN"
+2026-11-13T16:58:59Z,arc56-generated-kdven-77b13cc8,1.2.2026072010,KDvenkatesh,,23516,Generated ARC-56 Algorand smart-contract clients for KDvenkatesh/myGameshub.
+2026-11-13T17:00:03Z,arc56-generated-keert-2d08e788,1.2.2026072010,Keerthan-17,,11874,Generated ARC-56 Algorand smart-contract clients for Keerthan-17/Algo-lancer.
+2026-11-13T17:00:48Z,cs2-price-api,1.0.0,API Skins <contact@apiskins.com>,MIT,21379,Official API Skins client for CS2 skin prices: the cheapest offers and highest buy orders across marketplaces
+2026-11-13T17:01:08Z,arc56-generated-kesha-4b5b00a3,1.2.2026072010,Keshabkjha,,13829,Generated ARC-56 Algorand smart-contract clients for Keshabkjha/LotteryContract.
+2026-11-13T17:01:14Z,mechiviz,0.0.1,Caitlin Lewis <caitlin.lewis@duke.edu>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3330599,Interactive mechanistic interpretability
+2026-11-13T17:02:12Z,arc56-generated-knokv-84e5c160,1.2.2026072010,knokvik,,20707,Generated ARC-56 Algorand smart-contract clients for knokvik/uniledger.
+2026-11-13T17:04:53Z,umemax,1.0.0,Diego Piccini — Art and Earth Networks and Technologies <contact@umemax.ai>,MIT,10441,"Official zero-dependency Python SDK for the UMeMax AI API (agents, ingest, pull, licenses, accounts)."
+2026-11-13T17:04:55Z,prlccil,0.1.1,,MIT,440231,Continuity-based corrective labels for imitation learning
+2026-11-13T17:05:54Z,lizard-host,0.16.0,,MIT,61666,Host-side tools and library for microcontrollers running Lizard
+2026-11-13T17:10:46Z,veridor,0.1.0,Santosh Kumar Puppala,Apache-2.0,1014523,CI-first authorization regression runner for multi-user APIs
+2026-11-13T17:13:13Z,soterias-local,0.1.0rc1,,,22798446,"Native local Soterias workflow observation, metrics, optimisation and secured execution SDK"
+2026-11-13T17:16:00Z,h3v,0.1.0,,Apache-2.0,29700,Packed 128-bit H3 volume indices with independent surface and radial resolutions
+2026-11-13T17:18:11Z,neutorch,0.1.0,MT-Chuyen,MIT,32455,"Lightweight, zero-boilerplate Computer Vision training on top of PyTorch"
