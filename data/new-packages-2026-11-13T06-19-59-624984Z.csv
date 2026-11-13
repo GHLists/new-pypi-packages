@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T05:27:18Z,governed-ai-agent-blueprint,0.3.1,Viames Marino,MIT,30500,Reference architecture for grounded and auditable AI agents
+2026-11-13T05:27:21Z,retrace-rag,0.1.0,Mohammad Jaan,MIT,1565330,Find out which stage of your RAG pipeline is actually broken.
+2026-11-13T05:31:48Z,langchain-keln,0.1.0,kris-holy <kris@keln.ai>,MIT,17505,"LangChain integration for Keln, an inference platform for open models"
+2026-11-13T05:35:22Z,pacxio,0.0.1,,MIT,2623902,"Packaging prepress for coding agents: dielines, 3D, print-ready factory files"
+2026-11-13T05:39:03Z,risk-aware-trading-agents,0.7.1,Risk-Aware Trading Agents contributors,MIT,5034407,"Risk-aware AI trading agents for US stocks, with news backtesting that cannot see the future: FOMC/CPI/VIX-aware market regimes, EMA 50/100/200 dip buying with earnings checks, cross-verified news (F…"
+2026-11-13T05:46:55Z,llm-token-saver,0.1.0,,MIT,13138,A seamless LLM API middleware to maximize context cache hits and reduce token costs.
+2026-11-13T05:50:13Z,k11-llm-assure-mcp,0.1.0,K11 Software Solutions,MIT,117726,"LLM red-teaming and assurance toolkit: attack suites, CI quality gates, audit-ready reports and an MCP server."
+2026-11-13T05:50:29Z,dbbranch,1.0.1,Katie Rust,MIT,54111,Git-like database branch manager
+2026-11-13T05:51:14Z,zeus-options-terminal,0.7.0,,PolyForm-Noncommercial-1.0.0,3263137,"ZEUS Terminal · 宙斯期权终端: the self-hosted options trading terminal. Positions and Greeks, risk, paper trading, a stock picker, news and a trade journal on your own computer."
+2026-11-13T05:56:55Z,hanzo-login,0.1.0,Hanzo AI <dev@hanzo.ai>,MIT,14411,"Who a Hanzo tool acts as: one resolver for the key, the hanzo CLI's login and its identities. Standard library only."
+2026-11-13T06:00:50Z,address-dimensions,0.1.1,,,14445,Offline Chinese administrative address parsing
+2026-11-13T06:01:59Z,peekproof,0.1.0,Zoheb Islam,MIT,39398,"A/B tests you can check early: group sequential boundaries, power, and peeking simulations."
+2026-11-13T06:03:43Z,mcparser,0.2.0a1,Robert Turnbull <robert.turnbull@unimelb.edu.au>,Apache-2.0,741853,"Uses LLM agents to perform dependency parsing, with an MCP server over CoNLL-U corpora."
+2026-11-13T06:06:06Z,websitescreenshotworld,0.1.0,Silhouettec Solutions Private Limited <support@websitescreenshotworld.com>,MIT,71501,Python client for the Website Screenshot World Instant Snap and Auto Schedule APIs.
+2026-11-13T06:08:51Z,thetatron,0.0.1,"Thetatron, Inc.",Proprietary,2522,Official Python client for Thetatron. Coming soon.
+2026-11-13T06:11:22Z,agentcomk-mcp,0.1.0,chenglong,,2556,Add your description here
+2026-11-13T06:18:08Z,phm-lite-check,1.0.1,PHM-Audit,MIT,33285,Deterministic physics plausibility checking for LLM outputs and robotics datasets (offline subset of the PHM engine). Zero dependencies.
+2026-11-13T06:18:13Z,kes-tools,0.1.0,,Apache-2.0,67963,Command-line client for kes-tools: turn PDFs and Kurzweil 3000 .kes files into .kes files with Datalab OCR
