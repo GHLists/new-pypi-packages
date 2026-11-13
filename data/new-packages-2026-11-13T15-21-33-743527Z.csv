@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T13:46:00Z,q8s-cuda,0.1.0,Vlad Stirbu <vstirbu@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",25480,CUDA-based GPU execution target plugin for q8s
+2026-11-13T13:48:35Z,q8s-hpc-cpu,0.1.0,Vlad Stirbu <vstirbu@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",27775,CPU execution target plugin for running q8s jobs on HPC nodes
+2026-11-13T13:49:34Z,q8s-hpc-rocm,0.1.0,Vlad Stirbu <vstirbu@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",27948,ROCm-based GPU execution target plugin for running q8s jobs on HPC nodes
+2026-11-13T14:20:09Z,causal-slicing,0.1.1,,,42341,元龙因果 Agent 的切片器（BotSlicer）：把对话流切分为事件粒子，贞入因果星空并按 source_id 组成因果链
+2026-11-13T14:20:15Z,causal-collapse,0.1.1,,,22895,元龙因果 Agent 的坍塌器（Collapser）：整链超阈值时把最旧的一段事件节点提炼压缩成第一人称果节点，保留最近节点
+2026-11-13T14:22:24Z,qvard,0.1.0,,,25839,"Qvard payments API client for Python: payments, payouts, rates and webhook signature checks"
+2026-11-13T14:23:45Z,development-finance,0.1.0,ONE Campaign,,626771,Python client for the Development Finance Observatory APIs
+2026-11-13T14:25:27Z,mt5-web-client,1.0.3,cloudQuant,MIT,239835,Python client for MT5 Web Terminal via reverse-engineered WebSocket binary protocol
+2026-11-13T14:25:32Z,krishiv-compat,0.2.0,,Apache-2.0,20954839,"Krishiv: a Rust-native, Spark-compatible batch and streaming engine"
+2026-11-13T14:30:06Z,rcs-openapi-client,0.5.0,Akimimi,LicenseRef-Proprietary,20696,RCS 开放 API Python SDK：AK/SK、客户读写、业务接口、PII 解密及 Webhook 验签
+2026-11-13T14:32:31Z,cli-anything-acloudviewer,3.2.0,ACloudViewer Contributors,MIT,377096,"CLI harness for ACloudViewer — 3D point cloud and mesh processing via binary CLI and JSON-RPC, with Colmap reconstruction and SIBR pipelines"
+2026-11-13T14:35:47Z,crawlora-fortnite,0.1.0,Crawlora,MIT,47694,"Crawlora Fortnite API client with 10 endpoints for public island discovery, genres, rankings, and engagement metrics"
+2026-11-13T14:37:20Z,proto-db,2.0.0rc3,Gustavo Marino <gamarino@numaes.com>,"MIT License Copyright (c) 2023 ProtoBase Team Permission is hereby granted, free of charge, to any…",832055,"proto_db is an embedded, transactional, object-oriented database for Python."
+2026-11-13T14:40:59Z,emicode,0.1.1,,PolyForm-Noncommercial-1.0.0,11456860,"Checks code changes made by AI coding agents and says whether to stop, repair or ask a person"
+2026-11-13T14:41:20Z,gsn-model-parser,0.16.10,"Patrik Meijer <patrik.meijer@vanderbilt.edu>, Mark Wutka <mark.wutka@vanderbilt.edu>",MIT,41488,Parse Goal Structuring Notation (.gsn) models and propagate subjective-logic opinions
+2026-11-13T14:42:04Z,sekoia-hwl,0.11.0,SEKOIA.IO,Apache-2.0,384846,"Sekoia HTTP Workflow Language: write, validate and run integrations locally"
+2026-11-13T14:42:20Z,py-assettocorsa-evo,0.1.0,,,20530,Read Assetto Corsa EVO shared memory on Windows.
+2026-11-13T14:42:28Z,kaprevo,1.0.0rc8,Pandiyaraj Karuppasamy <pandiyarajk@live.com>,MIT,2142714,"Typed, async-first Python driver for stock Chrome and Firefox over W3C WebDriver BiDi, with auto-waiting and self-healing locators"
+2026-11-13T14:42:41Z,raincloud-engine,0.1.0,,"Copyright (c) 2026 Rainwater This software is provided 'as-is', without any express or implied warr…",479598,A Python game engine and development CLI
+2026-11-13T14:45:02Z,neuralreport,0.0.1,,,1030,Coming soon.
+2026-11-13T14:45:25Z,reverb-tts,0.0.0,Software Mansion,Apache-2.0,1764,"Placeholder for Reverb-TTS, Software Mansion's voice-cloning text-to-speech package. The first release follows."
+2026-11-13T14:47:34Z,hardenix,0.1.1,Ömer Demirkaya,MIT,79700,"Offline security audit and safe, reversible hardening for Debian and Ubuntu servers"
+2026-11-13T14:48:43Z,jnesty,0.2.0,shangguan_kiaa206 <shangguan@pku.edu.cn>,MIT,224534,GPU-accelerated random walk nested sampling with JAX
+2026-11-13T14:49:10Z,solarian-feetech,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,86252,Feetech servo actuator and bus plugin for Solarian robotics framework
+2026-11-13T14:49:42Z,py-assettocorsa,0.1.0,,,16838,Read Assetto Corsa shared memory on Windows.
+2026-11-13T14:50:19Z,robotframework-plugins,2026.11.0.dev1,Many Kasiriha <many.kasiriha@gmail.com>,Apache-2.0,688701,"Cross-agent installer for Robot Framework agent plugins (Claude Code, Copilot, Codex, Cursor, Goose, OpenCode, Claude Desktop)"
+2026-11-13T14:50:22Z,hebbian-mcap,0.1.0,Hebbian Robotics,Apache-2.0,3063910,MCAP tools with a shared Rust core
+2026-11-13T14:50:41Z,solarian-gripper1,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,6105269,"solarian-gripper1, a single-actuator parallel gripper with a wrist camera, designed with reference to UMI"
+2026-11-13T14:50:56Z,solarian-arm1,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,6852669,"solarian-arm1, a mod of The Robot Studio SO-100 with an extra wrist degree of freedom"
+2026-11-13T14:51:16Z,nakli-data,0.1.0,Malaya Kumar Swain,Apache-2.0,48885,"Safe fake Indian personal data, labelled for testing PII detectors: Aadhaar, PAN, GSTIN, UPI and more in English, Hindi, Hinglish and Odia"
+2026-11-13T14:54:15Z,stroke-scribe,1.0.0,Portevent,MIT,75660,Write text with a stroke font and produce SVG drawings for pen plotters
+2026-11-13T14:54:44Z,starshield-forensics,0.3.7,Ziqi Xiao,MIT,80627,"Deterministic, offline Chromium IndexedDB/LevelDB write-ahead log (.log) multi-schema record carver, local storage precheck gate, PNG/JPEG ICC container provenance inspector, and multi-jurisdiction f…"
+2026-11-13T15:00:21Z,hydrocouple.meshkit,0.0.0.dev0,Caleb Buahin,Apache-2.0,3264,Name placeholder for hydrocouple.meshkit: Independent mixed meshing with terrain certificates and streaming I/O
+2026-11-13T15:02:04Z,ProjectMFE2,1.0.0,,,2295,Simple Financial Tool
+2026-11-13T15:04:12Z,krino-world,0.1.0,Krino Matrix <support@krinomatrix.com>,Apache-2.0,19713,Python client for the KRINO WORLD API: AI characters that remember you
+2026-11-13T15:04:35Z,sovara-claude-code,0.1.0,,MIT,16733,Record Claude Code sessions in Sovara and add relevant lessons to each prompt
+2026-11-13T15:04:52Z,numpii-isr,0.1.0,,,11834,ISR Practical Library
+2026-11-13T15:05:20Z,sovara-openai-agents,0.1.0,,MIT,13568,Sovara recording for the OpenAI Agents SDK
+2026-11-13T15:05:23Z,sovara-langchain,0.1.0,,MIT,30695,Sovara recording and lessons for LangChain and LangGraph
+2026-11-13T15:05:52Z,beru-sdk,1.0.0a13,,MIT,18802,"Use a Beru instance as your app's AI layer: chats with its agents and runs of its workflows, streamed."
+2026-11-13T15:07:55Z,lhzn-sphinx-theme,0.1.0,Long Horizon Observatory,"MIT License Copyright (c) 2026 Long Horizon Observatory Permission is hereby granted, free of charg…",146114,"Long Horizon Observatory documentation theme for Sphinx, built on Furo."
+2026-11-13T15:08:51Z,euler-known-datasets,0.1.0,Daniel Rothenpieler <rothenpielerdaniel@gmail.com>,MIT,345060,"Turn downloaded dataset archives into euler-ready datasets: indexed for ds-crawler, loadable by euler-loading"
+2026-11-13T15:10:12Z,sentinelworks,0.1.0,,,1189474,
+2026-11-13T15:10:17Z,survivalservers-studio,0.1.0,,Apache-2.0,783764,"Typed client for the Survival Servers Studio API, for studio backends and matchmakers"
+2026-11-13T15:11:58Z,k11-api-functional-qa-mcp,0.1.1,K11 Software Solutions,MIT,72084,"MCP server and Claude Code plugin for functional API testing: user stories to multi-step API test flows, negative and boundary tests from the spec, database checks and fixtures, with evidence for eve…"

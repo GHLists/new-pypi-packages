@@ -1,48 +1,27 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-11-13T13:18:43.85892Z",
-    "path": "data/new-packages-2026-11-13T14-19-23-305457Z.csv",
-    "to": "2026-11-13T14:19:23.305457Z"
+    "count": 45,
+    "from": "2026-11-13T14:19:23.305457Z",
+    "path": "data/new-packages-2026-11-13T15-21-33-743527Z.csv",
+    "to": "2026-11-13T15:21:33.743527Z"
   },
   "pending": [
     {
+      "attempts": 1,
+      "created_at": "2026-11-13T14:24:23Z",
+      "package": "link2video",
+      "since": "2026-11-13T14:19:23.305457Z",
+      "version": null
+    },
+    {
       "attempts": 4,
-      "created_at": "2026-11-13T10:24:52Z",
-      "package": "hostdrift",
-      "since": "2026-11-13T10:18:38.721775Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-13T13:46:00Z",
-      "package": "q8s-cuda",
-      "since": "2026-11-13T13:18:43.85892Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-13T13:48:35Z",
-      "package": "q8s-hpc-cpu",
-      "since": "2026-11-13T13:18:43.85892Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-13T13:49:34Z",
-      "package": "q8s-hpc-rocm",
-      "since": "2026-11-13T13:18:43.85892Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-13T11:23:35Z",
       "package": "slmbench-cli",
       "since": "2026-11-13T11:18:38.64962Z",
       "version": "0.1.1"
     }
   ],
-  "serial": 43608781,
+  "serial": 43611128,
   "source_truncated": false,
-  "window": "2026-11-13T14:19:23.305457Z"
+  "window": "2026-11-13T15:21:33.743527Z"
 }
