@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T17:19:26Z,ecod-rs,1.0.1,nedeadinside <aquvva67@gmail.com>,MIT,5443408,ECOD rust implementation.
+2026-11-13T17:19:40Z,kirch,0.0.1,kirch,MIT,9636,Engineering-notation parser and IEC 60063 preferred-value finder (CLI).
+2026-11-13T17:21:56Z,argus-survey,0.1.0,smk762,MIT,597877,"Point-cloud toolkit for land surveyors: QA, ground, DTM/DSM, contours, volumes, change and accuracy with recorded datums"
+2026-11-13T17:21:57Z,pgsqlite-failover,0.2.0,svnviet,"MIT License Copyright (c) 2026 svnviet Permission is hereby granted, free of charge, to any person…",20157,"SQLAlchemy failover middleware: PostgreSQL primary with a durable SQLite fallback, journal and replay."
+2026-11-13T17:28:26Z,radmodeling,2.1.1,Alvaro Cubi,EUPL-1.2,207166,CAD preparation and CAD-to-MCNP quality assurance tools
+2026-11-13T17:28:47Z,pyrandomness,0.1.0,Luksy,MIT,8584,A robust Python library providing twenty-one distinct stochastic functions.
+2026-11-13T17:32:40Z,clinval,1.0.0,Daniel Palacios <danielpalaciosusa2015@hotmail.com>,Apache-2.0,660039,"Validation harness for clinical LLM extraction: patient-window metrics, frozen dev protocol, error analysis."
+2026-11-13T17:34:28Z,delali-narsil,0.1.0,Delali,Apache-2.0,28284677,"The Narsil search engine works inside a Python process, with full-text, vector, and hybrid search through the Rust implementation, a blocking API, and an asyncio API."
+2026-11-13T17:35:33Z,ai-agents-orchestrator,1.5.1,Jonas Augusto,MIT,531655,"Run Claude Code and OpenAI Codex CLI as a relay team on your own subscriptions: task board, chat approvals, cross-review and automatic handoff on usage limits."
+2026-11-13T17:37:31Z,ser2netweb,3.0.0,Halis KILIÇ <mail@haliskilic.com.tr>,AGPL-3.0-only,1647292,"Serial-to-network bridge with a web UI: raw TCP, telnet, RFC 2217, UDP, Modbus gateway, MQTT"
+2026-11-13T17:38:45Z,cptso,0.0.1,,,2198,CPTSO - placeholder for the upcoming release. The real package starts at 0.1.0.
+2026-11-13T17:41:48Z,aictem,0.1.0,,MIT,127299,"Discover repository, dependency, container, cloud and AI assets (providers, agents, RAG, MCP, models) from inside a repository"
+2026-11-13T17:46:13Z,asciicade,0.0.1,pamagister,,243153,Feature-rich Python project template for asciicade.
+2026-11-13T17:47:39Z,nightshift-grid,0.1.1,,Apache-2.0,369105,"Fault-tolerant local AI batch grid that harvests idle laptops and office PCs, and yields to their humans instantly"
+2026-11-13T17:48:29Z,et43,0.1.0,Vyacheslav Mayorov,MIT,26365,Human-friendly Python client for EastTester ET43x LCR meters (ET430-ET433)
+2026-11-13T17:49:49Z,fhirground,1.0.0,Daniel Palacios <danielpalaciosusa2015@hotmail.com>,Apache-2.0,498454,"Grounded, validated FHIR R4 extraction from clinical notes: the LLM emits mentions, deterministic code emits FHIR."
+2026-11-13T17:49:50Z,ehrlint,1.0.0,Daniel Palacios <danielpalaciosusa2015@hotmail.com>,Apache-2.0,501259,Leakage auditor for EHR prediction tasks: lint your clinical prediction task before you train on it.
+2026-11-13T17:55:22Z,stashify-cli,1.3.0,Nicolas Dwi Dharma,MIT,77003,"Find music from your Spotify library on YouTube and save it locally with cover art, lyrics and full metadata."
+2026-11-13T17:56:22Z,crucible-ingestion,0.2.0,,,431437,Metadata parsing from data files into the Crucible Data Platform
+2026-11-13T17:58:44Z,acad-mcp,0.2.0,thurdevv,MIT,200158,MCP server that lets Claude (and other MCP clients) drive a running AutoCAD on Windows via COM
+2026-11-13T17:59:03Z,TranSAMBA,1.0.0.1,Augusto de Lelis Araujo,GNU General Public License v3.0,31057,...
+2026-11-13T17:59:22Z,ci-context-mcp,0.1.0,Dan Holman,MIT,217339,"Read-only MCP server that gives coding assistants GitHub Actions runs, failure summaries, logs, coverage, and PR checks"
+2026-11-13T18:00:00Z,ahmedhakamidev,0.0.1,Ahmed Hakami,,2364,Ahmed Hakami Python Package
+2026-11-13T18:00:51Z,gukhanmun-opendict-fst,0.4.0.dev0,Hong Minhee <hong@minhee.org>,GPL-3.0-or-later AND LicenseRef-CC-BY-SA-2.0-KR,8375885,Open Korean Dictionary FST data for the gukhanmun Python package
+2026-11-13T18:00:55Z,gukhanmun-stdict-cdb,0.4.0.dev0,Hong Minhee <hong@minhee.org>,GPL-3.0-only AND LicenseRef-CC-BY-SA-2.0-KR,23614246,Standard Korean Language Dictionary CDB data for the gukhanmun Python package
+2026-11-13T18:00:59Z,gukhanmun-stdict-fst,0.4.0.dev0,Hong Minhee <hong@minhee.org>,GPL-3.0-only AND LicenseRef-CC-BY-SA-2.0-KR,17217430,Standard Korean Language Dictionary FST data for the gukhanmun Python package
+2026-11-13T18:02:12Z,k8s-servant,0.4.0,The k8s-servant Authors,Apache-2.0,346528,Read-only AI SRE agent for Kubernetes clusters
+2026-11-13T18:03:49Z,mkdocs-sorrow-theme,0.1.0,,MIT,561376,MkDocs theme in the Omarchy Sorrow palette
+2026-11-13T18:05:45Z,shinbot,0.1.0a2,,MIT,11582834,A self-hosted personal assistant powered by Pi Durable
+2026-11-13T18:06:22Z,quorum-engine,0.4.0,Bryan Sparks <bryan@drycanyon.com>,"MIT License Copyright (c) 2026 Bryan Sparks Permission is hereby granted, free of charge, to any pe…",788192,A structured multi-agent deliberation engine for high-stakes decisions
+2026-11-13T18:06:57Z,soterias,0.1.0,,MIT,3437,Install the Soterias Windows/Linux local SDK pilot
+2026-11-13T18:08:23Z,cubepod,0.4.0,CubePlex Maintainers,Apache-2.0,40367,Async-first Python SDK for CubePod (E2B-compatible persistent MicroVM sandboxes)
+2026-11-13T18:10:31Z,kashi,0.0.0,,,1646,reserved
+2026-11-13T18:11:36Z,mongot-standalone-client,0.1.0,,SSPL-1.0,47347,BSON-aware gRPC client for standalone mongot
+2026-11-13T18:11:40Z,survivalserver-studio,0.0.1,Survival Servers,Apache-2.0,5770,Not the package you want: the Survival Servers Studio API client is survivalservers-studio.
+2026-11-13T18:12:33Z,cap,0.0.1,,,1385,Placeholder
+2026-11-13T18:12:39Z,eau,0.0.1,,,1384,Placeholder
+2026-11-13T18:12:46Z,had,0.0.1,,,1384,Placeholder
+2026-11-13T18:12:59Z,leg,0.0.1,,,1383,Placeholder
+2026-11-13T18:14:06Z,agentic-mcp-solver,4.2.0,Stefan Szeider <stefan@szeider.net>,MIT,231079,"LLM-driven constraint solving (SAT, MaxSAT, SMT, CP, ASP) on top of agentic-python-coder"
+2026-11-13T18:14:51Z,langchain-backend-microsandbox,0.1.0,dod-ia,MIT,21516,Microsandbox backend integration for DeepAgents and LangChain.
+2026-11-13T18:15:09Z,embeddings-tumbler,0.10.0,AgentCulture,Apache-2.0,260712,"Visualize embedding space: tumble, lattice and wander through high-dimensional embeddings in a 3-D window."
