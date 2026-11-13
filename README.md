@@ -8,49 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 22:20 UTC
+## Latest list — 2026-11-13 23:20 UTC
 
-New packages created between 2026-11-13 21:20 UTC and 2026-11-13 22:20 UTC.
+New packages created between 2026-11-13 22:20 UTC and 2026-11-13 23:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-13T22-20-44-422178Z.csv)
+[Full CSV](data/new-packages-2026-11-13T23-20-11-236015Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-13 21:24:22 | [hinny](https://pypi.org/project/hinny/) | 0.0.1 |  | 2.3 kB | Hinny: an embedded hybrid search database (full-text, vector and sparse retriev… |
-| 2026-11-13 21:26:33 | [matplotvite](https://pypi.org/project/matplotvite/) | 0.6.0 | Gautier Portet <kassoulet@gma… | 35.2 MB | Matplotlib-style static plots rendered in Rust, with numpy as the only Python d… |
-| 2026-11-13 21:26:38 | [pyccp](https://pypi.org/project/pyccp/) | 0.10.0 | Vladimir Petrigo <vladimir.pe… | 23.4 kB | CAN Calibration Protocol for Python |
-| 2026-11-13 21:27:17 | [text-chipper](https://pypi.org/project/text-chipper/) | 0.2.0 |  | 22.1 MB | Token-budgeted, Markdown-aware text chunking for RAG and LLM pipelines, with pl… |
-| 2026-11-13 21:27:44 | [tradify-mcp](https://pypi.org/project/tradify-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 19.7 kB | Connect Tradify to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a… |
-| 2026-11-13 21:29:27 | [macore-client-dev](https://pypi.org/project/macore-client-dev/) | 0.1.54 |  | 14.1 kB | Client for the Model Access Core (MAC) server |
-| 2026-11-13 21:29:38 | [tax-engine](https://pypi.org/project/tax-engine/) | 0.1.0 | Umar Khan <The-Pied-Piper@use… | 1.0 MB | Open-source personal income tax calculation engine in Python. Every number is a… |
-| 2026-11-13 21:30:30 | [folderlake](https://pypi.org/project/folderlake/) | 0.2.1 |  | 802.4 kB | Point it at a folder. Know what's in it. A local file catalog with topics, meta… |
-| 2026-11-13 21:32:26 | [nexus-llmops](https://pypi.org/project/nexus-llmops/) | 0.1.0 | Sankalp Rajeev <srajeev@umich… | 39.0 kB | Python SDK for Nexus: fail-open agent tracing for the Nexus failure-detection a… |
-| 2026-11-13 21:33:15 | [fakesound](https://pypi.org/project/fakesound/) | 0.0.0 |  | 34.2 kB |  |
-| 2026-11-13 21:36:22 | [warrantgen](https://pypi.org/project/warrantgen/) | 0.1.1 |  | 191.5 kB | Infer least-privilege Tenuo warrants from recorded agent tool calls |
-| 2026-11-13 21:39:46 | [sc-decidr](https://pypi.org/project/sc-decidr/) | 0.1.0 |  | 15.4 MB | The sc-agent Python API: send TypeSafe (Jev) decision requests, list models, ru… |
-| 2026-11-13 21:39:57 | [sitr](https://pypi.org/project/sitr/) | 0.1.0 |  | 6.4 MB | Load tree-sitter grammars and run any query against them. |
-| 2026-11-13 21:40:21 | [canbiplotme](https://pypi.org/project/canbiplotme/) | 0.3.0 | Carlos Freire-Cadme <cfreirec… | 3.2 MB | Canonical biplot for grouped estimates measured with error (Python port of the… |
-| 2026-11-13 21:40:46 | [biplotpy](https://pypi.org/project/biplotpy/) | 0.4.0 | Carlos Freire-Cadme <cfreirec… | 1.5 MB | Biplots for Python, ported from R and validated against it: classical and HJ, c… |
-| 2026-11-13 21:44:54 | [code-analysis-client-dev](https://pypi.org/project/code-analysis-client-dev/) | 1.6.341 | Vasiliy Zdanovskiy <vasilyvz@… | 100.4 kB | Async JSON-RPC client for the code-analysis MCP server (mcp-proxy-adapter JsonR… |
-| 2026-11-13 21:45:21 | [plex-renamer](https://pypi.org/project/plex-renamer/) | 1.0.0 | Agustin Gonzalez Nicolini | 164.1 kB | Renames a local media volume to the naming standard Plex publishes, with a SQLi… |
-| 2026-11-13 21:45:33 | [strathora-asof](https://pypi.org/project/strathora-asof/) | 0.5.0 | Strathora | 558.4 kB | Time-lock connector for AI agents: see only what was knowable at time T, with a… |
-| 2026-11-13 21:45:35 | [deltakit-maestro](https://pypi.org/project/deltakit-maestro/) | 0.1.0 | Qoro Quantum <team@qoroquantu… | 263.2 kB | Qoro Maestro simulator backend for Riverlane Deltakit QEC circuits |
-| 2026-11-13 21:47:15 | [rightnow-sdk](https://pypi.org/project/rightnow-sdk/) | 0.5.0 | RightNow AI, Inc. | 237.0 kB | RightNow decision model API client with typed decisions and client-side workflo… |
-| 2026-11-13 21:50:26 | [leeuwenhoek](https://pypi.org/project/leeuwenhoek/) | 0.1.0 | Manuel-Espinosa | 350.4 kB | Embedded debugging panel for Flask |
-| 2026-11-13 21:56:02 | [mapdiff](https://pypi.org/project/mapdiff/) | 0.1.0 |  | 16.3 MB | Review a change on a map of your code: diffs by function and type, drawn with w… |
-| 2026-11-13 21:57:08 | [tidal-playlist-manager](https://pypi.org/project/tidal-playlist-manager/) | 1.3.1 | magicclue | 141.1 kB | A modern TIDAL & Spotify Playlist Manager: Read, create, rename playlists, and… |
-| 2026-11-13 21:57:19 | [agent-policy-cli](https://pypi.org/project/agent-policy-cli/) | 0.7.0 | Cameron Brooks | 28.3 MB | Schema-first generator for coding-agent repo policies and compatibility files. |
-| 2026-11-13 21:58:19 | [sagecoders-events](https://pypi.org/project/sagecoders-events/) | 0.1.0 |  | 15.2 kB | SDK SageEvents (bus d'événements SageCoders) : publier, s'abonner, recevoir une… |
-| 2026-11-13 21:59:03 | [sagecoders-auth](https://pypi.org/project/sagecoders-auth/) | 0.2.0 |  | 33.8 kB | SDK SageAuth (comptes SageCoders) : vérification des jetons, rôles, connexion O… |
-| 2026-11-13 21:59:19 | [fastknill](https://pypi.org/project/fastknill/) | 0.2.0 | Danillo Barros de Souza | 335.6 kB | Fast computation of Euler characteristics and Knill curvature from networks |
-| 2026-11-13 21:59:51 | [verified-nondim](https://pypi.org/project/verified-nondim/) | 0.1.0 | Will Mitchell | 269.6 kB | Nondimensionalize ODE models automatically, with certificates that Lean 4 checks |
-| 2026-11-13 22:00:33 | [boaviztapi-mcp](https://pypi.org/project/boaviztapi-mcp/) | 0.1.0 | malikmalikayesha | 123.8 kB | MCP server that lets AI assistants estimate the environmental footprint of clou… |
-| 2026-11-13 22:00:37 | [pipecat-synthesia](https://pypi.org/project/pipecat-synthesia/) | 1.0.0 | Synthesia | 258.3 kB | Synthesia Interactive Avatar for Pipecat pipelines |
-| 2026-11-13 22:00:37 | [pydebt](https://pypi.org/project/pydebt/) | 0.1.1 | Eduardo Amorim Pereira <eduar… | 17.1 kB | Measurable technical debt for Python projects |
-| 2026-11-13 22:02:24 | [openhound-saml-producer](https://pypi.org/project/openhound-saml-producer/) | 0.4.6rc1 | Jim Sykora <jsykora@specterop… | 141.1 kB | Contract-conformant OpenGraph SAML node and edge builders for OpenHound extensi… |
-| 2026-11-13 22:11:37 | [priemka](https://pypi.org/project/priemka/) | 1.0.2 | Balanov.PRO | 55.8 kB | Acceptance gates for AI systems: prove the answer is right, safe and fast befor… |
-| 2026-11-13 22:12:05 | [caltrain-api](https://pypi.org/project/caltrain-api/) | 1.0.1 | Joe Sinnott <joe@jsinnott.net> | 305.7 kB | Caltrain schedules and train positions (lat/lon, milepost, and plain-English) f… |
-| 2026-11-13 22:13:52 | [csvidx](https://pypi.org/project/csvidx/) | 0.1.0 |  | 401.4 kB | Secondary index for huge CSV files: look up rows by key without importing |
-| 2026-11-13 22:14:48 | [twinsmith](https://pypi.org/project/twinsmith/) | 0.0.1 | Kaleb Coleman | 3.8 kB | MCP server for building robot digital twins with Isaac Sim and Isaac Lab (early… |
-| 2026-11-13 22:20:09 | [pinely-sdk](https://pypi.org/project/pinely-sdk/) | 0.1.0b1 | PINELY Engineering | 35.7 kB | PINELY Python SDK: EIP-712 signing and HTTP 402 payments for autonomous machine… |
-| 2026-11-13 22:20:24 | [ailogger-client-dev](https://pypi.org/project/ailogger-client-dev/) | 0.1.51 | Vasiliy Zdanovskiy <vasilyvz@… | 108.3 kB | Published client of the ai-logger dialogue service - a typed wrapper over the m… |
+| 2026-11-13 22:22:11 | [qpel](https://pypi.org/project/qpel/) | 0.0.0 | Alex Shatalov | 10.0 kB | Placeholder for the qpel project; the first release is not out yet. |
+| 2026-11-13 22:22:38 | [cutcells](https://pypi.org/project/cutcells/) | 0.5.0 | Susanne Claus <susanne.claus@… | 38.2 MB | Cut-cell geometry and quadrature for level set meshes (CutFEM, unfitted FEM) |
+| 2026-11-13 22:26:10 | [py-code-org](https://pypi.org/project/py-code-org/) | 0.1.2 |  | 24.2 kB | Find which PyPI packages use a module, function or class, from the command line… |
+| 2026-11-13 22:28:08 | [kannaka-quantum](https://pypi.org/project/kannaka-quantum/) | 0.2.10 |  | 284.4 kB | Real quantum + qBraid Lab infrastructure capabilities for Kannaka via qBraid (f… |
+| 2026-11-13 22:28:29 | [pymdf4-rs](https://pypi.org/project/pymdf4-rs/) | 0.2.0 | Martin Bammer <mrbm74@gmail.c… | 13.3 MB | A Python library for parsing and generating MDF4 files using Rust mdf4-rs |
+| 2026-11-13 22:29:56 | [youtube-playlist-download](https://pypi.org/project/youtube-playlist-download/) | 0.2.0 | Tahsin Soyak | 5.1 MB | Fast, lightweight local web UI and CLI to archive public and private YouTube pl… |
+| 2026-11-13 22:36:51 | [dlt-hardcharger](https://pypi.org/project/dlt-hardcharger/) | 1.0.0 | GizmoData <support@gizmodata.… | 215.1 kB | dlt destination for Hardcharger, GizmoData's DuckDB 2.0 server |
+| 2026-11-13 22:41:54 | [namecheap-python-sdk](https://pypi.org/project/namecheap-python-sdk/) | 0.1.0 | qiyascc <qiyasturk@gmail.com> | 46.9 kB | A typed Python client for the Namecheap Domains and DNS API, sync and async. |
+| 2026-11-13 22:41:57 | [hostinger-python-sdk](https://pypi.org/project/hostinger-python-sdk/) | 0.1.0 | qiyascc <qiyasturk@gmail.com> | 41.6 kB | A typed Python client for the Hostinger Domains and DNS API, sync and async. |
+| 2026-11-13 22:43:01 | [contextpackage](https://pypi.org/project/contextpackage/) | 0.0.1 | Michelle Winters <michelle@kn… | 2.5 kB | Reserved for the ContextPackage library: scoped, attributable context for AI ag… |
+| 2026-11-13 22:45:14 | [rulestamp-pekko-migration-gate](https://pypi.org/project/rulestamp-pekko-migration-gate/) | 1.0.1 | Rulestamp <support@getreadyst… | 37.0 kB | Pekko migration check: Akka 2.9.x is BSL 1.1 until at least 2026-10-23, Akka 2.… |
+| 2026-11-13 22:45:23 | [rulestamp-hardcoded-credential-audit](https://pypi.org/project/rulestamp-hardcoded-credential-audit/) | 0.1.6 | Rulestamp <support@getreadyst… | 32.7 kB | Open any config file and see every hardcoded credential — and every setting tha… |
+| 2026-11-13 22:45:40 | [rulestamp-hmrc-fraud-prevention-header-lint](https://pypi.org/project/rulestamp-hmrc-fraud-prevention-header-lint/) | 0.1.6 | Rulestamp <support@getreadyst… | 31.8 kB | Finds the Gov-Client and Gov-Vendor header mistakes HMRC rejects, in your edito… |
+| 2026-11-13 22:45:58 | [rulestamp-immowertv-gutachten-lint](https://pypi.org/project/rulestamp-immowertv-gutachten-lint/) | 1.0.3 | Rulestamp <support@getreadyst… | 33.7 kB | Findet veraltete Normen und Modellwerte in Verkehrswertgutachten — 13 Regeln (b… |
+| 2026-11-13 22:46:09 | [do-not-drop](https://pypi.org/project/do-not-drop/) | 0.1.0 | Antony Arevalo | 5.2 kB | Do-Not-Drop is a package for preventing AI agents and developers from deleting,… |
+| 2026-11-13 22:46:21 | [medawar](https://pypi.org/project/medawar/) | 0.1.0 |  | 81.2 kB | Review your scientific papers from the terminal with Medawar |
+| 2026-11-13 22:49:13 | [cortex-graph-memory](https://pypi.org/project/cortex-graph-memory/) | 1.0.0 |  | 24.5 kB | Lean persistent graph memory MCP server for AI coding agents |
+| 2026-11-13 22:50:41 | [skool-mcp](https://pypi.org/project/skool-mcp/) | 1.1.0 | Cotlet <contact@cotlet.dev> | 307.1 kB | Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from… |
+| 2026-11-13 22:53:52 | [quoll-cli](https://pypi.org/project/quoll-cli/) | 0.2.0 | theo-mrn <theo.morin1402@gmai… | 454.3 kB | Production-grade CI, Dockerfiles, Helm charts and delivery for any repository,… |
+| 2026-11-13 22:55:37 | [kannaka-lens](https://pypi.org/project/kannaka-lens/) | 0.1.0 |  | 41.8 kB | Media perception that runs on the hardware we actually have |
+| 2026-11-13 22:55:42 | [power-k-means](https://pypi.org/project/power-k-means/) | 0.1.0 |  | 15.2 MB | Power k-means clustering (Xu & Lange, ICML 2019) in C++ with a Cython binding |
+| 2026-11-13 22:56:43 | [kannaka-grid](https://pypi.org/project/kannaka-grid/) | 0.1.0 |  | 376.4 kB | thegrid artificial-life colony as a Kannaka constellation engine |
+| 2026-11-13 22:57:31 | [plata-sdk](https://pypi.org/project/plata-sdk/) | 0.2.0 |  | 77.0 MB | Plata for programs and AI assistants: post-quantum payments, final in seconds,… |
+| 2026-11-13 22:57:39 | [singularis-rf](https://pypi.org/project/singularis-rf/) | 0.1.0 |  | 82.6 kB | Singularis Prime over amateur-radio text modes: RX-only Singularis Compact stat… |
+| 2026-11-13 22:58:25 | [musclemap-mlx](https://pypi.org/project/musclemap-mlx/) | 0.1.0 | Joseph Sandoval, Alfredo Sand… | 61.0 kB | Segment 113 whole-body muscle and bone structures with MuscleMap v1.4 and nativ… |
+| 2026-11-13 22:58:49 | [waymark-cli](https://pypi.org/project/waymark-cli/) | 0.1.0 | Noah Roberts | 424.5 kB | Spec-driven development for developers who stay in charge of their project whil… |
+| 2026-11-13 22:59:11 | [fast-nvim-release](https://pypi.org/project/fast-nvim-release/) | 0.12.1 | fast-nvim-release contributors | 92.9 MB | Neovim from PyPI: pip install "fast-nvim-release==0.12.*", then one setup comma… |
+| 2026-11-13 22:59:20 | [livekit-plugins-realtimevad](https://pypi.org/project/livekit-plugins-realtimevad/) | 0.1.0 | Kolja Beigel | 50.0 kB | Start a LiveKit Agents reply at the user's pause: RealtimeVAD as a VAD plugin a… |
+| 2026-11-13 23:00:58 | [enigmata-policy](https://pypi.org/project/enigmata-policy/) | 0.0.0a0 | Enigmata, Inc. | 912 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-11-13 23:01:02 | [django-cc-sightline](https://pypi.org/project/django-cc-sightline/) | 0.2.0 | Qiyas Sadıqov <qiyasturk@gmai… | 78.2 kB | Click heatmaps, scroll maps and session replay for Django, with an admin panel… |
+| 2026-11-13 23:01:03 | [openavl](https://pypi.org/project/openavl/) | 1.0.0 | danielenriquez59 | 486.1 kB | Python port of the AVL vortex lattice code, matching Fortran AVL 3.52 except fo… |
+| 2026-11-13 23:01:38 | [xssmap](https://pypi.org/project/xssmap/) | 2.8.1 | Ian Mattas | 520.7 kB | Context-aware XSS scanner: crawler, browser verification, mXSS, charset and sto… |
+| 2026-11-13 23:03:20 | [resume-swallow](https://pypi.org/project/resume-swallow/) | 0.1.1 | Chandler <275737875@qq.com> | 101.2 kB | 批量简历格式化工具 - 将各种格式简历转化为结构化Excel |
+| 2026-11-13 23:04:09 | [spaday-collaboration](https://pypi.org/project/spaday-collaboration/) | 0.1.0 | the spaday-collaboration auth… | 13.0 kB | Alias for spaday-collab |
+| 2026-11-13 23:06:55 | [uxrdlook](https://pypi.org/project/uxrdlook/) | 0.1.0 | Alexander von Reppert <repper… | 120.4 kB | Quick-look plots for time-resolved X-ray diffraction data recorded with nx5d (P… |
+| 2026-11-13 23:08:59 | [pymodaq_plugins_owis](https://pypi.org/project/pymodaq_plugins_owis/) | 5.3.0 | Jérémie Margueritat <jeremie.… | 102.1 kB | PyMoDAQ plugin for OWIS positioning units driven by PS 10 control units |
+| 2026-11-13 23:12:41 | [secondshift](https://pypi.org/project/secondshift/) | 0.1.0b12 |  | 741.3 kB | Unattended agent jobs for your team, defined in Git. |
+| 2026-11-13 23:12:58 | [coin-addresses](https://pypi.org/project/coin-addresses/) | 2026.11.14 | The btclib developers | 619.4 kB | Cryptocurrency addresses from public keys, and their validation |
+| 2026-11-13 23:14:01 | [spaday-collab](https://pypi.org/project/spaday-collab/) | 0.1.0 | 1kbgz <dev@1kbgz.com> | 89.9 kB | Shared pointers and presence for spaday |
+| 2026-11-13 23:15:19 | [pythonai-grounded-generator](https://pypi.org/project/pythonai-grounded-generator/) | 0.1.0 |  | 8.4 kB | Lightweight grounded text generation from retrieved context |
+| 2026-11-13 23:17:05 | [powerdev](https://pypi.org/project/powerdev/) | 0.1.0 | PowerDev <helpdesk@power.dev> | 39.0 kB | Official Python client for the PowerDev Data API v2 |
+| 2026-11-13 23:18:51 | [omnesight](https://pypi.org/project/omnesight/) | 1.1.0 | Omnesight Infrastructure Team… | 29.2 kB | Official Python SDK for Omnesight Sovereign Operational Intelligence & Autonomo… |

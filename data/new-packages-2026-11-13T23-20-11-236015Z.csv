@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T22:22:11Z,qpel,0.0.0,Alex Shatalov,Apache-2.0,9956,Placeholder for the qpel project; the first release is not out yet.
+2026-11-13T22:22:38Z,cutcells,0.5.0,Susanne Claus <susanne.claus@onera.fr>,MIT AND BSD-3-Clause,38165474,"Cut-cell geometry and quadrature for level set meshes (CutFEM, unfitted FEM)"
+2026-11-13T22:26:10Z,py-code-org,0.1.2,,MIT,24215,"Find which PyPI packages use a module, function or class, from the command line or as an MCP server."
+2026-11-13T22:28:08Z,kannaka-quantum,0.2.10,,"SPACE CHILD LICENSE =================== Version 1.0, March 2026 ----------------------- Preamble Th…",284379,Real quantum + qBraid Lab infrastructure capabilities for Kannaka via qBraid (free simulator) and OpenQuantum (real QPUs) — a CLI bridge for the coding agent and an MCP server for any agent.
+2026-11-13T22:28:29Z,pymdf4-rs,0.2.0,Martin Bammer <mrbm74@gmail.com>,MIT OR Apache-2.0,13314775,A Python library for parsing and generating MDF4 files using Rust mdf4-rs
+2026-11-13T22:29:56Z,youtube-playlist-download,0.2.0,Tahsin Soyak,MIT,5055540,"Fast, lightweight local web UI and CLI to archive public and private YouTube playlists as high-quality MP3/Opus/M4A with yt-dlp."
+2026-11-13T22:36:51Z,dlt-hardcharger,1.0.0,GizmoData <support@gizmodata.com>,Apache-2.0,215086,"dlt destination for Hardcharger, GizmoData's DuckDB 2.0 server"
+2026-11-13T22:41:54Z,namecheap-python-sdk,0.1.0,qiyascc <qiyasturk@gmail.com>,MIT,46898,"A typed Python client for the Namecheap Domains and DNS API, sync and async."
+2026-11-13T22:41:57Z,hostinger-python-sdk,0.1.0,qiyascc <qiyasturk@gmail.com>,MIT,41620,"A typed Python client for the Hostinger Domains and DNS API, sync and async."
+2026-11-13T22:43:01Z,contextpackage,0.0.1,Michelle Winters <michelle@knowlit.org>,Apache-2.0,2534,"Reserved for the ContextPackage library: scoped, attributable context for AI agents, with its limitations attached. In development."
+2026-11-13T22:45:14Z,rulestamp-pekko-migration-gate,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37021,"Pekko migration check: Akka 2.9.x is BSL 1.1 until at least 2026-10-23, Akka 2.8.8 until 2027-10-28 — each Akka release has its own Change Date. (bundled Node.js runtime)"
+2026-11-13T22:45:23Z,rulestamp-hardcoded-credential-audit,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32691,"Open any config file and see every hardcoded credential — and every setting that quietly undoes your encryption — with the line number and the reason. 30 checks, 30 safe-config snippets, offline in t…"
+2026-11-13T22:45:40Z,rulestamp-hmrc-fraud-prevention-header-lint,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,31844,"Finds the Gov-Client and Gov-Vendor header mistakes HMRC rejects, in your editor, offline, before you send the request. (bundled Node.js runtime)"
+2026-11-13T22:45:58Z,rulestamp-immowertv-gutachten-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33661,Findet veraltete Normen und Modellwerte in Verkehrswertgutachten — 13 Regeln (bundled Node.js runtime)
+2026-11-13T22:46:09Z,do-not-drop,0.1.0,Antony Arevalo,MIT,5242,"Do-Not-Drop is a package for preventing AI agents and developers from deleting, dropping or truncating tables by mistake."
+2026-11-13T22:46:21Z,medawar,0.1.0,,,81175,Review your scientific papers from the terminal with Medawar
+2026-11-13T22:49:13Z,cortex-graph-memory,1.0.0,,,24505,Lean persistent graph memory MCP server for AI coding agents
+2026-11-13T22:50:41Z,skool-mcp,1.1.0,Cotlet <contact@cotlet.dev>,Elastic-2.0,307085,"Self-hosted Skool API and MCP server on your own Chrome session. Use Skool from Claude, Cursor, Codex or any MCP client or AI agent."
+2026-11-13T22:53:52Z,quoll-cli,0.2.0,theo-mrn <theo.morin1402@gmail.com>,MIT,454346,"Production-grade CI, Dockerfiles, Helm charts and delivery for any repository, kept in sync with one quoll.toml"
+2026-11-13T22:55:37Z,kannaka-lens,0.1.0,,,41764,Media perception that runs on the hardware we actually have
+2026-11-13T22:55:42Z,power-k-means,0.1.0,,MIT,15199913,"Power k-means clustering (Xu & Lange, ICML 2019) in C++ with a Cython binding"
+2026-11-13T22:56:43Z,kannaka-grid,0.1.0,,,376379,thegrid artificial-life colony as a Kannaka constellation engine
+2026-11-13T22:57:31Z,plata-sdk,0.2.0,,Free to use. Code not public. All rights reserved.,77031584,"Plata for programs and AI assistants: post-quantum payments, final in seconds, never sent twice"
+2026-11-13T22:57:39Z,singularis-rf,0.1.0,,SEE LICENSE IN LICENSE,82570,Singularis Prime over amateur-radio text modes: RX-only Singularis Compact station (Direwolf/JS8Call → NATS)
+2026-11-13T22:58:25Z,musclemap-mlx,0.1.0,"Joseph Sandoval, Alfredo Sandoval Jr.",MIT,60962,Segment 113 whole-body muscle and bone structures with MuscleMap v1.4 and native MLX
+2026-11-13T22:58:49Z,waymark-cli,0.1.0,Noah Roberts,MIT,424503,Spec-driven development for developers who stay in charge of their project while agents write the code.
+2026-11-13T22:59:11Z,fast-nvim-release,0.12.1,fast-nvim-release contributors,MIT,92850442,"Neovim from PyPI: pip install ""fast-nvim-release==0.12.*"", then one setup command."
+2026-11-13T22:59:20Z,livekit-plugins-realtimevad,0.1.0,Kolja Beigel,MIT,49960,"Start a LiveKit Agents reply at the user's pause: RealtimeVAD as a VAD plugin and a speculative STT wrapper (community plugin, not made by LiveKit)"
+2026-11-13T23:00:58Z,enigmata-policy,0.0.0a0,"Enigmata, Inc.",,912,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-11-13T23:01:02Z,django-cc-sightline,0.2.0,Qiyas Sadıqov <qiyasturk@gmail.com>,MIT,78215,"Click heatmaps, scroll maps and session replay for Django, with an admin panel and a live overlay."
+2026-11-13T23:01:03Z,openavl,1.0.0,danielenriquez59,GPL-2.0-or-later,486067,"Python port of the AVL vortex lattice code, matching Fortran AVL 3.52 except for documented fixes"
+2026-11-13T23:01:38Z,xssmap,2.8.1,Ian Mattas,MIT,520721,"Context-aware XSS scanner: crawler, browser verification, mXSS, charset and stored-XSS stages"
+2026-11-13T23:03:20Z,resume-swallow,0.1.1,Chandler <275737875@qq.com>,,101154,批量简历格式化工具 - 将各种格式简历转化为结构化Excel
+2026-11-13T23:04:09Z,spaday-collaboration,0.1.0,the spaday-collaboration authors <t.paine154@gmail.com>,Apache-2.0,13002,Alias for spaday-collab
+2026-11-13T23:06:55Z,uxrdlook,0.1.0,Alexander von Reppert <reppert@uni-potsdam.de>,MIT,120427,"Quick-look plots for time-resolved X-ray diffraction data recorded with nx5d (PXS, KMC3-XPP)"
+2026-11-13T23:08:59Z,pymodaq_plugins_owis,5.3.0,Jérémie Margueritat <jeremie.margueritat@univ-lyon1.fr>,The MIT License (MIT) Copyright (c) 2021 Sebastien Weber <sebastien.weber@cemes.fr> Permission is h…,102067,PyMoDAQ plugin for OWIS positioning units driven by PS 10 control units
+2026-11-13T23:12:41Z,secondshift,0.1.0b12,,Apache-2.0,741280,"Unattended agent jobs for your team, defined in Git."
+2026-11-13T23:12:58Z,coin-addresses,2026.11.14,The btclib developers,MIT,619377,"Cryptocurrency addresses from public keys, and their validation"
+2026-11-13T23:14:01Z,spaday-collab,0.1.0,1kbgz <dev@1kbgz.com>,Apache-2.0,89854,Shared pointers and presence for spaday
+2026-11-13T23:15:19Z,pythonai-grounded-generator,0.1.0,,,8414,Lightweight grounded text generation from retrieved context
+2026-11-13T23:17:05Z,powerdev,0.1.0,PowerDev <helpdesk@power.dev>,MIT,39003,Official Python client for the PowerDev Data API v2
+2026-11-13T23:18:51Z,omnesight,1.1.0,Omnesight Infrastructure Team <solutions@omnesight.com>,Apache-2.0,29204,Official Python SDK for Omnesight Sovereign Operational Intelligence & Autonomous Execution Infrastructure
