@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T06:18:03Z,scirex,1.0.0,"""ZenteiQ AiTech Innovations Pvt. Ltd."" <research@zenteiq.ai>",LGPL-3.0-only,934479,Production-grade JAX/Flax neural operators for scientific machine learning.
+2026-11-13T06:21:57Z,server-handbook,0.1.0,Server Handbook contributors,MIT,124495,"Durable server context, deployment registry, and tracked operations for humans and AI agents"
+2026-11-13T06:23:56Z,phm-molcheck,1.0.0,PHM-Audit,MIT,17115,"Deterministic physical-validity gate for AI-generated molecular/protein structures (PDB-level, no RDKit required)."
+2026-11-13T06:28:55Z,beehave-bt,0.4.0,Erwin Lejeune,Apache-2.0,165196,"Reads robot behavior trees (BehaviorTree.CPP v3 and v4, py_trees) and shows only the actions your robot can take, in order, with the conditions that lead to each one."
+2026-11-13T06:30:00Z,inference-deployment,999.9.9,,,963,Stub package that mitigates Dependency Confusion attacks
+2026-11-13T06:30:10Z,niisa,0.0.1,,Apache-2.0,10545,"Niisa, an agent-native planning engine (placeholder; first release coming)"
+2026-11-13T06:32:00Z,co-agent-coder,0.1.0,Lyle Okoth,Apache-2.0,407656,"A private AI coding agent for the free Google Colab T4: local 7B model, git-backed memory, reviewable branches."
+2026-11-13T06:33:30Z,slugread,0.1.0,VinsOrl,MIT,6193,"Tiny zero-dependency text helpers: slugify, truncate, word_count, reading_time."
+2026-11-13T06:35:58Z,oncely,0.1.0,,MIT,69984,Idempotency keys and a transactional outbox for async SQLAlchemy and Postgres.
+2026-11-13T06:39:42Z,py-meta-agent,0.1.0,,,106803,A YAML-defined agent network compiler built on LangGraph.
+2026-11-13T06:40:37Z,indiebiz-evidence,0.6.1,,MIT,126792,"Cross-check collected information across sources before calling it an answer: provenance, agreement, anomalies, and a zero-dependency MCP server"
+2026-11-13T06:41:57Z,travel-agent-tools,1.0.0,Travel Agent Team,MIT,64973,旅行特工队 - 工具层：面向智能旅行规划的 MCP 工具集（华为ICT创新赛）
+2026-11-13T06:43:11Z,terset,0.2.1,"TrueWear, LLC",MIT,27985,"Encode JSON records as compact, typed tables."
+2026-11-13T06:43:17Z,stable-envs,0.1.0,"Randall Balestriero, Sami BuGhanem",MIT AND LGPL-2.1-or-later,2056517,Fast and Reproducible Environments with Controllable Variations
+2026-11-13T06:45:52Z,kes-tools-sdk,0.1.0,,Apache-2.0,98840,Python SDK for kes-tools: turn PDFs and Kurzweil 3000 .kes files into .kes files with Datalab OCR
+2026-11-13T06:46:54Z,et-sdk,0.1.0,,MIT,27384,"SDK Python cho system tích hợp Event Transporter: envelope, publisher có retry, consumer theo type, Token API client, outbox"
+2026-11-13T06:47:10Z,django-pwned-passwords-ng,6.0.0,"Jamie Counsell, Sean Meyer",MIT,15993,A Django password validator that checks Troy Hunt's PWNED Passwords API to see if a password has been involved in a major security breach before.
+2026-11-13T06:47:31Z,lora-preflight,0.2.0,LeeGyeongPil,MIT,1196552,"Check a PEFT LoRA adapter against vLLM, llama.cpp and Ollama before you serve it. No GPU, no weight download."
+2026-11-13T06:48:34Z,korean-asr-eval,0.1.1,,MIT,606751,"Pin the text-normalization rules behind Korean ASR CER, and see how much they change scores and model rankings (jiwer-based)."
+2026-11-13T06:48:36Z,mcp-brasil-macro,0.1.1,,,298011,"Servidor MCP com dados macroeconômicos oficiais do Brasil (Banco Central, IBGE, Tesouro Nacional, IPEA, MDIC)"
+2026-11-13T06:49:34Z,agentframe-py,0.1.0,Malcolm Miller,Apache-2.0,661935,Define agents with Python. Communicate through A2A. Choose your model host.
+2026-11-13T06:52:17Z,akeratos,0.0.0,,,2093,Placeholder for the Akeratos project. The first release is coming.
+2026-11-13T06:53:35Z,lone-ane,0.1.1,AJ-Gonzalez <aj.gonzalez.dev@gmail.com>,Apache-2.0,110397,LFM3 / LFM2.5 on the Apple Neural Engine
+2026-11-13T06:56:45Z,fscryptography,0.1.0,,LicenseRef-Proprietary,102335,Filesystem-oriented authenticated encryption for files and names
+2026-11-13T06:57:17Z,leanfran,0.6.0,,Apache-2.0,105504,"Run Lean 4 code as Python: a runtime for code generated from Lean's IR, Lean blocks in Python files, and pydantic models for Lean types"
+2026-11-13T06:58:38Z,finlaris,0.0.1,,Proprietary,2821,Reserved package name. The real 'finlaris' is distributed privately by its owner and is never installed from PyPI.
+2026-11-13T06:58:41Z,finlaris-service,0.0.1,,Proprietary,2941,Reserved package name. The real 'finlaris-service' is distributed privately by its owner and is never installed from PyPI.
+2026-11-13T07:01:28Z,hailwire,0.0.0.dev0,,,1755,Reserved package name; project under development.
+2026-11-13T07:02:33Z,verdict-python,0.0.0,sgyaqing,Apache-2.0,2102,"Python SDK for Verdict, the serving engine for System One decision models"
+2026-11-13T07:07:02Z,engg-math-stochastic-systems,0.0.1,Engineering Mathematics,Apache-2.0,5329,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-13T07:07:05Z,engg-math-transfer-functions,0.0.1,Engineering Mathematics,Apache-2.0,5328,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-13T07:07:08Z,engg-math-transform-analysis,0.0.1,Engineering Mathematics,Apache-2.0,5329,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-13T07:07:09Z,engg-math-units,0.0.1,Engineering Mathematics,Apache-2.0,5209,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-13T07:07:53Z,atlasburn,0.1.1,AtlasBurn <contact@atlasburn.com>,Apache-2.0,16795,"Track AI API spend per feature and stop runaway agent loops: route OpenAI, Anthropic, Gemini and other LLM clients through the AtlasBurn Edge Proxy in one line."
+2026-11-13T07:08:49Z,sgl-fa3,0.1.0rc0,,BSD-3-Clause,57403606,FlashAttention-3 forward kernels packaged for SGLang
+2026-11-13T07:15:33Z,phm-relay-guardrail,0.1.0,PHM-Audit,Apache-2.0,20695,"Deterministic physics/bounds guardrail for NVIDIA NeMo Relay tool calls (no LLM, recomputable verdicts)"
+2026-11-13T07:15:47Z,bormeapi,1.0.0,BORME API,MIT,35441,Python client for the BORME API: Spanish company registry data (BORME) over REST
+2026-11-13T07:16:15Z,strands-phm-guard,0.1.0,PHM-Audit,Apache-2.0,10998,Deterministic physics/bounds intervention handler for Strands Agents (no model in the loop)
+2026-11-13T07:16:21Z,gittok,1.0.0,Nathan Voxland,Apache-2.0,9149448,A personal TikTok-style feed for understanding your own codebases
