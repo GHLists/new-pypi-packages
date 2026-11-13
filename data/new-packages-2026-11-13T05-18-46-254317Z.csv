@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T04:23:27Z,mypy-plugins-ally,1.0.0,"""Humberto A. Sanchez II"" <Humberto.A.Sanchez.II@gmail.com>",AGPL-1.0-or-later,33862,Custom mypy plugins for wxPython and Ally projects
+2026-11-13T04:24:09Z,bijoy-unicode,1.0.1,KovaPDF <support@kovapdf.com>,MIT,94326,"Convert Bijoy (SutonnyMJ) Bangla text to Unicode and back. Pure Python, no dependencies. The engine behind kovapdf.com/bijoy-to-unicode."
+2026-11-13T04:24:12Z,nolang-mcp-stdio,0.0.2,"Mavericks, inc.",Apache-2.0,13748,Holds this name for NoLang (AI video generation): an MCP server with no video tools that tells the client how to install the official NoLang plugin or MCP connector.
+2026-11-13T04:24:27Z,nolang,0.0.1,"Mavericks, inc.",Apache-2.0,12620,"Official launcher for NoLang (AI video generation, no-lang.com). In Claude Code or Codex, install the plugin instead: claude plugin install nolang --marketplace mvrks-inc/nolang-plugin"
+2026-11-13T04:24:57Z,krutidev-unicode,1.0.1,KovaPDF <support@kovapdf.com>,MIT,94542,"Convert Kruti Dev 010 Hindi text to Unicode and back. Pure Python, no dependencies. The engine behind kovapdf.com/kruti-dev-to-unicode."
+2026-11-13T04:26:14Z,kovapdf,0.1.0,KovaPDF <support@kovapdf.com>,MIT,53964,"The official KovaPDF client for Python: compress, merge, split, convert, read scans, redact, check signatures and send documents for signature. Includes the kovapdf command line tool."
+2026-11-13T04:27:29Z,vsl-maf,0.2.2,,MIT,34268,Microsoft Agent Framework (agent-framework) adapter for VSL (VERBA Specification Language) governance primitives -- implements vsl-core's VSLAdapter conformance contract.
+2026-11-13T04:27:31Z,vsl-langgraph,0.1.2,,MIT,25773,LangGraph adapter for VSL (VERBA Specification Language) governance primitives -- implements vsl-core's VSLAdapter conformance contract.
+2026-11-13T04:27:36Z,vsl-langchain,0.1.2,,MIT,16488,LangChain adapter for VSL (VERBA Specification Language) governance primitives -- implements vsl-core's VSLAdapter conformance contract via create_agent's AgentMiddleware.wrap_tool_call hook.
+2026-11-13T04:27:49Z,dominusnode-composio,2.1.0,,MIT,25836,Composio custom toolkit for the DominusNode AI-agent relay network (19 v2 tools on the dominusnode SDK)
+2026-11-13T04:28:14Z,dominusnode-crewai,2.1.0,,MIT,21831,CrewAI tools for the DominusNode AI-agent relay network (19 v2 tools on the dominusnode SDK)
+2026-11-13T04:28:37Z,dominusnode-dify,2.1.0,,MIT,26213,"DominusNode agent relay network tools for Dify (19 tools, built on the dominusnode SDK)"
+2026-11-13T04:29:00Z,dominusnode-gemini,2.1.0,,MIT,24763,"DominusNode v2 function declarations and handler for Google Gemini / Vertex AI, built on the dominusnode SDK"
+2026-11-13T04:29:10Z,fast-nvim-release,0.2.0,fast-nvim-release contributors,MIT,184767590,"Neovim releases, shipped in a pip wheel: one install, one setup command."
+2026-11-13T04:29:20Z,hatch-native,0.1.0,the hatch-native authors <t.paine154@gmail.com>,Apache-2.0,33883,Shared native-build helpers for hatch plugins
+2026-11-13T04:30:38Z,viseron-qqbotpy,0.4.2,Viseron,MIT,96532,"A modern, asyncio-based Python SDK for the QQ Open Platform Bot API (api-v2)."
+2026-11-13T04:33:51Z,habilmente,0.1.1,Juan Roncancio,MIT,71282,Festivos de Colombia y cálculo de días hábiles con calendarios laborales configurables.
+2026-11-13T04:34:16Z,qnx-porter,0.1.0,The Good Engineers,Apache-2.0,140005,Port open-source C/C++ libraries to QNX 8.0 and prove each port by running the library's own tests on a QNX target
+2026-11-13T04:34:47Z,reproducible-science-ui,0.7.0rc1,Elliot Tower <elliot@elliottower.ai>,MIT,1375131,"Experimental. A local web page over a project's Reproducible Science records: claims, files, runs, quotations and re-runs"
+2026-11-13T04:34:50Z,reproducible-science-pr-bot,0.7.0rc1,Elliot Tower <elliot@elliottower.ai>,MIT,67776,"A pull-request bot that comments on each claim in repro.yaml that fails or went stale, and records the answers"
+2026-11-13T04:35:27Z,evalsize,0.1.0,Meenal Asesh,MIT,35965,How many eval examples do I need? Sample size and power planning for LLM evals
+2026-11-13T04:41:19Z,sprocguard,0.1.1,Jheyson Huarauya Riquelme,MIT,74738,"A safety net for SQL Server stored procedures: capture what a procedure does today, then verify an AI agent (or a human) didn't change it by accident."
+2026-11-13T04:45:56Z,qqbot-md-sdk,0.1.0,MimoKit,MIT,38935,QQ 官方机器人 Markdown 消息构造 SDK
+2026-11-13T04:50:13Z,fasterrag,0.1.0b1,fasterRag maintainers,Apache-2.0,2986147,"Backend-only, all-in-one Retrieval-Augmented Generation framework engineered for very large datasets."
+2026-11-13T04:50:56Z,closient,0.0.1,Closient <support@closient.com>,MIT,2093,Closient — placeholder. SDK coming soon.
+2026-11-13T04:54:04Z,checkergate,0.1.0,,Apache-2.0,397298,"Check what your AI agent says against what its logs show, then find out whether that check can be trusted on your traffic."
+2026-11-13T04:55:20Z,dftracer-modules,2.2.0.post57.dev0,,MIT,43901411,"Prebuilt DFTracer module archives (MPI, HDF5, PAPI, hwloc, HIP, CUDA) for dftracer-compose"
+2026-11-13T05:01:21Z,mkp-python,0.1.1,elvuel,,77800,Python SDK and tools for the MKP serial device protocol
+2026-11-13T05:03:46Z,k11-selenium-qa-mcp,0.2.0,K11 Software Solutions,MIT,83647,"MCP server and Claude Code plugin for Selenium QA in Python and Java: verified locators, user story to tests, and self-healing locators with an audit trail."
+2026-11-13T05:04:25Z,ftqc,0.1.0,,Apache-2.0,30219,Surface-code resource estimation for fault-tolerant quantum computing
+2026-11-13T05:09:06Z,minidb-engine,0.1.0,,,34393,A lightweight educational database engine built in Python.
+2026-11-13T05:11:19Z,kelter,0.3.2,,Apache-2.0,819667,"A small local decision model: calibrated multiple-choice verdicts with evidence spans, a null option and an act/escalate/defer action, served on the /v1/systemone API."
+2026-11-13T05:14:54Z,sourcedrecall,0.6.0,Jon-Paul Cacioli,Apache-2.0,518049,"Memory for AI agents that never calls a language model to store anything: your own dated messages, chosen and labelled by a grammar parser. MCP server and command line."
+2026-11-13T05:15:52Z,flowpydisk,0.0.1,Kashyap Sri Datta M,Apache-2.0,102967,Python SDK for FlowpyDisk
+2026-11-13T05:16:06Z,minifmt,1.3.3,"Adrián E. J. Palma Obispo, Erick J. Palomino Santa Cruz",MIT,108823,"Build domain-specific .mini toolkits from JSON samples: prompts, parsers, validation and repair"
