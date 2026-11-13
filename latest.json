@@ -1,48 +1,27 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-11-13T18:18:38.464604Z",
-    "path": "data/new-packages-2026-11-13T19-20-38-653192Z.csv",
-    "to": "2026-11-13T19:20:38.653192Z"
+    "count": 49,
+    "from": "2026-11-13T19:20:38.653192Z",
+    "path": "data/new-packages-2026-11-13T20-20-09-510269Z.csv",
+    "to": "2026-11-13T20:20:09.510269Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-13T15:45:19Z",
-      "package": "apache-airflow-providers-apache-hbase",
-      "since": "2026-11-13T15:21:33.743527Z",
+      "attempts": 1,
+      "created_at": "2026-11-13T19:28:37Z",
+      "package": "elisa-py",
+      "since": "2026-11-13T19:20:38.653192Z",
       "version": null
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-13T18:57:09Z",
-      "package": "boundri-policy-ir",
-      "since": "2026-11-13T18:18:38.464604Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-13T16:05:58Z",
-      "package": "boundri-sdk",
-      "since": "2026-11-13T15:21:33.743527Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-13T15:37:16Z",
-      "package": "localvoice-ai",
-      "since": "2026-11-13T15:21:33.743527Z",
-      "version": "0.3.1"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-13T15:59:39Z",
-      "package": "voov-exporter",
-      "since": "2026-11-13T15:21:33.743527Z",
+      "created_at": "2026-11-13T19:53:25Z",
+      "package": "knautilus",
+      "since": "2026-11-13T19:20:38.653192Z",
       "version": null
     }
   ],
-  "serial": 43621450,
+  "serial": 43623614,
   "source_truncated": false,
-  "window": "2026-11-13T19:20:38.653192Z"
+  "window": "2026-11-13T20:20:09.510269Z"
 }

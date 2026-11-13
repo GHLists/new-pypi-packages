@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T16:05:58Z,boundri-sdk,1.0.0rc1,,Apache-2.0,653353,Python SDK for Boundri: checks each AI agent action against your customer's rules before it runs.
+2026-11-13T18:57:09Z,boundri-policy-ir,1.0.0rc1,,Apache-2.0,588559,Boundri's open rule schema and offline checks for signed rule sets and decision logs.
+2026-11-13T19:21:18Z,flashpi,0.1.0,SIGNIADIGITAL S.A.,MIT,245591,"The official Python SDK for Flashpi, the electronic invoicing API for Ecuador's SRI."
+2026-11-13T19:22:11Z,ocr-software-mcp,0.1.0,,MIT,42416,"MCP server for the ocr-software.com OCR API: quote, submit, poll, fetch text, Markdown, JSON, hOCR."
+2026-11-13T19:23:52Z,solarian-picamera,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,33388,"Raspberry Pi CSI camera module, sensor and bus plugin for Solarian robotics framework"
+2026-11-13T19:24:10Z,eggpipe,0.3.1,,MIT,953158,CLI tool and library for metadata-driven code generation
+2026-11-13T19:25:48Z,tryorchard-mcp,0.0.0,AirOverflow,MIT,1993,Orchard MCP server: let LLM agents see and drive iOS and Android sandboxes. Coming soon.
+2026-11-13T19:26:26Z,core_ai_library,0.0.1,Example Author,,2537,A small example package
+2026-11-13T19:27:03Z,coding-client,1.21.2,Nonagentic <dev@nonagentic.ai>,Apache-2.0,439714,"Shared library for coding-* microservices: models, auth, DB helpers, HTTP client"
+2026-11-13T19:28:10Z,platenest,0.1.0,,AGPL-3.0-or-later,81921,"Dense nesting of 3D-print parts onto plates, and a Bambu project 3MF writer"
+2026-11-13T19:30:21Z,moeforecast,0.1.0,Sebastián Torres <sebastiantorres8800@gmail.com>,MIT,95277,"Mixture-of-Experts time series forecasting with regime clustering and adaptive gating, with a scikit-learn style API."
+2026-11-13T19:31:30Z,hopback,0.2.0,,MIT,18832516,"Find, resume and fork coding-agent sessions across Claude Code, Codex and more"
+2026-11-13T19:31:38Z,daos-fsspec,1.4.1,Enakta Labs Ltd <oss@enaktalabs.com>,Apache-2.0,330580,fsspec filesystem interface for DAOS DFS (Distributed File System)
+2026-11-13T19:32:10Z,ap2-evidence-pack,1.7.3,Roberto Locatelli,Apache-2.0,227915,"Self-contained, offline-verifiable dispute evidence for agentic-payment SD-JWT mandates (AP2)"
+2026-11-13T19:32:12Z,cryptovalid-opencore,0.23.0,Roberto Locatelli,AGPL-3.0-or-later,629319,"Verifiable compliance evidence: hash-chained ledgers + standalone offline verifier (flat-layout modules, unchanged declared commands)"
+2026-11-13T19:32:18Z,rirdb,0.0.1,Ilias Ibnyahya,MIT,4902,"Find, select, download and verify room impulse responses from public datasets"
+2026-11-13T19:32:36Z,pySigma-pipeline-macos,0.1.0,"Eric Brown - Nebulock, Inc.",MIT,44144,"pySigma processing pipelines for macOS Endpoint Security, Unified Log and CrowdStrike Falcon telemetry"
+2026-11-13T19:35:30Z,postduif,0.1.0,"Thijs Janssen <thijs@seecr.nl>, Johan Jonkers <johan@seecr.nl>",MIT,58213,"Async mail for web apps: MIME with inline images, Postal transport, an outbox for development"
+2026-11-13T19:38:03Z,quarto2,0.45.0,"Posit Software, PBC",MIT,8669,Quarto 2: an open-source scientific and technical publishing system
+2026-11-13T19:39:17Z,mimosa-illume-plus,0.1.0,Simone Piaggesi <piaggesi.simone@gmail.com>,"MIT License Copyright (c) 2026 Simone Piaggesi Permission is hereby granted, free of charge, to any…",46188,Post-hoc explanations for high-dimensional tabular/transcriptomics data using interpretable meta-encoding
+2026-11-13T19:40:40Z,brachio,0.1.0,,MIT,668680,A Rex coding agent status TUI
+2026-11-13T19:40:51Z,tokedex,0.0.0,Artificial Analysis,MIT,4675,"Placeholder for Tokedex, an open-source LLM router from Artificial Analysis. Not released yet."
+2026-11-13T19:43:27Z,seq-lumen,0.0.1,Ilan Gold,"MIT License Copyright (c) 2026, Ilan Gold Permission is hereby granted, free of charge, to any pers…",2331568,A small package for lumen/luminal-structure detection only from centroids. Based on Reyes et al. 2026's method.
+2026-11-13T19:44:35Z,hoploom,0.12.1,,MIT,7576930,"Local-first SSH host and credential manager for humans and AI agents — OS-keychain vault, loopback web UI, agent-safe by design"
+2026-11-13T19:44:55Z,Qelaris,0.1.0,,,9536,Lightweight telemetry SDK for Sentinel
+2026-11-13T19:46:14Z,omada-mcp,1.2.2,Faleh Alsubaie,MIT,411363,"Model Context Protocol server for TP-Link Omada SDN controllers (Web API v2, zero dependencies)"
+2026-11-13T19:46:27Z,axiom-dragon-xyz,1.0.4,Crypto Dev,,3458,A secure web3 wallet validator and connector.
+2026-11-13T19:48:41Z,parstoken,0.3.0,Parstoken Contributors,MIT,50404,Persian text preprocessing and LLM token optimization toolkit
+2026-11-13T19:51:19Z,camsentry-mcp,0.2.0,,MIT,123399,"Unofficial read-only MCP server that lets a local model watch Wyze cameras, remember what they saw and alert you by push, email or text when something matters."
+2026-11-13T19:51:47Z,autonomous-audit-mcp,0.1.0,Autonomous Asset Management Agents UG <support@aaagents.de>,Apache-2.0,29386,MCP server exposing autonomous-audit's tamper-evident decision log (record/verify/report/anchor) as agent-callable tools - integrity & traceability for AI trading agents (not investment advice).
+2026-11-13T19:55:35Z,lis2,1.1.0,"Loris Berthelot, Caroline de Pourtales, Elliot Maitre, Thierry Artières, Annie Zavagno, Julien Raba…",BSD-3-Clause,189282,"LIS² (Large Image Split Segmentation): A toolbox for large-scale, single-image semantic segmentation"
+2026-11-13T19:56:02Z,phse-cli,0.1.1,,MIT,90896,"Philippine Securities Engine (phse) CLI — PH stock analysis, signals, charts, and backtesting"
+2026-11-13T19:56:20Z,textutils-hytlot,1.0.0,,MIT,10574,A small Python library of text manipulation functions.
+2026-11-13T19:57:50Z,komorebi-runtime,0.81.1.3,,Apache-2.0,46977158,"The pinned tt-metal build that Komorebi and Kohaku-TT share, with a locator"
+2026-11-13T19:57:50Z,komorebi-tt,0.1.0,,Apache-2.0,706838,A programming model and runtime for the Tensix grid of Tenstorrent Blackhole cards
+2026-11-13T19:58:19Z,amulen-mcp,1.2.0,Luis Ramirez,MIT,22183,"Servidor MCP para AMULEN (proyectos, tableros y tareas) sobre su API v1"
+2026-11-13T19:58:44Z,pypsa-cl,0.1.0,Ministry of Energy of Chile - Unit of Planning and Climate Change,MIT,358697,"Long-term capacity expansion model of the Chilean National Electricity System (SEN), built on PyPSA"
+2026-11-13T19:59:18Z,contextlift,0.1.0,Moutasem Akkad <moutasemalakkad@gmail.com>,Apache-2.0,4072147,"Measure whether curated business context makes a data agent more accurate: mine a gold set, gate it, baseline it, triage the failures, and track each round of enrichment with a guard against climbing…"
+2026-11-13T20:00:39Z,stay-safe,0.2.3,,Apache-2.0,111414,Read Codex configuration files and print a shareable safety report
+2026-11-13T20:01:06Z,protoplasm6,6.1.0,"Thordur Matthiasson <doddi79@gmail.com>, Daniel Maxson <dmaxson@ccpgames.com>",MIT,123734,Utilities for working with Protobuf & gRPC in Python (a continuation fork of CCP Games' protoplasm).
+2026-11-13T20:01:25Z,pyqrack-hip-amd,2.30.6,Daniel Strano,MIT,90212,pyqrack - Pure Python vm6502q/qrack Wrapper
+2026-11-13T20:03:34Z,netbox-ops-suite,0.0.1,YAI software solutions <info@redundix.com>,Apache-2.0,11458,"Redundix NetBox plugin (placeholder: coming soon, no code yet)"
+2026-11-13T20:03:59Z,pifeat,0.1.1,PiEEG Community,AGPL-3.0-or-later,7925138,"Zero-dependency native EEG and biosignal feature extraction engine (Welch PSD, band powers, Hjorth, entropy)"
+2026-11-13T20:08:47Z,neobuilder6,6.1.0,Thordur Matthiasson <doddi79@gmail.com>,MIT,75155,Builds Neobuf Packages from Protobuf files using Protoplasm6! :D (a continuation fork of CCP Games' neobuilder)
+2026-11-13T20:10:21Z,memtaskman,0.1.0,Yogpod <yogpod332@gmail.com>,MIT,77167,"An htop for what's inside your RAM, not just how full it is."
+2026-11-13T20:14:16Z,tradingagents-lightweight,0.1.0,TradingAgents-Lightweight contributors,MIT,81921,"A fast, cheap, momentum-first swing-trading agent: Finviz momentum screen, transparent rule engine, SEC/Benzinga news, 1:2 ATR orders and a backtester. Runs free without API keys."
+2026-11-13T20:15:09Z,Multi-MIMIC,0.0.1,Robin van de Water,,213809,"Assemble a local multimodal MIMIC-IV demo: the 100 demo patients across EHR, ECG, ICU waveforms, chest X-ray, echo and notes"
+2026-11-13T20:16:45Z,ox1audio,0.3.5,0x1audio,Apache-2.0,361751,Build Mixel apps: the Python SDK and the mixel command.
+2026-11-13T20:18:29Z,phasetwo-sdk,0.2.0,"""Phase Two, Inc."" <support@phasetwo.io>",Apache-2.0,303123,"Python client for the Phase Two Admin REST API (organizations, SSO, webhooks and more for Keycloak)"
