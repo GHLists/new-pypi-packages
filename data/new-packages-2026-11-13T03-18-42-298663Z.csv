@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T02:21:36Z,cmargentina,0.1.0,Emilio Echevarria,MIT,36555,Argentina-inspired colormaps for matplotlib
+2026-11-13T02:29:30Z,fast-nvim-latest,0.1.0,fast-nvim-latest contributors,MIT,72346827,"Neovim, shipped in a pip wheel: one install, one setup command."
+2026-11-13T02:33:52Z,broadlink-magic,0.1.0,BroadLink,MIT,64101,Local LAN protocol for BroadLink Magic Home families
+2026-11-13T02:34:08Z,robot-data-collector-irsl,0.1.0a1,,MIT,351959,Robot episode collection and portable NumPy/HDF5 readers with Grain data loading
+2026-11-13T02:35:50Z,donghuiyun-hotel-utils,1.0.2,donghuiyun,MIT,7875,旅館訂房日期與價格計算工具
+2026-11-13T02:36:55Z,quickreq-pucpx,0.1.0,,,3145,Wrapper rút gọn cú pháp cho thư viện requests
+2026-11-13T02:38:37Z,django-sastry,1.0.0,Krishnamurthy <krishna@globalmultimedia.in>,MIT,100876,A lightweight zero-config dynamic CRUD admin interface and interactive visual Entity Relations (ER) diagram for Django.
+2026-11-13T02:40:58Z,mcp-nap,0.2.0,Ashutosh Sharma,MIT,48537,"Keeps stdio MCP servers asleep until a tool is called, so Claude Code, Cursor and VS Code stop holding idle copies."
+2026-11-13T02:42:58Z,openpinescript,0.1.1.post2,be-thomas,GPL-3.0-or-later,5289907,"Run TradingView Pine Script (v1-v6) locally and offline: indicators, plots and strategy backtests. Python wrapper over the openpinescript engine, no Node install needed."
+2026-11-13T02:44:00Z,huaweicloudsdkdoczip,3.1.222,HuaweiCloud SDK <hwcloudsdk@huawei.com>,Apache-2.0,60531,DocZip
+2026-11-13T02:50:02Z,ms-remote,0.1.0,,MulanPSL-2.0,57485,统一远程节点操作库（HTTP & SSH 双通道），供 msmodeling / OptiX 插件依赖
+2026-11-13T02:53:13Z,navifield,0.0.1,,Apache-2.0,3132,NaviField: a command-line toolbox for running open-source simulation solvers with run records. Early placeholder release.
+2026-11-13T02:55:37Z,website-status-checker-demo,0.1.0,Student Developer,MIT,8690,A simple Python website status checker
+2026-11-13T02:57:44Z,n8n-tidy,0.2.0,,MIT,325271,"Normalize, semantically diff and check n8n workflow exports for git - no n8n instance needed."
+2026-11-13T02:59:27Z,zx-ableton-live-mcp,1.1.0,Zach Howard,MIT,475807,Model Context Protocol (MCP) server for Ableton Live: let AI assistants like Claude read and edit your Live Set.
+2026-11-13T03:02:13Z,idare2,0.1.0,fire3,MIT,477760,"radare2-style CLI over IDA Pro databases, driven by ida-nexus"
+2026-11-13T03:03:04Z,enca-python,0.1.0,Energy Catalyst LLC,MIT,96734,Friendly Python access to your Energy Catalyst heat pump's cloud data
+2026-11-13T03:04:09Z,test-selector,1.0.0,,MIT,135796,覆盖率驱动的精准测试选择器（vllm_ascend / sglang / pytorch 统一架构）
+2026-11-13T03:06:09Z,htmlkit,26.11,Gavin Wiggins,MIT,29818,Write HTML in Python
+2026-11-13T03:10:16Z,pixec-burrow,0.1.0.dev202611130315,Pixec Technologies <oss+burrow@pixec.net>,MIT,269049,"Python client for Burrow, self-hosted microVM sandboxes for running untrusted code"
+2026-11-13T03:10:40Z,eason0602-cf-turnstile-check,0.1.0,Eason0602 <joinwingz0@gmail.com>,MIT,4674,Lightweight Cloudflare Turnstile verification helper
+2026-11-13T03:10:56Z,azure-mgmt-datacollectionruleconfigurationmetadata,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3571,This package will be released in the near future. Stay tuned!

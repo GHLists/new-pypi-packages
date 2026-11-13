@@ -8,32 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 02:21 UTC
+## Latest list — 2026-11-13 03:18 UTC
 
-New packages created between 2026-11-13 01:20 UTC and 2026-11-13 02:21 UTC.
+New packages created between 2026-11-13 02:21 UTC and 2026-11-13 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-13T02-21-15-46122Z.csv)
+[Full CSV](data/new-packages-2026-11-13T03-18-42-298663Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-13 01:22:02 | [apexrunner-tools](https://pypi.org/project/apexrunner-tools/) | 0.1.0 | APEX Runner <267811382+kynto2… | 39.2 kB | LangChain and CrewAI tools for APEX Runner pre-trade crypto signals (risk, exec… |
-| 2026-11-13 01:34:15 | [mammofm](https://pypi.org/project/mammofm/) | 0.1.0 | Batman Lab | 93.8 kB | Research-only mammography diagnosis and image features with Mammo-FM |
-| 2026-11-13 01:42:34 | [haru-speech](https://pypi.org/project/haru-speech/) | 0.1.0 | higurashi | 926.8 kB | Haru: a low-latency, multilingual, full-duplex spoken dialogue model |
-| 2026-11-13 01:44:02 | [zen-anomaly-client](https://pypi.org/project/zen-anomaly-client/) | 0.1.0 | Hank Haines <hankhaines@wellc… | 17.8 kB | Anomaly event contract and client for the zen-space anomaly stream |
-| 2026-11-13 01:45:12 | [haru-speech-mlx](https://pypi.org/project/haru-speech-mlx/) | 0.1.0 | higurashi | 132.4 kB | Haru on Apple silicon: the MLX implementation of the full-duplex spoken dialogu… |
-| 2026-11-13 01:47:14 | [testing1345](https://pypi.org/project/testing1345/) | 0.1.0 | testing1345 contributors | 28.4 kB | Signed-manifest updater for a self-hosted game or app. |
-| 2026-11-13 01:47:59 | [haru-speech-vllm](https://pypi.org/project/haru-speech-vllm/) | 0.1.0 | higurashi | 40.8 kB | Serve Haru with vLLM-Omni |
-| 2026-11-13 01:50:37 | [dcmnorm](https://pypi.org/project/dcmnorm/) | 0.9.0 | Jason Klotzer | 31.5 MB | DICOM read/edit/transcode/render (dcmnorm) and DICOM network (dcmtalk) command-… |
-| 2026-11-13 01:52:45 | [eval-touch-detection](https://pypi.org/project/eval-touch-detection/) | 0.5.0 |  | 5.4 kB | Build touch-detection leaderboard submissions from per-frame predictions |
-| 2026-11-13 01:53:40 | [inventag-aws](https://pypi.org/project/inventag-aws/) | 5.0.0 | InvenTag Contributors | 720.5 kB | AWS resource inventory, tag compliance checks, and Excel/Word BOM reports. Read… |
-| 2026-11-13 01:54:17 | [ada-rs232](https://pypi.org/project/ada-rs232/) | 0.1.0 | RebbePod | 53.4 kB | Async RS-232 control for Audio Design Associates PAC amplifiers |
-| 2026-11-13 01:55:29 | [gatemux-signin](https://pypi.org/project/gatemux-signin/) | 0.1.0 |  | 21.2 kB | Sign in with GateMux: device-code flow and CLI |
-| 2026-11-13 01:55:42 | [drivedex](https://pypi.org/project/drivedex/) | 0.2.0 | hagmit | 84.6 kB | Local, private index of SharePoint / OneDrive / Google Drive with SSO sign-in,… |
-| 2026-11-13 01:57:20 | [qubitlab](https://pypi.org/project/qubitlab/) | 1.0.0 | Pranav Reddy | 3.6 MB | An open-source simulator for learning superconducting qubits: cited theory, che… |
-| 2026-11-13 02:00:27 | [rsgispy](https://pypi.org/project/rsgispy/) | 0.0.1 | Pete Bunting <petebunting@mac… | 255.8 kB | A pure Python replacement for RSGISLib which is easier to install and maintain |
-| 2026-11-13 02:06:30 | [miragea-audiobook](https://pypi.org/project/miragea-audiobook/) | 0.1.0 | miragea-audiobook contributors | 648.3 kB | Open-source AI audiobook maker: turn an EPUB, Markdown or text file into a chap… |
-| 2026-11-13 02:07:15 | [test-python-demo](https://pypi.org/project/test-python-demo/) | 0.1.0 | lcq_test | 8.3 kB | pypi-publish 插件测试用 Python 包 |
-| 2026-11-13 02:09:20 | [trimkit](https://pypi.org/project/trimkit/) | 0.1.0 | Michael Dawson-Haggerty <mike… | 12.3 MB | Thin stable-ABI numpy bindings to mature geometry libraries: rays and boxes, co… |
-| 2026-11-13 02:09:36 | [llamaindex-scrapeless](https://pypi.org/project/llamaindex-scrapeless/) | 0.1.1 |  | 469.9 kB | Scrapeless Python SDK integration for LlamaIndex |
-| 2026-11-13 02:10:49 | [Flask-Pysaml2](https://pypi.org/project/Flask-Pysaml2/) | 2.0 | Serge Domkowski (orig. Kavi C… | 37.6 kB | Flask and pysaml2 integration. |
-| 2026-11-13 02:13:30 | [edgecut](https://pypi.org/project/edgecut/) | 0.1.0 |  | 22.5 kB | Frame-accurate H.264/HEVC clips that copy the video between keyframes and re-en… |
+| 2026-11-13 02:21:36 | [cmargentina](https://pypi.org/project/cmargentina/) | 0.1.0 | Emilio Echevarria | 36.6 kB | Argentina-inspired colormaps for matplotlib |
+| 2026-11-13 02:29:30 | [fast-nvim-latest](https://pypi.org/project/fast-nvim-latest/) | 0.1.0 | fast-nvim-latest contributors | 72.3 MB | Neovim, shipped in a pip wheel: one install, one setup command. |
+| 2026-11-13 02:33:52 | [broadlink-magic](https://pypi.org/project/broadlink-magic/) | 0.1.0 | BroadLink | 64.1 kB | Local LAN protocol for BroadLink Magic Home families |
+| 2026-11-13 02:34:08 | [robot-data-collector-irsl](https://pypi.org/project/robot-data-collector-irsl/) | 0.1.0a1 |  | 352.0 kB | Robot episode collection and portable NumPy/HDF5 readers with Grain data loading |
+| 2026-11-13 02:35:50 | [donghuiyun-hotel-utils](https://pypi.org/project/donghuiyun-hotel-utils/) | 1.0.2 | donghuiyun | 7.9 kB | 旅館訂房日期與價格計算工具 |
+| 2026-11-13 02:36:55 | [quickreq-pucpx](https://pypi.org/project/quickreq-pucpx/) | 0.1.0 |  | 3.1 kB | Wrapper rút gọn cú pháp cho thư viện requests |
+| 2026-11-13 02:38:37 | [django-sastry](https://pypi.org/project/django-sastry/) | 1.0.0 | Krishnamurthy <krishna@global… | 100.9 kB | A lightweight zero-config dynamic CRUD admin interface and interactive visual E… |
+| 2026-11-13 02:40:58 | [mcp-nap](https://pypi.org/project/mcp-nap/) | 0.2.0 | Ashutosh Sharma | 48.5 kB | Keeps stdio MCP servers asleep until a tool is called, so Claude Code, Cursor a… |
+| 2026-11-13 02:42:58 | [openpinescript](https://pypi.org/project/openpinescript/) | 0.1.1.post2 | be-thomas | 5.3 MB | Run TradingView Pine Script (v1-v6) locally and offline: indicators, plots and… |
+| 2026-11-13 02:44:00 | [huaweicloudsdkdoczip](https://pypi.org/project/huaweicloudsdkdoczip/) | 3.1.222 | HuaweiCloud SDK <hwcloudsdk@h… | 60.5 kB | DocZip |
+| 2026-11-13 02:50:02 | [ms-remote](https://pypi.org/project/ms-remote/) | 0.1.0 |  | 57.5 kB | 统一远程节点操作库（HTTP & SSH 双通道），供 msmodeling / OptiX 插件依赖 |
+| 2026-11-13 02:53:13 | [navifield](https://pypi.org/project/navifield/) | 0.0.1 |  | 3.1 kB | NaviField: a command-line toolbox for running open-source simulation solvers wi… |
+| 2026-11-13 02:55:37 | [website-status-checker-demo](https://pypi.org/project/website-status-checker-demo/) | 0.1.0 | Student Developer | 8.7 kB | A simple Python website status checker |
+| 2026-11-13 02:57:44 | [n8n-tidy](https://pypi.org/project/n8n-tidy/) | 0.2.0 |  | 325.3 kB | Normalize, semantically diff and check n8n workflow exports for git - no n8n in… |
+| 2026-11-13 02:59:27 | [zx-ableton-live-mcp](https://pypi.org/project/zx-ableton-live-mcp/) | 1.1.0 | Zach Howard | 475.8 kB | Model Context Protocol (MCP) server for Ableton Live: let AI assistants like Cl… |
+| 2026-11-13 03:02:13 | [idare2](https://pypi.org/project/idare2/) | 0.1.0 | fire3 | 477.8 kB | radare2-style CLI over IDA Pro databases, driven by ida-nexus |
+| 2026-11-13 03:03:04 | [enca-python](https://pypi.org/project/enca-python/) | 0.1.0 | Energy Catalyst LLC | 96.7 kB | Friendly Python access to your Energy Catalyst heat pump's cloud data |
+| 2026-11-13 03:04:09 | [test-selector](https://pypi.org/project/test-selector/) | 1.0.0 |  | 135.8 kB | 覆盖率驱动的精准测试选择器（vllm_ascend / sglang / pytorch 统一架构） |
+| 2026-11-13 03:06:09 | [htmlkit](https://pypi.org/project/htmlkit/) | 26.11 | Gavin Wiggins | 29.8 kB | Write HTML in Python |
+| 2026-11-13 03:10:16 | [pixec-burrow](https://pypi.org/project/pixec-burrow/) | 0.1.0.dev2026111303… | Pixec Technologies <oss+burro… | 269.0 kB | Python client for Burrow, self-hosted microVM sandboxes for running untrusted c… |
+| 2026-11-13 03:10:40 | [eason0602-cf-turnstile-check](https://pypi.org/project/eason0602-cf-turnstile-check/) | 0.1.0 | Eason0602 <joinwingz0@gmail.c… | 4.7 kB | Lightweight Cloudflare Turnstile verification helper |
+| 2026-11-13 03:10:56 | [azure-mgmt-datacollectionruleconfigurationmetadata](https://pypi.org/project/azure-mgmt-datacollectionruleconfigurationmetadata/) | 0.0.0b1 | Microsoft Corporation <azures… | 3.6 kB | This package will be released in the near future. Stay tuned! |
