@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T08:20:22Z,wave-shoaling-physics,0.1.3,Adrian Hernandez <adrian.hernandezv@alumni.mondragon.edu>,MIT,7828,"Gravity wave mechanics: dispersion, shoaling and coastal breaking with real-time marine data"
+2026-11-13T08:20:57Z,graph-matrix-analysis,0.1.0,"Aitor Merino <aitor.merino@alumni.mondragon.edu>, Xabier Labraga <xabier.labraga@alumni.mondragon.e…",MIT,10448,Library for analyzing graphs based on their adjacency matrix
+2026-11-13T08:21:23Z,opc-ontology-mcp,0.1.0,zhouxinhai <your.email@example.com>,MIT,57114,MCP server for OPC order-center ontology queries (stdio only)
+2026-11-13T08:21:46Z,slash-pro-mcp,0.1.0,SIG Inc.,MIT,163310,"MCP server for SLASH: read and write tickets, meetings and documents from AI coding agents"
+2026-11-13T08:22:46Z,ha-atomberg-integration,1.1.1,Ratul BMG,MIT,14279,"Async Python client for the Atomberg public cloud API (fans, water purifiers, smart locks)"
+2026-11-13T08:26:29Z,oxidane,0.2.0,Manuel Uhlir,MIT,13310731,Python bindings for the Oxidane cheminformatics library
+2026-11-13T08:28:16Z,tunegrab,0.6.1,HAVEKAUTION,GPL-3.0-or-later,392326,"Local music downloader: pick albums and playlists from Spotify, get tagged MP3/M4A files with audio from YouTube Music."
+2026-11-13T08:28:36Z,pandora-core-rs,0.2.3,,PolyForm-Noncommercial-1.0.0,10948081,Python bindings of the Rust pandora-core
+2026-11-13T08:31:43Z,custovox-visual,1.0.0,Jérémie Muselet <jeremie@custovox.ai>,MIT,9516,"Customer photo triage MCP: English caption + likely issue category for hotel room, product return and retail photos. By custovox.ai"
+2026-11-13T08:34:06Z,huaweicloud-ai-asset-obfuscate,26.0.0.8,,,3218236,"混淆算子SDK,用于模型混淆和用户参数混淆"
+2026-11-13T08:34:14Z,aisland,0.1.1,Gert Behiels,MIT,980527,"One workspace of many Python projects: a shared venv, local services, generated CI and git aliases."
+2026-11-13T08:34:20Z,drawing-yh,0.1.2,Yang Hang,MIT,799419,"Publication-quality scientific figures with automated layout audits: volcano, heatmap, PCA, violin, chord, venn, and more"
+2026-11-13T08:34:21Z,pandora-sdk,0.4.1,,PolyForm-Noncommercial-1.0.0,144638,Hands from the 01 Glove app in a few lines of Python
+2026-11-13T08:37:49Z,cosmosforge,0.1.3,,,50528,CLI and evaluation service for Harbor-format terminal tasks.
+2026-11-13T08:41:01Z,cellwatch,0.1.1,"NATHANAEL George Steindhart, SETIAWAN Matthew Henson, LATHIF Muhammad Akmal, HANDAYA Clement Stewar…",MIT,20839,"See exactly which variables a Jupyter cell created, changed or deleted."
+2026-11-13T08:46:12Z,heyphony,0.3.0,tinkrland <324020321+tinkrland@users.noreply.github.com>,MIT,604141,"give your ai agent a phone number of its own: a sip did, an inbox that survives the machine sleeping, and the rails a number unlocks"
+2026-11-13T08:49:10Z,machine-internet,0.1.0,,Apache-2.0,90339,Turn any website into an MCP server. No API needed.
+2026-11-13T08:50:14Z,mailtruss,0.1.0,Mailtruss <hello@mailtruss.com>,MIT,13314,Python client for the Mailtruss email API (no dependencies)
+2026-11-13T08:57:58Z,rulegrid,0.1.0,Félix Martel,MIT,172715,"Behavior policies as code: classify a turn, prescribe a response, check compliance."
+2026-11-13T08:59:15Z,humancoin-lerobot,0.1.0,,Apache-2.0,43265,"Multi-frequency sensor datasets with independent storage and time-aligned queries, built on LeRobot"
+2026-11-13T08:59:25Z,simple-logistics,0.1.1,"Beñat Monje <benat.monje@alumni.mondragon.edu>, Txaber Ajangiz <txaber.ajangiz@alumni.mondragon.edu>",MIT,25771,Library for management of vehicles and packages
+2026-11-13T09:00:22Z,shopee-benchmarks-llm,0.0.0,sc,BSD License,2477,A small example package
+2026-11-13T09:02:38Z,rulegrid-editor,0.1.0,Félix Martel,MIT,77243,"Browse, edit and try a rulegrid policy in the browser."
+2026-11-13T09:03:12Z,licencore-sdk-python,0.1.0,Fardad Noavar,MIT,22008,Simple Python SDK to verify licences against a Licencore server (Django supported).
+2026-11-13T09:05:06Z,my_project_diyi12,0.1.0,,,2244,Add your description here
+2026-11-13T09:06:23Z,phyelds-gpu,10.2.0,Gianluca Aguzzi,Apache-2.0,41527,"PyTorch backend for phyelds: aggregate programs on batches of devices, on CPU or GPU"
+2026-11-13T09:06:31Z,invoice-examples,0.1.0,AllGood Services SAS,MIT,108669,"Valid and invalid e-invoice examples (Factur-X, CII), one invalid variant per rule, CC0"
+2026-11-13T09:09:27Z,lintvoice,0.1.0,AllGood Services SAS,MIT,64924,"Offline e-invoice validator: EN 16931, Factur-X and the French BR-FR rules"
+2026-11-13T09:09:33Z,sorteador-injusto,0.1.0,Belategui Luken eta Jausoro Martin <martin.jausoro@alumni.mondragon.edu>,MIT,10123,Librería de manipulación de CSVs y asignación de grupos con sesgo intencionado.
+2026-11-13T09:09:45Z,pypalc,0.1.0,"Arne Hölter, Florian Straube",MIT,1641030,"Optimization of line source arrays (PALC) with a calculation core, a command line runner and a browser GUI"
+2026-11-13T09:15:54Z,neurolang-apps,0.1a22,,BSD-3-Clause,2908958,"NeuroLang's applications: command line, terminal interface, query assistant and engines"
+2026-11-13T09:15:56Z,nl-core,0.1a22,,BSD-3-Clause,712220,"NeuroLang's core: relational algebra, Datalog and probabilistic Datalog"
+2026-11-13T09:15:57Z,nl-expr,0.1a22,,BSD-3-Clause,128254,"NeuroLang's expression engine: typed expressions, pattern-matching walkers and first-order logic"
+2026-11-13T09:16:17Z,codevanta,0.1.0,kevindoni,MIT,1092569,CODEVANTA — Advanced Code Intelligence: AI-Powered Reverse Engineering & Binary Analysis Platform
+2026-11-13T09:16:47Z,midi-tools-cli,0.1.0,,,20968,
+2026-11-13T09:17:59Z,gatt-link-ble,0.1.1,infoyouth,MIT,77851,"Async BLE GATT discovery, parsing, and state updates."
+2026-11-13T09:18:49Z,mimiq-tensorweaver-mock,0.22.2,Guido Masella <guido.masella@qperfect.io>,,2159190,Unlicensed mock of the TensorWeaver MPS simulator: the MIMIQ data models with no simulation behind them
