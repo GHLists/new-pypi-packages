@@ -8,33 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 01:20 UTC
+## Latest list — 2026-11-13 02:21 UTC
 
-New packages created between 2026-11-13 00:18 UTC and 2026-11-13 01:20 UTC.
+New packages created between 2026-11-13 01:20 UTC and 2026-11-13 02:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-13T01-20-38-164932Z.csv)
+[Full CSV](data/new-packages-2026-11-13T02-21-15-46122Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-13 00:05:02 | [textutils-MB](https://pypi.org/project/textutils-MB/) | 1.0.1 |  | 12.9 kB | A lightweight Python library for common text-processing operations. |
-| 2026-11-13 00:19:44 | [strands-exaone](https://pypi.org/project/strands-exaone/) | 0.1.1 |  | 273.3 kB | EXAONE model provider for Strands Agents |
-| 2026-11-13 00:21:52 | [fontes-mcp](https://pypi.org/project/fontes-mcp/) | 0.1.0 | Yüce Karapazar | 3.0 MB | Court decisions and legislation from government and court websites in over 120… |
-| 2026-11-13 00:22:40 | [lighttar](https://pypi.org/project/lighttar/) | 0.1.0 | Eilam Shapira <eilamshapira@c… | 80.1 kB | LightTAR: target-aware tabular features from frozen encoder layers, in closed f… |
-| 2026-11-13 00:23:01 | [langchain-exaone](https://pypi.org/project/langchain-exaone/) | 0.1.1 |  | 181.8 kB | LangChain chat model integration for the EXAONE API |
-| 2026-11-13 00:26:20 | [odoo-addon-l10n-br-cte-dfe](https://pypi.org/project/odoo-addon-l10n-br-cte-dfe/) | 16.0.1.0.0.2 | Engenere, Odoo Community Asso… | 46.8 kB | Monitor incoming CT-e documents via the DF-e distribution web service (CTeDistr… |
-| 2026-11-13 00:29:44 | [stanward](https://pypi.org/project/stanward/) | 0.0.1 | The Stanward Authors | 10.8 kB | Stanward: open-source autonomous AI agent, secure by default, scales from your… |
-| 2026-11-13 00:30:01 | [imports-extractor](https://pypi.org/project/imports-extractor/) | 999.9.9 |  | 960 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-13 00:41:04 | [llm-drift-bench](https://pypi.org/project/llm-drift-bench/) | 0.1.0 | Anant Goel | 78.4 kB | A lightweight, zero-bloat CLI and Python library to benchmark, validate JSON co… |
-| 2026-11-13 00:45:41 | [bareun-baropy](https://pypi.org/project/bareun-baropy/) | 3.4.0 | Bareun | 50.5 MB | x |
-| 2026-11-13 00:47:06 | [bapgpt-local-ai](https://pypi.org/project/bapgpt-local-ai/) | 0.1.0 |  | 3.9 kB | A local AI coding assistant launcher |
-| 2026-11-13 00:48:25 | [linkup-mcp](https://pypi.org/project/linkup-mcp/) | 0.1.0 | Martin Silbernagl | 66.7 kB | MCP server for the whole Linkup web API: search, fetch, research, batch tasks,… |
-| 2026-11-13 01:00:55 | [unfoldx](https://pypi.org/project/unfoldx/) | 0.6.0 |  | 110.1 kB | UnfoldX CLI - delegate explainer videos to the UnfoldX main agent and follow th… |
-| 2026-11-13 01:01:16 | [unfoldx-mcp](https://pypi.org/project/unfoldx-mcp/) | 0.6.0 |  | 82.0 kB | UnfoldX MCP server (stdio) - the unfoldx.v2 public API as MCP tools for agents. |
-| 2026-11-13 01:11:02 | [scixplorer](https://pypi.org/project/scixplorer/) | 0.0.0 |  | 2.2 kB | A Python client for SciX (Science Explorer), the successor to NASA/ADS. Placeho… |
-| 2026-11-13 01:11:06 | [ragvet](https://pypi.org/project/ragvet/) | 0.3.0 | Tarang Jammalamadaka | 84.1 kB | Evaluation and retrieval-benchmark harness for RAG systems |
-| 2026-11-13 01:11:25 | [circularity-reveal](https://pypi.org/project/circularity-reveal/) | 1.0.0 | TREMA-UNH | 116.1 kB | Reveal circular systems in LLM-judge evaluation from paired nugget-bank leaderb… |
-| 2026-11-13 01:13:16 | [mikrio](https://pypi.org/project/mikrio/) | 0.1.0 |  | 40.6 MB | Embedded object storage with an S3-compatible HTTP interface |
-| 2026-11-13 01:13:55 | [basalt-vault](https://pypi.org/project/basalt-vault/) | 1.0.0 | Carter Cole | 199.9 kB | Python implementation of the Basalt Protocol v1 — a portable knowledge vault in… |
-| 2026-11-13 01:15:19 | [snakemake-storage-plugin-acadfetch](https://pypi.org/project/snakemake-storage-plugin-acadfetch/) | 0.1.0 |  | 15.5 kB | Snakemake storage plugin: resumable, rate-limited, checksum-verified downloads… |
-| 2026-11-13 01:16:38 | [matchvar-annotator](https://pypi.org/project/matchvar-annotator/) | 1.2.0 | Bingbo Zhou | 452.4 kB | MATCHVAR Annotator - Functional annotation and analysis of genomic variants |
-| 2026-11-13 01:18:06 | [ncm-benchmarks](https://pypi.org/project/ncm-benchmarks/) | 2.0.0 | Hardonian Labs <scottrmhardie… | 109.1 kB | Production benchmarks, hierarchical concept decoder, and sovereign inference en… |
+| 2026-11-13 01:22:02 | [apexrunner-tools](https://pypi.org/project/apexrunner-tools/) | 0.1.0 | APEX Runner <267811382+kynto2… | 39.2 kB | LangChain and CrewAI tools for APEX Runner pre-trade crypto signals (risk, exec… |
+| 2026-11-13 01:34:15 | [mammofm](https://pypi.org/project/mammofm/) | 0.1.0 | Batman Lab | 93.8 kB | Research-only mammography diagnosis and image features with Mammo-FM |
+| 2026-11-13 01:42:34 | [haru-speech](https://pypi.org/project/haru-speech/) | 0.1.0 | higurashi | 926.8 kB | Haru: a low-latency, multilingual, full-duplex spoken dialogue model |
+| 2026-11-13 01:44:02 | [zen-anomaly-client](https://pypi.org/project/zen-anomaly-client/) | 0.1.0 | Hank Haines <hankhaines@wellc… | 17.8 kB | Anomaly event contract and client for the zen-space anomaly stream |
+| 2026-11-13 01:45:12 | [haru-speech-mlx](https://pypi.org/project/haru-speech-mlx/) | 0.1.0 | higurashi | 132.4 kB | Haru on Apple silicon: the MLX implementation of the full-duplex spoken dialogu… |
+| 2026-11-13 01:47:14 | [testing1345](https://pypi.org/project/testing1345/) | 0.1.0 | testing1345 contributors | 28.4 kB | Signed-manifest updater for a self-hosted game or app. |
+| 2026-11-13 01:47:59 | [haru-speech-vllm](https://pypi.org/project/haru-speech-vllm/) | 0.1.0 | higurashi | 40.8 kB | Serve Haru with vLLM-Omni |
+| 2026-11-13 01:50:37 | [dcmnorm](https://pypi.org/project/dcmnorm/) | 0.9.0 | Jason Klotzer | 31.5 MB | DICOM read/edit/transcode/render (dcmnorm) and DICOM network (dcmtalk) command-… |
+| 2026-11-13 01:52:45 | [eval-touch-detection](https://pypi.org/project/eval-touch-detection/) | 0.5.0 |  | 5.4 kB | Build touch-detection leaderboard submissions from per-frame predictions |
+| 2026-11-13 01:53:40 | [inventag-aws](https://pypi.org/project/inventag-aws/) | 5.0.0 | InvenTag Contributors | 720.5 kB | AWS resource inventory, tag compliance checks, and Excel/Word BOM reports. Read… |
+| 2026-11-13 01:54:17 | [ada-rs232](https://pypi.org/project/ada-rs232/) | 0.1.0 | RebbePod | 53.4 kB | Async RS-232 control for Audio Design Associates PAC amplifiers |
+| 2026-11-13 01:55:29 | [gatemux-signin](https://pypi.org/project/gatemux-signin/) | 0.1.0 |  | 21.2 kB | Sign in with GateMux: device-code flow and CLI |
+| 2026-11-13 01:55:42 | [drivedex](https://pypi.org/project/drivedex/) | 0.2.0 | hagmit | 84.6 kB | Local, private index of SharePoint / OneDrive / Google Drive with SSO sign-in,… |
+| 2026-11-13 01:57:20 | [qubitlab](https://pypi.org/project/qubitlab/) | 1.0.0 | Pranav Reddy | 3.6 MB | An open-source simulator for learning superconducting qubits: cited theory, che… |
+| 2026-11-13 02:00:27 | [rsgispy](https://pypi.org/project/rsgispy/) | 0.0.1 | Pete Bunting <petebunting@mac… | 255.8 kB | A pure Python replacement for RSGISLib which is easier to install and maintain |
+| 2026-11-13 02:06:30 | [miragea-audiobook](https://pypi.org/project/miragea-audiobook/) | 0.1.0 | miragea-audiobook contributors | 648.3 kB | Open-source AI audiobook maker: turn an EPUB, Markdown or text file into a chap… |
+| 2026-11-13 02:07:15 | [test-python-demo](https://pypi.org/project/test-python-demo/) | 0.1.0 | lcq_test | 8.3 kB | pypi-publish 插件测试用 Python 包 |
+| 2026-11-13 02:09:20 | [trimkit](https://pypi.org/project/trimkit/) | 0.1.0 | Michael Dawson-Haggerty <mike… | 12.3 MB | Thin stable-ABI numpy bindings to mature geometry libraries: rays and boxes, co… |
+| 2026-11-13 02:09:36 | [llamaindex-scrapeless](https://pypi.org/project/llamaindex-scrapeless/) | 0.1.1 |  | 469.9 kB | Scrapeless Python SDK integration for LlamaIndex |
+| 2026-11-13 02:10:49 | [Flask-Pysaml2](https://pypi.org/project/Flask-Pysaml2/) | 2.0 | Serge Domkowski (orig. Kavi C… | 37.6 kB | Flask and pysaml2 integration. |
+| 2026-11-13 02:13:30 | [edgecut](https://pypi.org/project/edgecut/) | 0.1.0 |  | 22.5 kB | Frame-accurate H.264/HEVC clips that copy the video between keyframes and re-en… |

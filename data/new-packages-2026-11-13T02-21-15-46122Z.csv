@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T01:22:02Z,apexrunner-tools,0.1.0,APEX Runner <267811382+kynto2001-ctrl@users.noreply.github.com>,MIT,39166,"LangChain and CrewAI tools for APEX Runner pre-trade crypto signals (risk, execution timing, slippage), paid per call over x402 in USDC on Base."
+2026-11-13T01:34:15Z,mammofm,0.1.0,Batman Lab,,93792,Research-only mammography diagnosis and image features with Mammo-FM
+2026-11-13T01:42:34Z,haru-speech,0.1.0,higurashi,Apache-2.0,926780,"Haru: a low-latency, multilingual, full-duplex spoken dialogue model"
+2026-11-13T01:44:02Z,zen-anomaly-client,0.1.0,Hank Haines <hankhaines@wellchecked.com>,MIT,17780,Anomaly event contract and client for the zen-space anomaly stream
+2026-11-13T01:45:12Z,haru-speech-mlx,0.1.0,higurashi,Apache-2.0,132392,Haru on Apple silicon: the MLX implementation of the full-duplex spoken dialogue model
+2026-11-13T01:47:14Z,testing1345,0.1.0,testing1345 contributors,MIT,28388,Signed-manifest updater for a self-hosted game or app.
+2026-11-13T01:47:59Z,haru-speech-vllm,0.1.0,higurashi,Apache-2.0,40819,Serve Haru with vLLM-Omni
+2026-11-13T01:50:37Z,dcmnorm,0.9.0,Jason Klotzer,Apache-2.0,31533647,DICOM read/edit/transcode/render (dcmnorm) and DICOM network (dcmtalk) command-line tools
+2026-11-13T01:52:45Z,eval-touch-detection,0.5.0,,,5411,Build touch-detection leaderboard submissions from per-frame predictions
+2026-11-13T01:53:40Z,inventag-aws,5.0.0,InvenTag Contributors,MIT,720454,"AWS resource inventory, tag compliance checks, and Excel/Word BOM reports. Read-only."
+2026-11-13T01:54:17Z,ada-rs232,0.1.0,RebbePod,MIT,53387,Async RS-232 control for Audio Design Associates PAC amplifiers
+2026-11-13T01:55:29Z,gatemux-signin,0.1.0,,Apache-2.0,21226,Sign in with GateMux: device-code flow and CLI
+2026-11-13T01:55:42Z,drivedex,0.2.0,hagmit,MIT,84621,"Local, private index of SharePoint / OneDrive / Google Drive with SSO sign-in, change log, HTML browser and Office-to-Markdown (standard library only)"
+2026-11-13T01:57:20Z,qubitlab,1.0.0,Pranav Reddy,Apache-2.0,3645030,"An open-source simulator for learning superconducting qubits: cited theory, checked against Dynamiqs, scqubits and Stim, in a 3D explorer"
+2026-11-13T02:00:27Z,rsgispy,0.0.1,Pete Bunting <petebunting@mac.com>,Apache-2.0,255756,A pure Python replacement for RSGISLib which is easier to install and maintain
+2026-11-13T02:06:30Z,miragea-audiobook,0.1.0,miragea-audiobook contributors,MIT,648300,"Open-source AI audiobook maker: turn an EPUB, Markdown or text file into a chaptered M4B audiobook (chapter markers, cue sheet, per-chapter MP3) in a cloned narrator voice. CLI, no GPU. Voiced by Mir…"
+2026-11-13T02:07:15Z,test-python-demo,0.1.0,lcq_test,MIT,8281,pypi-publish 插件测试用 Python 包
+2026-11-13T02:09:20Z,trimkit,0.1.0,Michael Dawson-Haggerty <mikedh@kerfed.com>,MIT AND Apache-2.0 AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR BSL-1.0) AND BSD-…,12253241,"Thin stable-ABI numpy bindings to mature geometry libraries: rays and boxes, collision, triangulation, convex decomposition, UV atlases, simplification, draco and SVG paths."
+2026-11-13T02:09:36Z,llamaindex-scrapeless,0.1.1,,MIT,469911,Scrapeless Python SDK integration for LlamaIndex
+2026-11-13T02:10:49Z,Flask-Pysaml2,2.0,Serge Domkowski (orig. Kavi Corporation),BSD,37578,Flask and pysaml2 integration.
+2026-11-13T02:13:30Z,edgecut,0.1.0,,MIT,22519,"Frame-accurate H.264/HEVC clips that copy the video between keyframes and re-encode only the edges, using the FFmpeg CLI."

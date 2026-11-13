@@ -1,48 +1,41 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-11-13T00:18:47.978206Z",
-    "path": "data/new-packages-2026-11-13T01-20-38-164932Z.csv",
-    "to": "2026-11-13T01:20:38.164932Z"
+    "count": 21,
+    "from": "2026-11-13T01:20:38.164932Z",
+    "path": "data/new-packages-2026-11-13T02-21-15-46122Z.csv",
+    "to": "2026-11-13T02:21:15.46122Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-13T01:10:34Z",
       "package": "QuantLibAAD",
       "since": "2026-11-13T00:18:47.978206Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-12T23:58:44Z",
       "package": "google-adk-cli",
       "since": "2026-11-12T23:19:39.88921Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-12T21:25:17Z",
-      "package": "livekit-plugins-lokutor",
-      "since": "2026-11-12T21:18:41.362298Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-13T00:22:09Z",
       "package": "matchvar",
       "since": "2026-11-13T00:18:47.978206Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-12T22:21:50Z",
       "package": "pelagos-decoder",
       "since": "2026-11-12T22:18:39.310223Z",
       "version": null
     }
   ],
-  "serial": 43584128,
+  "serial": 43585847,
   "source_truncated": false,
-  "window": "2026-11-13T01:20:38.164932Z"
+  "window": "2026-11-13T02:21:15.46122Z"
 }
