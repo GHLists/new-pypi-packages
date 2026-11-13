@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T12:14:43Z,auto-mas-maa-adapter,0.1.1,AUTO-MAS Team,AGPL-3.0-or-later,1021737,MAA specialized script adapter
+2026-11-13T12:19:54Z,hijri-cli,0.1.0,Muhammad Bakhit,,52555,Hijri (Umm al-Qura) date command for the terminal: print today's Hijri date or convert between Hijri and Gregorian.
+2026-11-13T12:21:15Z,discordbots,1.1.0,DiscordBots,MIT,22286,"Official SDK for the DiscordBots bot API: vote checks, server stats and vote webhooks."
+2026-11-13T12:21:56Z,packmem,0.0.1,Finna Labs Inc.,Apache-2.0,10469,"Name reserved for packmem: records as packed columns you can index, loop over and query without unpacking. First release coming soon."
+2026-11-13T12:23:46Z,qoptct,0.3.0,Maksym Shchehlov,Apache-2.0,27290498,qopt: verified Clifford+T circuit optimizer (T and CNOT counts) with a Qiskit transpiler plugin
+2026-11-13T12:26:25Z,entrylib-rubric,0.4.1,,Apache-2.0,44444,"EntryLib's scoring rubric: reliability scores of claimsets, computed by public rules."
+2026-11-13T12:29:17Z,photos-sh,1.0.0,Vallic,MIT,159346,"Python client for the Photos.sh image API: background removal, resizing, upscaling, text removal, marketplace checks, barcodes and labels."
+2026-11-13T12:29:38Z,blowing-bubbles,0.2.0,Oliver Mohr,MIT,311216,Equivalent-circuit fitting of electrochemical impedance spectra (EIS).
+2026-11-13T12:29:57Z,soar-lite,0.1.2,Watson Tree <watson.tree@outlook.com>,MIT,1589466,First-order n-path descent with stalled-path restarts and a unit-invariant diagonal preconditioner default
+2026-11-13T12:30:00Z,jbr-pipelines,999.9.9,,,959,Stub package that mitigates Dependency Confusion attacks
+2026-11-13T12:30:16Z,opageo-atlantis,0.1.0rc1,"Ioannis Kalfas, Stelios Lagaras",Apache-2.0,4050482,ML-ready archive of satellite-derived flood inundation observations (ECMWF Code for Earth 2026)
+2026-11-13T12:33:25Z,planarcurve,0.1.0,Holger Nahrstaedt,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",122091,"Numerical tools for planar curves, trajectories, splines, Beziers, and SVG paths."
+2026-11-13T12:34:12Z,django-profile-image,26.0,Carlton Gibson,,2122,Profile images (avatars) for Django. A placeholder: nothing here yet.
+2026-11-13T12:34:29Z,askround,0.1.0,Alexandre Oliveira,Apache-2.0,250758,"See what ChatGPT, Gemini, Claude and Perplexity recommend: ask them all the same question with web search and read whether your product is named, where, beside which rivals, and what they claim about…"
+2026-11-13T12:36:31Z,cv-data-lesson,0.1.0a2,CV Data project contributors,MIT,148576,高校生向け画像データとコンピュータビジョン学習ライブラリ
+2026-11-13T12:39:50Z,skeletonpaths,0.1.0,Holger Nahrstaedt,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",50080,Skeleton graphs and candidate path extraction from binary masks and skeletons.
+2026-11-13T12:43:26Z,specpair,0.1.0,LeeGyeongPil,MIT,140304,Check whether a draft model can speculate for a target model (GGUF headers or HF tokenizers) and measure the real speedup on llama-server.
+2026-11-13T12:43:26Z,storage-viewer,1.0.0,Lingaraj Sa,"MIT License Copyright (c) 2024 Lingaraj Sa Permission is hereby granted, free of charge, to any per…",17365,Advanced directory tree visualizer with filtering options
+2026-11-13T12:45:39Z,deepaft,0.1.0,Swati,MIT,40231,Python deepAFT: nonlinear accelerated failure time models with neural networks (Norman et al. 2024) and limitation-aware extensions for censored survival data.
+2026-11-13T12:46:01Z,metrify-protocol,0.0.5,,,40631,Pydantic models generated from the Metrify data protocol JSON Schemas.
+2026-11-13T12:46:23Z,cutreview,0.1.0,James Olusoga (DareDev256),MIT,154648,"Frame.io comments and client notes into Final Cut Pro as to-do markers. Compare two FCPXML exports: what changed, and which notes the recut touched."
+2026-11-13T12:46:57Z,opgraph,0.1.0,Aswin,MIT,254522,"Typed actions, shared memory, enforced scope and owned cleanup for agentic pentest systems."
+2026-11-13T12:49:50Z,gsc-pulse,0.1.0,Amir Mohammad Jazayeri,MIT,176353,"An honest, readable HTML report from Google Search Console exports: what grew, what dropped and why, and the five things to do next."
+2026-11-13T12:49:56Z,constellation-ascii,1.0.0,Frederik Bous,MIT,29657,Render star constellations (and today's planets) as ASCII art for terminals and login banners
+2026-11-13T12:52:39Z,probe-format,0.1.0,ProbNode <hello@probnode.com>,Apache-2.0,4636941,"Read Probe prediction-market order-book files into Arrow, pandas and polars"
+2026-11-13T12:53:57Z,brrag,0.0.7,Francois Botha <igitur@gmail.com>,MIT,404941,BRRAG - Botha's Road Running Age Grading on the USATF MLDR 2025 tables
+2026-11-13T12:54:27Z,composa,1.0.1,Tagin,MIT,4143,Framework to compose tools
+2026-11-13T12:57:59Z,audr-adapter-langfuse,0.1.0,The AUDR contributors <audr@chargebee.com>,Apache-2.0,40561,Langfuse adapter for AUDR (experimental)
+2026-11-13T12:59:26Z,django-phase,0.1.1,Beyonder Deutschland <hello@beyonder.de>,"MIT License Copyright (c) 2026 Beyonder Deutschland GmbH Permission is hereby granted, free of char…",46870,Race-safe state machines for Django
+2026-11-13T12:59:32Z,teddys-blackjax-utils,0.2.1,Teddy Groves,,25973,Functions for running MCMC with blackJAX
+2026-11-13T13:03:27Z,cs705,1.0.0,,MIT OR Apache-2.0,5968442,Native bindings for reading and editing IC-705 configuration files and handling clone protocols
+2026-11-13T13:03:42Z,dq-import-connector,0.2.0,Decentriq,,30604,Worker logic for the Import Connector DCR.
+2026-11-13T13:04:27Z,easyquant-research,0.1.0,EasyQuant contributors,Apache-2.0,178859,"Open-source MCP connector and Agent Skills for the EasyQuant historical research engine: screen, backtest and factor-check A-shares, ETFs, US/HK equities and futures. Research only — no order placeme…"
+2026-11-13T13:06:05Z,subpeeko,0.1.0,,MIT,128596,Create level-aware English-learning subtitles from bilingual ASS files
+2026-11-13T13:06:51Z,bijou-portfolio,2.0.0,smsiebe,MIT,287549,Multi-Echelon Impact & Causal Graph Engine with Air-Gapped Web UI & Python SDK
+2026-11-13T13:07:14Z,actdim-jobs,1.14.1,,,12091,Generic Hatchet workflow and event bridge helpers for Python workers
+2026-11-13T13:08:00Z,ringloop,1.0.0,Adam Bobowski <adam@bobowski.dev>,MIT,5156795,"A drop-in asyncio event loop for Linux on io_uring, with an epoll backend."
+2026-11-13T13:09:50Z,midi-ascii,1.1.0,Frederik Bous,GPL-3.0-or-later,31690,"The MIDI version of Unix' ascii: look up MIDI pitches, note names and frequencies"
+2026-11-13T13:10:15Z,git-wtclean,0.1.0,,MIT,16101,"Clean up the git worktrees coding agents leave behind, without losing work"
+2026-11-13T13:15:19Z,fpeg,0.0.0,Dominik Schwimmbeck,MIT OR Apache-2.0,12883,"A PEG parsing library with a native engine. In development, this release holds no code yet"
+2026-11-13T13:16:29Z,udan,1.0.0,Tagin,MIT,4090,Universal Data Navigator
