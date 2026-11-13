@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T21:24:22Z,hinny,0.0.1,,MIT OR Apache-2.0,2264,"Hinny: an embedded hybrid search database (full-text, vector and sparse retrieval with filters, in your process). Placeholder for the first public release."
+2026-11-13T21:26:33Z,matplotvite,0.6.0,Gautier Portet <kassoulet@gmail.com>,,35204428,"Matplotlib-style static plots rendered in Rust, with numpy as the only Python dependency"
+2026-11-13T21:26:38Z,pyccp,0.10.0,Vladimir Petrigo <vladimir.petrigo@gmail.com>,,23400,CAN Calibration Protocol for Python
+2026-11-13T21:27:17Z,text-chipper,0.2.0,,Apache-2.0,22101370,"Token-budgeted, Markdown-aware text chunking for RAG and LLM pipelines, with pluggable tokenizers (Rust core, Python API)."
+2026-11-13T21:27:44Z,tradify-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,19695,"Connect Tradify to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Tradify API key needed."
+2026-11-13T21:29:27Z,macore-client-dev,0.1.54,,,14069,Client for the Model Access Core (MAC) server
+2026-11-13T21:29:38Z,tax-engine,0.1.0,Umar Khan <The-Pied-Piper@users.noreply.github.com>,Apache-2.0,1037802,"Open-source personal income tax calculation engine in Python. Every number is a tax-form line, and every result explains itself in a readable trace."
+2026-11-13T21:30:30Z,folderlake,0.2.1,,,802404,"Point it at a folder. Know what's in it. A local file catalog with topics, metadata and a relationship graph, stored in one DuckDB file."
+2026-11-13T21:32:26Z,nexus-llmops,0.1.0,Sankalp Rajeev <srajeev@umich.edu>,MIT,39019,Python SDK for Nexus: fail-open agent tracing for the Nexus failure-detection and fix-verification service
+2026-11-13T21:33:15Z,fakesound,0.0.0,,,34188,
+2026-11-13T21:36:22Z,warrantgen,0.1.1,,Apache-2.0,191456,Infer least-privilege Tenuo warrants from recorded agent tool calls
+2026-11-13T21:39:46Z,sc-decidr,0.1.0,,,15367471,"The sc-agent Python API: send TypeSafe (Jev) decision requests, list models, run doctor."
+2026-11-13T21:39:57Z,sitr,0.1.0,,,6356201,Load tree-sitter grammars and run any query against them.
+2026-11-13T21:40:21Z,canbiplotme,0.3.0,Carlos Freire-Cadme <cfreirec@unemi.edu.ec>,GPL-3.0-or-later,3190613,"Canonical biplot for grouped estimates measured with error (Python port of the R package gcbiplot, Gravity Canonical Biplot)"
+2026-11-13T21:40:46Z,biplotpy,0.4.0,Carlos Freire-Cadme <cfreirec@unemi.edu.ec>,GPL-3.0-or-later,1456596,"Biplots for Python, ported from R and validated against it: classical and HJ, canonical/CVA and HE plots, logistic (incl. constrained), STATIS, CA/MCA/CCA/RDA, PCoA/MDS with bootstrap, FA, PLS (incl.…"
+2026-11-13T21:44:54Z,code-analysis-client-dev,1.6.341,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,,100373,Async JSON-RPC client for the code-analysis MCP server (mcp-proxy-adapter JsonRpcClient)
+2026-11-13T21:45:21Z,plex-renamer,1.0.0,Agustin Gonzalez Nicolini,MIT,164052,"Renames a local media volume to the naming standard Plex publishes, with a SQLite journal that can reverse any run."
+2026-11-13T21:45:33Z,strathora-asof,0.5.0,Strathora,Apache-2.0,558419,"Time-lock connector for AI agents: see only what was knowable at time T, with a tamper-evident ledger and receipts."
+2026-11-13T21:45:35Z,deltakit-maestro,0.1.0,Qoro Quantum <team@qoroquantum.de>,GPL-3.0-or-later,263163,Qoro Maestro simulator backend for Riverlane Deltakit QEC circuits
+2026-11-13T21:47:15Z,rightnow-sdk,0.5.0,"RightNow AI, Inc.",Apache-2.0,237026,RightNow decision model API client with typed decisions and client-side workflows.
+2026-11-13T21:50:26Z,leeuwenhoek,0.1.0,Manuel-Espinosa,MIT,350416,Embedded debugging panel for Flask
+2026-11-13T21:56:02Z,mapdiff,0.1.0,,MIT,16316325,"Review a change on a map of your code: diffs by function and type, drawn with what they touch"
+2026-11-13T21:57:08Z,tidal-playlist-manager,1.3.1,magicclue,MIT,141101,"A modern TIDAL & Spotify Playlist Manager: Read, create, rename playlists, and move/copy tracks within and across TIDAL and Spotify with Web UI and CLI."
+2026-11-13T21:57:19Z,agent-policy-cli,0.7.0,Cameron Brooks,Apache-2.0,28268033,Schema-first generator for coding-agent repo policies and compatibility files.
+2026-11-13T21:58:19Z,sagecoders-events,0.1.0,,MIT,15191,"SDK SageEvents (bus d'événements SageCoders) : publier, s'abonner, recevoir une livraison signée. Indépendant du framework."
+2026-11-13T21:59:03Z,sagecoders-auth,0.2.0,,MIT,33805,"SDK SageAuth (comptes SageCoders) : vérification des jetons, rôles, connexion OIDC + PKCE, comptes de service, webhooks, registre des événements. Indépendant du framework."
+2026-11-13T21:59:19Z,fastknill,0.2.0,Danillo Barros de Souza,Academic Use License Copyright (c) 2025 Danillo Barros de Souza (ORCID: https://orcid.org/0000-0002…,335615,Fast computation of Euler characteristics and Knill curvature from networks
+2026-11-13T21:59:51Z,verified-nondim,0.1.0,Will Mitchell,MIT,269636,"Nondimensionalize ODE models automatically, with certificates that Lean 4 checks"
+2026-11-13T22:00:33Z,boaviztapi-mcp,0.1.0,malikmalikayesha,Apache-2.0,123815,"MCP server that lets AI assistants estimate the environmental footprint of cloud instances, servers, components and devices with BoaviztAPI"
+2026-11-13T22:00:37Z,pipecat-synthesia,1.0.0,Synthesia,MIT,258279,Synthesia Interactive Avatar for Pipecat pipelines
+2026-11-13T22:00:37Z,pydebt,0.1.1,Eduardo Amorim Pereira <eduardowebdev@outlook.com.br>,MIT,17070,Measurable technical debt for Python projects
+2026-11-13T22:02:24Z,openhound-saml-producer,0.4.6rc1,Jim Sykora <jsykora@specterops.io>,Apache-2.0,141145,Contract-conformant OpenGraph SAML node and edge builders for OpenHound extensions
+2026-11-13T22:11:37Z,priemka,1.0.2,Balanov.PRO,MIT,55778,"Acceptance gates for AI systems: prove the answer is right, safe and fast before the system reaches production."
+2026-11-13T22:12:05Z,caltrain-api,1.0.1,Joe Sinnott <joe@jsinnott.net>,MIT,305709,"Caltrain schedules and train positions (lat/lon, milepost, and plain-English) from GTFS and 511 real-time data."
+2026-11-13T22:13:52Z,csvidx,0.1.0,,,401407,Secondary index for huge CSV files: look up rows by key without importing
+2026-11-13T22:14:48Z,twinsmith,0.0.1,Kaleb Coleman,MIT,3833,MCP server for building robot digital twins with Isaac Sim and Isaac Lab (early placeholder release).
+2026-11-13T22:20:09Z,pinely-sdk,0.1.0b1,PINELY Engineering,MIT,35747,PINELY Python SDK: EIP-712 signing and HTTP 402 payments for autonomous machines on Robinhood Chain
+2026-11-13T22:20:24Z,ailogger-client-dev,0.1.51,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,Proprietary,108287,Published client of the ai-logger dialogue service - a typed wrapper over the mcp-proxy-adapter framework client
