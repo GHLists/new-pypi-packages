@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T11:18:42Z,hexmb,0.2.1,Jie Wang,MIT,365275,"Structured O-grid (butterfly) all-hex mesh engine for tubes and beating heart chambers, with OpenFOAM export and moving-mesh cases."
+2026-11-13T11:18:47Z,neorag,0.2.0,Naitik,MIT,95978,"A self-hosted RAG agent you fine-tune from a weak open-source model into a retrieval-grounded specialist - free web research, local vector store, model-agnostic LLM"
+2026-11-13T11:22:30Z,qfield-mcp,0.1.0,,GPL-2.0-or-later,38866,"MCP server driving a real QField app, for agents exploring and testing plugins"
+2026-11-13T11:23:52Z,minimindslab-text-block-dedent,0.1.0,MiniMindsLab,MIT,6576,Dedent multiline text blocks while preserving relative indentation and optionally stripping leading/trailing blank lines.
+2026-11-13T11:29:08Z,browserless-bap,0.2.0,Browserless <eng@browserless.io>,MIT,170216,Python async and sync client for Browserless's Browser Automation Protocol
+2026-11-13T11:31:22Z,engine-migrate,0.1.0,The engine-migrate Authors,Apache-2.0,1921575,"Translate LLM serving configs between inference engines, diff engine versions, and lint dashboards against an engine's metrics - from a database extracted statically from engine source."
+2026-11-13T11:31:47Z,llm-dialects,0.1.0,The llm-dialects Authors,Apache-2.0,206988,Streaming parsers for the tool-call and reasoning dialects of open-weight LLMs. Zero dependencies.
+2026-11-13T11:32:03Z,dacs-fsspec,0.1.0,The dacs-fsspec Authors,Apache-2.0,123735,"fsspec filesystem for DACS: read Azure Blob data through the Distributed Accelerator for Cloud Storage cache from pandas, PyTorch, Hugging Face, Dask and anything else that speaks fsspec"
+2026-11-13T11:32:09Z,triton-portcheck,0.1.0,The triton-portcheck Authors,Apache-2.0,159107,"Compile Triton kernels across GPU targets and Triton versions without a GPU, and report where each combination breaks."
+2026-11-13T11:33:07Z,crawlora-modrinth,0.1.0,Crawlora,MIT,62496,"Crawlora Modrinth API client with 34 endpoints for project search and metadata, versions, dependencies, collections, organizations, and file compatibility"
+2026-11-13T11:33:38Z,mothersauce,1.0.1,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,452062,"The base recipes of production Python 3.15, typed, tested and served to your AI agent."
+2026-11-13T11:38:33Z,crawlora-openligadb,0.1.0,Crawlora,MIT,54613,"Crawlora OpenLigaDB API client with 22 endpoints for sports and league discovery, fixtures, match results, standings, scorers, and team match history"
+2026-11-13T11:39:15Z,api-sentinel-forge,0.1.2,EdgarSocrates98,Apache-2.0,749396,"API Sentinel Forge — local-first API runtime intelligence, reliability and incident investigation"
+2026-11-13T11:41:41Z,crawlora-speedrun,0.1.0,Crawlora,MIT,56110,"Crawlora Speedrun.com API client with 20 endpoints for game and category discovery, leaderboards, records, variables, and run metadata"
+2026-11-13T11:42:04Z,mvnt-mcp,0.1.1,,,26075,MVNT dance generation for AI agents (MCP)
+2026-11-13T11:43:26Z,loop-autopsy,0.1.0,"NATHANAEL George Steindhart, SETIAWAN Matthew Henson, LATHIF Muhammad Akmal, KWAN Kendrick Matthew,…",MIT,60401,Stops runaway loops in Jupyter and shows the evidence for why they never ended.
+2026-11-13T11:44:45Z,hyperflash,1.0.0,Virat Ghatge,MIT,82389,Universal Engineering Reliability Runtime & Multi-Agent Verification Guardrails
+2026-11-13T11:49:36Z,woofvoice,0.2.1,,,21724,Stream chat responses through local Underdog Woof TTS
+2026-11-13T11:55:06Z,subrunner,0.1.0,YeCodeAI <yehor.code@gmail.com>,MIT,34732,A lightweight Python wrapper for subprocess with Rich logging
+2026-11-13T11:56:32Z,xblick-relay,0.4.0,David Schneider,Apache-2.0,7552163,xblick-relay: image streams of other PCs in this PC's shared-memory rings; started by `xblick relay`.
+2026-11-13T11:56:37Z,conflux-state,0.8.0,Conflux Maintainers,MIT,143545,"Deterministic, lock-free CRDT shared state protocol for concurrent AI agents, with drop-in adapters for LangGraph, CrewAI, and AutoGen."
+2026-11-13T11:57:18Z,dictz,0.0.2,Bayram Kotan <bayramkotan@gmail.com>,GPL-3.0-or-later,45206,dictz — a cross-platform multi-format offline dictionary application (GoldenDict-style)
+2026-11-13T11:58:07Z,seatrialkit,0.1.0,Long Horizon Observatory <dfry@lhzn.io>,"MIT License Copyright (c) 2026 Long Horizon Observatory Permission is hereby granted, free of charg…",86729,"Simulator-independent scoring of marine autonomy trials: station keeping, wayfinding and navigation time from ground-truth trajectories."
+2026-11-13T11:59:12Z,radiomicsjl,2.1.1,"Aldo Giuliani <aldo.giuliani@studenti.unicz.it>, Paolo Zaffino <p.zaffino@unicz.it>, Maria Francesc…",MIT,26819,"Python interface to Radiomics.jl: fast, IBSI-compliant radiomic feature extraction (CPU and CUDA GPU)"
+2026-11-13T11:59:57Z,mintmap,0.6.0a2,MintMap contributors,Apache-2.0,714158,"A reviewed map of the code paths that create a login session or credential in a Django app, enforced in CI."
+2026-11-13T12:01:46Z,tradeint-com-api,0.1.0,TradeInt Global,,4719,Python client and reference package for TradeInt Global Trade Intelligence (tradeint.com)
+2026-11-13T12:01:50Z,tradeint-vn-api,0.1.0,TradeInt Vietnam,,4675,Python client and reference package for TradeInt Vietnam (tradeint.vn)
+2026-11-13T12:04:09Z,bandr,0.3.0,Bandr,,1004598,Turn agent traces into runnable Harbor tasks with verifiers.
+2026-11-13T12:04:33Z,xblick,0.5.0,David Schneider,Apache-2.0,2166651,"Camera streams and perception results over Zenoh, with ROS 2 message types (sensor_msgs) on the wire."
+2026-11-13T12:07:29Z,vi3ion,0.1.0,Subadeepan-Y,Apache-2.0,6853595,"Measured visual perception for AI agents: OCR, geometry, colour and version diffing over MCP."
+2026-11-13T12:08:02Z,topocorr,0.1.0,Kaleem Mehmood <kaleemmehmood73@gmail.com>,MIT,136448,Terrain illumination correction and illumination-artefact tests for Landsat and Sentinel-2 time series in Google Earth Engine.
+2026-11-13T12:12:56Z,itstep-mystat-mcp,0.1.1,,,170987,"Local MCP server exposing ITStep MyStat homework (list, details, attachments, search)"
+2026-11-13T12:15:05Z,diffrax-bdf,0.1.0,groves.teddy@gmail.com,MIT,40705,Diffrax-compatible backward differentiation formula ODE solver
+2026-11-13T12:16:03Z,yirlo,1.0.0,,MIT,7886,"Yirlo SDK: run your AI cold email outreach (projects, campaigns, inbox, hot leads, budgets) from Python."
+2026-11-13T12:16:06Z,langchain-idemcore,0.1.0,Don Wick <don.wick@idemcore.net>,Apache-2.0,22574,"LangChain chat model for Idemcore, with signed verifiable receipts in response metadata."
+2026-11-13T12:16:10Z,llama-index-llms-idemcore,0.1.0,Don Wick <don.wick@idemcore.net>,Apache-2.0,18241,"LlamaIndex LLM for Idemcore, with signed verifiable receipts in response metadata."
+2026-11-13T12:16:49Z,vigitwin,0.0.0,Uppsala Monitoring Centre,Apache-2.0,10206,Placeholder for the forthcoming vigiTwin release — duplicate adjudication for pharmacovigilance adverse event reports.
+2026-11-13T12:17:40Z,flight-planner-notifications,0.0.0,,,3002,Reserved name placeholder (dependency-confusion prevention). The real flight-planner-notifications is a private internal package and is not published to public PyPI.
+2026-11-13T12:17:49Z,flight-planner-payment,0.0.0,,,2924,Reserved name placeholder (dependency-confusion prevention). The real flight-planner-payment is a private internal package and is not published to public PyPI.

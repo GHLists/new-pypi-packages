@@ -1,27 +1,41 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-11-13T10:18:38.721775Z",
-    "path": "data/new-packages-2026-11-13T11-18-38-64962Z.csv",
-    "to": "2026-11-13T11:18:38.64962Z"
+    "count": 39,
+    "from": "2026-11-13T11:18:38.64962Z",
+    "path": "data/new-packages-2026-11-13T12-19-42-47248Z.csv",
+    "to": "2026-11-13T12:19:42.47248Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-13T12:14:43Z",
+      "package": "auto-mas-maa-adapter",
+      "since": "2026-11-13T11:18:38.64962Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-13T09:43:46Z",
       "package": "dashscope-sdk-python",
       "since": "2026-11-13T09:18:52.317411Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-13T10:24:52Z",
       "package": "hostdrift",
       "since": "2026-11-13T10:18:38.721775Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-13T11:23:35Z",
+      "package": "slmbench-cli",
+      "since": "2026-11-13T11:18:38.64962Z",
+      "version": "0.1.1"
     }
   ],
-  "serial": 43602868,
+  "serial": 43604550,
   "source_truncated": false,
-  "window": "2026-11-13T11:18:38.64962Z"
+  "window": "2026-11-13T12:19:42.47248Z"
 }
