@@ -1,0 +1,63 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T15:22:36Z,auditail,0.2.0,Auditail,MIT,18167,"Guardrails that block risky actions, plus a tamper-evident audit trail for autonomous AI agents."
+2026-11-13T15:25:03Z,codebethe,0.1.0,"""Lorenzo Dall'Amico, Nicolas Tremblay"" <lorenzo.dallamico@isi.it>",,50045,Community detection in sparse static and time-evolving graphs with the Bethe-Hessian (Python port of CoDeBetHe.jl)
+2026-11-13T15:25:38Z,gapms,1.3.2,Qussai Abbas <qussai.abbas@tum.de>,MIT,302923,Gene model assessment and peptide-guided annotation refinement
+2026-11-13T15:26:03Z,mandi-net-return,0.1.2,Swastik Tawate,MIT,12493,"True net return maths for Indian mandi sales: sell today, hold, or travel to a better mandi"
+2026-11-13T15:27:00Z,nix2cf,0.0.0,,GPL-3.0-or-later,2421,Placeholder reserved for the tendcf project; contains no code.
+2026-11-13T15:27:01Z,tendcf,0.0.0,,GPL-3.0-or-later,2411,Placeholder reserved for the tendcf project; contains no code.
+2026-11-13T15:29:33Z,dbx-model-catalog-server,0.2.0,,,5052,Chanx server for dbx-model-catalog
+2026-11-13T15:29:33Z,dbx-model-catalog-sync,0.2.0,,,58402,Source ingestion and normalization for dbx-model-catalog
+2026-11-13T15:29:34Z,dbx-model-catalog,0.2.0,,,61698,Shared Pydantic models and query services for the Databricks model catalog
+2026-11-13T15:29:47Z,panel-oaxaca,1.0.0,Dmitri Mt,GPL-3.0-only,47342,Kitagawa-Oaxaca-Blinder decomposition for panel and cross-sectional data
+2026-11-13T15:30:05Z,okto-toolkit,1.0.0,OKTO event toolkit,MIT,86435,Offline competition analysis toolkit with evidence-ranked findings
+2026-11-13T15:30:29Z,pystagegate,0.1.0,soderc,,21366,Add your description here
+2026-11-13T15:31:10Z,scraperack-python,0.1.0a1,,Apache-2.0,22141,Run Python functions on a self-hosted ScrapeRack cluster through its Python plugin
+2026-11-13T15:31:50Z,baycone,0.7.0,theobaldik,MIT,53423,"Transcode videos into streaming-friendly MP4 with ffmpeg, as a Python library or a command"
+2026-11-13T15:32:08Z,arvore,0.0.5,Eachan Johnson <eachan.johnson@crick.ac.uk>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",136648,Reproducible tree-based machine learning.
+2026-11-13T15:32:13Z,mytutor-sdk,0.1.0,,,14946,Python client for the My Tutor developer API
+2026-11-13T15:34:39Z,transcpybe,2.0.0,David Whyatt,MIT AND CC-BY-NC-SA-4.0,18683919,Transcribe sung melody to MIDI: onsets and pitches from monophonic vocal audio
+2026-11-13T15:39:17Z,unifi-sitemanager-mcp,0.1.0,,,47345,UniFi Site Manager MCP Server
+2026-11-13T15:40:15Z,gnomon-postgres,1.0.0,,PostgreSQL,57993,"Branches, time travel and merges for PostgreSQL apps: psycopg helpers, SQLAlchemy, Django and pytest fixtures for the gnomon extension"
+2026-11-13T15:41:00Z,qalprit,0.1.1,Srivatsan Sridhar <vatsakrish@gmail.com>,MIT,131489,Mobile QA. Bugs caught with proof. Deterministic Markdown/YAML mobile UI test automation powered by Appium 2.
+2026-11-13T15:41:58Z,baari,0.1.0,Abdul Samad <abdulsamadsid1@gmail.com>,BSD-2-Clause,55896,End-of-turn detection for Urdu voice agents
+2026-11-13T15:43:32Z,sturdytools,0.1.0,Meenal Asesh,MIT,27880,"Retries, timeouts, rate limits and circuit breakers for AI agent tools"
+2026-11-13T15:43:45Z,forkcast-sdk,0.1.0,Prantika Ghosh,MIT,84991,"Python SDK for Forkcast: self-hosted A/B testing & feature flags. Sticky bucketing identical to the JS SDK, targeting, kill switch, FastAPI and Flask integrations."
+2026-11-13T15:43:56Z,connectpak,0.1.1,,MIT,90192,"Read-only MCP database connectors for LLMs: one self-contained package and command for 24 engines (SQL, NoSQL, graph, vector)."
+2026-11-13T15:43:57Z,connectpak-core,0.1.0,,MIT,5982,"Core BaseConnector, read-only SQL guard, and MCP server runner for connectpak."
+2026-11-13T15:43:58Z,connectpak-graph-arangodb,0.1.0,,MIT,4922,ArangoDB connector for connectpak.
+2026-11-13T15:43:59Z,connectpak-graph-memgraph,0.1.0,,MIT,2955,Memgraph connector for connectpak.
+2026-11-13T15:44:20Z,rocq-solid-mcp,1.0.0,Benjamin Peters,MIT,70197,"RocqSolid: an MCP server for Rocq proof development, backed by rocq-lsp"
+2026-11-13T15:45:11Z,nxt-nxtorganizer,0.0.0,,MIT,1829,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-13T15:45:33Z,nxtads,0.0.0,,MIT,1716,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-13T15:45:54Z,nxtads-agent,0.0.0,,MIT,1782,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-13T15:46:16Z,nxtagents,0.0.0,,MIT,1748,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-13T15:46:19Z,zeropx-poseidon2-goldilocks,0.2.0,"""Dr. Vander Geraldo Rodrigues da Cunha Júnior"" <vgrcjr@gmail.com>",MIT,33724,Pure-Python Poseidon2 permutation and hash over the Goldilocks field (2^64 - 2^32 + 1). Byte-for-byte compatible with the Plonky2 / qp-poseidon-core reference. Zero runtime dependencies.
+2026-11-13T15:46:24Z,zeropx-receipt-chain,0.3.0,"""Dr. Vander Geraldo Rodrigues da Cunha Júnior"" <vgrcjr@gmail.com>",MIT,36497,"Append-only, hash-chained JSON-lines ledger for tamper-evident event logs. Zero dependencies. Every entry SHA-256 self-signs and links the previous; verify walks and proves the chain."
+2026-11-13T15:46:28Z,zeropx-layercomp,0.1.0,"""Dr. Vander Geraldo Rodrigues da Cunha Júnior"" <vgrcjr@gmail.com>",MIT,17950,"Algebraic composition of defense-in-depth layers — pick min, sum-dB, or max correctly"
+2026-11-13T15:46:32Z,zeropx-gguf-inspect,0.3.0,"""Dr. Vander Geraldo Rodrigues da Cunha Júnior"" <vgrcjr@gmail.com>",MIT,42665,"Zero-dependency static inspection of GGUF model files. Extracts chat_template, tokenizer metadata, tensor info; flags prompt-injection surface. Does not load the model."
+2026-11-13T15:47:43Z,spam-gui,0.1.1,"Cyrille Couture <cyrille.couture@univ-grenoble-alpes.fr>, Emmanuel Roubin <emmanuel.roubin@univ-gre…",GPL-3.0-or-later,683242,"Graphical modules for spam (Software for the Practical Analysis of Materials), in a napari viewer"
+2026-11-13T15:47:50Z,procteye,2.1.0,Procteye,MIT,28505,Official server-side Python SDK for the Procteye Integrity API.
+2026-11-13T15:48:01Z,CDRUtilities,1.0.1,"Vicky Slonosky <VickyS08@users.noreply.github.com>, Henry Balen <balen@users.noreply.github.com>",GPL-3.0-or-later,60133,Python functions to assist with climata data rescue projects
+2026-11-13T15:49:25Z,plOTme-for-Orbitrap,0.0.1,Cameron Hollick <cameron.hollick@york.ac.uk>,MIT,10404,A set of Python scripts to plot CSV data extracted from Thermo Scientific FreeStyle
+2026-11-13T15:52:28Z,spakky-oauth,11.1.0,Spakky,MIT,27715,"OAuth 2.0 client plugin for Spakky framework (authorization code + PKCE, token refresh)"
+2026-11-13T15:53:31Z,pueue-pmon,0.1.1,,MIT,23313914,Read-only live terminal monitor for pueue queues
+2026-11-13T15:57:14Z,qcloud-ai,0.4.0,QCloud <info@qcloud.host>,MIT,168901,Official Python client for QCloud inference and model generation APIs
+2026-11-13T15:57:18Z,shortdrama-pipeline,0.4.0,shortdrama contributors,MIT,600369,本地 AI 短剧产线：剧本→分镜→H3 出镜→剪辑→配音→门禁→审片工作台（可分发）
+2026-11-13T15:57:41Z,osht,0.1.0,Zubair Khalid <zubair.khalid@lums.edu.pk>,"MIT License Copyright (c) 2026 Zubair Khalid Permission is hereby granted, free of charge, to any p…",3693308,"Spherical harmonic transforms on optimal-dimensionality (L^2) samples: O(L^3) interpolated elimination, exact inverse, stable ring placements"
+2026-11-13T15:58:08Z,motion-master-client,6.0.0a124,,GPL-3.0-only,100953,Python client for the Motion Master HTTP API and WebSocket
+2026-11-13T15:58:37Z,wf-sentinel,0.26.0,Subgenius,Apache-2.0,219552,Sentinel: Winterforge expressed as a UI toolkit
+2026-11-13T16:00:40Z,errlex,0.1.0,errlex contributors,MIT,35816,Single-source-of-truth error taxonomy generator for polyglot systems.
+2026-11-13T16:02:08Z,fixing-loop-agent,0.1.0,,,8957,An autonomous AI agent that reviews and fixes code using a self-correcting loop.
+2026-11-13T16:02:16Z,holpy,0.1.0,"Bohua Zhan <bzhan@ios.ac.cn>, Alex de Ruijter <A.L.deRuijter@tudelft.nl>",BSD-3-Clause,8472191,Higher-order logic theorem prover and proof assistant in Python
+2026-11-13T16:03:35Z,spielstream,0.0.1,Spielstream maintainers,Apache-2.0,14371,"A local, open-source playground for learning and sharing Streamhouse architectures."
+2026-11-13T16:04:46Z,toolright,0.0.2,,MIT,8885,Does your agent pick the right tool? Test MCP tool descriptions against real models. Python launcher for the Toolright Node.js CLI.
+2026-11-13T16:05:18Z,domino-agui,0.2.0,,Apache-2.0,79227,"AG-UI for framework agents on the Domino agent service: a ready-made agent for LangGraph, CrewAI and the Anthropic and OpenAI SDKs, and a standard-library core"
+2026-11-13T16:06:12Z,aci-tallies,0.1.0,Alvaro Cubi,EUPL-1.2,7575814,"Read MCNP tally files (meshtal, MCTAL), however large, into NumPy arrays"
+2026-11-13T16:08:22Z,moth-atlas,0.0.0,Moth Quantum,,978,"Python client for Moth Quantum Atlas (name placeholder, not yet released)"
+2026-11-13T16:10:27Z,claude-chatter-mcp,0.5.0,non7top,MIT,60557,"MCP server that lets Antigravity (agy) and other MCP hosts message Claude Code sessions, with push wake-up for idle agy conversations."
+2026-11-13T16:11:08Z,softsim,0.1.0,BoredAmi,Apache-2.0,929784,"Data-driven simulation of soft materials and soft robots, with pluggable physics backends and validation against experiments."
+2026-11-13T16:11:13Z,l2orbits,0.1.2,Sen-wen Deng <senwen.deng@l2it.in2p3.fr>,,227580,A Python package for L2 usage of LISA orbits.
+2026-11-13T16:11:31Z,anime-sama-cli-api,0.4.0,"NiniKo <pcninik@gmail.com>, Mathieux83 <car.math@live.fr>",GPL-3.0-or-later,139323,Api for anime-sama
+2026-11-13T16:13:46Z,proofbeak,0.6.0,Esref Turkok,Apache-2.0,314248,Consumer-defined acceptance trials for AI agents
+2026-11-13T16:17:56Z,k11-release-gate-mcp,0.1.0,K11 Software Solutions,MIT,36568,"MCP server and CI gate for release decisions: combines UI healing, API contract, API functional, LLM red-team and JUnit evidence under a written policy into ship / conditions / needs a person / block…"
+2026-11-13T16:18:31Z,herdsman,0.1.0,John Christiansen,Apache-2.0,115938,"An independent statistical referee for AI analysts: count every test, seal the confirmation data, certify only what survives."
