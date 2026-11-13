@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T13:20:00Z,future-meta,0.9.0,,MIT,11516020,"Chinese futures fee, margin, and contract specification as-of query client"
+2026-11-13T13:20:20Z,spacetime-dsl,0.1.1,,,51051,"Compiler for a DSL describing Lamport space-time diagrams, from source file to SVG diagram"
+2026-11-13T13:24:01Z,auraseed,1.1.1,,,1447420,"Zero-privilege Python runtime discovery, capability probing, and sovereign virtual environment (mvenv) engine."
+2026-11-13T13:26:06Z,obx-cli,0.0.0,,,1091,
+2026-11-13T13:27:55Z,joblibspark-fabric,0.7.0,Weichen Xu,Apache-2.0,34419,Independently maintained Apache Spark backend for joblib
+2026-11-13T13:29:19Z,tabapi,0.1.0,Probabl,BSD-3-Clause,22488,scikit-learn-style Python client for tabular foundation models (TabICL) served over HTTP
+2026-11-13T13:29:25Z,hostpulse,0.1.0,,MIT,10780,A command-line tool for checking local system status
+2026-11-13T13:30:41Z,prefect-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,21013,"The live web data engine for Prefect: Search API ($5 per 1,000 searches of up to 10 results, $1 on the fast tier) and Extract API ($0.80 per 1,000 pages) as Prefect tasks with a credentials block."
+2026-11-13T13:31:04Z,yandex-infradev-scorch-client,66.0.3,Yandex,,1185,A package to prevent Dependency Confusion attacks against Yandex.
+2026-11-13T13:31:44Z,aurasprout,0.1.1,,,2049768,"User-space zero-privilege AuraGrid cell coordination, application catalog, installer, and supervision layer."
+2026-11-13T13:33:11Z,marathonts,1.0.0,"Sergey Shulgin, Shuhrat Khalilbekov, Bonu Boboeva, Azizjon Azimi",Apache-2.0,455914,A benchmark of long synthetic time series: window assembly from generated pools against long-series generators
+2026-11-13T13:34:43Z,napari-nd2,0.1.1,Georgeos Hardo,BSD-3-Clause,20935,"Open Nikon ND2 files in napari, lazily, one layer per channel."
+2026-11-13T13:35:04Z,camls,0.1.1,,,22624,"List Linux cameras, USB identity, V4L2 nodes, and formats without runtime dependencies"
+2026-11-13T13:35:38Z,rashomon-llm,0.1.0,Egzakta AI Lab,Apache-2.0,125940,Measure how often an LLM endpoint returns different outcomes for identical request parameters under concurrent load.
+2026-11-13T13:35:50Z,moselecta,0.3.0,"David Swarbreck, Gemy Kaithakottil",MIT,6132087,"CDS-structure-aware gene-model selection with optional genomic sequence, protein, and transcript evidence integration"
+2026-11-13T13:36:18Z,reva,0.1.1,Alba Maria Tellez Fernandez,LicenseRef-Research-Use-1.1,597508,Evidence-aware evaluation infrastructure for embodied AI
+2026-11-13T13:37:29Z,zeeml-cadence,1.0.0,ZeeML Engineering <engineering@zeeml.com>,MIT,10063,"Zero-dependency sentence burstiness, Yule's K diversity, readability, CGPA equivalency, and RFC-4180 JSON-to-CSV toolkit by ZeeML (zeeml.com)."
+2026-11-13T13:39:28Z,governed-objects,0.2.1,,Apache-2.0,233117,Governed Objects runtime — a reusable primitive for policy-aware organizational assets
+2026-11-13T13:45:33Z,lispyn,0.18.0a1,Eduardo J. Barrios,Apache-2.0,121659,"Lisp-powered PyTorch experiments and Jupyter notebooks, built on Hy."
+2026-11-13T13:45:41Z,claude-chatter,0.2.1,non7top,MIT,62391,Claude Code peer messaging protocol and client library.
+2026-11-13T13:47:52Z,k11-api-contract-qa-mcp,0.1.0,K11 Software Solutions,MIT,88313,"MCP server and Claude Code plugin for API contract testing across OpenAPI, Swagger, GraphQL, gRPC/protobuf, AsyncAPI and SOAP/WSDL: consumer-aware breaking-change detection, deployed-contract drift a…"
+2026-11-13T13:50:07Z,tapebasis,1.0.0,Giray Gokirmak <giray@gokirmak.gen.tr>,MIT,1062895,"MCP server that serves TradingView, Finviz, Yahoo Finance, StockAnalysis and Bloomberg market data together, cross-checks every overlapping field, labels each response ALL/TRADINGVIEW/FINVIZ/YAHOO/SA…"
+2026-11-13T13:50:24Z,stixa,0.0.1,Jools Clarke,,1891,Placeholder for the stixa project (instrument-agnostic exoplanet retrievals). Under development.
+2026-11-13T13:51:42Z,locsvol,1.0.0,Paul P. Hager,Apache-2.0,230369,Calibration of local stochastic volatility models by fixed-point iteration
+2026-11-13T13:52:36Z,annunciator,1.1.2,Tom Scott,MIT,177461,"Error, warning and information handling and logging with message catalogues."
+2026-11-13T13:53:08Z,ilostat-mcp,0.1.0,Rake Anggoro <rake.linggar@gmail.com>,MIT,75077,MCP server exposing ILOSTAT employment and wage data to AI agents
+2026-11-13T13:54:34Z,estrellio-repo-vault,0.1.0,,MIT,34860,Encrypted Git and directory archives
+2026-11-13T13:55:06Z,kgpay,0.2.1,Akjol,MIT,313469,"Payment gateways of Kyrgyzstan for Python: Finik and FreedomPay. Signed requests, verified webhooks."
+2026-11-13T13:55:37Z,pixelcanvas,0.4.0,treeleaves30760,MIT,3628005,"An agent skill and library that draws finished pictures with code: numpy + Pillow, no image model"
+2026-11-13T13:59:18Z,hydrocouple,0.0.0.dev0,Caleb Buahin,MIT,3159,Name placeholder for hydrocouple: Python interface definitions for the HydroCouple component-based modeling framework
+2026-11-13T14:03:03Z,nodeping-exporter,0.1.0,"""Gary T. Giesen"" <ggiesen@giesen.me>",MPL-2.0,54793519,"Prometheus exporter for NodePing checks, including AGENT checks and subaccounts"
+2026-11-13T14:03:25Z,qsiv-runtime,0.1.0,Daniel Illescas Romero <illescas.daniel@protonmail.com>,MIT,76544,"Local QSIV decision model for your tools: one shared GPU service, a stdlib-only client, setup and doctor."
+2026-11-13T14:03:37Z,pynora,0.1.0,Ayush,MIT,27244,It Does Nothing
+2026-11-13T14:04:36Z,fastapi-cache-stable,0.3.0a0,Agustin Saiz,Apache-2.0,36852,"Community-maintained, drop-in stable fork of fastapi-cache2"
+2026-11-13T14:05:29Z,bd-buildabolt,0.0.1,Maciej Małecki,MIT AND LGPL-2.1-or-later,40154,Standard fastener holes and nut pockets for build123d
+2026-11-13T14:05:54Z,seletech,0.1.0,,Apache-2.0,21079,"Python client for SeleID sign-in (PKCE), SeleStorage, SeleBase, events and SeleAI."
+2026-11-13T14:07:53Z,obdeect-ray-tracing,0.8.0,obdeect contributors,BSD-3-Clause,3122675,Ray tracing for imaging atmospheric Cherenkov telescopes
+2026-11-13T14:09:40Z,obdeect-stream,0.8.0,obdeect contributors,BSD-3-Clause,10512801,Photon-stream format and I/O for Cherenkov-telescope simulation chains
+2026-11-13T14:11:16Z,obdeect-propagation,0.8.0,obdeect contributors,BSD-3-Clause,9926596,Atmospheric propagation of Cherenkov and artificial-source photons
+2026-11-13T14:11:29Z,obdeect-sources,0.8.0,obdeect contributors,BSD-3-Clause,9176752,Artificial light sources for Cherenkov telescopes
+2026-11-13T14:11:34Z,breachbench,1.3.1,Tanushree Umathe,MIT,175497,"Open-source security benchmark, 3-layer Guardrail Shield, and static/dynamic scanner for AI agents, code vulnerabilities, malware lures, phishing, and OWASP API Top 10 flaws."
+2026-11-13T14:13:23Z,locutor,0.1.0,Pedro Henrique Coimbra <pedro-henrique.herig-coimbra@inrae.fr>,EUPL-1.2,75278,"Call R and Julia from Python, as a function in memory or as a script."
+2026-11-13T14:13:50Z,sicredi-sdk,0.1.0,Fábio Thomaz <fabio@ladder.dev.br>,MIT,44540,SDK Python para as APIs do Sicredi (extrato e saldo de conta corrente)
+2026-11-13T14:14:17Z,databricksedu,0.1.0,Mihály Orsós,MIT,4041635,"Bite-sized Databricks lessons that run inside your notebook: animated slides, notes, exercises and seeded demo data."
+2026-11-13T14:14:21Z,tebra_soap_api,0.1.0,Suleman Elahi,,108767,Async Python wrapper for the Tebra (Kareo) SOAP 2.1 API
+2026-11-13T14:15:45Z,fastamodeller,1.0.0,Daniel Pérez Rodríguez <dperez@iim.csic.es>,MIT,55083,"Generate random DNA, RNA and protein sequences in FASTA format from a JSON configuration."
+2026-11-13T14:17:06Z,mc-aprs,0.0.1a26,Adam Fourney <adam.fourney@gmail.com>,,48693,A MeshCore-APRS Gateway

@@ -1,34 +1,48 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-11-13T12:19:42.47248Z",
-    "path": "data/new-packages-2026-11-13T13-18-43-85892Z.csv",
-    "to": "2026-11-13T13:18:43.85892Z"
+    "count": 47,
+    "from": "2026-11-13T13:18:43.85892Z",
+    "path": "data/new-packages-2026-11-13T14-19-23-305457Z.csv",
+    "to": "2026-11-13T14:19:23.305457Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-11-13T09:43:46Z",
-      "package": "dashscope-sdk-python",
-      "since": "2026-11-13T09:18:52.317411Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-13T10:24:52Z",
       "package": "hostdrift",
       "since": "2026-11-13T10:18:38.721775Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-13T13:46:00Z",
+      "package": "q8s-cuda",
+      "since": "2026-11-13T13:18:43.85892Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-13T13:48:35Z",
+      "package": "q8s-hpc-cpu",
+      "since": "2026-11-13T13:18:43.85892Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-13T13:49:34Z",
+      "package": "q8s-hpc-rocm",
+      "since": "2026-11-13T13:18:43.85892Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-13T11:23:35Z",
       "package": "slmbench-cli",
       "since": "2026-11-13T11:18:38.64962Z",
       "version": "0.1.1"
     }
   ],
-  "serial": 43606440,
+  "serial": 43608781,
   "source_truncated": false,
-  "window": "2026-11-13T13:18:43.85892Z"
+  "window": "2026-11-13T14:19:23.305457Z"
 }
