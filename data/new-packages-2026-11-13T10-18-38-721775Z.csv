@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T09:20:15Z,pink-eval,1.1.0,"Jin Seong, Wencke Liermann, Minho Kim, Jong-hun Shin, Soojong Lim",BSD-3-Clause,88132,PINK: over-correction-aware evaluation of handwritten math OCR (EMNLP 2026)
+2026-11-13T09:20:22Z,carriercrow,0.1.0,Frozen Crow Inc.,MIT,20804,"Carrier Crow email API client: send email, read what happened to it, and verify webhooks"
+2026-11-13T09:21:11Z,ayasee,0.1.0rc2,,Apache-2.0,1577041,"GitHub Actions-only CI/CD framework for staged, gated infrastructure-as-code promotion."
+2026-11-13T09:22:55Z,conversor-unidades-Marco-Nieto-Jon-Aimar,0.1.0,"Jon Marco <jon.marco@alumni.mondragon.edu>, Aimar Nieto <aimar.nieto@alumni.mondragon.edu>",MIT,6723,Una librería simple para conversión de unidades de medida
+2026-11-13T09:26:41Z,tallwright-core,0.1.0,Tallwright,Apache-2.0,22217,"Tallwright - shared record schema, content-addressing, and RFC 6962 Merkle primitives"
+2026-11-13T09:28:07Z,krunbox,2.0.0,,Apache-2.0,554555,Podman & microVM Sandboxing Engine with GTK4 Console
+2026-11-13T09:28:57Z,denflux,0.1.0,Mianzhi Wang <mianzhi.wang@helsinki.fi>,,33440,A process-based approach to correct TDP baseline shifts.
+2026-11-13T09:29:22Z,mcp-demand-radar,0.1.0,,MIT,21376,Track GitHub demand for MCP servers and find the gaps nobody fills yet.
+2026-11-13T09:30:20Z,wechatpay-python,0.0.1,TiyeeJiang,"MIT License Copyright (c) 2026 TiyeeJiang Permission is hereby granted, free of charge, to any pers…",23838,A Python SDK foundation for WeChat APIs
+2026-11-13T09:33:03Z,almetec,0.0.1,Alpes Lasers SA,,2400,Name reserved by Alpes Lasers SA. This is not the almetec package.
+2026-11-13T09:33:06Z,fastpeg,0.0.0,Dominik Schwimmbeck,MIT OR Apache-2.0,12575,"A PEG parsing library with a native engine. In development, this release holds no code yet"
+2026-11-13T09:33:35Z,ai-citation-map,0.1.0,CiteProof <hello@citeproof.co>,MIT,9333,"Rank the domains cited in AI answers (ChatGPT, Perplexity, Gemini) from a CSV."
+2026-11-13T09:34:18Z,tallwright-cloud,1.0.0rc1,Tallwright,Apache-2.0,73414,"Tallwright - Cloud Proof from Python: the content stays with you, a salted address is recorded"
+2026-11-13T09:38:25Z,hemopimod2,1.0,Anand Singh Rathore,GPL-3.0,31957737,HemoPI-MOD2: Prediction of Hemolytic Potency (HC50) of Chemically Modified Peptides.
+2026-11-13T09:38:28Z,qfield-fetch,0.1.0,,GPL-2.0-or-later,32944,Download QField AppImages and QField and QFieldCloud sources into one cache
+2026-11-13T09:38:34Z,cassiopee-roms-i8,2026.11,ONERA,LGPLv3,1151595,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-13T09:38:36Z,cassiopee-generator-i8,2026.11,ONERA,LGPLv3,3707277,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-13T09:38:38Z,cassiopee-kcore-i8,2026.11,ONERA,LGPLv3,1197165,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-13T09:38:40Z,cassiopee-connector-i8,2026.11,ONERA,LGPLv3,2730281,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-13T09:49:10Z,footscout,0.1.0,"Julen Rivas <julen.rivas@alumni.mondragon.edu>, Oier Saenz <oier.saenz@alumni.mondragon.edu>",MIT,2438438,Librería en Python para el scouting y filtrado estadístico de futbolistas de campo y porteros.
+2026-11-13T09:49:42Z,omicsfold,0.1.0,Shahroz Rahman,MIT,169590,Reproducible binary classification for omics data with group-aware validation
+2026-11-13T09:51:45Z,honest-ci,0.1.0,Wenchao Gou,LicenseRef-FCL-1.0-ALv2,921587,"Catches pull requests that pass by deleting, skipping or rewriting tests, and holds them for a person, with the evidence."
+2026-11-13T09:53:45Z,indic-phonetic,0.1.0,Aman Trivedi <amantrivedi2003@gmail.com>,MIT,64489,"Match Indian names and places by how they sound, across Devanagari, Tamil and Roman script"
+2026-11-13T09:53:52Z,odoo-addon-stock-period-evaluation,18.0.1.0.0.3,"Pordenone Linux User Group (PNLUG), Odoo Community Association (OCA), Dinamiche Aziendali srl, Serg…",AGPL-3,70287,"Stock evaluation with FIFO, LIFO and average methods"
+2026-11-13T09:54:59Z,hikstream,0.1.0,Ali Mustoofa,MIT,92763,"Low-latency, multi-backend streaming library for Hikvision cameras (RTSP decoding + ISAPI camera control)"
+2026-11-13T09:55:19Z,smoothing-on-sphere,6.0.0,Gregor Skok <Gregor.Skok@fmf.uni-lj.si>,MIT,16194683,Area-weighted smoothing of fields on a sphere using KD-trees and overlap detection
+2026-11-13T09:57:18Z,agent-ctx-guard,0.1.0,maintainers,MIT,19627,Verifiable context compression for agent sessions. Compression is a process; verifiability is the result.
+2026-11-13T09:57:28Z,agent-mcp-check,0.1.0,maintainers,MIT,19281,"One-shot black-box security check for MCP servers. Malformed probes, method-not-found, unknown-tool, fail-closed grading, hash-chained trail."
+2026-11-13T09:57:29Z,agent-route-grid,0.1.1,agent-route-grid maintainers <2307788504@qq.com>,MIT,22954,"An audited routing layer for multi-agent teams: zone-based routing policy, workspace isolation, and a hash-chained decision trail (research prototype / AI-assisted development)."
+2026-11-13T09:58:34Z,inspect-oscal,0.1.0,John B Joseph,MIT,505174,Unofficial: convert Inspect eval logs into OSCAL assessment-results evidence mapped to NIST AI RMF subcategories.
+2026-11-13T10:01:19Z,jetcarp,0.4.0,Jimmie Rodgers <jimmie@jimmieprodgers.com>,Unlicense OR MIT,148171894,"Cellular automata on almost any tiling of the plane: square, hexagonal, Archimedean, k-uniform, isohedral and aperiodic (Penrose, hat, spectre). An app, a command line, scripting and an MCP server."
+2026-11-13T10:03:25Z,conversor-unidades-MU,0.1.2,"Jon Marco <jon.marco@alumni.mondragon.edu>, Aimar Nieto <aimar.nieto@alumni.mondragon.edu>",MIT,6417,Una librería simple para conversión de unidades de medida
+2026-11-13T10:05:39Z,roughprix,0.1.0,"""Paul P. Hager"" <hagerpa@gmail.com>",Apache-2.0,190625,European option pricing for the rough Heston model with H-expansion
+2026-11-13T10:06:55Z,evidenceloop,0.1.0,EvidenceLoop contributors,MIT,47313,Evidence-driven investigation ledger for crash analysis
+2026-11-13T10:07:18Z,clasificacion-F1,0.2.0,"Nora <nora.aramburur@alumni.mondragon.edu>, Maria <maria.figueroa@alumni.mondragon.edu>",MIT,9120,Una librería simple para poder analizar las clasificaciones de F1
+2026-11-13T10:07:36Z,ironicl,0.1.0,,BSD-3-Clause,887731,TabICLv2 classifier inference without PyTorch
+2026-11-13T10:09:50Z,clasificacion-F1-n,0.1.0,"Nora <nora.aramburur@alumni.mondragon.edu>, Maria <maria.figueroa@alumni.mondragon.edu>",MIT,9305,Una librería simple para poder analizar las clasificaciones de F1
+2026-11-13T10:10:40Z,DNSMuggle,1.0.0,Aviral Bohra,MIT,2594891,"Smuggle a file out using only DNS queries, then detect it"
+2026-11-13T10:11:37Z,wechat-sdk-python,0.0.1,TiyeeJiang,"MIT License Copyright (c) 2026 TiyeeJiang Permission is hereby granted, free of charge, to any pers…",23853,A Python SDK foundation for WeChat APIs
+2026-11-13T10:12:00Z,frt-agent-firewall,0.1.0,maintainers,MIT,48675,Fail-closed MCP tool-call firewall with a tamper-evident hash chain. Give your AI agent's MCP tools a local firewall.
+2026-11-13T10:17:19Z,ascii-pen,0.1.0,ParisNeo,MIT,24315,"A minimalist terminal text editor with Python syntax highlighting, built on the ascii_colors TUI."
+2026-11-13T10:17:39Z,pios-cli,0.5.1,,,43116008,PiOS CLI native distribution
