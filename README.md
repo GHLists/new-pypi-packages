@@ -8,45 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 20:20 UTC
+## Latest list — 2026-11-14 21:19 UTC
 
-New packages created between 2026-11-14 19:18 UTC and 2026-11-14 20:20 UTC.
+New packages created between 2026-11-14 20:20 UTC and 2026-11-14 21:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T20-20-05-049272Z.csv)
+[Full CSV](data/new-packages-2026-11-14T21-19-03-58013Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 19:17:37 | [recusal-google-adk](https://pypi.org/project/recusal-google-adk/) | 0.1.1 | Philip Paz <philip.paz@gmail.… | 30.3 kB | Recusal gate for Google ADK: judge every tool call in a before-tool callback or… |
-| 2026-11-14 19:22:35 | [recusal-crewai](https://pypi.org/project/recusal-crewai/) | 0.1.1 | Philip Paz <philip.paz@gmail.… | 34.9 kB | Recusal gate for CrewAI: judge every tool call in CrewAI's own tool-call hooks,… |
-| 2026-11-14 19:23:59 | [omadbek-git-sdk](https://pypi.org/project/omadbek-git-sdk/) | 0.1.0 | Omadbek Group | 9.4 kB | Git automation SDK and CLI with safe defaults |
-| 2026-11-14 19:25:35 | [recusal-pydantic-ai](https://pypi.org/project/recusal-pydantic-ai/) | 0.1.1 | Philip Paz <philip.paz@gmail.… | 25.5 kB | Recusal gate for Pydantic AI: judge every tool call in before_tool_execute, ref… |
-| 2026-11-14 19:27:26 | [spine-neuro](https://pypi.org/project/spine-neuro/) | 1.0.0 | Zachary M. Miksis, Gillian Qu… | 1.1 MB | A framework for mechanistic neuronal simulation that couples membrane electroph… |
-| 2026-11-14 19:27:28 | [spine-assistant](https://pypi.org/project/spine-assistant/) | 0.1.0 | Zachary M. Miksis, Gillian Qu… | 600.5 kB | Natural-language-to-script assistant for the SPINE neuronal simulator |
-| 2026-11-14 19:34:02 | [prod-rag](https://pypi.org/project/prod-rag/) | 0.1.0 | Production RAG Contributors | 77.1 kB | Production-ready RAG library with document ingestion, chunking, embedding, and… |
-| 2026-11-14 19:35:01 | [winds-of-change](https://pypi.org/project/winds-of-change/) | 0.2.1 |  | 39.0 kB | Weather-change features (pressure, humidity, temperature) for relating weather… |
-| 2026-11-14 19:35:47 | [kaibo](https://pypi.org/project/kaibo/) | 0.1.0 |  | 106.5 kB | Python SDK for kaibo: memory for AI agents. remember, recall, explain, forget. |
-| 2026-11-14 19:36:27 | [ase2sprkkr-gui](https://pypi.org/project/ase2sprkkr-gui/) | 0.2.0b1 |  | 845.1 kB | PyQt6 GUI for building/editing ASE structures and running SPR-KKR via ase2sprkk… |
-| 2026-11-14 19:36:29 | [uai-governance](https://pypi.org/project/uai-governance/) | 0.15.4.post1 |  | 126.0 kB | Cross-vendor agent collaboration with acceptance governance (UAI stage2 modules) |
-| 2026-11-14 19:37:34 | [signalmoat](https://pypi.org/project/signalmoat/) | 0.3.1 | Siddharth | 95.6 kB | Open-source agent firewall and early-warning layer for web apps: verify AI agen… |
-| 2026-11-14 19:48:32 | [aiodpc](https://pypi.org/project/aiodpc/) | 0.1.0 | Webysther Sperandio | 97.8 kB | Async client for the Italian Civil Protection Department (DPC) alert and weathe… |
-| 2026-11-14 19:54:23 | [skvault](https://pypi.org/project/skvault/) | 0.1.0 |  | 104.3 kB | Sovereign secrets vault — gpg-agent SEAL (via capauth) + KeePass creds + Shamir… |
-| 2026-11-14 19:55:35 | [geomech](https://pypi.org/project/geomech/) | 0.2.0 | Prasanth Kotaru | 666.8 kB | Symbolic computation of dynamics on smooth manifolds |
-| 2026-11-14 19:56:10 | [sktrip](https://pypi.org/project/sktrip/) | 0.1.2 | Lumina & Chef <lumina@douno.i… | 95.0 kB | AI Psychedelic Experience Protocol — computational psilocybin for sovereign AI… |
-| 2026-11-14 19:56:43 | [jalalix](https://pypi.org/project/jalalix/) | 0.1.0 | Hossein Maklavani <hos.mohama… | 51.3 kB | Jalali (Persian/Shamsi) calendar for Python. Pure Python, no runtime dependenci… |
-| 2026-11-14 19:58:27 | [centinela-ia](https://pypi.org/project/centinela-ia/) | 0.1.1 | Equipo Centinela | 68.0 kB | Guardia de código abierto para asistentes de IA que leen mensajes en español: d… |
-| 2026-11-14 19:58:44 | [pernox](https://pypi.org/project/pernox/) | 0.1.0 |  | 10.1 kB | Email yourself from a script running in nox. |
-| 2026-11-14 19:59:32 | [workorder](https://pypi.org/project/workorder/) | 0.5.0 | Tom Bar-Haim | 136.2 kB | The task record for coding agents: every task recorded, a clear history, agents… |
-| 2026-11-14 20:03:26 | [exuvia](https://pypi.org/project/exuvia/) | 0.0.1 | Robert Lancer | 2.3 kB | An AI-first DAG workbench for analysts and data scientists. Name reserved; firs… |
-| 2026-11-14 20:05:00 | [repotour](https://pypi.org/project/repotour/) | 1.0.0 | "M. Babar Shahzad" <babarshah… | 1.9 MB | Generate a codebase tour for new contributors: where to start, what matters, an… |
-| 2026-11-14 20:09:26 | [anchorlight](https://pypi.org/project/anchorlight/) | 0.0.1 | Anchorlight AI | 1.7 kB | Name reserved by Anchorlight AI. Real releases follow. |
-| 2026-11-14 20:09:26 | [qurankit-core](https://pypi.org/project/qurankit-core/) | 0.1.0 | QuranKit Contributors <muqtad… | 175.1 kB | A modular, Python-first computational Qur'anic research library |
-| 2026-11-14 20:09:27 | [omega-evidence](https://pypi.org/project/omega-evidence/) | 0.11.4 | Roberto Locatelli | 444.4 kB | Open, standard toolkit for verifiable, long-term compliance evidence |
-| 2026-11-14 20:09:28 | [picolan](https://pypi.org/project/picolan/) | 1.0.0 | Avi Raviv | 30.2 kB | Update, find and monitor RP2350 + W5500 boards that run the picolan library, ov… |
-| 2026-11-14 20:09:38 | [zexl](https://pypi.org/project/zexl/) | 0.1.0 | Zexl | 62.8 kB | See how much of your AI spend did useful work, without sending a single prompt. |
-| 2026-11-14 20:09:48 | [eqinvoice](https://pypi.org/project/eqinvoice/) | 1.1.0 | jahirtrap | 117.8 kB | Electronic invoices and credit notes for Ecuador's SRI: build, sign, send, auth… |
-| 2026-11-14 20:09:50 | [omega-health-companion](https://pypi.org/project/omega-health-companion/) | 0.8.0 | Roberto Locatelli | 547.7 kB | Ambulance pre-alert companion: vitals as sent, signed hash-chained audit, CH EM… |
-| 2026-11-14 20:10:02 | [rigorous-levels](https://pypi.org/project/rigorous-levels/) | 0.3.0 | Roberto Locatelli | 395.7 kB | Guaranteed eigenvalue intervals for the charge-basis rotor (transmon, cos mφ),… |
-| 2026-11-14 20:12:07 | [folio-cli](https://pypi.org/project/folio-cli/) | 0.3.0 | Iman Sharei | 57.0 kB | Local hybrid RAG over curated AI / MLOps / infra curricula — graphify-style CLI… |
-| 2026-11-14 20:12:34 | [whisper-memo](https://pypi.org/project/whisper-memo/) | 0.1.0 | adamhp | 114.4 kB | Record voice memos in your terminal and transcribe them locally with Whisper. |
-| 2026-11-14 20:13:38 | [counterdex](https://pypi.org/project/counterdex/) | 0.3.0 |  | 2.5 MB | Bounded candidate discovery, exact historical checks and measurement decisions |
-| 2026-11-14 20:15:12 | [trusttab](https://pypi.org/project/trusttab/) | 0.1.0 | TrustTab Contributors | 213.1 kB | Reliability-aware stress testing for tabular machine learning |
+| 2026-11-14 20:25:33 | [flightdeck-cli](https://pypi.org/project/flightdeck-cli/) | 0.9.0 | Flightdeck | 130.0 MB | Flightdeck: fleet observability and control for AI coding agents, as one binary |
+| 2026-11-14 20:25:57 | [drf-parcel](https://pypi.org/project/drf-parcel/) | 0.1.0 | amir mohammad kashanchian | 135.3 kB | One response shape for a Django REST framework API - success, page and error al… |
+| 2026-11-14 20:27:19 | [klatch](https://pypi.org/project/klatch/) | 0.1.0.dev1 |  | 9.6 kB | A substrate for agent rooms (pre-release; the Python client) |
+| 2026-11-14 20:27:57 | [gram-value](https://pypi.org/project/gram-value/) | 0.1.0 |  | 30.2 kB | The data values of the gram notation: kinds, equality, canonical text, known-ta… |
+| 2026-11-14 20:30:53 | [circuitcheck](https://pypi.org/project/circuitcheck/) | 0.1.0 | albertlieyingadrian | 112.8 kB | Tools on top of circuit-tracer: diff attribution graphs across training, valida… |
+| 2026-11-14 20:36:36 | [context-shrink-mcp](https://pypi.org/project/context-shrink-mcp/) | 1.0.0 | mahirfatih | 60.0 kB | OpenAI-compatible context guard MCP server: estimate, trim and compact a chat h… |
+| 2026-11-14 20:37:34 | [neomundi-evidence-verify](https://pypi.org/project/neomundi-evidence-verify/) | 0.1.0 | NeoMundi Evidence | 229.8 kB | Public offline verifier for NeoMundi Evidence archives, attestations and OpenTi… |
+| 2026-11-14 20:39:41 | [mufusion](https://pypi.org/project/mufusion/) | 0.0.1 | Matt Uyttendaele | 2.5 kB | Placeholder for mufusion, a NumPy-style lazy array compute library. Not yet rel… |
+| 2026-11-14 20:41:18 | [mango-lib](https://pypi.org/project/mango-lib/) | 0.3.0 | Paul Borgermans, Mariana Mont… | 42.1 kB | Library of utility functions used across ManGO Portal, ManGO Flow and ManGO Ing… |
+| 2026-11-14 20:43:28 | [statadic](https://pypi.org/project/statadic/) | 0.5.0a2 |  | 2.5 MB | Composable statistics on JAX, with inspectable assumptions and reproducible evi… |
+| 2026-11-14 20:43:40 | [dsm-app-client](https://pypi.org/project/dsm-app-client/) | 0.1.0b4 |  | 150.5 kB | Plug your app into DSM: your app's own DSM account, wallet connections, payment… |
+| 2026-11-14 20:45:50 | [phloem](https://pypi.org/project/phloem/) | 0.1.0rc1 |  | 19.2 MB | The official Phloem SDK for Python |
+| 2026-11-14 20:45:58 | [codedcompute](https://pypi.org/project/codedcompute/) | 0.5.0 |  | 37.1 kB | NumPy coded-computation simulation and Hydra experiment pipelines |
+| 2026-11-14 20:47:22 | [mango-portal](https://pypi.org/project/mango-portal/) | 0.50.11 | Paul Borgermans | 17.8 MB | ManGO Portal core package with a kernel and some optional plugins |
+| 2026-11-14 20:53:30 | [rk-modern-robotics](https://pypi.org/project/rk-modern-robotics/) | 0.1.0 |  | 22.2 kB | Symbolic and numeric screw-theory robotics library based on Modern Robotics |
+| 2026-11-14 20:53:34 | [counterdex-models](https://pypi.org/project/counterdex-models/) | 0.1.0 |  | 55.6 kB | Bounded numerical comparison of registered models; separate from Counterdex exa… |
+| 2026-11-14 20:55:09 | [allternit-freeweights](https://pypi.org/project/allternit-freeweights/) | 0.1.0 |  | 32.9 kB | fw: download, verify and search open AI model weights from Allternit Freeweights |
+| 2026-11-14 20:55:13 | [domainnameapi](https://pypi.org/project/domainnameapi/) | 1.0.0 | Atak Domain | 276.3 kB | Python client for the DomainNameAPI (domainnameapi.com) REST API: register, tra… |
+| 2026-11-14 20:58:06 | [uaid](https://pypi.org/project/uaid/) | 1.0.0 |  | 629.1 kB | Identify crawlers and bots by user agent with plain substring matching |
+| 2026-11-14 21:00:07 | [mango-flow](https://pypi.org/project/mango-flow/) | 0.2.3 | Paul Borgermans | 81.3 kB | Add your description here |
+| 2026-11-14 21:00:40 | [sova-oss](https://pypi.org/project/sova-oss/) | 0.1.0 | Gautam R. Patil, SOVA OSS con… | 2.8 MB | Portable AI-behavior capsules, traces, replay, and reproducibility tooling. |
+| 2026-11-14 21:02:00 | [delivrie](https://pypi.org/project/delivrie/) | 0.1.0 | South Circle <support@delivri… | 27.7 kB | Official Python SDK for Delivrie: send transactional email, broadcasts and auto… |
+| 2026-11-14 21:02:54 | [pixelworld-pipeline](https://pypi.org/project/pixelworld-pipeline/) | 0.1.0 | The pixelworld contributors | 579.2 kB | Offline geo pipeline for Pixelworld: real data -> gridded world packages. |
+| 2026-11-14 21:07:25 | [paxiom-receipts](https://pypi.org/project/paxiom-receipts/) | 0.1.3 | Paxiom | 48.5 kB | Zero-dependency Python issuer, verifier, x402 buyer preflight/live client, and… |
+| 2026-11-14 21:11:29 | [carter-ai](https://pypi.org/project/carter-ai/) | 0.22.0 | mauriciomem | 1.8 MB | AI agent scaffolding and workspace management for OpenCode |
+| 2026-11-14 21:11:59 | [pilot-fish](https://pypi.org/project/pilot-fish/) | 0.0.1 | ShawnPatrick-Barhorst | 23.3 kB | A lightweight, zero-infrastructure python monitoring library that runs algongsi… |
+| 2026-11-14 21:12:49 | [backspec](https://pypi.org/project/backspec/) | 0.0.1 | Adi Eyal | 309.9 kB | Extract user requirements from a codebase, with verified citations and a per-fi… |
+| 2026-11-14 21:17:30 | [qontain](https://pypi.org/project/qontain/) | 0.1.0 | Albin <albin@albyte.ai> | 32.8 kB | SDK for agents running under the qontain runtime: broker client and agent server |

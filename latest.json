@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 34,
-    "from": "2026-11-14T19:18:22.747707Z",
-    "path": "data/new-packages-2026-11-14T20-20-05-049272Z.csv",
-    "to": "2026-11-14T20:20:05.049272Z"
+    "count": 28,
+    "from": "2026-11-14T20:20:05.049272Z",
+    "path": "data/new-packages-2026-11-14T21-19-03-58013Z.csv",
+    "to": "2026-11-14T21:19:03.58013Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-14T16:48:22Z",
-      "package": "gateio-sdk",
-      "since": "2026-11-14T16:19:06.94668Z",
-      "version": "99.99.2"
+      "attempts": 1,
+      "created_at": "2026-11-14T20:42:28Z",
+      "package": "xr6-filter-wall",
+      "since": "2026-11-14T20:20:05.049272Z",
+      "version": null
     }
   ],
-  "serial": 43662880,
+  "serial": 43664359,
   "source_truncated": false,
-  "window": "2026-11-14T20:20:05.049272Z"
+  "window": "2026-11-14T21:19:03.58013Z"
 }
