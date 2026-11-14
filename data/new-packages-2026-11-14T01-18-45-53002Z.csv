@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T00:24:30Z,verifnow,0.1.0,VerifNow,Apache-2.0,56750,"Official Python SDK for the VerifNow validation API: email, phone, IBAN, VAT (VIES), SSN, SIN and NIF validation in one call."
+2026-11-14T00:27:28Z,netbox-disk-manager,0.1.0,SF Compute,Apache-2.0,63135,"Track disk PSIDs by manufacturer, model and serial, independent of module placement"
+2026-11-14T00:30:04Z,jetbrains-agents-converters,999.9.9,,,970,Stub package that mitigates Dependency Confusion attacks
+2026-11-14T00:33:50Z,gradbridge,0.1.0,Anthony Angeles,Apache-2.0,95334,"Gradients that cross framework boundaries: PyTorch, JAX, TensorFlow, NVIDIA Warp and NumPy."
+2026-11-14T00:35:06Z,netinfra-free-100-bonus-profi-jwny4,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5101,Technical network verification and high-availability endpoint registry for Free 100 Bonus Profile Entity Matrix
+2026-11-14T00:37:43Z,pretalx-webhooks,2026.2.1,Florian Mösch <florian@moesch.org>,Apache-2.0,138723,Call a webhook for selected pretalx event activity.
+2026-11-14T00:39:09Z,crawlutron,0.4.0rc1,crawlutron maintainers,MIT,16168,"Policy-driven, self-hosted web crawler and content-extraction service built around FastAPI"
+2026-11-14T00:39:11Z,crawlutron-core,0.4.0rc1,,MIT,520485,"Policy-driven, self-hosted web crawler and content-extraction service built around FastAPI"
+2026-11-14T00:39:12Z,crawlutron-mcp,0.4.0rc1,,MIT,19895,Transport-agnostic Model Context Protocol (2026-07-28) surface for the Crawlutron crawler
+2026-11-14T00:39:13Z,crawlutron-rest,0.4.0rc1,,MIT,64179,FastAPI HTTP surface for the policy-driven web crawler and content-extraction service
+2026-11-14T00:42:54Z,aiohttp-mcp-server,0.1.0,,Apache-2.0,206932,MCP (Model Context Protocol) server support for aiohttp
+2026-11-14T01:00:43Z,majec-core,0.2.0,,Apache-2.0,3747923,Compiled (Rust) equivalence-class builder for MAJEC RNA-seq quantification
+2026-11-14T01:06:04Z,souyun-mcp,0.1.1,okclip,MIT,100789,MCP (stdio) server for the sou-yun.cn 律诗/绝句 格律校验 (poem meter & rhyme checker)
+2026-11-14T01:06:20Z,stratifyx,0.0.1,Epoch,LicenseRef-Proprietary,3007,Reserved for Epoch. Epoch's StratifyX API client is installed from Epoch's package registry.
+2026-11-14T01:06:21Z,epoch-sdk,0.0.1,Epoch,LicenseRef-Proprietary,2999,Reserved for Epoch. Epoch's Python SDK is installed from Epoch's package registry.
+2026-11-14T01:12:07Z,buildertrend-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,18385,"Connect Buildertrend to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Buildertrend API key needed."
+2026-11-14T01:14:09Z,vcti-usd-schema-model,0.2.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,156033,"Codeless OpenUSD schema for the VCollab model, the stage the server builds for one model and projects into the viewer protocol: schema source, generated plugin, synthetic fixtures and a validator"

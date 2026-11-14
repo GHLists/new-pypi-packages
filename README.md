@@ -8,40 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 00:18 UTC
+## Latest list — 2026-11-14 01:18 UTC
 
-New packages created between 2026-11-13 23:20 UTC and 2026-11-14 00:18 UTC.
+New packages created between 2026-11-14 00:18 UTC and 2026-11-14 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T00-18-41-106303Z.csv)
+[Full CSV](data/new-packages-2026-11-14T01-18-45-53002Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-13 23:27:55 | [unipan](https://pypi.org/project/unipan/) | 0.0.1 | Nagendra Pratap Singh | 2.6 kB | UniPan: reference-anchored pangenome toolkit (name reserved; code will be relea… |
-| 2026-11-13 23:30:31 | [lexiafrik](https://pypi.org/project/lexiafrik/) | 2.0.0 | XEL SOFT AI | 34.6 kB | Python SDK and command line for LexiAfrik: speech-to-text for African languages |
-| 2026-11-13 23:31:48 | [telonyte-brain](https://pypi.org/project/telonyte-brain/) | 0.1.1 |  | 3.8 kB | B.R.A.I.N. V1 HTTP client for Python. |
-| 2026-11-13 23:32:57 | [culbm](https://pypi.org/project/culbm/) | 0.0.0 | Ricardo Frantz | 10.7 kB | Python bindings for cuLBM, lattice Boltzmann building blocks for CPUs and GPUs… |
-| 2026-11-13 23:32:57 | [hibana](https://pypi.org/project/hibana/) | 0.0.1 | Yahya Emara, Chi-Chih Chang,… | 10.9 kB | Hibana: fast local inference for agents on NVIDIA GB10 (DGX Spark). Placeholder… |
-| 2026-11-13 23:32:59 | [sharar-eval](https://pypi.org/project/sharar-eval/) | 0.0.1 | Yahya Emara, Chi-Chih Chang,… | 10.9 kB | sharar-eval: engine-agnostic HTTP evaluations for local inference servers. Plac… |
-| 2026-11-13 23:33:42 | [t7-agent](https://pypi.org/project/t7-agent/) | 0.1.2 | Byteramp | 122.6 kB | Triple Seven agent by Byteramp: threat modeling, verified fixes and proof for e… |
-| 2026-11-13 23:41:06 | [cdktn-bundler-local](https://pypi.org/project/cdktn-bundler-local/) | 0.1.0 | cdktn-io | 76.2 kB | Host-process asset bundler for CDK Terrain |
-| 2026-11-13 23:42:27 | [isau](https://pypi.org/project/isau/) | 1.0.1 | Isaac Martins Brito Sousa <is… | 15.2 kB | A toolkit that do you to program in almost all languages |
-| 2026-11-13 23:43:41 | [pycopykat](https://pypi.org/project/pycopykat/) | 0.2.0 | Jieshen Xian <lucyagune3@gmai… | 12.6 MB | A Python implementation of CopyKAT (Gao et al., Nat Biotechnol 2021) that repro… |
-| 2026-11-13 23:44:35 | [leapp-rt](https://pypi.org/project/leapp-rt/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for leapp_rt |
-| 2026-11-13 23:48:22 | [8192](https://pypi.org/project/8192/) | 0.0.1 |  | 3.8 kB | 128x64: AI inference with a great CLI and SDK. Placeholder release. |
-| 2026-11-13 23:49:12 | [pytest-playwright-pause](https://pypi.org/project/pytest-playwright-pause/) | 0.1.0 | Michael Bianco | 9.6 kB | Pause Playwright tests before fixture teardown so the inspector still has a liv… |
-| 2026-11-13 23:54:39 | [telonyte-brain-langchain](https://pypi.org/project/telonyte-brain-langchain/) | 0.1.0 |  | 5.0 kB | LangChain retriever adapter for B.R.A.I.N. V1. |
-| 2026-11-13 23:54:40 | [telonyte-brain-llamaindex](https://pypi.org/project/telonyte-brain-llamaindex/) | 0.1.0 |  | 5.1 kB | LlamaIndex retriever adapter for B.R.A.I.N. V1. |
-| 2026-11-13 23:56:25 | [openstudio-si](https://pypi.org/project/openstudio-si/) | 0.4.2 | PNNL | 21.0 MB | OpenStudio SI harness with MCP runtime, host adapters, skills, and knowledge. |
-| 2026-11-13 23:57:51 | [joist-mcp](https://pypi.org/project/joist-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 19.0 kB | Connect Joist to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a ho… |
-| 2026-11-13 23:58:48 | [labelsim](https://pypi.org/project/labelsim/) | 0.1.0 | José Acerbi Almeida Neto | 78.5 kB | Similarity measures between binary labels of multi-label data, computed from th… |
-| 2026-11-14 00:01:01 | [gisel-anchor](https://pypi.org/project/gisel-anchor/) | 0.2.0 |  | 336.0 kB | Pinned LLVM GlobalISel facts: rule import and the U-side oracle |
-| 2026-11-14 00:01:13 | [idealclima](https://pypi.org/project/idealclima/) | 0.1.0 | crug80 <claudio@cr-tech.it> | 39.5 kB | Async Modbus library for Idealclima fan coil units (Comfosplit IKARO HW and Rad… |
-| 2026-11-14 00:01:34 | [gisel-ab](https://pypi.org/project/gisel-ab/) | 0.9.0 | nodecoda | 1.0 MB | A/B workbench for LLVM GlobalISel legalizer rules |
-| 2026-11-14 00:05:55 | [sageattention-rocm](https://pypi.org/project/sageattention-rocm/) | 2.2.0.post1 | SageAttention team; ROCm port… | 78.3 kB | SageAttention (8-bit attention, drop-in for SDPA) on AMD GPUs with ROCm, Linux… |
-| 2026-11-14 00:08:00 | [databay-cli](https://pypi.org/project/databay-cli/) | 0.1.0 |  | 855.9 kB | Databay SDK and the databay CLI, generated from the Databay client contract |
-| 2026-11-14 00:10:08 | [civ-v-llm-harness](https://pypi.org/project/civ-v-llm-harness/) | 2.14.3 |  | 1.8 MB | MCP server + harness letting an LLM play Sid Meier's Civilization V (Linux) via… |
-| 2026-11-14 00:10:18 | [simplydata](https://pypi.org/project/simplydata/) | 0.1.0 | Manish Prakash Victor | 521.9 kB | Simple words for data science in Python: data cleaning, tables, charts and stat… |
-| 2026-11-14 00:12:02 | [damia-sdk](https://pypi.org/project/damia-sdk/) | 0.1.0 |  | 63.7 kB | Async Python SDK for DaMIA APIs |
-| 2026-11-14 00:12:52 | [offtarget](https://pypi.org/project/offtarget/) | 0.1.0 | Spencer H. Bryngelson | 6.7 MB | Known OpenMP and OpenACC offload compiler problems: look up support, search iss… |
-| 2026-11-14 00:16:52 | [feffgpu](https://pypi.org/project/feffgpu/) | 0.2.0 | N. Marcella | 162.6 MB | FEFF 8.5L's EXAFS pipeline on NVIDIA GPUs in PyTorch, with MD-EXAFS and RMC-EXA… |
-| 2026-11-14 00:17:37 | [hio-sdk](https://pypi.org/project/hio-sdk/) | 1.0.0 | Henglos | 21.7 kB | SDK for writing HenglosIO component actions and triggers in MicroPython. |
+| 2026-11-14 00:24:30 | [verifnow](https://pypi.org/project/verifnow/) | 0.1.0 | VerifNow | 56.8 kB | Official Python SDK for the VerifNow validation API: email, phone, IBAN, VAT (V… |
+| 2026-11-14 00:27:28 | [netbox-disk-manager](https://pypi.org/project/netbox-disk-manager/) | 0.1.0 | SF Compute | 63.1 kB | Track disk PSIDs by manufacturer, model and serial, independent of module place… |
+| 2026-11-14 00:30:04 | [jetbrains-agents-converters](https://pypi.org/project/jetbrains-agents-converters/) | 999.9.9 |  | 970 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-14 00:33:50 | [gradbridge](https://pypi.org/project/gradbridge/) | 0.1.0 | Anthony Angeles | 95.3 kB | Gradients that cross framework boundaries: PyTorch, JAX, TensorFlow, NVIDIA War… |
+| 2026-11-14 00:35:06 | [netinfra-free-100-bonus-profi-jwny4](https://pypi.org/project/netinfra-free-100-bonus-profi-jwny4/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.1 kB | Technical network verification and high-availability endpoint registry for Free… |
+| 2026-11-14 00:37:43 | [pretalx-webhooks](https://pypi.org/project/pretalx-webhooks/) | 2026.2.1 | Florian Mösch <florian@moesch… | 138.7 kB | Call a webhook for selected pretalx event activity. |
+| 2026-11-14 00:39:09 | [crawlutron](https://pypi.org/project/crawlutron/) | 0.4.0rc1 | crawlutron maintainers | 16.2 kB | Policy-driven, self-hosted web crawler and content-extraction service built aro… |
+| 2026-11-14 00:39:11 | [crawlutron-core](https://pypi.org/project/crawlutron-core/) | 0.4.0rc1 |  | 520.5 kB | Policy-driven, self-hosted web crawler and content-extraction service built aro… |
+| 2026-11-14 00:39:12 | [crawlutron-mcp](https://pypi.org/project/crawlutron-mcp/) | 0.4.0rc1 |  | 19.9 kB | Transport-agnostic Model Context Protocol (2026-07-28) surface for the Crawlutr… |
+| 2026-11-14 00:39:13 | [crawlutron-rest](https://pypi.org/project/crawlutron-rest/) | 0.4.0rc1 |  | 64.2 kB | FastAPI HTTP surface for the policy-driven web crawler and content-extraction s… |
+| 2026-11-14 00:42:54 | [aiohttp-mcp-server](https://pypi.org/project/aiohttp-mcp-server/) | 0.1.0 |  | 206.9 kB | MCP (Model Context Protocol) server support for aiohttp |
+| 2026-11-14 01:00:43 | [majec-core](https://pypi.org/project/majec-core/) | 0.2.0 |  | 3.7 MB | Compiled (Rust) equivalence-class builder for MAJEC RNA-seq quantification |
+| 2026-11-14 01:06:04 | [souyun-mcp](https://pypi.org/project/souyun-mcp/) | 0.1.1 | okclip | 100.8 kB | MCP (stdio) server for the sou-yun.cn 律诗/绝句 格律校验 (poem meter & rhyme checker) |
+| 2026-11-14 01:06:20 | [stratifyx](https://pypi.org/project/stratifyx/) | 0.0.1 | Epoch | 3.0 kB | Reserved for Epoch. Epoch's StratifyX API client is installed from Epoch's pack… |
+| 2026-11-14 01:06:21 | [epoch-sdk](https://pypi.org/project/epoch-sdk/) | 0.0.1 | Epoch | 3.0 kB | Reserved for Epoch. Epoch's Python SDK is installed from Epoch's package regist… |
+| 2026-11-14 01:12:07 | [buildertrend-mcp](https://pypi.org/project/buildertrend-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.4 kB | Connect Buildertrend to Claude Code, ChatGPT and any AI agent through Cotlet.de… |
+| 2026-11-14 01:14:09 | [vcti-usd-schema-model](https://pypi.org/project/vcti-usd-schema-model/) | 0.2.0 | Visual Collaboration Technolo… | 156.0 kB | Codeless OpenUSD schema for the VCollab model, the stage the server builds for… |
