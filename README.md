@@ -8,28 +8,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 01:18 UTC
+## Latest list — 2026-11-14 02:18 UTC
 
-New packages created between 2026-11-14 00:18 UTC and 2026-11-14 01:18 UTC.
+New packages created between 2026-11-14 01:18 UTC and 2026-11-14 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T01-18-45-53002Z.csv)
+[Full CSV](data/new-packages-2026-11-14T02-18-40-451281Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 00:24:30 | [verifnow](https://pypi.org/project/verifnow/) | 0.1.0 | VerifNow | 56.8 kB | Official Python SDK for the VerifNow validation API: email, phone, IBAN, VAT (V… |
-| 2026-11-14 00:27:28 | [netbox-disk-manager](https://pypi.org/project/netbox-disk-manager/) | 0.1.0 | SF Compute | 63.1 kB | Track disk PSIDs by manufacturer, model and serial, independent of module place… |
-| 2026-11-14 00:30:04 | [jetbrains-agents-converters](https://pypi.org/project/jetbrains-agents-converters/) | 999.9.9 |  | 970 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-14 00:33:50 | [gradbridge](https://pypi.org/project/gradbridge/) | 0.1.0 | Anthony Angeles | 95.3 kB | Gradients that cross framework boundaries: PyTorch, JAX, TensorFlow, NVIDIA War… |
-| 2026-11-14 00:35:06 | [netinfra-free-100-bonus-profi-jwny4](https://pypi.org/project/netinfra-free-100-bonus-profi-jwny4/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.1 kB | Technical network verification and high-availability endpoint registry for Free… |
-| 2026-11-14 00:37:43 | [pretalx-webhooks](https://pypi.org/project/pretalx-webhooks/) | 2026.2.1 | Florian Mösch <florian@moesch… | 138.7 kB | Call a webhook for selected pretalx event activity. |
-| 2026-11-14 00:39:09 | [crawlutron](https://pypi.org/project/crawlutron/) | 0.4.0rc1 | crawlutron maintainers | 16.2 kB | Policy-driven, self-hosted web crawler and content-extraction service built aro… |
-| 2026-11-14 00:39:11 | [crawlutron-core](https://pypi.org/project/crawlutron-core/) | 0.4.0rc1 |  | 520.5 kB | Policy-driven, self-hosted web crawler and content-extraction service built aro… |
-| 2026-11-14 00:39:12 | [crawlutron-mcp](https://pypi.org/project/crawlutron-mcp/) | 0.4.0rc1 |  | 19.9 kB | Transport-agnostic Model Context Protocol (2026-07-28) surface for the Crawlutr… |
-| 2026-11-14 00:39:13 | [crawlutron-rest](https://pypi.org/project/crawlutron-rest/) | 0.4.0rc1 |  | 64.2 kB | FastAPI HTTP surface for the policy-driven web crawler and content-extraction s… |
-| 2026-11-14 00:42:54 | [aiohttp-mcp-server](https://pypi.org/project/aiohttp-mcp-server/) | 0.1.0 |  | 206.9 kB | MCP (Model Context Protocol) server support for aiohttp |
-| 2026-11-14 01:00:43 | [majec-core](https://pypi.org/project/majec-core/) | 0.2.0 |  | 3.7 MB | Compiled (Rust) equivalence-class builder for MAJEC RNA-seq quantification |
-| 2026-11-14 01:06:04 | [souyun-mcp](https://pypi.org/project/souyun-mcp/) | 0.1.1 | okclip | 100.8 kB | MCP (stdio) server for the sou-yun.cn 律诗/绝句 格律校验 (poem meter & rhyme checker) |
-| 2026-11-14 01:06:20 | [stratifyx](https://pypi.org/project/stratifyx/) | 0.0.1 | Epoch | 3.0 kB | Reserved for Epoch. Epoch's StratifyX API client is installed from Epoch's pack… |
-| 2026-11-14 01:06:21 | [epoch-sdk](https://pypi.org/project/epoch-sdk/) | 0.0.1 | Epoch | 3.0 kB | Reserved for Epoch. Epoch's Python SDK is installed from Epoch's package regist… |
-| 2026-11-14 01:12:07 | [buildertrend-mcp](https://pypi.org/project/buildertrend-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.4 kB | Connect Buildertrend to Claude Code, ChatGPT and any AI agent through Cotlet.de… |
-| 2026-11-14 01:14:09 | [vcti-usd-schema-model](https://pypi.org/project/vcti-usd-schema-model/) | 0.2.0 | Visual Collaboration Technolo… | 156.0 kB | Codeless OpenUSD schema for the VCollab model, the stage the server builds for… |
+| 2026-11-14 01:26:55 | [jwwkit](https://pypi.org/project/jwwkit/) | 0.2.0 | tetsuo-m | 615.1 kB | Read, inspect, and safely edit Jw_cad drawing files |
+| 2026-11-14 01:28:53 | [py-prim](https://pypi.org/project/py-prim/) | 0.1.0 | Salik Tariq | 8.4 kB | Enhanced and validated base primitive data types for Python. |
+| 2026-11-14 01:37:19 | [sre-agent-cli](https://pypi.org/project/sre-agent-cli/) | 0.2.0 | Abraham Kakooza | 328.7 kB | An autonomous SRE agent that diagnoses and helps remediate incidents under huma… |
+| 2026-11-14 01:45:21 | [dsh-evokit](https://pypi.org/project/dsh-evokit/) | 0.1.5 | Jiahao | 360.6 kB | Domain-neutral, pluggable self-evolution experiments |
+| 2026-11-14 01:47:24 | [vcti-usd-schema-report](https://pypi.org/project/vcti-usd-schema-report/) | 0.1.0 | Visual Collaboration Technolo… | 72.6 kB | Codeless OpenUSD schema for the VCollab report model, the slides of a report an… |
+| 2026-11-14 01:53:27 | [openbarcode](https://pypi.org/project/openbarcode/) | 2.0.0 | Yoel Nunez | 26.5 kB | Module patterns for UPC-A, EAN-13 and Code 39 barcodes, with no runtime depende… |
+| 2026-11-14 02:02:46 | [gdown2](https://pypi.org/project/gdown2/) | 0.2.0 | gdown2 contributors | 140.1 kB | Fast, resumable Google Drive file and folder downloader with async I/O, Rich CL… |
+| 2026-11-14 02:04:42 | [fastlmmrslib](https://pypi.org/project/fastlmmrslib/) | 0.1.0 |  | 6.0 MB | Experimental Rust quadratic-form probabilities for FaST-LMM |
+| 2026-11-14 02:06:55 | [groundwork-adapter](https://pypi.org/project/groundwork-adapter/) | 0.1.0 |  | 118.0 kB | Bounded fixed-pair measurement guidance with exact native replay |
+| 2026-11-14 02:10:00 | [agentcake](https://pypi.org/project/agentcake/) | 0.0.1 | Tartini AI <admin@tartini.ai> | 3.6 kB | AgentCake by Tartini AI — coming soon. |
+| 2026-11-14 02:10:53 | [latentport](https://pypi.org/project/latentport/) | 0.2.0 |  | 7.7 MB | Programmable full-state transfer between hybrid language models |
+| 2026-11-14 02:11:29 | [lost-sessions](https://pypi.org/project/lost-sessions/) | 0.0.0.dev0 |  | 1.8 kB | Reserved package name; project under development. |
+| 2026-11-14 02:11:48 | [drums-verifiers](https://pypi.org/project/drums-verifiers/) | 0.2.1 | Drums Labs | 223.7 kB | Drums computer-use environments (isolated desktops, OSWorld tasks, gate-checked… |
+| 2026-11-14 02:15:31 | [cellulose-forge](https://pypi.org/project/cellulose-forge/) | 1.2.0 | Arun Srikanth Sridhar | 321.0 kB | Crystallography-first builder for simulation-ready cellulose and chitin crystal… |
+| 2026-11-14 02:16:52 | [soap-failover-proxy](https://pypi.org/project/soap-failover-proxy/) | 2.0.2 |  | 22.1 kB | Dynamic failover proxy routing middleware for SOAP and WSGI web services |

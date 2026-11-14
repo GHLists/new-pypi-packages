@@ -1,0 +1,16 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T01:26:55Z,jwwkit,0.2.0,tetsuo-m,MIT,615057,"Read, inspect, and safely edit Jw_cad drawing files"
+2026-11-14T01:28:53Z,py-prim,0.1.0,Salik Tariq,,8393,Enhanced and validated base primitive data types for Python.
+2026-11-14T01:37:19Z,sre-agent-cli,0.2.0,Abraham Kakooza,MIT,328740,An autonomous SRE agent that diagnoses and helps remediate incidents under human-approved guardrails.
+2026-11-14T01:45:21Z,dsh-evokit,0.1.5,Jiahao,MIT,360580,"Domain-neutral, pluggable self-evolution experiments"
+2026-11-14T01:47:24Z,vcti-usd-schema-report,0.1.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,72573,"Codeless OpenUSD schema for the VCollab report model, the slides of a report and the deck that arranges them: schema source, generated plugin, synthetic fixtures and a validator"
+2026-11-14T01:53:27Z,openbarcode,2.0.0,Yoel Nunez,Apache-2.0,26521,"Module patterns for UPC-A, EAN-13 and Code 39 barcodes, with no runtime dependencies."
+2026-11-14T02:02:46Z,gdown2,0.2.0,gdown2 contributors,MIT,140121,"Fast, resumable Google Drive file and folder downloader with async I/O, Rich CLI, and Textual TUI."
+2026-11-14T02:04:42Z,fastlmmrslib,0.1.0,,Apache-2.0 AND BSD-2-Clause,6033853,Experimental Rust quadratic-form probabilities for FaST-LMM
+2026-11-14T02:06:55Z,groundwork-adapter,0.1.0,,,117961,Bounded fixed-pair measurement guidance with exact native replay
+2026-11-14T02:10:00Z,agentcake,0.0.1,Tartini AI <admin@tartini.ai>,MIT,3583,AgentCake by Tartini AI — coming soon.
+2026-11-14T02:10:53Z,latentport,0.2.0,,Apache-2.0,7650517,Programmable full-state transfer between hybrid language models
+2026-11-14T02:11:29Z,lost-sessions,0.0.0.dev0,,,1824,Reserved package name; project under development.
+2026-11-14T02:11:48Z,drums-verifiers,0.2.1,Drums Labs,Apache-2.0,223681,"Drums computer-use environments (isolated desktops, OSWorld tasks, gate-checked rewards) for verifiers and prime-rl."
+2026-11-14T02:15:31Z,cellulose-forge,1.2.0,Arun Srikanth Sridhar,GPL-3.0-or-later,320998,"Crystallography-first builder for simulation-ready cellulose and chitin crystals with cross-engine validated GROMACS, OpenMM, LAMMPS and Amber output."
+2026-11-14T02:16:52Z,soap-failover-proxy,2.0.2,,,22102,Dynamic failover proxy routing middleware for SOAP and WSGI web services
