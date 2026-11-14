@@ -8,39 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 21:19 UTC
+## Latest list — 2026-11-14 22:19 UTC
 
-New packages created between 2026-11-14 20:20 UTC and 2026-11-14 21:19 UTC.
+New packages created between 2026-11-14 21:19 UTC and 2026-11-14 22:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T21-19-03-58013Z.csv)
+[Full CSV](data/new-packages-2026-11-14T22-19-30-420495Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 20:25:33 | [flightdeck-cli](https://pypi.org/project/flightdeck-cli/) | 0.9.0 | Flightdeck | 130.0 MB | Flightdeck: fleet observability and control for AI coding agents, as one binary |
-| 2026-11-14 20:25:57 | [drf-parcel](https://pypi.org/project/drf-parcel/) | 0.1.0 | amir mohammad kashanchian | 135.3 kB | One response shape for a Django REST framework API - success, page and error al… |
-| 2026-11-14 20:27:19 | [klatch](https://pypi.org/project/klatch/) | 0.1.0.dev1 |  | 9.6 kB | A substrate for agent rooms (pre-release; the Python client) |
-| 2026-11-14 20:27:57 | [gram-value](https://pypi.org/project/gram-value/) | 0.1.0 |  | 30.2 kB | The data values of the gram notation: kinds, equality, canonical text, known-ta… |
-| 2026-11-14 20:30:53 | [circuitcheck](https://pypi.org/project/circuitcheck/) | 0.1.0 | albertlieyingadrian | 112.8 kB | Tools on top of circuit-tracer: diff attribution graphs across training, valida… |
-| 2026-11-14 20:36:36 | [context-shrink-mcp](https://pypi.org/project/context-shrink-mcp/) | 1.0.0 | mahirfatih | 60.0 kB | OpenAI-compatible context guard MCP server: estimate, trim and compact a chat h… |
-| 2026-11-14 20:37:34 | [neomundi-evidence-verify](https://pypi.org/project/neomundi-evidence-verify/) | 0.1.0 | NeoMundi Evidence | 229.8 kB | Public offline verifier for NeoMundi Evidence archives, attestations and OpenTi… |
-| 2026-11-14 20:39:41 | [mufusion](https://pypi.org/project/mufusion/) | 0.0.1 | Matt Uyttendaele | 2.5 kB | Placeholder for mufusion, a NumPy-style lazy array compute library. Not yet rel… |
-| 2026-11-14 20:41:18 | [mango-lib](https://pypi.org/project/mango-lib/) | 0.3.0 | Paul Borgermans, Mariana Mont… | 42.1 kB | Library of utility functions used across ManGO Portal, ManGO Flow and ManGO Ing… |
-| 2026-11-14 20:43:28 | [statadic](https://pypi.org/project/statadic/) | 0.5.0a2 |  | 2.5 MB | Composable statistics on JAX, with inspectable assumptions and reproducible evi… |
-| 2026-11-14 20:43:40 | [dsm-app-client](https://pypi.org/project/dsm-app-client/) | 0.1.0b4 |  | 150.5 kB | Plug your app into DSM: your app's own DSM account, wallet connections, payment… |
-| 2026-11-14 20:45:50 | [phloem](https://pypi.org/project/phloem/) | 0.1.0rc1 |  | 19.2 MB | The official Phloem SDK for Python |
-| 2026-11-14 20:45:58 | [codedcompute](https://pypi.org/project/codedcompute/) | 0.5.0 |  | 37.1 kB | NumPy coded-computation simulation and Hydra experiment pipelines |
-| 2026-11-14 20:47:22 | [mango-portal](https://pypi.org/project/mango-portal/) | 0.50.11 | Paul Borgermans | 17.8 MB | ManGO Portal core package with a kernel and some optional plugins |
-| 2026-11-14 20:53:30 | [rk-modern-robotics](https://pypi.org/project/rk-modern-robotics/) | 0.1.0 |  | 22.2 kB | Symbolic and numeric screw-theory robotics library based on Modern Robotics |
-| 2026-11-14 20:53:34 | [counterdex-models](https://pypi.org/project/counterdex-models/) | 0.1.0 |  | 55.6 kB | Bounded numerical comparison of registered models; separate from Counterdex exa… |
-| 2026-11-14 20:55:09 | [allternit-freeweights](https://pypi.org/project/allternit-freeweights/) | 0.1.0 |  | 32.9 kB | fw: download, verify and search open AI model weights from Allternit Freeweights |
-| 2026-11-14 20:55:13 | [domainnameapi](https://pypi.org/project/domainnameapi/) | 1.0.0 | Atak Domain | 276.3 kB | Python client for the DomainNameAPI (domainnameapi.com) REST API: register, tra… |
-| 2026-11-14 20:58:06 | [uaid](https://pypi.org/project/uaid/) | 1.0.0 |  | 629.1 kB | Identify crawlers and bots by user agent with plain substring matching |
-| 2026-11-14 21:00:07 | [mango-flow](https://pypi.org/project/mango-flow/) | 0.2.3 | Paul Borgermans | 81.3 kB | Add your description here |
-| 2026-11-14 21:00:40 | [sova-oss](https://pypi.org/project/sova-oss/) | 0.1.0 | Gautam R. Patil, SOVA OSS con… | 2.8 MB | Portable AI-behavior capsules, traces, replay, and reproducibility tooling. |
-| 2026-11-14 21:02:00 | [delivrie](https://pypi.org/project/delivrie/) | 0.1.0 | South Circle <support@delivri… | 27.7 kB | Official Python SDK for Delivrie: send transactional email, broadcasts and auto… |
-| 2026-11-14 21:02:54 | [pixelworld-pipeline](https://pypi.org/project/pixelworld-pipeline/) | 0.1.0 | The pixelworld contributors | 579.2 kB | Offline geo pipeline for Pixelworld: real data -> gridded world packages. |
-| 2026-11-14 21:07:25 | [paxiom-receipts](https://pypi.org/project/paxiom-receipts/) | 0.1.3 | Paxiom | 48.5 kB | Zero-dependency Python issuer, verifier, x402 buyer preflight/live client, and… |
-| 2026-11-14 21:11:29 | [carter-ai](https://pypi.org/project/carter-ai/) | 0.22.0 | mauriciomem | 1.8 MB | AI agent scaffolding and workspace management for OpenCode |
-| 2026-11-14 21:11:59 | [pilot-fish](https://pypi.org/project/pilot-fish/) | 0.0.1 | ShawnPatrick-Barhorst | 23.3 kB | A lightweight, zero-infrastructure python monitoring library that runs algongsi… |
-| 2026-11-14 21:12:49 | [backspec](https://pypi.org/project/backspec/) | 0.0.1 | Adi Eyal | 309.9 kB | Extract user requirements from a codebase, with verified citations and a per-fi… |
-| 2026-11-14 21:17:30 | [qontain](https://pypi.org/project/qontain/) | 0.1.0 | Albin <albin@albyte.ai> | 32.8 kB | SDK for agents running under the qontain runtime: broker client and agent server |
+| 2026-11-14 21:19:22 | [ownapi](https://pypi.org/project/ownapi/) | 1.0.1 | Ali | 436.3 kB | OwnAPI — Enterprise User-Delegated Browser Middleware, Auto-Validated API Compi… |
+| 2026-11-14 21:20:53 | [robotframework-lint-lsp](https://pypi.org/project/robotframework-lint-lsp/) | 1.0.0 | Abdulwahab Isam | 49.1 kB | Robot Framework lint for coding agents: robocop rules, an LSP server and an aut… |
+| 2026-11-14 21:21:11 | [t2em](https://pypi.org/project/t2em/) | 0.6.0 | Me2eM ecosystem | 42.8 kB | Python SDK for t2em.com — zero-knowledge secret drops (Blind Relay) for LangGra… |
+| 2026-11-14 21:22:27 | [pyramids-lazy](https://pypi.org/project/pyramids-lazy/) | 0.1.0 | Mostafa Farrag <moah.farag@gm… | 185.6 kB | Lazy / dask compute backend for pyramids (the pyramids.compute_backend plugin) |
+| 2026-11-14 21:23:05 | [cobrala](https://pypi.org/project/cobrala/) | 1.0.1 | Araitek | 33.8 kB | Python SDK for the Access API of Cobrala: plans, entitlements, usage and checko… |
+| 2026-11-14 21:26:21 | [ubrain](https://pypi.org/project/ubrain/) | 0.46.0.dev3 |  | 84.8 MB | Untrained Brain: a modality-general brain that learns from experience by local… |
+| 2026-11-14 21:30:22 | [eaveswatch](https://pypi.org/project/eaveswatch/) | 0.8.0 | Frank Lynam | 192.0 kB | AI log review that sets itself up: eaves on every host turn logs into templates… |
+| 2026-11-14 21:31:40 | [dpo-otto-client](https://pypi.org/project/dpo-otto-client/) | 5.0.0 |  | 3.1 kB |  |
+| 2026-11-14 21:33:43 | [codapact-ynab](https://pypi.org/project/codapact-ynab/) | 0.2.0 | Mike Hill | 95.1 kB | Typed Python client and `ynab` CLI for the YNAB API, generated by Codapact |
+| 2026-11-14 21:36:32 | [yoagent](https://pypi.org/project/yoagent/) | 0.0.1 |  | 2.1 kB | Official YoAgent client (coming soon): test inboxes and webhooks for developers… |
+| 2026-11-14 21:41:16 | [aws_sdk_route_53](https://pypi.org/project/aws_sdk_route_53/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_route_53 name. Not yet functional. |
+| 2026-11-14 21:41:44 | [aws_sdk_scheduler](https://pypi.org/project/aws_sdk_scheduler/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_scheduler name. Not yet functional. |
+| 2026-11-14 21:42:15 | [aws_sdk_personalize_events](https://pypi.org/project/aws_sdk_personalize_events/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_personalize_events name. Not yet functional. |
+| 2026-11-14 21:42:38 | [aws_sdk_textract](https://pypi.org/project/aws_sdk_textract/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_textract name. Not yet functional. |
+| 2026-11-14 21:42:38 | [plan-manager-client-dev](https://pypi.org/project/plan-manager-client-dev/) | 0.2.186 |  | 122.9 kB | First-class client library for the plan_manager JSON-RPC API: full command-surf… |
+| 2026-11-14 21:46:26 | [arca-client](https://pypi.org/project/arca-client/) | 0.6.0 |  | 1.1 MB | Cliente Python para los web services de ARCA (ex AFIP) |
+| 2026-11-14 21:46:38 | [memro-mcp](https://pypi.org/project/memro-mcp/) | 0.2.1 | memro Team <sdk@memro.co> | 42.8 kB | Memro — verified memory infrastructure for AI agents |
+| 2026-11-14 21:46:39 | [memro](https://pypi.org/project/memro/) | 0.2.0 | memro Team <sdk@memro.co> | 43.4 kB | Memro — verified memory infrastructure for AI agents |
+| 2026-11-14 21:48:04 | [vexity](https://pypi.org/project/vexity/) | 0.1.0 | Vexity <vexity@jzn-management… | 80.0 kB | Official Python client for the Vexity options-analytics API: ETag-aware reads,… |
+| 2026-11-14 21:48:48 | [sealrun](https://pypi.org/project/sealrun/) | 0.5.0rc1 |  | 463.4 kB | Local AI artifact verification and tamper-evident audit prototype |
+| 2026-11-14 21:50:59 | [pintel](https://pypi.org/project/pintel/) | 0.3.0.dev0 | Nicolas REMOND | 25.3 kB | Scale your ML workers asynchronously across processes and machines |
+| 2026-11-14 21:51:24 | [ideadump](https://pypi.org/project/ideadump/) | 0.0.2 | Thor Whalen | 47.6 kB | A place to dump ideas: capture them in your own words, research them a little,… |
+| 2026-11-14 21:53:58 | [galtalka-agent](https://pypi.org/project/galtalka-agent/) | 0.1.0 |  | 49.7 kB | Local connection agent for Galtalka |
+| 2026-11-14 21:56:43 | [aspera-grader-kit](https://pypi.org/project/aspera-grader-kit/) | 0.1.0 | Motif Platforms <dsaran@motif… | 41.6 kB | Grade the Word, PowerPoint and Excel files AI agents produce: inspectors, expla… |
+| 2026-11-14 21:56:57 | [orangepy](https://pypi.org/project/orangepy/) | 0.1.0 |  | 8.4 kB | A lightweight health checker for NumPy arrays |
+| 2026-11-14 21:57:22 | [iaradb](https://pypi.org/project/iaradb/) | 0.1.0 | Felipe | 34.2 MB | Iara: a parallel, vectorized query engine (Rust + Apache Arrow) with a Python A… |
+| 2026-11-14 22:00:20 | [inspectra-cli](https://pypi.org/project/inspectra-cli/) | 2.0.0 | Inspectra contributors | 992.9 kB | An open-source, explainable security assessment framework for safe and authoriz… |
+| 2026-11-14 22:01:41 | [fuckyeah](https://pypi.org/project/fuckyeah/) | 0.1.0 | DasBose | 36.9 kB | Python client for the FuckYeah machine API. |
+| 2026-11-14 22:03:00 | [electrical-engineer](https://pypi.org/project/electrical-engineer/) | 0.1.0 | Vinayak-RZ | 1.1 MB | UG electrical engineering co-solver (Arc domain kernel) |
+| 2026-11-14 22:05:35 | [aws_sdk_elastic_load_balancing_v2](https://pypi.org/project/aws_sdk_elastic_load_balancing_v2/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_elastic_load_balancing_v2 name. Not yet funct… |
+| 2026-11-14 22:06:22 | [aws_sdk_sagemaker_runtime](https://pypi.org/project/aws_sdk_sagemaker_runtime/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_sagemaker_runtime name. Not yet functional. |
+| 2026-11-14 22:07:15 | [muoblpanalyzers](https://pypi.org/project/muoblpanalyzers/) | 0.0.1 | Piotr Skowron | 10.5 kB | Analysis metrics for solved multi objective linear programs |
+| 2026-11-14 22:11:08 | [aws_sdk_rds_data](https://pypi.org/project/aws_sdk_rds_data/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_rds_data name. Not yet functional. |
+| 2026-11-14 22:11:47 | [codegraphy-lite](https://pypi.org/project/codegraphy-lite/) | 1.0.0 | CodeGraphy Contributors <oss@… | 592.8 kB | Standalone open-source visual architecture graph and MCP server for Python and… |
+| 2026-11-14 22:11:53 | [aws_sdk_cost_explorer](https://pypi.org/project/aws_sdk_cost_explorer/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_cost_explorer name. Not yet functional. |
+| 2026-11-14 22:11:53 | [webscour](https://pypi.org/project/webscour/) | 0.1.1 | Furkan Cevik | 215.6 kB | One keyless CLI for web search, page text, PDFs, sitemaps and a polite crawl |
+| 2026-11-14 22:17:07 | [dbobj3](https://pypi.org/project/dbobj3/) | 0.1.0 |  | 7.6 kB | High-level MySQL/MSSQL/Oracle access module |
+| 2026-11-14 22:19:11 | [simaudit](https://pypi.org/project/simaudit/) | 0.1.0a1 | Tesfay Zemuy Gebrekidan | 67.7 kB | Scoped, reproducible diagnostics for user-supplied simulators |
