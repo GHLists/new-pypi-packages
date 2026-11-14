@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 52,
-    "from": "2026-11-14T05:20:31.573818Z",
-    "path": "data/new-packages-2026-11-14T06-18-28-580609Z.csv",
-    "to": "2026-11-14T06:18:28.580609Z"
+    "count": 21,
+    "from": "2026-11-14T06:18:28.580609Z",
+    "path": "data/new-packages-2026-11-14T07-18-22-292152Z.csv",
+    "to": "2026-11-14T07:18:22.292152Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-14T05:02:51Z",
       "package": "HermesKanbanTUI",
       "since": "2026-11-14T04:19:12.455366Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-14T05:26:12Z",
       "package": "anlp-a4",
       "since": "2026-11-14T05:20:31.573818Z",
@@ -22,13 +22,13 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-14T06:18:22Z",
-      "package": "pageon",
-      "since": "2026-11-14T05:20:31.573818Z",
-      "version": "0.0.0"
+      "created_at": "2026-11-14T06:57:12Z",
+      "package": "trezortranslate",
+      "since": "2026-11-14T06:18:28.580609Z",
+      "version": "1.0.0"
     }
   ],
-  "serial": 43639862,
+  "serial": 43641299,
   "source_truncated": false,
-  "window": "2026-11-14T06:18:28.580609Z"
+  "window": "2026-11-14T07:18:22.292152Z"
 }

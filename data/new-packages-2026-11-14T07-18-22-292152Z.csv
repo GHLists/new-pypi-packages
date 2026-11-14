@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T06:18:22Z,pageon,0.0.0,hupe1980,MIT OR Apache-2.0,2467,pageon: the browser engine built for AI agents (name reserved; the first release is coming)
+2026-11-14T06:18:53Z,magone-mcp-core,0.1.0,Magure Tech Middle East Ltd,Apache-2.0,695125,A thin layer over the official MCP Python SDK for building connectors
+2026-11-14T06:19:28Z,boxfab-code-interpreter,0.1.0a1,"ContextFab, Inc.",MIT,31573,"BoxFab Code Interpreter: run AI-generated code in BoxFab sandboxes, Jupyter-style"
+2026-11-14T06:23:26Z,sylearn,0.1.0,Shashank,MIT,9811,"Linear regression, decision tree and random forest regressors written from scratch in NumPy."
+2026-11-14T06:26:21Z,unstuck,0.1.0,Velm Labs,Apache-2.0 AND AGPL-3.0-only,199785503,"Human takeover for AI browser agents: when your agent gets stuck, a human takes over the live browser and hands it back."
+2026-11-14T06:28:10Z,langchain-gmi,0.1.0,,MIT,25034,LangChain chat models for GMI Cloud's OpenAI-compatible Inference Engine
+2026-11-14T06:29:11Z,saturncube,0.7.0,ChristopherDarien-3,MIT,380805,"One fit/predict/evaluate interface across many neural-network families, learning rules and training methods, built on PyTorch."
+2026-11-14T06:30:02Z,jetbrains-agents-core,999.9.9,,,964,Stub package that mitigates Dependency Confusion attacks
+2026-11-14T06:33:25Z,miniworld-engine-kernels-sm120-cu129,2.5.8,,MIT AND Apache-2.0 AND BSD-3-Clause,31311623,"miniworld-engine prebuilt kernels for sm120-cu129 (RTX 5090, sm_120a; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by miniworld-engine==2.5.8"
+2026-11-14T06:36:00Z,git-overlap,0.2.0,,Apache-2.0,107759,"Unix-style git subcommands: which files each ref changes, and which refs overlap."
+2026-11-14T06:39:06Z,fusion-rag,0.8.35,dahai80,Apache-2.0,730401,Fusion-RAG — Apple Silicon native offline vector knowledge base backend
+2026-11-14T06:39:47Z,dinkster-frontend,0.1.0,,,4403444,Versioned Dinkster browser assets
+2026-11-14T06:41:55Z,mariamem,0.6.2,,GPL-2.0-only,49268354,"Disposable, in-memory MariaDB for tests"
+2026-11-14T06:49:26Z,flin-microsoft-ads-mcp,0.1.0,flin.agency,MIT,106249,Read-only Microsoft Advertising API reporting for Claude Desktop.
+2026-11-14T06:50:41Z,square-rulerpack,0.2.0,Lars Rocha,MIT,106439,"The self-initialising quadratic sieve of square-rulerpack 0.2.0 in Python, with a step-by-step walkthrough for teaching"
+2026-11-14T06:50:43Z,square-rulerpack-native,0.2.0,Lars Rocha,MIT,486278,"Lars Rocha's square-rulerpack quadratic sieve (Rust, double large primes, AVX2) compiled as a Python extension: factor 40-100 digit numbers from Python at native speed."
+2026-11-14T06:53:24Z,langlock,0.1.3,LeeGyeongPil,MIT,89303,Keep stray Chinese characters out of Korean LLM output at decode time: a byte-aware script mask for byte-level BPE vocabularies.
+2026-11-14T06:54:26Z,whisper-scrub,0.2.2,LeeGyeongPil,MIT,127390,"Find and remove Whisper hallucinations (phantom sentences on silence, repeat loops) from transcripts and subtitles, with a per-segment evidence report."
+2026-11-14T06:57:53Z,pwikit-sdk,1.0.0,WikitTeam,MIT,14150454,Write pwikit plugins in Python
+2026-11-14T07:00:05Z,omega-cra-evol,0.10.0,Roberto Locatelli,AGPL-3.0-or-later,430733,"Firm-side, offline-verifiable evidence for the EU Cyber Resilience Act: SBOM records, the Art. 14 clock, SRP-aligned notices, a 10-year crypto-agile seal — in the cryptovalid ledger profile"
+2026-11-14T07:15:34Z,copyengine,0.1.0,itdevwu <code@itdevwu.com>,Apache-2.0,13913175,"A software copy planner for ML infra: batches, fuses and schedules tensor copies."
