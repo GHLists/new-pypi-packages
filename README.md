@@ -8,39 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 12:18 UTC
+## Latest list — 2026-11-14 13:18 UTC
 
-New packages created between 2026-11-14 11:18 UTC and 2026-11-14 12:18 UTC.
+New packages created between 2026-11-14 12:18 UTC and 2026-11-14 13:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T12-18-53-024977Z.csv)
+[Full CSV](data/new-packages-2026-11-14T13-18-23-185234Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 11:23:14 | [factmesh](https://pypi.org/project/factmesh/) | 0.1.1 |  | 161.7 kB | Fresh, checkable facts for AI agents, shared over an open network |
-| 2026-11-14 11:23:48 | [minimindslab-toml-inline-table-sort](https://pypi.org/project/minimindslab-toml-inline-table-sort/) | 0.1.0 | MiniMindsLab | 7.9 kB | Deterministically reorder keys inside TOML inline tables and inline array-of-ta… |
-| 2026-11-14 11:23:52 | [vink](https://pypi.org/project/vink/) | 0.1.1 | vink contributors | 450.2 kB | Turn YouTube transcripts into clean, timestamped Markdown — and full, detailed… |
-| 2026-11-14 11:24:15 | [cdsmodel](https://pypi.org/project/cdsmodel/) | 0.1.0 | Bernardo Cohen | 1.0 MB | The ISDA CDS Standard Model 1.8.3, ported to C++20. |
-| 2026-11-14 11:26:06 | [anybox-py](https://pypi.org/project/anybox-py/) | 0.11.1 | ethereal | 2.9 MB | one API for the most popular passthrough boxes |
-| 2026-11-14 11:34:33 | [antigravity-wakeup](https://pypi.org/project/antigravity-wakeup/) | 0.1.0 | non7top | 33.2 kB | Wake an idle Antigravity (agy) conversation from another process via agy agenta… |
-| 2026-11-14 11:35:21 | [wallras](https://pypi.org/project/wallras/) | 0.20.1 |  | 28.0 kB | Clients for Wallras, the AI monitoring proxy: an MCP server for AI agents and a… |
-| 2026-11-14 11:35:45 | [fanbei-mcp](https://pypi.org/project/fanbei-mcp/) | 0.1.0 | Sunny Translation <support@su… | 52.8 kB | 翻呗文档翻译 MCP Server：上传 · 报价 · 下单 · 查进度 · 下载 |
-| 2026-11-14 11:36:09 | [mxgate](https://pypi.org/project/mxgate/) | 0.3.0 |  | 34.4 kB | Python client for mxgate: email forwarding and send-as for a domain you own. |
-| 2026-11-14 11:37:06 | [tokoyo-sdk](https://pypi.org/project/tokoyo-sdk/) | 0.10.1 |  | 155.8 kB | 场外基金量化投研 SDK |
-| 2026-11-14 11:40:59 | [smalldeep-probe](https://pypi.org/project/smalldeep-probe/) | 0.0.1 |  | 1.3 kB | upload permission probe |
-| 2026-11-14 11:43:07 | [livekit-plugins-chariot](https://pypi.org/project/livekit-plugins-chariot/) | 0.1.0 | Chariot | 37.2 kB | Agent Framework plugin for Chariot speech-to-text and text-to-speech. |
-| 2026-11-14 11:43:09 | [lgcov](https://pypi.org/project/lgcov/) | 0.3.0 | Ahmed Mohy | 395.0 kB | Catch silent regressions in LangGraph agents on every PR. lgcov re-runs only th… |
-| 2026-11-14 11:43:13 | [cloudru-qa-http-client](https://pypi.org/project/cloudru-qa-http-client/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 84.2 kB | Базовый HTTP-клиент |
-| 2026-11-14 11:49:39 | [smalldeep-net](https://pypi.org/project/smalldeep-net/) | 1.0.1 | smalldeep | 30.6 kB | 把 socket 的样板代码收进对象里：地址统一、错误分级、非阻塞不抛异常、多路复用一行搞定 |
-| 2026-11-14 11:49:49 | [naiwasay](https://pypi.org/project/naiwasay/) | 0.1.0 | Zeshen Tian | 45.9 kB | A Naiwa ASCII-art speaker with the Python cowsay API and CLI. |
-| 2026-11-14 11:51:06 | [strata-python](https://pypi.org/project/strata-python/) | 0.2.0 | jburnhams | 49.9 kB | Common code for Python web server apps: OS helpers, settings, FastAPI serving,… |
-| 2026-11-14 11:51:50 | [uccharan](https://pypi.org/project/uccharan/) | 0.2.0 | Abhinav Gautam <abhinav@codeb… | 15.0 MB | Drop-in phonemiser for Piper, Kokoro and sherpa-onnx voices: 5× faster than esp… |
-| 2026-11-14 11:58:20 | [livekit-plugins-oogam](https://pypi.org/project/livekit-plugins-oogam/) | 0.1.0 | Dwet Labs <support@dwetlabs.c… | 35.4 kB | Oogam for LiveKit Agents — streaming STT with fast turn finalize, TTS and Sutra… |
-| 2026-11-14 11:59:02 | [rowlab-python-sdk](https://pypi.org/project/rowlab-python-sdk/) | 0.1.0 | Row & Reason <support@rowandr… | 134.3 kB | Typed Python client for the rowlab API: label, compare and export tabular data… |
-| 2026-11-14 12:02:04 | [gifuto.py](https://pypi.org/project/gifuto.py/) | 0.1.0 | Martin92yt | 30.3 kB | Official Python client for the Gifuto API: curated anime GIFs for Discord bots… |
-| 2026-11-14 12:03:46 | [bolo-speech](https://pypi.org/project/bolo-speech/) | 0.2.0 | The bolo Authors | 6.0 MB | A lightweight, torch-free speech server: speech-to-text, text-to-speech and VAD… |
-| 2026-11-14 12:05:41 | [langchain-adscrawl](https://pypi.org/project/langchain-adscrawl/) | 0.1.0 | AdsCrawl contributors | 21.2 kB | LangChain tool integration for AdsCrawl rendered web extraction |
-| 2026-11-14 12:05:54 | [universal-dev-security](https://pypi.org/project/universal-dev-security/) | 1.0.0 |  | 220.4 kB | One security system for every project: secrets, code, dependency and configurat… |
-| 2026-11-14 12:06:13 | [bolo-torch](https://pypi.org/project/bolo-torch/) | 0.1.0 | The bolo Authors | 109.9 kB | PyTorch engine plugin for the bolo speech server: Indic Parler-TTS, IndicF5 and… |
-| 2026-11-14 12:07:29 | [svn-obskit](https://pypi.org/project/svn-obskit/) | 0.1.0 | svnviet | 101.6 kB | Instrumentation SDK for services that report to observability-platform: workflo… |
-| 2026-11-14 12:08:58 | [cloudru-qa-explicit-wait](https://pypi.org/project/cloudru-qa-explicit-wait/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 99.3 kB | Явные ожидания для автотестов |
-| 2026-11-14 12:09:14 | [nctui](https://pypi.org/project/nctui/) | 0.1.2 | Alex Corbett | 325.2 kB | Rapid terminal viewer for weather and climate model netCDF output |
+| 2026-11-14 12:19:02 | [cloudru-qa-grpc-client](https://pypi.org/project/cloudru-qa-grpc-client/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 170.4 kB | Базовый gRPC-клиент |
+| 2026-11-14 12:21:27 | [twinwise](https://pypi.org/project/twinwise/) | 0.3.6 | Suman Mondal | 179.8 kB | Make a safe twin of business spreadsheets before you use AI. Runs locally. |
+| 2026-11-14 12:22:25 | [miepom](https://pypi.org/project/miepom/) | 0.2.0 | Andrej Petelin | 39.3 kB | A python library for simulating Polarizing Optical Microscopy of Mie scatterers |
+| 2026-11-14 12:25:17 | [brickie-core](https://pypi.org/project/brickie-core/) | 0.1.0 |  | 315.5 kB | Bring the software development lifecycle to Databricks pipelines |
+| 2026-11-14 12:30:02 | [jetbrains-agents-importers](https://pypi.org/project/jetbrains-agents-importers/) | 999.9.9 |  | 967 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-14 12:31:40 | [hemp-eval](https://pypi.org/project/hemp-eval/) | 0.1.0 | NithilanVishvanath | 160.8 kB | Help Evaluate My Prompt: work out how to test an LLM prompt from the prompt and… |
+| 2026-11-14 12:40:25 | [vaka-sdk](https://pypi.org/project/vaka-sdk/) | 0.2.0 | Erik Hellman | 60.4 kB | Python SDK for Vaka: crash reporting, release health, analytics, feature flags… |
+| 2026-11-14 12:41:24 | [pm-tree](https://pypi.org/project/pm-tree/) | 1.0.0 |  | 59.8 kB | A strict, file-based project-management format, worked by Claude Code, and its… |
+| 2026-11-14 12:43:43 | [aaos-logging-drive](https://pypi.org/project/aaos-logging-drive/) | 0.1.0 | AAOS Logging contributors | 65.7 kB | Read-only AAOS Logging Google Drive synchronization and recorded vehicle data p… |
+| 2026-11-14 12:50:26 | [Kajuki](https://pypi.org/project/Kajuki/) | 10.12.3 | tderk <usvu.tech@gmail.com> | 63.1 MB | Kajuki // 터미널 스위트 - Kajuki, 폴리히스토르, 플루제로, 제이드//와이어를 하나의 런처로 통합 |
+| 2026-11-14 12:50:37 | [anyprogressbar](https://pypi.org/project/anyprogressbar/) | 0.1.0 | mluttikh <mluttikhof@gmail.co… | 122.5 kB | Progress bars for notebooks (an anywidget) and terminals, from one model |
+| 2026-11-14 12:50:38 | [cloudru-qa-http-client-auth](https://pypi.org/project/cloudru-qa-http-client-auth/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 43.6 kB | Авторизация для HTTP-клиента |
+| 2026-11-14 12:53:21 | [sharedimp](https://pypi.org/project/sharedimp/) | 0.1.0 | Koki Tsuyuzaki <k.t.the-answe… | 143.7 kB | Cross-validated UMFI-LR (ultra-marginal feature importance with linear residual… |
+| 2026-11-14 12:54:23 | [ps-bool](https://pypi.org/project/ps-bool/) | 0.2.1 |  | 1.9 kB |  |
+| 2026-11-14 12:55:11 | [espforge](https://pypi.org/project/espforge/) | 0.0.2 | Ji Dong | 95.9 kB | ESPForge USB HID control, diagnostics, and local dashboard |
+| 2026-11-14 13:00:54 | [cloudru-qa-grpc-client-auth](https://pypi.org/project/cloudru-qa-grpc-client-auth/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 29.1 kB | Авторизация для gRPC-клиента |
+| 2026-11-14 13:02:18 | [xenthon](https://pypi.org/project/xenthon/) | 0.3.2 |  | 1.7 MB | Declarative Python bindings for the Xent native UI toolkit |
+| 2026-11-14 13:05:13 | [hazelstick](https://pypi.org/project/hazelstick/) | 0.0.1 | Hazelstick <hello@hazelstick.… | 11.1 kB | Hazelstick: an open-source double-entry money ledger and payout reconciliation… |
+| 2026-11-14 13:08:16 | [soventis-raytest](https://pypi.org/project/soventis-raytest/) | 0.0.1 |  | 86.8 kB | Ray-backed remote execution and reusable pytest support |
+| 2026-11-14 13:10:13 | [neuroprix](https://pypi.org/project/neuroprix/) | 0.0.1 |  | 2.5 kB | Placeholder for NeuroPrix, coming soon at neuroprix.com |
+| 2026-11-14 13:10:14 | [dvm-mdview](https://pypi.org/project/dvm-mdview/) | 0.1.0 |  | 4.0 MB | Markdown viewer and live-preview editor with a graphical UI and a terminal UI |
+| 2026-11-14 13:10:14 | [neuroprix-runner](https://pypi.org/project/neuroprix-runner/) | 0.0.1 |  | 2.6 kB | Placeholder for NeuroPrix, coming soon at neuroprix.com |
+| 2026-11-14 13:10:16 | [neuroprix-sdk](https://pypi.org/project/neuroprix-sdk/) | 0.0.1 |  | 2.6 kB | Placeholder for NeuroPrix, coming soon at neuroprix.com |
+| 2026-11-14 13:10:48 | [pyqrack-hip-amd-complex128](https://pypi.org/project/pyqrack-hip-amd-complex128/) | 2.30.6 | Daniel Strano | 90.5 kB | pyqrack - Pure Python vm6502q/qrack Wrapper |
+| 2026-11-14 13:16:04 | [extractscore](https://pypi.org/project/extractscore/) | 0.1.0 |  | 670.6 kB | Field-level precision/recall/F1 for LLM-extracted JSON, with before/after run c… |

@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T12:19:02Z,cloudru-qa-grpc-client,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,170380,Базовый gRPC-клиент
+2026-11-14T12:21:27Z,twinwise,0.3.6,Suman Mondal,Apache-2.0,179816,Make a safe twin of business spreadsheets before you use AI. Runs locally.
+2026-11-14T12:22:25Z,miepom,0.2.0,Andrej Petelin,MIT,39293,A python library for simulating Polarizing Optical Microscopy of Mie scatterers
+2026-11-14T12:25:17Z,brickie-core,0.1.0,,Apache-2.0,315475,Bring the software development lifecycle to Databricks pipelines
+2026-11-14T12:30:02Z,jetbrains-agents-importers,999.9.9,,,967,Stub package that mitigates Dependency Confusion attacks
+2026-11-14T12:31:40Z,hemp-eval,0.1.0,NithilanVishvanath,MIT,160845,"Help Evaluate My Prompt: work out how to test an LLM prompt from the prompt and your data, run it, and compare prompt versions."
+2026-11-14T12:40:25Z,vaka-sdk,0.2.0,Erik Hellman,MIT OR Apache-2.0,60413,"Python SDK for Vaka: crash reporting, release health, analytics, feature flags and OpenTelemetry export"
+2026-11-14T12:41:24Z,pm-tree,1.0.0,,,59795,"A strict, file-based project-management format, worked by Claude Code, and its validator."
+2026-11-14T12:43:43Z,aaos-logging-drive,0.1.0,AAOS Logging contributors,MIT,65730,Read-only AAOS Logging Google Drive synchronization and recorded vehicle data processing
+2026-11-14T12:50:26Z,Kajuki,10.12.3,tderk <usvu.tech@gmail.com>,MIT,63106885,"Kajuki // 터미널 스위트 - Kajuki, 폴리히스토르, 플루제로, 제이드//와이어를 하나의 런처로 통합"
+2026-11-14T12:50:37Z,anyprogressbar,0.1.0,mluttikh <mluttikhof@gmail.com>,MIT,122451,"Progress bars for notebooks (an anywidget) and terminals, from one model"
+2026-11-14T12:50:38Z,cloudru-qa-http-client-auth,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,43646,Авторизация для HTTP-клиента
+2026-11-14T12:53:21Z,sharedimp,0.1.0,Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>,MIT,143658,Cross-validated UMFI-LR (ultra-marginal feature importance with linear residualization) for scikit-learn workflows
+2026-11-14T12:54:23Z,ps-bool,0.2.1,,,1946,
+2026-11-14T12:55:11Z,espforge,0.0.2,Ji Dong,BSD-3-Clause,95940,"ESPForge USB HID control, diagnostics, and local dashboard"
+2026-11-14T13:00:54Z,cloudru-qa-grpc-client-auth,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,29088,Авторизация для gRPC-клиента
+2026-11-14T13:02:18Z,xenthon,0.3.2,,0BSD,1696316,Declarative Python bindings for the Xent native UI toolkit
+2026-11-14T13:05:13Z,hazelstick,0.0.1,Hazelstick <hello@hazelstick.com>,Apache-2.0,11069,Hazelstick: an open-source double-entry money ledger and payout reconciliation engine. Pre-release placeholder; v0.1 is in development.
+2026-11-14T13:08:16Z,soventis-raytest,0.0.1,,LGPL-3.0-or-later,86822,Ray-backed remote execution and reusable pytest support
+2026-11-14T13:10:13Z,neuroprix,0.0.1,,Apache-2.0,2499,"Placeholder for NeuroPrix, coming soon at neuroprix.com"
+2026-11-14T13:10:14Z,dvm-mdview,0.1.0,,MIT,3951045,Markdown viewer and live-preview editor with a graphical UI and a terminal UI
+2026-11-14T13:10:14Z,neuroprix-runner,0.0.1,,Apache-2.0,2583,"Placeholder for NeuroPrix, coming soon at neuroprix.com"
+2026-11-14T13:10:16Z,neuroprix-sdk,0.0.1,,Apache-2.0,2561,"Placeholder for NeuroPrix, coming soon at neuroprix.com"
+2026-11-14T13:10:48Z,pyqrack-hip-amd-complex128,2.30.6,Daniel Strano,MIT,90503,pyqrack - Pure Python vm6502q/qrack Wrapper
+2026-11-14T13:16:04Z,extractscore,0.1.0,,MIT,670650,"Field-level precision/recall/F1 for LLM-extracted JSON, with before/after run comparison and CI gates."
