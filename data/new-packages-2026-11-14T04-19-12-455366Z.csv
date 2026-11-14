@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T03:26:15Z,smm-hub,0.2.0rc16,,Apache-2.0,34921,Self-hosted aggregation and search for SMM conversation archives
+2026-11-14T03:26:15Z,smm-local,0.2.0rc16,,Apache-2.0,41992,"Local, durable conversation archive and search for coding agents"
+2026-11-14T03:32:25Z,nephis,1.0.0,Mohit Raj Deo,Apache-2.0,164412,NEPHIS: High-Throughput Isolated Execution Substrate & Zero-Copy Database Branching for AI Agents
+2026-11-14T03:33:27Z,xqo,3.0.0,dudikkocak,MIT,6665522,"xqo: a small, plugin-based HQ of Claude agents with a live dashboard and a 2D / 3D office"
+2026-11-14T03:33:28Z,xqo-docker,3.0.0,dudikkocak,MIT,13720,Docker sandbox backend for xqo run_code
+2026-11-14T03:33:30Z,xqo-postgres,3.0.0,dudikkocak,MIT,9780,Postgres event store for xqo
+2026-11-14T03:33:31Z,xqo-sqlite,3.0.0,dudikkocak,MIT,10354,SQLite event store for xqo
+2026-11-14T03:33:37Z,interlacing,0.11.0,li2o0577,MIT,271710,"Nodes, edges and methods: join models, programs, devices and people into graphs, and run them"
+2026-11-14T03:35:31Z,rustc-bin,1.100.0,baba01hacker,MIT,223604256,Prebuilt Rust toolchain
+2026-11-14T03:38:18Z,llms-ink,0.2.0,Lucas Espindola,MIT,31967,"Turn any link — site, docs section, page, GitHub repo, PDF or video — into llms.txt and llms-full.txt. Python client for llms.ink, with LangChain and LlamaIndex loaders and a stdio MCP server."
+2026-11-14T03:43:07Z,steadyhand,0.26.1,Dundy Pasupuleti,Apache-2.0,971286,Turn a written lab protocol into a robot program and rehearse it before it touches a real bench.
+2026-11-14T03:43:13Z,oflit-genai,1.2.0,,,4786,Официальный SDK для работы с моделями Oflit от Oiyres Inc Studio
+2026-11-14T03:44:07Z,forcebites,0.1.0,,MIT,65438,"Move pandas DataFrames in and out of Salesforce in one line, with adaptive tuning under the hood"
+2026-11-14T03:45:36Z,mindslice,0.1.5,pancerZH,Apache-2.0,369604,"Layered, pluggable, human-readable long-term memory engine for LLM agents (Python stdlib only)."
+2026-11-14T03:49:43Z,necklink-cns,2.0.0,Amandeep Singh Bains,MIT,194304,"Unified Adult Drosophila Whole-CNS Edge Autonomy Controller (BANC v888 Descending Arbitration, <24 KB Zero-Float ANSI C99, MAVLink v2 & ROS 2 Bridges)"
+2026-11-14T03:50:24Z,fleetmux,0.2.2,,"MIT License Copyright (c) 2026 Justin W Permission is hereby granted, free of charge, to any person…",14052645,"Run AI teams: a supervisor agent leads worker agents (Claude Code, Codex, Pi, opencode), and the program, not the model, accepts the work."
+2026-11-14T03:50:47Z,django-simple-url-shortner,0.2.1,,GPL-2.0-only,157685,"A small, self-hosted Django URL shortener."
+2026-11-14T03:50:52Z,git-oops,1.0.1.post1,Hao,MIT,260302,The Dual-Mode Terminal Crash Fixer & Autonomous AI Agent Safety Harness (The Final Legend Edition).
+2026-11-14T03:51:52Z,gpulint,0.1.0,Quanquan Hu,MIT,53066,GPU light-curve transit searches with CuPy
+2026-11-14T03:53:00Z,appblocklist,1.0.0,Alpha Quantum,MIT,34369,"Python client for the AppBlockList App Lookup API: categorize iOS and Android apps by bundle ID, App Store ID or package name into 58 filtering categories for MDM app blocklists."
+2026-11-14T03:54:18Z,pytrends-cloud,0.1.0,bibian,MIT,34269,"Drop-in replacement for the archived pytrends: same TrendReq API and pandas output, no more 429 errors."
+2026-11-14T03:58:10Z,paw-control,2.3.2,ahj321,MIT,57488,"A pair of hands for your agent: screenshot, click, type. One command, one thing. A tiny CLI + MCP server for vision models."
+2026-11-14T03:59:47Z,openadapt-verify,0.2.0,,MIT,174429,Verify an agent's writes through an independent system-of-record read path
+2026-11-14T04:00:22Z,mvote,0.1.0,"Valentín Quiroz de la Sierra, Marissa Ledesma",Apache-2.0,28211,CLI for creating and configuring mVote participatory sticky-note voting sessions
+2026-11-14T04:01:56Z,hashident,0.1.0,Javier Mendoza,MIT,86526,Identify likely hash algorithms from a hash string.
+2026-11-14T04:06:11Z,walletbrake,0.1.0,WalletBrake <support@walletbrake.com>,MIT,24494,"Pay from a WalletBrake vault from a bot or AI agent: spending limits, a trusted-address list and owner approval on Telegram, enforced on chain."
+2026-11-14T04:07:41Z,boxfab-desktop,0.1.0a1,"ContextFab, Inc.",MIT,22688,"BoxFab Desktop: a virtual Linux desktop in a BoxFab sandbox, for computer-use agents"
+2026-11-14T04:16:19Z,in2,0.1.0,Sequence,,3008,Easily casting the type of an object.
+2026-11-14T04:19:03Z,impulse-compute,0.1.0,,MIT,180658,"The ImpulseCompute SDK: sandboxes, commands, files and previews over the Compute API."

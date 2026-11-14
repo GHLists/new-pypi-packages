@@ -8,29 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 03:18 UTC
+## Latest list — 2026-11-14 04:19 UTC
 
-New packages created between 2026-11-14 02:18 UTC and 2026-11-14 03:18 UTC.
+New packages created between 2026-11-14 03:18 UTC and 2026-11-14 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T03-18-25-812853Z.csv)
+[Full CSV](data/new-packages-2026-11-14T04-19-12-455366Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 02:19:40 | [tunc-mcp](https://pypi.org/project/tunc-mcp/) | 0.1.1 | TUNC LLC <hello@tunc.ai> | 31.6 kB | MCP client for Tunc Orb (agent memory database), Tunc Art (artifact storage and… |
-| 2026-11-14 02:20:18 | [fonti](https://pypi.org/project/fonti/) | 0.1.0 | Noai-oss | 21.5 kB | A command-line tool for installing fonts on Windows |
-| 2026-11-14 02:22:13 | [cv-tools-cli](https://pypi.org/project/cv-tools-cli/) | 2.0.0 | Phone Thiha Kyaw | 252.6 kB | Generate a LaTeX CV from a YAML file |
-| 2026-11-14 02:27:37 | [amber-to-lammps](https://pypi.org/project/amber-to-lammps/) | 1.0.0 | Arun Sridhar | 43.2 kB | Convert AMBER topology and PDB files to LAMMPS data and parameter files |
-| 2026-11-14 02:35:06 | [remedigenius-community](https://pypi.org/project/remedigenius-community/) | 0.9.2.post1 | RemediGenius <raj@iacgenius.c… | 857.2 kB | RemediGenius Community Edition (RemediGenius-CE): AWS security triage desk on t… |
-| 2026-11-14 02:37:02 | [llama-index-graph-stores-rushdb](https://pypi.org/project/llama-index-graph-stores-rushdb/) | 0.1.0 | RushDB Team <hi@rushdb.com> | 37.6 kB | LlamaIndex property graph store on RushDB: typed entity labels, relations, vect… |
-| 2026-11-14 02:37:12 | [sdca-rag](https://pypi.org/project/sdca-rag/) | 0.1.0 | Subodh Butt, Ashish Dhillon | 150.7 kB | Structure-Aware Document Chunking Algorithm for Retrieval-Augmented Generation… |
-| 2026-11-14 02:37:56 | [sawalign](https://pypi.org/project/sawalign/) | 0.1.2 | Omar Kamali <omar@omneitylabs… | 14.4 kB | Align a transcript to an audio recording with Sawalni API |
-| 2026-11-14 02:46:04 | [thai-orthographic-segmenter](https://pypi.org/project/thai-orthographic-segmenter/) | 0.1.0 | Micha <220009159+yxmicha@user… | 16.2 MB | Thai syllable, word and line segmentation with bundled models |
-| 2026-11-14 02:51:39 | [trave](https://pypi.org/project/trave/) | 1.0.0 | edde746 | 11.7 kB | Trave: tables of named, typed columns packed for an app to read with nothing bu… |
-| 2026-11-14 02:54:28 | [lxcor-cordial](https://pypi.org/project/lxcor-cordial/) | 0.1.1 | Light Cross Holdings Corporat… | 64.7 kB | Cordial: a calendar and clock of 364 days (13 x 28 = 52 x 7), a 26-hour day and… |
-| 2026-11-14 03:05:20 | [pydantic-ai-exedev](https://pypi.org/project/pydantic-ai-exedev/) | 0.1.0 |  | 89.1 kB | Run Pydantic AI agent workspaces on exe.dev VMs |
-| 2026-11-14 03:06:29 | [daktilo](https://pypi.org/project/daktilo/) | 0.1.1 | Omar Kamali <omar@omneitylabs… | 12.0 kB | Transcribe audio recordings with Sawalni API |
-| 2026-11-14 03:11:26 | [parseoff](https://pypi.org/project/parseoff/) | 0.2.1 |  | 1.9 MB | Compare PDF parsers side by side on your own documents - no ground truth needed. |
-| 2026-11-14 03:14:10 | [fontpkg-baskervville](https://pypi.org/project/fontpkg-baskervville/) | 1.100 |  | 140.1 kB | Baskervville font family, packaged for Python by fontpkg |
-| 2026-11-14 03:14:12 | [fontpkg-fugaz-one](https://pypi.org/project/fontpkg-fugaz-one/) | 1.2 |  | 23.7 kB | Fugaz One font family, packaged for Python by fontpkg |
-| 2026-11-14 03:14:14 | [fontpkg-google-sans-code](https://pypi.org/project/fontpkg-google-sans-code/) | 6.1 |  | 160.4 kB | Google Sans Code font family, packaged for Python by fontpkg |
-| 2026-11-14 03:14:16 | [fontpkg-francois-one](https://pypi.org/project/fontpkg-francois-one/) | 2.0 |  | 48.5 kB | Francois One font family, packaged for Python by fontpkg |
+| 2026-11-14 03:26:15 | [smm-hub](https://pypi.org/project/smm-hub/) | 0.2.0rc16 |  | 34.9 kB | Self-hosted aggregation and search for SMM conversation archives |
+| 2026-11-14 03:26:15 | [smm-local](https://pypi.org/project/smm-local/) | 0.2.0rc16 |  | 42.0 kB | Local, durable conversation archive and search for coding agents |
+| 2026-11-14 03:32:25 | [nephis](https://pypi.org/project/nephis/) | 1.0.0 | Mohit Raj Deo | 164.4 kB | NEPHIS: High-Throughput Isolated Execution Substrate & Zero-Copy Database Branc… |
+| 2026-11-14 03:33:27 | [xqo](https://pypi.org/project/xqo/) | 3.0.0 | dudikkocak | 6.7 MB | xqo: a small, plugin-based HQ of Claude agents with a live dashboard and a 2D /… |
+| 2026-11-14 03:33:28 | [xqo-docker](https://pypi.org/project/xqo-docker/) | 3.0.0 | dudikkocak | 13.7 kB | Docker sandbox backend for xqo run_code |
+| 2026-11-14 03:33:30 | [xqo-postgres](https://pypi.org/project/xqo-postgres/) | 3.0.0 | dudikkocak | 9.8 kB | Postgres event store for xqo |
+| 2026-11-14 03:33:31 | [xqo-sqlite](https://pypi.org/project/xqo-sqlite/) | 3.0.0 | dudikkocak | 10.4 kB | SQLite event store for xqo |
+| 2026-11-14 03:33:37 | [interlacing](https://pypi.org/project/interlacing/) | 0.11.0 | li2o0577 | 271.7 kB | Nodes, edges and methods: join models, programs, devices and people into graphs… |
+| 2026-11-14 03:35:31 | [rustc-bin](https://pypi.org/project/rustc-bin/) | 1.100.0 | baba01hacker | 223.6 MB | Prebuilt Rust toolchain |
+| 2026-11-14 03:38:18 | [llms-ink](https://pypi.org/project/llms-ink/) | 0.2.0 | Lucas Espindola | 32.0 kB | Turn any link — site, docs section, page, GitHub repo, PDF or video — into llms… |
+| 2026-11-14 03:43:07 | [steadyhand](https://pypi.org/project/steadyhand/) | 0.26.1 | Dundy Pasupuleti | 971.3 kB | Turn a written lab protocol into a robot program and rehearse it before it touc… |
+| 2026-11-14 03:43:13 | [oflit-genai](https://pypi.org/project/oflit-genai/) | 1.2.0 |  | 4.8 kB | Официальный SDK для работы с моделями Oflit от Oiyres Inc Studio |
+| 2026-11-14 03:44:07 | [forcebites](https://pypi.org/project/forcebites/) | 0.1.0 |  | 65.4 kB | Move pandas DataFrames in and out of Salesforce in one line, with adaptive tuni… |
+| 2026-11-14 03:45:36 | [mindslice](https://pypi.org/project/mindslice/) | 0.1.5 | pancerZH | 369.6 kB | Layered, pluggable, human-readable long-term memory engine for LLM agents (Pyth… |
+| 2026-11-14 03:49:43 | [necklink-cns](https://pypi.org/project/necklink-cns/) | 2.0.0 | Amandeep Singh Bains | 194.3 kB | Unified Adult Drosophila Whole-CNS Edge Autonomy Controller (BANC v888 Descendi… |
+| 2026-11-14 03:50:24 | [fleetmux](https://pypi.org/project/fleetmux/) | 0.2.2 |  | 14.1 MB | Run AI teams: a supervisor agent leads worker agents (Claude Code, Codex, Pi, o… |
+| 2026-11-14 03:50:47 | [django-simple-url-shortner](https://pypi.org/project/django-simple-url-shortner/) | 0.2.1 |  | 157.7 kB | A small, self-hosted Django URL shortener. |
+| 2026-11-14 03:50:52 | [git-oops](https://pypi.org/project/git-oops/) | 1.0.1.post1 | Hao | 260.3 kB | The Dual-Mode Terminal Crash Fixer & Autonomous AI Agent Safety Harness (The Fi… |
+| 2026-11-14 03:51:52 | [gpulint](https://pypi.org/project/gpulint/) | 0.1.0 | Quanquan Hu | 53.1 kB | GPU light-curve transit searches with CuPy |
+| 2026-11-14 03:53:00 | [appblocklist](https://pypi.org/project/appblocklist/) | 1.0.0 | Alpha Quantum | 34.4 kB | Python client for the AppBlockList App Lookup API: categorize iOS and Android a… |
+| 2026-11-14 03:54:18 | [pytrends-cloud](https://pypi.org/project/pytrends-cloud/) | 0.1.0 | bibian | 34.3 kB | Drop-in replacement for the archived pytrends: same TrendReq API and pandas out… |
+| 2026-11-14 03:58:10 | [paw-control](https://pypi.org/project/paw-control/) | 2.3.2 | ahj321 | 57.5 kB | A pair of hands for your agent: screenshot, click, type. One command, one thing… |
+| 2026-11-14 03:59:47 | [openadapt-verify](https://pypi.org/project/openadapt-verify/) | 0.2.0 |  | 174.4 kB | Verify an agent's writes through an independent system-of-record read path |
+| 2026-11-14 04:00:22 | [mvote](https://pypi.org/project/mvote/) | 0.1.0 | Valentín Quiroz de la Sierra,… | 28.2 kB | CLI for creating and configuring mVote participatory sticky-note voting sessions |
+| 2026-11-14 04:01:56 | [hashident](https://pypi.org/project/hashident/) | 0.1.0 | Javier Mendoza | 86.5 kB | Identify likely hash algorithms from a hash string. |
+| 2026-11-14 04:06:11 | [walletbrake](https://pypi.org/project/walletbrake/) | 0.1.0 | WalletBrake <support@walletbr… | 24.5 kB | Pay from a WalletBrake vault from a bot or AI agent: spending limits, a trusted… |
+| 2026-11-14 04:07:41 | [boxfab-desktop](https://pypi.org/project/boxfab-desktop/) | 0.1.0a1 | ContextFab, Inc. | 22.7 kB | BoxFab Desktop: a virtual Linux desktop in a BoxFab sandbox, for computer-use a… |
+| 2026-11-14 04:16:19 | [in2](https://pypi.org/project/in2/) | 0.1.0 | Sequence | 3.0 kB | Easily casting the type of an object. |
+| 2026-11-14 04:19:03 | [impulse-compute](https://pypi.org/project/impulse-compute/) | 0.1.0 |  | 180.7 kB | The ImpulseCompute SDK: sandboxes, commands, files and previews over the Comput… |
