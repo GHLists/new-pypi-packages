@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 17,
-    "from": "2026-11-14T07:18:22.292152Z",
-    "path": "data/new-packages-2026-11-14T08-18-18-287928Z.csv",
-    "to": "2026-11-14T08:18:18.287928Z"
+    "count": 37,
+    "from": "2026-11-14T08:18:18.287928Z",
+    "path": "data/new-packages-2026-11-14T09-19-55-601327Z.csv",
+    "to": "2026-11-14T09:19:55.601327Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-11-14T05:02:51Z",
-      "package": "HermesKanbanTUI",
-      "since": "2026-11-14T04:19:12.455366Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-14T05:26:12Z",
       "package": "anlp-a4",
       "since": "2026-11-14T05:20:31.573818Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-14T06:57:12Z",
       "package": "trezortranslate",
       "since": "2026-11-14T06:18:28.580609Z",
       "version": "1.0.0"
     }
   ],
-  "serial": 43642960,
+  "serial": 43644406,
   "source_truncated": false,
-  "window": "2026-11-14T08:18:18.287928Z"
+  "window": "2026-11-14T09:19:55.601327Z"
 }

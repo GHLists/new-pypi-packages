@@ -8,28 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:18 UTC
+## Latest list — 2026-11-14 09:19 UTC
 
-New packages created between 2026-11-14 07:18 UTC and 2026-11-14 08:18 UTC.
+New packages created between 2026-11-14 08:18 UTC and 2026-11-14 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T08-18-18-287928Z.csv)
+[Full CSV](data/new-packages-2026-11-14T09-19-55-601327Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 07:20:59 | [claudown](https://pypi.org/project/claudown/) | 0.2.0 | PacifAIst | 123.4 kB | Leave Claude Code working and go to sleep: lets Claude wrap up, then shuts down… |
-| 2026-11-14 07:23:20 | [wen-lang](https://pypi.org/project/wen-lang/) | 0.2.0a1 |  | 27.5 kB | Wen programming language compiler with LLVM native code generation |
-| 2026-11-14 07:29:21 | [a2m-protocol](https://pypi.org/project/a2m-protocol/) | 0.0.2 |  | 10.3 kB | Official package of the A2M (Agent to Market) protocol. Reserved; SDK coming so… |
-| 2026-11-14 07:29:37 | [ibop-um-krakow-api](https://pypi.org/project/ibop-um-krakow-api/) | 0.1.0 | Jacek Grela <jacekgrela@gmail… | 43.7 kB | Unofficial Python SDK and CLI for iBOP UM Kraków (ibop.mpo.krakow.pl), the Krak… |
-| 2026-11-14 07:35:48 | [remove-ac](https://pypi.org/project/remove-ac/) | 1.1.0 |  | 18.9 kB | Official zero-dependency Python SDK & removebg 1:1 drop-in replacement for remo… |
-| 2026-11-14 07:38:23 | [snowflake-fxmacrodata](https://pypi.org/project/snowflake-fxmacrodata/) | 0.1.0 |  | 22.5 kB | Load public FXMacroData responses into Snowflake |
-| 2026-11-14 07:39:51 | [agent-voice-input](https://pypi.org/project/agent-voice-input/) | 0.1.0 |  | 225.4 kB | Two-stage context-aware voice input for CLI coding agents. |
-| 2026-11-14 07:41:06 | [prefect-fxmacrodata](https://pypi.org/project/prefect-fxmacrodata/) | 0.1.0 |  | 29.4 kB | FXMacroData subscription data in Prefect tasks and research flows |
-| 2026-11-14 07:43:06 | [mmh3-image](https://pypi.org/project/mmh3-image/) | 0.1.0 | yunfengwang | 24.9 kB | MiniMax-H3-Image GGUF on ComfyUI: one command to download and generate. |
-| 2026-11-14 07:44:01 | [daitum-test](https://pypi.org/project/daitum-test/) | 0.5.3 | Daitum <developers@daitum.com> | 66.4 kB | Test Daitum models from Python |
-| 2026-11-14 07:51:49 | [colibly](https://pypi.org/project/colibly/) | 0.1.0 |  | 8.4 kB | Cliente oficial de la API de Colibly (CRM para WhatsApp): contactos, conversaci… |
-| 2026-11-14 07:52:15 | [pubba](https://pypi.org/project/pubba/) | 0.4.0 | Tharindu Athapaththu | 34.4 kB | A small brain for showroom sites: related items with reasons, what-next from a… |
-| 2026-11-14 07:53:57 | [cleanpipe](https://pypi.org/project/cleanpipe/) | 0.1.0 | Sri Krishna Lingamaneni | 27.6 kB | Fix MCP stdio servers that print logs or banners to stdout: wraps the server so… |
-| 2026-11-14 07:58:13 | [geenii](https://pypi.org/project/geenii/) | 0.4.0.dev4 | fm-labs <code@fmlabs.dev> | 1.0 MB | A versatile AI agent toolkit |
-| 2026-11-14 08:02:32 | [openpinch-solvers](https://pypi.org/project/openpinch-solvers/) | 0.1.0 | Tim Walmsley <tim.walmsley@wa… | 26.8 MB | Ipopt (with MUMPS and the AMPL Solver Library) as pip-installable platform whee… |
-| 2026-11-14 08:05:10 | [pandaas-utils](https://pypi.org/project/pandaas-utils/) | 0.1.0 | Pandaas Developers | 12.5 kB | Lightweight helper utilities for data processing |
-| 2026-11-14 08:15:09 | [notquite](https://pypi.org/project/notquite/) | 0.1.0 | Tom Bar-Haim | 18.5 kB | Checks whether DONE actually means done. Git, tests, merges, and deployment evi… |
+| 2026-11-14 08:18:21 | [dejafix](https://pypi.org/project/dejafix/) | 1.0.0rc1 |  | 40.9 MB | Coding agent memory: local-first memory and judgment for AI coding agents. One… |
+| 2026-11-14 08:23:12 | [omnisight](https://pypi.org/project/omnisight/) | 0.1.0 | Xiao-Chien Lin | 63.5 kB | Computer-use backend (MCP server) that sees and drives any Windows app window:… |
+| 2026-11-14 08:28:17 | [oglodon-transformer](https://pypi.org/project/oglodon-transformer/) | 0.4.1 | Dhruv Puri <dhruvpurigoswami2… | 316.7 kB | Oglodon: build, train and behaviour-verify Transformers; `oglodon verify` check… |
+| 2026-11-14 08:29:02 | [truthstone](https://pypi.org/project/truthstone/) | 0.2.0 | Truthstone | 5.1 MB | Host-powered reliability and reasoning control layer for AI coding agents |
+| 2026-11-14 08:29:32 | [lakeflow-fxmacrodata](https://pypi.org/project/lakeflow-fxmacrodata/) | 0.1.0 |  | 13.5 kB | FXMacroData custom connector for Databricks Lakeflow Connect |
+| 2026-11-14 08:30:12 | [ci-doctor-arka](https://pypi.org/project/ci-doctor-arka/) | 0.1.0 |  | 675.5 kB | CI Doctor: investigates failing CI runs |
+| 2026-11-14 08:33:02 | [bitsopay](https://pypi.org/project/bitsopay/) | 0.1.0 | Bitsophia | 97.2 kB | Dynamic UPI QR codes and tamper-proof payment links from a UPI ID and amount. Z… |
+| 2026-11-14 08:35:04 | [roundtable-mcp](https://pypi.org/project/roundtable-mcp/) | 0.2.0 |  | 122.4 kB | Shared task board that lets AI agents from different vendors work together over… |
+| 2026-11-14 08:35:44 | [coatlearn](https://pypi.org/project/coatlearn/) | 0.1.0 | Chenxi Liu, Yongqiang Chen, T… | 1.2 MB | Causal discovery over unstructured data with large language models (COAT) |
+| 2026-11-14 08:37:13 | [neomundi](https://pypi.org/project/neomundi/) | 2.0.0 |  | 191.5 kB | Client Python NeoMundi : REST post-call et streaming SSE |
+| 2026-11-14 08:38:49 | [termchat-ai](https://pypi.org/project/termchat-ai/) | 0.1.0 | AITerminal contributors | 9.1 kB | A no-login terminal client for the AITerminal cloud AI service |
+| 2026-11-14 08:43:41 | [corelle.engine](https://pypi.org/project/corelle.engine/) | 3.0.0 | Daven Quinn | 66.9 kB | Plate-rotation models and rotation engine for the Corelle system |
+| 2026-11-14 08:45:12 | [index.toml-contracts](https://pypi.org/project/index.toml-contracts/) | 0.1.0 |  | 8.7 kB | Schema and validation for ecosystem-neutral package indexes |
+| 2026-11-14 08:45:18 | [solo-sdd](https://pypi.org/project/solo-sdd/) | 0.2.0 |  | 1.3 MB | Spec-driven development process for AI coding agents: rules, skills, hooks and… |
+| 2026-11-14 08:46:52 | [index.toml-core](https://pypi.org/project/index.toml-core/) | 0.1.0 |  | 8.6 kB | File-backed editor for ecosystem-neutral package indexes |
+| 2026-11-14 08:48:02 | [stac-api-protocol](https://pypi.org/project/stac-api-protocol/) | 0.1.0 | Terradue <info@terradue.com> | 41.5 kB | A Python FastAPI HTTP adapter for STAC API Core, Item Search, Features and Coll… |
+| 2026-11-14 08:48:23 | [xrfdc](https://pypi.org/project/xrfdc/) | 2.0 | Your Name | 1.5 kB | POC package (beacon-only) |
+| 2026-11-14 08:49:45 | [index.toml-adapter-python](https://pypi.org/project/index.toml-adapter-python/) | 0.1.0 |  | 6.8 kB | Workspace discovery adapter for Python |
+| 2026-11-14 08:50:55 | [index.toml-adapter-cargo](https://pypi.org/project/index.toml-adapter-cargo/) | 0.1.0 |  | 5.6 kB | Workspace discovery adapter for Cargo |
+| 2026-11-14 08:51:22 | [crank-sdk](https://pypi.org/project/crank-sdk/) | 0.0.0 | Engaij, Inc. | 1.6 kB | Reserved package name. No functionality. |
+| 2026-11-14 08:52:16 | [index.toml-adapter-pnpm](https://pypi.org/project/index.toml-adapter-pnpm/) | 0.1.0 |  | 5.8 kB | Workspace discovery adapter for Pnpm |
+| 2026-11-14 08:54:46 | [danishrecon](https://pypi.org/project/danishrecon/) | 0.7.0 | Danish Dhanjal | 450.1 kB | Security toolkit: recon + web vulnerability scanning, static malware analysis a… |
+| 2026-11-14 08:55:59 | [index.toml-cli](https://pypi.org/project/index.toml-cli/) | 0.1.0 |  | 6.2 kB | Command-line interface for ecosystem-neutral package indexes |
+| 2026-11-14 08:57:29 | [index.toml](https://pypi.org/project/index.toml/) | 0.1.0 |  | 4.3 kB | Python API and CLI for ecosystem-neutral package indexes |
+| 2026-11-14 08:59:37 | [polarduck](https://pypi.org/project/polarduck/) | 0.1.0 |  | 5.6 MB | Rust-powered zero-allocation streaming JSON-to-Arrow ingestion, sub-10MB schema… |
+| 2026-11-14 09:02:22 | [fix-zensical](https://pypi.org/project/fix-zensical/) | 0.1.0 |  | 26.9 kB | Add click-to-zoom Mermaid diagrams, full-screen tables and layout toggles to a… |
+| 2026-11-14 09:03:39 | [validation-claim-audit](https://pypi.org/project/validation-claim-audit/) | 0.1.0 | hao li | 21.7 kB | Offline auditor for documented input-checking promises in Python projects. |
+| 2026-11-14 09:03:47 | [progress-claim-audit](https://pypi.org/project/progress-claim-audit/) | 0.1.0 | hao li | 21.6 kB | Offline auditor for documented ongoing-work feedback promises in Python project… |
+| 2026-11-14 09:03:55 | [logging-claim-audit](https://pypi.org/project/logging-claim-audit/) | 0.1.0 | hao li | 24.4 kB | Offline auditor for documented record-keeping promises in Python projects. |
+| 2026-11-14 09:04:03 | [checksum-claim-audit](https://pypi.org/project/checksum-claim-audit/) | 0.1.0 | hao li | 23.1 kB | Offline auditor for documented checksum-verification promises in Python project… |
+| 2026-11-14 09:04:08 | [kairo-configmate](https://pypi.org/project/kairo-configmate/) | 0.1.0 | GdAyo19 <theyagolarewaju@gmai… | 37.7 kB | Python configuration with environment, file, and Stellar endpoint support |
+| 2026-11-14 09:07:31 | [chartdelta](https://pypi.org/project/chartdelta/) | 0.5.1 | Radhana | 59.9 kB | Render a Helm chart with real values and diff the manifests against the origina… |
+| 2026-11-14 09:07:44 | [langchain-easytranscriber](https://pypi.org/project/langchain-easytranscriber/) | 0.1.0 |  | 24.2 kB | LangChain document loader and tools for YouTube transcripts, AI summaries and Y… |
+| 2026-11-14 09:09:22 | [wildberries-mcp](https://pypi.org/project/wildberries-mcp/) | 0.1.188 | Evgenii Lazarev <elazarev@gma… | 25.9 kB | MCP server for the Wildberries seller API: AI agents search, describe and call… |
+| 2026-11-14 09:10:19 | [ai-oriented-a2a](https://pypi.org/project/ai-oriented-a2a/) | 0.3.2 | robotmarvin0706 | 42.8 kB | Minimal stdlib helpers for the AI-oriented A2A peer protocol (Experience Packet… |
+| 2026-11-14 09:11:19 | [sabor-mcp](https://pypi.org/project/sabor-mcp/) | 0.4.0 | JlMoreno00 | 465.9 kB | Recipes, meal plans and shopping lists with SQLite by default; Mealie and Postg… |
+| 2026-11-14 09:16:42 | [crafvy](https://pypi.org/project/crafvy/) | 0.3.1 |  | 902.3 kB | The official Python SDK of the Crafvy API |

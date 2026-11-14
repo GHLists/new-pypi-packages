@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T08:18:21Z,dejafix,1.0.0rc1,,MIT,40907258,Coding agent memory: local-first memory and judgment for AI coding agents. One MCP server for every project; warns before repeating failed fixes.
+2026-11-14T08:23:12Z,omnisight,0.1.0,Xiao-Chien Lin,Apache-2.0,63530,"Computer-use backend (MCP server) that sees and drives any Windows app window: GPU-rendered, covered or in the background."
+2026-11-14T08:28:17Z,oglodon-transformer,0.4.1,Dhruv Puri <dhruvpurigoswami2004@gmail.com>,MIT,316700,"Oglodon: build, train and behaviour-verify Transformers; `oglodon verify` checks any causal LM (Hugging Face, custom PyTorch) for causality, padding, KV-cache, numerics and gradient bugs."
+2026-11-14T08:29:02Z,truthstone,0.2.0,Truthstone,Apache-2.0,5134909,Host-powered reliability and reasoning control layer for AI coding agents
+2026-11-14T08:29:32Z,lakeflow-fxmacrodata,0.1.0,,"MIT License Copyright (c) 2026 Robert Tidball Permission is hereby granted, free of charge, to any…",13519,FXMacroData custom connector for Databricks Lakeflow Connect
+2026-11-14T08:30:12Z,ci-doctor-arka,0.1.0,,,675492,CI Doctor: investigates failing CI runs
+2026-11-14T08:33:02Z,bitsopay,0.1.0,Bitsophia,MIT,97159,"Dynamic UPI QR codes and tamper-proof payment links from a UPI ID and amount. Zero-gateway, merchant-verified payments."
+2026-11-14T08:35:04Z,roundtable-mcp,0.2.0,,MIT,122412,Shared task board that lets AI agents from different vendors work together over MCP
+2026-11-14T08:35:44Z,coatlearn,0.1.0,"Chenxi Liu, Yongqiang Chen, Tongliang Liu, Mingming Gong, James Cheng, Bo Han, Kun Zhang",Apache-2.0 AND CC-BY-4.0 AND MIT,1150272,Causal discovery over unstructured data with large language models (COAT)
+2026-11-14T08:37:13Z,neomundi,2.0.0,,Apache-2.0,191535,Client Python NeoMundi : REST post-call et streaming SSE
+2026-11-14T08:38:49Z,termchat-ai,0.1.0,AITerminal contributors,,9057,A no-login terminal client for the AITerminal cloud AI service
+2026-11-14T08:43:41Z,corelle.engine,3.0.0,Daven Quinn,MIT,66913,Plate-rotation models and rotation engine for the Corelle system
+2026-11-14T08:45:12Z,index.toml-contracts,0.1.0,,,8738,Schema and validation for ecosystem-neutral package indexes
+2026-11-14T08:45:18Z,solo-sdd,0.2.0,,MIT,1332554,"Spec-driven development process for AI coding agents: rules, skills, hooks and a process format with its own validator; a change is done only after a live check and an independent review"
+2026-11-14T08:46:52Z,index.toml-core,0.1.0,,,8599,File-backed editor for ecosystem-neutral package indexes
+2026-11-14T08:48:02Z,stac-api-protocol,0.1.0,Terradue <info@terradue.com>,Apache-2.0,41478,"A Python FastAPI HTTP adapter for STAC API Core, Item Search, Features and Collections."
+2026-11-14T08:48:23Z,xrfdc,2.0,Your Name,,1513,POC package (beacon-only)
+2026-11-14T08:49:45Z,index.toml-adapter-python,0.1.0,,,6750,Workspace discovery adapter for Python
+2026-11-14T08:50:55Z,index.toml-adapter-cargo,0.1.0,,,5621,Workspace discovery adapter for Cargo
+2026-11-14T08:51:22Z,crank-sdk,0.0.0,"Engaij, Inc.",All rights reserved (name reservation placeholder),1559,Reserved package name. No functionality.
+2026-11-14T08:52:16Z,index.toml-adapter-pnpm,0.1.0,,,5823,Workspace discovery adapter for Pnpm
+2026-11-14T08:54:46Z,danishrecon,0.7.0,Danish Dhanjal,MIT,450097,"Security toolkit: recon + web vulnerability scanning, static malware analysis and network-traffic analysis. For authorized testing only."
+2026-11-14T08:55:59Z,index.toml-cli,0.1.0,,,6232,Command-line interface for ecosystem-neutral package indexes
+2026-11-14T08:57:29Z,index.toml,0.1.0,,,4268,Python API and CLI for ecosystem-neutral package indexes
+2026-11-14T08:59:37Z,polarduck,0.1.0,,,5601813,"Rust-powered zero-allocation streaming JSON-to-Arrow ingestion, sub-10MB schema-evolving Parquet compaction, and POSIX TAR batch transport for Polars & DuckDB."
+2026-11-14T09:02:22Z,fix-zensical,0.1.0,,MIT,26860,"Add click-to-zoom Mermaid diagrams, full-screen tables and layout toggles to a Zensical docs site."
+2026-11-14T09:03:39Z,validation-claim-audit,0.1.0,hao li,MIT,21698,Offline auditor for documented input-checking promises in Python projects.
+2026-11-14T09:03:47Z,progress-claim-audit,0.1.0,hao li,MIT,21566,Offline auditor for documented ongoing-work feedback promises in Python projects.
+2026-11-14T09:03:55Z,logging-claim-audit,0.1.0,hao li,MIT,24437,Offline auditor for documented record-keeping promises in Python projects.
+2026-11-14T09:04:03Z,checksum-claim-audit,0.1.0,hao li,MIT,23054,Offline auditor for documented checksum-verification promises in Python projects.
+2026-11-14T09:04:08Z,kairo-configmate,0.1.0,GdAyo19 <theyagolarewaju@gmail.com>,MIT,37700,"Python configuration with environment, file, and Stellar endpoint support"
+2026-11-14T09:07:31Z,chartdelta,0.5.1,Radhana,MIT,59901,"Render a Helm chart with real values and diff the manifests against the original (git ref, another chart, or other values). No cluster needed."
+2026-11-14T09:07:44Z,langchain-easytranscriber,0.1.0,,MIT,24250,"LangChain document loader and tools for YouTube transcripts, AI summaries and YouTube search via EasyTranscriber"
+2026-11-14T09:09:22Z,wildberries-mcp,0.1.188,Evgenii Lazarev <elazarev@gmail.com>,MIT,25913,"MCP server for the Wildberries seller API: AI agents search, describe and call every operation through wildberries-sdk."
+2026-11-14T09:10:19Z,ai-oriented-a2a,0.3.2,robotmarvin0706,MIT,42787,"Minimal stdlib helpers for the AI-oriented A2A peer protocol (Experience Packets, optional HMAC and replay checks)."
+2026-11-14T09:11:19Z,sabor-mcp,0.4.0,JlMoreno00,AGPL-3.0-only,465892,"Recipes, meal plans and shopping lists with SQLite by default; Mealie and Postgres optional."
+2026-11-14T09:16:42Z,crafvy,0.3.1,,MIT,902331,The official Python SDK of the Crafvy API
