@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T10:20:36Z,crispr-cas-finder,0.1.0,crispr-cas-finder contributors,GPL-3.0-or-later,57838903,Detection of CRISPR arrays and Cas systems in prokaryotic genomes
+2026-11-14T10:21:19Z,octantocr,0.1.0,OctantOCR Team <devadarshanoop@gmail.com>,Apache-2.0,45189634,"Offline-first, edge-native OCR framework with structured output, layout analysis, and table retention."
+2026-11-14T10:21:59Z,octopus-phonopy,1.0.0,Octopus developers,GPL-3.0-or-later,48825,PhonoPy interface helpers for the Octopus TDDFT code
+2026-11-14T10:23:04Z,water-column-sonar-ai,26.11.7,Rudy Klucik <rudy.klucik@noaa.gov>,MIT,14748,Machine Learning and AI tool for analyzing water column sonar data.
+2026-11-14T10:27:51Z,django-mp-prom,0.0.1,Paul Maigutyak,MIT,9693,Django Prom.ua export
+2026-11-14T10:28:07Z,channel-bot-cli-acp,0.1.0,Martin <qule520@126.com>,,314211,一个使用Agent Client Protocol驱动的即时通讯平台AI助手机器人工具
+2026-11-14T10:28:30Z,agent-cli-lib,0.1.0,SongJuYi 1327898686@qq.com,MIT,79450,"Unified Python interface for agent CLI bases (opencode, pi, hermes)"
+2026-11-14T10:31:29Z,messagex-client,0.1.0,,MIT,46208,Official Python (asyncio) client for the MessageX message broker
+2026-11-14T10:37:07Z,exos-python-sdk,0.0.1,,MIT,4506,"Placeholder only - NOT the OKX ExchangeOS SDK. Held to prevent namespace hijacking, available for transfer to OKX."
+2026-11-14T10:38:35Z,mcp-server-docker-dboeckli,0.6.2,Christian Kreiling <kreiling@hey.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",174247,A Docker MCP Server
+2026-11-14T10:39:13Z,hebbian-rua,0.1.0,,MIT,21275630,Build robot-use agents with your own model and loop
+2026-11-14T10:45:47Z,halba,1.0.0,,MIT,15531,"Official Python library for the halba API: payments, captures and refunds, checkout sessions, in-store payments and webhooks"
+2026-11-14T10:47:18Z,teabot,1.0.0,,MIT,562398,"A plugin-based Discord bot framework, built to self-host and to scale"
+2026-11-14T10:48:10Z,teabot-announcements,1.0.0,,MIT,9133,"Post announcements to a channel, a first-party teabot plugin"
+2026-11-14T10:51:25Z,ished,0.1.0,,Apache-2.0,30880,"IshedDB, written as MongoDB’s official driver of each language (Python, as PyMongo)"
+2026-11-14T10:54:20Z,cadrender,0.1.0,The cadrender contributors,MIT OR Apache-2.0,12848787,"Very fast DXF and DWG to PNG and SVG renderer, written in Rust"
+2026-11-14T10:55:44Z,vibehub,1.0.0,MrLunarDev,MIT,44792,Small Python library for building Vibegram bots (import name: Vibe)
+2026-11-14T10:59:09Z,mapselect,0.1.0,Peng Luo,MIT,46656,"Uncertainty at the places a map selects: selection-conditional conformal calibration, audit planning and project-total bounds for rank-based geographic decisions"
+2026-11-14T10:59:39Z,eigentrail,0.2.0,Gabriel Bontemps <gbontemps@protonmail.com>,MIT,1992746,TRACE covariance trajectories with independent numerical checking
+2026-11-14T11:01:20Z,siel,0.1.0,Siel Labs <support@siellabs.com>,MIT,15153,"The Siel SMS API for Python: messages, batches, OTP codes, prices and webhook signatures."
+2026-11-14T11:03:52Z,paulipropagation-qdk,0.1.0,,Apache-2.0,4941362,Pauli propagation for circuits compiled with the Microsoft Quantum Development Kit
+2026-11-14T11:05:33Z,mcp-server-core,0.2.1,yimmr,MIT,53178,"Universal MCP Server Framework: Streamable HTTP ASGI, Cloudflare Tunnel, OAuth 2.1 & Process Supervisor"
+2026-11-14T11:06:23Z,sbmpbox,0.1.0,Jeel Savaliya,MIT,4477,A Python code collection and downloader
+2026-11-14T11:08:57Z,alphaend-factor-kernel,0.0.0,,,2583,Name reserved by AlphaEnd Labs. The real package is not released yet.
+2026-11-14T11:09:01Z,alphaend-data-connector,0.0.0,,,2582,Name reserved by AlphaEnd Labs. The real package is not released yet.
+2026-11-14T11:09:12Z,coom-lang,0.0.1a1,denkbares GmbH,MIT,109162,"Parser, compiler and writer of the COOM product configuration language"
+2026-11-14T11:09:14Z,coom-mcp,0.0.1a1,denkbares GmbH,MIT,5328,MCP server for knowledge engineering with the COOM product configuration language
+2026-11-14T11:09:44Z,quantworlds-mcp,1.0.0,,,5823,MCP client for the QuantWorlds verification API.
+2026-11-14T11:13:54Z,ppandass,0.1.1,Pandaas Developers,MIT,21665,Lightweight helper utilities for data processing
+2026-11-14T11:14:05Z,flask-host-blueprint,0.1.0,,MIT,14702,Flask Blueprint with unified host matching
+2026-11-14T11:15:09Z,lsfp,1.0.0,LelelelingStudio <hello@leleleling.site>,Apache-2.0,8322,A hybrid image compression format by LelelelingStudio
+2026-11-14T11:18:31Z,seq-quince,0.1.1,Helmholtz-Zentrum Berlin,,168628,"An asynchronous, YAML-configured device scheduler for EPICS beamlines, built on kiwi-scan."
