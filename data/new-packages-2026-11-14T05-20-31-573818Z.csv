@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T03:42:19Z,fxmacrodata-public-client,0.1.1,,MIT,105781,Public FXMacroData REST and MCP client for native integrations
+2026-11-14T04:28:38Z,threatwatch,1.0.0,ghoste12125 <anonymosmauros@gmail.com>,MIT,197056,Live defensive cyber and AI threat intelligence reports from public sources
+2026-11-14T04:33:28Z,odoo-addons-oca-vertical-agriculture,16.0.20261113.0,,,1431,Meta package for oca-vertical-agriculture Odoo addons
+2026-11-14T04:33:48Z,dominusnode-haystack,2.2.0,,MIT,27472,"DominusNode agent relay network tools for Haystack (19 tools, built on the dominusnode SDK)"
+2026-11-14T04:33:53Z,dominusnode-ironclaw,2.2.0,,MIT,29049,"DominusNode agent relay network tools for IronClaw (19 tools, built on the dominusnode SDK)"
+2026-11-14T04:33:59Z,dominusnode-langchain,2.2.0,,MIT,24587,LangChain tools for the DominusNode AI-agent relay network (19 v2 tools on the dominusnode SDK)
+2026-11-14T04:34:04Z,dominusnode-langflow,2.2.0,,MIT,28419,"DominusNode agent relay network tools for Langflow (19 tools, built on the dominusnode SDK)"
+2026-11-14T04:41:13Z,pushikoo-pusher-email,0.1.0,Pushikoo,,37061,SMTP email pusher adapter for Pushikoo.
+2026-11-14T04:48:12Z,agentreplayguard,0.14.0,AgentReplayGuard contributors,MIT,69997,Deterministic side-effect safety testing for LangGraph agents: fault injection and effect-ledger assertions to catch duplicate business operations.
+2026-11-14T04:48:22Z,localhost-cli,0.1.0,LOCALHOST <support@localhost.co.zw>,,43357,lh: the LOCALHOST command line for deploying and managing your sites.
+2026-11-14T04:53:10Z,failfirst,0.1.0,Pallav Pokhriyal <pallav01@gmail.com>,MIT,47213,Acceptance criteria that must be proven to fail on the unfixed code before they may count as passing.
+2026-11-14T04:53:13Z,purrint,0.1.1,raidenmaister,MIT,103229,"Print images, text and QR codes on cheap Bluetooth thermal 'cat' printers (MX10, MX06, GB01-style, MXW01 and 100+ more) from Python."
+2026-11-14T04:53:14Z,dataset-leakcheck,0.2.0,Pallav Pokhriyal,MIT,84761,"Audit train/test leakage within and across ML benchmark datasets: overlap matrices, label conflicts, near-duplicates, and clean test splits."
+2026-11-14T04:54:45Z,rational-wheels,0.1.1,Rational Wheels contributors,MIT,8142,"Total arithmetic for rational numbers, infinity, and nullity based on wheels theory."
+2026-11-14T04:56:47Z,tablecheck,0.1.0,tablecheck contributors,MIT,20137,"Check PDF table structure: geometry-detected tables vs tagged /Table /TH /TD, CJK-aware (中文/繁體)."
+2026-11-14T04:58:20Z,mindslice-forge,0.1.0,pancerZH,Apache-2.0,103341,Turn documents into a MindSlice workspace by driving an agent harness (Python stdlib only).
+2026-11-14T05:00:17Z,fxmacrodata-platform-core,0.1.0,,MIT,75472,Public-contract data adapters for FXMacroData platform integrations
+2026-11-14T05:02:00Z,plug-play-memory,0.2.0,Tathagat,Apache-2.0,109962,"Self-hosted, brain-inspired memory + permissions for AI agents. MCP-native. One SQLite file."
+2026-11-14T05:05:36Z,llm-rapid-mlx,0.1.0,Raullen <989846+raullenchai@users.noreply.github.com>,MIT,18252,Run LLM prompts against a local Rapid-MLX server
+2026-11-14T05:11:09Z,vine-denoising-copula,0.4.0,Houman Safaai <houman_safaai@harvard.edu>,MIT,539456,Vine Denoising Copula for high-dimensional vine-copula modeling and information estimation
+2026-11-14T05:12:52Z,py-ruvseq-omicverse,0.1.0,,"Artistic License 2.0 Copyright (c) 2000-2006, The Perl Foundation. Everyone is permitted to copy an…",86125,Reference-validated py-RUVSeq algorithm subset
+2026-11-14T05:13:23Z,primarysource,0.1.0,Justin Capella,Apache-2.0,2245319,"Citable primary-source libraries for agents: RFCs, NIST, USB-IF, ITU-T, Kiwix and CVE collections behind one core (ref grammar, token-budgeted paging, full-text index, CLI, MCP server)."
+2026-11-14T05:14:56Z,rimscan-cli,1.0.0,Rimscan,Apache-2.0,108206,External attack-surface reconnaissance for domains you own or are authorized to test.
+2026-11-14T05:15:18Z,fusion-core,0.12.1,,Apache-2.0,123096,"Fusion-Core — public technical foundation for the Fusion ecosystem (LLM client, JSON parse, config, logging, FastAPI factory)"
+2026-11-14T05:15:24Z,pluvium,0.1.0,Nathan,Apache-2.0,471617,"Hour-by-hour rain forecasts for every Caribbean town: when rain starts, how long it lasts, how much falls and why, on the NatureV1 / iHELIX engine"
+2026-11-14T05:18:46Z,bisim.py,0.1.0,"Bisim, Rapptz (discord.py)",MIT,696041,"The official Python library for building Bisim bots, with the discord.py 2.x API."
+2026-11-14T05:19:00Z,hermes-kanban-tui,1.0.0,Ebbwater LLC,MIT,109076,Read-only terminal board view for the Hermes Agent kanban

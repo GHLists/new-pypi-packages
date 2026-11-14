@@ -8,40 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 04:19 UTC
+## Latest list — 2026-11-14 05:20 UTC
 
-New packages created between 2026-11-14 03:18 UTC and 2026-11-14 04:19 UTC.
+New packages created between 2026-11-14 04:19 UTC and 2026-11-14 05:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T04-19-12-455366Z.csv)
+[Full CSV](data/new-packages-2026-11-14T05-20-31-573818Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 03:26:15 | [smm-hub](https://pypi.org/project/smm-hub/) | 0.2.0rc16 |  | 34.9 kB | Self-hosted aggregation and search for SMM conversation archives |
-| 2026-11-14 03:26:15 | [smm-local](https://pypi.org/project/smm-local/) | 0.2.0rc16 |  | 42.0 kB | Local, durable conversation archive and search for coding agents |
-| 2026-11-14 03:32:25 | [nephis](https://pypi.org/project/nephis/) | 1.0.0 | Mohit Raj Deo | 164.4 kB | NEPHIS: High-Throughput Isolated Execution Substrate & Zero-Copy Database Branc… |
-| 2026-11-14 03:33:27 | [xqo](https://pypi.org/project/xqo/) | 3.0.0 | dudikkocak | 6.7 MB | xqo: a small, plugin-based HQ of Claude agents with a live dashboard and a 2D /… |
-| 2026-11-14 03:33:28 | [xqo-docker](https://pypi.org/project/xqo-docker/) | 3.0.0 | dudikkocak | 13.7 kB | Docker sandbox backend for xqo run_code |
-| 2026-11-14 03:33:30 | [xqo-postgres](https://pypi.org/project/xqo-postgres/) | 3.0.0 | dudikkocak | 9.8 kB | Postgres event store for xqo |
-| 2026-11-14 03:33:31 | [xqo-sqlite](https://pypi.org/project/xqo-sqlite/) | 3.0.0 | dudikkocak | 10.4 kB | SQLite event store for xqo |
-| 2026-11-14 03:33:37 | [interlacing](https://pypi.org/project/interlacing/) | 0.11.0 | li2o0577 | 271.7 kB | Nodes, edges and methods: join models, programs, devices and people into graphs… |
-| 2026-11-14 03:35:31 | [rustc-bin](https://pypi.org/project/rustc-bin/) | 1.100.0 | baba01hacker | 223.6 MB | Prebuilt Rust toolchain |
-| 2026-11-14 03:38:18 | [llms-ink](https://pypi.org/project/llms-ink/) | 0.2.0 | Lucas Espindola | 32.0 kB | Turn any link — site, docs section, page, GitHub repo, PDF or video — into llms… |
-| 2026-11-14 03:43:07 | [steadyhand](https://pypi.org/project/steadyhand/) | 0.26.1 | Dundy Pasupuleti | 971.3 kB | Turn a written lab protocol into a robot program and rehearse it before it touc… |
-| 2026-11-14 03:43:13 | [oflit-genai](https://pypi.org/project/oflit-genai/) | 1.2.0 |  | 4.8 kB | Официальный SDK для работы с моделями Oflit от Oiyres Inc Studio |
-| 2026-11-14 03:44:07 | [forcebites](https://pypi.org/project/forcebites/) | 0.1.0 |  | 65.4 kB | Move pandas DataFrames in and out of Salesforce in one line, with adaptive tuni… |
-| 2026-11-14 03:45:36 | [mindslice](https://pypi.org/project/mindslice/) | 0.1.5 | pancerZH | 369.6 kB | Layered, pluggable, human-readable long-term memory engine for LLM agents (Pyth… |
-| 2026-11-14 03:49:43 | [necklink-cns](https://pypi.org/project/necklink-cns/) | 2.0.0 | Amandeep Singh Bains | 194.3 kB | Unified Adult Drosophila Whole-CNS Edge Autonomy Controller (BANC v888 Descendi… |
-| 2026-11-14 03:50:24 | [fleetmux](https://pypi.org/project/fleetmux/) | 0.2.2 |  | 14.1 MB | Run AI teams: a supervisor agent leads worker agents (Claude Code, Codex, Pi, o… |
-| 2026-11-14 03:50:47 | [django-simple-url-shortner](https://pypi.org/project/django-simple-url-shortner/) | 0.2.1 |  | 157.7 kB | A small, self-hosted Django URL shortener. |
-| 2026-11-14 03:50:52 | [git-oops](https://pypi.org/project/git-oops/) | 1.0.1.post1 | Hao | 260.3 kB | The Dual-Mode Terminal Crash Fixer & Autonomous AI Agent Safety Harness (The Fi… |
-| 2026-11-14 03:51:52 | [gpulint](https://pypi.org/project/gpulint/) | 0.1.0 | Quanquan Hu | 53.1 kB | GPU light-curve transit searches with CuPy |
-| 2026-11-14 03:53:00 | [appblocklist](https://pypi.org/project/appblocklist/) | 1.0.0 | Alpha Quantum | 34.4 kB | Python client for the AppBlockList App Lookup API: categorize iOS and Android a… |
-| 2026-11-14 03:54:18 | [pytrends-cloud](https://pypi.org/project/pytrends-cloud/) | 0.1.0 | bibian | 34.3 kB | Drop-in replacement for the archived pytrends: same TrendReq API and pandas out… |
-| 2026-11-14 03:58:10 | [paw-control](https://pypi.org/project/paw-control/) | 2.3.2 | ahj321 | 57.5 kB | A pair of hands for your agent: screenshot, click, type. One command, one thing… |
-| 2026-11-14 03:59:47 | [openadapt-verify](https://pypi.org/project/openadapt-verify/) | 0.2.0 |  | 174.4 kB | Verify an agent's writes through an independent system-of-record read path |
-| 2026-11-14 04:00:22 | [mvote](https://pypi.org/project/mvote/) | 0.1.0 | Valentín Quiroz de la Sierra,… | 28.2 kB | CLI for creating and configuring mVote participatory sticky-note voting sessions |
-| 2026-11-14 04:01:56 | [hashident](https://pypi.org/project/hashident/) | 0.1.0 | Javier Mendoza | 86.5 kB | Identify likely hash algorithms from a hash string. |
-| 2026-11-14 04:06:11 | [walletbrake](https://pypi.org/project/walletbrake/) | 0.1.0 | WalletBrake <support@walletbr… | 24.5 kB | Pay from a WalletBrake vault from a bot or AI agent: spending limits, a trusted… |
-| 2026-11-14 04:07:41 | [boxfab-desktop](https://pypi.org/project/boxfab-desktop/) | 0.1.0a1 | ContextFab, Inc. | 22.7 kB | BoxFab Desktop: a virtual Linux desktop in a BoxFab sandbox, for computer-use a… |
-| 2026-11-14 04:16:19 | [in2](https://pypi.org/project/in2/) | 0.1.0 | Sequence | 3.0 kB | Easily casting the type of an object. |
-| 2026-11-14 04:19:03 | [impulse-compute](https://pypi.org/project/impulse-compute/) | 0.1.0 |  | 180.7 kB | The ImpulseCompute SDK: sandboxes, commands, files and previews over the Comput… |
+| 2026-11-14 03:42:19 | [fxmacrodata-public-client](https://pypi.org/project/fxmacrodata-public-client/) | 0.1.1 |  | 105.8 kB | Public FXMacroData REST and MCP client for native integrations |
+| 2026-11-14 04:28:38 | [threatwatch](https://pypi.org/project/threatwatch/) | 1.0.0 | ghoste12125 <anonymosmauros@g… | 197.1 kB | Live defensive cyber and AI threat intelligence reports from public sources |
+| 2026-11-14 04:33:28 | [odoo-addons-oca-vertical-agriculture](https://pypi.org/project/odoo-addons-oca-vertical-agriculture/) | 16.0.20261113.0 |  | 1.4 kB | Meta package for oca-vertical-agriculture Odoo addons |
+| 2026-11-14 04:33:48 | [dominusnode-haystack](https://pypi.org/project/dominusnode-haystack/) | 2.2.0 |  | 27.5 kB | DominusNode agent relay network tools for Haystack (19 tools, built on the domi… |
+| 2026-11-14 04:33:53 | [dominusnode-ironclaw](https://pypi.org/project/dominusnode-ironclaw/) | 2.2.0 |  | 29.0 kB | DominusNode agent relay network tools for IronClaw (19 tools, built on the domi… |
+| 2026-11-14 04:33:59 | [dominusnode-langchain](https://pypi.org/project/dominusnode-langchain/) | 2.2.0 |  | 24.6 kB | LangChain tools for the DominusNode AI-agent relay network (19 v2 tools on the… |
+| 2026-11-14 04:34:04 | [dominusnode-langflow](https://pypi.org/project/dominusnode-langflow/) | 2.2.0 |  | 28.4 kB | DominusNode agent relay network tools for Langflow (19 tools, built on the domi… |
+| 2026-11-14 04:41:13 | [pushikoo-pusher-email](https://pypi.org/project/pushikoo-pusher-email/) | 0.1.0 | Pushikoo | 37.1 kB | SMTP email pusher adapter for Pushikoo. |
+| 2026-11-14 04:48:12 | [agentreplayguard](https://pypi.org/project/agentreplayguard/) | 0.14.0 | AgentReplayGuard contributors | 70.0 kB | Deterministic side-effect safety testing for LangGraph agents: fault injection… |
+| 2026-11-14 04:48:22 | [localhost-cli](https://pypi.org/project/localhost-cli/) | 0.1.0 | LOCALHOST <support@localhost.… | 43.4 kB | lh: the LOCALHOST command line for deploying and managing your sites. |
+| 2026-11-14 04:53:10 | [failfirst](https://pypi.org/project/failfirst/) | 0.1.0 | Pallav Pokhriyal <pallav01@gm… | 47.2 kB | Acceptance criteria that must be proven to fail on the unfixed code before they… |
+| 2026-11-14 04:53:13 | [purrint](https://pypi.org/project/purrint/) | 0.1.1 | raidenmaister | 103.2 kB | Print images, text and QR codes on cheap Bluetooth thermal 'cat' printers (MX10… |
+| 2026-11-14 04:53:14 | [dataset-leakcheck](https://pypi.org/project/dataset-leakcheck/) | 0.2.0 | Pallav Pokhriyal | 84.8 kB | Audit train/test leakage within and across ML benchmark datasets: overlap matri… |
+| 2026-11-14 04:54:45 | [rational-wheels](https://pypi.org/project/rational-wheels/) | 0.1.1 | Rational Wheels contributors | 8.1 kB | Total arithmetic for rational numbers, infinity, and nullity based on wheels th… |
+| 2026-11-14 04:56:47 | [tablecheck](https://pypi.org/project/tablecheck/) | 0.1.0 | tablecheck contributors | 20.1 kB | Check PDF table structure: geometry-detected tables vs tagged /Table /TH /TD, C… |
+| 2026-11-14 04:58:20 | [mindslice-forge](https://pypi.org/project/mindslice-forge/) | 0.1.0 | pancerZH | 103.3 kB | Turn documents into a MindSlice workspace by driving an agent harness (Python s… |
+| 2026-11-14 05:00:17 | [fxmacrodata-platform-core](https://pypi.org/project/fxmacrodata-platform-core/) | 0.1.0 |  | 75.5 kB | Public-contract data adapters for FXMacroData platform integrations |
+| 2026-11-14 05:02:00 | [plug-play-memory](https://pypi.org/project/plug-play-memory/) | 0.2.0 | Tathagat | 110.0 kB | Self-hosted, brain-inspired memory + permissions for AI agents. MCP-native. One… |
+| 2026-11-14 05:05:36 | [llm-rapid-mlx](https://pypi.org/project/llm-rapid-mlx/) | 0.1.0 | Raullen <989846+raullenchai@u… | 18.3 kB | Run LLM prompts against a local Rapid-MLX server |
+| 2026-11-14 05:11:09 | [vine-denoising-copula](https://pypi.org/project/vine-denoising-copula/) | 0.4.0 | Houman Safaai <houman_safaai@… | 539.5 kB | Vine Denoising Copula for high-dimensional vine-copula modeling and information… |
+| 2026-11-14 05:12:52 | [py-ruvseq-omicverse](https://pypi.org/project/py-ruvseq-omicverse/) | 0.1.0 |  | 86.1 kB | Reference-validated py-RUVSeq algorithm subset |
+| 2026-11-14 05:13:23 | [primarysource](https://pypi.org/project/primarysource/) | 0.1.0 | Justin Capella | 2.2 MB | Citable primary-source libraries for agents: RFCs, NIST, USB-IF, ITU-T, Kiwix a… |
+| 2026-11-14 05:14:56 | [rimscan-cli](https://pypi.org/project/rimscan-cli/) | 1.0.0 | Rimscan | 108.2 kB | External attack-surface reconnaissance for domains you own or are authorized to… |
+| 2026-11-14 05:15:18 | [fusion-core](https://pypi.org/project/fusion-core/) | 0.12.1 |  | 123.1 kB | Fusion-Core — public technical foundation for the Fusion ecosystem (LLM client,… |
+| 2026-11-14 05:15:24 | [pluvium](https://pypi.org/project/pluvium/) | 0.1.0 | Nathan | 471.6 kB | Hour-by-hour rain forecasts for every Caribbean town: when rain starts, how lon… |
+| 2026-11-14 05:18:46 | [bisim.py](https://pypi.org/project/bisim.py/) | 0.1.0 | Bisim, Rapptz (discord.py) | 696.0 kB | The official Python library for building Bisim bots, with the discord.py 2.x AP… |
+| 2026-11-14 05:19:00 | [hermes-kanban-tui](https://pypi.org/project/hermes-kanban-tui/) | 1.0.0 | Ebbwater LLC | 109.1 kB | Read-only terminal board view for the Hermes Agent kanban |

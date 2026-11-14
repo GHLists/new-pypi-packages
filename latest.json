@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-14T03:18:25.812853Z",
-    "path": "data/new-packages-2026-11-14T04-19-12-455366Z.csv",
-    "to": "2026-11-14T04:19:12.455366Z"
+    "count": 27,
+    "from": "2026-11-14T04:19:12.455366Z",
+    "path": "data/new-packages-2026-11-14T05-20-31-573818Z.csv",
+    "to": "2026-11-14T05:20:31.573818Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-14T03:42:19Z",
-      "package": "fxmacrodata-public-client",
-      "since": "2026-11-14T03:18:25.812853Z",
+      "created_at": "2026-11-14T05:02:51Z",
+      "package": "HermesKanbanTUI",
+      "since": "2026-11-14T04:19:12.455366Z",
       "version": null
     }
   ],
-  "serial": 43637594,
+  "serial": 43638788,
   "source_truncated": false,
-  "window": "2026-11-14T04:19:12.455366Z"
+  "window": "2026-11-14T05:20:31.573818Z"
 }
