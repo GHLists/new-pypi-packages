@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T02:19:40Z,tunc-mcp,0.1.1,TUNC LLC <hello@tunc.ai>,MIT,31555,"MCP client for Tunc Orb (agent memory database), Tunc Art (artifact storage and private file sharing) and Tunc Doc (documents, spreadsheets, decks)."
+2026-11-14T02:20:18Z,fonti,0.1.0,Noai-oss,,21455,A command-line tool for installing fonts on Windows
+2026-11-14T02:22:13Z,cv-tools-cli,2.0.0,Phone Thiha Kyaw,MIT,252578,Generate a LaTeX CV from a YAML file
+2026-11-14T02:27:37Z,amber-to-lammps,1.0.0,Arun Sridhar,MIT,43194,Convert AMBER topology and PDB files to LAMMPS data and parameter files
+2026-11-14T02:35:06Z,remedigenius-community,0.9.2.post1,RemediGenius <raj@iacgenius.com>,Apache-2.0,857234,RemediGenius Community Edition (RemediGenius-CE): AWS security triage desk on the Hermes agent
+2026-11-14T02:37:02Z,llama-index-graph-stores-rushdb,0.1.0,RushDB Team <hi@rushdb.com>,Apache-2.0,37633,"LlamaIndex property graph store on RushDB: typed entity labels, relations, vector search and a schema derived from the data, on RushDB Cloud or self-hosted"
+2026-11-14T02:37:12Z,sdca-rag,0.1.0,"Subodh Butt, Ashish Dhillon",MIT,150666,Structure-Aware Document Chunking Algorithm for Retrieval-Augmented Generation (RAG) Systems
+2026-11-14T02:37:56Z,sawalign,0.1.2,Omar Kamali <omar@omneitylabs.com>,MIT,14424,Align a transcript to an audio recording with Sawalni API
+2026-11-14T02:46:04Z,thai-orthographic-segmenter,0.1.0,Micha <220009159+yxmicha@users.noreply.github.com>,(MIT OR Apache-2.0) AND Unicode-3.0,16158924,"Thai syllable, word and line segmentation with bundled models"
+2026-11-14T02:51:39Z,trave,1.0.0,edde746,MIT,11726,"Trave: tables of named, typed columns packed for an app to read with nothing but a gzip decoder"
+2026-11-14T02:54:28Z,lxcor-cordial,0.1.1,Light Cross Holdings Corporation,Apache-2.0,64747,"Cordial: a calendar and clock of 364 days (13 x 28 = 52 x 7), a 26-hour day and a 364-grau circle, with converters to the Gregorian system."
+2026-11-14T03:05:20Z,pydantic-ai-exedev,0.1.0,,MIT,89123,Run Pydantic AI agent workspaces on exe.dev VMs
+2026-11-14T03:06:29Z,daktilo,0.1.1,Omar Kamali <omar@omneitylabs.com>,MIT,12030,Transcribe audio recordings with Sawalni API
+2026-11-14T03:11:26Z,parseoff,0.2.1,,MIT,1887717,Compare PDF parsers side by side on your own documents - no ground truth needed.
+2026-11-14T03:14:10Z,fontpkg-baskervville,1.100,,OFL-1.1,140145,"Baskervville font family, packaged for Python by fontpkg"
+2026-11-14T03:14:12Z,fontpkg-fugaz-one,1.2,,OFL-1.1,23708,"Fugaz One font family, packaged for Python by fontpkg"
+2026-11-14T03:14:14Z,fontpkg-google-sans-code,6.1,,OFL-1.1,160366,"Google Sans Code font family, packaged for Python by fontpkg"
+2026-11-14T03:14:16Z,fontpkg-francois-one,2.0,,OFL-1.1,48459,"Francois One font family, packaged for Python by fontpkg"

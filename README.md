@@ -8,26 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 02:18 UTC
+## Latest list — 2026-11-14 03:18 UTC
 
-New packages created between 2026-11-14 01:18 UTC and 2026-11-14 02:18 UTC.
+New packages created between 2026-11-14 02:18 UTC and 2026-11-14 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T02-18-40-451281Z.csv)
+[Full CSV](data/new-packages-2026-11-14T03-18-25-812853Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 01:26:55 | [jwwkit](https://pypi.org/project/jwwkit/) | 0.2.0 | tetsuo-m | 615.1 kB | Read, inspect, and safely edit Jw_cad drawing files |
-| 2026-11-14 01:28:53 | [py-prim](https://pypi.org/project/py-prim/) | 0.1.0 | Salik Tariq | 8.4 kB | Enhanced and validated base primitive data types for Python. |
-| 2026-11-14 01:37:19 | [sre-agent-cli](https://pypi.org/project/sre-agent-cli/) | 0.2.0 | Abraham Kakooza | 328.7 kB | An autonomous SRE agent that diagnoses and helps remediate incidents under huma… |
-| 2026-11-14 01:45:21 | [dsh-evokit](https://pypi.org/project/dsh-evokit/) | 0.1.5 | Jiahao | 360.6 kB | Domain-neutral, pluggable self-evolution experiments |
-| 2026-11-14 01:47:24 | [vcti-usd-schema-report](https://pypi.org/project/vcti-usd-schema-report/) | 0.1.0 | Visual Collaboration Technolo… | 72.6 kB | Codeless OpenUSD schema for the VCollab report model, the slides of a report an… |
-| 2026-11-14 01:53:27 | [openbarcode](https://pypi.org/project/openbarcode/) | 2.0.0 | Yoel Nunez | 26.5 kB | Module patterns for UPC-A, EAN-13 and Code 39 barcodes, with no runtime depende… |
-| 2026-11-14 02:02:46 | [gdown2](https://pypi.org/project/gdown2/) | 0.2.0 | gdown2 contributors | 140.1 kB | Fast, resumable Google Drive file and folder downloader with async I/O, Rich CL… |
-| 2026-11-14 02:04:42 | [fastlmmrslib](https://pypi.org/project/fastlmmrslib/) | 0.1.0 |  | 6.0 MB | Experimental Rust quadratic-form probabilities for FaST-LMM |
-| 2026-11-14 02:06:55 | [groundwork-adapter](https://pypi.org/project/groundwork-adapter/) | 0.1.0 |  | 118.0 kB | Bounded fixed-pair measurement guidance with exact native replay |
-| 2026-11-14 02:10:00 | [agentcake](https://pypi.org/project/agentcake/) | 0.0.1 | Tartini AI <admin@tartini.ai> | 3.6 kB | AgentCake by Tartini AI — coming soon. |
-| 2026-11-14 02:10:53 | [latentport](https://pypi.org/project/latentport/) | 0.2.0 |  | 7.7 MB | Programmable full-state transfer between hybrid language models |
-| 2026-11-14 02:11:29 | [lost-sessions](https://pypi.org/project/lost-sessions/) | 0.0.0.dev0 |  | 1.8 kB | Reserved package name; project under development. |
-| 2026-11-14 02:11:48 | [drums-verifiers](https://pypi.org/project/drums-verifiers/) | 0.2.1 | Drums Labs | 223.7 kB | Drums computer-use environments (isolated desktops, OSWorld tasks, gate-checked… |
-| 2026-11-14 02:15:31 | [cellulose-forge](https://pypi.org/project/cellulose-forge/) | 1.2.0 | Arun Srikanth Sridhar | 321.0 kB | Crystallography-first builder for simulation-ready cellulose and chitin crystal… |
-| 2026-11-14 02:16:52 | [soap-failover-proxy](https://pypi.org/project/soap-failover-proxy/) | 2.0.2 |  | 22.1 kB | Dynamic failover proxy routing middleware for SOAP and WSGI web services |
+| 2026-11-14 02:19:40 | [tunc-mcp](https://pypi.org/project/tunc-mcp/) | 0.1.1 | TUNC LLC <hello@tunc.ai> | 31.6 kB | MCP client for Tunc Orb (agent memory database), Tunc Art (artifact storage and… |
+| 2026-11-14 02:20:18 | [fonti](https://pypi.org/project/fonti/) | 0.1.0 | Noai-oss | 21.5 kB | A command-line tool for installing fonts on Windows |
+| 2026-11-14 02:22:13 | [cv-tools-cli](https://pypi.org/project/cv-tools-cli/) | 2.0.0 | Phone Thiha Kyaw | 252.6 kB | Generate a LaTeX CV from a YAML file |
+| 2026-11-14 02:27:37 | [amber-to-lammps](https://pypi.org/project/amber-to-lammps/) | 1.0.0 | Arun Sridhar | 43.2 kB | Convert AMBER topology and PDB files to LAMMPS data and parameter files |
+| 2026-11-14 02:35:06 | [remedigenius-community](https://pypi.org/project/remedigenius-community/) | 0.9.2.post1 | RemediGenius <raj@iacgenius.c… | 857.2 kB | RemediGenius Community Edition (RemediGenius-CE): AWS security triage desk on t… |
+| 2026-11-14 02:37:02 | [llama-index-graph-stores-rushdb](https://pypi.org/project/llama-index-graph-stores-rushdb/) | 0.1.0 | RushDB Team <hi@rushdb.com> | 37.6 kB | LlamaIndex property graph store on RushDB: typed entity labels, relations, vect… |
+| 2026-11-14 02:37:12 | [sdca-rag](https://pypi.org/project/sdca-rag/) | 0.1.0 | Subodh Butt, Ashish Dhillon | 150.7 kB | Structure-Aware Document Chunking Algorithm for Retrieval-Augmented Generation… |
+| 2026-11-14 02:37:56 | [sawalign](https://pypi.org/project/sawalign/) | 0.1.2 | Omar Kamali <omar@omneitylabs… | 14.4 kB | Align a transcript to an audio recording with Sawalni API |
+| 2026-11-14 02:46:04 | [thai-orthographic-segmenter](https://pypi.org/project/thai-orthographic-segmenter/) | 0.1.0 | Micha <220009159+yxmicha@user… | 16.2 MB | Thai syllable, word and line segmentation with bundled models |
+| 2026-11-14 02:51:39 | [trave](https://pypi.org/project/trave/) | 1.0.0 | edde746 | 11.7 kB | Trave: tables of named, typed columns packed for an app to read with nothing bu… |
+| 2026-11-14 02:54:28 | [lxcor-cordial](https://pypi.org/project/lxcor-cordial/) | 0.1.1 | Light Cross Holdings Corporat… | 64.7 kB | Cordial: a calendar and clock of 364 days (13 x 28 = 52 x 7), a 26-hour day and… |
+| 2026-11-14 03:05:20 | [pydantic-ai-exedev](https://pypi.org/project/pydantic-ai-exedev/) | 0.1.0 |  | 89.1 kB | Run Pydantic AI agent workspaces on exe.dev VMs |
+| 2026-11-14 03:06:29 | [daktilo](https://pypi.org/project/daktilo/) | 0.1.1 | Omar Kamali <omar@omneitylabs… | 12.0 kB | Transcribe audio recordings with Sawalni API |
+| 2026-11-14 03:11:26 | [parseoff](https://pypi.org/project/parseoff/) | 0.2.1 |  | 1.9 MB | Compare PDF parsers side by side on your own documents - no ground truth needed. |
+| 2026-11-14 03:14:10 | [fontpkg-baskervville](https://pypi.org/project/fontpkg-baskervville/) | 1.100 |  | 140.1 kB | Baskervville font family, packaged for Python by fontpkg |
+| 2026-11-14 03:14:12 | [fontpkg-fugaz-one](https://pypi.org/project/fontpkg-fugaz-one/) | 1.2 |  | 23.7 kB | Fugaz One font family, packaged for Python by fontpkg |
+| 2026-11-14 03:14:14 | [fontpkg-google-sans-code](https://pypi.org/project/fontpkg-google-sans-code/) | 6.1 |  | 160.4 kB | Google Sans Code font family, packaged for Python by fontpkg |
+| 2026-11-14 03:14:16 | [fontpkg-francois-one](https://pypi.org/project/fontpkg-francois-one/) | 2.0 |  | 48.5 kB | Francois One font family, packaged for Python by fontpkg |
