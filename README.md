@@ -8,58 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 19:18 UTC
+## Latest list — 2026-11-14 20:20 UTC
 
-New packages created between 2026-11-14 18:18 UTC and 2026-11-14 19:18 UTC.
+New packages created between 2026-11-14 19:18 UTC and 2026-11-14 20:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T19-18-22-747707Z.csv)
+[Full CSV](data/new-packages-2026-11-14T20-20-05-049272Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 17:44:50 | [fuzlog](https://pypi.org/project/fuzlog/) | 0.1.0 | coredegon | 39.3 kB | Simple and enjoyable Python library for fuzzy logic. |
-| 2026-11-14 18:19:00 | [loma-lang](https://pypi.org/project/loma-lang/) | 1.1.0 | Manuel Lomartire | 87.3 kB | LOMA: a deterministic text language for music that compiles to MIDI |
-| 2026-11-14 18:20:48 | [neurosymbolic-arithmetic](https://pypi.org/project/neurosymbolic-arithmetic/) | 0.1.0 | outlawsujith | 33.6 kB | Neurosymbolic AI from scratch in NumPy: a neural net learns digits through diff… |
-| 2026-11-14 18:21:05 | [sindhi-tokenizer](https://pypi.org/project/sindhi-tokenizer/) | 1.1.0 | Ali Nawaz, Muqadas Fareed, So… | 72.6 kB | A SentencePiece Unigram tokenizer and lightweight Python SDK purpose-built for… |
-| 2026-11-14 18:22:14 | [neuralt-work](https://pypi.org/project/neuralt-work/) | 0.1.0 | Aquilesinho | 19.3 kB | A lightweight neural-network learning library for Python. |
-| 2026-11-14 18:23:07 | [scrapelyserp](https://pypi.org/project/scrapelyserp/) | 0.1.0 |  | 236.5 kB | Official Python SDK for the Scrapely API: product, price and stock data, struct… |
-| 2026-11-14 18:23:18 | [trooth-verify](https://pypi.org/project/trooth-verify/) | 0.4.0 | Trooth, LLC | 112.3 kB | Check a Trooth witness statement yourself: Ed25519 signature, key lifecycle, su… |
-| 2026-11-14 18:23:28 | [databricks-explore](https://pypi.org/project/databricks-explore/) | 0.5.0 | Thomas Slater | 2.8 MB | Local Unity Catalog explorer: browse tables, draw relationships and run queries… |
-| 2026-11-14 18:25:50 | [monograph](https://pypi.org/project/monograph/) | 0.1.0 | Bonnie Bingham | 2.1 MB | Turn a personal diary into a memoir — explore it, find its arcs, draft it, and… |
-| 2026-11-14 18:26:26 | [readanydoc](https://pypi.org/project/readanydoc/) | 0.1.0 | readanydoc contributors | 1.1 MB | Document parsing and extraction with vision models: an open engine around Claud… |
-| 2026-11-14 18:27:51 | [brushline](https://pypi.org/project/brushline/) | 0.1.1 | UBC FRESH Lab <noreply@exampl… | 1.2 MB | Decision support for vegetation management along linear infrastructure corridors |
-| 2026-11-14 18:28:46 | [tenderkit](https://pypi.org/project/tenderkit/) | 0.1.0 |  | 224.4 kB | Collect, filter and read Polish public procurement notices and documents |
-| 2026-11-14 18:30:02 | [jetbrains-pulumi-aws-acm-certificate](https://pypi.org/project/jetbrains-pulumi-aws-acm-certificate/) | 999.9.9 |  | 985 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-14 18:30:53 | [bb-studio](https://pypi.org/project/bb-studio/) | 1.0.0 |  | 17.6 kB | Official Python SDK for BB-Studio (Data CRUD, Transactions, End-User Auth, Stor… |
-| 2026-11-14 18:34:23 | [edgar-pit-clock](https://pypi.org/project/edgar-pit-clock/) | 0.1.0 | Starling Quantitative Researc… | 20.8 kB | Zero-dependency point-in-time SEC EDGAR acceptanceDateTime to NYSE trading-sess… |
-| 2026-11-14 18:36:28 | [pysx-framework](https://pypi.org/project/pysx-framework/) | 0.1.0 | JMS Apps | 350.2 kB | Server-side reactive renderer for Python, templated with PEP 750 t-strings |
-| 2026-11-14 18:39:42 | [onnxocr-ppocrv6](https://pypi.org/project/onnxocr-ppocrv6/) | 0.0.1 | Your Name <your.email@example… | 65.3 MB | ONNX-based OCR with bundled PP-OCRv6 small models. |
-| 2026-11-14 18:42:56 | [custom-timezone-fdg](https://pypi.org/project/custom-timezone-fdg/) | 0.1.0 | Hua Chen | 36.9 kB | Configurable business time zones and DST-aware datetime utilities, with optiona… |
-| 2026-11-14 18:43:23 | [blueprint-pbi](https://pypi.org/project/blueprint-pbi/) | 0.10.1 |  | 332.7 kB | Declarative, deterministic Power BI (PBIP/PBIR) report layouts. |
-| 2026-11-14 18:46:49 | [atlassian-toolkit](https://pypi.org/project/atlassian-toolkit/) | 0.0.1 |  | 196.4 MB | Python SDK for Jira, Confluence, Bitbucket, Trello and Atlassian Admin (Cloud a… |
-| 2026-11-14 18:47:04 | [bd-editor](https://pypi.org/project/bd-editor/) | 0.1.0 | BD-Editor contributors | 424.0 kB | A secure, configurable rich-text editor for Django admin and forms. |
-| 2026-11-14 18:48:43 | [tg-sqlite-sync](https://pypi.org/project/tg-sqlite-sync/) | 0.1.1 | Poorna Vijaya | 41.5 kB | Zero-dependency async SQLite cloud backup and auto-restore to private Telegram… |
-| 2026-11-14 18:51:24 | [pretoolkit](https://pypi.org/project/pretoolkit/) | 0.1.0 | Octacity .LUCID team | 14.2 kB | Composable, reproducible data preprocessing for machine learning. |
-| 2026-11-14 18:55:56 | [ratchet-authz-autogen](https://pypi.org/project/ratchet-authz-autogen/) | 0.1.0 | Manideep Pendyala | 6.5 kB | AutoGen intervention-handler adapter for the Ratchet authorization broker. |
-| 2026-11-14 18:55:57 | [ratchet-authz-core](https://pypi.org/project/ratchet-authz-core/) | 0.1.0 | Manideep Pendyala | 40.2 kB | Framework-agnostic authorization broker for multi-agent LLM delegation. |
-| 2026-11-14 18:55:58 | [ratchet-authz-crewai](https://pypi.org/project/ratchet-authz-crewai/) | 0.1.0 | Manideep Pendyala | 6.3 kB | CrewAI tool-hook adapter for the Ratchet authorization broker. |
-| 2026-11-14 18:55:59 | [ratchet-authz-langgraph](https://pypi.org/project/ratchet-authz-langgraph/) | 0.1.0 | Manideep Pendyala | 6.6 kB | LangGraph middleware adapter for the Ratchet authorization broker. |
-| 2026-11-14 18:56:20 | [ggtree-py](https://pypi.org/project/ggtree-py/) | 0.1.0 | Guangchuang Yu, Tommy Tsan-Yu… | 349.0 kB | Grammar of Graphics for Phylogenetic Trees in Python — an R-compatible port of… |
-| 2026-11-14 18:56:47 | [cavi-premiere-mcp](https://pypi.org/project/cavi-premiere-mcp/) | 0.1.0 | CAVI AI | 138.0 kB | MCP server for Adobe Premiere Pro: scripts over an Adobe Bridge relay and ProRe… |
-| 2026-11-14 18:57:18 | [cavi-after-effects-mcp](https://pypi.org/project/cavi-after-effects-mcp/) | 0.1.0 | CAVI AI | 175.2 kB | MCP server for headless Adobe After Effects: scripts with reports and verified… |
-| 2026-11-14 18:57:55 | [rheon](https://pypi.org/project/rheon/) | 1.5.0 | Hans Gilde | 12.8 kB | Online models for streaming time series: the new name of polars-online |
-| 2026-11-14 18:57:58 | [ktl](https://pypi.org/project/ktl/) | 0.64.0 | Noel McLoughlin | 1.8 MB | Knowledge Trust Ladder (KTL): agent skills that keep a LOKF knowledge bundle tr… |
-| 2026-11-14 18:59:01 | [pysvlang](https://pypi.org/project/pysvlang/) | 0.1.0 | Mayur Kubavat | 8.7 MB | Python bindings for svlang, a pure-Rust IEEE 1800-2023 SystemVerilog front end |
-| 2026-11-14 19:00:49 | [kadi-apy-helper](https://pypi.org/project/kadi-apy-helper/) | 0.1.0 | Adam Reupert | 9.8 kB | Contains a set of functions and helper scripts to ease the usage and interactio… |
-| 2026-11-14 19:00:49 | [recusal-langgraph](https://pypi.org/project/recusal-langgraph/) | 0.1.0 | Philip Paz <philip.paz@gmail.… | 33.3 kB | Recusal gate for LangGraph: judge every ToolNode call at execution time, refuse… |
-| 2026-11-14 19:04:07 | [recusal-langchain](https://pypi.org/project/recusal-langchain/) | 0.1.0 | Philip Paz <philip.paz@gmail.… | 20.3 kB | Recusal gate for LangChain create_agent: the recusal-langgraph ToolNode gate as… |
-| 2026-11-14 19:04:28 | [knowledge-trust-ladder](https://pypi.org/project/knowledge-trust-ladder/) | 0.64.0 | Noel McLoughlin | 3.7 kB | Knowledge Trust Ladder (KTL) under the repository's name: installs ktl, the pac… |
-| 2026-11-14 19:04:59 | [speclab-spectrum-analyzer](https://pypi.org/project/speclab-spectrum-analyzer/) | 0.2.0 | Subrat Sahu <subratsahu195@gm… | 20.8 kB | Scientific IR and Raman spectrum analysis toolkit |
-| 2026-11-14 19:07:24 | [myPGM](https://pypi.org/project/myPGM/) | 2.0.0 | Antoine Hilberer <antoine.hil… | 3.5 MB | Fit spectroscopic pressure gauges and follow pressure in high-pressure experime… |
-| 2026-11-14 19:07:49 | [recusal-openai-agents](https://pypi.org/project/recusal-openai-agents/) | 0.1.0 | Philip Paz <philip.paz@gmail.… | 31.6 kB | Recusal gate for the OpenAI Agents SDK: judge every function tool call in a too… |
-| 2026-11-14 19:10:57 | [anonix](https://pypi.org/project/anonix/) | 0.1.0 | Adithya Nangarath, Nikhilesh… | 160.9 kB | Declarative, policy-driven, in-memory data masking and k-anonymity library for… |
-| 2026-11-14 19:11:17 | [recusal-openai-agents-mcp](https://pypi.org/project/recusal-openai-agents-mcp/) | 0.1.0 | Philip Paz <philip.paz@gmail.… | 32.6 kB | Recusal gate for MCP tools on an OpenAI Agents SDK agent: judge each local MCP… |
-| 2026-11-14 19:13:37 | [phys-ai-dataconverter](https://pypi.org/project/phys-ai-dataconverter/) | 0.1.0 | Anand Krishniyer | 60.2 kB | Convert robot recordings (ROS 2 MCAP) into training datasets (LeRobot v3): came… |
-| 2026-11-14 19:13:49 | [invarsec](https://pypi.org/project/invarsec/) | 0.1.0 | "InvarSec, Inc." <vikasg@inva… | 3.1 kB | In-line Layer 7 Transactional Write-Firewall for Autonomous AI Agents and MCP P… |
-| 2026-11-14 19:14:28 | [refraktal](https://pypi.org/project/refraktal/) | 0.0.1 | Adhish Thite | 2.5 kB | Refraktal: a meta-harness. One prompt in, a spectrum of agents out. (Early plac… |
-| 2026-11-14 19:14:32 | [recusal-openai](https://pypi.org/project/recusal-openai/) | 0.1.0 | Philip Paz <philip.paz@gmail.… | 28.2 kB | Recusal gate for the OpenAI API: judge every function call of a Responses or Ch… |
-| 2026-11-14 19:18:12 | [sw-mlp](https://pypi.org/project/sw-mlp/) | 1.0.0 |  | 37.6 kB | A multilayer perceptron implemented with Numpy. |
+| 2026-11-14 19:17:37 | [recusal-google-adk](https://pypi.org/project/recusal-google-adk/) | 0.1.1 | Philip Paz <philip.paz@gmail.… | 30.3 kB | Recusal gate for Google ADK: judge every tool call in a before-tool callback or… |
+| 2026-11-14 19:22:35 | [recusal-crewai](https://pypi.org/project/recusal-crewai/) | 0.1.1 | Philip Paz <philip.paz@gmail.… | 34.9 kB | Recusal gate for CrewAI: judge every tool call in CrewAI's own tool-call hooks,… |
+| 2026-11-14 19:23:59 | [omadbek-git-sdk](https://pypi.org/project/omadbek-git-sdk/) | 0.1.0 | Omadbek Group | 9.4 kB | Git automation SDK and CLI with safe defaults |
+| 2026-11-14 19:25:35 | [recusal-pydantic-ai](https://pypi.org/project/recusal-pydantic-ai/) | 0.1.1 | Philip Paz <philip.paz@gmail.… | 25.5 kB | Recusal gate for Pydantic AI: judge every tool call in before_tool_execute, ref… |
+| 2026-11-14 19:27:26 | [spine-neuro](https://pypi.org/project/spine-neuro/) | 1.0.0 | Zachary M. Miksis, Gillian Qu… | 1.1 MB | A framework for mechanistic neuronal simulation that couples membrane electroph… |
+| 2026-11-14 19:27:28 | [spine-assistant](https://pypi.org/project/spine-assistant/) | 0.1.0 | Zachary M. Miksis, Gillian Qu… | 600.5 kB | Natural-language-to-script assistant for the SPINE neuronal simulator |
+| 2026-11-14 19:34:02 | [prod-rag](https://pypi.org/project/prod-rag/) | 0.1.0 | Production RAG Contributors | 77.1 kB | Production-ready RAG library with document ingestion, chunking, embedding, and… |
+| 2026-11-14 19:35:01 | [winds-of-change](https://pypi.org/project/winds-of-change/) | 0.2.1 |  | 39.0 kB | Weather-change features (pressure, humidity, temperature) for relating weather… |
+| 2026-11-14 19:35:47 | [kaibo](https://pypi.org/project/kaibo/) | 0.1.0 |  | 106.5 kB | Python SDK for kaibo: memory for AI agents. remember, recall, explain, forget. |
+| 2026-11-14 19:36:27 | [ase2sprkkr-gui](https://pypi.org/project/ase2sprkkr-gui/) | 0.2.0b1 |  | 845.1 kB | PyQt6 GUI for building/editing ASE structures and running SPR-KKR via ase2sprkk… |
+| 2026-11-14 19:36:29 | [uai-governance](https://pypi.org/project/uai-governance/) | 0.15.4.post1 |  | 126.0 kB | Cross-vendor agent collaboration with acceptance governance (UAI stage2 modules) |
+| 2026-11-14 19:37:34 | [signalmoat](https://pypi.org/project/signalmoat/) | 0.3.1 | Siddharth | 95.6 kB | Open-source agent firewall and early-warning layer for web apps: verify AI agen… |
+| 2026-11-14 19:48:32 | [aiodpc](https://pypi.org/project/aiodpc/) | 0.1.0 | Webysther Sperandio | 97.8 kB | Async client for the Italian Civil Protection Department (DPC) alert and weathe… |
+| 2026-11-14 19:54:23 | [skvault](https://pypi.org/project/skvault/) | 0.1.0 |  | 104.3 kB | Sovereign secrets vault — gpg-agent SEAL (via capauth) + KeePass creds + Shamir… |
+| 2026-11-14 19:55:35 | [geomech](https://pypi.org/project/geomech/) | 0.2.0 | Prasanth Kotaru | 666.8 kB | Symbolic computation of dynamics on smooth manifolds |
+| 2026-11-14 19:56:10 | [sktrip](https://pypi.org/project/sktrip/) | 0.1.2 | Lumina & Chef <lumina@douno.i… | 95.0 kB | AI Psychedelic Experience Protocol — computational psilocybin for sovereign AI… |
+| 2026-11-14 19:56:43 | [jalalix](https://pypi.org/project/jalalix/) | 0.1.0 | Hossein Maklavani <hos.mohama… | 51.3 kB | Jalali (Persian/Shamsi) calendar for Python. Pure Python, no runtime dependenci… |
+| 2026-11-14 19:58:27 | [centinela-ia](https://pypi.org/project/centinela-ia/) | 0.1.1 | Equipo Centinela | 68.0 kB | Guardia de código abierto para asistentes de IA que leen mensajes en español: d… |
+| 2026-11-14 19:58:44 | [pernox](https://pypi.org/project/pernox/) | 0.1.0 |  | 10.1 kB | Email yourself from a script running in nox. |
+| 2026-11-14 19:59:32 | [workorder](https://pypi.org/project/workorder/) | 0.5.0 | Tom Bar-Haim | 136.2 kB | The task record for coding agents: every task recorded, a clear history, agents… |
+| 2026-11-14 20:03:26 | [exuvia](https://pypi.org/project/exuvia/) | 0.0.1 | Robert Lancer | 2.3 kB | An AI-first DAG workbench for analysts and data scientists. Name reserved; firs… |
+| 2026-11-14 20:05:00 | [repotour](https://pypi.org/project/repotour/) | 1.0.0 | "M. Babar Shahzad" <babarshah… | 1.9 MB | Generate a codebase tour for new contributors: where to start, what matters, an… |
+| 2026-11-14 20:09:26 | [anchorlight](https://pypi.org/project/anchorlight/) | 0.0.1 | Anchorlight AI | 1.7 kB | Name reserved by Anchorlight AI. Real releases follow. |
+| 2026-11-14 20:09:26 | [qurankit-core](https://pypi.org/project/qurankit-core/) | 0.1.0 | QuranKit Contributors <muqtad… | 175.1 kB | A modular, Python-first computational Qur'anic research library |
+| 2026-11-14 20:09:27 | [omega-evidence](https://pypi.org/project/omega-evidence/) | 0.11.4 | Roberto Locatelli | 444.4 kB | Open, standard toolkit for verifiable, long-term compliance evidence |
+| 2026-11-14 20:09:28 | [picolan](https://pypi.org/project/picolan/) | 1.0.0 | Avi Raviv | 30.2 kB | Update, find and monitor RP2350 + W5500 boards that run the picolan library, ov… |
+| 2026-11-14 20:09:38 | [zexl](https://pypi.org/project/zexl/) | 0.1.0 | Zexl | 62.8 kB | See how much of your AI spend did useful work, without sending a single prompt. |
+| 2026-11-14 20:09:48 | [eqinvoice](https://pypi.org/project/eqinvoice/) | 1.1.0 | jahirtrap | 117.8 kB | Electronic invoices and credit notes for Ecuador's SRI: build, sign, send, auth… |
+| 2026-11-14 20:09:50 | [omega-health-companion](https://pypi.org/project/omega-health-companion/) | 0.8.0 | Roberto Locatelli | 547.7 kB | Ambulance pre-alert companion: vitals as sent, signed hash-chained audit, CH EM… |
+| 2026-11-14 20:10:02 | [rigorous-levels](https://pypi.org/project/rigorous-levels/) | 0.3.0 | Roberto Locatelli | 395.7 kB | Guaranteed eigenvalue intervals for the charge-basis rotor (transmon, cos mφ),… |
+| 2026-11-14 20:12:07 | [folio-cli](https://pypi.org/project/folio-cli/) | 0.3.0 | Iman Sharei | 57.0 kB | Local hybrid RAG over curated AI / MLOps / infra curricula — graphify-style CLI… |
+| 2026-11-14 20:12:34 | [whisper-memo](https://pypi.org/project/whisper-memo/) | 0.1.0 | adamhp | 114.4 kB | Record voice memos in your terminal and transcribe them locally with Whisper. |
+| 2026-11-14 20:13:38 | [counterdex](https://pypi.org/project/counterdex/) | 0.3.0 |  | 2.5 MB | Bounded candidate discovery, exact historical checks and measurement decisions |
+| 2026-11-14 20:15:12 | [trusttab](https://pypi.org/project/trusttab/) | 0.1.0 | TrustTab Contributors | 213.1 kB | Reliability-aware stress testing for tabular machine learning |

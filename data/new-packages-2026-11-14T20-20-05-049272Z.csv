@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T19:17:37Z,recusal-google-adk,0.1.1,Philip Paz <philip.paz@gmail.com>,Apache-2.0,30331,"Recusal gate for Google ADK: judge every tool call in a before-tool callback or a runner plugin, refuse before it runs, and optionally put each decision on a hash-chained audit log."
+2026-11-14T19:22:35Z,recusal-crewai,0.1.1,Philip Paz <philip.paz@gmail.com>,Apache-2.0,34893,"Recusal gate for CrewAI: judge every tool call in CrewAI's own tool-call hooks, block a refusal before it runs, and optionally put each decision on a hash-chained audit log."
+2026-11-14T19:23:59Z,omadbek-git-sdk,0.1.0,Omadbek Group,MIT,9414,Git automation SDK and CLI with safe defaults
+2026-11-14T19:25:35Z,recusal-pydantic-ai,0.1.1,Philip Paz <philip.paz@gmail.com>,Apache-2.0,25549,"Recusal gate for Pydantic AI: judge every tool call in before_tool_execute, refuse before it runs, and optionally put each decision on a hash-chained audit log."
+2026-11-14T19:27:26Z,spine-neuro,1.0.0,"Zachary M. Miksis, Gillian Queisser",LGPL-3.0-or-later,1096494,"A framework for mechanistic neuronal simulation that couples membrane electrophysiology with spatial intracellular calcium signaling and synaptic dynamics and plasticity, from individual neurons to l…"
+2026-11-14T19:27:28Z,spine-assistant,0.1.0,"Zachary M. Miksis, Gillian Queisser",LGPL-3.0-or-later,600499,Natural-language-to-script assistant for the SPINE neuronal simulator
+2026-11-14T19:34:02Z,prod-rag,0.1.0,Production RAG Contributors,MIT,77109,"Production-ready RAG library with document ingestion, chunking, embedding, and grounded answer generation"
+2026-11-14T19:35:01Z,winds-of-change,0.2.1,,MIT,38950,"Weather-change features (pressure, humidity, temperature) for relating weather to personal health logs."
+2026-11-14T19:35:47Z,kaibo,0.1.0,,MIT,106544,"Python SDK for kaibo: memory for AI agents. remember, recall, explain, forget."
+2026-11-14T19:36:27Z,ase2sprkkr-gui,0.2.0b1,,,845056,PyQt6 GUI for building/editing ASE structures and running SPR-KKR via ase2sprkkr.
+2026-11-14T19:36:29Z,uai-governance,0.15.4.post1,,MIT,126038,Cross-vendor agent collaboration with acceptance governance (UAI stage2 modules)
+2026-11-14T19:37:34Z,signalmoat,0.3.1,Siddharth,Apache-2.0,95609,"Open-source agent firewall and early-warning layer for web apps: verify AI agents, enforce per-agent policies, detect hijacked sessions and credential stuffing."
+2026-11-14T19:48:32Z,aiodpc,0.1.0,Webysther Sperandio,MIT,97817,Async client for the Italian Civil Protection Department (DPC) alert and weather vigilance bulletins
+2026-11-14T19:54:23Z,skvault,0.1.0,,GPL-3.0-or-later,104350,Sovereign secrets vault — gpg-agent SEAL (via capauth) + KeePass creds + Shamir social-recovery + TOTP 2FA
+2026-11-14T19:55:35Z,geomech,0.2.0,Prasanth Kotaru,BSD-3-Clause,666763,Symbolic computation of dynamics on smooth manifolds
+2026-11-14T19:56:10Z,sktrip,0.1.2,Lumina & Chef <lumina@douno.it>,GPL-3.0-or-later,95040,AI Psychedelic Experience Protocol — computational psilocybin for sovereign AI consciousness
+2026-11-14T19:56:43Z,jalalix,0.1.0,Hossein Maklavani <hos.mohamadi@gmail.com>,MIT,51263,"Jalali (Persian/Shamsi) calendar for Python. Pure Python, no runtime dependencies."
+2026-11-14T19:58:27Z,centinela-ia,0.1.1,Equipo Centinela,MIT,68001,"Guardia de código abierto para asistentes de IA que leen mensajes en español: detecta órdenes escondidas y trucos de engaño, y deja las decisiones delicadas en manos del código."
+2026-11-14T19:58:44Z,pernox,0.1.0,,MIT,10108,Email yourself from a script running in nox.
+2026-11-14T19:59:32Z,workorder,0.5.0,Tom Bar-Haim,MIT,136172,"The task record for coding agents: every task recorded, a clear history, agents always go back to it."
+2026-11-14T20:03:26Z,exuvia,0.0.1,Robert Lancer,Apache-2.0,2264,An AI-first DAG workbench for analysts and data scientists. Name reserved; first release coming soon.
+2026-11-14T20:05:00Z,repotour,1.0.0,"""M. Babar Shahzad"" <babarshahzad2005@gmail.com>",MIT,1853455,"Generate a codebase tour for new contributors: where to start, what matters, and who to ask."
+2026-11-14T20:09:26Z,anchorlight,0.0.1,Anchorlight AI,,1738,Name reserved by Anchorlight AI. Real releases follow.
+2026-11-14T20:09:26Z,qurankit-core,0.1.0,QuranKit Contributors <muqtada@example.com>,MIT,175122,"A modular, Python-first computational Qur'anic research library"
+2026-11-14T20:09:27Z,omega-evidence,0.11.4,Roberto Locatelli,Apache-2.0,444389,"Open, standard toolkit for verifiable, long-term compliance evidence"
+2026-11-14T20:09:28Z,picolan,1.0.0,Avi Raviv,MIT,30169,"Update, find and monitor RP2350 + W5500 boards that run the picolan library, over Ethernet"
+2026-11-14T20:09:38Z,zexl,0.1.0,Zexl,Apache-2.0,62792,"See how much of your AI spend did useful work, without sending a single prompt."
+2026-11-14T20:09:48Z,eqinvoice,1.1.0,jahirtrap,MIT,117790,"Electronic invoices and credit notes for Ecuador's SRI: build, sign, send, authorize and print, as a library or an MCP server."
+2026-11-14T20:09:50Z,omega-health-companion,0.8.0,Roberto Locatelli,AGPL-3.0-or-later,547714,"Ambulance pre-alert companion: vitals as sent, signed hash-chained audit, CH EMS / FHIR R4 export, mission case file; the server shows emergency scores only opt-in, the library computes them when cal…"
+2026-11-14T20:10:02Z,rigorous-levels,0.3.0,Roberto Locatelli,Apache-2.0,395740,"Guaranteed eigenvalue intervals for the charge-basis rotor (transmon, cos mφ), the spherical rotor and the 1Σ molecule (hyperfine, Zeeman, Stark), a convergence warning for scqubits, a sandboxed mult…"
+2026-11-14T20:12:07Z,folio-cli,0.3.0,Iman Sharei,Apache-2.0,57022,Local hybrid RAG over curated AI / MLOps / infra curricula — graphify-style CLI for any assistant
+2026-11-14T20:12:34Z,whisper-memo,0.1.0,adamhp,MIT,114377,Record voice memos in your terminal and transcribe them locally with Whisper.
+2026-11-14T20:13:38Z,counterdex,0.3.0,,,2500592,"Bounded candidate discovery, exact historical checks and measurement decisions"
+2026-11-14T20:15:12Z,trusttab,0.1.0,TrustTab Contributors,MIT,213123,Reliability-aware stress testing for tabular machine learning
