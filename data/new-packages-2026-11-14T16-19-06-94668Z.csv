@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T15:20:04Z,mqs-compat,0.3.0,Moonlark Dev Team,AGPL-3.0-or-later,6518,Point the real QQ SDKs (botpy) at a running QSandbox — Python-only compatibility shim
+2026-11-14T15:22:17Z,ci-cd-playground,0.1.16,john,,13651,"A sample Python project with uv, ruff, pyright, and pytest"
+2026-11-14T15:22:18Z,mcp-reportcard,0.1.2,Gopi K Aitham (builditwithgk),MIT,67958,"A health check for MCP servers: lint tool descriptions and schemas, estimate token cost, fuzz error handling, and get a graded report card."
+2026-11-14T15:26:00Z,platypus-music,0.1.1.post0,Dev-ev-v <guilhermepapuf.dev@proton.me>,Apache-2.0,84265,"A lightweight, local music player for the terminal."
+2026-11-14T15:26:48Z,agentic-composite-memory,0.1.1,Sthitaprajna Sahoo <papu.sahoo@gmail.com>,Apache-2.0,165660,"Enterprise Multi-Tenant Ontology-Grounded Composite Memory SDK, MCP Server & Platform Service for Google ADK Agents"
+2026-11-14T15:27:56Z,pr-merge-audit,1.2.0,,Apache-2.0,99310,"Merge-test a repository's open pull requests together and report which combine, conflict or break each other's tests."
+2026-11-14T15:28:00Z,cloudru-qa-httpx-curlify,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,19808,Преобразование запросов httpx.Request в команды curl
+2026-11-14T15:28:01Z,cgacryptpy,0.1.0,Seth Bacher <sethrider02@gmail.com>,MIT,37606,This library contains a multitude of cryptography functions that can be used in python.
+2026-11-14T15:28:08Z,atproto-lexicons,2026.11.14,Ilya (Marshal),MIT,4759587,"Models and clients for third-party AT Protocol lexicons, generated for the Python atproto SDK"
+2026-11-14T15:29:46Z,tier-ctx,1.2.1,000jd,MIT,226831,"TIER: layered context, repository graphs, code slicing, and agent memory"
+2026-11-14T15:30:35Z,tidy-gmail,0.1.0,Denise Case,,69799,Tidy Gmail.
+2026-11-14T15:34:30Z,kuzybuild,0.2.0,Michele Renda,AGPL-3.0-or-later,53955,"Local Debian, Fedora RPM and Python build helpers for kuzys."
+2026-11-14T15:34:38Z,mlflow-optimization,0.1.1,CoffeeGiNu,MIT OR Apache-2.0,117495,Automatic MLflow logging of mathematical optimization solves
+2026-11-14T15:35:35Z,needlecast,0.1.6,Michele Renda,AGPL-3.0-or-later,200401,Needlecast v0 capture and restore tooling for agent state continuity.
+2026-11-14T15:36:37Z,kuzywrap,0.1.72,Michele Renda,AGPL-3.0-or-later,378079,Local wrapper commands for agent runtimes.
+2026-11-14T15:37:53Z,appsocom,0.5.0,Appsotech Limited,MIT,22693,"Python server SDK for Appsocom Live video calls: join tokens, rooms, moderation and webhook verification"
+2026-11-14T15:38:02Z,grewbrowser,0.1.1,x2super <august260853@gmail.com>,"MIT License Copyright (c) 2026 X2Super Permission is hereby granted, free of charge, to any person…",187846,"Stealth Chromium for Playwright: coherent fingerprints, geo-matched identities, human-paced input, and its own managed browser."
+2026-11-14T15:38:55Z,cloudru-qa-grpc-client-structlog,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,59317,Структурированные логи для gRPC-клиента
+2026-11-14T15:40:09Z,open-finance-mcp,0.7.0rc2,Самойлова Татьяна,"MIT License Copyright (c) 2026 Самойлова Татьяна Permission is hereby granted, free of charge, to a…",277549,"Read-only financial reports for AI assistants: demo, Excel/CSV, PostgreSQL and Google Sheets"
+2026-11-14T15:48:41Z,agentlens-toolkit,0.1.0,Giuseppe Bifulco,Apache-2.0,1835029,"Regression testing and evaluation toolkit for LLM agents: record, replay, evaluate, compare."
+2026-11-14T15:48:54Z,cloudru-qa-http-client-allure,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,323891,Интеграция HTTP-клиента с Allure
+2026-11-14T15:50:04Z,qlogicae-solutils,0.1.0,"""Vaughn Cedric L. Araneta"" <vaughncedriclipardoaraneta@gmail.com>",MIT,132943,"A local, OS-independent, CI/CD workflow execution tool for QLogicae projects"
+2026-11-14T15:50:18Z,nxtmcp,0.0.0,,MIT,1718,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-14T15:50:40Z,nxtoskit,0.0.0,,MIT,1738,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-14T15:51:02Z,nxtseo,0.0.0,,MIT,1714,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-14T15:51:24Z,nxtskills,0.0.0,,MIT,1744,Name reserved by Whtnxt (Chalupa Productions LLC). Not a usable package.
+2026-11-14T15:53:05Z,Granvanjo,0.1.0,CharmLxt <reception.mailspypi@gmail.com>,MIT,64560,Интерактивная среда управления Python-проектами.
+2026-11-14T15:53:10Z,zeropx-corpus-scan,0.4.0,"""Dr. Vander Geraldo Rodrigues da Cunha Júnior"" <vgrcjr@gmail.com>",MIT,149553,"Byte-honest inventory of a document corpus: SHA-256, UTF-8 validity, heading tree, dedup, PDF page-range partition. Read-only, zero dependencies."
+2026-11-14T15:53:16Z,mypandas-niccolo,0.2.0,Niccolo,,4010,A pandas extension with financial analysis tools
+2026-11-14T15:54:51Z,gateio-ws,99.99.1,bytesnull44,,1434,Security research placeholder — dependency confusion PoC
+2026-11-14T15:55:57Z,dartguard-research,1.1.0rc1,DART-Guard research contributors,MIT,33273,Research-grade fail-closed decision verification for neural agent execution
+2026-11-14T15:56:56Z,setlogo,1.0.0,ShawponSp,,28422,Professional Termux Fish Shell & Custom Banner Setup Tool by Black Spammer Bd.
+2026-11-14T15:58:40Z,lupaxa-corporate-bullshit,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",79369,Offline command-line generator of convincingly meaningless corporate language.
+2026-11-14T16:00:30Z,cloudru-qa-http-client-responses,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,37187,Модели ответов на HTTP-запросы
+2026-11-14T16:06:09Z,demo-pingtest-xyz,0.0.1,bytesnull44,,1423,Demo test package
+2026-11-14T16:07:25Z,intermittent-eval,0.1.0,Causal64,MIT,34541,"Croston, SBA and TSB forecasts with a leak-free rolling-origin evaluation for intermittent demand"
+2026-11-14T16:10:19Z,cloudru-qa-http-client-retries,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,76867,Повторные попытки запросов для HTTP-клиента
+2026-11-14T16:10:27Z,polychrome,0.0.1,,,38606,"Color palette extraction. Under development, not usable yet."
+2026-11-14T16:10:48Z,labneura-all,0.4.5,LabNeura Authors,MIT,1091,Complete LabNeura Python distribution
+2026-11-14T16:10:50Z,labneura-core,0.4.5,LabNeura Authors,MIT,2064,Pure-Python package infrastructure for LabNeura components
+2026-11-14T16:10:55Z,labneura-eda,0.4.5,LabNeura Authors,MIT,211866850,EDA component for LabNeura
+2026-11-14T16:11:01Z,hobkin-eaveswatch,0.1.0,Frank Lynam,MIT,60288,"Logs, deploys and connections from every host, joined to the code that made them, for a hobkin to review. One stdlib-only Python file; S3 or a folder in between."
+2026-11-14T16:12:48Z,labneura-tensor,0.4.5,LabNeura Authors,MIT,19976607,SIMD-accelerated Tensor component for LabNeura
+2026-11-14T16:14:16Z,dbxj,0.1.0,Travis Dent,MIT,189920,"A keyboard-driven terminal UI for browsing Databricks jobs, runs and task logs"
+2026-11-14T16:14:58Z,knobly,1.1.0,,MIT,307359,"A configuration language defined by one formal grammar, with a lossless syntax tree"
+2026-11-14T16:15:50Z,predictabl,0.1.0,Predictabl,MIT,178182,"Predictabl from Python: turn a question about your data into a trained model, then score it."
+2026-11-14T16:18:30Z,deflake-py,0.1.0,Roman Belyaev <slyrs@yandex.ru>,MIT,174451,"Find flaky tests in pytest, unittest and Django and explain why they fail."
