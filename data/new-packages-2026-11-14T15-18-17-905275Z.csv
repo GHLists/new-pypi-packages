@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T14:13:25Z,attackmap-analyzer-terraform,0.2.1,AttackMap Contributors,MIT,83679,"Terraform / HCL infrastructure-as-code analyzer plugin for AttackMap (AWS, Azure, GCP resources; IAM wildcards; open security groups; secret resources)."
+2026-11-14T14:22:31Z,specflow-cli,0.1.0,Rômulo Penha,MIT,114731,"Processo Spec Driven proprio: CLI local, gates verificaveis e agente no editor"
+2026-11-14T14:24:35Z,github-actions-admin,0.0.1b4303,,,4541,
+2026-11-14T14:29:06Z,attackmap-analyzer-rust,0.2.0,AttackMap Contributors,MIT,85229,"Rust ecosystem analyzer plugin for AttackMap (axum, actix-web, rocket; sqlx/diesel/sea-orm; jsonwebtoken/argon2; reqwest)."
+2026-11-14T14:29:34Z,phobos-templates-utils,0.0.1,Matheus Castello <matheus@castello.eng.br>,,25793,Package with utilities for Phobos Templates scripts
+2026-11-14T14:29:56Z,attackmap-analyzer-swift,0.2.0,AttackMap Contributors,MIT,107357,"Swift ecosystem analyzer plugin for AttackMap: Vapor/Hummingbird routes with route-level auth, the iOS/macOS app attack surface, and a SwiftPM/CocoaPods/Carthage SBOM."
+2026-11-14T14:32:27Z,kd-engine,1.0.0,,Proprietary,757328,"Knowledge distillation engine: multi-platform acquisition, evidence-linked extraction, cross-source synthesis."
+2026-11-14T14:33:59Z,jev-cognitive-mcp,0.4.4,jev-cognitive-mcp maintainers,MIT,77358,"Advisory 3+1 Cognitive Hierarchy Toolkit & Model Context Protocol (MCP) Server for Agentic Coding: Pre-Tool Risk Screening, Dynamic Task Routing, Candidate Ranking, and Evidence Review."
+2026-11-14T14:34:01Z,open-short-drama-studio,0.10.0,open-short-drama-studio maintainers,MIT,60673,"Deterministic AI Short-Drama Quality Gates, Six-Segment Storyboard Prompt Standardizer, Multi-Shot 15s Segment Cut Alignment Gate, Character Turn-Around Anchor Gate, Seedance/Flow Credit Optimizer, C…"
+2026-11-14T14:35:36Z,winbearable,0.1.0,hellqvio,MIT,146513,"Make Windows + WSL2 bearable (and locked down) for Linux people who are stuck with it — pure native Python, zero PowerShell wrappers."
+2026-11-14T14:36:11Z,statsbadge-railclock,0.1.1,Vincent Willcox,MIT AND OFL-1.1,189123,A Rail Clock page for statsbadge: the time inside two rings of sweeping chevrons
+2026-11-14T14:37:09Z,lupaxa-ssh-doctor,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",48184,"Read-only command-line diagnostics for local SSH client configuration, keys, permissions, and the agent."
+2026-11-14T14:37:29Z,attackmap-analyzer-cpp,0.2.0,AttackMap Contributors,MIT,120977,"C++ ecosystem analyzer plugin for AttackMap (Crow, Pistache, Drogon, cpprestsdk; libcurl/cpr; OpenSSL/Botan/libsodium/Crypto++; libpqxx/mongocxx/redis-plus-plus)."
+2026-11-14T14:37:46Z,attackmap-analyzer-c,0.2.0,AttackMap Contributors,MIT,103094,"C ecosystem analyzer plugin for AttackMap (libmicrohttpd, civetweb, mongoose; libcurl; OpenSSL/mbedTLS/libsodium; sqlite3/libpq/mysql/hiredis/mongoc)."
+2026-11-14T14:38:00Z,attackmap-analyzer-atproto,0.2.0,AttackMap Contributors,MIT,32062,Thin AT Protocol overlay analyzer plugin for AttackMap
+2026-11-14T14:40:50Z,unsworn,0.1.0,,MIT,13667,Write Unsworn handlers in Python.
+2026-11-14T14:41:55Z,attackmap-analyzer-iac,0.2.0,AttackMap Contributors,MIT,79509,"Infrastructure-as-Code analyzer plugin for AttackMap (Dockerfile, docker-compose, Kubernetes, Helm, GitHub Actions, .env templates, shell installers)"
+2026-11-14T14:42:04Z,attackmap-analyzer-go,0.2.0,AttackMap Contributors,MIT,70124,"Go ecosystem analyzer plugin for AttackMap (net/http, chi, gin, echo, fiber, gorilla/mux; database/sql, gorm, sqlx, pgx; golang-jwt; resty)."
+2026-11-14T14:42:24Z,attackmap-analyzer-dotnet,0.2.0,AttackMap Contributors,MIT,52588,"C# / .NET (ASP.NET Core) ecosystem analyzer plugin for AttackMap (minimal APIs, attribute routing, EF Core, Identity, JwtBearer)."
+2026-11-14T14:43:00Z,django-octo-security,0.1.0,jeanpmodev <jeanpmodev@gmail.com>,MIT,230667,Enterprise-ready Django runtime security and zero-dependency environment CVE audit module under the Django-Octo architecture.
+2026-11-14T14:45:51Z,batstencil,1.0.0,Thordur Matthiasson <doddi79@gmail.com>,MIT,76890,An AllConf and Jinja2 powered template renderer where the context input can be files and entire directory structures can be rendered (a continuation fork of CCP Games' ccp-stencil).
+2026-11-14T14:47:37Z,wormocr,1.0.0,arjun shukla,MIT,193684,"Local OCR for printed and handwritten English text. Small CRNN models, CPU-friendly, no cloud."
+2026-11-14T14:48:54Z,mhb-scorer,0.1.1,yych42,MIT,40327,"Self-contained scorer for MentalHealthBench: rubric grading decisions in, final report out."
+2026-11-14T14:48:56Z,attackmap-analyzer-java-spring,0.2.0,AttackMap Contributors,MIT,117528,"Java/Kotlin Spring Boot ecosystem analyzer plugin for AttackMap (Spring MVC routing, JAX-RS, Ktor; Spring Data JPA / Mongo / Redis; Spring Security; jjwt; RestTemplate / WebClient / OkHttp)."
+2026-11-14T14:49:02Z,attackmap-analyzer-node-service,0.3.0,AttackMap Contributors,MIT,105512,Broad Node.js/TypeScript service analyzer plugin for AttackMap
+2026-11-14T14:49:11Z,attackmap-analyzer-omeka-s,0.2.0,AttackMap Contributors,MIT,75639,Application-aware Omeka S analyzer plugin for AttackMap
+2026-11-14T14:55:45Z,tessera-rl,0.2.0,,MIT OR Apache-2.0,3839976,"Fast, deterministic, snapshot-able reinforcement learning environments"
+2026-11-14T14:55:55Z,pyboleto-quicksys,0.4.0,Orlando Cesar Martins,BSD,196112,"Python Library to create ""boletos de cobrança bancária"" for several Brazilian banks"
+2026-11-14T14:56:13Z,zkmath,1.0.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",25794836,
+2026-11-14T14:56:14Z,cisap,0.3.0,Kasra Madadipouya <kasra@madadipouya.com>,GPL-3.0-or-later,124167,A terminal audio player for local files and Navidrome servers
+2026-11-14T14:57:43Z,attackmap-analyzer-php-web,0.2.0,AttackMap Contributors,MIT,91944,Broad PHP web analyzer plugin for AttackMap
+2026-11-14T14:57:50Z,attackmap-analyzer-php-laminas,0.2.0,AttackMap Contributors,MIT,54597,Framework-aware Laminas analyzer plugin for AttackMap
+2026-11-14T14:58:53Z,attackmap-analyzer-python,0.2.0,AttackMap Contributors,MIT,82564,"Comprehensive Python ecosystem analyzer plugin for AttackMap (Django, Starlette, AIOHTTP, Sanic, Litestar, DRF; SQLAlchemy/asyncpg/motor; passlib/PyJWT/authlib; httpx/aiohttp)."
+2026-11-14T14:58:54Z,behance-dl,0.1.0,Michael Elian Kevin <19345886+kevinkwee@users.noreply.github.com>,MIT,46671,Download the images of public Behance project galleries.
+2026-11-14T15:00:35Z,netinfra-phtaya-game-20-autho-lbvrv,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,6688,Technical network verification and high-availability endpoint registry for PHTaya Game - 20 Authority Entity Links Super Blast
+2026-11-14T15:00:52Z,renovate-preview,0.1.0,Quentin Ågren <quentin.agren@gmail.com>,MIT,64001,Perform a Renovate dry run and preview the results.
+2026-11-14T15:01:44Z,haaztest-kitten-tts-cpp,0.2.0.post1,KittenML,,193627623,CPU KittenTTS2 inference with native C++ bindings
+2026-11-14T15:03:29Z,attackmap,0.6.4,AttackMap Contributors,MIT,1368017,"AI-assisted defensive security analyzer for codebases — scans a repository, models assets and controls, finds cross-cutting weaknesses, and generates an evidence-grounded review with MITRE ATT&CK map…"
+2026-11-14T15:06:00Z,natural-time-py,3.0.0,Sylvain 441,CC0-1.0,33158,"Natural Time in Python: the 360° solar day and the 13-moon calendar, checked against natural-time-js."
+2026-11-14T15:06:01Z,onshape-jamcp,1.0.0,onshape-jamcp contributors,MIT,141391,"Just Another MCP server for Onshape CAD - metric by default, with optional screenshot review by the LLM."
+2026-11-14T15:06:27Z,unitsleuth,0.1.0,Md Omar Faruqe <faruqe@ru.ac.bd>,MIT,28728,Detect mixed measurement units in unlabeled numeric columns from the numbers alone.
+2026-11-14T15:12:21Z,docusense-mcp,0.1.0,hksharma2004,MIT,166662,"MCP server that lets AI agents read your PDFs and docs in sections, not wholesale: ~20x fewer tokens, hash-verified citations, version diffs"
+2026-11-14T15:13:50Z,diffeval,0.1.0,woletee,Apache-2.0,140029,Evaluation harness for image and video diffusion models
+2026-11-14T15:14:09Z,thanos-ctx,0.1.0,Karthikeya Surabhi,MIT,39599,"Lightweight context-window limits, pricing-tier awareness, and compression for LLM conversations"
+2026-11-14T15:15:15Z,kuzymail,1.4.1,Michele Renda,AGPL-3.0-or-later,264290,JSON-first mail client and watch daemon for Kuzys.
+2026-11-14T15:15:19Z,lupaxa-git-ignore-inspector,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",58659,"Read-only command-line diagnostics for inspecting, explaining, and auditing Git ignore rules."
+2026-11-14T15:15:22Z,rwa-filer,0.1.0,OpenAfterHours,Apache-2.0,3996277,Validate regulatory returns against the published supervisory rules and write them for submission
