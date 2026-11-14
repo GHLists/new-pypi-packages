@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-11-14T21:19:03.58013Z",
-    "path": "data/new-packages-2026-11-14T22-19-30-420495Z.csv",
-    "to": "2026-11-14T22:19:30.420495Z"
+    "count": 51,
+    "from": "2026-11-14T22:19:30.420495Z",
+    "path": "data/new-packages-2026-11-14T23-19-58-20162Z.csv",
+    "to": "2026-11-14T23:19:58.20162Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-14T22:18:37Z",
-      "package": "birdweather-mcp",
-      "since": "2026-11-14T21:19:03.58013Z",
-      "version": "0.2.2"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-14T22:16:28Z",
-      "package": "mailroom-mcp",
-      "since": "2026-11-14T21:19:03.58013Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-14T20:42:28Z",
       "package": "xr6-filter-wall",
       "since": "2026-11-14T20:20:05.049272Z",
       "version": null
     }
   ],
-  "serial": 43665788,
+  "serial": 43667335,
   "source_truncated": false,
-  "window": "2026-11-14T22:19:30.420495Z"
+  "window": "2026-11-14T23:19:58.20162Z"
 }

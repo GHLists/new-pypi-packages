@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T22:16:28Z,mailroom-mcp,1.0.0,Tayeb Kahia,MIT,105448,"An MCP server for reading a Mailroom inbox and asking for redrafts. It cannot approve, reject or send anything."
+2026-11-14T22:18:37Z,birdweather-mcp,0.2.3,Paul Frederiksen <pfrederiksen@users.noreply.github.com>,MIT,342368,"Self-hostable MCP server for BirdWeather stations (detections, species, stats)."
+2026-11-14T22:20:21Z,commonground-engine,0.2.0,,MIT,188798,"First-order verdicts with checked evidence, Lean certificates and conflict analysis for arguments"
+2026-11-14T22:29:38Z,sf-exit,0.1.0,sf-exit contributors,MIT,90930,"Leave Salesforce with all your data. One command exports every object, file and attachment to CSV, then loads it into SQLite, DuckDB, Postgres or Parquet."
+2026-11-14T22:30:30Z,scratchstore,1.0.2,gixtuh,,29281,ScratchStore is a cloud data store/database engine which lets you write anything into a data store file using Python and Scratch with the power of cloud variables.
+2026-11-14T22:34:39Z,colonymind-hermes,1.0.0,,MIT,588557,"ColonyMind's adapter and memory provider for stock Hermes. A mind for Hermes agents: persistent memory, commitments, initiative and measured autonomy"
+2026-11-14T22:34:58Z,colonymind,1.0.0,,MIT,8024472,"A mind for Hermes agents: persistent memory, commitments, initiative and measured autonomy"
+2026-11-14T22:37:04Z,pynecomp,0.1.0,PYNESYS LLC <hello@pynesys.com>,Apache-2.0,1180,"PyneComp, the Pine Script to Python compiler of PyneSys: installs PyneCore with its CLI"
+2026-11-14T22:37:06Z,pynecore,0.1.0,PYNESYS LLC <hello@pynesys.com>,Apache-2.0,1169,"Installs PyneCore, published on PyPI as pynesys-pynecore"
+2026-11-14T22:37:07Z,pynefair,0.1.0,PYNESYS LLC <hello@pynesys.com>,Apache-2.0,1044,"PyneFair, a project of PyneSys"
+2026-11-14T22:37:09Z,pyneide,0.1.0,PYNESYS LLC <hello@pynesys.com>,GPL-3.0-only,1168,PyneIDE is a VS Code extension: this package points to where to install it
+2026-11-14T22:43:51Z,suvereo-model-anthropic,1.0.0,Mateusz Porębski,,5025,A plugin for Suvereo that provides an Anthropic connector.
+2026-11-14T22:43:52Z,suvereo-model-google,1.0.0,Damian Sowiński,,5001,A plugin for Suvereo that provides a Google Gemini connector.
+2026-11-14T22:44:21Z,ragspark,0.3.0,,MIT,563902,"Unified One-Command Industry RAG Pipeline Library with Hybrid Search, Query Rewriting, Multi-VectorDB, and Studio UI"
+2026-11-14T22:46:57Z,aws_sdk_codebuild,0.0.0,,Apache-2.0,2123,Placeholder reserving the aws_sdk_codebuild name. Not yet functional.
+2026-11-14T22:47:09Z,backend-switchboard,0.1.1,Neil Getty,MIT,44225,"Switch Claude Code between your Anthropic subscription, Argo, MAG and ALCF models with /model"
+2026-11-14T22:48:03Z,bittorrent-client,0.2.0,Omar Aflak,MIT,45880,"A lightweight, robust BitTorrent client built with pure Python standard library."
+2026-11-14T22:50:06Z,mpremote-sync,0.1.0,ambadran,MIT,12432,Verify and sync Python files to a MicroPython device via mpremote
+2026-11-14T22:50:48Z,aws_sdk_kendra,0.0.0,,Apache-2.0,2087,Placeholder reserving the aws_sdk_kendra name. Not yet functional.
+2026-11-14T22:51:09Z,aws_sdk_rekognition,0.0.0,,Apache-2.0,2145,Placeholder reserving the aws_sdk_rekognition name. Not yet functional.
+2026-11-14T22:51:32Z,aws_sdk_codecommit,0.0.0,,Apache-2.0,2134,Placeholder reserving the aws_sdk_codecommit name. Not yet functional.
+2026-11-14T22:52:05Z,uuid58,0.1.0,Nakano as a Service,MIT,14970,"Encode UUIDs as 22-character, order-preserving Base58 strings (uuid58)"
+2026-11-14T22:56:43Z,embodied-ai-schemas,0.25.0,Branes-ai Team,MIT,1227687,Shared schemas and factual data for embodied AI hardware/software codesign
+2026-11-14T22:57:48Z,opds-client,0.0.2,sevdani,MIT,45718,OPDS Client Library for Python
+2026-11-14T22:57:59Z,r4-contracts,0.0.0,,Apache-2.0,2173,Name reserved for https://github.com/R-CCS-HPBD/r4. Not a usable release; real releases start at 0.2.0rc4.
+2026-11-14T22:58:00Z,umrs,0.0.0,,Apache-2.0,2072,Name reserved for https://github.com/UMRS-org/umrs. Not a usable release; real releases start at 0.2.0rc4.
+2026-11-14T22:58:01Z,umrs-protocol,0.0.0,,Apache-2.0,2186,Name reserved for https://github.com/UMRS-org/umrs. Not a usable release; real releases start at 0.2.0rc4.
+2026-11-14T23:00:27Z,urbanscaling,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,91330,"Urban scaling laws Y = Y0 N^beta: OLS, RMA, robust and nonlinear fits, bootstrap intervals, tests against linearity, SAMIs, city-definition sensitivity, residual diagnostics and panel scaling."
+2026-11-14T23:00:36Z,shiftshare,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,75066,"Regional economic analysis for planners: location quotients (SLQ, CILQ, FLQ, AFLQ), shift-share decompositions (Dunn, Esteban-Marquillas, Arcelus, dynamic), Krugman and Hoover indices, Ellison-Glaese…"
+2026-11-14T23:00:38Z,ranksize,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,74784,"City-size distributions: Zipf rank-size regression with the Gabaix-Ibragimov correction, power-law tails by MLE with KS xmin selection and bootstrap goodness of fit, lognormal comparison by Vuong tes…"
+2026-11-14T23:02:05Z,edcal,1.0.1,Nghia Vo <nvo@bnl.gov>,Apache-2.0,160547,"GUI software for energy and q calibration of energy-dispersive X-ray detectors, built on Algodif."
+2026-11-14T23:04:26Z,depthdamage,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,99093,"Flood damage and risk for buildings and land use: depth-damage curves with first-floor heights, multi-return-period event sets, expected annual damage with protection truncation, risk-curve diagnosti…"
+2026-11-14T23:04:33Z,boardwright,0.1.0,heibench,Apache-2.0,141778,"Generate and edit KiCad boards and schematics from a short Python description, checked by KiCad itself."
+2026-11-14T23:04:38Z,homeafford,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,63779,"Housing affordability metrics: price-to-income and median multiple, rent-to-income and cost burden, residual income, mortgage affordability, a NAR-style affordability index, housing plus transportati…"
+2026-11-14T23:04:49Z,lczlite,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,86448,"Local Climate Zone (Stewart & Oke 2012) classification from urban canopy parameters: fuzzy range scoring with confidence and mixed-class flags, parameters from building footprint grids, WUDAPT codes,…"
+2026-11-14T23:06:15Z,flagstone-sdk,0.1.0,Tejas Ashri,MIT,16891,"Python SDK for Flagstone feature flags: local flag evaluation, percentage rollouts and A/B experiment events."
+2026-11-14T23:07:31Z,astro-weights,0.0.1,Indranil Biswas,Apache-2.0,26865,"Agent-driven weight-space edits for open LLMs, exported as standard LoRA adapters."
+2026-11-14T23:08:19Z,cohortproj,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,86078,"Cohort-component population projection: abridged and single-year life tables, survival ratios, fertility measures, migration, Leslie matrices, stable population, a simple multiregional model, age-str…"
+2026-11-14T23:08:19Z,tripdist,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,89804,"Trip generation and distribution for the four-step model: regression and cross-classification, P/A balancing, growth-factor methods, gravity models with Furness balancing, Hyman calibration and trip…"
+2026-11-14T23:08:31Z,parcelform,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,91552,"Parcel and lot geometry metrics from GeoJSON polygons: shape indices, minimum-area rectangle, frontage and lot type, depth and width, setback envelopes and subdivision feasibility checks."
+2026-11-14T23:10:11Z,enforced,0.1.0,,MIT,738940,"Runtime type checking for Python, driven by the annotations you already write."
+2026-11-14T23:11:23Z,django-octo,0.1.7,Jean Carlos <jeanpmodev@gmail.com>,MIT,12608,"Enterprise Django-Octo Core Orchestrator unifying SEO, Security, and Dual-Channel runtime modules."
+2026-11-14T23:12:11Z,fritzos8-mcp,0.1.0,Tom Wellnitz,MIT,591521,Platform MCP server for AVM FRITZ!Box with FRITZ!OS 8 (TR-064 + /api/v0 REST) with tiered write safety
+2026-11-14T23:12:19Z,greenrule,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,90012,"Urban green space provision and exposure indicators: the 3-30-300 rule, the WHO Europe 300 m green space proximity indicator, green space per capita, NDVI buffer exposure and equity summaries."
+2026-11-14T23:14:16Z,mlx-covi,0.0.0,Mani K. Woodward,MIT,5647,Image Processing and Analysis in Python using MLX for Apple Silicon
+2026-11-14T23:14:47Z,mlx-med,0.0.0,Mani K. Woodward,MIT,5611,Medical Image Processing and Analysis in Python using MLX for Apple Silicon
+2026-11-14T23:17:29Z,isolines,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,76805,"Contour lines and filled contours (isobands) from grids and scattered points: marching squares with saddle disambiguation, valid polygons with holes, smoothing, simplification, IDW/TIN gridding and G…"
+2026-11-14T23:17:33Z,sprawlmetrics,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,84285,"Urban expansion and sprawl metrics from multi-date binary built-up rasters: growth rates, Landscape Expansion Index, patch metrics, compactness, entropy, density gradients and SDG 11.3.1."
+2026-11-14T23:17:51Z,tr-gurultu,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,96742,"Turkish environmental noise regulation helpers: Lgündüz/Lakşam/Lgece/Lgag (Lden) indicators, limit values and exceedance reports, construction-site rules, decibel arithmetic, screening distance atten…"
+2026-11-14T23:18:19Z,wiltech-labs-organization,1.0.0,Wiliam Ferraciolli,Apache-2.0,20871,"An organisation's structure for Wiltech apps: org chart items in the shape @wiltech-labs/ngx-organization draws, and the rules for where organisations, entities, departments and jobs may sit."
+2026-11-14T23:18:42Z,edu-mcp,1.0.0,Edu MCP Contributors,MIT,457490,"Unified Model Context Protocol (MCP) server for French school platforms (Pronote, ÉcoleDirecte, Skolengo, ENT)."
