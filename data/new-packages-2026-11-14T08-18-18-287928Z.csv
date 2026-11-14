@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T07:20:59Z,claudown,0.2.0,PacifAIst,Apache-2.0,123447,"Leave Claude Code working and go to sleep: lets Claude wrap up, then shuts down your computer at the 5-hour or weekly usage limit, or when the job is done. Zero tokens."
+2026-11-14T07:23:20Z,wen-lang,0.2.0a1,,"MIT License Copyright (c) 2026 Leknox1189 Permission is hereby granted, free of charge, to any pers…",27473,Wen programming language compiler with LLVM native code generation
+2026-11-14T07:29:21Z,a2m-protocol,0.0.2,,Apache-2.0,10335,Official package of the A2M (Agent to Market) protocol. Reserved; SDK coming soon.
+2026-11-14T07:29:37Z,ibop-um-krakow-api,0.1.0,Jacek Grela <jacekgrela@gmail.com>,MIT,43721,"Unofficial Python SDK and CLI for iBOP UM Kraków (ibop.mpo.krakow.pl), the Kraków municipal waste-fee portal: balance, charges, payment books, declarations."
+2026-11-14T07:35:48Z,remove-ac,1.1.0,,MIT,18910,Official zero-dependency Python SDK & removebg 1:1 drop-in replacement for remove.ac
+2026-11-14T07:38:23Z,snowflake-fxmacrodata,0.1.0,,MIT,22529,Load public FXMacroData responses into Snowflake
+2026-11-14T07:39:51Z,agent-voice-input,0.1.0,,Apache-2.0,225402,Two-stage context-aware voice input for CLI coding agents.
+2026-11-14T07:41:06Z,prefect-fxmacrodata,0.1.0,,MIT,29415,FXMacroData subscription data in Prefect tasks and research flows
+2026-11-14T07:43:06Z,mmh3-image,0.1.0,yunfengwang,MIT,24946,MiniMax-H3-Image GGUF on ComfyUI: one command to download and generate.
+2026-11-14T07:44:01Z,daitum-test,0.5.3,Daitum <developers@daitum.com>,Apache-2.0,66360,Test Daitum models from Python
+2026-11-14T07:51:49Z,colibly,0.1.0,,MIT,8388,"Cliente oficial de la API de Colibly (CRM para WhatsApp): contactos, conversaciones, mensajes, plantillas, llamadas y verificación de webhooks."
+2026-11-14T07:52:15Z,pubba,0.4.0,Tharindu Athapaththu,MIT,34356,"A small brain for showroom sites: related items with reasons, what-next from a visitor's trail, typo-tolerant matching and a headless guide, from a compiled pubba bundle."
+2026-11-14T07:53:57Z,cleanpipe,0.1.0,Sri Krishna Lingamaneni,MIT,27592,"Fix MCP stdio servers that print logs or banners to stdout: wraps the server so only JSON-RPC reaches the client (no more handshake timeouts or 'Unexpected token' errors), plus a check for CI"
+2026-11-14T07:58:13Z,geenii,0.4.0.dev4,fm-labs <code@fmlabs.dev>,MIT,1006463,A versatile AI agent toolkit
+2026-11-14T08:02:32Z,openpinch-solvers,0.1.0,Tim Walmsley <tim.walmsley@waikato.ac.nz>,MIT AND EPL-2.0 AND CECILL-C AND BSD-3-Clause AND LicenseRef-AMPL-ASL AND GPL-3.0-or-later WITH GCC…,26786023,Ipopt (with MUMPS and the AMPL Solver Library) as pip-installable platform wheels for OpenPinch
+2026-11-14T08:05:10Z,pandaas-utils,0.1.0,Pandaas Developers,MIT,12524,Lightweight helper utilities for data processing
+2026-11-14T08:15:09Z,notquite,0.1.0,Tom Bar-Haim,MIT,18452,"Checks whether DONE actually means done. Git, tests, merges, and deployment evidence."
