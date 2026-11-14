@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T09:23:23Z,pretix-google-wallet,0.10.0,Stefan Bethke <stb@lassitu.de>,MIT,73377,pretix ticket output that adds tickets to Google Wallet
+2026-11-14T09:25:33Z,apifuzz,0.2.0,mateivarvara100-cloud,MIT,245733,OpenAPI-driven security scanner for authorized staging APIs (OWASP API Top 10).
+2026-11-14T09:30:34Z,genanki2,0.1.0,Vlad Vrabie,MIT,753930,"Generate, read and update Anki decks using Python. A spiritual successor to genanki"
+2026-11-14T09:31:17Z,easyths-ladder2sky,2.1.0,noimank <noimank@163.com>,MIT,15855186,同花顺交易自动化系统
+2026-11-14T09:33:06Z,atlasdata-sdk,0.1.0,AtlasData,MIT,4949,"Client for the AtlasData crypto market-data API — x402 (USDC/Base) and L402 (Lightning) per-request payments, plus a free sample endpoint"
+2026-11-14T09:36:16Z,gitrecord,0.1.0,,,2162,Add your description here
+2026-11-14T09:36:19Z,gitfacts,0.1.0,,,2151,Add your description here
+2026-11-14T09:38:32Z,cyberjobs,1.0.0,"""CyberJobs.cc"" <hello@cyberjobs.cc>",MIT,22915,"Find open cybersecurity jobs with stated salaries from Python or a terminal. No API key, standard library only."
+2026-11-14T09:38:57Z,amb-bellinzona,0.1.0,Andrea Pellegrini <uschti@gmail.com>,MIT,14755,Async client for the AMB Bellinzona dynamic tariff schedule
+2026-11-14T09:41:16Z,mcp-gateway-lab,0.3.0,Muhammad Faheem <faheemgurkani@gmail.com>,MIT,100276,"Score any MCP security gateway against an agent that attacks it (mcp-lab), plus a reference gateway (policy, schema validation, HMAC hash-chained audit log)."
+2026-11-14T09:42:34Z,cassiopee-converter-i8,2026.11,ONERA,LGPLv3,5901911,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-14T09:42:36Z,cassiopee-initiator-i8,2026.11,ONERA,LGPLv3,1163165,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-14T09:42:38Z,cassiopee-geom-i8,2026.11,ONERA,LGPLv3,2914455,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-14T09:42:40Z,cassiopee-cplot-i8,2026.11,ONERA,LGPLv3,7976643,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-14T09:42:45Z,numericalanalysisiiser,0.1.1,jampanirohith,MIT,53096,"Numerical analysis methods (interpolation, differentiation, integration, root finding, linear systems, ODEs) that return pandas DataFrames"
+2026-11-14T09:43:40Z,gitnode,0.1.0,,,2126,Add your description here
+2026-11-14T09:44:32Z,algoss,0.1.0,nevermind477,MIT,42308,Пошаговый терминальный TUI-визуализатор алгоритмов в стиле Vim
+2026-11-14T09:45:14Z,django-mp-merchant,0.0.1,Paul Maigutyak,MIT,6658,Django merchant app
+2026-11-14T09:51:52Z,megalinter,10.2.0.post0.dev20261114094955,Nicolas Vuillamy <nicolas.vuillamy@gmail.com>,MIT,2637756,MegaLinter
+2026-11-14T09:58:19Z,human-use,0.0.1,,MIT,1932,Your agent's human. Call a person through a closed tool catalog.
+2026-11-14T10:01:28Z,gotchu,0.1.0,,Apache-2.0,147825,"Free, local protection for Windows against password-stealing malware: it guards the safe, not just the door."
+2026-11-14T10:01:49Z,eksisozluk-mcp,0.1.0,Mohammad Abbasi,MIT,199057,"Unofficial read-only MCP server for eksisozluk.com (Ekşi Sözlük): trending topics, entries, search, channels, debe"
+2026-11-14T10:01:57Z,iskur-mcp,0.1.0,Mohammad Abbasi,MIT,318956,"Unofficial read-only MCP server for İŞKUR (iskur.gov.tr): open job listings, job details, provinces, announcements"
+2026-11-14T10:02:10Z,flashdrive,1.0.0,,Apache-2.0,401217,Typed synchronous and asynchronous clients for FlashDrive
+2026-11-14T10:02:11Z,beyazperde-mcp,0.1.0,Mohammad Abbasi,MIT,497448,"Unofficial read-only MCP server for Beyazperde (beyazperde.com): now showing, movie search, details, showtimes, news, cities"
+2026-11-14T10:06:59Z,uba-mcp,0.1.0,Mohammad Abbasi,MIT,34551,Unofficial read-only MCP server for UBA German air quality — hourly measurements and LQI from 400+ stations
+2026-11-14T10:07:09Z,openplz-mcp,0.1.0,Mohammad Abbasi,MIT,26148,"Unofficial read-only MCP server for German postal data (OpenPLZ API) — localities, streets, municipalities, districts & federal states"
+2026-11-14T10:07:12Z,feiertage-mcp,0.1.0,Mohammad Abbasi,MIT,28132,"Unofficial read-only MCP server for German public holidays (feiertage-api.de) — holidays by year & state, is-it-a-holiday, next holiday & date ranges"
+2026-11-14T10:08:10Z,ffai-cli,0.2.0,ffai contributors,MIT,136619,"Natural-language, stateful media and document format conversion assistant (FFmpeg + Pandoc)"
+2026-11-14T10:09:01Z,flashdrive-cli,1.0.0,,,9628166,Command-line client for FlashDrive
