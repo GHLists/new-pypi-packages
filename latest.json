@@ -1,27 +1,34 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-11-14T10:18:54.612467Z",
-    "path": "data/new-packages-2026-11-14T11-18-37-788275Z.csv",
-    "to": "2026-11-14T11:18:37.788275Z"
+    "count": 28,
+    "from": "2026-11-14T11:18:37.788275Z",
+    "path": "data/new-packages-2026-11-14T12-18-53-024977Z.csv",
+    "to": "2026-11-14T12:18:53.024977Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-14T10:29:46Z",
       "package": "airflow-provider-opensysml",
       "since": "2026-11-14T10:18:54.612467Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-14T10:03:44Z",
       "package": "odoo_addon_oca_demo",
       "since": "2026-11-14T09:19:55.601327Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-14T12:01:14Z",
+      "package": "xiaoe-ui",
+      "since": "2026-11-14T11:18:37.788275Z",
+      "version": "6.0.2"
     }
   ],
-  "serial": 43647053,
+  "serial": 43648492,
   "source_truncated": false,
-  "window": "2026-11-14T11:18:37.788275Z"
+  "window": "2026-11-14T12:18:53.024977Z"
 }

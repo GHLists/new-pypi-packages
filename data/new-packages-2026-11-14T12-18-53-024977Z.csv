@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T11:23:14Z,factmesh,0.1.1,,Apache-2.0,161723,"Fresh, checkable facts for AI agents, shared over an open network"
+2026-11-14T11:23:48Z,minimindslab-toml-inline-table-sort,0.1.0,MiniMindsLab,MIT,7924,Deterministically reorder keys inside TOML inline tables and inline array-of-tables fragments while preserving all scalar values and whitespace outside the targeted structures.
+2026-11-14T11:23:52Z,vink,0.1.1,vink contributors,MIT,450232,"Turn YouTube transcripts into clean, timestamped Markdown — and full, detailed notes."
+2026-11-14T11:24:15Z,cdsmodel,0.1.0,Bernardo Cohen,MIT,1000149,"The ISDA CDS Standard Model 1.8.3, ported to C++20."
+2026-11-14T11:26:06Z,anybox-py,0.11.1,ethereal,MPL-2.0,2927794,one API for the most popular passthrough boxes
+2026-11-14T11:34:33Z,antigravity-wakeup,0.1.0,non7top,MIT,33222,Wake an idle Antigravity (agy) conversation from another process via agy agentapi send-message.
+2026-11-14T11:35:21Z,wallras,0.20.1,,MIT,28024,"Clients for Wallras, the AI monitoring proxy: an MCP server for AI agents and a zero-dependency Python SDK"
+2026-11-14T11:35:45Z,fanbei-mcp,0.1.0,Sunny Translation <support@sunnytranslation.com>,MIT,52843,翻呗文档翻译 MCP Server：上传 · 报价 · 下单 · 查进度 · 下载
+2026-11-14T11:36:09Z,mxgate,0.3.0,,MIT,34434,Python client for mxgate: email forwarding and send-as for a domain you own.
+2026-11-14T11:37:06Z,tokoyo-sdk,0.10.1,,,155831,场外基金量化投研 SDK
+2026-11-14T11:40:59Z,smalldeep-probe,0.0.1,,,1283,upload permission probe
+2026-11-14T11:43:07Z,livekit-plugins-chariot,0.1.0,Chariot,Apache-2.0,37155,Agent Framework plugin for Chariot speech-to-text and text-to-speech.
+2026-11-14T11:43:09Z,lgcov,0.3.0,Ahmed Mohy,MIT,395044,Catch silent regressions in LangGraph agents on every PR. lgcov re-runs only the nodes a PR can reach and shows which node's output changed first.
+2026-11-14T11:43:13Z,cloudru-qa-http-client,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,84164,Базовый HTTP-клиент
+2026-11-14T11:49:39Z,smalldeep-net,1.0.1,smalldeep,MIT,30617,把 socket 的样板代码收进对象里：地址统一、错误分级、非阻塞不抛异常、多路复用一行搞定
+2026-11-14T11:49:49Z,naiwasay,0.1.0,Zeshen Tian,GPL-3.0-only,45935,A Naiwa ASCII-art speaker with the Python cowsay API and CLI.
+2026-11-14T11:51:06Z,strata-python,0.2.0,jburnhams,MIT,49850,"Common code for Python web server apps: OS helpers, settings, FastAPI serving, CLI commands, test fixtures and the strata-check gate"
+2026-11-14T11:51:50Z,uccharan,0.2.0,Abhinav Gautam <abhinav@codebuckets.in>,Apache-2.0,14951501,"Drop-in phonemiser for Piper, Kokoro and sherpa-onnx voices: 5× faster than espeak-ng, Apache-2.0."
+2026-11-14T11:58:20Z,livekit-plugins-oogam,0.1.0,Dwet Labs <support@dwetlabs.com>,MIT,35354,"Oogam for LiveKit Agents — streaming STT with fast turn finalize, TTS and Sutra — for 27 Indian languages and English."
+2026-11-14T11:59:02Z,rowlab-python-sdk,0.1.0,Row & Reason <support@rowandreason.com>,Apache-2.0,134294,"Typed Python client for the rowlab API: label, compare and export tabular data from code"
+2026-11-14T12:02:04Z,gifuto.py,0.1.0,Martin92yt,MIT,30328,Official Python client for the Gifuto API: curated anime GIFs for Discord bots (sync + async).
+2026-11-14T12:03:46Z,bolo-speech,0.2.0,The bolo Authors,Apache-2.0,6021217,"A lightweight, torch-free speech server: speech-to-text, text-to-speech and VAD behind OpenAI-compatible, WebSocket and Wyoming APIs."
+2026-11-14T12:05:41Z,langchain-adscrawl,0.1.0,AdsCrawl contributors,"MIT License Copyright (c) 2026 AdsCrawl contributors Permission is hereby granted, free of charge,…",21189,LangChain tool integration for AdsCrawl rendered web extraction
+2026-11-14T12:05:54Z,universal-dev-security,1.0.0,,Apache-2.0,220418,"One security system for every project: secrets, code, dependency and configuration scanning with a central policy engine, Git and AI-agent guards, and a local security dashboard."
+2026-11-14T12:06:13Z,bolo-torch,0.1.0,The bolo Authors,Apache-2.0,109867,"PyTorch engine plugin for the bolo speech server: Indic Parler-TTS, IndicF5 and F5-TTS, Veena, Svara, Indic-Speak, SepFormer, pyannote PixIT and DiCoW diarization-conditioned recognition, run out of…"
+2026-11-14T12:07:29Z,svn-obskit,0.1.0,svnviet,MIT,101608,"Instrumentation SDK for services that report to observability-platform: workflow tracking, worker heartbeats, resilience, OpenTelemetry spans and Prometheus metrics."
+2026-11-14T12:08:58Z,cloudru-qa-explicit-wait,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,99308,Явные ожидания для автотестов
+2026-11-14T12:09:14Z,nctui,0.1.2,Alex Corbett,MIT,325163,Rapid terminal viewer for weather and climate model netCDF output

@@ -8,43 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 11:18 UTC
+## Latest list — 2026-11-14 12:18 UTC
 
-New packages created between 2026-11-14 10:18 UTC and 2026-11-14 11:18 UTC.
+New packages created between 2026-11-14 11:18 UTC and 2026-11-14 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T11-18-37-788275Z.csv)
+[Full CSV](data/new-packages-2026-11-14T12-18-53-024977Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 10:20:36 | [crispr-cas-finder](https://pypi.org/project/crispr-cas-finder/) | 0.1.0 | crispr-cas-finder contributors | 57.8 MB | Detection of CRISPR arrays and Cas systems in prokaryotic genomes |
-| 2026-11-14 10:21:19 | [octantocr](https://pypi.org/project/octantocr/) | 0.1.0 | OctantOCR Team <devadarshanoo… | 45.2 MB | Offline-first, edge-native OCR framework with structured output, layout analysi… |
-| 2026-11-14 10:21:59 | [octopus-phonopy](https://pypi.org/project/octopus-phonopy/) | 1.0.0 | Octopus developers | 48.8 kB | PhonoPy interface helpers for the Octopus TDDFT code |
-| 2026-11-14 10:23:04 | [water-column-sonar-ai](https://pypi.org/project/water-column-sonar-ai/) | 26.11.7 | Rudy Klucik <rudy.klucik@noaa… | 14.7 kB | Machine Learning and AI tool for analyzing water column sonar data. |
-| 2026-11-14 10:27:51 | [django-mp-prom](https://pypi.org/project/django-mp-prom/) | 0.0.1 | Paul Maigutyak | 9.7 kB | Django Prom.ua export |
-| 2026-11-14 10:28:07 | [channel-bot-cli-acp](https://pypi.org/project/channel-bot-cli-acp/) | 0.1.0 | Martin <qule520@126.com> | 314.2 kB | 一个使用Agent Client Protocol驱动的即时通讯平台AI助手机器人工具 |
-| 2026-11-14 10:28:30 | [agent-cli-lib](https://pypi.org/project/agent-cli-lib/) | 0.1.0 | SongJuYi 1327898686@qq.com | 79.5 kB | Unified Python interface for agent CLI bases (opencode, pi, hermes) |
-| 2026-11-14 10:31:29 | [messagex-client](https://pypi.org/project/messagex-client/) | 0.1.0 |  | 46.2 kB | Official Python (asyncio) client for the MessageX message broker |
-| 2026-11-14 10:37:07 | [exos-python-sdk](https://pypi.org/project/exos-python-sdk/) | 0.0.1 |  | 4.5 kB | Placeholder only - NOT the OKX ExchangeOS SDK. Held to prevent namespace hijack… |
-| 2026-11-14 10:38:35 | [mcp-server-docker-dboeckli](https://pypi.org/project/mcp-server-docker-dboeckli/) | 0.6.2 | Christian Kreiling <kreiling@… | 174.2 kB | A Docker MCP Server |
-| 2026-11-14 10:39:13 | [hebbian-rua](https://pypi.org/project/hebbian-rua/) | 0.1.0 |  | 21.3 MB | Build robot-use agents with your own model and loop |
-| 2026-11-14 10:45:47 | [halba](https://pypi.org/project/halba/) | 1.0.0 |  | 15.5 kB | Official Python library for the halba API: payments, captures and refunds, chec… |
-| 2026-11-14 10:47:18 | [teabot](https://pypi.org/project/teabot/) | 1.0.0 |  | 562.4 kB | A plugin-based Discord bot framework, built to self-host and to scale |
-| 2026-11-14 10:48:10 | [teabot-announcements](https://pypi.org/project/teabot-announcements/) | 1.0.0 |  | 9.1 kB | Post announcements to a channel, a first-party teabot plugin |
-| 2026-11-14 10:51:25 | [ished](https://pypi.org/project/ished/) | 0.1.0 |  | 30.9 kB | IshedDB, written as MongoDB’s official driver of each language (Python, as PyMo… |
-| 2026-11-14 10:54:20 | [cadrender](https://pypi.org/project/cadrender/) | 0.1.0 | The cadrender contributors | 12.8 MB | Very fast DXF and DWG to PNG and SVG renderer, written in Rust |
-| 2026-11-14 10:55:44 | [vibehub](https://pypi.org/project/vibehub/) | 1.0.0 | MrLunarDev | 44.8 kB | Small Python library for building Vibegram bots (import name: Vibe) |
-| 2026-11-14 10:59:09 | [mapselect](https://pypi.org/project/mapselect/) | 0.1.0 | Peng Luo | 46.7 kB | Uncertainty at the places a map selects: selection-conditional conformal calibr… |
-| 2026-11-14 10:59:39 | [eigentrail](https://pypi.org/project/eigentrail/) | 0.2.0 | Gabriel Bontemps <gbontemps@p… | 2.0 MB | TRACE covariance trajectories with independent numerical checking |
-| 2026-11-14 11:01:20 | [siel](https://pypi.org/project/siel/) | 0.1.0 | Siel Labs <support@siellabs.c… | 15.2 kB | The Siel SMS API for Python: messages, batches, OTP codes, prices and webhook s… |
-| 2026-11-14 11:03:52 | [paulipropagation-qdk](https://pypi.org/project/paulipropagation-qdk/) | 0.1.0 |  | 4.9 MB | Pauli propagation for circuits compiled with the Microsoft Quantum Development… |
-| 2026-11-14 11:05:33 | [mcp-server-core](https://pypi.org/project/mcp-server-core/) | 0.2.1 | yimmr | 53.2 kB | Universal MCP Server Framework: Streamable HTTP ASGI, Cloudflare Tunnel, OAuth… |
-| 2026-11-14 11:06:23 | [sbmpbox](https://pypi.org/project/sbmpbox/) | 0.1.0 | Jeel Savaliya | 4.5 kB | A Python code collection and downloader |
-| 2026-11-14 11:08:57 | [alphaend-factor-kernel](https://pypi.org/project/alphaend-factor-kernel/) | 0.0.0 |  | 2.6 kB | Name reserved by AlphaEnd Labs. The real package is not released yet. |
-| 2026-11-14 11:09:01 | [alphaend-data-connector](https://pypi.org/project/alphaend-data-connector/) | 0.0.0 |  | 2.6 kB | Name reserved by AlphaEnd Labs. The real package is not released yet. |
-| 2026-11-14 11:09:12 | [coom-lang](https://pypi.org/project/coom-lang/) | 0.0.1a1 | denkbares GmbH | 109.2 kB | Parser, compiler and writer of the COOM product configuration language |
-| 2026-11-14 11:09:14 | [coom-mcp](https://pypi.org/project/coom-mcp/) | 0.0.1a1 | denkbares GmbH | 5.3 kB | MCP server for knowledge engineering with the COOM product configuration langua… |
-| 2026-11-14 11:09:44 | [quantworlds-mcp](https://pypi.org/project/quantworlds-mcp/) | 1.0.0 |  | 5.8 kB | MCP client for the QuantWorlds verification API. |
-| 2026-11-14 11:13:54 | [ppandass](https://pypi.org/project/ppandass/) | 0.1.1 | Pandaas Developers | 21.7 kB | Lightweight helper utilities for data processing |
-| 2026-11-14 11:14:05 | [flask-host-blueprint](https://pypi.org/project/flask-host-blueprint/) | 0.1.0 |  | 14.7 kB | Flask Blueprint with unified host matching |
-| 2026-11-14 11:15:09 | [lsfp](https://pypi.org/project/lsfp/) | 1.0.0 | LelelelingStudio <hello@lelel… | 8.3 kB | A hybrid image compression format by LelelelingStudio |
-| 2026-11-14 11:18:31 | [seq-quince](https://pypi.org/project/seq-quince/) | 0.1.1 | Helmholtz-Zentrum Berlin | 168.6 kB | An asynchronous, YAML-configured device scheduler for EPICS beamlines, built on… |
+| 2026-11-14 11:23:14 | [factmesh](https://pypi.org/project/factmesh/) | 0.1.1 |  | 161.7 kB | Fresh, checkable facts for AI agents, shared over an open network |
+| 2026-11-14 11:23:48 | [minimindslab-toml-inline-table-sort](https://pypi.org/project/minimindslab-toml-inline-table-sort/) | 0.1.0 | MiniMindsLab | 7.9 kB | Deterministically reorder keys inside TOML inline tables and inline array-of-ta… |
+| 2026-11-14 11:23:52 | [vink](https://pypi.org/project/vink/) | 0.1.1 | vink contributors | 450.2 kB | Turn YouTube transcripts into clean, timestamped Markdown — and full, detailed… |
+| 2026-11-14 11:24:15 | [cdsmodel](https://pypi.org/project/cdsmodel/) | 0.1.0 | Bernardo Cohen | 1.0 MB | The ISDA CDS Standard Model 1.8.3, ported to C++20. |
+| 2026-11-14 11:26:06 | [anybox-py](https://pypi.org/project/anybox-py/) | 0.11.1 | ethereal | 2.9 MB | one API for the most popular passthrough boxes |
+| 2026-11-14 11:34:33 | [antigravity-wakeup](https://pypi.org/project/antigravity-wakeup/) | 0.1.0 | non7top | 33.2 kB | Wake an idle Antigravity (agy) conversation from another process via agy agenta… |
+| 2026-11-14 11:35:21 | [wallras](https://pypi.org/project/wallras/) | 0.20.1 |  | 28.0 kB | Clients for Wallras, the AI monitoring proxy: an MCP server for AI agents and a… |
+| 2026-11-14 11:35:45 | [fanbei-mcp](https://pypi.org/project/fanbei-mcp/) | 0.1.0 | Sunny Translation <support@su… | 52.8 kB | 翻呗文档翻译 MCP Server：上传 · 报价 · 下单 · 查进度 · 下载 |
+| 2026-11-14 11:36:09 | [mxgate](https://pypi.org/project/mxgate/) | 0.3.0 |  | 34.4 kB | Python client for mxgate: email forwarding and send-as for a domain you own. |
+| 2026-11-14 11:37:06 | [tokoyo-sdk](https://pypi.org/project/tokoyo-sdk/) | 0.10.1 |  | 155.8 kB | 场外基金量化投研 SDK |
+| 2026-11-14 11:40:59 | [smalldeep-probe](https://pypi.org/project/smalldeep-probe/) | 0.0.1 |  | 1.3 kB | upload permission probe |
+| 2026-11-14 11:43:07 | [livekit-plugins-chariot](https://pypi.org/project/livekit-plugins-chariot/) | 0.1.0 | Chariot | 37.2 kB | Agent Framework plugin for Chariot speech-to-text and text-to-speech. |
+| 2026-11-14 11:43:09 | [lgcov](https://pypi.org/project/lgcov/) | 0.3.0 | Ahmed Mohy | 395.0 kB | Catch silent regressions in LangGraph agents on every PR. lgcov re-runs only th… |
+| 2026-11-14 11:43:13 | [cloudru-qa-http-client](https://pypi.org/project/cloudru-qa-http-client/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 84.2 kB | Базовый HTTP-клиент |
+| 2026-11-14 11:49:39 | [smalldeep-net](https://pypi.org/project/smalldeep-net/) | 1.0.1 | smalldeep | 30.6 kB | 把 socket 的样板代码收进对象里：地址统一、错误分级、非阻塞不抛异常、多路复用一行搞定 |
+| 2026-11-14 11:49:49 | [naiwasay](https://pypi.org/project/naiwasay/) | 0.1.0 | Zeshen Tian | 45.9 kB | A Naiwa ASCII-art speaker with the Python cowsay API and CLI. |
+| 2026-11-14 11:51:06 | [strata-python](https://pypi.org/project/strata-python/) | 0.2.0 | jburnhams | 49.9 kB | Common code for Python web server apps: OS helpers, settings, FastAPI serving,… |
+| 2026-11-14 11:51:50 | [uccharan](https://pypi.org/project/uccharan/) | 0.2.0 | Abhinav Gautam <abhinav@codeb… | 15.0 MB | Drop-in phonemiser for Piper, Kokoro and sherpa-onnx voices: 5× faster than esp… |
+| 2026-11-14 11:58:20 | [livekit-plugins-oogam](https://pypi.org/project/livekit-plugins-oogam/) | 0.1.0 | Dwet Labs <support@dwetlabs.c… | 35.4 kB | Oogam for LiveKit Agents — streaming STT with fast turn finalize, TTS and Sutra… |
+| 2026-11-14 11:59:02 | [rowlab-python-sdk](https://pypi.org/project/rowlab-python-sdk/) | 0.1.0 | Row & Reason <support@rowandr… | 134.3 kB | Typed Python client for the rowlab API: label, compare and export tabular data… |
+| 2026-11-14 12:02:04 | [gifuto.py](https://pypi.org/project/gifuto.py/) | 0.1.0 | Martin92yt | 30.3 kB | Official Python client for the Gifuto API: curated anime GIFs for Discord bots… |
+| 2026-11-14 12:03:46 | [bolo-speech](https://pypi.org/project/bolo-speech/) | 0.2.0 | The bolo Authors | 6.0 MB | A lightweight, torch-free speech server: speech-to-text, text-to-speech and VAD… |
+| 2026-11-14 12:05:41 | [langchain-adscrawl](https://pypi.org/project/langchain-adscrawl/) | 0.1.0 | AdsCrawl contributors | 21.2 kB | LangChain tool integration for AdsCrawl rendered web extraction |
+| 2026-11-14 12:05:54 | [universal-dev-security](https://pypi.org/project/universal-dev-security/) | 1.0.0 |  | 220.4 kB | One security system for every project: secrets, code, dependency and configurat… |
+| 2026-11-14 12:06:13 | [bolo-torch](https://pypi.org/project/bolo-torch/) | 0.1.0 | The bolo Authors | 109.9 kB | PyTorch engine plugin for the bolo speech server: Indic Parler-TTS, IndicF5 and… |
+| 2026-11-14 12:07:29 | [svn-obskit](https://pypi.org/project/svn-obskit/) | 0.1.0 | svnviet | 101.6 kB | Instrumentation SDK for services that report to observability-platform: workflo… |
+| 2026-11-14 12:08:58 | [cloudru-qa-explicit-wait](https://pypi.org/project/cloudru-qa-explicit-wait/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 99.3 kB | Явные ожидания для автотестов |
+| 2026-11-14 12:09:14 | [nctui](https://pypi.org/project/nctui/) | 0.1.2 | Alex Corbett | 325.2 kB | Rapid terminal viewer for weather and climate model netCDF output |
