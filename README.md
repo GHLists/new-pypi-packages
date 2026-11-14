@@ -8,38 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 05:20 UTC
+## Latest list — 2026-11-14 06:18 UTC
 
-New packages created between 2026-11-14 04:19 UTC and 2026-11-14 05:20 UTC.
+New packages created between 2026-11-14 05:20 UTC and 2026-11-14 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T05-20-31-573818Z.csv)
+[Full CSV](data/new-packages-2026-11-14T06-18-28-580609Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 03:42:19 | [fxmacrodata-public-client](https://pypi.org/project/fxmacrodata-public-client/) | 0.1.1 |  | 105.8 kB | Public FXMacroData REST and MCP client for native integrations |
-| 2026-11-14 04:28:38 | [threatwatch](https://pypi.org/project/threatwatch/) | 1.0.0 | ghoste12125 <anonymosmauros@g… | 197.1 kB | Live defensive cyber and AI threat intelligence reports from public sources |
-| 2026-11-14 04:33:28 | [odoo-addons-oca-vertical-agriculture](https://pypi.org/project/odoo-addons-oca-vertical-agriculture/) | 16.0.20261113.0 |  | 1.4 kB | Meta package for oca-vertical-agriculture Odoo addons |
-| 2026-11-14 04:33:48 | [dominusnode-haystack](https://pypi.org/project/dominusnode-haystack/) | 2.2.0 |  | 27.5 kB | DominusNode agent relay network tools for Haystack (19 tools, built on the domi… |
-| 2026-11-14 04:33:53 | [dominusnode-ironclaw](https://pypi.org/project/dominusnode-ironclaw/) | 2.2.0 |  | 29.0 kB | DominusNode agent relay network tools for IronClaw (19 tools, built on the domi… |
-| 2026-11-14 04:33:59 | [dominusnode-langchain](https://pypi.org/project/dominusnode-langchain/) | 2.2.0 |  | 24.6 kB | LangChain tools for the DominusNode AI-agent relay network (19 v2 tools on the… |
-| 2026-11-14 04:34:04 | [dominusnode-langflow](https://pypi.org/project/dominusnode-langflow/) | 2.2.0 |  | 28.4 kB | DominusNode agent relay network tools for Langflow (19 tools, built on the domi… |
-| 2026-11-14 04:41:13 | [pushikoo-pusher-email](https://pypi.org/project/pushikoo-pusher-email/) | 0.1.0 | Pushikoo | 37.1 kB | SMTP email pusher adapter for Pushikoo. |
-| 2026-11-14 04:48:12 | [agentreplayguard](https://pypi.org/project/agentreplayguard/) | 0.14.0 | AgentReplayGuard contributors | 70.0 kB | Deterministic side-effect safety testing for LangGraph agents: fault injection… |
-| 2026-11-14 04:48:22 | [localhost-cli](https://pypi.org/project/localhost-cli/) | 0.1.0 | LOCALHOST <support@localhost.… | 43.4 kB | lh: the LOCALHOST command line for deploying and managing your sites. |
-| 2026-11-14 04:53:10 | [failfirst](https://pypi.org/project/failfirst/) | 0.1.0 | Pallav Pokhriyal <pallav01@gm… | 47.2 kB | Acceptance criteria that must be proven to fail on the unfixed code before they… |
-| 2026-11-14 04:53:13 | [purrint](https://pypi.org/project/purrint/) | 0.1.1 | raidenmaister | 103.2 kB | Print images, text and QR codes on cheap Bluetooth thermal 'cat' printers (MX10… |
-| 2026-11-14 04:53:14 | [dataset-leakcheck](https://pypi.org/project/dataset-leakcheck/) | 0.2.0 | Pallav Pokhriyal | 84.8 kB | Audit train/test leakage within and across ML benchmark datasets: overlap matri… |
-| 2026-11-14 04:54:45 | [rational-wheels](https://pypi.org/project/rational-wheels/) | 0.1.1 | Rational Wheels contributors | 8.1 kB | Total arithmetic for rational numbers, infinity, and nullity based on wheels th… |
-| 2026-11-14 04:56:47 | [tablecheck](https://pypi.org/project/tablecheck/) | 0.1.0 | tablecheck contributors | 20.1 kB | Check PDF table structure: geometry-detected tables vs tagged /Table /TH /TD, C… |
-| 2026-11-14 04:58:20 | [mindslice-forge](https://pypi.org/project/mindslice-forge/) | 0.1.0 | pancerZH | 103.3 kB | Turn documents into a MindSlice workspace by driving an agent harness (Python s… |
-| 2026-11-14 05:00:17 | [fxmacrodata-platform-core](https://pypi.org/project/fxmacrodata-platform-core/) | 0.1.0 |  | 75.5 kB | Public-contract data adapters for FXMacroData platform integrations |
-| 2026-11-14 05:02:00 | [plug-play-memory](https://pypi.org/project/plug-play-memory/) | 0.2.0 | Tathagat | 110.0 kB | Self-hosted, brain-inspired memory + permissions for AI agents. MCP-native. One… |
-| 2026-11-14 05:05:36 | [llm-rapid-mlx](https://pypi.org/project/llm-rapid-mlx/) | 0.1.0 | Raullen <989846+raullenchai@u… | 18.3 kB | Run LLM prompts against a local Rapid-MLX server |
-| 2026-11-14 05:11:09 | [vine-denoising-copula](https://pypi.org/project/vine-denoising-copula/) | 0.4.0 | Houman Safaai <houman_safaai@… | 539.5 kB | Vine Denoising Copula for high-dimensional vine-copula modeling and information… |
-| 2026-11-14 05:12:52 | [py-ruvseq-omicverse](https://pypi.org/project/py-ruvseq-omicverse/) | 0.1.0 |  | 86.1 kB | Reference-validated py-RUVSeq algorithm subset |
-| 2026-11-14 05:13:23 | [primarysource](https://pypi.org/project/primarysource/) | 0.1.0 | Justin Capella | 2.2 MB | Citable primary-source libraries for agents: RFCs, NIST, USB-IF, ITU-T, Kiwix a… |
-| 2026-11-14 05:14:56 | [rimscan-cli](https://pypi.org/project/rimscan-cli/) | 1.0.0 | Rimscan | 108.2 kB | External attack-surface reconnaissance for domains you own or are authorized to… |
-| 2026-11-14 05:15:18 | [fusion-core](https://pypi.org/project/fusion-core/) | 0.12.1 |  | 123.1 kB | Fusion-Core — public technical foundation for the Fusion ecosystem (LLM client,… |
-| 2026-11-14 05:15:24 | [pluvium](https://pypi.org/project/pluvium/) | 0.1.0 | Nathan | 471.6 kB | Hour-by-hour rain forecasts for every Caribbean town: when rain starts, how lon… |
-| 2026-11-14 05:18:46 | [bisim.py](https://pypi.org/project/bisim.py/) | 0.1.0 | Bisim, Rapptz (discord.py) | 696.0 kB | The official Python library for building Bisim bots, with the discord.py 2.x AP… |
-| 2026-11-14 05:19:00 | [hermes-kanban-tui](https://pypi.org/project/hermes-kanban-tui/) | 1.0.0 | Ebbwater LLC | 109.1 kB | Read-only terminal board view for the Hermes Agent kanban |
+| 2026-11-14 05:20:41 | [py-music-omicverse](https://pypi.org/project/py-music-omicverse/) | 0.1.0 |  | 106.8 kB | Reference-validated py-MuSiC algorithm subset |
+| 2026-11-14 05:20:42 | [py-sparkx-omicverse](https://pypi.org/project/py-sparkx-omicverse/) | 0.1.0 |  | 134.6 kB | Reference-validated py-SPARKX algorithm subset |
+| 2026-11-14 05:21:53 | [py-muscat-omicverse](https://pypi.org/project/py-muscat-omicverse/) | 0.1.0 |  | 303.4 kB | Reference-validated py-muscat algorithm subset |
+| 2026-11-14 05:22:00 | [funcasino](https://pypi.org/project/funcasino/) | 0.0.1 | Eric Wu, Shuo Cao, Ronald Sze… | 81.0 kB | FunCasino is a Python package that simulates some of the most popular casino ga… |
+| 2026-11-14 05:28:16 | [libml-sample](https://pypi.org/project/libml-sample/) | 0.1.0 |  | 39.4 MB | Copies these project files into site-packages. Declares no dependencies. |
+| 2026-11-14 05:30:18 | [misheard](https://pypi.org/project/misheard/) | 0.1.0 | Aman Trivedi <amantrivedi2003… | 64.5 kB | Match Indian names and places by how they sound, across Devanagari, Tamil and R… |
+| 2026-11-14 05:32:13 | [stratiq-backtest](https://pypi.org/project/stratiq-backtest/) | 0.3.0 | StratIQ | 34.4 kB | A tiny, honest backtesting engine: long-only signal backtests with full trade l… |
+| 2026-11-14 05:37:43 | [outrun-ai](https://pypi.org/project/outrun-ai/) | 0.1.0 | Outrun LLC <support@outrun.to> | 13.0 kB | Python client for the Outrun API (OpenAI-compatible), built on the official Ope… |
+| 2026-11-14 05:37:44 | [langchain-outrun](https://pypi.org/project/langchain-outrun/) | 0.1.0 | Outrun LLC <support@outrun.to> | 14.4 kB | LangChain integration for Outrun, a prepaid OpenAI-compatible API for GPT, Clau… |
+| 2026-11-14 05:46:53 | [shuotype](https://pypi.org/project/shuotype/) | 0.5.2.2 | AiBoy <aiboy@gmail.com> | 47.8 kB | 基于阿里云语音识别的 GNOME / Wayland 桌面语音输入工具 |
+| 2026-11-14 05:47:32 | [zumen-gate-mcp](https://pypi.org/project/zumen-gate-mcp/) | 0.1.0 | neka-nat | 91.1 kB | MCP server and CLI for the zumen-gate drawing API: read, search, render, edit a… |
+| 2026-11-14 05:47:37 | [dex-connector-google-workspace-admin](https://pypi.org/project/dex-connector-google-workspace-admin/) | 0.1.0 |  | 119.8 kB | Dex-native Python connector for Google Workspace Admin |
+| 2026-11-14 05:49:01 | [dex-connector-google-youtube](https://pypi.org/project/dex-connector-google-youtube/) | 0.2.0 |  | 126.3 kB | Dex-native YouTube Data API connector |
+| 2026-11-14 05:50:29 | [dex-connector-gorgias](https://pypi.org/project/dex-connector-gorgias/) | 0.1.0 |  | 124.3 kB | Dex-native Gorgias ticket and customer connector |
+| 2026-11-14 05:51:14 | [tldw-client](https://pypi.org/project/tldw-client/) | 0.2.6 |  | 43.6 kB | Dependency-free tldw.sh asynchronous analysis client |
+| 2026-11-14 05:52:26 | [bensz-skill-identity](https://pypi.org/project/bensz-skill-identity/) | 1.0.0 | Bensz Conan | 56.0 kB | Bensz Skill Identity (BSI): signed releases, explicit trust and exact dependenc… |
+| 2026-11-14 05:53:29 | [arrow-flight-fxmacrodata](https://pypi.org/project/arrow-flight-fxmacrodata/) | 0.1.0 |  | 15.5 kB | Serve public FXMacroData responses over Apache Arrow Flight |
+| 2026-11-14 05:54:26 | [autogen-fxmacrodata](https://pypi.org/project/autogen-fxmacrodata/) | 0.1.0 |  | 17.9 kB | AutoGen tools for public FXMacroData macroeconomic and market data |
+| 2026-11-14 05:55:13 | [bigquery-fxmacrodata](https://pypi.org/project/bigquery-fxmacrodata/) | 0.1.0 |  | 18.5 kB | Load public FXMacroData responses into Google BigQuery |
+| 2026-11-14 05:55:57 | [clickhouse-fxmacrodata](https://pypi.org/project/clickhouse-fxmacrodata/) | 0.1.0 |  | 16.4 kB | Load public FXMacroData responses into ClickHouse |
+| 2026-11-14 05:56:41 | [dask-fxmacrodata](https://pypi.org/project/dask-fxmacrodata/) | 0.1.0 |  | 11.8 kB | Lazy Dask DataFrame source for public FXMacroData responses |
+| 2026-11-14 05:57:13 | [datasets-fxmacrodata](https://pypi.org/project/datasets-fxmacrodata/) | 0.1.0 |  | 12.4 kB | Build Hugging Face datasets from public FXMacroData responses |
+| 2026-11-14 05:57:41 | [dex-connector-hackernews](https://pypi.org/project/dex-connector-hackernews/) | 0.1.0 |  | 91.1 kB | Hacker News connector for Dex Flows |
+| 2026-11-14 05:58:06 | [deltalake-fxmacrodata](https://pypi.org/project/deltalake-fxmacrodata/) | 0.1.0 |  | 14.9 kB | Load public FXMacroData responses into Delta Lake tables |
+| 2026-11-14 05:58:51 | [elasticsearch-fxmacrodata](https://pypi.org/project/elasticsearch-fxmacrodata/) | 0.1.0 |  | 18.2 kB | Load public FXMacroData responses into Elasticsearch |
+| 2026-11-14 05:59:39 | [eventhubs-fxmacrodata](https://pypi.org/project/eventhubs-fxmacrodata/) | 0.1.0 |  | 16.6 kB | Publish public FXMacroData responses to Azure Event Hubs |
+| 2026-11-14 06:00:37 | [fabric-fxmacrodata](https://pypi.org/project/fabric-fxmacrodata/) | 0.1.0 |  | 13.2 kB | FXMacroData notebook and pipeline definitions for Microsoft Fabric |
+| 2026-11-14 06:01:34 | [influxdb3-fxmacrodata](https://pypi.org/project/influxdb3-fxmacrodata/) | 0.1.0 |  | 17.2 kB | Load public FXMacroData responses into InfluxDB 3 |
+| 2026-11-14 06:02:34 | [mongodb-fxmacrodata](https://pypi.org/project/mongodb-fxmacrodata/) | 0.1.0 |  | 17.4 kB | Load public FXMacroData responses into MongoDB |
+| 2026-11-14 06:03:22 | [nats-fxmacrodata](https://pypi.org/project/nats-fxmacrodata/) | 0.1.0 |  | 19.0 kB | Publish public FXMacroData responses to NATS JetStream |
+| 2026-11-14 06:04:12 | [nifi-fxmacrodata](https://pypi.org/project/nifi-fxmacrodata/) | 0.1.0 |  | 17.4 kB | Apache NiFi 2 Python processor that fetches public FXMacroData responses |
+| 2026-11-14 06:05:12 | [openai-agents-fxmacrodata](https://pypi.org/project/openai-agents-fxmacrodata/) | 0.1.0 |  | 17.5 kB | OpenAI Agents SDK tools for public FXMacroData macroeconomic and market data |
+| 2026-11-14 06:05:24 | [relayswitch](https://pypi.org/project/relayswitch/) | 0.1.0 | Uplink Switch LLC <hello@rela… | 6.7 kB | One API key for Claude Code, OpenClaw, OpenCode and every chat model, paid by c… |
+| 2026-11-14 06:05:26 | [uncensoredllm](https://pypi.org/project/uncensoredllm/) | 0.1.0 | Uplink Switch LLC <hello@unce… | 6.6 kB | Abliterated and uncensored models on one prepaid key, through the OpenAI and An… |
+| 2026-11-14 06:05:28 | [pentestllm](https://pypi.org/project/pentestllm/) | 0.1.0 | Uplink Switch LLC <hello@pent… | 6.8 kB | Security-tuned, abliterated and uncensored models on one prepaid API key, for a… |
+| 2026-11-14 06:05:55 | [opensearch-fxmacrodata](https://pypi.org/project/opensearch-fxmacrodata/) | 0.1.0 |  | 20.6 kB | Load public FXMacroData responses into OpenSearch |
+| 2026-11-14 06:06:09 | [add123-demo](https://pypi.org/project/add123-demo/) | 0.0.1 | Your Name <you@example.com> | 2.0 kB | A tiny demo library |
+| 2026-11-14 06:06:17 | [mcarchive-api](https://pypi.org/project/mcarchive-api/) | 0.1.0 | 红温的鼠鼠7891 | 6.5 kB | Unofficial library to help you consume the MCArchive API |
+| 2026-11-14 06:06:34 | [polars-fxmacrodata](https://pypi.org/project/polars-fxmacrodata/) | 0.1.0 | FXMacroData <info@fxmacrodata… | 14.9 kB | Lazy Polars IO source for FXMacroData macroeconomic and market data |
+| 2026-11-14 06:06:57 | [akash-mlperf-11](https://pypi.org/project/akash-mlperf-11/) | 0.0.0 | Your Name <you@example.com> | 1.2 kB | Dummy akash_mlperf_11 package for PyPI |
+| 2026-11-14 06:07:12 | [pubsub-fxmacrodata](https://pypi.org/project/pubsub-fxmacrodata/) | 0.1.0 |  | 16.0 kB | Publish public FXMacroData responses to Google Cloud Pub/Sub |
+| 2026-11-14 06:07:27 | [pykgdiff](https://pypi.org/project/pykgdiff/) | 0.12.1 | iiwish | 14.6 MB | git diff for knowledge graphs: the kgdiff command line, as a native binary. Com… |
+| 2026-11-14 06:07:48 | [pulsar-fxmacrodata](https://pypi.org/project/pulsar-fxmacrodata/) | 0.1.0 |  | 16.0 kB | Publish public FXMacroData responses to Apache Pulsar |
+| 2026-11-14 06:08:32 | [pyiceberg-fxmacrodata](https://pypi.org/project/pyiceberg-fxmacrodata/) | 0.1.0 |  | 15.7 kB | Load public FXMacroData responses into Apache Iceberg tables with PyIceberg |
+| 2026-11-14 06:09:16 | [questdb-fxmacrodata](https://pypi.org/project/questdb-fxmacrodata/) | 0.1.0 |  | 16.8 kB | Load public FXMacroData responses into QuestDB |
+| 2026-11-14 06:09:17 | [tailtune](https://pypi.org/project/tailtune/) | 0.0.1 | tailtune maintainers | 85.6 kB | Fine-tune LLMs with far less forgetting, and prove it. |
+| 2026-11-14 06:09:46 | [mcp-server-macos](https://pypi.org/project/mcp-server-macos/) | 0.0.1 | Jean Loui Bernard Silva de Je… | 4.4 kB | An MCP server for automating and controlling macOS. |
+| 2026-11-14 06:10:29 | [rabbitmq-fxmacrodata](https://pypi.org/project/rabbitmq-fxmacrodata/) | 0.1.0 |  | 16.8 kB | Publish public FXMacroData responses to RabbitMQ |
+| 2026-11-14 06:10:43 | [whiff-python](https://pypi.org/project/whiff-python/) | 0.1.0 | Sin Anima | 52.6 MB | Identify a file or bytes and return a whiff/1 report. |
+| 2026-11-14 06:11:13 | [redis-streams-fxmacrodata](https://pypi.org/project/redis-streams-fxmacrodata/) | 0.1.0 |  | 16.5 kB | Publish public FXMacroData responses to Redis Streams |
+| 2026-11-14 06:12:06 | [sqlite-fxmacrodata](https://pypi.org/project/sqlite-fxmacrodata/) | 0.1.0 |  | 17.3 kB | Load public FXMacroData responses into SQLite |
+| 2026-11-14 06:14:41 | [faker-jobs](https://pypi.org/project/faker-jobs/) | 0.13.0 | jctranc | 11.0 MB | A custom Faker provider for simulating job postings: roles, skills, salaries, b… |

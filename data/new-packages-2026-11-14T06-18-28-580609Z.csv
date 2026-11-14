@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T05:20:41Z,py-music-omicverse,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",106847,Reference-validated py-MuSiC algorithm subset
+2026-11-14T05:20:42Z,py-sparkx-omicverse,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",134598,Reference-validated py-SPARKX algorithm subset
+2026-11-14T05:21:53Z,py-muscat-omicverse,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",303381,Reference-validated py-muscat algorithm subset
+2026-11-14T05:22:00Z,funcasino,0.0.1,"Eric Wu, Shuo Cao, Ronald Szeto, Ruikun Xu, Jack Jiang",GPL-3.0-only,80964,"FunCasino is a Python package that simulates some of the most popular casino games, including blackjack, roulette, and slots, for educational purposes."
+2026-11-14T05:28:16Z,libml-sample,0.1.0,,,39382799,Copies these project files into site-packages. Declares no dependencies.
+2026-11-14T05:30:18Z,misheard,0.1.0,Aman Trivedi <amantrivedi2003@gmail.com>,MIT,64454,"Match Indian names and places by how they sound, across Devanagari, Tamil and Roman script"
+2026-11-14T05:32:13Z,stratiq-backtest,0.3.0,StratIQ,MIT,34377,"A tiny, honest backtesting engine: long-only signal backtests with full trade logs and buy-and-hold comparison."
+2026-11-14T05:37:43Z,outrun-ai,0.1.0,Outrun LLC <support@outrun.to>,MIT,12961,"Python client for the Outrun API (OpenAI-compatible), built on the official OpenAI SDK."
+2026-11-14T05:37:44Z,langchain-outrun,0.1.0,Outrun LLC <support@outrun.to>,MIT,14393,"LangChain integration for Outrun, a prepaid OpenAI-compatible API for GPT, Claude, Gemini, DeepSeek and more"
+2026-11-14T05:46:53Z,shuotype,0.5.2.2,AiBoy <aiboy@gmail.com>,,47779,基于阿里云语音识别的 GNOME / Wayland 桌面语音输入工具
+2026-11-14T05:47:32Z,zumen-gate-mcp,0.1.0,neka-nat,MIT,91081,"MCP server and CLI for the zumen-gate drawing API: read, search, render, edit and convert JWW, DWG, DXF, SXF and PDF drawings from Claude and other MCP clients"
+2026-11-14T05:47:37Z,dex-connector-google-workspace-admin,0.1.0,,MIT,119769,Dex-native Python connector for Google Workspace Admin
+2026-11-14T05:49:01Z,dex-connector-google-youtube,0.2.0,,MIT,126297,Dex-native YouTube Data API connector
+2026-11-14T05:50:29Z,dex-connector-gorgias,0.1.0,,MIT,124268,Dex-native Gorgias ticket and customer connector
+2026-11-14T05:51:14Z,tldw-client,0.2.6,,MIT,43607,Dependency-free tldw.sh asynchronous analysis client
+2026-11-14T05:52:26Z,bensz-skill-identity,1.0.0,Bensz Conan,"MIT License Copyright (c) 2026 Bensz Conan Permission is hereby granted, free of charge, to any per…",56003,"Bensz Skill Identity (BSI): signed releases, explicit trust and exact dependency locks"
+2026-11-14T05:53:29Z,arrow-flight-fxmacrodata,0.1.0,,MIT,15490,Serve public FXMacroData responses over Apache Arrow Flight
+2026-11-14T05:54:26Z,autogen-fxmacrodata,0.1.0,,MIT,17859,AutoGen tools for public FXMacroData macroeconomic and market data
+2026-11-14T05:55:13Z,bigquery-fxmacrodata,0.1.0,,MIT,18537,Load public FXMacroData responses into Google BigQuery
+2026-11-14T05:55:57Z,clickhouse-fxmacrodata,0.1.0,,MIT,16377,Load public FXMacroData responses into ClickHouse
+2026-11-14T05:56:41Z,dask-fxmacrodata,0.1.0,,MIT,11847,Lazy Dask DataFrame source for public FXMacroData responses
+2026-11-14T05:57:13Z,datasets-fxmacrodata,0.1.0,,MIT,12450,Build Hugging Face datasets from public FXMacroData responses
+2026-11-14T05:57:41Z,dex-connector-hackernews,0.1.0,,MIT,91095,Hacker News connector for Dex Flows
+2026-11-14T05:58:06Z,deltalake-fxmacrodata,0.1.0,,MIT,14911,Load public FXMacroData responses into Delta Lake tables
+2026-11-14T05:58:51Z,elasticsearch-fxmacrodata,0.1.0,,MIT,18235,Load public FXMacroData responses into Elasticsearch
+2026-11-14T05:59:39Z,eventhubs-fxmacrodata,0.1.0,,MIT,16630,Publish public FXMacroData responses to Azure Event Hubs
+2026-11-14T06:00:37Z,fabric-fxmacrodata,0.1.0,,"MIT License Copyright (c) 2026 Robert Tidball Permission is hereby granted, free of charge, to any…",13164,FXMacroData notebook and pipeline definitions for Microsoft Fabric
+2026-11-14T06:01:34Z,influxdb3-fxmacrodata,0.1.0,,MIT,17242,Load public FXMacroData responses into InfluxDB 3
+2026-11-14T06:02:34Z,mongodb-fxmacrodata,0.1.0,,MIT,17380,Load public FXMacroData responses into MongoDB
+2026-11-14T06:03:22Z,nats-fxmacrodata,0.1.0,,MIT,19006,Publish public FXMacroData responses to NATS JetStream
+2026-11-14T06:04:12Z,nifi-fxmacrodata,0.1.0,,MIT,17389,Apache NiFi 2 Python processor that fetches public FXMacroData responses
+2026-11-14T06:05:12Z,openai-agents-fxmacrodata,0.1.0,,MIT,17482,OpenAI Agents SDK tools for public FXMacroData macroeconomic and market data
+2026-11-14T06:05:24Z,relayswitch,0.1.0,Uplink Switch LLC <hello@relayswitch.io>,MIT,6709,"One API key for Claude Code, OpenClaw, OpenCode and every chat model, paid by card or crypto, through the OpenAI and Anthropic SDKs."
+2026-11-14T06:05:26Z,uncensoredllm,0.1.0,Uplink Switch LLC <hello@uncensoredllm.ai>,MIT,6622,"Abliterated and uncensored models on one prepaid key, through the OpenAI and Anthropic SDKs. Priced per token, no subscription."
+2026-11-14T06:05:28Z,pentestllm,0.1.0,Uplink Switch LLC <hello@pentestllm.ai>,MIT,6805,"Security-tuned, abliterated and uncensored models on one prepaid API key, for authorized penetration testing, red teaming, bug bounty and CTF work."
+2026-11-14T06:05:55Z,opensearch-fxmacrodata,0.1.0,,MIT,20644,Load public FXMacroData responses into OpenSearch
+2026-11-14T06:06:09Z,add123-demo,0.0.1,Your Name <you@example.com>,MIT,2046,A tiny demo library
+2026-11-14T06:06:17Z,mcarchive-api,0.1.0,红温的鼠鼠7891,MIT,6454,Unofficial library to help you consume the MCArchive API
+2026-11-14T06:06:34Z,polars-fxmacrodata,0.1.0,FXMacroData <info@fxmacrodata.com>,"MIT License Copyright (c) 2026 FXMacroData Permission is hereby granted, free of charge, to any per…",14865,Lazy Polars IO source for FXMacroData macroeconomic and market data
+2026-11-14T06:06:57Z,akash-mlperf-11,0.0.0,Your Name <you@example.com>,,1154,Dummy akash_mlperf_11 package for PyPI
+2026-11-14T06:07:12Z,pubsub-fxmacrodata,0.1.0,,MIT,15987,Publish public FXMacroData responses to Google Cloud Pub/Sub
+2026-11-14T06:07:27Z,pykgdiff,0.12.1,iiwish,MIT,14582469,"git diff for knowledge graphs: the kgdiff command line, as a native binary. Compare two graph files from the terminal, CI, or as a shareable HTML report."
+2026-11-14T06:07:48Z,pulsar-fxmacrodata,0.1.0,,MIT,16013,Publish public FXMacroData responses to Apache Pulsar
+2026-11-14T06:08:32Z,pyiceberg-fxmacrodata,0.1.0,,MIT,15709,Load public FXMacroData responses into Apache Iceberg tables with PyIceberg
+2026-11-14T06:09:16Z,questdb-fxmacrodata,0.1.0,,MIT,16774,Load public FXMacroData responses into QuestDB
+2026-11-14T06:09:17Z,tailtune,0.0.1,tailtune maintainers,Apache-2.0,85610,"Fine-tune LLMs with far less forgetting, and prove it."
+2026-11-14T06:09:46Z,mcp-server-macos,0.0.1,Jean Loui Bernard Silva de Jesus <contact@jeanloui.dev>,MIT,4364,An MCP server for automating and controlling macOS.
+2026-11-14T06:10:29Z,rabbitmq-fxmacrodata,0.1.0,,MIT,16791,Publish public FXMacroData responses to RabbitMQ
+2026-11-14T06:10:43Z,whiff-python,0.1.0,Sin Anima,MIT,52584469,Identify a file or bytes and return a whiff/1 report.
+2026-11-14T06:11:13Z,redis-streams-fxmacrodata,0.1.0,,MIT,16462,Publish public FXMacroData responses to Redis Streams
+2026-11-14T06:12:06Z,sqlite-fxmacrodata,0.1.0,,MIT,17264,Load public FXMacroData responses into SQLite
+2026-11-14T06:14:41Z,faker-jobs,0.13.0,jctranc,MIT,10960164,"A custom Faker provider for simulating job postings: roles, skills, salaries, benefits, companies and locations"
