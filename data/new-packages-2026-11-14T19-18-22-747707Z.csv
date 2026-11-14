@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T17:44:50Z,fuzlog,0.1.0,coredegon,MIT,39298,Simple and enjoyable Python library for fuzzy logic.
+2026-11-14T18:19:00Z,loma-lang,1.1.0,Manuel Lomartire,MIT,87298,LOMA: a deterministic text language for music that compiles to MIDI
+2026-11-14T18:20:48Z,neurosymbolic-arithmetic,0.1.0,outlawsujith,MIT,33578,"Neurosymbolic AI from scratch in NumPy: a neural net learns digits through differentiable symbolic reasoning, with an explainable logic reasoner."
+2026-11-14T18:21:05Z,sindhi-tokenizer,1.1.0,"Ali Nawaz, Muqadas Fareed, Soonh Sadaf",MIT,72611,A SentencePiece Unigram tokenizer and lightweight Python SDK purpose-built for Sindhi.
+2026-11-14T18:22:14Z,neuralt-work,0.1.0,Aquilesinho,"MIT License Copyright (c) 2026 Aquilesinho Permission is hereby granted, free of charge, to any per…",19348,A lightweight neural-network learning library for Python.
+2026-11-14T18:23:07Z,scrapelyserp,0.1.0,,MIT,236547,"Official Python SDK for the Scrapely API: product, price and stock data, structured search results, and watchlists that alert on change."
+2026-11-14T18:23:18Z,trooth-verify,0.4.0,"Trooth, LLC",Apache-2.0,112323,"Check a Trooth witness statement yourself: Ed25519 signature, key lifecycle, subject, counts, mapping and manifest digests, offline bundles. The rules of docs/VERIFY.md. Also trooth_guard, the guard…"
+2026-11-14T18:23:28Z,databricks-explore,0.5.0,Thomas Slater,MIT,2810228,"Local Unity Catalog explorer: browse tables, draw relationships and run queries on a canvas."
+2026-11-14T18:25:50Z,monograph,0.1.0,Bonnie Bingham,MIT,2082650,"Turn a personal diary into a memoir — explore it, find its arcs, draft it, and narrate it in your own voice. Local-first."
+2026-11-14T18:26:26Z,readanydoc,0.1.0,readanydoc contributors,Apache-2.0,1121615,"Document parsing and extraction with vision models: an open engine around Claude (or any model), with a Reducto-compatible API"
+2026-11-14T18:27:51Z,brushline,0.1.1,UBC FRESH Lab <noreply@example.org>,Apache-2.0,1208259,Decision support for vegetation management along linear infrastructure corridors
+2026-11-14T18:28:46Z,tenderkit,0.1.0,,Apache-2.0,224391,"Collect, filter and read Polish public procurement notices and documents"
+2026-11-14T18:30:02Z,jetbrains-pulumi-aws-acm-certificate,999.9.9,,,985,Stub package that mitigates Dependency Confusion attacks
+2026-11-14T18:30:53Z,bb-studio,1.0.0,,MIT,17620,"Official Python SDK for BB-Studio (Data CRUD, Transactions, End-User Auth, Storage Buckets, Cloud Functions & Telemetry)"
+2026-11-14T18:34:23Z,edgar-pit-clock,0.1.0,Starling Quantitative Research <founder@starlingquant.com>,MIT,20836,"Zero-dependency point-in-time SEC EDGAR acceptanceDateTime to NYSE trading-session router, One-Document-One-Witness accession normalizer, and Purged Walk-Forward splitter."
+2026-11-14T18:36:28Z,pysx-framework,0.1.0,JMS Apps,MIT,350176,"Server-side reactive renderer for Python, templated with PEP 750 t-strings"
+2026-11-14T18:39:42Z,onnxocr-ppocrv6,0.0.1,Your Name <your.email@example.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",65273127,ONNX-based OCR with bundled PP-OCRv6 small models.
+2026-11-14T18:42:56Z,custom-timezone-fdg,0.1.0,Hua Chen,MIT,36912,"Configurable business time zones and DST-aware datetime utilities, with optional Django integration"
+2026-11-14T18:43:23Z,blueprint-pbi,0.10.1,,MIT,332657,"Declarative, deterministic Power BI (PBIP/PBIR) report layouts."
+2026-11-14T18:46:49Z,atlassian-toolkit,0.0.1,,MIT,196433070,"Python SDK for Jira, Confluence, Bitbucket, Trello and Atlassian Admin (Cloud and Data Center), built on the atl Rust core"
+2026-11-14T18:47:04Z,bd-editor,0.1.0,BD-Editor contributors,MIT,424017,"A secure, configurable rich-text editor for Django admin and forms."
+2026-11-14T18:48:43Z,tg-sqlite-sync,0.1.1,Poorna Vijaya,MIT,41478,Zero-dependency async SQLite cloud backup and auto-restore to private Telegram channels for ephemeral bot hosts.
+2026-11-14T18:51:24Z,pretoolkit,0.1.0,Octacity .LUCID team,MIT,14213,"Composable, reproducible data preprocessing for machine learning."
+2026-11-14T18:55:56Z,ratchet-authz-autogen,0.1.0,Manideep Pendyala,MIT,6453,AutoGen intervention-handler adapter for the Ratchet authorization broker.
+2026-11-14T18:55:57Z,ratchet-authz-core,0.1.0,Manideep Pendyala,MIT,40249,Framework-agnostic authorization broker for multi-agent LLM delegation.
+2026-11-14T18:55:58Z,ratchet-authz-crewai,0.1.0,Manideep Pendyala,MIT,6328,CrewAI tool-hook adapter for the Ratchet authorization broker.
+2026-11-14T18:55:59Z,ratchet-authz-langgraph,0.1.0,Manideep Pendyala,MIT,6580,LangGraph middleware adapter for the Ratchet authorization broker.
+2026-11-14T18:56:20Z,ggtree-py,0.1.0,"Guangchuang Yu, Tommy Tsan-Yuk Lam, Shuangbin Xu",Artistic-2.0,348974,Grammar of Graphics for Phylogenetic Trees in Python — an R-compatible port of Bioconductor ggtree.
+2026-11-14T18:56:47Z,cavi-premiere-mcp,0.1.0,CAVI AI,MIT,138023,MCP server for Adobe Premiere Pro: scripts over an Adobe Bridge relay and ProRes cuts from clip lists
+2026-11-14T18:57:18Z,cavi-after-effects-mcp,0.1.0,CAVI AI,MIT,175170,MCP server for headless Adobe After Effects: scripts with reports and verified renders
+2026-11-14T18:57:55Z,rheon,1.5.0,Hans Gilde,Apache-2.0,12826,Online models for streaming time series: the new name of polars-online
+2026-11-14T18:57:58Z,ktl,0.64.0,Noel McLoughlin,Apache-2.0,1764433,"Knowledge Trust Ladder (KTL): agent skills that keep a LOKF knowledge bundle true, and record who checked each claim."
+2026-11-14T18:59:01Z,pysvlang,0.1.0,Mayur Kubavat,Apache-2.0,8747665,"Python bindings for svlang, a pure-Rust IEEE 1800-2023 SystemVerilog front end"
+2026-11-14T19:00:49Z,kadi-apy-helper,0.1.0,Adam Reupert,MIT,9763,Contains a set of functions and helper scripts to ease the usage and interaction with Kadi4mat through the Kadi-APY / Kadi CLI manager.
+2026-11-14T19:00:49Z,recusal-langgraph,0.1.0,Philip Paz <philip.paz@gmail.com>,Apache-2.0,33349,"Recusal gate for LangGraph: judge every ToolNode call at execution time, refuse before it runs, and optionally put each decision on a hash-chained audit log."
+2026-11-14T19:04:07Z,recusal-langchain,0.1.0,Philip Paz <philip.paz@gmail.com>,Apache-2.0,20306,"Recusal gate for LangChain create_agent: the recusal-langgraph ToolNode gate as tool-call middleware, refusing a call before it runs and optionally putting each decision on a hash-chained audit log."
+2026-11-14T19:04:28Z,knowledge-trust-ladder,0.64.0,Noel McLoughlin,Apache-2.0,3713,"Knowledge Trust Ladder (KTL) under the repository's name: installs ktl, the package that carries the six agent skills."
+2026-11-14T19:04:59Z,speclab-spectrum-analyzer,0.2.0,Subrat Sahu <subratsahu195@gmail.com>,"MIT License Copyright (c) 2026 SpecLab contributors Permission is hereby granted, free of charge, t…",20821,Scientific IR and Raman spectrum analysis toolkit
+2026-11-14T19:07:24Z,myPGM,2.0.0,"Antoine Hilberer <antoine.hilberer@cea.fr>, Alexis Forestier <alexis.forestier@cea.fr>",GPL-3.0-only,3486177,Fit spectroscopic pressure gauges and follow pressure in high-pressure experiments
+2026-11-14T19:07:49Z,recusal-openai-agents,0.1.0,Philip Paz <philip.paz@gmail.com>,Apache-2.0,31591,"Recusal gate for the OpenAI Agents SDK: judge every function tool call in a tool input guardrail, refuse before it runs, and optionally put each decision on a hash-chained audit log."
+2026-11-14T19:10:57Z,anonix,0.1.0,"Adithya Nangarath, Nikhilesh Kalahasti",Apache-2.0,160856,"Declarative, policy-driven, in-memory data masking and k-anonymity library for JSON, XML, YAML, and CSV."
+2026-11-14T19:11:17Z,recusal-openai-agents-mcp,0.1.0,Philip Paz <philip.paz@gmail.com>,Apache-2.0,32589,"Recusal gate for MCP tools on an OpenAI Agents SDK agent: judge each local MCP server call and each hosted MCP approval, refuse before it runs, and optionally put each decision on a hash-chained audi…"
+2026-11-14T19:13:37Z,phys-ai-dataconverter,0.1.0,Anand Krishniyer,MIT,60155,"Convert robot recordings (ROS 2 MCAP) into training datasets (LeRobot v3): cameras, joint state and actions aligned by capture time"
+2026-11-14T19:13:49Z,invarsec,0.1.0,"""InvarSec, Inc."" <vikasg@invarsec.com>",,3070,In-line Layer 7 Transactional Write-Firewall for Autonomous AI Agents and MCP Protocols
+2026-11-14T19:14:28Z,refraktal,0.0.1,Adhish Thite,,2450,"Refraktal: a meta-harness. One prompt in, a spectrum of agents out. (Early placeholder.)"
+2026-11-14T19:14:32Z,recusal-openai,0.1.0,Philip Paz <philip.paz@gmail.com>,Apache-2.0,28162,"Recusal gate for the OpenAI API: judge every function call of a Responses or Chat Completions loop you own, refuse before it runs, and optionally put each decision on a hash-chained audit log."
+2026-11-14T19:18:12Z,sw-mlp,1.0.0,,MIT,37612,A multilayer perceptron implemented with Numpy.
