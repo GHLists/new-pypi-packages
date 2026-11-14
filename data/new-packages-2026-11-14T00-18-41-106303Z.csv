@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T23:27:55Z,unipan,0.0.1,Nagendra Pratap Singh,,2627,UniPan: reference-anchored pangenome toolkit (name reserved; code will be released with the publication)
+2026-11-13T23:30:31Z,lexiafrik,2.0.0,XEL SOFT AI,MIT,34631,Python SDK and command line for LexiAfrik: speech-to-text for African languages
+2026-11-13T23:31:48Z,telonyte-brain,0.1.1,,,3760,B.R.A.I.N. V1 HTTP client for Python.
+2026-11-13T23:32:57Z,culbm,0.0.0,Ricardo Frantz,Apache-2.0,10655,"Python bindings for cuLBM, lattice Boltzmann building blocks for CPUs and GPUs (name reserved; first release in preparation)"
+2026-11-13T23:32:57Z,hibana,0.0.1,"Yahya Emara, Chi-Chih Chang, Abdelfattah Lab",Apache-2.0,10891,Hibana: fast local inference for agents on NVIDIA GB10 (DGX Spark). Placeholder: install from GitHub for now.
+2026-11-13T23:32:59Z,sharar-eval,0.0.1,"Yahya Emara, Chi-Chih Chang, Abdelfattah Lab",Apache-2.0,10905,sharar-eval: engine-agnostic HTTP evaluations for local inference servers. Placeholder: install from GitHub for now.
+2026-11-13T23:33:42Z,t7-agent,0.1.2,Byteramp,Copyright (c) 2026 Byteramp. All rights reserved. The source code in this repository is published s…,122617,"Triple Seven agent by Byteramp: threat modeling, verified fixes and proof for every pull request. Your code never leaves your environment."
+2026-11-13T23:41:06Z,cdktn-bundler-local,0.1.0,cdktn-io,MPL-2.0,76151,Host-process asset bundler for CDK Terrain
+2026-11-13T23:42:27Z,isau,1.0.1,Isaac Martins Brito Sousa <isaac.legalzim10@gmail.com>,MIT,15195,A toolkit that do you to program in almost all languages
+2026-11-13T23:43:41Z,pycopykat,0.2.0,"Jieshen Xian <lucyagune3@gmail.com>, OmicVerse Team <contact@omicos.cn>",GPL-2.0-or-later,12567610,"A Python implementation of CopyKAT (Gao et al., Nat Biotechnol 2021) that reproduces R copykat 1.2.5: copy-number profiles and aneuploid/diploid calls of single cells from scRNA-seq counts."
+2026-11-13T23:44:35Z,leapp-rt,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1067,Zero version placeholder for leapp_rt
+2026-11-13T23:48:22Z,8192,0.0.1,,MIT,3838,128x64: AI inference with a great CLI and SDK. Placeholder release.
+2026-11-13T23:49:12Z,pytest-playwright-pause,0.1.0,Michael Bianco,,9559,Pause Playwright tests before fixture teardown so the inspector still has a live page
+2026-11-13T23:54:39Z,telonyte-brain-langchain,0.1.0,,UNLICENSED,4971,LangChain retriever adapter for B.R.A.I.N. V1.
+2026-11-13T23:54:40Z,telonyte-brain-llamaindex,0.1.0,,UNLICENSED,5054,LlamaIndex retriever adapter for B.R.A.I.N. V1.
+2026-11-13T23:56:25Z,openstudio-si,0.4.2,PNNL,BSD-3-Clause,20990986,"OpenStudio SI harness with MCP runtime, host adapters, skills, and knowledge."
+2026-11-13T23:57:51Z,joist-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,19049,"Connect Joist to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Joist API key needed."
+2026-11-13T23:58:48Z,labelsim,0.1.0,José Acerbi Almeida Neto,GPL-3.0-only,78475,"Similarity measures between binary labels of multi-label data, computed from the contingency table"
+2026-11-14T00:01:01Z,gisel-anchor,0.2.0,,Apache-2.0 WITH LLVM-exception,336003,Pinned LLVM GlobalISel facts: rule import and the U-side oracle
+2026-11-14T00:01:13Z,idealclima,0.1.0,crug80 <claudio@cr-tech.it>,MIT,39467,Async Modbus library for Idealclima fan coil units (Comfosplit IKARO HW and Radiantore SKUDO DC Inverter)
+2026-11-14T00:01:34Z,gisel-ab,0.9.0,nodecoda,Apache-2.0 WITH LLVM-exception,1020625,A/B workbench for LLVM GlobalISel legalizer rules
+2026-11-14T00:05:55Z,sageattention-rocm,2.2.0.post1,SageAttention team; ROCm port by Eddie Zhou,Apache-2.0,78342,"SageAttention (8-bit attention, drop-in for SDPA) on AMD GPUs with ROCm, Linux and Windows: imports as `sageattention`, nothing to compile."
+2026-11-14T00:08:00Z,databay-cli,0.1.0,,Apache-2.0,855876,"Databay SDK and the databay CLI, generated from the Databay client contract"
+2026-11-14T00:10:08Z,civ-v-llm-harness,2.14.3,,MIT,1839797,MCP server + harness letting an LLM play Sid Meier's Civilization V (Linux) via the FireTuner Lua socket
+2026-11-14T00:10:18Z,simplydata,0.1.0,Manish Prakash Victor,MIT,521878,"Simple words for data science in Python: data cleaning, tables, charts and statistics, built on pandas, Polars, NumPy, SciPy, matplotlib and seaborn."
+2026-11-14T00:12:02Z,damia-sdk,0.1.0,,,63744,Async Python SDK for DaMIA APIs
+2026-11-14T00:12:52Z,offtarget,0.1.0,Spencer H. Bryngelson,MIT,6724161,"Known OpenMP and OpenACC offload compiler problems: look up support, search issues"
+2026-11-14T00:16:52Z,feffgpu,0.2.0,N. Marcella,MIT,162586464,"FEFF 8.5L's EXAFS pipeline on NVIDIA GPUs in PyTorch, with MD-EXAFS and RMC-EXAFS built on it"
+2026-11-14T00:17:37Z,hio-sdk,1.0.0,Henglos,,21663,SDK for writing HenglosIO component actions and triggers in MicroPython.
