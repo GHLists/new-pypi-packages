@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T16:19:46Z,digpdf,0.1.0,,Proprietary - free to use (see LICENSE),71224465,A PDF written as HTML for an agent to read
+2026-11-14T16:20:23Z,cloudru-qa-http-client-structlog,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,44025,Структурированные логи для HTTP-клиента
+2026-11-14T16:20:41Z,flocking,0.1.0,Flocking contributors,MIT OR Apache-2.0,4280998,"Multithreaded off-road vehicle navigation, collision safety and formations in Rust, driven from Python"
+2026-11-14T16:22:24Z,kaleidoscope-mcp,0.1.0,Kaleidoscope Protects Inc.,MIT,10841,Model Context Protocol server for Kaleidoscope: protect code and get a Scope-Score from any AI coding tool.
+2026-11-14T16:22:54Z,agentcart,0.1.0,Faiz Imam,Apache-2.0,202527,"Security-first MCP server that lets AI agents shop for you: the agent prepares checkout, you approve payment (UPI) on your phone."
+2026-11-14T16:23:13Z,kformat-telebot,0.1.0,KFormat contributors,MIT,10799,"Short Telegram HTML formatting, tables, inline keyboards, and Rich Message JSON helpers for pyTelegramBotAPI."
+2026-11-14T16:24:31Z,Team2-Virtual-Pet,0.1.0,,,57003,This package gives you an interactable virtual pet!
+2026-11-14T16:28:25Z,lupaxa-passive-aggressive-email,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",67130,"Offline command-line generator of professionally polite, passive-aggressive workplace email."
+2026-11-14T16:30:33Z,cloudru-qa-pydantic-extensions,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,33168,Расширения для Pydantic
+2026-11-14T16:32:14Z,robot-use,0.0.1,Fenon Robotics,,2499,Robot-use Python package by Fenon Robotics.
+2026-11-14T16:35:49Z,amrpredict,0.3.0,Hamza,"MIT License Copyright (c) 2026 Hamza Permission is hereby granted, free of charge, to any person ob…",12282241,Antimicrobial resistance prediction from bacterial genomes and MIC metadata
+2026-11-14T16:40:31Z,steuermaschine,0.0.1,,,3901920,"The artificial helmsman: a coordinator CLI that steers work from a change to a live release, for AI agents and a human owner."
+2026-11-14T16:44:44Z,second-brain-keeper,1.1.1,Luca Di Leo <lucadileo70@gmail.com>,GPL-3.0-or-later,224923,"Universal Second Brain governance engine, link validator and maintenance toolkit for Obsidian and document vaults"
+2026-11-14T16:45:18Z,cloudru-qa-logging-context,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,50978,Разделение контекста логов при параллельном запуске автотестов
+2026-11-14T16:46:26Z,verySimpleLogs,0.1.0,Mistic,Apache-2.0,12570,Simple python class for easy and fast logging
+2026-11-14T16:46:47Z,tennis-mcp,0.1.0,Saurabh Kumar,MIT,41001,"Zero-clone Model Context Protocol (MCP) server for 200,000+ ATP matches (1968-2026), Match Charting Project shot/rally metrics, H2H, and advanced analytics."
+2026-11-14T16:49:14Z,madeenan-sdk,0.1.0,Madeenan,MIT,24993,"Typed Python client for the Madeenan Quran and Hadith API: source search, Quran, Hadith, Tafsir, and dua lookups, quote search, and cited chat"
+2026-11-14T16:49:15Z,madeenan-mcp,0.1.0,Madeenan,MIT,25894,"Read-only MCP server for the Madeenan Quran and Hadith API: search and read Quran, Hadith, Tafsir, and dua sources with citations"
+2026-11-14T16:49:57Z,fib-abia-planners,0.1.0,Santiago Marco-Sola <santiago.marco@upc.edu>,GPL-2.0-or-later,3753786,FF 2.3 y Metric-FF 2.1 (Jörg Hoffmann) con los ejemplos de planificación de la asignatura ABIA (UPC)
+2026-11-14T16:51:53Z,prism-code-review,2.0.0,PRISM contributors,MIT,316551,Local pre-commit multi-agent code review (regex + AI providers)
+2026-11-14T16:53:52Z,agent2playwright,0.1.0,agent2playwright Contributors,Apache-2.0,65765,"Convert browser-agent trajectories (browser-use, Playwright MCP) into certified deterministic pytest-Playwright tests."
+2026-11-14T16:54:37Z,cloudru-qa-mcp-client,1.0.0,Andrew Fernatiy <akfernatii@cloud.ru>,Apache-2.0,38569,Асинхронный клиент для серверов MCP
+2026-11-14T16:57:17Z,chaosengine-harness,0.0.1,Mohab Mohie,MIT,2271,"Placeholder for ChaosEngine, a standalone agentic harness for everyone in the SDLC. Not yet released."
+2026-11-14T17:02:36Z,akari-terminal,0.1.0,,Proprietary,94770,akari: the Akari terminal from the command line
+2026-11-14T17:04:40Z,cloudru-qa-pytest-notifier,1.0.0,Алексей Кирютин <ayukiryutin@cloud.ru>,Apache-2.0,28112,Pytest-плагин для уведомлений о результатах прогона тестов
+2026-11-14T17:06:03Z,signafaide,0.2.1,,Apache-2.0,500099,"Signed, chained records of what your AI agents decided. Hash-only by default."
+2026-11-14T17:07:00Z,gwbasickernel,0.1.0,Eremey Valetov,MIT,35244,Jupyter kernel for GW-BASIC 2026 with inline graphics
+2026-11-14T17:11:40Z,taintwarden,0.1.0,TaintWarden contributors,MIT,119209,"Data-flow firewall for AI agents: blocks indirect prompt injection by tracking where every tool argument came from. Native Pydantic AI capability, Logfire telemetry, HTTP sidecar and CLI."
+2026-11-14T17:13:20Z,backend-guard,1.0.0,Backend Guard Core Maintainers <maintainers@backendguard.org>,MIT,169412,"Universal Backend Codebase Auditor (Backend Guard) - Static architecture, security, and quality analysis."
+2026-11-14T17:15:04Z,cloudru-qa-ssh-client,1.0.0,akfernatii <akfernatii@cloud.ru>,Apache-2.0,50588,Простой SSH-клиент для автотестов
+2026-11-14T17:16:25Z,orca-design-system,0.4.1,Sami Ferr,MIT AND LGPL-3.0-only AND LicenseRef-Ubuntu-Font-1.0,3777013,"ORCA: a Django design system whose every element documents when and how to use it, for developers and AI coding agents."
+2026-11-14T17:16:48Z,mcp-openapi-generator,1.0.0,,MIT,46749,"MCP server for OpenAPI code generation (openapi-generator, swagger-codegen) and validation (Spectral, Vacuum)"
+2026-11-14T17:18:55Z,textkeel,0.0.1,,,3093,"Structured text extraction from PDF, Office, HTML, Markdown, CSV, text and images, for Arabic and English. In development; this release is a placeholder."
