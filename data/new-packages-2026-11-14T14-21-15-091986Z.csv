@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T13:20:08Z,suvoro,0.1.0,Blueberry Intelligence & Automation <ada@blueberryia.com>,MIT,337784,"Autonomous security for the vibecoding era: find it, prove it, patch it."
+2026-11-14T13:22:52Z,solvapay,0.1.0.dev5,SolvaPay,MIT,853158,"SolvaPay for Python: paywalls, usage billing, webhooks and paid MCP tools."
+2026-11-14T13:23:06Z,paper-research-mcp,0.1.1,DranxX,MIT,127907,"Paper-Research-MCP — federated academic research retrieval MCP per the Reference.md expansion plan (Tier 1 international + indonesia_research + China platforms + premium connectors). 30 connectors, 3…"
+2026-11-14T13:25:28Z,aperioflow,0.1.0,,MIT,13994,Report errors from Python to AperioFlow. No dependencies.
+2026-11-14T13:25:36Z,dz-arabic-slug,0.1.0,Oussama Boudinar <lionweb01@gmail.com>,MIT,12040,Convert Arabic text into URL-friendly slugs with proper transliteration.
+2026-11-14T13:32:15Z,anonymization-lib,1.4.0,Miguel,MIT,89436,Library for data anonymization with Spark
+2026-11-14T13:32:24Z,json-logs-viewer,0.2.0,lukmiik,MIT,125874,Interactive terminal JSONL log viewer with filter queries and keyboard-first navigation.
+2026-11-14T13:32:53Z,django-yadialogs,0.1.0,Igor Starikov <idlesign@yandex.ru>,BSD-3-Clause,45564,Yandex Dialogs integration for Django
+2026-11-14T13:35:55Z,gdare2,0.1.0,fire3,MIT,425961,radare2-style CLI backed by Ghidra and PyGhidra
+2026-11-14T13:36:09Z,mototrack,1.0.0,MotoTrack <support@themototrack.com>,MIT,28368,"Python client for the MotoTrack fleet-tracking API: vehicles, live positions, trips, events, streaming and webhooks."
+2026-11-14T13:36:54Z,supertext-sdk,0.6.0,Supertext AG,MIT,88822,"Client for the Supertext AI translation API: translate HTML and texts, with language codes, rate-limit retries and HTML packing handled for you."
+2026-11-14T13:39:53Z,etassia,0.1.0,,BSD-2-Clause,21106938,Python binding for the etassia diagram engine: Mermaid-syntax diagram sources rendered to SVG through the etassia C ABI
+2026-11-14T13:51:02Z,mirsad-mcp,0.2.1,Koussay Mehdouani,MIT,49813,"A shared, living memory hub for AI agents - bi-temporal facts, first-class decisions, and owner-resolved conflicts, served over MCP. Local-first."
+2026-11-14T13:52:54Z,bussines-manager,0.1.1,"Miguel <miguel.saezdeviteri@alumni.mondragon.edu>, Xabier <xabier.crespo@alumni.mondragon.edu>",MIT,12205,Library to analyze the sales of a small bussines
+2026-11-14T13:55:08Z,code-compass-knowledge,0.1.0,Code Compass Contributors,MIT,101882,Local-First Agent Knowledge Framework and MCP Server for Software Repositories
+2026-11-14T13:55:23Z,fridgelin,0.1.0,"Kevin Han, Tony Dong, Spark Fan, Yutong Xiao",GPL-3.0-or-later,55497,"Turns whatever is left in your fridge into a pretentious tasting menu, with reviews and drink pairings."
+2026-11-14T13:58:28Z,sampledoc,0.1.0,Andreas Stefl,MPL-2.0,132429,"Small, localized, byte-for-byte reproducible sample office documents (ODF, OOXML, PDF, CSV, TXT)."
+2026-11-14T14:00:17Z,simple-portable-numeric,0.0.1,Masahide Mori,Apache-2.0,32201,Arbitrary-precision decimal and rational arithmetic that gives identical results in Dart and Python.
+2026-11-14T14:05:06Z,storeframe,0.1.0,Andreas Stefl,MIT AND OFL-1.1,316557,Frame app screenshots in drawn device bodies for the App Store and Google Play
+2026-11-14T14:11:56Z,signalJourney,0.2.0,Seyed Yahya Shirazi <shirazi@ieee.org>,BSD 3-Clause License,105873,A Python library to validate signalJourney JSON files against the official specification schema.
+2026-11-14T14:12:32Z,wowlab,0.2.1,,Apache-2.0,2337868,Local-only library and CLI over a World of Warcraft install
+2026-11-14T14:14:15Z,localswarm,0.1.0,,MIT,237636,"Parallel AI agents on your own machine: approval gates, checkpoints, live dashboard, tamper-evident audit log. No cloud."
+2026-11-14T14:15:39Z,sendclap,0.2.0,,MIT,16098,Official Sendclap client: license key checks for your app and the creator REST API
+2026-11-14T14:15:53Z,skbrain,1.0.1,,Apache-2.0,137996,"The skbrain framework: a git-canon operations brain (runbooks, known errors, postmortems, CMDB definitions) projected into Postgres for retrieval."
+2026-11-14T14:16:15Z,lustro-api,1.0.1,,,2432241,"Lustro V1 is a 256-bit deterministic, single-pass diffusion engine with HASH/PRNG/XOF capabilities, providing live state-forking (stream tree branching)"
+2026-11-14T14:18:54Z,netinfra-phtaya-156-authority-535ay,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,15865,Technical network verification and high-availability endpoint registry for PHTaya - 156 Authority LMS & EDU Profile Super Blast

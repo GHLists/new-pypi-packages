@@ -8,36 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 13:18 UTC
+## Latest list — 2026-11-14 14:21 UTC
 
-New packages created between 2026-11-14 12:18 UTC and 2026-11-14 13:18 UTC.
+New packages created between 2026-11-14 13:18 UTC and 2026-11-14 14:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T13-18-23-185234Z.csv)
+[Full CSV](data/new-packages-2026-11-14T14-21-15-091986Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 12:19:02 | [cloudru-qa-grpc-client](https://pypi.org/project/cloudru-qa-grpc-client/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 170.4 kB | Базовый gRPC-клиент |
-| 2026-11-14 12:21:27 | [twinwise](https://pypi.org/project/twinwise/) | 0.3.6 | Suman Mondal | 179.8 kB | Make a safe twin of business spreadsheets before you use AI. Runs locally. |
-| 2026-11-14 12:22:25 | [miepom](https://pypi.org/project/miepom/) | 0.2.0 | Andrej Petelin | 39.3 kB | A python library for simulating Polarizing Optical Microscopy of Mie scatterers |
-| 2026-11-14 12:25:17 | [brickie-core](https://pypi.org/project/brickie-core/) | 0.1.0 |  | 315.5 kB | Bring the software development lifecycle to Databricks pipelines |
-| 2026-11-14 12:30:02 | [jetbrains-agents-importers](https://pypi.org/project/jetbrains-agents-importers/) | 999.9.9 |  | 967 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-14 12:31:40 | [hemp-eval](https://pypi.org/project/hemp-eval/) | 0.1.0 | NithilanVishvanath | 160.8 kB | Help Evaluate My Prompt: work out how to test an LLM prompt from the prompt and… |
-| 2026-11-14 12:40:25 | [vaka-sdk](https://pypi.org/project/vaka-sdk/) | 0.2.0 | Erik Hellman | 60.4 kB | Python SDK for Vaka: crash reporting, release health, analytics, feature flags… |
-| 2026-11-14 12:41:24 | [pm-tree](https://pypi.org/project/pm-tree/) | 1.0.0 |  | 59.8 kB | A strict, file-based project-management format, worked by Claude Code, and its… |
-| 2026-11-14 12:43:43 | [aaos-logging-drive](https://pypi.org/project/aaos-logging-drive/) | 0.1.0 | AAOS Logging contributors | 65.7 kB | Read-only AAOS Logging Google Drive synchronization and recorded vehicle data p… |
-| 2026-11-14 12:50:26 | [Kajuki](https://pypi.org/project/Kajuki/) | 10.12.3 | tderk <usvu.tech@gmail.com> | 63.1 MB | Kajuki // 터미널 스위트 - Kajuki, 폴리히스토르, 플루제로, 제이드//와이어를 하나의 런처로 통합 |
-| 2026-11-14 12:50:37 | [anyprogressbar](https://pypi.org/project/anyprogressbar/) | 0.1.0 | mluttikh <mluttikhof@gmail.co… | 122.5 kB | Progress bars for notebooks (an anywidget) and terminals, from one model |
-| 2026-11-14 12:50:38 | [cloudru-qa-http-client-auth](https://pypi.org/project/cloudru-qa-http-client-auth/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 43.6 kB | Авторизация для HTTP-клиента |
-| 2026-11-14 12:53:21 | [sharedimp](https://pypi.org/project/sharedimp/) | 0.1.0 | Koki Tsuyuzaki <k.t.the-answe… | 143.7 kB | Cross-validated UMFI-LR (ultra-marginal feature importance with linear residual… |
-| 2026-11-14 12:54:23 | [ps-bool](https://pypi.org/project/ps-bool/) | 0.2.1 |  | 1.9 kB |  |
-| 2026-11-14 12:55:11 | [espforge](https://pypi.org/project/espforge/) | 0.0.2 | Ji Dong | 95.9 kB | ESPForge USB HID control, diagnostics, and local dashboard |
-| 2026-11-14 13:00:54 | [cloudru-qa-grpc-client-auth](https://pypi.org/project/cloudru-qa-grpc-client-auth/) | 1.0.0 | Алексей Кирютин <ayukiryutin@… | 29.1 kB | Авторизация для gRPC-клиента |
-| 2026-11-14 13:02:18 | [xenthon](https://pypi.org/project/xenthon/) | 0.3.2 |  | 1.7 MB | Declarative Python bindings for the Xent native UI toolkit |
-| 2026-11-14 13:05:13 | [hazelstick](https://pypi.org/project/hazelstick/) | 0.0.1 | Hazelstick <hello@hazelstick.… | 11.1 kB | Hazelstick: an open-source double-entry money ledger and payout reconciliation… |
-| 2026-11-14 13:08:16 | [soventis-raytest](https://pypi.org/project/soventis-raytest/) | 0.0.1 |  | 86.8 kB | Ray-backed remote execution and reusable pytest support |
-| 2026-11-14 13:10:13 | [neuroprix](https://pypi.org/project/neuroprix/) | 0.0.1 |  | 2.5 kB | Placeholder for NeuroPrix, coming soon at neuroprix.com |
-| 2026-11-14 13:10:14 | [dvm-mdview](https://pypi.org/project/dvm-mdview/) | 0.1.0 |  | 4.0 MB | Markdown viewer and live-preview editor with a graphical UI and a terminal UI |
-| 2026-11-14 13:10:14 | [neuroprix-runner](https://pypi.org/project/neuroprix-runner/) | 0.0.1 |  | 2.6 kB | Placeholder for NeuroPrix, coming soon at neuroprix.com |
-| 2026-11-14 13:10:16 | [neuroprix-sdk](https://pypi.org/project/neuroprix-sdk/) | 0.0.1 |  | 2.6 kB | Placeholder for NeuroPrix, coming soon at neuroprix.com |
-| 2026-11-14 13:10:48 | [pyqrack-hip-amd-complex128](https://pypi.org/project/pyqrack-hip-amd-complex128/) | 2.30.6 | Daniel Strano | 90.5 kB | pyqrack - Pure Python vm6502q/qrack Wrapper |
-| 2026-11-14 13:16:04 | [extractscore](https://pypi.org/project/extractscore/) | 0.1.0 |  | 670.6 kB | Field-level precision/recall/F1 for LLM-extracted JSON, with before/after run c… |
+| 2026-11-14 13:20:08 | [suvoro](https://pypi.org/project/suvoro/) | 0.1.0 | Blueberry Intelligence & Auto… | 337.8 kB | Autonomous security for the vibecoding era: find it, prove it, patch it. |
+| 2026-11-14 13:22:52 | [solvapay](https://pypi.org/project/solvapay/) | 0.1.0.dev5 | SolvaPay | 853.2 kB | SolvaPay for Python: paywalls, usage billing, webhooks and paid MCP tools. |
+| 2026-11-14 13:23:06 | [paper-research-mcp](https://pypi.org/project/paper-research-mcp/) | 0.1.1 | DranxX | 127.9 kB | Paper-Research-MCP — federated academic research retrieval MCP per the Referenc… |
+| 2026-11-14 13:25:28 | [aperioflow](https://pypi.org/project/aperioflow/) | 0.1.0 |  | 14.0 kB | Report errors from Python to AperioFlow. No dependencies. |
+| 2026-11-14 13:25:36 | [dz-arabic-slug](https://pypi.org/project/dz-arabic-slug/) | 0.1.0 | Oussama Boudinar <lionweb01@g… | 12.0 kB | Convert Arabic text into URL-friendly slugs with proper transliteration. |
+| 2026-11-14 13:32:15 | [anonymization-lib](https://pypi.org/project/anonymization-lib/) | 1.4.0 | Miguel | 89.4 kB | Library for data anonymization with Spark |
+| 2026-11-14 13:32:24 | [json-logs-viewer](https://pypi.org/project/json-logs-viewer/) | 0.2.0 | lukmiik | 125.9 kB | Interactive terminal JSONL log viewer with filter queries and keyboard-first na… |
+| 2026-11-14 13:32:53 | [django-yadialogs](https://pypi.org/project/django-yadialogs/) | 0.1.0 | Igor Starikov <idlesign@yande… | 45.6 kB | Yandex Dialogs integration for Django |
+| 2026-11-14 13:35:55 | [gdare2](https://pypi.org/project/gdare2/) | 0.1.0 | fire3 | 426.0 kB | radare2-style CLI backed by Ghidra and PyGhidra |
+| 2026-11-14 13:36:09 | [mototrack](https://pypi.org/project/mototrack/) | 1.0.0 | MotoTrack <support@themototra… | 28.4 kB | Python client for the MotoTrack fleet-tracking API: vehicles, live positions, t… |
+| 2026-11-14 13:36:54 | [supertext-sdk](https://pypi.org/project/supertext-sdk/) | 0.6.0 | Supertext AG | 88.8 kB | Client for the Supertext AI translation API: translate HTML and texts, with lan… |
+| 2026-11-14 13:39:53 | [etassia](https://pypi.org/project/etassia/) | 0.1.0 |  | 21.1 MB | Python binding for the etassia diagram engine: Mermaid-syntax diagram sources r… |
+| 2026-11-14 13:51:02 | [mirsad-mcp](https://pypi.org/project/mirsad-mcp/) | 0.2.1 | Koussay Mehdouani | 49.8 kB | A shared, living memory hub for AI agents - bi-temporal facts, first-class deci… |
+| 2026-11-14 13:52:54 | [bussines-manager](https://pypi.org/project/bussines-manager/) | 0.1.1 | Miguel <miguel.saezdeviteri@a… | 12.2 kB | Library to analyze the sales of a small bussines |
+| 2026-11-14 13:55:08 | [code-compass-knowledge](https://pypi.org/project/code-compass-knowledge/) | 0.1.0 | Code Compass Contributors | 101.9 kB | Local-First Agent Knowledge Framework and MCP Server for Software Repositories |
+| 2026-11-14 13:55:23 | [fridgelin](https://pypi.org/project/fridgelin/) | 0.1.0 | Kevin Han, Tony Dong, Spark F… | 55.5 kB | Turns whatever is left in your fridge into a pretentious tasting menu, with rev… |
+| 2026-11-14 13:58:28 | [sampledoc](https://pypi.org/project/sampledoc/) | 0.1.0 | Andreas Stefl | 132.4 kB | Small, localized, byte-for-byte reproducible sample office documents (ODF, OOXM… |
+| 2026-11-14 14:00:17 | [simple-portable-numeric](https://pypi.org/project/simple-portable-numeric/) | 0.0.1 | Masahide Mori | 32.2 kB | Arbitrary-precision decimal and rational arithmetic that gives identical result… |
+| 2026-11-14 14:05:06 | [storeframe](https://pypi.org/project/storeframe/) | 0.1.0 | Andreas Stefl | 316.6 kB | Frame app screenshots in drawn device bodies for the App Store and Google Play |
+| 2026-11-14 14:11:56 | [signalJourney](https://pypi.org/project/signalJourney/) | 0.2.0 | Seyed Yahya Shirazi <shirazi@… | 105.9 kB | A Python library to validate signalJourney JSON files against the official spec… |
+| 2026-11-14 14:12:32 | [wowlab](https://pypi.org/project/wowlab/) | 0.2.1 |  | 2.3 MB | Local-only library and CLI over a World of Warcraft install |
+| 2026-11-14 14:14:15 | [localswarm](https://pypi.org/project/localswarm/) | 0.1.0 |  | 237.6 kB | Parallel AI agents on your own machine: approval gates, checkpoints, live dashb… |
+| 2026-11-14 14:15:39 | [sendclap](https://pypi.org/project/sendclap/) | 0.2.0 |  | 16.1 kB | Official Sendclap client: license key checks for your app and the creator REST… |
+| 2026-11-14 14:15:53 | [skbrain](https://pypi.org/project/skbrain/) | 1.0.1 |  | 138.0 kB | The skbrain framework: a git-canon operations brain (runbooks, known errors, po… |
+| 2026-11-14 14:16:15 | [lustro-api](https://pypi.org/project/lustro-api/) | 1.0.1 |  | 2.4 MB | Lustro V1 is a 256-bit deterministic, single-pass diffusion engine with HASH/PR… |
+| 2026-11-14 14:18:54 | [netinfra-phtaya-156-authority-535ay](https://pypi.org/project/netinfra-phtaya-156-authority-535ay/) | 1.0.0 | Autonomous Infrastructure Lab… | 15.9 kB | Technical network verification and high-availability endpoint registry for PHTa… |
