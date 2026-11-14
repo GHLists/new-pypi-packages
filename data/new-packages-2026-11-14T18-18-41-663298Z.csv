@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T17:19:18Z,decideit,7.0.1,,MIT,906563,"RSI-Jev typed-decision models: a Jev-compatible server, a Python API and the training code"
+2026-11-14T17:22:47Z,zerograd,0.2.1,ZeroGrad,Apache-2.0,257057,"Predictions over your tabular data with open foundation models (TabPFN, TabICL, Mitra, TabDPT). Nothing to train."
+2026-11-14T17:30:33Z,atp-did,0.1.0,,Apache-2.0,25855,Experimental offline Agent Trust Protocol DID identifier and key-binding primitives
+2026-11-14T17:30:58Z,sentrycove,0.2.1,Siddharth,Apache-2.0,95000,"Open-source agent firewall and early-warning layer for web apps: verify AI agents, enforce per-agent policies, detect hijacked sessions and credential stuffing."
+2026-11-14T17:32:10Z,angel-agent-guard,0.2.0,Oroboros Design,MIT,38191,"Guard an AI agent before it acts: pre-purchase check for any shop, checkout or payment link, paid API, x402 endpoint or token, and a prompt-injection check for untrusted content. Zero dependencies; b…"
+2026-11-14T17:35:06Z,Computer-Vision-Assistant-Package,1.0,Shounak Sanyal <shounaksanyal1902@outlook.com>,MIT,32949,A user friendly package assiting in the most common computer vision tasks
+2026-11-14T17:35:16Z,pickle-strategy-sdk,0.5.0,,Apache-2.0,134483,Broker-neutral contracts and hosting tools for Pickle strategies
+2026-11-14T17:38:12Z,agent-commerce-client,0.1.0,,Apache-2.0,38959,Python buyer client for a self-hosted Agent Commerce Gateway: discovers resources and pays for them with x402 within set spending limits.
+2026-11-14T17:38:40Z,agent-attrib,0.1.1,"Anshul Gandhi, Sahil Gandhi",MIT,38262,Multi-factor attribution for agent release changes using factorial design of experiments
+2026-11-14T17:39:04Z,direct-evolution-together,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",111780,"directed evolution on neural networks, together"
+2026-11-14T17:39:57Z,langchain-agent-commerce,0.1.0,,Apache-2.0,20161,"Tools that let agents call and pay for API endpoints behind a self-hosted Agent Commerce Gateway with x402, within set spending limits."
+2026-11-14T17:40:13Z,naijanorm,1.0.0,NaijaNorm contributors,"MIT License Copyright (c) 2026 NaijaNorm contributors Permission is hereby granted, free of charge,…",21810,Nigerian-context text normalization for speech and language AI
+2026-11-14T17:41:06Z,arionpay,1.0.0,ArionPay <info@arionpay.com>,MIT,30333,Official Python client for ArionPay: create crypto invoices and verify webhooks. Payments go straight to your own wallet.
+2026-11-14T17:41:10Z,agent-framework-agent-commerce,0.1.0,,Apache-2.0,18207,"Tools that let agents call and pay for API endpoints behind a self-hosted Agent Commerce Gateway with x402, within set spending limits."
+2026-11-14T17:43:08Z,donediff,0.4.0,RBL Industries,MIT,173551,Audit what your coding agent claimed against what it actually did.
+2026-11-14T17:45:59Z,prokopton-ml,0.1.0a2,Lee Hart,AGPL-3.0-only,253852,"An end-to-end MLOps platform for building, deploying and monitoring scientific machine learning systems"
+2026-11-14T17:46:22Z,reprint-tool,0.1.0,Marcin Wierzbiński,MIT,43415,Tool to compute DNA Repair FootPrint (RePrint) from COSMIC signatures
+2026-11-14T17:46:41Z,glottocross,0.1.0,Muhammad Khubaib Ahmad,MIT,44477,Cross-Task Glottic Valving & Acoustic-Endoscopic Kinematics Framework for Otorhinolaryngology
+2026-11-14T17:50:44Z,lingotube,0.1.0,antondmtvch,MIT,151724,"Subtitles, transcripts and summaries of YouTube videos through YouTube's chat: a CLI for AI agents and people"
+2026-11-14T17:52:01Z,srt-vtt-cleaner-fr,1.0.0,LE SCRIBE AUDIO <info@lescribeaudio.com>,MIT,27845,"Nettoyeur zéro-dépendance de sous-titres .SRT/.VTT en français : déduplication YouTube, typographie française, export corpus IRaMuTeQ (**** *locuteur_X) et estimation réaliste du temps de retranscrip…"
+2026-11-14T17:52:12Z,smoll,0.0.1,Wim Pomp <w.pomp@nki.nl>,MIT OR Apache-2.0,9301341,Single MOLecule Localization.
+2026-11-14T17:53:44Z,waggle-ai,0.0.1,werister,MIT,4991,Waggle: a cross-family model panel for coding agents (pre-release placeholder).
+2026-11-14T17:56:09Z,context-handoff,0.1.1,Yauhen Bichel,MIT,31057,"Keep Claude Code sessions cheap: meter cost, write a handoff note, resume after /clear"
+2026-11-14T17:57:35Z,gshtools,2.0.0,Samuel Calderon,Apache-2.0,11804659,Python bindings of GSH_Tools: spherical-harmonic synthesis of geopotential functionals
+2026-11-14T17:57:50Z,heinzel-acme-payments,0.4.0,,MIT,475562,"ACME Payments, a made-up org of the reference company: how it plans, by quarterly OKRs."
+2026-11-14T17:57:53Z,heinzel-acme,0.4.0,Helmut Hoffer von Ankershoffen <helmuthva@gmail.com>,MIT,3157893,"ACME, a made-up company: the root layer of the reference company."
+2026-11-14T17:57:53Z,heinzel-acme-lisbon,0.4.0,,MIT,665298,"ACME Lisbon, a made-up site of the reference company: time zone, working hours, meeting rhythm."
+2026-11-14T17:58:11Z,ml2-lab,1.0.0,,,11724,Machine Learning Lab Program Launcher
+2026-11-14T17:59:38Z,heinzel-acme-connectors,0.4.0,,MIT,389117,"ACME's connectors for every capability, shaped for a company MCP gateway, on dummy data."
+2026-11-14T17:59:38Z,heinzel-acme-payments-checkout,0.4.0,,MIT,585412,"ACME Payments Checkout, a made-up team of the reference company: its weekly report playbook."
+2026-11-14T18:01:07Z,bug-age,2.0.0,,MIT OR Apache-2.0,185984,"Measure how long fixed bugs lived in a git repository, from repository data only."
+2026-11-14T18:03:15Z,hhxx,0.0.1,Geng Wang,MIT,4017,"Keyboard dashboard for your local projects: jump in, see what you've been working on."
+2026-11-14T18:12:03Z,dex-agents-google-adk-cli,0.6.8,Super Durable,LicenseRef-Sustainable-Use-1.0,16685,The dex-agents-google-adk command: a durable Google ADK agent in your terminal
+2026-11-14T18:14:15Z,devol-rpa-sdk,0.0.1,,,2044,"Reserved name: Agent Workforce by Devol serves this package from each installation's own index, not from PyPI."
+2026-11-14T18:14:16Z,rpa-agent,0.0.1,,,2000,"Reserved name: Agent Workforce by Devol serves this package from each installation's own index, not from PyPI."
+2026-11-14T18:14:17Z,rpa-protocol,0.0.1,,,2034,"Reserved name: Agent Workforce by Devol serves this package from each installation's own index, not from PyPI."
