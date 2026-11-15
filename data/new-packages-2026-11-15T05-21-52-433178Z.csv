@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T04:20:45Z,jupyterminal,0.0.1.dev0,Asger Jon Vistisen,Apache-2.0,448527,A terminal emulator whose session is a list of command blocks.
+2026-11-15T04:22:38Z,relcon-docs,0.1.0,Relaxed Constraints,MIT,73148,"Shared documentation defaults, styling, and configuration tools for Zensical"
+2026-11-15T04:22:53Z,castle-music-midi,0.1.0,Tu Nombre,MIT,13326,App de terminal que convierte la música de blueprints de Castle a archivos MIDI
+2026-11-15T04:24:17Z,polite-scraper,1.0.1,callmekriztal,MIT,47046,"A rate-limited, cache-first web scraper with a rich terminal UI, robots.txt awareness, and Pydantic validation."
+2026-11-15T04:34:23Z,redact0,1.0.0,,MIT,27626,"Zero-dependency reversible PII, secret, FHIR HIPAA Safe Harbor, and streaming LLM boundary redactor. Drop-in migration for llm-guard."
+2026-11-15T04:38:30Z,quant-curve,0.1.0,Stephen Lutar <stephen@szlholdings.com>,Apache-2.0,38106,"Quant Curve — quantization quality-vs-resource Pareto frontier and promotion gates. Quality retention vs memory reduction, five-state receipts (MEASURED/BLOCKED/INVALID/FAILED/PROMOTED)"
+2026-11-15T04:40:00Z,glimsy,0.1.0,Glimsy sp. z o.o.,Apache-2.0,117262,Official Python library for managing your own Glimsy flashcards through the Glimsy API.
+2026-11-15T04:40:25Z,u7y,0.0.1,u7y project,,2468,CLI for u7y - continuous usability verification: synthetic personas run real task flows on every release; findings are evidence-gated and tracked in a regression ledger. Placeholder; the real CLI shi…
+2026-11-15T04:41:02Z,commerceforai,0.1.0,,MIT,14227,"Commerce for apps built by AI agents: products, inventory, Stripe checkout, orders, shipping, returns, subscriptions and gift cards."
+2026-11-15T04:41:48Z,weida,0.1.0a16,,MIT OR Apache-2.0,15706851,"weida for Python over its C ABI: messaging on QUIC (Req/Rep with streamed bodies, Push/Pull, Pub/Sub, PAIR, SURVEY, BUS, RADIO/DISH, SWARM), synchronous and asyncio, on CPython and PyPy"
+2026-11-15T04:49:30Z,molt-handoff,1.0.1,molt contributors,Apache-2.0,339710,让一个数字生命从一台机器，走进另一台机器；旧壳留下，魂走。
+2026-11-15T04:51:02Z,qsignt,0.1.0,,MIT,22876,QsigNT signer 注册工具：OpenPGP 上行 + X25519 下行
+2026-11-15T04:54:17Z,tieout,0.1.0,Vinay K Rajith,Apache-2.0,203064,"Open-source reconciliation engine: match bank, payment-provider, ledger and invoice records, with every match explained."
+2026-11-15T04:55:05Z,kankan,0.1.0,,MIT,126455,Kolmogorov-Arnold Networks with Kaczmarz-Newton learning
+2026-11-15T04:58:24Z,aionodes,0.1.0,Nikola <Nikola02@gmail.com>,,2618,"A lightweight library for working with AI nodes: data loading, request handling, and file management"
+2026-11-15T05:03:42Z,pymvis,0.1.0,Yulin Yang <contact@openmvis.com>,GPL-3.0-only,2535407,"Camera and camera-IMU calibration toolbox — multi-camera, multi-IMU, on-manifold SO(3)/SE(3) optimization"
+2026-11-15T05:05:35Z,hallustream,0.2.0,Pranav Sethia,Apache-2.0,287544,"Flag the facts an open LLM is probably making up, from its hidden states, as it writes."
+2026-11-15T05:06:55Z,django-bootstrap6-admin,0.1.0,Aliberk Sandıkçı <git@asandikci.com>,MIT,343655,A modern Bootstrap 6 skin for the Django admin.
+2026-11-15T05:10:48Z,PlusInPath,1.0.0,,,1410999,Ships the DevC++ installer inside the package; setup() extracts and runs it.
+2026-11-15T05:12:28Z,newswave-newsroom-specs,0.1.0,NewsWave Gazette Technical Research <research@pressloom.net>,,3988,"Technical specifications, SPF/DKIM/DMARC protocols, and spam filtering benchmarks for newsrooms."
+2026-11-15T05:15:30Z,ragaudit-cli,0.3.0,Ali Ekramy Ismail <alii.ekramy.ismail@gmail.com>,MIT,285609,"Test a RAG pipeline in minutes: catch correct answers that retrieval didn't earn (lucky passes), without re-indexing."
+2026-11-15T05:16:05Z,hidesay-bot,0.2.0,Hidesay,MIT,661099,"Bots for Hidesay: the whole Bot API, end-to-end encryption included."
+2026-11-15T05:16:36Z,amu-mem0,0.1.0,Venkata Sangaraju,MIT,159145,Derivation-gated reads for mem0: a memory is returned only if the requester is entitled to every source it was derived from.
+2026-11-15T05:17:29Z,gatepay-sdk-python,99.99.1,bytesnull,,1943,"Security research — dependency confusion PoC (bug bounty, no malicious payload)"
+2026-11-15T05:17:32Z,videokit,0.1.0,Dharshan,MIT,55465,A beginner-friendly Python video editing library powered by FFmpeg
+2026-11-15T05:19:19Z,langchain-starring,0.1.0,Star-Ring AI Behavior Security Lab,MIT,17890,LangChain callback that blocks malicious agent tool-call chains (behavior-chain security)
