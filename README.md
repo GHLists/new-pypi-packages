@@ -8,50 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 19:19 UTC
+## Latest list — 2026-11-15 20:18 UTC
 
-New packages created between 2026-11-15 18:18 UTC and 2026-11-15 19:19 UTC.
+New packages created between 2026-11-15 19:19 UTC and 2026-11-15 20:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-15T19-19-09-782703Z.csv)
+[Full CSV](data/new-packages-2026-11-15T20-18-47-533666Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-15 18:18:45 | [ambral-evals](https://pypi.org/project/ambral-evals/) | 0.1.0 |  | 71.1 kB | Reports a suite's scenarios to Ambral: opens an offline run, hands each scenari… |
-| 2026-11-15 18:19:51 | [aw-watcher-agent](https://pypi.org/project/aw-watcher-agent/) | 0.2.0 |  | 43.8 kB | ActivityWatch watcher for AI coding assistants (gptme, Claude Code, Codex) |
-| 2026-11-15 18:19:53 | [nlolib](https://pypi.org/project/nlolib/) | 1.19.0 | Wenzel Kinsky | 14.9 MB | Nonlinear optics runtime wrapper with bundled nlolib shared libraries. |
-| 2026-11-15 18:20:06 | [haybale-protokol](https://pypi.org/project/haybale-protokol/) | 0.0.4 |  | 89.3 kB | Control protocols for graphs: gates, shared lines and the base for OSC, MIDI an… |
-| 2026-11-15 18:20:42 | [eidolon-core](https://pypi.org/project/eidolon-core/) | 3.1.2 | Ghost Union | 38.8 kB | Eidolon Spectral Core Framework |
-| 2026-11-15 18:22:07 | [django-notfound-page-fdg](https://pypi.org/project/django-notfound-page-fdg/) | 0.1.1 | Hua Chen | 28.1 kB | Reusable, configurable Django 404 pages with optional JSON API responses |
-| 2026-11-15 18:22:27 | [indice](https://pypi.org/project/indice/) | 0.3.1 | The Day Info | 246.1 kB | Indice — Interface d'analyse vocale et textuelle pour enquête et recherche |
-| 2026-11-15 18:23:03 | [symox](https://pypi.org/project/symox/) | 0.1.2 |  | 81.3 MB | Fast symbolic mathematics in Rust with a SymPy compatible Python API |
-| 2026-11-15 18:23:37 | [haybale-protokol-osc](https://pypi.org/project/haybale-protokol-osc/) | 0.0.4 |  | 62.4 kB | OSC for haybale-protokol: UDP and TCP gates, OSC Receive and Send nodes |
-| 2026-11-15 18:25:32 | [errpath](https://pypi.org/project/errpath/) | 0.1.0 | Jag Reehal <jag@jagreehal.com> | 149.5 kB | Result types for Python. See every error path. |
-| 2026-11-15 18:25:39 | [bidar](https://pypi.org/project/bidar/) | 0.2.1 | CyberHuginn <contact@cyberhug… | 19.5 kB | Background error reporting SDK for Python and Django |
-| 2026-11-15 18:27:00 | [openmd-cli](https://pypi.org/project/openmd-cli/) | 0.1.0 |  | 1.1 MB | 把网页文章、公众号、视频字幕等链接保存成干净的 Markdown 原文 / 逐字稿。 |
-| 2026-11-15 18:27:15 | [experimentation-toolkit](https://pypi.org/project/experimentation-toolkit/) | 0.1.0 | datenwissenschaften | 43.8 kB | Typed, statistically explicit frequentist analysis for controlled A/B experimen… |
-| 2026-11-15 18:27:50 | [pyspark-data-quality](https://pypi.org/project/pyspark-data-quality/) | 0.1.0 | datenwissenschaften | 55.0 kB | Typed, Spark-native data-quality validation for PySpark DataFrames |
-| 2026-11-15 18:30:04 | [jetbrains-pulumi-aws-eks-pod-identity](https://pypi.org/project/jetbrains-pulumi-aws-eks-pod-identity/) | 999.9.9 |  | 986 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-15 18:32:31 | [invcheck](https://pypi.org/project/invcheck/) | 1.0.0 | Rohan & invcheck Contributors | 22.8 kB | Deterministic Arithmetic, Tax & E-Invoice JSON Verifier and Auto-Repair Engine… |
-| 2026-11-15 18:33:27 | [nrtech-nyx](https://pypi.org/project/nrtech-nyx/) | 0.1.0a1 | NR TECH | 26.5 kB | Protótipo da linguagem de programação científica NYX |
-| 2026-11-15 18:34:10 | [parsmith](https://pypi.org/project/parsmith/) | 1.0.0 | vypivshiy | 14.1 MB | Universal Rust compiler, linter, and multi-target codegen engine for KDL 2.0 Sc… |
-| 2026-11-15 18:36:37 | [devray-datalab-mcp](https://pypi.org/project/devray-datalab-mcp/) | 0.1.0 | DevRay DataLab | 73.0 kB | Local-first data science and machine learning MCP server |
-| 2026-11-15 18:37:57 | [linksql](https://pypi.org/project/linksql/) | 0.1.0 |  | 46.6 kB | Python reference implementation of LinksQL — an associative query language buil… |
-| 2026-11-15 18:38:03 | [links-client](https://pypi.org/project/links-client/) | 1.0.0 | DronDoc Team | 29.1 kB | Python client library for link-cli (Links Theory database) |
-| 2026-11-15 18:38:09 | [orinyx-mcp](https://pypi.org/project/orinyx-mcp/) | 0.1.5 | Lex Hamilton | 464.0 kB | Orinyx MCP server, command-line tool and REST client: a client of the Orinyx me… |
-| 2026-11-15 18:41:23 | [wagtail-flexible-forms-hg](https://pypi.org/project/wagtail-flexible-forms-hg/) | 2.2.0 | Bertrand Bordage | 30.3 kB | Wagtail StreamField-based form builder. |
-| 2026-11-15 18:41:34 | [portward-free](https://pypi.org/project/portward-free/) | 0.1.0 |  | 1.0 MB | Choose what Claude sees from your database: a local MCP server that pulls from… |
-| 2026-11-15 18:43:31 | [pkgwho](https://pypi.org/project/pkgwho/) | 0.1.1 | Toshihiro Kamiya <kamiya@mbj.… | 62.1 kB | Identify the packages that provide commands and fonts on Linux |
-| 2026-11-15 18:50:40 | [daybetter-ble-client](https://pypi.org/project/daybetter-ble-client/) | 1.0.0rc2 | Siddhant Kameswar <61r7jw39@k… | 34.1 kB | Async Bluetooth Low Energy control for Daybetter P031 and P065 LED strips |
-| 2026-11-15 18:51:00 | [kernox](https://pypi.org/project/kernox/) | 1.0.1 | Jean-Baptiste Keck | 403.7 kB | Fused symbolic reductions on GPUs (CUDA, ROCm/HIP, SYCL), built on symox |
-| 2026-11-15 18:52:13 | [simtest-funnel-mcp](https://pypi.org/project/simtest-funnel-mcp/) | 1.0.0b12 | Symoptia contributors | 45.7 kB | Local MCP server for funnel (tolerance-tube) comparison of signals in CSV files |
-| 2026-11-15 18:58:57 | [saiddone](https://pypi.org/project/saiddone/) | 0.1.0 | Sankalp Gilda | 93.5 kB | When a coding agent says done, fixed or tests pass, check what its own commands… |
-| 2026-11-15 19:03:29 | [nixonlxl01](https://pypi.org/project/nixonlxl01/) | 1.0.0 |  | 8.4 kB | My personal Python library |
-| 2026-11-15 19:03:30 | [personal-python-toolkit](https://pypi.org/project/personal-python-toolkit/) | 1.0.0 |  | 8.3 kB | My personal Python algorithms library |
-| 2026-11-15 19:03:38 | [trackmend](https://pypi.org/project/trackmend/) | 0.1.1 |  | 180.7 kB | Fix titles, artwork, album info, lyrics and duplicates of local tracks in the m… |
-| 2026-11-15 19:04:14 | [shard-engine](https://pypi.org/project/shard-engine/) | 1.8.1 | avelone123123 <avelone.dev@gm… | 720.4 kB | Distributed local LLM inference engine with OpenAI/Anthropic API, GGUF/llama.cp… |
-| 2026-11-15 19:04:42 | [dataviz-rs](https://pypi.org/project/dataviz-rs/) | 0.1.0 |  | 28.1 MB | Fast charts for Python: 120+ chart types (statistics, ML, finance, genomics, ma… |
-| 2026-11-15 19:09:55 | [bucketlens](https://pypi.org/project/bucketlens/) | 0.1.0 | Pritom Mazumdar | 72.9 kB | Let any AI agent read the documents and spreadsheets in your own S3 or R2 bucke… |
-| 2026-11-15 19:14:22 | [jupyterlab-draw](https://pypi.org/project/jupyterlab-draw/) | 0.3.0 |  | 71.4 kB | Infinite-canvas drawing pad for JupyterLab notebooks: pen, eraser, shapes, sele… |
-| 2026-11-15 19:15:21 | [mercury-proxy](https://pypi.org/project/mercury-proxy/) | 2.0.0 | webtoucher <webtoucher@ya.ru> | 108.8 kB | Proxy server and REST API for Incotex Mercury meters |
-| 2026-11-15 19:16:25 | [remblais](https://pypi.org/project/remblais/) | 1.0.1 | Jean-Baptiste Keck | 183.0 kB | Sinkhorn divergences, kernel MMD and optimal transport on NVIDIA, AMD and Intel… |
-| 2026-11-15 19:18:48 | [sheet-unmess](https://pypi.org/project/sheet-unmess/) | 1.0.0 | Sheet Unmess Contributors | 34.4 kB | Forensic Messy-Excel & Dirty-CSV Ingestor with Tamper-Evident Audit Receipts an… |
+| 2026-11-15 19:21:05 | [ouncemcp](https://pypi.org/project/ouncemcp/) | 1.0.0rc2 | Subbusainath Rengasamy | 1.1 MB | Build MCP servers and clients that are fast, low-noise, and safe for agents by… |
+| 2026-11-15 19:27:28 | [migrate-guard](https://pypi.org/project/migrate-guard/) | 0.1.0 | Marcos Lozina | 83.0 kB | Catch behavior changes when you rewrite a legacy service: in the response AND i… |
+| 2026-11-15 19:27:50 | [argus-guard](https://pypi.org/project/argus-guard/) | 0.1.0a1 | Irena Popova | 15.1 kB | Modular cybersecurity auditing, DevSecOps verification, and monitoring toolkit. |
+| 2026-11-15 19:27:57 | [cybereiche-vibesec](https://pypi.org/project/cybereiche-vibesec/) | 0.1.1 | CyberEiche <contact@cybereich… | 124.8 kB | Autonomous AI & Application Security Platform: SAST, Secrets, Polyglot SCA, and… |
+| 2026-11-15 19:28:27 | [geometry-generator](https://pypi.org/project/geometry-generator/) | 0.5.0 | Christoph Hader <christoph.ha… | 86.2 kB | Exact 2D profiles of canonical high-speed test geometries (blunted plate, cone,… |
+| 2026-11-15 19:30:44 | [grafeo-datasets](https://pypi.org/project/grafeo-datasets/) | 0.6.3 | S.T. Grond | 527.0 kB | The Silicon Valley demo dataset for Grafeo: nodes and edges, a timeline, GQL, C… |
+| 2026-11-15 19:32:31 | [getodds](https://pypi.org/project/getodds/) | 0.5.0 | Stunning Couches LLC <ops@get… | 30.3 kB | Python client for the GetOdds sports odds API: DraftKings, FanDuel and BetRiver… |
+| 2026-11-15 19:32:32 | [fanduelapi](https://pypi.org/project/fanduelapi/) | 0.1.0 | Stunning Couches LLC <support… | 15.7 kB | Python client for FanDuel API: FanDuel Sportsbook player props, odds and line m… |
+| 2026-11-15 19:32:40 | [prizepicksapi](https://pypi.org/project/prizepicksapi/) | 0.1.0 | Stunning Couches LLC <support… | 18.8 kB | Python client for prizepicksapi.com: live PrizePicks lines, goblin and demon ti… |
+| 2026-11-15 19:33:26 | [databricks-mcp-toolkit](https://pypi.org/project/databricks-mcp-toolkit/) | 0.2.0 | Kush Patel | 82.7 kB | Model Context Protocol (MCP) server for Databricks: clusters, jobs, SQL, Unity… |
+| 2026-11-15 19:34:35 | [underdog-api](https://pypi.org/project/underdog-api/) | 0.1.0 | Stunning Couches LLC <support… | 13.0 kB | Python client for Underdog API: Underdog Fantasy pick'em lines, Higher/Lower mu… |
+| 2026-11-15 19:34:37 | [novigapi](https://pypi.org/project/novigapi/) | 0.1.0 |  | 28.8 kB | Python client for novigapi.com, a read-only Novig market data API, plus devig h… |
+| 2026-11-15 19:34:47 | [draftkingsapi](https://pypi.org/project/draftkingsapi/) | 0.1.0 |  | 25.1 kB | Python client for draftkingsapi.com: DraftKings Pick6 lines and line history, D… |
+| 2026-11-15 19:36:05 | [midroni](https://pypi.org/project/midroni/) | 0.1.0 | Cooper Midroni | 4.9 kB | Cooper Midroni's card: essays, projects and Claude Code skills. Run: pipx run m… |
+| 2026-11-15 19:36:27 | [cvgruplac-json](https://pypi.org/project/cvgruplac-json/) | 0.1.0 | Diego Restrepo <restrepo@udea… | 31.3 kB | Link the JSONs of cvlac-json and gruplac-json: one id per product, in both dire… |
+| 2026-11-15 19:42:22 | [smoke-sdk](https://pypi.org/project/smoke-sdk/) | 0.1.0 |  | 33.5 kB | Python SDK for the Smoke public API v1 and webhook signatures |
+| 2026-11-15 19:44:20 | [pepkio-sample-id-vault](https://pypi.org/project/pepkio-sample-id-vault/) | 0.1.0 |  | 50.6 kB | Python client for Pepkio sample-id-vault tool |
+| 2026-11-15 19:46:20 | [carcha-seal](https://pypi.org/project/carcha-seal/) | 0.1.0 | Carcha Labs | 3.0 MB | Carcha Seal for Python: licensing that keeps working offline (activation, check… |
+| 2026-11-15 19:46:58 | [cursemx-client](https://pypi.org/project/cursemx-client/) | 0.2.0 |  | 10.4 kB | Python client for the CurseMX Relay send API |
+| 2026-11-15 19:47:33 | [helprange](https://pypi.org/project/helprange/) | 0.1.0 | HelpRange <hello@helprange.co… | 133.1 kB | Official HelpRange API client: upload documents, create tracked share links, ru… |
+| 2026-11-15 19:47:58 | [lw-blotter-tools](https://pypi.org/project/lw-blotter-tools/) | 0.0.2 | Diogo Cruz Diniz | 8.7 kB | A Python library to handle Logic World save files. |
+| 2026-11-15 19:49:17 | [sentinel-clinical-reg-tools](https://pypi.org/project/sentinel-clinical-reg-tools/) | 1.0.0 | Kaled Bouchagraoui <kaledbouc… | 31.1 kB | ALCOA+ Regulatory Medical Writing, EU CTR 536/2014 PLS Scorer, ClinicalTrials.g… |
+| 2026-11-15 19:52:56 | [InstaPassEncrypt](https://pypi.org/project/InstaPassEncrypt/) | 0.1.0 | tingirifistik | 9.2 kB | Encrypt a password in the format Instagram's login expects. |
+| 2026-11-15 19:53:17 | [mindslice-flow](https://pypi.org/project/mindslice-flow/) | 0.1.0 | pancerZH | 44.2 kB | Mount, settle and bake MindSlice memory stage by stage (Python stdlib only). |
+| 2026-11-15 19:53:43 | [persistent-memory-mcp](https://pypi.org/project/persistent-memory-mcp/) | 0.4.0a2 | Gilles Musy | 5.6 MB | Persistent memory for AI agents and coding assistants: exact versions, provenan… |
+| 2026-11-15 19:54:51 | [strands-lexio](https://pypi.org/project/strands-lexio/) | 0.1.0 | Lexio Rent <contact@lexio.ren… | 15.5 kB | Strands Agents tools for the Lexio Rent API (car and van rental software): flee… |
+| 2026-11-15 19:56:01 | [citation-topics](https://pypi.org/project/citation-topics/) | 0.1.0 | Diego Restrepo <restrepo@udea… | 66.1 kB | Research topics and areas from the citation links of any list of works, with Le… |
+| 2026-11-15 20:00:57 | [swiftpy-framework](https://pypi.org/project/swiftpy-framework/) | 0.1.0 | Akeem O. Salau | 1.5 MB | SwiftPY is a new generation async-first Python framework purpose built for the… |
+| 2026-11-15 20:08:29 | [musci](https://pypi.org/project/musci/) | 0.1.0 | Sami Akhnoukh | 74.7 kB | Bulk Spotify, Apple Music & YouTube playlist 320kbps MP3 downloader and DJ BPM/… |
+| 2026-11-15 20:08:59 | [vertep](https://pypi.org/project/vertep/) | 0.1.9 | Volodymyr Pavlyshyn | 35.7 MB | W3C SCXML statecharts as durable, journaled actors, from Python: typed events,… |
+| 2026-11-15 20:15:32 | [agtmls-scorecard](https://pypi.org/project/agtmls-scorecard/) | 0.0.3 | Sebastien Rousseau | 98.2 kB | Score a repository against the AgtMLS rubric, and say how much of the rubric co… |
+| 2026-11-15 20:18:42 | [refitgap](https://pypi.org/project/refitgap/) | 0.1.0 | Hisham Ihshaish <hisham.ihsha… | 140.6 kB | Split a continual learner's thresholded forgetting into what the scores lost an… |

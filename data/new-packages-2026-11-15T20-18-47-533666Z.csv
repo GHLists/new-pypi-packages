@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T19:21:05Z,ouncemcp,1.0.0rc2,Subbusainath Rengasamy,Apache-2.0,1053384,"Build MCP servers and clients that are fast, low-noise, and safe for agents by default."
+2026-11-15T19:27:28Z,migrate-guard,0.1.0,Marcos Lozina,MIT,83045,Catch behavior changes when you rewrite a legacy service: in the response AND in the database.
+2026-11-15T19:27:50Z,argus-guard,0.1.0a1,Irena Popova,MIT,15114,"Modular cybersecurity auditing, DevSecOps verification, and monitoring toolkit."
+2026-11-15T19:27:57Z,cybereiche-vibesec,0.1.1,CyberEiche <contact@cybereiche.de>,Apache-2.0,124762,"Autonomous AI & Application Security Platform: SAST, Secrets, Polyglot SCA, and Verified Auto-Remediation"
+2026-11-15T19:28:27Z,geometry-generator,0.5.0,Christoph Hader <christoph.hader@gmail.com>,GPL-3.0-or-later,86175,"Exact 2D profiles of canonical high-speed test geometries (blunted plate, cone, ogive, ...)"
+2026-11-15T19:30:44Z,grafeo-datasets,0.6.3,S.T. Grond,Apache-2.0,527014,"The Silicon Valley demo dataset for Grafeo: nodes and edges, a timeline, GQL, Cypher, Turtle and MiniLM vectors."
+2026-11-15T19:32:31Z,getodds,0.5.0,Stunning Couches LLC <ops@getoddsapi.com>,MIT,30345,"Python client for the GetOdds sports odds API: DraftKings, FanDuel and BetRivers prices plus PrizePicks, Underdog and Pick6 lines"
+2026-11-15T19:32:32Z,fanduelapi,0.1.0,Stunning Couches LLC <support@fanduelapi.com>,MIT,15728,"Python client for FanDuel API: FanDuel Sportsbook player props, odds and line movement history as JSON."
+2026-11-15T19:32:40Z,prizepicksapi,0.1.0,Stunning Couches LLC <support@prizepicksapi.com>,MIT,18762,"Python client for prizepicksapi.com: live PrizePicks lines, goblin and demon tiers, line history and graded results."
+2026-11-15T19:33:26Z,databricks-mcp-toolkit,0.2.0,Kush Patel,AGPL-3.0-only,82702,"Model Context Protocol (MCP) server for Databricks: clusters, jobs, SQL, Unity Catalog, volumes and notebooks."
+2026-11-15T19:34:35Z,underdog-api,0.1.0,Stunning Couches LLC <support@underdogapi.com>,MIT,12960,"Python client for Underdog API: Underdog Fantasy pick'em lines, Higher/Lower multipliers, line history and graded results."
+2026-11-15T19:34:37Z,novigapi,0.1.0,,MIT,28796,"Python client for novigapi.com, a read-only Novig market data API, plus devig helpers. Independent; not affiliated with Novig."
+2026-11-15T19:34:47Z,draftkingsapi,0.1.0,,MIT,25070,"Python client for draftkingsapi.com: DraftKings Pick6 lines and line history, DFS salaries, sportsbook odds and box scores. Independent, not affiliated with DraftKings."
+2026-11-15T19:36:05Z,midroni,0.1.0,Cooper Midroni,MIT,4948,"Cooper Midroni's card: essays, projects and Claude Code skills. Run: pipx run midroni"
+2026-11-15T19:36:27Z,cvgruplac-json,0.1.0,Diego Restrepo <restrepo@udea.edu.co>,MIT,31264,"Link the JSONs of cvlac-json and gruplac-json: one id per product, in both directions."
+2026-11-15T19:42:22Z,smoke-sdk,0.1.0,,Apache-2.0,33474,Python SDK for the Smoke public API v1 and webhook signatures
+2026-11-15T19:44:20Z,pepkio-sample-id-vault,0.1.0,,,50578,Python client for Pepkio sample-id-vault tool
+2026-11-15T19:46:20Z,carcha-seal,0.1.0,Carcha Labs,LicenseRef-Carcha-Seal-Vendor-Terms,3043403,"Carcha Seal for Python: licensing that keeps working offline (activation, check-ins, offline grace, offline license files, feature decryption)."
+2026-11-15T19:46:58Z,cursemx-client,0.2.0,,,10352,Python client for the CurseMX Relay send API
+2026-11-15T19:47:33Z,helprange,0.1.0,HelpRange <hello@helprange.com>,MIT,133114,"Official HelpRange API client: upload documents, create tracked share links, run data rooms, e-signature, offers and analytics."
+2026-11-15T19:47:58Z,lw-blotter-tools,0.0.2,Diogo Cruz Diniz,MIT,8676,A Python library to handle Logic World save files.
+2026-11-15T19:49:17Z,sentinel-clinical-reg-tools,1.0.0,Kaled Bouchagraoui <kaledbouchagraoui7@gmail.com>,MIT,31050,"ALCOA+ Regulatory Medical Writing, EU CTR 536/2014 PLS Scorer, ClinicalTrials.gov v2 Parser & ICH E3/CONSORT Linter"
+2026-11-15T19:52:56Z,InstaPassEncrypt,0.1.0,tingirifistik,MIT,9173,Encrypt a password in the format Instagram's login expects.
+2026-11-15T19:53:17Z,mindslice-flow,0.1.0,pancerZH,Apache-2.0,44224,"Mount, settle and bake MindSlice memory stage by stage (Python stdlib only)."
+2026-11-15T19:53:43Z,persistent-memory-mcp,0.4.0a2,Gilles Musy,MIT,5593873,"Persistent memory for AI agents and coding assistants: exact versions, provenance, withdrawal with cascade, MCP server and Hermes Agent provider"
+2026-11-15T19:54:51Z,strands-lexio,0.1.0,Lexio Rent <contact@lexio.rent>,MIT,15488,"Strands Agents tools for the Lexio Rent API (car and van rental software): fleet, availability and prices, rentals, customers and quotes."
+2026-11-15T19:56:01Z,citation-topics,0.1.0,Diego Restrepo <restrepo@udea.edu.co>,MIT,66147,"Research topics and areas from the citation links of any list of works, with Leiden clustering as CWTS does for OpenAlex."
+2026-11-15T20:00:57Z,swiftpy-framework,0.1.0,Akeem O. Salau,MIT,1455848,SwiftPY is a new generation async-first Python framework purpose built for the modern API and AI economy.
+2026-11-15T20:08:29Z,musci,0.1.0,Sami Akhnoukh,MIT,74691,"Bulk Spotify, Apple Music & YouTube playlist 320kbps MP3 downloader and DJ BPM/Camelot key analyzer"
+2026-11-15T20:08:59Z,vertep,0.1.9,Volodymyr Pavlyshyn,MIT OR Apache-2.0,35699154,"W3C SCXML statecharts as durable, journaled actors, from Python: typed events, time travel, SPARQL over the state graph"
+2026-11-15T20:15:32Z,agtmls-scorecard,0.0.3,Sebastien Rousseau,Apache-2.0 OR MIT,98181,"Score a repository against the AgtMLS rubric, and say how much of the rubric could actually be evaluated"
+2026-11-15T20:18:42Z,refitgap,0.1.0,Hisham Ihshaish <hisham.ihshaish@uwe.ac.uk>,MIT,140565,"Split a continual learner's thresholded forgetting into what the scores lost and what the carried rule lost, from stored scores."
