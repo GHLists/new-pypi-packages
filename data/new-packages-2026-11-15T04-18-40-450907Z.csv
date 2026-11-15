@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T03:20:39Z,ml2drender,0.1.0,,BSD-3-Clause,6918736,"MapLibre style 2D renderer in pure Rust, no GPU"
+2026-11-15T03:20:45Z,ai-agent-security-toolkit,0.4.1,Dusty,MIT,232111,"Security toolkit for LLM agents: prompt-injection fuzzer, tool-call allowlist/sandbox, output validation + tamper-evident audit logging, and a STRIDE-for-agents threat-modeling template."
+2026-11-15T03:24:19Z,harp-hobgoblin,0.2.0,harp-tech <contact@harp-tech.org>,MIT,42559,Interface for data acquisition and control of Harp Hobgoblin devices.
+2026-11-15T03:26:07Z,xhandler,6.0.0a1,,Apache-2.0,3027625,"Create, sign and send the electronic documents (UBL XML) of SUNAT Peru"
+2026-11-15T03:27:18Z,pkgcheck-cli,0.1.0,,,5297,Check a Python package name for risk before you pip install it
+2026-11-15T03:30:11Z,tujia-asr,1.0.0,TujiaNLP contributors,MIT,105925,Tujia speech recognition: syllable-level CTC acoustic model plus lexicon-constrained word decoding
+2026-11-15T03:31:51Z,tableprobe,0.1.0,,MIT,31272,上课演示用的表探查库：打开 CSV、Parquet、SQLite、xlsx 和 MySQL，回答行数、列数和列角色。
+2026-11-15T03:32:22Z,lammps-analysis-tools,1.0.0,tgraphite,Proprietary,231619,"Trajectory analysis for LAMMPS data/dump files, with GROMACS-compatible commands"
+2026-11-15T03:35:30Z,uavocab,0.5.0,Jake Lawrence,CC-BY-NC-SA-4.0,1823269,"The open Ukrainian vocabulary data behind uavocab.org, offline: the top-12,000 lemma frequency list, the validated PULS CEFR overlay, the Borodin A1 and A2 lexical minimums, their crosswalk, the B1 e…"
+2026-11-15T03:36:15Z,odoo-addons-oca-oca-demo,18.0.20261114.0,,,1267,
+2026-11-15T03:38:06Z,szl-mesh,0.1.0,,Apache-2.0,176340,SZL-MESH node runtime: convergent CRDT + two-track state + doctrine-pinned DSSE receipts + doctrine-gated enrollment. Doctrine v11 LOCKED 749/14/163 @ c7c0ba17.
+2026-11-15T03:38:14Z,szl-ouroboros,0.1.0,,Apache-2.0,62141,"Bounded loop-tax accounting kernel. Software, not a trained model."
+2026-11-15T03:40:01Z,handoffmap,0.2.0,,MIT,95055,"Fold an OTLP agent trace (OTel GenAI / OpenInference) into a Mermaid sequence diagram and a per-agent table. No server, no dependencies."
+2026-11-15T03:41:19Z,opensieve,0.0.1,OpenSieve <hello@opensieve.org>,Apache-2.0,10749,Python SDK for OpenSieve: community-curated filters for YouTube and other feeds (early development).
+2026-11-15T03:41:27Z,ccf-sdk,0.0.0,,,2419,Reserved name for the Cognitive Context Fabric SDK. This package contains no code.
+2026-11-15T03:41:54Z,szl-khipu,0.1.0,Stephen P. Lutar Jr. / SZL Holdings,Apache-2.0,261690,"Governed-AI khipu: Λ-gate, YARQA canals, TinyKhipu silhouette, hash-chained receipts. Knot the run. Hash the proof. Fail closed."
+2026-11-15T03:44:29Z,szl-vertical-forge,0.2.3,,Apache-2.0,49798,"Generate killinchu-pattern vertical shells from audited configs - deterministic, receipted, fail-closed"
+2026-11-15T03:44:31Z,szl-second-brain,1.5.0,SZL Holdings,Apache-2.0,738163,Governed hybrid retrieval and review-gated continuous frontier memory. Public handles only; controller-only hydration; Lambda = Conjecture 1.
+2026-11-15T03:44:35Z,szl-serve,0.1.0,"Stephen P. Lutar Jr., SZL Holdings",Apache-2.0,93834,"Canonical SZL governed-inference serve recipe: pinned Khipu GGUF, schema validation outside the weights, honest energy receipts. Not a vendor engine."
+2026-11-15T03:50:17Z,ai-voiceover-skills,0.1.1,HeadVox,MIT,150497,"AI voiceover, voice cloning and auto-caption Agent Skills for Claude Code, Codex and Cursor: add voiceover to video, faceless Shorts/TikTok, screen-recording narration, Remotion narration, A/B hook v…"
+2026-11-15T03:52:22Z,yarqa,0.5.0,SZL Holdings,Apache-2.0,122218,"Plug-flow compartmentalization for compartmental models (clean-room, Apache-2.0)"
+2026-11-15T03:52:27Z,szl-wave1-report,0.2.1,,Apache-2.0,37543,Consolidate SZL harness receipt chains into one verifiable Wave 1 report — fail closed on any broken chain
+2026-11-15T03:55:08Z,hems,0.1.0,,MIT,41337,"An OUTUS v1 engine: plans, the usage ledger, dynamic prices and explainable bills"
+2026-11-15T03:55:55Z,splicetrail,0.3.1,SpliceTrail Contributors,Apache-2.0,359070,"Find where image regions were copied from, across images or within one, with calibrated significance"
+2026-11-15T03:57:19Z,fixlock,0.7.0,Algotricz,MIT,388353093,Stop AI coding assistants (and teammates) from silently undoing bug fixes. Works with any language.
+2026-11-15T03:59:11Z,veekshana,0.2.0,Veekshana contributors,Apache-2.0,26597,"Open-source observability for AI agents: traces, costs, and evals."
+2026-11-15T03:59:12Z,veekshana-server,0.2.0,Veekshana contributors,Apache-2.0,34337,Veekshana server: ingestion + query API for AI agent observability.
+2026-11-15T04:00:41Z,clarify-ai-mcp,0.4.0,Soumik Kar <your_email@domain.com>,MIT,49635993,"Enterprise-grade, local-first AI image super-resolution and enhancement via ONNX Runtime & OpenCV — pluggable model registry (SPAN / SRVGG Compact / RealPLSKR), MCP server, sub-50 MB, zero PyTorch."
+2026-11-15T04:00:42Z,shashu-ai,1.0.0,Trustgate AI LLC,Apache-2.0,364243,"Python client for SHASHU by Trustgate AI, a self-hosted AI security gateway. Point it at your own gateway; there is no default endpoint."
+2026-11-15T04:09:28Z,simple-emailer,0.2.0,,,66171,A secure local CLI and web interface for sending email through SMTP providers
+2026-11-15T04:11:45Z,beamz9000,0.1.0,Connor Ferster,Apache-2.0,121367,"Beam free-body diagrams from a simple YAML scheme, drawn through shapely geometry."
+2026-11-15T04:18:10Z,luckylucy.utils.xml,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10203,A collection of utilities I use across different projects (luckylucy.utils.xml)

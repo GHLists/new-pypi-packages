@@ -8,33 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 03:19 UTC
+## Latest list — 2026-11-15 04:18 UTC
 
-New packages created between 2026-11-15 02:18 UTC and 2026-11-15 03:19 UTC.
+New packages created between 2026-11-15 03:19 UTC and 2026-11-15 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-15T03-19-51-74383Z.csv)
+[Full CSV](data/new-packages-2026-11-15T04-18-40-450907Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-15 02:18:53 | [nadeshiko-sdk-py](https://pypi.org/project/nadeshiko-sdk-py/) | 2.6.0 |  | 409.9 kB | Python SDK for Nadeshiko API (public endpoints only) |
-| 2026-11-15 02:24:45 | [tlaup](https://pypi.org/project/tlaup/) | 0.8.2 | Denis Nikolskiy <nikolskiy@us… | 106.0 kB | TLA+ tools: download TLC, compile custom modules, run model checker |
-| 2026-11-15 02:27:06 | [clip-anything](https://pypi.org/project/clip-anything/) | 0.5.3 | Ship at Midnight | 497.5 kB | Free, local CLI: long gameplay recording in, top N vertical highlight clips out. |
-| 2026-11-15 02:28:43 | [backcountry](https://pypi.org/project/backcountry/) | 0.1.0 | Shivam Garg | 3.7 MB | Makes MLX models faster on Apple Silicon without changing their answers: an AI… |
-| 2026-11-15 02:31:11 | [omnixon-lib](https://pypi.org/project/omnixon-lib/) | 3.0.0 | lixelv <simeongfremenko@gmail… | 136.1 kB | A small enterprise chatbot library |
-| 2026-11-15 02:36:51 | [netinfra-network-telemetry-au-ssrn0](https://pypi.org/project/netinfra-network-telemetry-au-ssrn0/) | 1.0.0 | Autonomous Infrastructure Lab… | 9.8 kB | Technical network verification and high-availability endpoint registry for Netw… |
-| 2026-11-15 02:37:54 | [medxpert-library-connector](https://pypi.org/project/medxpert-library-connector/) | 1.0.1 | "Zhao Xinghua (Steven Zhao)"… | 43.5 kB | Local RAG MCP server for your own .md wiki: BM25 + cosine over local Ollama emb… |
-| 2026-11-15 02:37:57 | [medxpert-standards-connector](https://pypi.org/project/medxpert-standards-connector/) | 1.0.1 | "Zhao Xinghua (Steven Zhao)"… | 64.5 kB | Read-only MCP index of medical-device standards (ISO/YY-T/GB-T/ASTM/IEC/21 CFR/… |
-| 2026-11-15 02:42:19 | [video2agent](https://pypi.org/project/video2agent/) | 0.1.0 | DSH-Video2Agent contributors | 561.3 kB | Video search and understanding for AI agents: transcript, scenes, on-screen tex… |
-| 2026-11-15 02:47:32 | [todosforagents](https://pypi.org/project/todosforagents/) | 0.1.0 | NimbleBrain Inc <hello@nimble… | 485.7 kB | To-do boards for AI agents, as an MCP server with a board UI. Runs locally on o… |
-| 2026-11-15 02:49:36 | [szl-substrate](https://pypi.org/project/szl-substrate/) | 0.1.0 | "Lutar, Stephen P." <stephenl… | 4.8 MB | Installable shared substrate for a11oy + killinchu — eliminates 69-file source… |
-| 2026-11-15 02:51:05 | [szl-kernels](https://pypi.org/project/szl-kernels/) | 0.2.0 | Stephen P. Lutar Jr. / SZL Ho… | 150.2 kB | Unified governed-kernel suite with cross-kernel UnifiedReceiptChain. CPU-import… |
-| 2026-11-15 02:57:03 | [google-discover-mcp](https://pypi.org/project/google-discover-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 12.8 kB | Read Google Discover country feeds and domain appearances with ChatGPT, Claude,… |
-| 2026-11-15 02:58:42 | [umbermark-cli](https://pypi.org/project/umbermark-cli/) | 1.0.0rc1 |  | 287.0 kB | Umbermark — Linux server hardening scanner (CLI only). |
-| 2026-11-15 03:02:58 | [heliostat](https://pypi.org/project/heliostat/) | 0.0.0 | Starhold Software | 2.2 kB | Reserved name for Starhold Heliostat (status pages and monitoring). No code yet. |
-| 2026-11-15 03:03:02 | [solatype](https://pypi.org/project/solatype/) | 0.0.0 | Starhold Software | 2.2 kB | Reserved name for Starhold Solatype (HTML to PDF/image API). No code yet. |
-| 2026-11-15 03:03:06 | [solartype](https://pypi.org/project/solartype/) | 0.0.0 | Starhold Software | 2.3 kB | Reserved misspelling of solatype. Use solatype (Starhold Solatype, HTML to PDF/… |
-| 2026-11-15 03:05:47 | [resnik](https://pypi.org/project/resnik/) | 1.0.1 | Steven Doran <contact.bitWarr… | 1.0 MB | A modern compiler for the HAL/S aerospace programming language |
-| 2026-11-15 03:08:24 | [szl-router](https://pypi.org/project/szl-router/) | 1.1.0 | SZL Holdings | 285.0 kB | Sovereign, OpenAI-compatible LLM gateway with a receipt on every answer; signed… |
-| 2026-11-15 03:08:32 | [a11oy-factory](https://pypi.org/project/a11oy-factory/) | 0.6.0 | SZL Holdings <stephenlutar2@g… | 138.2 kB | Governed AI distribution compiler: deterministic locks, policy gates, SPDX SBOM… |
-| 2026-11-15 03:08:51 | [khipu-consensus](https://pypi.org/project/khipu-consensus/) | 0.1.0 | Yachay <yachay@szlholdings.de… | 60.1 kB | Byzantine-fault-tolerant multi-party signed agreement (3-of-4 BFT) over DSSE/co… |
-| 2026-11-15 03:16:19 | [get-sinapi](https://pypi.org/project/get-sinapi/) | 3.1.0 | NR TECH | 117.0 kB | Pipeline rastreável de dados públicos do SINAPI/CAIXA |
+| 2026-11-15 03:20:39 | [ml2drender](https://pypi.org/project/ml2drender/) | 0.1.0 |  | 6.9 MB | MapLibre style 2D renderer in pure Rust, no GPU |
+| 2026-11-15 03:20:45 | [ai-agent-security-toolkit](https://pypi.org/project/ai-agent-security-toolkit/) | 0.4.1 | Dusty | 232.1 kB | Security toolkit for LLM agents: prompt-injection fuzzer, tool-call allowlist/s… |
+| 2026-11-15 03:24:19 | [harp-hobgoblin](https://pypi.org/project/harp-hobgoblin/) | 0.2.0 | harp-tech <contact@harp-tech.… | 42.6 kB | Interface for data acquisition and control of Harp Hobgoblin devices. |
+| 2026-11-15 03:26:07 | [xhandler](https://pypi.org/project/xhandler/) | 6.0.0a1 |  | 3.0 MB | Create, sign and send the electronic documents (UBL XML) of SUNAT Peru |
+| 2026-11-15 03:27:18 | [pkgcheck-cli](https://pypi.org/project/pkgcheck-cli/) | 0.1.0 |  | 5.3 kB | Check a Python package name for risk before you pip install it |
+| 2026-11-15 03:30:11 | [tujia-asr](https://pypi.org/project/tujia-asr/) | 1.0.0 | TujiaNLP contributors | 105.9 kB | Tujia speech recognition: syllable-level CTC acoustic model plus lexicon-constr… |
+| 2026-11-15 03:31:51 | [tableprobe](https://pypi.org/project/tableprobe/) | 0.1.0 |  | 31.3 kB | 上课演示用的表探查库：打开 CSV、Parquet、SQLite、xlsx 和 MySQL，回答行数、列数和列角色。 |
+| 2026-11-15 03:32:22 | [lammps-analysis-tools](https://pypi.org/project/lammps-analysis-tools/) | 1.0.0 | tgraphite | 231.6 kB | Trajectory analysis for LAMMPS data/dump files, with GROMACS-compatible commands |
+| 2026-11-15 03:35:30 | [uavocab](https://pypi.org/project/uavocab/) | 0.5.0 | Jake Lawrence | 1.8 MB | The open Ukrainian vocabulary data behind uavocab.org, offline: the top-12,000… |
+| 2026-11-15 03:36:15 | [odoo-addons-oca-oca-demo](https://pypi.org/project/odoo-addons-oca-oca-demo/) | 18.0.20261114.0 |  | 1.3 kB |  |
+| 2026-11-15 03:38:06 | [szl-mesh](https://pypi.org/project/szl-mesh/) | 0.1.0 |  | 176.3 kB | SZL-MESH node runtime: convergent CRDT + two-track state + doctrine-pinned DSSE… |
+| 2026-11-15 03:38:14 | [szl-ouroboros](https://pypi.org/project/szl-ouroboros/) | 0.1.0 |  | 62.1 kB | Bounded loop-tax accounting kernel. Software, not a trained model. |
+| 2026-11-15 03:40:01 | [handoffmap](https://pypi.org/project/handoffmap/) | 0.2.0 |  | 95.1 kB | Fold an OTLP agent trace (OTel GenAI / OpenInference) into a Mermaid sequence d… |
+| 2026-11-15 03:41:19 | [opensieve](https://pypi.org/project/opensieve/) | 0.0.1 | OpenSieve <hello@opensieve.or… | 10.7 kB | Python SDK for OpenSieve: community-curated filters for YouTube and other feeds… |
+| 2026-11-15 03:41:27 | [ccf-sdk](https://pypi.org/project/ccf-sdk/) | 0.0.0 |  | 2.4 kB | Reserved name for the Cognitive Context Fabric SDK. This package contains no co… |
+| 2026-11-15 03:41:54 | [szl-khipu](https://pypi.org/project/szl-khipu/) | 0.1.0 | Stephen P. Lutar Jr. / SZL Ho… | 261.7 kB | Governed-AI khipu: Λ-gate, YARQA canals, TinyKhipu silhouette, hash-chained rec… |
+| 2026-11-15 03:44:29 | [szl-vertical-forge](https://pypi.org/project/szl-vertical-forge/) | 0.2.3 |  | 49.8 kB | Generate killinchu-pattern vertical shells from audited configs - deterministic… |
+| 2026-11-15 03:44:31 | [szl-second-brain](https://pypi.org/project/szl-second-brain/) | 1.5.0 | SZL Holdings | 738.2 kB | Governed hybrid retrieval and review-gated continuous frontier memory. Public h… |
+| 2026-11-15 03:44:35 | [szl-serve](https://pypi.org/project/szl-serve/) | 0.1.0 | Stephen P. Lutar Jr., SZL Hol… | 93.8 kB | Canonical SZL governed-inference serve recipe: pinned Khipu GGUF, schema valida… |
+| 2026-11-15 03:50:17 | [ai-voiceover-skills](https://pypi.org/project/ai-voiceover-skills/) | 0.1.1 | HeadVox | 150.5 kB | AI voiceover, voice cloning and auto-caption Agent Skills for Claude Code, Code… |
+| 2026-11-15 03:52:22 | [yarqa](https://pypi.org/project/yarqa/) | 0.5.0 | SZL Holdings | 122.2 kB | Plug-flow compartmentalization for compartmental models (clean-room, Apache-2.0) |
+| 2026-11-15 03:52:27 | [szl-wave1-report](https://pypi.org/project/szl-wave1-report/) | 0.2.1 |  | 37.5 kB | Consolidate SZL harness receipt chains into one verifiable Wave 1 report — fail… |
+| 2026-11-15 03:55:08 | [hems](https://pypi.org/project/hems/) | 0.1.0 |  | 41.3 kB | An OUTUS v1 engine: plans, the usage ledger, dynamic prices and explainable bil… |
+| 2026-11-15 03:55:55 | [splicetrail](https://pypi.org/project/splicetrail/) | 0.3.1 | SpliceTrail Contributors | 359.1 kB | Find where image regions were copied from, across images or within one, with ca… |
+| 2026-11-15 03:57:19 | [fixlock](https://pypi.org/project/fixlock/) | 0.7.0 | Algotricz | 388.4 MB | Stop AI coding assistants (and teammates) from silently undoing bug fixes. Work… |
+| 2026-11-15 03:59:11 | [veekshana](https://pypi.org/project/veekshana/) | 0.2.0 | Veekshana contributors | 26.6 kB | Open-source observability for AI agents: traces, costs, and evals. |
+| 2026-11-15 03:59:12 | [veekshana-server](https://pypi.org/project/veekshana-server/) | 0.2.0 | Veekshana contributors | 34.3 kB | Veekshana server: ingestion + query API for AI agent observability. |
+| 2026-11-15 04:00:41 | [clarify-ai-mcp](https://pypi.org/project/clarify-ai-mcp/) | 0.4.0 | Soumik Kar <your_email@domain… | 49.6 MB | Enterprise-grade, local-first AI image super-resolution and enhancement via ONN… |
+| 2026-11-15 04:00:42 | [shashu-ai](https://pypi.org/project/shashu-ai/) | 1.0.0 | Trustgate AI LLC | 364.2 kB | Python client for SHASHU by Trustgate AI, a self-hosted AI security gateway. Po… |
+| 2026-11-15 04:09:28 | [simple-emailer](https://pypi.org/project/simple-emailer/) | 0.2.0 |  | 66.2 kB | A secure local CLI and web interface for sending email through SMTP providers |
+| 2026-11-15 04:11:45 | [beamz9000](https://pypi.org/project/beamz9000/) | 0.1.0 | Connor Ferster | 121.4 kB | Beam free-body diagrams from a simple YAML scheme, drawn through shapely geomet… |
+| 2026-11-15 04:18:10 | [luckylucy.utils.xml](https://pypi.org/project/luckylucy.utils.xml/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 10.2 kB | A collection of utilities I use across different projects (luckylucy.utils.xml) |
