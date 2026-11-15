@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T02:18:53Z,nadeshiko-sdk-py,2.6.0,,MIT,409893,Python SDK for Nadeshiko API (public endpoints only)
+2026-11-15T02:24:45Z,tlaup,0.8.2,Denis Nikolskiy <nikolskiy@users.noreply.github.com>,MIT,106046,"TLA+ tools: download TLC, compile custom modules, run model checker"
+2026-11-15T02:27:06Z,clip-anything,0.5.3,Ship at Midnight,MIT,497481,"Free, local CLI: long gameplay recording in, top N vertical highlight clips out."
+2026-11-15T02:28:43Z,backcountry,0.1.0,Shivam Garg,MIT,3741778,"Makes MLX models faster on Apple Silicon without changing their answers: an AI proposes Metal kernels and faster loops, and a harness keeps only verified wins"
+2026-11-15T02:31:11Z,omnixon-lib,3.0.0,lixelv <simeongfremenko@gmail.com>,,136058,A small enterprise chatbot library
+2026-11-15T02:36:51Z,netinfra-network-telemetry-au-ssrn0,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,9763,Technical network verification and high-availability endpoint registry for Network Telemetry Audit
+2026-11-15T02:37:54Z,medxpert-library-connector,1.0.1,"""Zhao Xinghua (Steven Zhao)"" <zhaoxinghua09@gmail.com>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",43487,"Local RAG MCP server for your own .md wiki: BM25 + cosine over local Ollama embeddings, offline, zero egress."
+2026-11-15T02:37:57Z,medxpert-standards-connector,1.0.1,"""Zhao Xinghua (Steven Zhao)"" <zhaoxinghua09@gmail.com>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",64470,Read-only MCP index of medical-device standards (ISO/YY-T/GB-T/ASTM/IEC/21 CFR/MDCG) with official links.
+2026-11-15T02:42:19Z,video2agent,0.1.0,DSH-Video2Agent contributors,Apache-2.0,561345,"Video search and understanding for AI agents: transcript, scenes, on-screen text, frames."
+2026-11-15T02:47:32Z,todosforagents,0.1.0,NimbleBrain Inc <hello@nimblebrain.ai>,MIT,485747,"To-do boards for AI agents, as an MCP server with a board UI. Runs locally on one SQLite file."
+2026-11-15T02:49:36Z,szl-substrate,0.1.0,"""Lutar, Stephen P."" <stephenlutar2@gmail.com>",Apache-2.0,4752713,"Installable shared substrate for a11oy + killinchu — eliminates 69-file source duplication. First modules: DSSE/ECDSA-P256-SHA256 signing (cosign-compatible, UNSIGNED-honest fallback), ECE/Brier cali…"
+2026-11-15T02:51:05Z,szl-kernels,0.2.0,Stephen P. Lutar Jr. / SZL Holdings,Apache-2.0,150198,Unified governed-kernel suite with cross-kernel UnifiedReceiptChain. CPU-importable; GPU stays honest UNAVAILABLE without CUDA.
+2026-11-15T02:57:03Z,google-discover-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12850,"Read Google Discover country feeds and domain appearances with ChatGPT, Claude, Codex and Claude Code through Cotlet.dev."
+2026-11-15T02:58:42Z,umbermark-cli,1.0.0rc1,,,287038,Umbermark — Linux server hardening scanner (CLI only).
+2026-11-15T03:02:58Z,heliostat,0.0.0,Starhold Software,MIT,2184,Reserved name for Starhold Heliostat (status pages and monitoring). No code yet.
+2026-11-15T03:03:02Z,solatype,0.0.0,Starhold Software,MIT,2190,Reserved name for Starhold Solatype (HTML to PDF/image API). No code yet.
+2026-11-15T03:03:06Z,solartype,0.0.0,Starhold Software,MIT,2268,"Reserved misspelling of solatype. Use solatype (Starhold Solatype, HTML to PDF/image API)."
+2026-11-15T03:05:47Z,resnik,1.0.1,Steven Doran <contact.bitWarrior@proton.me>,GPL-3.0-or-later,1007019,A modern compiler for the HAL/S aerospace programming language
+2026-11-15T03:08:24Z,szl-router,1.1.0,SZL Holdings,Apache-2.0,285025,"Sovereign, OpenAI-compatible LLM gateway with a receipt on every answer; signed when a key is armed, else UNSIGNED-honest."
+2026-11-15T03:08:32Z,a11oy-factory,0.6.0,SZL Holdings <stephenlutar2@gmail.com>,Apache-2.0,138245,"Governed AI distribution compiler: deterministic locks, policy gates, SPDX SBOMs, SLSA provenance, and fail-closed receipts."
+2026-11-15T03:08:51Z,khipu-consensus,0.1.0,Yachay <yachay@szlholdings.dev>,Apache-2.0,60111,Byzantine-fault-tolerant multi-party signed agreement (3-of-4 BFT) over DSSE/cosign per-witness signatures.
+2026-11-15T03:16:19Z,get-sinapi,3.1.0,NR TECH,MIT,116985,Pipeline rastreável de dados públicos do SINAPI/CAIXA

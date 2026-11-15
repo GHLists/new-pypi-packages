@@ -8,35 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 02:18 UTC
+## Latest list — 2026-11-15 03:19 UTC
 
-New packages created between 2026-11-15 01:18 UTC and 2026-11-15 02:18 UTC.
+New packages created between 2026-11-15 02:18 UTC and 2026-11-15 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-15T02-18-42-613908Z.csv)
+[Full CSV](data/new-packages-2026-11-15T03-19-51-74383Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-15 00:53:36 | [crewai-plimsoll](https://pypi.org/project/crewai-plimsoll/) | 0.27.1 |  | 15.7 kB | A CrewAI tool that runs agent-written code in plimsoll, a self-hosted sandbox t… |
-| 2026-11-15 01:22:22 | [pfrelay](https://pypi.org/project/pfrelay/) | 0.2.0 |  | 94.4 kB | Python SDK for the pf-simple relay hub: serve a tunnel or connect through one |
-| 2026-11-15 01:29:43 | [greenpage](https://pypi.org/project/greenpage/) | 0.1.1 | greenpage contributors | 178.7 kB | Estimate and budget the carbon footprint of web pages, locally or in CI. |
-| 2026-11-15 01:30:19 | [pdacek](https://pypi.org/project/pdacek/) | 0.1.0 |  | 38.2 kB |  |
-| 2026-11-15 01:34:03 | [mailbotic](https://pypi.org/project/mailbotic/) | 0.0.1 | NT Connect Holdings | 2.5 kB | Mailbotic: email infrastructure for AI agents, by NT Connect. Placeholder; comi… |
-| 2026-11-15 01:37:49 | [forebot](https://pypi.org/project/forebot/) | 0.2.0 |  | 25.2 kB | Python SDK for bots managed by Forebot |
-| 2026-11-15 01:39:37 | [taskflow-doc-search](https://pypi.org/project/taskflow-doc-search/) | 0.1.1 |  | 33.0 kB | MCP server for keyword search over the ai-workspace-kit documentation repos and… |
-| 2026-11-15 01:42:25 | [open-interpretability](https://pypi.org/project/open-interpretability/) | 0.0.20 | Will Sackfield <will.sackfiel… | 776.8 kB | Open Interpretability: an agent-audited mechanistic interpretability registry f… |
-| 2026-11-15 01:47:17 | [gemma-xdna2](https://pypi.org/project/gemma-xdna2/) | 0.1.0a2 |  | 2.9 MB | Pinned full-model Gemma 3 1B inference on AMD XDNA2 with frozen PDI kernels |
-| 2026-11-15 01:53:53 | [zode](https://pypi.org/project/zode/) | 0.1.0 |  | 62.0 kB | Python SDK for Zode: sandboxed microVMs for coding agents. |
-| 2026-11-15 01:54:33 | [ecossistema-skills](https://pypi.org/project/ecossistema-skills/) | 1.0.0 | Jose Dimarzio Netto <dimarzio… | 86.5 kB | Ecossistema de skills Python modulares nas 4 áreas de maestria (automação, OpSe… |
-| 2026-11-15 02:00:51 | [side-vim](https://pypi.org/project/side-vim/) | 0.1.0 | sprytnyk.dev | 86.5 kB | Vim mode for PySide6's QPlainTextEdit |
-| 2026-11-15 02:01:05 | [revoluzen-flow](https://pypi.org/project/revoluzen-flow/) | 1.0.1.dev0 | Revoluzen <hello@revoluzen.io> | 12.1 MB | Revoluzen Flow — open-source data pipeline orchestrator |
-| 2026-11-15 02:02:52 | [temper-python](https://pypi.org/project/temper-python/) | 0.1.0 |  | 20.4 kB | pytest adapter for Temper: tests state what they prove, and write evidence. |
-| 2026-11-15 02:09:03 | [notedelta](https://pypi.org/project/notedelta/) | 0.1.0 | Ouyang Matters | 216.7 kB | Scientific notebook review: what changed in your numerical results, how much, a… |
-| 2026-11-15 02:10:27 | [demeter-sdk](https://pypi.org/project/demeter-sdk/) | 0.0.0 | Demeter Technologies | 840 B | Placeholder. The Demeter SDK is distributed from Demeter's own package registry… |
-| 2026-11-15 02:10:58 | [datacorex](https://pypi.org/project/datacorex/) | 0.1.0 |  | 4.3 kB | A modular Python toolkit for data engineering and ETL operations. |
-| 2026-11-15 02:11:03 | [monopoly-polysome](https://pypi.org/project/monopoly-polysome/) | 0.1.0 | William DeGroat, Anat Kreimer | 87.6 kB | Paired differential analysis of polysome profiling RNA-seq data. |
-| 2026-11-15 02:13:48 | [roller-agent](https://pypi.org/project/roller-agent/) | 0.2.0 | Roller contributors | 758.0 kB | Batch collection of agentic trajectories across models and harnesses |
-| 2026-11-15 02:15:03 | [kannaka-scientist](https://pypi.org/project/kannaka-scientist/) | 0.1.0 |  | 390.3 kB | Kannaka Scientist: a preregistered research loop (campaigns, gates, scorers, be… |
-| 2026-11-15 02:15:06 | [malmal](https://pypi.org/project/malmal/) | 0.4.0 |  | 4.9 MB | Upload scanner for images, SVG, PDF and PostScript files |
-| 2026-11-15 02:15:11 | [resonant-swarm](https://pypi.org/project/resonant-swarm/) | 0.1.0 | Nick Flachsenhaar <nick@nickf… | 96.9 kB | Kuramoto phase coupling for Oasis social simulation and ghostsignals prediction… |
-| 2026-11-15 02:16:54 | [enrich-gallery3-photo-exif](https://pypi.org/project/enrich-gallery3-photo-exif/) | 0.0.1 | Gene Wood <gene_wood@public.c… | 66.9 kB | Interactive utility for enriching EXIF metadata of photos stored in a Gallery3… |
-| 2026-11-15 02:18:13 | [lgd-engine](https://pypi.org/project/lgd-engine/) | 0.1.0 | Zhao, X. | 68.9 kB | Theory-bound judgment core for medical-device AI change control (LGD 三律 / 有籍有证有… |
+| 2026-11-15 02:18:53 | [nadeshiko-sdk-py](https://pypi.org/project/nadeshiko-sdk-py/) | 2.6.0 |  | 409.9 kB | Python SDK for Nadeshiko API (public endpoints only) |
+| 2026-11-15 02:24:45 | [tlaup](https://pypi.org/project/tlaup/) | 0.8.2 | Denis Nikolskiy <nikolskiy@us… | 106.0 kB | TLA+ tools: download TLC, compile custom modules, run model checker |
+| 2026-11-15 02:27:06 | [clip-anything](https://pypi.org/project/clip-anything/) | 0.5.3 | Ship at Midnight | 497.5 kB | Free, local CLI: long gameplay recording in, top N vertical highlight clips out. |
+| 2026-11-15 02:28:43 | [backcountry](https://pypi.org/project/backcountry/) | 0.1.0 | Shivam Garg | 3.7 MB | Makes MLX models faster on Apple Silicon without changing their answers: an AI… |
+| 2026-11-15 02:31:11 | [omnixon-lib](https://pypi.org/project/omnixon-lib/) | 3.0.0 | lixelv <simeongfremenko@gmail… | 136.1 kB | A small enterprise chatbot library |
+| 2026-11-15 02:36:51 | [netinfra-network-telemetry-au-ssrn0](https://pypi.org/project/netinfra-network-telemetry-au-ssrn0/) | 1.0.0 | Autonomous Infrastructure Lab… | 9.8 kB | Technical network verification and high-availability endpoint registry for Netw… |
+| 2026-11-15 02:37:54 | [medxpert-library-connector](https://pypi.org/project/medxpert-library-connector/) | 1.0.1 | "Zhao Xinghua (Steven Zhao)"… | 43.5 kB | Local RAG MCP server for your own .md wiki: BM25 + cosine over local Ollama emb… |
+| 2026-11-15 02:37:57 | [medxpert-standards-connector](https://pypi.org/project/medxpert-standards-connector/) | 1.0.1 | "Zhao Xinghua (Steven Zhao)"… | 64.5 kB | Read-only MCP index of medical-device standards (ISO/YY-T/GB-T/ASTM/IEC/21 CFR/… |
+| 2026-11-15 02:42:19 | [video2agent](https://pypi.org/project/video2agent/) | 0.1.0 | DSH-Video2Agent contributors | 561.3 kB | Video search and understanding for AI agents: transcript, scenes, on-screen tex… |
+| 2026-11-15 02:47:32 | [todosforagents](https://pypi.org/project/todosforagents/) | 0.1.0 | NimbleBrain Inc <hello@nimble… | 485.7 kB | To-do boards for AI agents, as an MCP server with a board UI. Runs locally on o… |
+| 2026-11-15 02:49:36 | [szl-substrate](https://pypi.org/project/szl-substrate/) | 0.1.0 | "Lutar, Stephen P." <stephenl… | 4.8 MB | Installable shared substrate for a11oy + killinchu — eliminates 69-file source… |
+| 2026-11-15 02:51:05 | [szl-kernels](https://pypi.org/project/szl-kernels/) | 0.2.0 | Stephen P. Lutar Jr. / SZL Ho… | 150.2 kB | Unified governed-kernel suite with cross-kernel UnifiedReceiptChain. CPU-import… |
+| 2026-11-15 02:57:03 | [google-discover-mcp](https://pypi.org/project/google-discover-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 12.8 kB | Read Google Discover country feeds and domain appearances with ChatGPT, Claude,… |
+| 2026-11-15 02:58:42 | [umbermark-cli](https://pypi.org/project/umbermark-cli/) | 1.0.0rc1 |  | 287.0 kB | Umbermark — Linux server hardening scanner (CLI only). |
+| 2026-11-15 03:02:58 | [heliostat](https://pypi.org/project/heliostat/) | 0.0.0 | Starhold Software | 2.2 kB | Reserved name for Starhold Heliostat (status pages and monitoring). No code yet. |
+| 2026-11-15 03:03:02 | [solatype](https://pypi.org/project/solatype/) | 0.0.0 | Starhold Software | 2.2 kB | Reserved name for Starhold Solatype (HTML to PDF/image API). No code yet. |
+| 2026-11-15 03:03:06 | [solartype](https://pypi.org/project/solartype/) | 0.0.0 | Starhold Software | 2.3 kB | Reserved misspelling of solatype. Use solatype (Starhold Solatype, HTML to PDF/… |
+| 2026-11-15 03:05:47 | [resnik](https://pypi.org/project/resnik/) | 1.0.1 | Steven Doran <contact.bitWarr… | 1.0 MB | A modern compiler for the HAL/S aerospace programming language |
+| 2026-11-15 03:08:24 | [szl-router](https://pypi.org/project/szl-router/) | 1.1.0 | SZL Holdings | 285.0 kB | Sovereign, OpenAI-compatible LLM gateway with a receipt on every answer; signed… |
+| 2026-11-15 03:08:32 | [a11oy-factory](https://pypi.org/project/a11oy-factory/) | 0.6.0 | SZL Holdings <stephenlutar2@g… | 138.2 kB | Governed AI distribution compiler: deterministic locks, policy gates, SPDX SBOM… |
+| 2026-11-15 03:08:51 | [khipu-consensus](https://pypi.org/project/khipu-consensus/) | 0.1.0 | Yachay <yachay@szlholdings.de… | 60.1 kB | Byzantine-fault-tolerant multi-party signed agreement (3-of-4 BFT) over DSSE/co… |
+| 2026-11-15 03:16:19 | [get-sinapi](https://pypi.org/project/get-sinapi/) | 3.1.0 | NR TECH | 117.0 kB | Pipeline rastreável de dados públicos do SINAPI/CAIXA |
