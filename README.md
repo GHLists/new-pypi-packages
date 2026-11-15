@@ -8,44 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 09:19 UTC
+## Latest list — 2026-11-15 10:20 UTC
 
-New packages created between 2026-11-15 08:19 UTC and 2026-11-15 09:19 UTC.
+New packages created between 2026-11-15 09:19 UTC and 2026-11-15 10:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-15T09-19-29-114738Z.csv)
+[Full CSV](data/new-packages-2026-11-15T10-20-05-808943Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-15 08:21:52 | [orthodox-zoroaster-texts](https://pypi.org/project/orthodox-zoroaster-texts/) | 0.1.0 |  | 77.4 kB | Read and search a historic English translation of the Gathas |
-| 2026-11-15 08:22:34 | [tovano](https://pypi.org/project/tovano/) | 1.0.0 | Tovano <support@tovano.ai> | 50.0 kB | Official Python client for the Tovano API: one API key, one balance and one inv… |
-| 2026-11-15 08:23:15 | [heinzel-issues](https://pypi.org/project/heinzel-issues/) | 0.2.0 |  | 422.1 kB | Report a problem or request something, and see when it is done and released; ne… |
-| 2026-11-15 08:33:32 | [types-msal](https://pypi.org/project/types-msal/) | 1.39.0.20261115 |  | 36.2 kB | Typing stubs for msal |
-| 2026-11-15 08:33:38 | [types-python-gnupg](https://pypi.org/project/types-python-gnupg/) | 0.5.7.20261115 |  | 19.8 kB | Typing stubs for python-gnupg |
-| 2026-11-15 08:35:53 | [langchain-okf](https://pypi.org/project/langchain-okf/) | 0.2.0 | Ayush Dey | 112.8 kB | LangChain integration for Google's Open Knowledge Format (OKF) |
-| 2026-11-15 08:37:28 | [eptraj](https://pypi.org/project/eptraj/) | 0.1.1 |  | 28.3 kB | 3D particle-tracking simulator for microfluidic channels |
-| 2026-11-15 08:40:29 | [szl-formulas](https://pypi.org/project/szl-formulas/) | 0.1.0 | Stephen P. Lutar / SZL Holdin… | 119.4 kB | Canonical formula registry and governed-loop composer. Software kernel, not a t… |
-| 2026-11-15 08:40:37 | [szl-provctl](https://pypi.org/project/szl-provctl/) | 0.1.0 | Stephen P. Lutar / SZL Holdin… | 63.1 kB | Provenance-DAG control and in-toto / SLSA interop. Software kernel, not a train… |
-| 2026-11-15 08:42:34 | [dadl-quantum-core](https://pypi.org/project/dadl-quantum-core/) | 0.1.1 |  | 1.3 MB | Compiled per-tag core for dadl-quantum (Rust, optional): dead time, coincidence… |
-| 2026-11-15 08:43:35 | [runkite-governance](https://pypi.org/project/runkite-governance/) | 0.8.0 |  | 30.6 kB | Small decide and pending-action helper for app-owned agent loops. |
-| 2026-11-15 08:43:59 | [lamarzocco-mcp](https://pypi.org/project/lamarzocco-mcp/) | 0.1.0 | Emil Madsen | 36.6 kB | Unofficial MCP server for La Marzocco home espresso machines (not affiliated wi… |
-| 2026-11-15 08:45:31 | [sci2audio](https://pypi.org/project/sci2audio/) | 1.0.0 | Colin Meng | 4.7 MB | Turn scientific texts into faithful, offline audiobooks with local voices. |
-| 2026-11-15 08:46:02 | [esaleskit](https://pypi.org/project/esaleskit/) | 0.0.1 |  | 2.0 kB | The Python kit for esales, the open-source sales platform for energy retail. Un… |
-| 2026-11-15 08:53:23 | [prooftrail-verify](https://pypi.org/project/prooftrail-verify/) | 0.2.0 | AjmalX0 <ajmalx0456@gmail.com> | 30.8 kB | Independent offline verifier for ProofTrail evidence packages |
-| 2026-11-15 08:54:05 | [all-abt-ntu](https://pypi.org/project/all-abt-ntu/) | 0.1.0b1 | pitchaya-s | 976.3 kB | CLI and MCP interfaces for NTU schedules, learning, career opportunities, maps,… |
-| 2026-11-15 08:54:38 | [ae-dlo](https://pypi.org/project/ae-dlo/) | 0.6.5 | Abbas Endari <a.endari@gmail.… | 881.6 kB | A lightweight, deterministic, privacy-first Downloads folder organizer. |
-| 2026-11-15 08:56:30 | [mihack](https://pypi.org/project/mihack/) | 0.1.0 |  | 49.6 kB | The touchstone for AI-built software: evidence that AI-agent work was allowed,… |
-| 2026-11-15 08:56:45 | [emeans-cluster](https://pypi.org/project/emeans-cluster/) | 0.1.0 | The emeans developers | 5.3 MB | e-means: scikit-learn compatible mini-batch k-means with exponential-moving-ave… |
-| 2026-11-15 08:59:16 | [profili-mcp](https://pypi.org/project/profili-mcp/) | 0.1.1 |  | 44.0 kB | MCP server for the legacy Profili 2.x airfoil software (Jet DB + bundled XFOIL) |
-| 2026-11-15 09:00:23 | [docform](https://pypi.org/project/docform/) | 0.21.0 | Srinivas Chippagiri | 2.1 MB | Fill document templates with data using Jinja2 |
-| 2026-11-15 09:01:39 | [engine-mcp](https://pypi.org/project/engine-mcp/) | 0.1.0 | Kurtlon Earl Sta. Ines | 45.8 kB | MCP tooling for game-engine work: a Spine 2D MCP server and a Godot MCP endpoin… |
-| 2026-11-15 09:02:02 | [fintrack-eastmoney-mcp](https://pypi.org/project/fintrack-eastmoney-mcp/) | 0.0.1 |  | 28.1 kB | 东方财富新闻检索的 MCP Server（stdio），为百炼智能体提供个股/关键词新闻工具 |
-| 2026-11-15 09:05:16 | [shaperunner](https://pypi.org/project/shaperunner/) | 10.3 | RFrank | 94.8 kB | Rotating 3D wireframes drawn as ASCII art, in their own window or in the termin… |
-| 2026-11-15 09:08:25 | [clutchwork](https://pypi.org/project/clutchwork/) | 0.2.1 |  | 563.5 kB | Continuously running orchestration engine that authors and runs tickets against… |
-| 2026-11-15 09:08:32 | [guardflow](https://pypi.org/project/guardflow/) | 0.1.0 | Sowmya LR | 54.0 kB | Local-first input guardrails for LLM applications. |
-| 2026-11-15 09:13:09 | [fixfirst](https://pypi.org/project/fixfirst/) | 0.1.0 | fixfirst contributors | 68.4 kB | Makes coding agents fix their code instead of cheating around ruff, ty and your… |
-| 2026-11-15 09:15:06 | [aiocheck-utils](https://pypi.org/project/aiocheck-utils/) | 0.1.2 | Dev Debugger <debuggersupp@gm… | 2.2 kB | Lightweight asynchronous utility for system monitoring and log processing. |
-| 2026-11-15 09:15:11 | [the-music-tree-genre-graph](https://pypi.org/project/the-music-tree-genre-graph/) | 0.1.0 | mignot | 25.0 kB | Pure semantic genre graph validation, boundaries and selection |
-| 2026-11-15 09:15:44 | [floodwall](https://pypi.org/project/floodwall/) | 0.1.0 |  | 20.5 kB | Ask a Floodwall Cloud plane before your agent changes production. |
-| 2026-11-15 09:16:12 | [pad-python](https://pypi.org/project/pad-python/) | 4.0.0 | Gregor Skok <Gregor.Skok@fmf.… | 4.9 MB | Precipitation Attribution Distance for fields on a planar grid |
-| 2026-11-15 09:17:10 | [word-doc-pipeline](https://pypi.org/project/word-doc-pipeline/) | 1.1.0 | Llliu-2276 | 384.3 kB | 把中文 Markdown 文档确定性产出合规 Word（.docx）：profile 驱动的排版与成品反查校验 |
-| 2026-11-15 09:17:57 | [oribi](https://pypi.org/project/oribi/) | 0.1.0 | Oribi contributors | 44.3 kB | Evidence-backed analytical context for pandas DataFrames |
+| 2026-11-15 09:21:36 | [omio-mcp](https://pypi.org/project/omio-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 14.5 kB | Connect Omio to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev. |
+| 2026-11-15 09:21:49 | [domain-com-au-scraper](https://pypi.org/project/domain-com-au-scraper/) | 0.1.0 | Buğrahan Saka | 26.3 kB | Scrape Domain.com.au property listings for sale, for rent and sold (price, beds… |
+| 2026-11-15 09:23:33 | [dex-connector-harvest](https://pypi.org/project/dex-connector-harvest/) | 0.1.0 |  | 89.5 kB | Harvest connector for Dex Flows |
+| 2026-11-15 09:25:10 | [dex-connector-helpscout](https://pypi.org/project/dex-connector-helpscout/) | 0.1.0 |  | 134.1 kB | Dex-native Help Scout Inbox connector |
+| 2026-11-15 09:25:39 | [lantool](https://pypi.org/project/lantool/) | 0.1.0 | LanTool Contributors | 258.4 kB | 轻量实用的 Python 通用工具库：零依赖核心 + 按需扩展（编解码/哈希/加解密/时间/文本/日志等） |
+| 2026-11-15 09:26:40 | [dex-connector-hiver](https://pypi.org/project/dex-connector-hiver/) | 0.1.0 |  | 125.2 kB | Dex-native Hiver shared inbox connector |
+| 2026-11-15 09:29:33 | [aksearch](https://pypi.org/project/aksearch/) | 0.1.0 | Aksearch Team | 15.3 kB | Official Python SDK and LangChain/LlamaIndex integration for Aksearch - Fast Ko… |
+| 2026-11-15 09:30:51 | [django-htmx-datatable](https://pypi.org/project/django-htmx-datatable/) | 0.0.1 | Mario Orlandi | 5.9 kB | Searchable, sortable, filterable, paginated tables for Django models, rendered… |
+| 2026-11-15 09:34:54 | [evalkit-harness](https://pypi.org/project/evalkit-harness/) | 0.1.0 | Biplob Chakraborty | 438.4 kB | Evaluate your own task across Claude and OpenAI models: grounded, calibrated, c… |
+| 2026-11-15 09:36:59 | [mysqlib](https://pypi.org/project/mysqlib/) | 0.1.0 |  | 3.3 kB | Personal Mysql toolkit for python |
+| 2026-11-15 09:39:03 | [infernal-gpu](https://pypi.org/project/infernal-gpu/) | 0.1.0 | Infernal-GPU authors | 608.8 kB | GPU covariance-model calibration and search for Infernal, with results matching… |
+| 2026-11-15 09:39:09 | [dex-connector-hubspot](https://pypi.org/project/dex-connector-hubspot/) | 0.1.0 |  | 115.0 kB | Dex-native HubSpot CRM connector |
+| 2026-11-15 09:39:12 | [brahmastra-ai](https://pypi.org/project/brahmastra-ai/) | 0.1.0 | BRAHMASTRA AI Team | 167.2 kB | Provider-independent AI orchestration platform and CLI coding assistant |
+| 2026-11-15 09:43:09 | [pyzarlib](https://pypi.org/project/pyzarlib/) | 0.13.0 |  | 65.3 MB | Python bindings for the ZAR archive library |
+| 2026-11-15 09:44:22 | [virtual-life](https://pypi.org/project/virtual-life/) | 1.0.0 | fanyuantaier | 254.0 kB | 数字人格引擎：AI 从出生开始活一遍——导演架构生成不可预测事件，艾宾浩斯分级遗忘，人格由经历沉淀 |
+| 2026-11-15 09:44:45 | [kea-brain](https://pypi.org/project/kea-brain/) | 1.0.1 | James Phillip Sanders <hello@… | 500.5 kB | kea: a second brain that checks its facts. Sourced facts, decisions with revisi… |
+| 2026-11-15 09:46:16 | [tasknest](https://pypi.org/project/tasknest/) | 0.0.0 |  | 2.3 kB | Placeholder Python package |
+| 2026-11-15 09:46:25 | [fastapi-breakgate](https://pypi.org/project/fastapi-breakgate/) | 1.0.1 | prakash888kp <prakash888kp@us… | 63.8 kB | Production merge gate for FastAPI: export live OpenAPI, detect breaking changes… |
+| 2026-11-15 09:50:18 | [layerguard](https://pypi.org/project/layerguard/) | 1.0.0 | prakash888kp <prakash888kp@us… | 73.2 kB | Git-aware Python Docker layer-cache forensics: detect dependency cache busts, e… |
+| 2026-11-15 09:50:36 | [cedarkit-query](https://pypi.org/project/cedarkit-query/) | 0.2.1 |  | 95.9 kB | Language-neutral CedarKit query value models and schemas |
+| 2026-11-15 09:50:38 | [slimcheck](https://pypi.org/project/slimcheck/) | 0.1.0 | prakash888kp <prakash888kp@us… | 45.6 kB | CI gate and SlimSpec tooling: keep default Python installs under serverless/Doc… |
+| 2026-11-15 09:50:57 | [sendpacket](https://pypi.org/project/sendpacket/) | 0.1.0 | Dev <dev@gmail.com> | 2.6 kB | Async utility for log transport and stream debugging. |
+| 2026-11-15 09:52:19 | [easyscholar-mcp](https://pypi.org/project/easyscholar-mcp/) | 0.1.0 |  | 13.8 kB | Unofficial MCP server for AI agents: journal impact factor, JCR quartile and CA… |
+| 2026-11-15 09:53:52 | [dawg-replay-kit](https://pypi.org/project/dawg-replay-kit/) | 1.1.3 | dawgswarm | 77.8 kB | Библиотека для скриптов dawg-replay: параметры, события, браузеры DAWG |
+| 2026-11-15 09:54:17 | [dawg-replay](https://pypi.org/project/dawg-replay/) | 1.0.0 | dawgswarm | 455.3 kB | Локальное приложение для запуска скриптов сбора данных через браузеры DAWG |
+| 2026-11-15 09:57:40 | [jupyter-tts-alerts](https://pypi.org/project/jupyter-tts-alerts/) | 1.0.0 | NotEoin | 201.3 kB | Your Jupyter notebook says out loud when a long cell finishes, how long it took… |
+| 2026-11-15 09:59:56 | [llama-index-tools-happyhorse-acedatacloud](https://pypi.org/project/llama-index-tools-happyhorse-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 24.1 kB | HappyHorse by Ace Data Cloud: native LlamaIndex video generation and task retri… |
+| 2026-11-15 10:00:05 | [keta](https://pypi.org/project/keta/) | 1.0.0 | Anas Hafid | 78.7 MB | keta: finite-element kernel for bar structures and bridges (C++), scriptable fr… |
+| 2026-11-15 10:01:45 | [llama-index-tools-gpt-image-acedatacloud](https://pypi.org/project/llama-index-tools-gpt-image-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 24.3 kB | GPT Image by Ace Data Cloud: native LlamaIndex image generation and task retrie… |
+| 2026-11-15 10:02:05 | [plusinpath-toolchain](https://pypi.org/project/plusinpath-toolchain/) | 1.0.0 |  | 70.3 MB | Backup mirror of the trimmed g++ toolchain used by PlusInPath setup. |
+| 2026-11-15 10:03:32 | [llama-index-tools-nano-banana-acedatacloud](https://pypi.org/project/llama-index-tools-nano-banana-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 24.3 kB | Nano Banana by Ace Data Cloud: native LlamaIndex image generation and task retr… |
+| 2026-11-15 10:06:43 | [text2sql-eval](https://pypi.org/project/text2sql-eval/) | 0.1.0 | cheolkim02 | 115.5 kB | Deterministic, evidence-backed error analysis and run comparison for text-to-SQ… |
+| 2026-11-15 10:07:12 | [nass](https://pypi.org/project/nass/) | 0.4.0 | Codox | 1.0 MB | Arabic text, handled correctly, everywhere Python touches it. |
+| 2026-11-15 10:11:43 | [modelmakerlibrary](https://pypi.org/project/modelmakerlibrary/) | 0.1.0 |  | 40.5 kB | Python tools for dataset preparation and neural-network experiments |
+| 2026-11-15 10:11:44 | [triqs-dftkit](https://pypi.org/project/triqs-dftkit/) | 4.0.1 | TRIQS <triqs@flatironinstitut… | 246.2 kB | DFT converters for TRIQS |
+| 2026-11-15 10:11:52 | [scientific-calculator-v1](https://pypi.org/project/scientific-calculator-v1/) | 0.2.1 | Sarif Mia <sarifmia.ofc@gmail… | 8.7 kB | A Python package for a scientific calculator |
+| 2026-11-15 10:11:56 | [streamlit-mini-toolkit](https://pypi.org/project/streamlit-mini-toolkit/) | 0.1.0 | Sarif Mia | 84.6 kB | 25 everyday utilities (image, document, text and web tools) in one Streamlit ap… |
+| 2026-11-15 10:12:05 | [jinwu-gecam](https://pypi.org/project/jinwu-gecam/) | 0.3.0 |  | 52.1 kB | GECAMTools interfaces and resumable GECAM workflows for jinwu. |
+| 2026-11-15 10:12:33 | [nefisyemektarifleri-mcp](https://pypi.org/project/nefisyemektarifleri-mcp/) | 0.1.0 | Mohammad Abbasi | 33.6 kB | Unofficial read-only MCP server for Nefis Yemek Tarifleri Turkish recipes (sear… |
+| 2026-11-15 10:15:06 | [freshguard](https://pypi.org/project/freshguard/) | 0.1.0 |  | 25.7 kB | Python client for the FreshGuard stale-answer detection API |
+| 2026-11-15 10:15:31 | [vdotz](https://pypi.org/project/vdotz/) | 0.1.0 | m09 | 79.4 kB | Running pace and race-time tools. |

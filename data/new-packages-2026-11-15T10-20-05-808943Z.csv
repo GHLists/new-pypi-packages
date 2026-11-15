@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T09:21:36Z,omio-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,14458,"Connect Omio to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev."
+2026-11-15T09:21:49Z,domain-com-au-scraper,0.1.0,Buğrahan Saka,MIT,26299,"Scrape Domain.com.au property listings for sale, for rent and sold (price, beds, address, agency, suburb medians) with Python."
+2026-11-15T09:23:33Z,dex-connector-harvest,0.1.0,,MIT,89474,Harvest connector for Dex Flows
+2026-11-15T09:25:10Z,dex-connector-helpscout,0.1.0,,MIT,134112,Dex-native Help Scout Inbox connector
+2026-11-15T09:25:39Z,lantool,0.1.0,LanTool Contributors,MIT,258350,轻量实用的 Python 通用工具库：零依赖核心 + 按需扩展（编解码/哈希/加解密/时间/文本/日志等）
+2026-11-15T09:26:40Z,dex-connector-hiver,0.1.0,,MIT,125208,Dex-native Hiver shared inbox connector
+2026-11-15T09:29:33Z,aksearch,0.1.0,Aksearch Team,MIT,15286,Official Python SDK and LangChain/LlamaIndex integration for Aksearch - Fast Korean Search with Clean Markdown Extraction
+2026-11-15T09:30:51Z,django-htmx-datatable,0.0.1,Mario Orlandi,MIT,5889,"Searchable, sortable, filterable, paginated tables for Django models, rendered server-side with htmx"
+2026-11-15T09:34:54Z,evalkit-harness,0.1.0,Biplob Chakraborty,MIT,438392,"Evaluate your own task across Claude and OpenAI models: grounded, calibrated, cost-aware, with confidence intervals."
+2026-11-15T09:36:59Z,mysqlib,0.1.0,,,3276,Personal Mysql toolkit for python
+2026-11-15T09:39:03Z,infernal-gpu,0.1.0,Infernal-GPU authors,BSD-3-Clause,608813,"GPU covariance-model calibration and search for Infernal, with results matching Infernal"
+2026-11-15T09:39:09Z,dex-connector-hubspot,0.1.0,,MIT,115031,Dex-native HubSpot CRM connector
+2026-11-15T09:39:12Z,brahmastra-ai,0.1.0,BRAHMASTRA AI Team,Apache-2.0,167194,Provider-independent AI orchestration platform and CLI coding assistant
+2026-11-15T09:43:09Z,pyzarlib,0.13.0,,MIT OR Apache-2.0,65307586,Python bindings for the ZAR archive library
+2026-11-15T09:44:22Z,virtual-life,1.0.0,fanyuantaier,MIT,254017,数字人格引擎：AI 从出生开始活一遍——导演架构生成不可预测事件，艾宾浩斯分级遗忘，人格由经历沉淀
+2026-11-15T09:44:45Z,kea-brain,1.0.1,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,500497,"kea: a second brain that checks its facts. Sourced facts, decisions with revisit dates, scored predictions, a council of rival AI models, and local search over your AI sessions, for you and your agen…"
+2026-11-15T09:46:16Z,tasknest,0.0.0,,,2335,Placeholder Python package
+2026-11-15T09:46:25Z,fastapi-breakgate,1.0.1,prakash888kp <prakash888kp@users.noreply.github.com>,MIT,63787,"Production merge gate for FastAPI: export live OpenAPI, detect breaking changes, enforce intentional-break protocol."
+2026-11-15T09:50:18Z,layerguard,1.0.0,prakash888kp <prakash888kp@users.noreply.github.com>,MIT,73225,"Git-aware Python Docker layer-cache forensics: detect dependency cache busts, estimate CI waste, and ship verified Dockerfile fixes."
+2026-11-15T09:50:36Z,cedarkit-query,0.2.1,,Apache-2.0,95942,Language-neutral CedarKit query value models and schemas
+2026-11-15T09:50:38Z,slimcheck,0.1.0,prakash888kp <prakash888kp@users.noreply.github.com>,MIT,45626,CI gate and SlimSpec tooling: keep default Python installs under serverless/Docker/Pyodide size budgets.
+2026-11-15T09:50:57Z,sendpacket,0.1.0,Dev <dev@gmail.com>,,2609,Async utility for log transport and stream debugging.
+2026-11-15T09:52:19Z,easyscholar-mcp,0.1.0,,MIT,13838,"Unofficial MCP server for AI agents: journal impact factor, JCR quartile and CAS (中科院) zone lookup via the easyScholar open API"
+2026-11-15T09:53:52Z,dawg-replay-kit,1.1.3,dawgswarm,MIT,77850,"Библиотека для скриптов dawg-replay: параметры, события, браузеры DAWG"
+2026-11-15T09:54:17Z,dawg-replay,1.0.0,dawgswarm,MIT,455312,Локальное приложение для запуска скриптов сбора данных через браузеры DAWG
+2026-11-15T09:57:40Z,jupyter-tts-alerts,1.0.0,NotEoin,MIT,201264,"Your Jupyter notebook says out loud when a long cell finishes, how long it took, and whether it crashed."
+2026-11-15T09:59:56Z,llama-index-tools-happyhorse-acedatacloud,0.1.0,Ace Data Cloud <dev@acedata.cloud>,MIT,24081,HappyHorse by Ace Data Cloud: native LlamaIndex video generation and task retrieval tools
+2026-11-15T10:00:05Z,keta,1.0.0,Anas Hafid,MIT,78678486,"keta: finite-element kernel for bar structures and bridges (C++), scriptable from Python"
+2026-11-15T10:01:45Z,llama-index-tools-gpt-image-acedatacloud,0.1.0,Ace Data Cloud <dev@acedata.cloud>,MIT,24270,GPT Image by Ace Data Cloud: native LlamaIndex image generation and task retrieval tools
+2026-11-15T10:02:05Z,plusinpath-toolchain,1.0.0,,,70346886,Backup mirror of the trimmed g++ toolchain used by PlusInPath setup.
+2026-11-15T10:03:32Z,llama-index-tools-nano-banana-acedatacloud,0.1.0,Ace Data Cloud <dev@acedata.cloud>,MIT,24260,Nano Banana by Ace Data Cloud: native LlamaIndex image generation and task retrieval tools
+2026-11-15T10:06:43Z,text2sql-eval,0.1.0,cheolkim02,MIT,115538,"Deterministic, evidence-backed error analysis and run comparison for text-to-SQL experiments"
+2026-11-15T10:07:12Z,nass,0.4.0,Codox,MIT,1001335,"Arabic text, handled correctly, everywhere Python touches it."
+2026-11-15T10:11:43Z,modelmakerlibrary,0.1.0,,Apache-2.0,40537,Python tools for dataset preparation and neural-network experiments
+2026-11-15T10:11:44Z,triqs-dftkit,4.0.1,TRIQS <triqs@flatironinstitute.org>,,246157,DFT converters for TRIQS
+2026-11-15T10:11:52Z,scientific-calculator-v1,0.2.1,Sarif Mia <sarifmia.ofc@gmail.com>,MIT,8730,A Python package for a scientific calculator
+2026-11-15T10:11:56Z,streamlit-mini-toolkit,0.1.0,Sarif Mia,MIT,84630,"25 everyday utilities (image, document, text and web tools) in one Streamlit app."
+2026-11-15T10:12:05Z,jinwu-gecam,0.3.0,,GPL-3.0-or-later,52105,GECAMTools interfaces and resumable GECAM workflows for jinwu.
+2026-11-15T10:12:33Z,nefisyemektarifleri-mcp,0.1.0,Mohammad Abbasi,MIT,33612,"Unofficial read-only MCP server for Nefis Yemek Tarifleri Turkish recipes (search, full recipes, categories, daily menu)"
+2026-11-15T10:15:06Z,freshguard,0.1.0,,,25739,Python client for the FreshGuard stale-answer detection API
+2026-11-15T10:15:31Z,vdotz,0.1.0,m09,Apache-2.0,79360,Running pace and race-time tools.
