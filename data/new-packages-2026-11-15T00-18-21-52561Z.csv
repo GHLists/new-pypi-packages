@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-14T23:20:44Z,costplan,0.1.0,Meenal Asesh,MIT,46277,"How much will my agent cost? Plan AI agent budgets, caps and spend from a handful of pilot runs"
+2026-11-14T23:21:06Z,todindex,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,86009,"Transit-oriented development (TOD) assessment of station areas: catchments, 3D/5D built-environment indicators, Bertolini node-place model and a composite TOD index with AHP or PCA weights."
+2026-11-14T23:21:16Z,mnlite,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,94612,"Lightweight discrete choice modelling for travel mode choice in numpy: multinomial and nested logit by maximum likelihood, robust standard errors, rho-squared, LR tests, elasticities, value of travel…"
+2026-11-14T23:21:17Z,segstats,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,96056,"Residential segregation and diversity indices for urban analysis: the five Massey-Denton dimensions, multigroup and spatial indices (Reardon-O'Sullivan, Wong, Morrill), local measures, permutation te…"
+2026-11-14T23:21:59Z,partiful-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15341,"Connect Partiful to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev, a hosted MCP server."
+2026-11-14T23:25:13Z,tr-bohhbuy,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,90083,"Surveying accuracy checks of the Turkish large-scale mapping regulation BÖHHBÜY 2018: traverse misclosure and Bowditch adjustment, leveling closures, KOH position tests, control checks and Gauss area…"
+2026-11-14T23:25:21Z,streetlos,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,68273,"Multimodal street level-of-service screening: walkway LOS by flow and space (average and platoon-adjusted), corner and crosswalk circulation area, NCHRP 616 / HCM 2010 pedestrian and bicycle segment…"
+2026-11-14T23:25:24Z,aadtkit,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,75554,"Traffic count processing and AADT estimation following the FHWA Traffic Monitoring Guide: AASHTO and hour-based AADT, expansion factors, factor groups, short-count expansion, K/D/peak-hour factors, F…"
+2026-11-14T23:28:45Z,parkingstudy,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,88286,"Parking occupancy and turnover survey analysis: inventory, occupancy by beat, effective capacity, licence-plate turnover and overstay with salted plate hashing, heatmaps, demand-responsive pricing ru…"
+2026-11-14T23:30:00Z,tinplate,1.0.8,Tinplate,MIT,9963,"Zero-dependency Python SDK for the Tinplate 42-API AI Safety, Security & Compliance Edge Gateway."
+2026-11-14T23:36:02Z,pyaml-cs-osprey,2026.11.0,,BSD-3-Clause,63723,pyAML control-system backend that routes every access through the OSPREY connector
+2026-11-14T23:38:36Z,repo-aleph,0.0.1,"Sachdeva, Kapil",Apache-2.0,17694,Repo Aleph
+2026-11-14T23:40:42Z,medre,0.1.0,,MIT,4407890,Modular event communications runtime
+2026-11-14T23:43:53Z,mailpier-inbox,0.1.0,Solutions Group Unlimited,MIT,40871,"MailPier Inbox client for Python tests: a fresh email address per test, wait for the mail, read its code and links. Includes a pytest fixture."
+2026-11-14T23:45:04Z,rulestamp-impressum-check-ddg-de,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36023,"Prüft Impressum-Dateien im Editor gegen § 5 DDG, § 18 Abs. 2 MStV und § 36 VSBG (bundled Node.js runtime)"
+2026-11-14T23:45:24Z,rulestamp-iot-data-notice-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35466,Checks a smart-device product data notice against Data Act Article 3(2)-(3) in VS Code (bundled Node.js runtime)
+2026-11-14T23:45:44Z,rulestamp-jct-transition-lint-2026,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33887,2026年9月30日で80%控除が終わります。10月1日からは50%ではなく70%です（令和8年度税制改正）。請求・仕入コードに残った 0.8 と 0.5、明細ごとの端数処理、T+13桁でない登録番号を、行番号と修正案つきで指摘します。 (bundled Node.js runtime)
+2026-11-14T23:46:04Z,rulestamp-jest-snapshot-pii-audit,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35868,15 rules that find the real customer data your .snap files committed (bundled Node.js runtime)
+2026-11-14T23:47:24Z,medre-adapter-matrix,0.1.0,,MIT,615920,matrix transport adapter for MEDRE
+2026-11-14T23:48:32Z,filedrawer,0.1.0,File Drawer,AGPL-3.0-only,6634787,"Checks File Drawer entries offline, with the analyzer filedrawer.dev runs."
+2026-11-14T23:48:47Z,medre-adapter-meshtastic,0.1.0,,MIT,411133,meshtastic transport adapter for MEDRE
+2026-11-14T23:51:37Z,medre-adapter-lxmf,0.1.0,,MIT,324254,lxmf transport adapter for MEDRE
+2026-11-14T23:52:49Z,medxpert-reg-connector,1.3.0,Steven Zhao,Apache-2.0,235449,"Read-only local MCP server: global medical-device regulatory knowledge hubs (NMPA/FDA/MDR/PMDA), 27 hubs, 7 tools, zero egress."
+2026-11-14T23:57:07Z,pyvefr,0.2.0,Dominik Drexler <dominik.drexler@liu.se>,,619242,"Graph algorithms over urd's graphs: color refinement, Weisfeiler-Leman, nauty, searches and shortest paths"
+2026-11-15T00:06:31Z,gillie,0.2.4,,Apache-2.0,6035533,An operating model and assistant for AI-assisted knowledge work
+2026-11-15T00:07:46Z,omnibuf,0.1.0,OmniBuf Contributors,MIT,30263893,"Explicit-typed, header-hop binary wire codec for Python"
+2026-11-15T00:08:26Z,r4py,4.6.2.1,,MIT AND GPL-2.0-or-later,428462872,"R, ready to roll. A complete R runtime in a Python wheel."
+2026-11-15T00:08:35Z,osprey-optimizer,2026.11.0,,BSD-3-Clause,330283,Xopt-driven machine optimization service for OSPREY
+2026-11-15T00:08:58Z,boomslang-lm,0.0.1,,,1497,Placeholder.
+2026-11-15T00:13:51Z,jitcatch,0.2.0,Ahmad Waqar,MIT,141741,"Just-in-Time catching test generation: LLM-generated tests that fail on risky code changes, with rule-based and LLM-judge false-positive filtering."
+2026-11-15T00:17:02Z,synclayer,0.1.0,Bradley Odimmasi,MIT,347688,"Synclayer - self-hosted cloud file manager with cross-platform sync (server, web, desktop, CLI)"

@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 51,
-    "from": "2026-11-14T22:19:30.420495Z",
-    "path": "data/new-packages-2026-11-14T23-19-58-20162Z.csv",
-    "to": "2026-11-14T23:19:58.20162Z"
+    "count": 31,
+    "from": "2026-11-14T23:19:58.20162Z",
+    "path": "data/new-packages-2026-11-15T00-18-21-52561Z.csv",
+    "to": "2026-11-15T00:18:21.52561Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-14T20:42:28Z",
       "package": "xr6-filter-wall",
       "since": "2026-11-14T20:20:05.049272Z",
       "version": null
     }
   ],
-  "serial": 43667335,
+  "serial": 43668932,
   "source_truncated": false,
-  "window": "2026-11-14T23:19:58.20162Z"
+  "window": "2026-11-15T00:18:21.52561Z"
 }

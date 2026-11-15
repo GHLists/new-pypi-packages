@@ -8,62 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 23:19 UTC
+## Latest list — 2026-11-15 00:18 UTC
 
-New packages created between 2026-11-14 22:19 UTC and 2026-11-14 23:19 UTC.
+New packages created between 2026-11-14 23:19 UTC and 2026-11-15 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-14T23-19-58-20162Z.csv)
+[Full CSV](data/new-packages-2026-11-15T00-18-21-52561Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-14 22:16:28 | [mailroom-mcp](https://pypi.org/project/mailroom-mcp/) | 1.0.0 | Tayeb Kahia | 105.4 kB | An MCP server for reading a Mailroom inbox and asking for redrafts. It cannot a… |
-| 2026-11-14 22:18:37 | [birdweather-mcp](https://pypi.org/project/birdweather-mcp/) | 0.2.3 | Paul Frederiksen <pfrederikse… | 342.4 kB | Self-hostable MCP server for BirdWeather stations (detections, species, stats). |
-| 2026-11-14 22:20:21 | [commonground-engine](https://pypi.org/project/commonground-engine/) | 0.2.0 |  | 188.8 kB | First-order verdicts with checked evidence, Lean certificates and conflict anal… |
-| 2026-11-14 22:29:38 | [sf-exit](https://pypi.org/project/sf-exit/) | 0.1.0 | sf-exit contributors | 90.9 kB | Leave Salesforce with all your data. One command exports every object, file and… |
-| 2026-11-14 22:30:30 | [scratchstore](https://pypi.org/project/scratchstore/) | 1.0.2 | gixtuh | 29.3 kB | ScratchStore is a cloud data store/database engine which lets you write anythin… |
-| 2026-11-14 22:34:39 | [colonymind-hermes](https://pypi.org/project/colonymind-hermes/) | 1.0.0 |  | 588.6 kB | ColonyMind's adapter and memory provider for stock Hermes. A mind for Hermes ag… |
-| 2026-11-14 22:34:58 | [colonymind](https://pypi.org/project/colonymind/) | 1.0.0 |  | 8.0 MB | A mind for Hermes agents: persistent memory, commitments, initiative and measur… |
-| 2026-11-14 22:37:04 | [pynecomp](https://pypi.org/project/pynecomp/) | 0.1.0 | PYNESYS LLC <hello@pynesys.co… | 1.2 kB | PyneComp, the Pine Script to Python compiler of PyneSys: installs PyneCore with… |
-| 2026-11-14 22:37:06 | [pynecore](https://pypi.org/project/pynecore/) | 0.1.0 | PYNESYS LLC <hello@pynesys.co… | 1.2 kB | Installs PyneCore, published on PyPI as pynesys-pynecore |
-| 2026-11-14 22:37:07 | [pynefair](https://pypi.org/project/pynefair/) | 0.1.0 | PYNESYS LLC <hello@pynesys.co… | 1.0 kB | PyneFair, a project of PyneSys |
-| 2026-11-14 22:37:09 | [pyneide](https://pypi.org/project/pyneide/) | 0.1.0 | PYNESYS LLC <hello@pynesys.co… | 1.2 kB | PyneIDE is a VS Code extension: this package points to where to install it |
-| 2026-11-14 22:43:51 | [suvereo-model-anthropic](https://pypi.org/project/suvereo-model-anthropic/) | 1.0.0 | Mateusz Porębski | 5.0 kB | A plugin for Suvereo that provides an Anthropic connector. |
-| 2026-11-14 22:43:52 | [suvereo-model-google](https://pypi.org/project/suvereo-model-google/) | 1.0.0 | Damian Sowiński | 5.0 kB | A plugin for Suvereo that provides a Google Gemini connector. |
-| 2026-11-14 22:44:21 | [ragspark](https://pypi.org/project/ragspark/) | 0.3.0 |  | 563.9 kB | Unified One-Command Industry RAG Pipeline Library with Hybrid Search, Query Rew… |
-| 2026-11-14 22:46:57 | [aws_sdk_codebuild](https://pypi.org/project/aws_sdk_codebuild/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_codebuild name. Not yet functional. |
-| 2026-11-14 22:47:09 | [backend-switchboard](https://pypi.org/project/backend-switchboard/) | 0.1.1 | Neil Getty | 44.2 kB | Switch Claude Code between your Anthropic subscription, Argo, MAG and ALCF mode… |
-| 2026-11-14 22:48:03 | [bittorrent-client](https://pypi.org/project/bittorrent-client/) | 0.2.0 | Omar Aflak | 45.9 kB | A lightweight, robust BitTorrent client built with pure Python standard library. |
-| 2026-11-14 22:50:06 | [mpremote-sync](https://pypi.org/project/mpremote-sync/) | 0.1.0 | ambadran | 12.4 kB | Verify and sync Python files to a MicroPython device via mpremote |
-| 2026-11-14 22:50:48 | [aws_sdk_kendra](https://pypi.org/project/aws_sdk_kendra/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_kendra name. Not yet functional. |
-| 2026-11-14 22:51:09 | [aws_sdk_rekognition](https://pypi.org/project/aws_sdk_rekognition/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_rekognition name. Not yet functional. |
-| 2026-11-14 22:51:32 | [aws_sdk_codecommit](https://pypi.org/project/aws_sdk_codecommit/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_codecommit name. Not yet functional. |
-| 2026-11-14 22:52:05 | [uuid58](https://pypi.org/project/uuid58/) | 0.1.0 | Nakano as a Service | 15.0 kB | Encode UUIDs as 22-character, order-preserving Base58 strings (uuid58) |
-| 2026-11-14 22:56:43 | [embodied-ai-schemas](https://pypi.org/project/embodied-ai-schemas/) | 0.25.0 | Branes-ai Team | 1.2 MB | Shared schemas and factual data for embodied AI hardware/software codesign |
-| 2026-11-14 22:57:48 | [opds-client](https://pypi.org/project/opds-client/) | 0.0.2 | sevdani | 45.7 kB | OPDS Client Library for Python |
-| 2026-11-14 22:57:59 | [r4-contracts](https://pypi.org/project/r4-contracts/) | 0.0.0 |  | 2.2 kB | Name reserved for https://github.com/R-CCS-HPBD/r4. Not a usable release; real… |
-| 2026-11-14 22:58:00 | [umrs](https://pypi.org/project/umrs/) | 0.0.0 |  | 2.1 kB | Name reserved for https://github.com/UMRS-org/umrs. Not a usable release; real… |
-| 2026-11-14 22:58:01 | [umrs-protocol](https://pypi.org/project/umrs-protocol/) | 0.0.0 |  | 2.2 kB | Name reserved for https://github.com/UMRS-org/umrs. Not a usable release; real… |
-| 2026-11-14 23:00:27 | [urbanscaling](https://pypi.org/project/urbanscaling/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 91.3 kB | Urban scaling laws Y = Y0 N^beta: OLS, RMA, robust and nonlinear fits, bootstra… |
-| 2026-11-14 23:00:36 | [shiftshare](https://pypi.org/project/shiftshare/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 75.1 kB | Regional economic analysis for planners: location quotients (SLQ, CILQ, FLQ, AF… |
-| 2026-11-14 23:00:38 | [ranksize](https://pypi.org/project/ranksize/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 74.8 kB | City-size distributions: Zipf rank-size regression with the Gabaix-Ibragimov co… |
-| 2026-11-14 23:02:05 | [edcal](https://pypi.org/project/edcal/) | 1.0.1 | Nghia Vo <nvo@bnl.gov> | 160.5 kB | GUI software for energy and q calibration of energy-dispersive X-ray detectors,… |
-| 2026-11-14 23:04:26 | [depthdamage](https://pypi.org/project/depthdamage/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 99.1 kB | Flood damage and risk for buildings and land use: depth-damage curves with firs… |
-| 2026-11-14 23:04:33 | [boardwright](https://pypi.org/project/boardwright/) | 0.1.0 | heibench | 141.8 kB | Generate and edit KiCad boards and schematics from a short Python description,… |
-| 2026-11-14 23:04:38 | [homeafford](https://pypi.org/project/homeafford/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 63.8 kB | Housing affordability metrics: price-to-income and median multiple, rent-to-inc… |
-| 2026-11-14 23:04:49 | [lczlite](https://pypi.org/project/lczlite/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 86.4 kB | Local Climate Zone (Stewart & Oke 2012) classification from urban canopy parame… |
-| 2026-11-14 23:06:15 | [flagstone-sdk](https://pypi.org/project/flagstone-sdk/) | 0.1.0 | Tejas Ashri | 16.9 kB | Python SDK for Flagstone feature flags: local flag evaluation, percentage rollo… |
-| 2026-11-14 23:07:31 | [astro-weights](https://pypi.org/project/astro-weights/) | 0.0.1 | Indranil Biswas | 26.9 kB | Agent-driven weight-space edits for open LLMs, exported as standard LoRA adapte… |
-| 2026-11-14 23:08:19 | [cohortproj](https://pypi.org/project/cohortproj/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 86.1 kB | Cohort-component population projection: abridged and single-year life tables, s… |
-| 2026-11-14 23:08:19 | [tripdist](https://pypi.org/project/tripdist/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 89.8 kB | Trip generation and distribution for the four-step model: regression and cross-… |
-| 2026-11-14 23:08:31 | [parcelform](https://pypi.org/project/parcelform/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 91.6 kB | Parcel and lot geometry metrics from GeoJSON polygons: shape indices, minimum-a… |
-| 2026-11-14 23:10:11 | [enforced](https://pypi.org/project/enforced/) | 0.1.0 |  | 738.9 kB | Runtime type checking for Python, driven by the annotations you already write. |
-| 2026-11-14 23:11:23 | [django-octo](https://pypi.org/project/django-octo/) | 0.1.7 | Jean Carlos <jeanpmodev@gmail… | 12.6 kB | Enterprise Django-Octo Core Orchestrator unifying SEO, Security, and Dual-Chann… |
-| 2026-11-14 23:12:11 | [fritzos8-mcp](https://pypi.org/project/fritzos8-mcp/) | 0.1.0 | Tom Wellnitz | 591.5 kB | Platform MCP server for AVM FRITZ!Box with FRITZ!OS 8 (TR-064 + /api/v0 REST) w… |
-| 2026-11-14 23:12:19 | [greenrule](https://pypi.org/project/greenrule/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 90.0 kB | Urban green space provision and exposure indicators: the 3-30-300 rule, the WHO… |
-| 2026-11-14 23:14:16 | [mlx-covi](https://pypi.org/project/mlx-covi/) | 0.0.0 | Mani K. Woodward | 5.6 kB | Image Processing and Analysis in Python using MLX for Apple Silicon |
-| 2026-11-14 23:14:47 | [mlx-med](https://pypi.org/project/mlx-med/) | 0.0.0 | Mani K. Woodward | 5.6 kB | Medical Image Processing and Analysis in Python using MLX for Apple Silicon |
-| 2026-11-14 23:17:29 | [isolines](https://pypi.org/project/isolines/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 76.8 kB | Contour lines and filled contours (isobands) from grids and scattered points: m… |
-| 2026-11-14 23:17:33 | [sprawlmetrics](https://pypi.org/project/sprawlmetrics/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 84.3 kB | Urban expansion and sprawl metrics from multi-date binary built-up rasters: gro… |
-| 2026-11-14 23:17:51 | [tr-gurultu](https://pypi.org/project/tr-gurultu/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 96.7 kB | Turkish environmental noise regulation helpers: Lgündüz/Lakşam/Lgece/Lgag (Lden… |
-| 2026-11-14 23:18:19 | [wiltech-labs-organization](https://pypi.org/project/wiltech-labs-organization/) | 1.0.0 | Wiliam Ferraciolli | 20.9 kB | An organisation's structure for Wiltech apps: org chart items in the shape @wil… |
-| 2026-11-14 23:18:42 | [edu-mcp](https://pypi.org/project/edu-mcp/) | 1.0.0 | Edu MCP Contributors | 457.5 kB | Unified Model Context Protocol (MCP) server for French school platforms (Pronot… |
+| 2026-11-14 23:20:44 | [costplan](https://pypi.org/project/costplan/) | 0.1.0 | Meenal Asesh | 46.3 kB | How much will my agent cost? Plan AI agent budgets, caps and spend from a handf… |
+| 2026-11-14 23:21:06 | [todindex](https://pypi.org/project/todindex/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 86.0 kB | Transit-oriented development (TOD) assessment of station areas: catchments, 3D/… |
+| 2026-11-14 23:21:16 | [mnlite](https://pypi.org/project/mnlite/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 94.6 kB | Lightweight discrete choice modelling for travel mode choice in numpy: multinom… |
+| 2026-11-14 23:21:17 | [segstats](https://pypi.org/project/segstats/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 96.1 kB | Residential segregation and diversity indices for urban analysis: the five Mass… |
+| 2026-11-14 23:21:59 | [partiful-mcp](https://pypi.org/project/partiful-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 15.3 kB | Connect Partiful to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev,… |
+| 2026-11-14 23:25:13 | [tr-bohhbuy](https://pypi.org/project/tr-bohhbuy/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 90.1 kB | Surveying accuracy checks of the Turkish large-scale mapping regulation BÖHHBÜY… |
+| 2026-11-14 23:25:21 | [streetlos](https://pypi.org/project/streetlos/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 68.3 kB | Multimodal street level-of-service screening: walkway LOS by flow and space (av… |
+| 2026-11-14 23:25:24 | [aadtkit](https://pypi.org/project/aadtkit/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 75.6 kB | Traffic count processing and AADT estimation following the FHWA Traffic Monitor… |
+| 2026-11-14 23:28:45 | [parkingstudy](https://pypi.org/project/parkingstudy/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 88.3 kB | Parking occupancy and turnover survey analysis: inventory, occupancy by beat, e… |
+| 2026-11-14 23:30:00 | [tinplate](https://pypi.org/project/tinplate/) | 1.0.8 | Tinplate | 10.0 kB | Zero-dependency Python SDK for the Tinplate 42-API AI Safety, Security & Compli… |
+| 2026-11-14 23:36:02 | [pyaml-cs-osprey](https://pypi.org/project/pyaml-cs-osprey/) | 2026.11.0 |  | 63.7 kB | pyAML control-system backend that routes every access through the OSPREY connec… |
+| 2026-11-14 23:38:36 | [repo-aleph](https://pypi.org/project/repo-aleph/) | 0.0.1 | Sachdeva, Kapil | 17.7 kB | Repo Aleph |
+| 2026-11-14 23:40:42 | [medre](https://pypi.org/project/medre/) | 0.1.0 |  | 4.4 MB | Modular event communications runtime |
+| 2026-11-14 23:43:53 | [mailpier-inbox](https://pypi.org/project/mailpier-inbox/) | 0.1.0 | Solutions Group Unlimited | 40.9 kB | MailPier Inbox client for Python tests: a fresh email address per test, wait fo… |
+| 2026-11-14 23:45:04 | [rulestamp-impressum-check-ddg-de](https://pypi.org/project/rulestamp-impressum-check-ddg-de/) | 1.0.5 | Rulestamp <support@getreadyst… | 36.0 kB | Prüft Impressum-Dateien im Editor gegen § 5 DDG, § 18 Abs. 2 MStV und § 36 VSBG… |
+| 2026-11-14 23:45:24 | [rulestamp-iot-data-notice-lint](https://pypi.org/project/rulestamp-iot-data-notice-lint/) | 1.0.2 | Rulestamp <support@getreadyst… | 35.5 kB | Checks a smart-device product data notice against Data Act Article 3(2)-(3) in… |
+| 2026-11-14 23:45:44 | [rulestamp-jct-transition-lint-2026](https://pypi.org/project/rulestamp-jct-transition-lint-2026/) | 0.1.8 | Rulestamp <support@getreadyst… | 33.9 kB | 2026年9月30日で80%控除が終わります。10月1日からは50%ではなく70%です（令和8年度税制改正）。請求・仕入コードに残った 0.8 と 0.5、明… |
+| 2026-11-14 23:46:04 | [rulestamp-jest-snapshot-pii-audit](https://pypi.org/project/rulestamp-jest-snapshot-pii-audit/) | 1.0.6 | Rulestamp <support@getreadyst… | 35.9 kB | 15 rules that find the real customer data your .snap files committed (bundled N… |
+| 2026-11-14 23:47:24 | [medre-adapter-matrix](https://pypi.org/project/medre-adapter-matrix/) | 0.1.0 |  | 615.9 kB | matrix transport adapter for MEDRE |
+| 2026-11-14 23:48:32 | [filedrawer](https://pypi.org/project/filedrawer/) | 0.1.0 | File Drawer | 6.6 MB | Checks File Drawer entries offline, with the analyzer filedrawer.dev runs. |
+| 2026-11-14 23:48:47 | [medre-adapter-meshtastic](https://pypi.org/project/medre-adapter-meshtastic/) | 0.1.0 |  | 411.1 kB | meshtastic transport adapter for MEDRE |
+| 2026-11-14 23:51:37 | [medre-adapter-lxmf](https://pypi.org/project/medre-adapter-lxmf/) | 0.1.0 |  | 324.3 kB | lxmf transport adapter for MEDRE |
+| 2026-11-14 23:52:49 | [medxpert-reg-connector](https://pypi.org/project/medxpert-reg-connector/) | 1.3.0 | Steven Zhao | 235.4 kB | Read-only local MCP server: global medical-device regulatory knowledge hubs (NM… |
+| 2026-11-14 23:57:07 | [pyvefr](https://pypi.org/project/pyvefr/) | 0.2.0 | Dominik Drexler <dominik.drex… | 619.2 kB | Graph algorithms over urd's graphs: color refinement, Weisfeiler-Leman, nauty,… |
+| 2026-11-15 00:06:31 | [gillie](https://pypi.org/project/gillie/) | 0.2.4 |  | 6.0 MB | An operating model and assistant for AI-assisted knowledge work |
+| 2026-11-15 00:07:46 | [omnibuf](https://pypi.org/project/omnibuf/) | 0.1.0 | OmniBuf Contributors | 30.3 MB | Explicit-typed, header-hop binary wire codec for Python |
+| 2026-11-15 00:08:26 | [r4py](https://pypi.org/project/r4py/) | 4.6.2.1 |  | 428.5 MB | R, ready to roll. A complete R runtime in a Python wheel. |
+| 2026-11-15 00:08:35 | [osprey-optimizer](https://pypi.org/project/osprey-optimizer/) | 2026.11.0 |  | 330.3 kB | Xopt-driven machine optimization service for OSPREY |
+| 2026-11-15 00:08:58 | [boomslang-lm](https://pypi.org/project/boomslang-lm/) | 0.0.1 |  | 1.5 kB | Placeholder. |
+| 2026-11-15 00:13:51 | [jitcatch](https://pypi.org/project/jitcatch/) | 0.2.0 | Ahmad Waqar | 141.7 kB | Just-in-Time catching test generation: LLM-generated tests that fail on risky c… |
+| 2026-11-15 00:17:02 | [synclayer](https://pypi.org/project/synclayer/) | 0.1.0 | Bradley Odimmasi | 347.7 kB | Synclayer - self-hosted cloud file manager with cross-platform sync (server, we… |
