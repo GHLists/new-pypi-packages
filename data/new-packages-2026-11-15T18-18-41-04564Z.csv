@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T17:19:16Z,dbhealth-agent,0.1.0,,LicenseRef-Proprietary,86815,"DBHealth client-side agent -- collects PostgreSQL health metrics, strips query literals/IPs/app names on a best-effort basis, and sends the sanitized aggregates to the DBHealth API."
+2026-11-15T17:23:35Z,cloakapi,0.5.1,CloakAPI <sdk@cloakapi.io>,Apache-2.0,21209810,"CloakAPI Python client: detects personal data with structured rules on your machine, replaces it with stand-ins before the request is sent, and restores the reply. Without the on-device engine it run…"
+2026-11-15T17:25:27Z,b3os-langchain,0.1.0,,Apache-2.0,259139,LangChain integrations for B3OS beta: a Deep Agents sandbox backend on a B3OS sandbox.
+2026-11-15T17:25:34Z,revenant-rgb,1.0.0,,MIT,173994,"Unofficial cross-platform driver for the CZC.Gaming Revenant keyboard: RGB lighting, key remapping, macros and profiles - CLI, TUI and web UI"
+2026-11-15T17:33:57Z,tealui,0.3.0,octalynx,MIT,563271,"A tiny, clean, pythonic UI library that renders plain HTML with Tailwind and Alpine."
+2026-11-15T17:34:26Z,xselfbot,4.0.0,,MIT,167571,"X client for python — posting, reading, search and streaming, no API key."
+2026-11-15T17:34:39Z,sg-exposure-check,0.1.0,Narayana Vemburaj,MIT,33269,"Find AWS security groups that expose sensitive ports to the internet, and show which instances, load balancers and databases they actually reach."
+2026-11-15T17:39:22Z,klew,0.1.0,Klew contributors,MIT,116383,Self-improving code context for coding agents: an MCP server that walks a code graph in HydraDB and learns from every merged PR.
+2026-11-15T17:40:50Z,browserr-mcp,0.7.2,Omodaka9375,Apache-2.0,11616,"MCP server for Browserr, the Servo-based agent browser. One command; the platform engine binary is downloaded and digest-verified on first run."
+2026-11-15T17:44:25Z,sara-qec,0.1.0,,,44739,Quantum Error Correction simulation and analysis tools
+2026-11-15T17:45:18Z,tradesmart,2.0.0,TradeSmart Fintech Securities Limited,Apache-2.0,360045,Python SDK for the TradeSmart API V2 (REST and WebSocket).
+2026-11-15T17:46:37Z,failsafe-hook,1.0.0,Mohamed Azahrioui <mohamedazahrioui2006@gmail.com>,MIT,53863,Zero-config agent seatbelt for Claude Code
+2026-11-15T17:48:24Z,crossfoot,0.1.0,Ram Vikram Singh,MIT,74894,"Fail-closed numeric grounding checks for LLM output: verifies stated and derived numbers, direction words and citations."
+2026-11-15T17:49:10Z,trimgate,0.0.1,Mohamed Azahrioui,Apache-2.0 AND CC-BY-4.0,69243,"Deterministic, test-time auditor that checks an enterprise RAG pipeline does not surface a chunk to an unauthorized identity."
+2026-11-15T17:50:07Z,jzr-tools,0.1.0,JZR SUPOVE,Apache-2.0,574778,"Fast everyday command-line tools: convert images, video and audio, trim and compress media, make GIFs, edit audio tags, free busy ports and clean up your machine."
+2026-11-15T17:50:16Z,sckitlearn,1.0.0,,,17488,
+2026-11-15T17:51:19Z,browser-commander,0.5.4,Link Foundation,Unlicense,1068993,Universal browser automation library that supports both Playwright and Selenium with a unified API
+2026-11-15T17:52:24Z,tealdb,0.2.2,octalynx,MIT,383133,One consistent function-style API for many databases.
+2026-11-15T17:52:54Z,hermes-mai-image,0.2.1,joescars,MIT,54731,Microsoft Foundry MAI image generation backend for Hermes Agent
+2026-11-15T17:53:09Z,qriton,0.1.0,"""Qriton Technologies S.R.L."" <office@qriton.com>",MIT,28608,"An independent record of what your AI system was told, changed and decided."
+2026-11-15T17:53:24Z,dj-craft-tally,0.1.0,Alberto Morón Hernández,AGPL-3.0-or-later,78818,A Django app to help makers track projects and inventory in their workshop.
+2026-11-15T17:54:38Z,tesserae-utils,0.2.1,Mind Derivative,MIT,91308,"Shared converters for the Tesserae projects: the value forms a TDL file writes, as the one form tre takes."
+2026-11-15T17:55:31Z,ccounts,0.1.0a0,,MIT,33067612,Genomic bin counting and explicit depth normalization
+2026-11-15T17:57:26Z,kubesift,2.0.0,Opeyemi Adeniji,Apache-2.0,346813,"Kubernetes troubleshooting that explains itself: evidence-based diagnosis, change correlation, cost and upgrade checks. CLI, kubectl plugin, MCP server and in-cluster service."
+2026-11-15T17:57:56Z,qriton-record,0.1.0,"""Qriton Technologies S.R.L."" <office@qriton.com>",MIT,28742,"An independent record of what your AI system was told, changed and decided."
+2026-11-15T17:58:07Z,sqmdb,0.1.0,Ben Bellman,MIT,64937,"Polars-first soccer tracking surfaces based on Martens, Dick, and Brefeld (2021)"
+2026-11-15T18:00:34Z,reachburn,0.1.0,Evgenii Arsentev,MIT,48847,"What would your AI content output cost with people? Prices weekly AI video output against a human studio (roles × headcount ranges × BLS wages + shoot days) and against paid reach. Ranges, not point…"
+2026-11-15T18:01:25Z,tdock,0.1.1,TaeinYoon,MIT,60581,A terminal UI for managing Docker containers on GPU servers
+2026-11-15T18:05:18Z,kafka-reassign-planner,0.1.0,Narayana Vemburaj,MIT,43298,"Plan balanced, batched Kafka partition reassignments that move as little data as possible."
+2026-11-15T18:08:36Z,rpki-ccr,0.1.0,Ties de Kock,BSD-3-Clause,2663118,Parser and encoder for RPKI Canonical Cache Representation (CCR) files
+2026-11-15T18:12:03Z,realornoise,2.3.0,,Apache-2.0,14762,"Did your coding agent get worse? Reads the Claude Code and Codex session logs on your disk and answers real drop, no drop or cannot tell. Sends nothing."
+2026-11-15T18:12:36Z,lino-rest-api,0.3.1,Link Foundation,"This is free and unencumbered software released into the public domain. Anyone is free to copy, mod…",145712,REST API framework using Links Notation (LINO) instead of JSON
+2026-11-15T18:12:53Z,volengine,0.9.0,,,11552827,GARCH volatility estimation over the VolEngine C API
+2026-11-15T18:16:20Z,ambermeta,1.4.0,AmberMeta Contributors,BUSL-1.1,2697192,Simulation provenance extraction utilities for AMBER molecular dynamics runs.
+2026-11-15T18:17:16Z,skewtape,0.1.3,,MIT,439241,"Skewtape API client: prediction-market data across venues in one schema, with matched events."
