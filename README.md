@@ -8,37 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:21 UTC
+## Latest list — 2026-11-15 06:20 UTC
 
-New packages created between 2026-11-15 04:18 UTC and 2026-11-15 05:21 UTC.
+New packages created between 2026-11-15 05:21 UTC and 2026-11-15 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-15T05-21-52-433178Z.csv)
+[Full CSV](data/new-packages-2026-11-15T06-20-46-077424Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-15 04:20:45 | [jupyterminal](https://pypi.org/project/jupyterminal/) | 0.0.1.dev0 | Asger Jon Vistisen | 448.5 kB | A terminal emulator whose session is a list of command blocks. |
-| 2026-11-15 04:22:38 | [relcon-docs](https://pypi.org/project/relcon-docs/) | 0.1.0 | Relaxed Constraints | 73.1 kB | Shared documentation defaults, styling, and configuration tools for Zensical |
-| 2026-11-15 04:22:53 | [castle-music-midi](https://pypi.org/project/castle-music-midi/) | 0.1.0 | Tu Nombre | 13.3 kB | App de terminal que convierte la música de blueprints de Castle a archivos MIDI |
-| 2026-11-15 04:24:17 | [polite-scraper](https://pypi.org/project/polite-scraper/) | 1.0.1 | callmekriztal | 47.0 kB | A rate-limited, cache-first web scraper with a rich terminal UI, robots.txt awa… |
-| 2026-11-15 04:34:23 | [redact0](https://pypi.org/project/redact0/) | 1.0.0 |  | 27.6 kB | Zero-dependency reversible PII, secret, FHIR HIPAA Safe Harbor, and streaming L… |
-| 2026-11-15 04:38:30 | [quant-curve](https://pypi.org/project/quant-curve/) | 0.1.0 | Stephen Lutar <stephen@szlhol… | 38.1 kB | Quant Curve — quantization quality-vs-resource Pareto frontier and promotion ga… |
-| 2026-11-15 04:40:00 | [glimsy](https://pypi.org/project/glimsy/) | 0.1.0 | Glimsy sp. z o.o. | 117.3 kB | Official Python library for managing your own Glimsy flashcards through the Gli… |
-| 2026-11-15 04:40:25 | [u7y](https://pypi.org/project/u7y/) | 0.0.1 | u7y project | 2.5 kB | CLI for u7y - continuous usability verification: synthetic personas run real ta… |
-| 2026-11-15 04:41:02 | [commerceforai](https://pypi.org/project/commerceforai/) | 0.1.0 |  | 14.2 kB | Commerce for apps built by AI agents: products, inventory, Stripe checkout, ord… |
-| 2026-11-15 04:41:48 | [weida](https://pypi.org/project/weida/) | 0.1.0a16 |  | 15.7 MB | weida for Python over its C ABI: messaging on QUIC (Req/Rep with streamed bodie… |
-| 2026-11-15 04:49:30 | [molt-handoff](https://pypi.org/project/molt-handoff/) | 1.0.1 | molt contributors | 339.7 kB | 让一个数字生命从一台机器，走进另一台机器；旧壳留下，魂走。 |
-| 2026-11-15 04:51:02 | [qsignt](https://pypi.org/project/qsignt/) | 0.1.0 |  | 22.9 kB | QsigNT signer 注册工具：OpenPGP 上行 + X25519 下行 |
-| 2026-11-15 04:54:17 | [tieout](https://pypi.org/project/tieout/) | 0.1.0 | Vinay K Rajith | 203.1 kB | Open-source reconciliation engine: match bank, payment-provider, ledger and inv… |
-| 2026-11-15 04:55:05 | [kankan](https://pypi.org/project/kankan/) | 0.1.0 |  | 126.5 kB | Kolmogorov-Arnold Networks with Kaczmarz-Newton learning |
-| 2026-11-15 04:58:24 | [aionodes](https://pypi.org/project/aionodes/) | 0.1.0 | Nikola <Nikola02@gmail.com> | 2.6 kB | A lightweight library for working with AI nodes: data loading, request handling… |
-| 2026-11-15 05:03:42 | [pymvis](https://pypi.org/project/pymvis/) | 0.1.0 | Yulin Yang <contact@openmvis.… | 2.5 MB | Camera and camera-IMU calibration toolbox — multi-camera, multi-IMU, on-manifol… |
-| 2026-11-15 05:05:35 | [hallustream](https://pypi.org/project/hallustream/) | 0.2.0 | Pranav Sethia | 287.5 kB | Flag the facts an open LLM is probably making up, from its hidden states, as it… |
-| 2026-11-15 05:06:55 | [django-bootstrap6-admin](https://pypi.org/project/django-bootstrap6-admin/) | 0.1.0 | Aliberk Sandıkçı <git@asandik… | 343.7 kB | A modern Bootstrap 6 skin for the Django admin. |
-| 2026-11-15 05:10:48 | [PlusInPath](https://pypi.org/project/PlusInPath/) | 1.0.0 |  | 1.4 MB | Ships the DevC++ installer inside the package; setup() extracts and runs it. |
-| 2026-11-15 05:12:28 | [newswave-newsroom-specs](https://pypi.org/project/newswave-newsroom-specs/) | 0.1.0 | NewsWave Gazette Technical Re… | 4.0 kB | Technical specifications, SPF/DKIM/DMARC protocols, and spam filtering benchmar… |
-| 2026-11-15 05:15:30 | [ragaudit-cli](https://pypi.org/project/ragaudit-cli/) | 0.3.0 | Ali Ekramy Ismail <alii.ekram… | 285.6 kB | Test a RAG pipeline in minutes: catch correct answers that retrieval didn't ear… |
-| 2026-11-15 05:16:05 | [hidesay-bot](https://pypi.org/project/hidesay-bot/) | 0.2.0 | Hidesay | 661.1 kB | Bots for Hidesay: the whole Bot API, end-to-end encryption included. |
-| 2026-11-15 05:16:36 | [amu-mem0](https://pypi.org/project/amu-mem0/) | 0.1.0 | Venkata Sangaraju | 159.1 kB | Derivation-gated reads for mem0: a memory is returned only if the requester is… |
-| 2026-11-15 05:17:29 | [gatepay-sdk-python](https://pypi.org/project/gatepay-sdk-python/) | 99.99.1 | bytesnull | 1.9 kB | Security research — dependency confusion PoC (bug bounty, no malicious payload) |
-| 2026-11-15 05:17:32 | [videokit](https://pypi.org/project/videokit/) | 0.1.0 | Dharshan | 55.5 kB | A beginner-friendly Python video editing library powered by FFmpeg |
-| 2026-11-15 05:19:19 | [langchain-starring](https://pypi.org/project/langchain-starring/) | 0.1.0 | Star-Ring AI Behavior Securit… | 17.9 kB | LangChain callback that blocks malicious agent tool-call chains (behavior-chain… |
+| 2026-11-15 05:29:29 | [thegti](https://pypi.org/project/thegti/) | 1.0.5 |  | 11.1 kB | A tiny GTA: San Andreas-inspired terminal loading-screen prank. |
+| 2026-11-15 05:31:34 | [noisechisel-torch](https://pypi.org/project/noisechisel-torch/) | 0.1.0 |  | 86.2 kB | PyTorch (CPU/GPU) re-implementation of Gnuastro's NoiseChisel detection program |
+| 2026-11-15 05:38:17 | [delphi-kit](https://pypi.org/project/delphi-kit/) | 0.2.0 |  | 88.0 kB | Read and trade Delphi prediction markets from Python and AI agents, with no API… |
+| 2026-11-15 05:39:05 | [opum-comm](https://pypi.org/project/opum-comm/) | 0.1.5 | Opum AI | 663.4 kB | Signed cross-account messaging between Claude Code sessions, with first-class L… |
+| 2026-11-15 05:41:46 | [mcp-il-professionals](https://pypi.org/project/mcp-il-professionals/) | 0.1.1 | Oleg Sher | 21.2 kB | Verify licensed professionals in Israel for AI agents: real-estate brokers, reg… |
+| 2026-11-15 05:41:56 | [strikethrough](https://pypi.org/project/strikethrough/) | 1.0.1 | Ayan Alam <knexyce@proton.me> | 38.9 kB | The command-line interface and distribution layer for Skywatch, an autonomous l… |
+| 2026-11-15 05:44:01 | [lyznet](https://pypi.org/project/lyznet/) | 0.1.0 | Jun Liu <23146644+j49liu@user… | 218.7 kB | Learning and formal verification of Lyapunov certificates |
+| 2026-11-15 05:44:32 | [mcp-il-health](https://pypi.org/project/mcp-il-health/) | 0.1.1 | Oleg Sher | 18.9 kB | Israeli Ministry of Health registries for AI agents: doctor licence verificatio… |
+| 2026-11-15 05:46:03 | [mfe-player](https://pypi.org/project/mfe-player/) | 0.3.6 | Omkar | 10.9 MB | A plugin-driven terminal music player: mpv, ratatui, no subscription, no accoun… |
+| 2026-11-15 05:50:40 | [amt-auth](https://pypi.org/project/amt-auth/) | 0.2.1 | A Million Techies | 48.7 kB | Keycloak authentication for the A Million Techies ecosystem: JWT validation, or… |
+| 2026-11-15 05:54:10 | [peakbasiclib](https://pypi.org/project/peakbasiclib/) | 0.1.0 | peak | 148.9 kB | Peak 基础工具库：加密、文件、数据库(MySQL/Mongo/PostgreSQL)、网络通信、AI 与人脸识别等常用封装 |
+| 2026-11-15 05:54:11 | [android-build-agent](https://pypi.org/project/android-build-agent/) | 1.0.3 | Tommyface | 48.1 kB | 把 Android 构建能力以 MCP / CLI 形式暴露给 AI Agent |
+| 2026-11-15 05:54:37 | [agentcogs](https://pypi.org/project/agentcogs/) | 0.1.1 | AgentCOGS <hello@agentcogs.de… | 32.3 kB | Per-customer LLM cost attribution and runtime budget caps for agent SaaS |
+| 2026-11-15 05:54:43 | [scrapy-adscrawl](https://pypi.org/project/scrapy-adscrawl/) | 0.1.0 | AdsCrawl | 19.8 kB | Opt-in Scrapy downloader middleware for AdsCrawl rendered HTML |
+| 2026-11-15 05:56:06 | [mudm-mcp](https://pypi.org/project/mudm-mcp/) | 0.1.0 | Bengt Ljungquist | 84.6 kB | Local MCP server to discover, access, and locally analyze the muDM static spati… |
+| 2026-11-15 05:57:20 | [mcp-il-vehicles](https://pypi.org/project/mcp-il-vehicles/) | 0.1.1 | Oleg Sher | 20.8 kB | Israeli vehicle registry for AI agents: plate lookup, open recalls, model specs… |
+| 2026-11-15 05:57:45 | [bootstrap-python](https://pypi.org/project/bootstrap-python/) | 0.1.0 | bootstrap-python contributors | 63.2 kB | 用 Pydantic 模型描述 Bootstrap 5 界面，并渲染成 HTML |
+| 2026-11-15 05:57:55 | [mcp-il-companies](https://pypi.org/project/mcp-il-companies/) | 0.1.1 | Oleg Sher | 21.8 kB | Due diligence on Israeli companies, partnerships, nonprofits (עמותות) and publi… |
+| 2026-11-15 06:01:08 | [xqo-agency](https://pypi.org/project/xqo-agency/) | 3.1.0 | dudikkocak | 13.2 kB | xqo agency: import agents from the agency-agents prompt library |
+| 2026-11-15 06:01:09 | [xqo-channels](https://pypi.org/project/xqo-channels/) | 3.1.0 | dudikkocak | 40.4 kB | Messaging channels for xqo: Telegram, WhatsApp, Instagram, X, Threads, Gmail, S… |
+| 2026-11-15 06:01:12 | [xqo-feeds](https://pypi.org/project/xqo-feeds/) | 3.1.0 | dudikkocak | 41.2 kB | Local feeds and rules that wake xqo agents |
+| 2026-11-15 06:01:13 | [xqo-peering](https://pypi.org/project/xqo-peering/) | 3.1.0 | dudikkocak | 19.3 kB | Messages and files between separate xqo HQs |
+| 2026-11-15 06:01:22 | [translations-api](https://pypi.org/project/translations-api/) | 1.0.0 | Translations API <support@tra… | 19.7 kB | Python client for Translations API - Multi-language translation management with… |
+| 2026-11-15 06:03:51 | [gtm-pilot](https://pypi.org/project/gtm-pilot/) | 1.0.0 | Madhur Prakash <madhurprakash… | 62.0 kB | A guided menu for gputaskman: live view, snapshots, recordings, summaries and b… |
+| 2026-11-15 06:07:39 | [pymc-bot](https://pypi.org/project/pymc-bot/) | 0.1.0 | codero-sus | 1.2 MB | A Python-controlled Minecraft player bot (cracked / offline-mode servers) with… |
+| 2026-11-15 06:10:48 | [hyperdivlite](https://pypi.org/project/hyperdivlite/) | 0.1.9 | Marius Nita | 6.1 MB | A lightweight Hyperdiv fork with Granian as the default backend and optional To… |
+| 2026-11-15 06:12:03 | [exposuregate](https://pypi.org/project/exposuregate/) | 0.1.0 | Karthikeyan Sadayamuthu | 127.3 kB | Gate that grades dependency versions added in lockfiles using OSV and OEBC data. |
+| 2026-11-15 06:14:38 | [quantum-playground](https://pypi.org/project/quantum-playground/) | 0.3.0 |  | 115.3 kB | A physics and maths playground: simulations, symbolic maths and notebooks. |
+| 2026-11-15 06:16:40 | [substack-mcp](https://pypi.org/project/substack-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 15.5 kB | Connect Substack to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev. |
+| 2026-11-15 06:18:07 | [datekit](https://pypi.org/project/datekit/) | 0.1.0 |  | 3.1 kB | Add your description here |
+| 2026-11-15 06:20:35 | [brainrc](https://pypi.org/project/brainrc/) | 0.8.3 |  | 298.0 kB | brainrc: sync skills, agents, rules, and guard hooks into AI coding harnesses |

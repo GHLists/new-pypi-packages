@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T05:29:29Z,thegti,1.0.5,,"MIT License Copyright (c) 2026 GTI contributors Permission is hereby granted, free of charge, to an…",11083,A tiny GTA: San Andreas-inspired terminal loading-screen prank.
+2026-11-15T05:31:34Z,noisechisel-torch,0.1.0,,GPL-3.0-or-later,86223,PyTorch (CPU/GPU) re-implementation of Gnuastro's NoiseChisel detection program
+2026-11-15T05:38:17Z,delphi-kit,0.2.0,,MIT,87961,"Read and trade Delphi prediction markets from Python and AI agents, with no API key: every market type, quotes, trades, positions, search, alerts and an MCP server."
+2026-11-15T05:39:05Z,opum-comm,0.1.5,Opum AI,MIT,663351,"Signed cross-account messaging between Claude Code sessions, with first-class Lore and Quest references."
+2026-11-15T05:41:46Z,mcp-il-professionals,0.1.1,Oleg Sher,MIT,21200,"Verify licensed professionals in Israel for AI agents: real-estate brokers, registered contractors, appraisers, CPAs, surveyors, private investigators — live from data.gov.il"
+2026-11-15T05:41:56Z,strikethrough,1.0.1,Ayan Alam <knexyce@proton.me>,Apache-2.0,38892,"The command-line interface and distribution layer for Skywatch, an autonomous local AI system."
+2026-11-15T05:44:01Z,lyznet,0.1.0,Jun Liu <23146644+j49liu@users.noreply.github.com>,Apache-2.0,218679,Learning and formal verification of Lyapunov certificates
+2026-11-15T05:44:32Z,mcp-il-health,0.1.1,Oleg Sher,MIT,18913,"Israeli Ministry of Health registries for AI agents: doctor licence verification, national nutrition database, health NGOs, medical-cannabis pharmacies — live from data.gov.il"
+2026-11-15T05:46:03Z,mfe-player,0.3.6,Omkar,MIT,10867368,"A plugin-driven terminal music player: mpv, ratatui, no subscription, no account."
+2026-11-15T05:50:40Z,amt-auth,0.2.1,A Million Techies,MIT,48668,"Keycloak authentication for the A Million Techies ecosystem: JWT validation, organization context and Django integration."
+2026-11-15T05:54:10Z,peakbasiclib,0.1.0,peak,,148867,Peak 基础工具库：加密、文件、数据库(MySQL/Mongo/PostgreSQL)、网络通信、AI 与人脸识别等常用封装
+2026-11-15T05:54:11Z,android-build-agent,1.0.3,Tommyface,MIT,48093,把 Android 构建能力以 MCP / CLI 形式暴露给 AI Agent
+2026-11-15T05:54:37Z,agentcogs,0.1.1,AgentCOGS <hello@agentcogs.dev>,MIT,32273,Per-customer LLM cost attribution and runtime budget caps for agent SaaS
+2026-11-15T05:54:43Z,scrapy-adscrawl,0.1.0,AdsCrawl,MIT,19758,Opt-in Scrapy downloader middleware for AdsCrawl rendered HTML
+2026-11-15T05:56:06Z,mudm-mcp,0.1.0,Bengt Ljungquist,MIT,84577,"Local MCP server to discover, access, and locally analyze the muDM static spatial-data catalog."
+2026-11-15T05:57:20Z,mcp-il-vehicles,0.1.1,Oleg Sher,MIT,20827,"Israeli vehicle registry for AI agents: plate lookup, open recalls, model specs, new-car prices, licensed garages, EV chargers — live from data.gov.il"
+2026-11-15T05:57:45Z,bootstrap-python,0.1.0,bootstrap-python contributors,MIT,63206,用 Pydantic 模型描述 Bootstrap 5 界面，并渲染成 HTML
+2026-11-15T05:57:55Z,mcp-il-companies,0.1.1,Oleg Sher,MIT,21838,"Due diligence on Israeli companies, partnerships, nonprofits (עמותות) and public benefit companies — live from data.gov.il"
+2026-11-15T06:01:08Z,xqo-agency,3.1.0,dudikkocak,MIT,13205,xqo agency: import agents from the agency-agents prompt library
+2026-11-15T06:01:09Z,xqo-channels,3.1.0,dudikkocak,MIT,40379,"Messaging channels for xqo: Telegram, WhatsApp, Instagram, X, Threads, Gmail, SMS"
+2026-11-15T06:01:12Z,xqo-feeds,3.1.0,dudikkocak,MIT,41194,Local feeds and rules that wake xqo agents
+2026-11-15T06:01:13Z,xqo-peering,3.1.0,dudikkocak,MIT,19284,Messages and files between separate xqo HQs
+2026-11-15T06:01:22Z,translations-api,1.0.0,Translations API <support@translationsapi.com>,MIT,19652,Python client for Translations API - Multi-language translation management with DeepL integration
+2026-11-15T06:03:51Z,gtm-pilot,1.0.0,Madhur Prakash <madhurprakash2005@gmail.com>,MIT,62037,"A guided menu for gputaskman: live view, snapshots, recordings, summaries and before/after diffs without remembering the flags. Unofficial companion."
+2026-11-15T06:07:39Z,pymc-bot,0.1.0,codero-sus,PolyForm-Noncommercial-1.0.0,1174325,A Python-controlled Minecraft player bot (cracked / offline-mode servers) with a Uvicorn config page and an optional Ollama brain.
+2026-11-15T06:10:48Z,hyperdivlite,0.1.9,Marius Nita,Apache-2.0,6104739,A lightweight Hyperdiv fork with Granian as the default backend and optional Tornado
+2026-11-15T06:12:03Z,exposuregate,0.1.0,Karthikeyan Sadayamuthu,MIT,127311,Gate that grades dependency versions added in lockfiles using OSV and OEBC data.
+2026-11-15T06:14:38Z,quantum-playground,0.3.0,,MIT,115260,"A physics and maths playground: simulations, symbolic maths and notebooks."
+2026-11-15T06:16:40Z,substack-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15520,"Connect Substack to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev."
+2026-11-15T06:18:07Z,datekit,0.1.0,,,3124,Add your description here
+2026-11-15T06:20:35Z,brainrc,0.8.3,,MIT,298004,"brainrc: sync skills, agents, rules, and guard hooks into AI coding harnesses"
