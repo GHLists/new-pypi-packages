@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-11-15T12:18:43.995681Z",
-    "path": "data/new-packages-2026-11-15T13-19-44-860918Z.csv",
-    "to": "2026-11-15T13:19:44.860918Z"
+    "count": 36,
+    "from": "2026-11-15T13:19:44.860918Z",
+    "path": "data/new-packages-2026-11-15T14-18-42-979244Z.csv",
+    "to": "2026-11-15T14:18:42.979244Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-15T10:05:31Z",
-      "package": "aiojink",
-      "since": "2026-11-15T09:19:29.114738Z",
-      "version": "0.1.0"
+      "attempts": 1,
+      "created_at": "2026-11-15T13:38:35Z",
+      "package": "helia-ethos",
+      "since": "2026-11-15T13:19:44.860918Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-15T13:24:27Z",
+      "package": "smolpy-engine-rs",
+      "since": "2026-11-15T13:19:44.860918Z",
+      "version": null
     }
   ],
-  "serial": 43686557,
+  "serial": 43688068,
   "source_truncated": false,
-  "window": "2026-11-15T13:19:44.860918Z"
+  "window": "2026-11-15T14:18:42.979244Z"
 }

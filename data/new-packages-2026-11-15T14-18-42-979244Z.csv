@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T13:22:06Z,preroll,0.0.1,preroll,MIT,8545,Tools for editing video podcasts. This early release holds the timecode helpers.
+2026-11-15T13:23:28Z,portfolio-evidence-mcp,0.1.0,,MIT,21713,"MCP server that lets Claude Desktop / Cursor search a freelancer's portfolio for evidence (case studies, repos, reviews, past proposals) and cite it."
+2026-11-15T13:23:51Z,lupaxa-data-poison,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",105153,"Generate, mutate, explain, test and minimise difficult or malformed data."
+2026-11-15T13:23:55Z,netprotomvds,0.1.0,CharmLxt <reception.mailspypi@gmail.com>,MIT,13428,Network Protocol Multithreaded Video Data Share: быстрая передача видео по UDP.
+2026-11-15T13:24:08Z,maestro-tool,0.1.0,"Cedric Hirschi, Tim Frey",Apache-2.0,110112,Orchestrator for full-stack embedded Linux workflows on AMD ZynqMP SoCs
+2026-11-15T13:24:59Z,ncepst-exceltools,0.1.0,ncepst,MIT,94909,Create and format native Excel charts using xlwings on Windows
+2026-11-15T13:26:45Z,ferien-mcp,0.1.0,Mohammad Abbasi,MIT,28970,"Unofficial read-only MCP server for German school holidays (Schulferien) — holidays by year & state, is-it-a-holiday, next holiday & date ranges"
+2026-11-15T13:28:22Z,szl-drift,0.1.0,Stephen Lutar <stephen@szlholdings.com>,Apache-2.0,25939,"Origin-drift receipts: compare a-11-oy.com, a11oy.net, and a Ring 1 preview. Λ = Conjecture 1. Apache-2.0."
+2026-11-15T13:30:05Z,jayron,0.1.1,Rakhimberdi Rakhmonberdiev,LicenseRef-jayron-NonCommercial,48576,"Uzbek text normalizer for speech recognition (ASR): numbers, dates, Cyrillic, apostrophes, new 2026 alphabet."
+2026-11-15T13:33:16Z,pyai-new,0.2.1,Gleb284644pyai,MIT,1124218,Нейросетевой движок на C++ с Python-оберткой
+2026-11-15T13:35:05Z,modelfile-doctor,0.3.0,LeeGyeongPil,MIT,97405,"Check an Ollama Modelfile against the GGUF metadata it points to, before you run `ollama create`."
+2026-11-15T13:35:57Z,climpact,0.1.0,Geoff Walmsley,GPL-3.0-or-later,387406,Climpact for Python: indices of daily climate extremes for station and gridded data (a port of the R Climpact)
+2026-11-15T13:37:30Z,build-slm,1.0.0,Niranjan Kumar K.,Apache-2.0,62267,Research-Grade TPU-Native Language Model Training and Inference Framework
+2026-11-15T13:38:25Z,climpact-web,0.1.0,Geoff Walmsley,GPL-3.0-or-later,2277453,"Climpact for Python on the web: a browser app for the Climpact climate extremes indices, hosted or on your own computer"
+2026-11-15T13:39:10Z,check-dnssec-dnsviz,0.0.1,Peter Eckel <pe@sys4.de>,MIT,11682,A monitoring plugin for checking DNSSEC zones using DNSviz
+2026-11-15T13:46:26Z,atomstore,0.0.1,Mike Bailey,,2348,"Atomstore: small typed notes called atoms, kept in stores as files or as mail. Name reserved; the tool follows."
+2026-11-15T13:46:57Z,pyomo-conic,1.0.0,Iago Fernandez <iagofernandezperlo@gmail.com>,MIT,27822,A lightweight Python extension providing native SDP and SOCP conic modeling in Pyomo with CBF export.
+2026-11-15T13:49:53Z,minecraft-tweaks,0.2.1,gitbrou,MIT,105144,simple minecraft injector
+2026-11-15T13:53:18Z,portkill,0.1.0,,MIT,43784,"Find and kill whatever process is using a port. Works on Windows, macOS and Linux."
+2026-11-15T13:53:22Z,hypermarkdown-semantics,0.1.0,Yauhen Yakimovich,MIT,44047,"Builds, verifies and inspects the semantic index of a HyperMarkdown vault."
+2026-11-15T13:55:15Z,junit-delta-guard,0.1.0,JUnit Delta Guard Contributors,MIT,19042,"Detect newly failing, skipped, or missing test cases by comparing JUnit XML reports."
+2026-11-15T13:55:29Z,pipelineprobe,0.3.0,WillowVibe <hello@willowvibe.com>,MIT,2133202,Instant Data Pipeline Audit Report for Airflow + dbt + modern warehouses
+2026-11-15T13:55:55Z,gtop-nv,0.2.1,Soksedtha Ly,MIT,43420,"htop + nvtop in one terminal UI: CPU, memory, GPU and per-process VRAM (Windows, Linux, macOS)"
+2026-11-15T13:58:57Z,rd0-jinx,0.1.0,"Harshul Jain, Saurabh Yergattikar, Tanya Sah, Parv Khatri",MIT,142075,"Jinx: duplicate pull-request warnings for coding-agent PRs. The first tool in rd0, a toolkit for review debt."
+2026-11-15T13:59:30Z,lapeft-bayesopt,0.2,Agustinus Kristiadi,MIT,36452,"Bayesian optimization with LLMs, PEFT, and the Laplace approximation"
+2026-11-15T14:01:29Z,irubix,0.9.0,mahdishami,MIT,35263,"Async Python bot clients for Rubika, Bale, Soroush Plus and Telegram"
+2026-11-15T14:08:15Z,sentinel-proof,0.1.0,,Apache-2.0,54989,"Deterministic grounding gate for RAG: every number must be in the evidence, every citation must point where it says, and what cannot be verified is refused with a reason."
+2026-11-15T14:08:23Z,overlaude,0.1.0,,MIT,18124,"Two-way sync between a local folder and an Overleaf project, through Overleaf's live editing channel."
+2026-11-15T14:08:28Z,cyberise-spectrograph,2026.11.1,cyberise GmbH,MIT,37477,"Responsive images for the web: renditions made on first request, srcset, cache-forever URLs, a Django view included."
+2026-11-15T14:14:03Z,svo-client-dev,4.0.21,Vasiliy Zdanovskiy,,79623,Client for the SVO semantic chunking service
+2026-11-15T14:14:53Z,torch-cuda-compat,0.1.0,referencesource.org,CC0-1.0,51278,"Which PyTorch wheel runs on which NVIDIA GPU, with the vendor's own words as evidence"
+2026-11-15T14:15:01Z,MinecraftRecipeScraper,0.1.0,koch_bratan <kiril228@golda.com>,"MIT License Copyright (c) 2026 koch_bratan Permission is hereby granted, free of charge, to any per…",5894,A small example package
+2026-11-15T14:15:24Z,oss-backtest-kit,0.1.0,,MIT,195794,"A small, generic toolkit for crypto strategy research and backtest statistics."
+2026-11-15T14:16:09Z,strictyaml-lts,1.7.4,Colm O'Connor <colm.oconnor.github@gmail.com>,MIT,246900,"Maintained fork of strictyaml (strict, typed YAML parser). Drop-in: still `import strictyaml`."
+2026-11-15T14:16:31Z,nukebg,1.0.0,VOLODS LTD <nukebg@volods.com>,MIT,20768,"Official Python client for the NukeBG background removal API, with a drop-in replacement for the removebg package."
+2026-11-15T14:17:28Z,supermainkraftgeiming228,0.0.1,Artur Peroshkow <Peroshok228@gmail.com>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",4796,Minecraft eto moja shyzn
