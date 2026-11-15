@@ -8,51 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 11:19 UTC
+## Latest list — 2026-11-15 12:18 UTC
 
-New packages created between 2026-11-15 10:20 UTC and 2026-11-15 11:19 UTC.
+New packages created between 2026-11-15 11:19 UTC and 2026-11-15 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-15T11-19-18-107465Z.csv)
+[Full CSV](data/new-packages-2026-11-15T12-18-43-995681Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-15 10:20:51 | [bd-income-tax](https://pypi.org/project/bd-income-tax/) | 0.1.0 | Sarif Mia | 21.2 kB | Bangladesh individual income tax calculator: tax bands, investment rebate, mini… |
-| 2026-11-15 10:22:28 | [minesql](https://pypi.org/project/minesql/) | 0.1.0 | IMApurbo | 35.2 kB | A MySQL terminal that only suggests the NEXT SQL piece — schema-aware ghost-tex… |
-| 2026-11-15 10:22:34 | [spanwire](https://pypi.org/project/spanwire/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 40.0 kB | Zero-dependency micro-tracing, distributed context propagation & breadcrumb tel… |
-| 2026-11-15 10:27:03 | [langchain-ragmir](https://pypi.org/project/langchain-ragmir/) | 6.11.0 | Jean-Baptiste Thery <jb.thery… | 37.9 kB | LangChain and LangGraph integration for Ragmir: a retriever and agent tools tha… |
-| 2026-11-15 10:27:06 | [ragmir](https://pypi.org/project/ragmir/) | 6.11.0 | Jean-Baptiste Thery <jb.thery… | 55.6 kB | Cited local retrieval for Python agents and RAG apps: search a project's code,… |
-| 2026-11-15 10:27:07 | [llama-index-retrievers-ragmir](https://pypi.org/project/llama-index-retrievers-ragmir/) | 6.11.0 | Jean-Baptiste Thery <jb.thery… | 32.4 kB | LlamaIndex retriever for Ragmir: nodes cited to lines, pages, slides, or cells… |
-| 2026-11-15 10:27:31 | [picture-irball-detect](https://pypi.org/project/picture-irball-detect/) | 0.1.0 |  | 3.1 MB | Portable image-based infrared marker-ball detection |
-| 2026-11-15 10:28:03 | [cassiopee-apps-i8](https://pypi.org/project/cassiopee-apps-i8/) | 2026.11 | ONERA | 187.0 kB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-15 10:28:05 | [cassiopee-compressor-i8](https://pypi.org/project/cassiopee-compressor-i8/) | 2026.11 | ONERA | 2.4 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-15 10:28:08 | [cassiopee-xcore-i8](https://pypi.org/project/cassiopee-xcore-i8/) | 2026.11 | ONERA | 2.9 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-15 10:28:09 | [cassiopee-rigidmotion-i8](https://pypi.org/project/cassiopee-rigidmotion-i8/) | 2026.11 | ONERA | 1.2 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-15 10:28:29 | [bdkit](https://pypi.org/project/bdkit/) | 0.1.0 | Sarif Mia | 18.2 kB | Everyday Bangladesh utilities: taka in words (English/Bangla, lakh/crore), mobi… |
-| 2026-11-15 10:29:02 | [devenpy](https://pypi.org/project/devenpy/) | 5.0.0 | DevEN Developers | 14.9 MB | DevEN Unified Native Power System Simulation Engine |
-| 2026-11-15 10:30:22 | [lacentrale-pros-scraper](https://pypi.org/project/lacentrale-pros-scraper/) | 0.1.0 | Buğrahan Saka | 33.4 kB | Scrape La Centrale's dealer directory (pros.lacentrale.fr): French car dealers,… |
-| 2026-11-15 10:31:33 | [rasterregions](https://pypi.org/project/rasterregions/) | 0.1.0 | Holger Nahrstaedt | 119.4 kB | Deterministic foreground-mask, connected-component, row, and region detection f… |
-| 2026-11-15 10:32:24 | [bslibreact](https://pypi.org/project/bslibreact/) | 0.1.0 | Samuel Bharti <samuelbharti.i… | 38.2 kB | Server helpers for bslibreact, React components that reproduce bslib and Shiny… |
-| 2026-11-15 10:34:07 | [tgju-rates-mcp](https://pypi.org/project/tgju-rates-mcp/) | 0.1.0 | Saeed Noshadi | 22.4 kB | MCP server and Python library for current Iranian free-market exchange rates in… |
-| 2026-11-15 10:34:45 | [loraport](https://pypi.org/project/loraport/) | 0.1.3 | LeeGyeongPil | 587.8 kB | Convert LoRA adapters between MLX (mlx-lm) and PEFT formats and prove the weigh… |
-| 2026-11-15 10:35:48 | [pixelbudget](https://pypi.org/project/pixelbudget/) | 0.3.0 | LeeGyeongPil | 860.2 kB | Offline image-token estimates, budget-fit resizing and readable slicing for vis… |
-| 2026-11-15 10:36:32 | [sonarch](https://pypi.org/project/sonarch/) | 0.1.0.dev0 | Aman Trivedi | 41.2 kB | The one import you need for audio work: loading, preprocessing, features, codec… |
-| 2026-11-15 10:37:31 | [avowa-runtime](https://pypi.org/project/avowa-runtime/) | 0.11.0 | Avowa, Inc. | 103.5 kB | Avowa Runtime SDK — emit live AI-inference signals to Avowa as evidence. |
-| 2026-11-15 10:38:27 | [crewai-suno](https://pypi.org/project/crewai-suno/) | 0.1.0 | Ace Data Cloud Dev <dev@aceda… | 570.8 kB | Suno by Ace Data Cloud: native CrewAI music generation and same-task retrieval… |
-| 2026-11-15 10:40:00 | [pymsz](https://pypi.org/project/pymsz/) | 1.0 | Weiguang Cui | 223.9 MB | Mock Sunyaev-Zel'dovich observations of hydrodynamical simulations |
-| 2026-11-15 10:40:03 | [langchain-signafaide](https://pypi.org/project/langchain-signafaide/) | 0.1.0 | AIME TECH UK LIMITED | 10.4 kB | signafAIde for LangChain: signed, tamper-evident records of every tool call an… |
-| 2026-11-15 10:52:30 | [fdbja](https://pypi.org/project/fdbja/) | 0.2.0 |  | 422.7 kB | Full-Duplex-Bench-JA: evaluation toolkit for Japanese full-duplex spoken dialog… |
-| 2026-11-15 10:53:05 | [kisukisu](https://pypi.org/project/kisukisu/) | 1.0.1 | Kishore M <kishoredxd@gmail.c… | 1.3 MB | A lightweight, customizable, privacy-first desktop presenter companion. Read sc… |
-| 2026-11-15 10:55:14 | [lexitrace](https://pypi.org/project/lexitrace/) | 0.1.0 | Batuhan Duras | 6.7 kB | Turkish-aware text helpers of the LexiTrace project: casing with dotted and dot… |
-| 2026-11-15 10:58:42 | [whyfail-cli](https://pypi.org/project/whyfail-cli/) | 0.1.0 | Kamran | 19.9 kB | Run a command; when it fails, explain why and how to fix it. |
-| 2026-11-15 11:00:08 | [orbitz](https://pypi.org/project/orbitz/) | 1.0.0 | Davide Rizzo | 43.1 kB | A solar system simulation.. |
-| 2026-11-15 11:04:53 | [langchain-ollie](https://pypi.org/project/langchain-ollie/) | 0.1.0 |  | 236.4 kB | Local tracing and evaluation for LangGraph and Deep Agents |
-| 2026-11-15 11:07:56 | [aiojinks](https://pypi.org/project/aiojinks/) | 0.1.1 | Dev <dev@gmail.com> | 2.6 kB | Async utility for log transport and stream debugging. |
-| 2026-11-15 11:10:09 | [proofmass-check](https://pypi.org/project/proofmass-check/) | 0.1.0 | Paweł Kikta | 164.8 kB | Physics checks for SimReady OpenUSD assets: does the asset behave in a simulato… |
-| 2026-11-15 11:12:53 | [zettcode-one-system](https://pypi.org/project/zettcode-one-system/) | 0.5.1 | Chang-LeHung | 9.1 kB | Every instruction ZettCode gives the model in one system message, as a part of… |
-| 2026-11-15 11:13:45 | [pytoch-dl](https://pypi.org/project/pytoch-dl/) | 1.0.0 | Antigravity Team | 17.5 MB | Deep Learning Practicals, Customization Recipes, Theory Explainers & Bundled Da… |
-| 2026-11-15 11:15:34 | [abtbb](https://pypi.org/project/abtbb/) | 0.0.1 | yayo | 11.2 kB | abt：一个自己也能读懂、自己也能维护的 Python 底层工具包 |
-| 2026-11-15 11:16:34 | [dotted-map](https://pypi.org/project/dotted-map/) | 0.1.0 | Christian Hill | 2.3 MB | Draw maps on which land is a regular lattice of dots, as SVG, PNG or PDF images |
-| 2026-11-15 11:17:16 | [pkt-builder](https://pypi.org/project/pkt-builder/) | 0.1.0 | nsaBogdan54 | 2.1 MB | Build Cisco Packet Tracer .pkt files from a YAML description |
-| 2026-11-15 11:17:32 | [close1](https://pypi.org/project/close1/) | 0.7.1 | Yaroslav Polyakov | 38.1 kB | Simple backups from servers over SSH |
-| 2026-11-15 11:18:18 | [kigyoulist](https://pypi.org/project/kigyoulist/) | 0.1.0 | "TQC Inc." <info@kigyoulist.c… | 10.9 kB | Official Python SDK for Kigyou-list (kigyoulist.com) - Japan Corporate Master D… |
-| 2026-11-15 11:18:40 | [MasterMSM](https://pypi.org/project/MasterMSM/) | 2.0.1 | David De Sancho <daviddesanch… | 135.1 kB | Algorithms to construct master equation / Markov state models |
+| 2026-11-15 11:20:39 | [jobhunter-mcp](https://pypi.org/project/jobhunter-mcp/) | 2.4.0 | JobHunter Maintainers | 1.1 MB | MCP server for job search: many sources, resume-grounded scoring, truthful docu… |
+| 2026-11-15 11:21:45 | [qca-mcp-proxy](https://pypi.org/project/qca-mcp-proxy/) | 0.2.0 | Larry <xiaochus@live.cn> | 27.2 kB | Filtered MCP proxy in front of the Qoder Cloud Agents (QCA) remote MCP server,… |
+| 2026-11-15 11:23:43 | [autonometry](https://pypi.org/project/autonometry/) | 0.1.0 | Aaryan Solanki | 1.1 MB | Measure how much of a robot's work is done by its AI and how much by humans, wi… |
+| 2026-11-15 11:23:45 | [igni-core](https://pypi.org/project/igni-core/) | 1.0.4 | Ignite Ember | 7.0 MB | igni's backend and CLI: an AI coding assistant with multi-agent orchestration |
+| 2026-11-15 11:23:51 | [minimindslab-yaml-front-matter-check](https://pypi.org/project/minimindslab-yaml-front-matter-check/) | 0.1.0 | MiniMindsLab | 7.5 kB | Parse a text blob for YAML-style front matter and verify it is present, properl… |
+| 2026-11-15 11:33:44 | [pynagram3](https://pypi.org/project/pynagram3/) | 3.1.0 | Miro Moman | 239.7 kB | Pynagram - Unjumble the letters and get addicted! |
+| 2026-11-15 11:37:08 | [captchasonline](https://pypi.org/project/captchasonline/) | 0.0.0 |  | 47.9 kB |  |
+| 2026-11-15 11:43:02 | [fluvv-openmetadata](https://pypi.org/project/fluvv-openmetadata/) | 0.0.0 | The Fluvv Authors | 2.1 kB | Placeholder: fluvv-openmetadata is installed from Fluvv's package index, not fr… |
+| 2026-11-15 11:47:57 | [gltk-opengl](https://pypi.org/project/gltk-opengl/) | 26.1 | dianbtcmputr | 409.4 kB | A framebuffer-composited, tkinter-flavoured OpenGL UI library built on pyglet a… |
+| 2026-11-15 11:51:14 | [stg-layers](https://pypi.org/project/stg-layers/) | 0.1.0 |  | 35.7 kB | A Textual browser for StGit patch stacks |
+| 2026-11-15 11:51:49 | [gigbid-portfolio-mcp](https://pypi.org/project/gigbid-portfolio-mcp/) | 0.1.0 | Areej Shaikh | 51.9 kB | Read-only MCP server that lets an AI assistant search a freelancer's portfolio… |
+| 2026-11-15 11:51:57 | [luvre](https://pypi.org/project/luvre/) | 0.4.3 | Fiagainster | 606.6 kB | A hands-on reverse-engineering workstation powered by the Ghidra engine. 手搓向逆向工… |
+| 2026-11-15 11:55:19 | [salabs-mcp](https://pypi.org/project/salabs-mcp/) | 0.1.0 | "S.A Labs" <info@stanleyadio.… | 92.7 kB | MCP server for S.A Labs: web scraping, text-to-speech and transcription tools f… |
+| 2026-11-15 11:58:26 | [eval-verdict](https://pypi.org/project/eval-verdict/) | 0.2.0 | aidless | 283.4 kB | Statistical gate for LLM eval changes: paired bootstrap CIs, blocking verdicts,… |
+| 2026-11-15 11:58:28 | [mini3d](https://pypi.org/project/mini3d/) | 0.1.0 | 阿R | 27.2 kB | 纯 Python 实现的迷你 3D 模型工具箱：几何体生成、几何变换、STL/OBJ/PLY 读写，零第三方依赖 |
+| 2026-11-15 12:01:24 | [kestrel-agents](https://pypi.org/project/kestrel-agents/) | 0.1.0 | abdellahBSK | 1.2 MB | Mission control for AI agents: a local, live dashboard that shows what every ag… |
+| 2026-11-15 12:04:39 | [s-py-editor](https://pypi.org/project/s-py-editor/) | 0.1.0 |  | 11.8 kB | A terminal-based Python editor with a sidebar, loop runner, and more. |
+| 2026-11-15 12:06:19 | [ledgdex](https://pypi.org/project/ledgdex/) | 1.0.20 | Noorul Ali | 377.6 kB | Simple market on a dex: signed, append-only ledgers with triple-entry accounting |
+| 2026-11-15 12:07:34 | [flightbyte](https://pypi.org/project/flightbyte/) | 1.0.0 | FlightByte <support@flightbyt… | 96.7 kB | Official Python client for the FlightByte flight status API: look flights up, w… |
+| 2026-11-15 12:08:43 | [symbolicator-server](https://pypi.org/project/symbolicator-server/) | 0.0.1 | netanelc305 <netanelc305@prot… | 27.0 kB | A Python stand-in for ipswd's symbol server |
+| 2026-11-15 12:09:11 | [decisionlock](https://pypi.org/project/decisionlock/) | 0.2.0rc4 | Mohammad Atashi | 625.3 kB | Provider-neutral action integrity for AI agents |
+| 2026-11-15 12:14:39 | [imsherlock](https://pypi.org/project/imsherlock/) | 0.0.1 | Ethan Zuo | 3.7 kB | ImsherLOCK pre-alpha placeholder: offline-first cipher/hash/encoding analysis o… |
+| 2026-11-15 12:17:07 | [serverdex](https://pypi.org/project/serverdex/) | 0.1.0 | Serverdex <hello@serverdex.io> | 8.1 kB | Tiny Python client for Serverdex — search 60,000+ MCP servers from the official… |

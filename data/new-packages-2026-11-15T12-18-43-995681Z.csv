@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T11:20:39Z,jobhunter-mcp,2.4.0,JobHunter Maintainers,MIT,1052678,"MCP server for job search: many sources, resume-grounded scoring, truthful document tailoring, application tracking"
+2026-11-15T11:21:45Z,qca-mcp-proxy,0.2.0,Larry <xiaochus@live.cn>,MIT,27171,"Filtered MCP proxy in front of the Qoder Cloud Agents (QCA) remote MCP server, over stdio"
+2026-11-15T11:23:43Z,autonometry,0.1.0,Aaryan Solanki,Apache-2.0,1053202,"Measure how much of a robot's work is done by its AI and how much by humans, with a tamper-evident log."
+2026-11-15T11:23:45Z,igni-core,1.0.4,Ignite Ember,Apache-2.0,7001541,igni's backend and CLI: an AI coding assistant with multi-agent orchestration
+2026-11-15T11:23:51Z,minimindslab-yaml-front-matter-check,0.1.0,MiniMindsLab,MIT,7529,"Parse a text blob for YAML-style front matter and verify it is present, properly delimited, and minimally well-formed without depending on a YAML parser."
+2026-11-15T11:33:44Z,pynagram3,3.1.0,Miro Moman,GPL-3.0-or-later,239706,Pynagram - Unjumble the letters and get addicted!
+2026-11-15T11:37:08Z,captchasonline,0.0.0,,,47921,
+2026-11-15T11:43:02Z,fluvv-openmetadata,0.0.0,The Fluvv Authors,,2075,"Placeholder: fluvv-openmetadata is installed from Fluvv's package index, not from PyPI."
+2026-11-15T11:47:57Z,gltk-opengl,26.1,dianbtcmputr,MIT,409373,"A framebuffer-composited, tkinter-flavoured OpenGL UI library built on pyglet and pyglm."
+2026-11-15T11:51:14Z,stg-layers,0.1.0,,,35725,A Textual browser for StGit patch stacks
+2026-11-15T11:51:49Z,gigbid-portfolio-mcp,0.1.0,Areej Shaikh,MIT,51867,Read-only MCP server that lets an AI assistant search a freelancer's portfolio and cite real evidence
+2026-11-15T11:51:57Z,luvre,0.4.3,Fiagainster,MIT,606634,A hands-on reverse-engineering workstation powered by the Ghidra engine. 手搓向逆向工程工作站。
+2026-11-15T11:55:19Z,salabs-mcp,0.1.0,"""S.A Labs"" <info@stanleyadio.com>",MIT,92724,"MCP server for S.A Labs: web scraping, text-to-speech and transcription tools for Claude, Cursor and other AI apps"
+2026-11-15T11:58:26Z,eval-verdict,0.2.0,aidless,MIT,283403,"Statistical gate for LLM eval changes: paired bootstrap CIs, blocking verdicts, tamper-resistant evidence"
+2026-11-15T11:58:28Z,mini3d,0.1.0,阿R,MIT,27230,纯 Python 实现的迷你 3D 模型工具箱：几何体生成、几何变换、STL/OBJ/PLY 读写，零第三方依赖
+2026-11-15T12:01:24Z,kestrel-agents,0.1.0,abdellahBSK,MIT,1206645,"Mission control for AI agents: a local, live dashboard that shows what every agent is doing, what it costs and when it gets stuck."
+2026-11-15T12:04:39Z,s-py-editor,0.1.0,,,11796,"A terminal-based Python editor with a sidebar, loop runner, and more."
+2026-11-15T12:06:19Z,ledgdex,1.0.20,Noorul Ali,CC0-1.0,377592,"Simple market on a dex: signed, append-only ledgers with triple-entry accounting"
+2026-11-15T12:07:34Z,flightbyte,1.0.0,FlightByte <support@flightbyte.dev>,MIT,96671,"Official Python client for the FlightByte flight status API: look flights up, watch them with signed webhooks and verify every delivery. No dependencies."
+2026-11-15T12:08:43Z,symbolicator-server,0.0.1,netanelc305 <netanelc305@protonmail.com>,,26988,A Python stand-in for ipswd's symbol server
+2026-11-15T12:09:11Z,decisionlock,0.2.0rc4,Mohammad Atashi,MIT,625330,Provider-neutral action integrity for AI agents
+2026-11-15T12:14:39Z,imsherlock,0.0.1,Ethan Zuo,Apache-2.0,3676,ImsherLOCK pre-alpha placeholder: offline-first cipher/hash/encoding analysis orchestrator (specs in repo)
+2026-11-15T12:17:07Z,serverdex,0.1.0,Serverdex <hello@serverdex.io>,MIT,8074,"Tiny Python client for Serverdex — search 60,000+ MCP servers from the official registry."
