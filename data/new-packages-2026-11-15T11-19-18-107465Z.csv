@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T10:20:51Z,bd-income-tax,0.1.0,Sarif Mia,MIT,21226,"Bangladesh individual income tax calculator: tax bands, investment rebate, minimum tax, lakh/Bangla formatting and a CLI."
+2026-11-15T10:22:28Z,minesql,0.1.0,IMApurbo,MIT,35180,A MySQL terminal that only suggests the NEXT SQL piece — schema-aware ghost-text autocomplete for your SQL sessions.
+2026-11-15T10:22:34Z,spanwire,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,39961,"Zero-dependency micro-tracing, distributed context propagation & breadcrumb telemetry engine for Python."
+2026-11-15T10:27:03Z,langchain-ragmir,6.11.0,Jean-Baptiste Thery <jb.thery@jcode.works>,AGPL-3.0-only,37883,"LangChain and LangGraph integration for Ragmir: a retriever and agent tools that return passages cited to lines, pages, slides, or cells from local documents."
+2026-11-15T10:27:06Z,ragmir,6.11.0,Jean-Baptiste Thery <jb.thery@jcode.works>,AGPL-3.0-only,55569,"Cited local retrieval for Python agents and RAG apps: search a project's code, PDFs, and Office files and get passages cited to lines, pages, slides, or cells."
+2026-11-15T10:27:07Z,llama-index-retrievers-ragmir,6.11.0,Jean-Baptiste Thery <jb.thery@jcode.works>,AGPL-3.0-only,32362,"LlamaIndex retriever for Ragmir: nodes cited to lines, pages, slides, or cells from local documents and code."
+2026-11-15T10:27:31Z,picture-irball-detect,0.1.0,,MIT,3088289,Portable image-based infrared marker-ball detection
+2026-11-15T10:28:03Z,cassiopee-apps-i8,2026.11,ONERA,LGPLv3,187037,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-15T10:28:05Z,cassiopee-compressor-i8,2026.11,ONERA,LGPLv3,2359738,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-15T10:28:08Z,cassiopee-xcore-i8,2026.11,ONERA,LGPLv3,2909113,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-15T10:28:09Z,cassiopee-rigidmotion-i8,2026.11,ONERA,LGPLv3,1163053,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-15T10:28:29Z,bdkit,0.1.0,Sarif Mia,MIT,18153,"Everyday Bangladesh utilities: taka in words (English/Bangla, lakh/crore), mobile number validation with operator detection, Bangla digits."
+2026-11-15T10:29:02Z,devenpy,5.0.0,DevEN Developers,,14862660,DevEN Unified Native Power System Simulation Engine
+2026-11-15T10:30:22Z,lacentrale-pros-scraper,0.1.0,Buğrahan Saka,MIT,33376,"Scrape La Centrale's dealer directory (pros.lacentrale.fr): French car dealers, SIREN/SIRET, opening hours and every vehicle in stock with Python."
+2026-11-15T10:31:33Z,rasterregions,0.1.0,Holger Nahrstaedt,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",119387,"Deterministic foreground-mask, connected-component, row, and region detection for raster images."
+2026-11-15T10:32:24Z,bslibreact,0.1.0,Samuel Bharti <samuelbharti.io@gmail.com>,MIT,38191,"Server helpers for bslibreact, React components that reproduce bslib and Shiny markup"
+2026-11-15T10:34:07Z,tgju-rates-mcp,0.1.0,Saeed Noshadi,MIT,22385,MCP server and Python library for current Iranian free-market exchange rates in Rial (IRR) from tgju.org.
+2026-11-15T10:34:45Z,loraport,0.1.3,LeeGyeongPil,MIT,587766,Convert LoRA adapters between MLX (mlx-lm) and PEFT formats and prove the weight delta (dW) survived the trip.
+2026-11-15T10:35:48Z,pixelbudget,0.3.0,LeeGyeongPil,MIT,860194,"Offline image-token estimates, budget-fit resizing and readable slicing for vision LLM inputs (Pillow only)."
+2026-11-15T10:36:32Z,sonarch,0.1.0.dev0,Aman Trivedi,MIT,41173,"The one import you need for audio work: loading, preprocessing, features, codecs and datasets, ready for ML."
+2026-11-15T10:37:31Z,avowa-runtime,0.11.0,"Avowa, Inc.",Apache-2.0,103511,Avowa Runtime SDK — emit live AI-inference signals to Avowa as evidence.
+2026-11-15T10:38:27Z,crewai-suno,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,570831,Suno by Ace Data Cloud: native CrewAI music generation and same-task retrieval tools
+2026-11-15T10:40:00Z,pymsz,1.0,Weiguang Cui,GPL-3.0-or-later,223870560,Mock Sunyaev-Zel'dovich observations of hydrodynamical simulations
+2026-11-15T10:40:03Z,langchain-signafaide,0.1.0,AIME TECH UK LIMITED,Apache-2.0,10377,"signafAIde for LangChain: signed, tamper-evident records of every tool call an agent makes."
+2026-11-15T10:52:30Z,fdbja,0.2.0,,Apache-2.0,422713,Full-Duplex-Bench-JA: evaluation toolkit for Japanese full-duplex spoken dialogue models (turn-taking)
+2026-11-15T10:53:05Z,kisukisu,1.0.1,Kishore M <kishoredxd@gmail.com>,MIT,1255854,"A lightweight, customizable, privacy-first desktop presenter companion. Read scripts, manage notes, and stay in control while presenting."
+2026-11-15T10:55:14Z,lexitrace,0.1.0,Batuhan Duras,MIT,6749,"Turkish-aware text helpers of the LexiTrace project: casing with dotted and dotless i, circumflex folding, apostrophe normalising and search keys."
+2026-11-15T10:58:42Z,whyfail-cli,0.1.0,Kamran,MIT,19902,"Run a command; when it fails, explain why and how to fix it."
+2026-11-15T11:00:08Z,orbitz,1.0.0,Davide Rizzo,,43096,A solar system simulation..
+2026-11-15T11:04:53Z,langchain-ollie,0.1.0,,MIT,236382,Local tracing and evaluation for LangGraph and Deep Agents
+2026-11-15T11:07:56Z,aiojinks,0.1.1,Dev <dev@gmail.com>,,2590,Async utility for log transport and stream debugging.
+2026-11-15T11:10:09Z,proofmass-check,0.1.0,Paweł Kikta,Apache-2.0,164834,Physics checks for SimReady OpenUSD assets: does the asset behave in a simulator?
+2026-11-15T11:12:53Z,zettcode-one-system,0.5.1,Chang-LeHung,MIT,9119,"Every instruction ZettCode gives the model in one system message, as a part of the agent that lives apart from it"
+2026-11-15T11:13:45Z,pytoch-dl,1.0.0,Antigravity Team,MIT,17497778,"Deep Learning Practicals, Customization Recipes, Theory Explainers & Bundled Datasets"
+2026-11-15T11:15:34Z,abtbb,0.0.1,yayo,MIT,11186,abt：一个自己也能读懂、自己也能维护的 Python 底层工具包
+2026-11-15T11:16:34Z,dotted-map,0.1.0,Christian Hill,BSD-3-Clause,2298812,"Draw maps on which land is a regular lattice of dots, as SVG, PNG or PDF images"
+2026-11-15T11:17:16Z,pkt-builder,0.1.0,nsaBogdan54,GPL-3.0-or-later,2073838,Build Cisco Packet Tracer .pkt files from a YAML description
+2026-11-15T11:17:32Z,close1,0.7.1,Yaroslav Polyakov,MIT,38117,Simple backups from servers over SSH
+2026-11-15T11:18:18Z,kigyoulist,0.1.0,"""TQC Inc."" <info@kigyoulist.com>",,10941,Official Python SDK for Kigyou-list (kigyoulist.com) - Japan Corporate Master Database & Sales DX
+2026-11-15T11:18:40Z,MasterMSM,2.0.1,David De Sancho <daviddesancho@gmail.com>,GPL-2.0-or-later,135121,Algorithms to construct master equation / Markov state models
