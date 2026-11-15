@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T06:22:53Z,lammps-forcefield-tools,0.1.0,tgraphite,GPL-2.0-only,662133,Automated LAMMPS and GROMACS force-field and topology generation from molecular and crystal structures
+2026-11-15T06:25:09Z,necto-sdk,0.1.0,,,164126,Instrument multi-agent AI apps and stream their events to a necto server
+2026-11-15T06:26:38Z,dcc-mcp-photocraft,0.2.1,loonghao <hal.long@outlook.com>,MIT,129991,PhotoCraft adapter for the DCC Model Context Protocol (MCP) ecosystem
+2026-11-15T06:27:19Z,facetmedia,0.1.0b1,,Apache-2.0,599361,"Creation tools for agents: isolated, verifiable, license-aware (internal preview)."
+2026-11-15T06:27:49Z,secfeed-crewai,0.1.0,,MIT,17177,"SEC EDGAR tools for CrewAI agents: 10-K/10-Q sections, financial statements, insider trades, 8-Ks"
+2026-11-15T06:30:03Z,jetbrains-pulumi-aws-cognito,999.9.9,,,976,Stub package that mitigates Dependency Confusion attacks
+2026-11-15T06:31:46Z,Games-clz,0.1.2,clz <your.email@example.com>,"MIT License Copyright (c) 2026 clz Permission is hereby granted, free of charge, to any person obta…",216040,简单好用的双模式游戏引擎：内置完整3D引擎和2D引擎，API简洁
+2026-11-15T06:36:56Z,oebc,0.1.0,Karthikeyan Sadayamuthu,MIT,36776,"Open Exposure Baseline Catalog — daily CVE exposure baseline enriched with EPSS, KEV, and derived exposure tiers."
+2026-11-15T06:39:15Z,agon-delphi,0.3.2,neromtoobad,MIT,94940,"Agon for Python: trade Delphi prediction markets from Python and AI agents with no API key, and keep a sealed, on-chain record of what your agent believed before each trade."
+2026-11-15T06:39:55Z,cdcad,0.4.0,,,132030,"Command-line driven CAD for parametric models, assemblies, and mesh editing"
+2026-11-15T06:40:01Z,secfeed-langchain,0.1.0,,MIT,16481,"SEC EDGAR tools for LangChain and LangGraph agents: 10-K/10-Q sections, financial statements, insider trades, 8-Ks"
+2026-11-15T06:40:22Z,noctolog,0.1.0,noctolog contributors,Apache-2.0,149546,Watches your logs while you sleep: groups log lines into patterns and flags new errors and spikes.
+2026-11-15T06:43:06Z,vapylib,0.1.0,,GPL-3.0-only,6645,a python voice synthesis lib
+2026-11-15T06:43:09Z,exvcl,0.2.0,"Priyanshu Chauhan, Renu Dalal",Apache-2.0,355076,Execution-verified admission control for continual network intrusion detection
+2026-11-15T06:48:30Z,empresia-scraper,0.1.0,Buğrahan Saka,MIT,40754,"Scrape Empresia.es Spanish company reports (CIF, CNAE, capital, sales band, officers, BORME announcements) and daily new incorporations with Python."
+2026-11-15T06:48:31Z,szl-trust,0.1.0,Stephen Lutar <stephen@szlholdings.com>,CC-BY-4.0,63602,"SZL Holdings Public Trust Portal — Covenant Proof Standard run artifacts, deterministic replay receipts. Doctrine v11 LOCKED (749/14/163)"
+2026-11-15T06:49:16Z,communitycad-mcp,0.1.0,CommunityCAD,Apache-2.0,148161,"MCP server for CommunityCAD: search real parts, read datasheets, and download CAD files into your design."
+2026-11-15T06:52:19Z,hatun-mcp,1.0.3,,Apache-2.0,353541,"Governed MCP gateway: policy gate on every tool call, hash-chained DSSE receipt on every result."
+2026-11-15T06:55:13Z,sangop,2026.11.0,,Apache-2.0,298567,"Local, deterministic PII/secret scrubbing, SQL guarding and tamper-evident audit logs for AI agent tools (MCP/FastMCP). No network, no telemetry."
+2026-11-15T06:57:42Z,stsaudio,1.0.1,,,401857,
+2026-11-15T06:58:51Z,qeraser,1.0.0,QwejayHuang,GPL-3.0-or-later,92629,Industrial-grade secure data shredder & privacy wiper with CLI and GUI.
+2026-11-15T07:01:52Z,mewfetch,2.1.0,zagadka298-design <zagadka298@gmail.com>,MIT,858904,"A lightweight, customizable system info fetch tool with a cat aesthetic"
+2026-11-15T07:11:16Z,folate,0.1.1,Figranium,Apache-2.0,24492,"A lightweight, CPU-efficient neural DOM element ranker built for browser automation"
