@@ -1,27 +1,12 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-11-15T13:19:44.860918Z",
-    "path": "data/new-packages-2026-11-15T14-18-42-979244Z.csv",
-    "to": "2026-11-15T14:18:42.979244Z"
+    "count": 40,
+    "from": "2026-11-15T14:18:42.979244Z",
+    "path": "data/new-packages-2026-11-15T15-21-01-482929Z.csv",
+    "to": "2026-11-15T15:21:01.482929Z"
   },
-  "pending": [
-    {
-      "attempts": 1,
-      "created_at": "2026-11-15T13:38:35Z",
-      "package": "helia-ethos",
-      "since": "2026-11-15T13:19:44.860918Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-15T13:24:27Z",
-      "package": "smolpy-engine-rs",
-      "since": "2026-11-15T13:19:44.860918Z",
-      "version": null
-    }
-  ],
-  "serial": 43688068,
+  "pending": [],
+  "serial": 43690137,
   "source_truncated": false,
-  "window": "2026-11-15T14:18:42.979244Z"
+  "window": "2026-11-15T15:21:01.482929Z"
 }

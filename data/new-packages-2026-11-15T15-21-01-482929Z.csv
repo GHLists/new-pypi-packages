@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T13:24:27Z,smolpy-engine-rs,1.8.1,,MIT,1608214,"Native Rust simulation engine for SMOLPy: SimPy's results bit for bit, about 40x faster"
+2026-11-15T13:38:35Z,helia-ethos,0.2.0,Ambiq AITG <support.aitg@ambiq.com>,"Ambiq Micro, Inc. Evaluation Source License Copyright (c) 2026 Ambiq Micro, Inc. All rights reserve…",264363,"Ethos-U NPU support for the helia toolchain: SoC definitions with provenance, Vela compilation for a SoC and operating point, PMU programs, model inspection and graph fencing."
+2026-11-15T14:18:48Z,brainplug,0.4.1,Juan Rodríguez,MIT,697141,A second brain for you and your AI assistants: a 3D map of everything you write and a memory they plug into. 100% local.
+2026-11-15T14:20:57Z,adda-cli,0.0.1,Vedavyas Vayalpadu,MIT,2306,Placeholder: the ADDA command-line tool is published as `adda`. Installing this installs `adda`.
+2026-11-15T14:24:15Z,embed-client-dev,4.0.78,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,MIT,258627,Async client for the Embedding Service API. Canonical class: EmbeddingClient (JSON-RPC via mcp-proxy-adapter >=8.10).
+2026-11-15T14:26:38Z,huelake-connectivitizer,1.0.32,"""Huelake Software Solutions UG (haftungsbeschränkt)"" <info@huelake.com>",MIT,140356,"Connectivitizer SDK for Python: reach services on devices behind NAT, end-to-end encrypted, relayed or peer to peer; and run a device."
+2026-11-15T14:31:44Z,pystashx,0.1.1,Anonymous,MIT,105979,Interactive CLI to extract categorized Python script templates into your working directory.
+2026-11-15T14:32:05Z,reqctl,0.1.38,,Apache-2.0,154071,"Requirements control: schema, impact closure, baselines, traceability."
+2026-11-15T14:33:18Z,miroir,0.0.1,,Apache-2.0,75344,"Client, host CLI, and TRL and verifiers adapters for Miroir RL environments"
+2026-11-15T14:33:25Z,ray360,0.1.0,Aasman Bashyal,MIT,127560,"Perspective views, cubemap conversion and prediction mapping for stitched panoramas"
+2026-11-15T14:35:42Z,tkmacos,2.0.0,Saad Mairaj,Apache,99425,TkMacos is a Python library extension to Tkinter with customizable widgets.
+2026-11-15T14:35:56Z,mcp-proxy-adapter-dev,8.11.16,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,MIT,1979111,"Powerful JSON-RPC microservices framework with built-in security, authentication, proxy registration, queue-backed command execution for long-running operations, and configurable HTTP timeouts for mT…"
+2026-11-15T14:36:27Z,aaviary,0.0.1,,,1784,Placeholder release reserving the aaviary package name for the Aviary agent service. A real release is coming soon.
+2026-11-15T14:40:23Z,fuzcolor,0.1.0,coredegon,MIT,27389,Simple and easy to use Python library for fuzzy color models.
+2026-11-15T14:40:34Z,apple-app-store-scraper-lite,0.1.0,Apple App Store Scraper Lite Contributors,MIT,28941,"A lightweight, pure-Python library for scraping Apple App Store data via iTunes API"
+2026-11-15T14:44:00Z,py-edge-telemetry,0.1.1,,,3151361,Edge node telemetry helper
+2026-11-15T14:44:01Z,telekinesis-m3t,0.1.0,Telekinesis <support@telekinesis.ai>,"MIT License Copyright (c) 2023 Manuel Stoiber, German Aerospace Center (DLR) Permission is hereby g…",34150262,"M3T multi-modality 3D object tracker (Stoiber et al., DLR) as a self-contained Python extension"
+2026-11-15T14:44:29Z,srci-client,1.5.2,Thorsten Brach,MIT,2208935,"Python client for the Standard Robot Command Interface (SRCI), ported from the open SRCI PLC library"
+2026-11-15T14:44:50Z,baseline-increment,0.4.1,Lakshmi Chakradhar Vijayarao <vijayaraochakri@gmail.com>,Apache-2.0,772715,"Does a detector's score add anything beyond cheap baselines? Grouped CV, group bootstrap, refit permutation null, within-stratum AUROC."
+2026-11-15T14:47:57Z,geotecnia-br,0.1.0,Estrato Perfis,MIT,20215,"Funções pequenas e testadas de geotecnia e hidrogeologia para o Brasil: classificação por N_SPT, UTM SIRGAS 2000, carga hidráulica, volumes de poço e número de sondagens."
+2026-11-15T14:51:02Z,nodescale,0.0.1,Firia,Apache-2.0,10206,NodeScale: an open-source mesh IoT platform from Firia. Coming soon.
+2026-11-15T14:51:39Z,dalicontrol-e64,0.2.0,NashEQify,MIT,29041,Unofficial protocol notes and Python tools for the IPAS DaliControl e64 KNX/DALI gateway
+2026-11-15T14:52:37Z,actionledger,0.1.0,Pallav Pokhriyal <pallav01@gmail.com>,MIT,59178,Idempotency guard for irreversible actions taken by AI agents and automation.
+2026-11-15T14:52:52Z,arc56-generated-knono-0120cde0,1.2.2026072010,knonode,,20959,Generated ARC-56 Algorand smart-contract clients for knonode/algokit3-ts-workshop-personal-bank.
+2026-11-15T14:53:56Z,arc56-generated-knono-aa6c1e0b,1.2.2026072010,knonode,,24604,Generated ARC-56 Algorand smart-contract clients for knonode/SignZero.
+2026-11-15T14:55:00Z,arc56-generated-krant-dd0ffdf7,1.2.2026072010,kranthi1306,,20824,Generated ARC-56 Algorand smart-contract clients for kranthi1306/Carbonfootprint.
+2026-11-15T14:55:22Z,lifeastroapi,0.1.0,Ayanshu Life <support@lifeastroapi.com>,MIT,206816,"Official Python SDK for LifeAstroAPI: Vedic astrology and Hindu calendar API (panchang, festivals, kundli, dasha, kundli matching, muhurat, horoscopes, numerology, tarot, Western astrology) in 10 lan…"
+2026-11-15T14:55:38Z,litestar-feedback,0.2.1,Jorge Cardona <jorgeecardona@gmail.com>,MIT,98295,Litestar plugins for an in-app customer support inbox and session replay
+2026-11-15T14:56:04Z,arc56-generated-krant-41395b03,1.2.2026072010,kranthi1306,,13638,Generated ARC-56 Algorand smart-contract clients for kranthi1306/guess_number.
+2026-11-15T14:56:40Z,tubetranscript,0.1.0,TubeTranscript,MIT,44030,"YouTube transcripts that work from cloud servers. Drop-in fallback for youtube-transcript-api when YouTube blocks your IP, plus the TubeTranscript API client."
+2026-11-15T15:00:53Z,kthbygg,0.1.0,Nick Westin <nickw@kth.se>,MIT,130967,"Python-bibliotek för dimensionering av bärverk enligt Eurokod (stål, trä, snölast)"
+2026-11-15T15:02:30Z,vcti-reader-converge-h5,0.1.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,50953,"Converge CFD post-file reader: the files of a run found and ordered by the output time each records, and per file its boundary table, streams, polyhedral face topology, cell-centered variables and pa…"
+2026-11-15T15:02:54Z,ros2audit,0.1.0,Fatih Kayran,Apache-2.0,277436,"Security audit for ROS 2 robots. Checks workspaces, robots on your network and live graphs for open DDS, exposed bridges and SROS2 mistakes."
+2026-11-15T15:04:53Z,pattie,0.0.1,,,1657,Name reserved: cross-platform virtual audio routing. Real release coming soon.
+2026-11-15T15:08:34Z,agentlog-py,1.4.0,AgentLog Contributors,MIT,82102,"Language-neutral AgentLog logging framework for Python (Schema v1, standard-library only)"
+2026-11-15T15:13:38Z,simplibs-extractor-css,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,122829,"The CSS add-on of simplibs-extractor: file rules for CSS, SCSS and Less projects, steps that remove comments and imports (found by a scanner that knows strings and url() addresses), an outline step a…"
+2026-11-15T15:14:20Z,hyperscale-tasks,0.1.0,Andy Caine,MIT,42971,"A Django tasks backend on a transactional outbox and SQS, with an AWS Lambda handler"
+2026-11-15T15:14:28Z,tooltune,0.1.0,,MIT,106269,Measure and improve MCP tool descriptions.
+2026-11-15T15:18:21Z,moneywiz-mcp,0.1.0,Kyle,MIT,201189,Unofficial MCP server for MoneyWiz on macOS: drives the running app's own business methods
+2026-11-15T15:19:58Z,vcti-usd-model-converge-h5,0.2.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,60912,"Converge CFD post files to the VCollab USD model stage: streams as component groups and slabs, boundary surfaces triangulated as atoms, parcels as a point component, cell and parcel variables as fiel…"
