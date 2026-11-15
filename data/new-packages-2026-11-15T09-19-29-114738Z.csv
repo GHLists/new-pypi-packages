@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T08:21:52Z,orthodox-zoroaster-texts,0.1.0,,"﻿MIT License Copyright (c) 2026 orthodox-zoroaster-texts contributors Permission is hereby granted,…",77394,Read and search a historic English translation of the Gathas
+2026-11-15T08:22:34Z,tovano,1.0.0,Tovano <support@tovano.ai>,MIT,50031,"Official Python client for the Tovano API: one API key, one balance and one invoice for image, video, audio and text models."
+2026-11-15T08:23:15Z,heinzel-issues,0.2.0,,MIT,422143,"Report a problem or request something, and see when it is done and released; needs a Beads database you can write to."
+2026-11-15T08:33:32Z,types-msal,1.39.0.20261115,,Apache-2.0,36155,Typing stubs for msal
+2026-11-15T08:33:38Z,types-python-gnupg,0.5.7.20261115,,Apache-2.0,19769,Typing stubs for python-gnupg
+2026-11-15T08:35:53Z,langchain-okf,0.2.0,Ayush Dey,MIT,112835,LangChain integration for Google's Open Knowledge Format (OKF)
+2026-11-15T08:37:28Z,eptraj,0.1.1,,MIT,28337,3D particle-tracking simulator for microfluidic channels
+2026-11-15T08:40:29Z,szl-formulas,0.1.0,Stephen P. Lutar / SZL Holdings,Apache-2.0,119424,"Canonical formula registry and governed-loop composer. Software kernel, not a trained model."
+2026-11-15T08:40:37Z,szl-provctl,0.1.0,Stephen P. Lutar / SZL Holdings,Apache-2.0,63075,"Provenance-DAG control and in-toto / SLSA interop. Software kernel, not a trained model."
+2026-11-15T08:42:34Z,dadl-quantum-core,0.1.1,,MIT OR Apache-2.0,1323354,"Compiled per-tag core for dadl-quantum (Rust, optional): dead time, coincidences, histograms"
+2026-11-15T08:43:35Z,runkite-governance,0.8.0,,Apache-2.0,30552,Small decide and pending-action helper for app-owned agent loops.
+2026-11-15T08:43:59Z,lamarzocco-mcp,0.1.0,Emil Madsen,MIT,36632,Unofficial MCP server for La Marzocco home espresso machines (not affiliated with La Marzocco)
+2026-11-15T08:45:31Z,sci2audio,1.0.0,Colin Meng,GPL-3.0-or-later,4680358,"Turn scientific texts into faithful, offline audiobooks with local voices."
+2026-11-15T08:46:02Z,esaleskit,0.0.1,,MIT OR Apache-2.0,2003,"The Python kit for esales, the open-source sales platform for energy retail. Under development; this release reserves the name."
+2026-11-15T08:53:23Z,prooftrail-verify,0.2.0,AjmalX0 <ajmalx0456@gmail.com>,MIT OR Apache-2.0,30826,Independent offline verifier for ProofTrail evidence packages
+2026-11-15T08:54:05Z,all-abt-ntu,0.1.0b1,pitchaya-s,MIT,976251,"CLI and MCP interfaces for NTU schedules, learning, career opportunities, maps, research, faculty, library, news, campus services, shuttle arrivals, and student administration"
+2026-11-15T08:54:38Z,ae-dlo,0.6.5,Abbas Endari <a.endari@gmail.com>,MIT,881584,"A lightweight, deterministic, privacy-first Downloads folder organizer."
+2026-11-15T08:56:30Z,mihack,0.1.0,,AGPL-3.0-or-later AND Apache-2.0,49607,"The touchstone for AI-built software: evidence that AI-agent work was allowed, approved and verifiable."
+2026-11-15T08:56:45Z,emeans-cluster,0.1.0,The emeans developers,BSD-3-Clause,5265277,e-means: scikit-learn compatible mini-batch k-means with exponential-moving-average centroids
+2026-11-15T08:59:16Z,profili-mcp,0.1.1,,,44031,MCP server for the legacy Profili 2.x airfoil software (Jet DB + bundled XFOIL)
+2026-11-15T09:00:23Z,docform,0.21.0,Srinivas Chippagiri,LGPL-2.1-only,2054337,Fill document templates with data using Jinja2
+2026-11-15T09:01:39Z,engine-mcp,0.1.0,Kurtlon Earl Sta. Ines,MIT,45827,MCP tooling for game-engine work: a Spine 2D MCP server and a Godot MCP endpoint connector.
+2026-11-15T09:02:02Z,fintrack-eastmoney-mcp,0.0.1,,MIT,28072,东方财富新闻检索的 MCP Server（stdio），为百炼智能体提供个股/关键词新闻工具
+2026-11-15T09:05:16Z,shaperunner,10.3,RFrank,GPL-3.0-or-later,94757,"Rotating 3D wireframes drawn as ASCII art, in their own window or in the terminal"
+2026-11-15T09:08:25Z,clutchwork,0.2.1,,LicenseRef-Proprietary,563538,Continuously running orchestration engine that authors and runs tickets against host repos.
+2026-11-15T09:08:32Z,guardflow,0.1.0,Sowmya LR,Apache-2.0,53958,Local-first input guardrails for LLM applications.
+2026-11-15T09:13:09Z,fixfirst,0.1.0,fixfirst contributors,Apache-2.0,68442,"Makes coding agents fix their code instead of cheating around ruff, ty and your tests"
+2026-11-15T09:15:06Z,aiocheck-utils,0.1.2,Dev Debugger <debuggersupp@gmail.com>,,2184,Lightweight asynchronous utility for system monitoring and log processing.
+2026-11-15T09:15:11Z,the-music-tree-genre-graph,0.1.0,mignot,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",25020,"Pure semantic genre graph validation, boundaries and selection"
+2026-11-15T09:15:44Z,floodwall,0.1.0,,MIT,20474,Ask a Floodwall Cloud plane before your agent changes production.
+2026-11-15T09:16:12Z,pad-python,4.0.0,Gregor Skok <Gregor.Skok@fmf.uni-lj.si>,MIT,4917082,Precipitation Attribution Distance for fields on a planar grid
+2026-11-15T09:17:10Z,word-doc-pipeline,1.1.0,Llliu-2276,MIT,384334,把中文 Markdown 文档确定性产出合规 Word（.docx）：profile 驱动的排版与成品反查校验
+2026-11-15T09:17:57Z,oribi,0.1.0,Oribi contributors,MIT,44323,Evidence-backed analytical context for pandas DataFrames
