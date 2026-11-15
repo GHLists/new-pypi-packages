@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T22:21:05Z,texgisa-survival,2.2.0,"Xinyu Qin <Xinyu_Qin1@baylor.edu>, Ruiheng Yu <ry26@fsu.edu>, Yan Li <yanrock.li@mail.utoronto.ca>,…",MIT,534515,Interpretable and interactive deep survival analysis: time-resolved TEXGI attributions and expert attribution priors
+2026-11-15T22:21:25Z,lazers,0.1.0,Emmanuel Ilori <iloriemmanuel00@gmail.com>,Apache-2.0,15031,Server-side Python SDK for Lazers Signal Protocol v1
+2026-11-15T22:23:27Z,sk8r,1.0.1,Akash Damle,MIT,232912,"Set a project up so it runs: identify it, install it, fill local settings, add editor run buttons and verify it starts, after one approval."
+2026-11-15T22:24:20Z,pyspokes,0.1.0a6,AI Helpers,MIT,52892,Type-based spoke discovery and resolution for Python applications
+2026-11-15T22:24:26Z,pytest-pghealth,0.3.0,Maciej Zieliński,MIT AND Apache-2.0,131905,"PostgreSQL schema health checks in pytest: unindexed foreign keys, duplicate and invalid indexes, missing primary keys, int4 keys near overflow."
+2026-11-15T22:25:06Z,plonex,0.0.1a0,Alessandro Pisa,GPL-3.0,364155,Deploy a manage Plone site based on some configuration files
+2026-11-15T22:31:58Z,mirrorworld,0.1.0,alienpenguin10,MIT,412761,"Fetch street-level, aerial, satellite, elevation, LiDAR and map data for any place"
+2026-11-15T22:34:29Z,buglupa-connect,0.1.0,"""Yarqat (SMC-Private) Limited"" <support@yarqat.com>",MIT,58716,"buglupa connect: let BugLupa Cloud's scanner test an app on your computer through a private, outbound-only tunnel."
+2026-11-15T22:34:32Z,avora,0.1.1,Daniel Phillion <danielaphillion@gmail.com>,GPL-3.0-or-later,191349,Local Avora Version Control System
+2026-11-15T22:34:34Z,remote-avora,0.1.1,Daniel Phillion <danielaphillion@gmail.com>,GPL-3.0-or-later,54502,Remote API for Self-Hosting of Avora
+2026-11-15T22:38:56Z,GM3Dps,0.0.1,Yannis Benchaib--Langon <yannis.benchaib-langon@student.isae-supaero.fr>,,18176,A package to create 3D (and 2D) Postscript figure in Python
+2026-11-15T22:39:20Z,pochep-procmat,0.0.1,"""Andrey O. Ferubko"" <ferubko1999@yandex.ru>, ""Oleg D. Kazakov"" <kazakov@bgitu.ru>",MIT,21751,"Matrix decompositions (QR, SVD, Cholesky, NNLS, NMF) for the process memory model M t = p"
+2026-11-15T22:39:57Z,langchain-vericto,0.1.0,Vericto <security@vericto.com>,Apache-2.0,49115,An integration package connecting Vericto (database guardrails for AI agents) and LangChain: check every SQL statement against Vericto's rules before it runs.
+2026-11-15T22:45:18Z,sentalign-rust,2.0.0,Steinþór Steingrímsson,Apache-2.0,1130186,Rust path-search kernel for SentAlign (optional backend: --path-backend rust)
+2026-11-15T22:45:56Z,iput-memerr,0.0.1,"""Oleg D. Kazakov"" <kazakov@bgitu.ru>",MIT,44918,Asymmetric uncertainty estimates for memory consumption measurements of virtual machines
+2026-11-15T22:53:03Z,ipi-arena-bench,0.1.0,Gray Swan AI,MIT,2529014,Open-source benchmark for indirect prompt injection scenarios from the IPI Arena
+2026-11-15T22:56:38Z,dimo-plugin,2.0.0,Dimo maintainers,Apache-2.0,38429,Dimo plugin worker SDK for protocol 1.1
+2026-11-15T22:57:29Z,bodega-marquee,1.0.0,ldl805 <liedel@gmail.com>,MIT,18879,Simulated bodega/diner LED dot-matrix marquee sign with a floating controller window
+2026-11-15T23:02:36Z,trosna-regime-control,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,136260,"Regime detection from reallocation decisions under irregular checks, scale-invariant monitoring intervals and simplex (Aitchison) memory allocation for adaptive KVM memory management"
+2026-11-15T23:04:04Z,etform,0.17.0,,,4343629,Native ncurses forms and read-only terminal documents
+2026-11-15T23:09:32Z,aicf-framework,0.5.0,Jeffery Darkstar <ccjjfdyqlhy@outlook.com>,Apache-2.0,1278789,"AICF - Agent Infrastructure Cybernetics Framework: a scenario-agnostic agent engine (turn loop, tools, sqlite sessions, sub-agent collaboration)"
+2026-11-15T23:09:49Z,image-visibility-graph,0.1.0,David Sierra Porta,MIT,42686,"Image Visibility Graphs (IVG/IHVG) and Visibility Patches (Iacovacci & Lacasa, 2019)"
+2026-11-15T23:10:06Z,swarmauri_runstore_sqlite,0.1.0,Jacob Stewart,Apache-2.0,14173,SQLite checkpoint storage for resumable Swarmauri agent runs.
+2026-11-15T23:12:34Z,amoeba-ai,0.1.0,,"MIT License Copyright (c) 2026 Erik Corkran Permission is hereby granted, free of charge, to any pe…",4099061,Amoeba: a tool that answers a paused run's first-level questions and keeps the record
+2026-11-15T23:13:39Z,whateverfont,0.1.0,Brian Zhou,MIT,954060,WhateverFont You Want. An AI agent draws a complete typeface from a plain-English brief and builds real font files.
+2026-11-15T23:14:34Z,aicf-core,0.5.0,Jeffery Darkstar <ccjjfdyqlhy@outlook.com>,Apache-2.0,1279410,"AICF - Agent Infrastructure Cybernetics Framework: a scenario-agnostic agent engine (turn loop, tools, sqlite sessions, sub-agent collaboration)"
+2026-11-15T23:16:42Z,prekmoi,0.1.0,BALDOeFIERO,MIT,10829,A pre-commit hook to validate Zsh syntax in Chezmoi templates and standalone Zsh scripts.
+2026-11-15T23:18:23Z,wagtail-alt-text-generator-ai,1.0.0,Bryam Loaiza,MIT,75133,"Write SEO-friendly alt text for the images in your Wagtail library. Generate it for one image, a selection or every image that is missing it, review it, and save. 131 languages."
