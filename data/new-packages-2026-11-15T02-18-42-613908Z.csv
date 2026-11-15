@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T00:53:36Z,crewai-plimsoll,0.27.1,,Apache-2.0,15732,"A CrewAI tool that runs agent-written code in plimsoll, a self-hosted sandbox that refuses to run below the isolation you require"
+2026-11-15T01:22:22Z,pfrelay,0.2.0,,Apache-2.0,94402,Python SDK for the pf-simple relay hub: serve a tunnel or connect through one
+2026-11-15T01:29:43Z,greenpage,0.1.1,greenpage contributors,MIT,178669,"Estimate and budget the carbon footprint of web pages, locally or in CI."
+2026-11-15T01:30:19Z,pdacek,0.1.0,,MIT,38219,
+2026-11-15T01:34:03Z,mailbotic,0.0.1,NT Connect Holdings,,2537,"Mailbotic: email infrastructure for AI agents, by NT Connect. Placeholder; coming soon."
+2026-11-15T01:37:49Z,forebot,0.2.0,,,25181,Python SDK for bots managed by Forebot
+2026-11-15T01:39:37Z,taskflow-doc-search,0.1.1,,MIT,33030,MCP server for keyword search over the ai-workspace-kit documentation repos and demo tickets
+2026-11-15T01:42:25Z,open-interpretability,0.0.20,Will Sackfield <will.sackfield@gmail.com>,MIT,776834,Open Interpretability: an agent-audited mechanistic interpretability registry for native neurons in open-weight models.
+2026-11-15T01:47:17Z,gemma-xdna2,0.1.0a2,,Apache-2.0 AND BSD-3-Clause AND MIT AND BSL-1.0,2881732,Pinned full-model Gemma 3 1B inference on AMD XDNA2 with frozen PDI kernels
+2026-11-15T01:53:53Z,zode,0.1.0,,Apache-2.0,61998,Python SDK for Zode: sandboxed microVMs for coding agents.
+2026-11-15T01:54:33Z,ecossistema-skills,1.0.0,Jose Dimarzio Netto <dimarzionetto@gmail.com>,MIT,86492,"Ecossistema de skills Python modulares nas 4 áreas de maestria (automação, OpSec defensiva, vendas B2B, design)."
+2026-11-15T02:00:51Z,side-vim,0.1.0,sprytnyk.dev,MIT,86531,Vim mode for PySide6's QPlainTextEdit
+2026-11-15T02:01:05Z,revoluzen-flow,1.0.1.dev0,Revoluzen <hello@revoluzen.io>,Apache-2.0,12058656,Revoluzen Flow — open-source data pipeline orchestrator
+2026-11-15T02:02:52Z,temper-python,0.1.0,,MIT,20417,"pytest adapter for Temper: tests state what they prove, and write evidence."
+2026-11-15T02:09:03Z,notedelta,0.1.0,Ouyang Matters,LicenseRef-NoteDelta-EULA,216719,"Scientific notebook review: what changed in your numerical results, how much, and can you trust the comparison."
+2026-11-15T02:10:27Z,demeter-sdk,0.0.0,Demeter Technologies,Proprietary,840,"Placeholder. The Demeter SDK is distributed from Demeter's own package registry, not from PyPI."
+2026-11-15T02:10:58Z,datacorex,0.1.0,,MIT,4334,A modular Python toolkit for data engineering and ETL operations.
+2026-11-15T02:11:03Z,monopoly-polysome,0.1.0,"William DeGroat, Anat Kreimer",MIT,87588,Paired differential analysis of polysome profiling RNA-seq data.
+2026-11-15T02:13:48Z,roller-agent,0.2.0,Roller contributors,Apache-2.0,758047,Batch collection of agentic trajectories across models and harnesses
+2026-11-15T02:15:03Z,kannaka-scientist,0.1.0,,,390323,"Kannaka Scientist: a preregistered research loop (campaigns, gates, scorers, benchmark harnesses) for the Kannaka constellation"
+2026-11-15T02:15:06Z,malmal,0.4.0,,MIT OR Apache-2.0,4917337,"Upload scanner for images, SVG, PDF and PostScript files"
+2026-11-15T02:15:11Z,resonant-swarm,0.1.0,Nick Flachsenhaar <nick@nickflach.com>,Apache-2.0,96858,Kuramoto phase coupling for Oasis social simulation and ghostsignals prediction markets
+2026-11-15T02:16:54Z,enrich-gallery3-photo-exif,0.0.1,Gene Wood <gene_wood@public.cementhorizon.com>,GPL-3.0-or-later,66936,Interactive utility for enriching EXIF metadata of photos stored in a Gallery3 installation.
+2026-11-15T02:18:13Z,lgd-engine,0.1.0,"Zhao, X.",Apache-2.0,68936,Theory-bound judgment core for medical-device AI change control (LGD 三律 / 有籍有证有门禁 / 触点即门).
