@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T00:19:57Z,gigai-core,0.1.0,,Apache-2.0 AND MIT,581855,"Typed evaluation records, graders, statistics and run files for GigAI and the edgelab books."
+2026-11-15T00:20:04Z,actaeon,0.2.0b0,ares-369,Apache-2.0,753415,Open-source AI threat hunter that works through MCP connectors (beta)
+2026-11-15T00:21:07Z,lensuq,0.2.0,Sarseej Shrestha,,60043,Quantify prediction sensitivity across alternative preprocessing pipelines
+2026-11-15T00:30:09Z,jetbrains-pulumi-aws-cloudwatch-alarm,999.9.9,,,984,Stub package that mitigates Dependency Confusion attacks
+2026-11-15T00:32:25Z,fasthttpc,0.6.0,Buğra,MIT,649493,"Pure-Python HTTP client with browser TLS/HTTP2 fingerprint impersonation, async, HTTP/2 and TLS 1.3/1.2"
+2026-11-15T00:34:40Z,RG-agentic_terminal,0.1.0,Rohan <rohangorde0505@gmail.com>,,10008,An MCP which adds the terminal capabilities to an agent.
+2026-11-15T00:39:51Z,noisevault,0.5.0,Dev D. Goyal,Apache-2.0,1944569,"Pins the calibrated noise of a real quantum device, on a date, as one small file, and turns it into a noise model for Qiskit, Cirq, PennyLane or Stim, with a report of what each simulator reproduced…"
+2026-11-15T00:44:46Z,seed-scan,2026.11.15,The btclib developers,MIT,687061,"What a mnemonic of unknown scheme holds: its scheme, addresses, coins and forks"
+2026-11-15T00:47:38Z,clarify-ai,0.4.0,Soumik Kar <your_email@domain.com>,MIT,49612707,"Lightning-fast, lightweight AI image upscaling via ONNX Runtime & OpenCV."
+2026-11-15T00:49:44Z,pydtcpip,0.1.0,tsukumi,MIT,219926,"Unofficial Python implementation of DTCP-IP with DLNA/UPnP support, an async API, and a CLI for streaming and transferring recordings"
+2026-11-15T00:50:06Z,nova-copilot,0.1.0,eagleye-china <zdt168@sina.cn>,MIT,13601,"A stunning, GPU-accelerated mobile application for PySide6."
+2026-11-15T00:50:11Z,forterforge,0.1.0,Your Name <you@example.com>,MIT,16952,Unique fingerprint tokens with matching user-agents (testing & security research)
+2026-11-15T00:56:03Z,prism-ai-mcp-server,0.2.0,,MIT,30382,Transport-independent MCP tool serving for the Prism ecosystem.
+2026-11-15T00:56:07Z,vbee-mcp,0.1.0,,MIT,26218,Unofficial MCP server for vbee.vn (TTS + STT)
+2026-11-15T01:02:22Z,rowmonitor-airflow,0.1.0,Row Monitor,LicenseRef-RowMonitor-Proprietary,24989,Beta Airflow listener that sends DAG run metadata to Row Monitor.
+2026-11-15T01:03:10Z,gephyra,0.0.1,Navid Seidi <navid@navid.tech>,MIT,2602,GEPHYRA: benchmarks of proactive and reactive AI agents in real-world settings (in development).
+2026-11-15T01:03:10Z,harp-timestampgeneratorgen3,1.4.0,harp-tech <contact@harp-tech.org>,MIT,41516,Interface for data acquisition and control of Harp Timestamp Generator Gen3 devices.
+2026-11-15T01:04:56Z,LMID-conformally-flat-puncture,1.0.0,Frederik De Ceuster,GPL-3.0-or-later,1139864,"Certified, differentiable, parametric conformally-flat binary-black-hole puncture initial data — lemaitre.initial_data.conformally_flat_puncture"
+2026-11-15T01:05:51Z,strikethrough,1.0.0,Ayan Alam <knexyce@proton.me>,Apache-2.0,38889,"The command-line interface and distribution layer for Skywatch, an autonomous local AI system."
+2026-11-15T01:06:55Z,urouter-sdk,0.1.0,,MIT,16489,OpenAI-compatible Python client for uRouter (free + paid)
+2026-11-15T01:10:06Z,dd-chat,0.1.0,Digital Duck,Apache-2.0,109325,"Ask one question, let up to five LLMs answer side by side: a Streamlit showcase of GraphLang"
+2026-11-15T01:15:24Z,multipiegen,0.1.0,Hiroaki Kusunose <hiroaki.kusunose@gmail.com>,MPL-2.0,35446320,Generation code and data for the new multipole basis of MultiPie Ver.3 and later.
