@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T21:19:36Z,fullcourtdefense-engine,0.19.0,FullCourtDefense,Proprietary,18602589,FullCourtDefense decision engine (the CLI's Rust engine) for the Python SDK fullcourtdefense-agent
+2026-11-15T21:21:16Z,india-markets-mcp,0.1.0,Aarya Mhatre,MIT,1996442,"MCP server giving AI agents quotes, technical signals and a transparent trend regime for Indian (NSE/BSE) equities, from public data."
+2026-11-15T21:22:38Z,confibara,0.0.1a3,,,5220,Add your description here
+2026-11-15T21:24:29Z,confybara,0.0.1a1,,,5130,Add your description here
+2026-11-15T21:25:09Z,db-cutover,0.2.0,"""DocSpring, Inc."" <support@docspring.com>",MIT,153141,Agent-friendly tools for zero-downtime blue/green PostgreSQL cutovers on RDS with logical replication and a PgBouncer switch
+2026-11-15T21:25:16Z,chand,0.1.1,Max Miller,,72420,A terminal CLI for online currency and cryptocurrency prices in Iranian Rial and Toman.
+2026-11-15T21:26:38Z,access-fieldkit,0.1.0,mhatipog,MIT,36876,"Read-only Access database inventory, loss-aware export, and migration reconciliation"
+2026-11-15T21:31:12Z,codexLB-up,1.25.0b10,Soju06 <qlskssk@gmail.com>,"MIT License Copyright (c) 2025 Soju06 Permission is hereby granted, free of charge, to any person o…",23966453,Maintained codex-lb fork with audited compatibility and security fixes
+2026-11-15T21:32:13Z,rsh-tools,3.0.1,Grigory Efimov,MIT,42221,"ssh helpers: sr (root shell with privilege escalation), sExec/pExec (run commands on inventory groups), cloud inventory plugins"
+2026-11-15T21:34:01Z,git-ez,1.0.0,Andrés Morales <andresdremc@gmail.com>,"MIT License Copyright (c) 2026 Andrés Morales C Permission is hereby granted, free of charge, to an…",40790,"Generador interactivo y local de mensajes de commit bajo Conventional Commits, en español."
+2026-11-15T21:36:08Z,mlquiz,0.1.0,,,10900,A CLI quiz for machine learning
+2026-11-15T21:36:11Z,cosmograd,0.1.1,binado,MIT,77983,Differentiable cosmology in JAX behind a small protocol contract.
+2026-11-15T21:43:53Z,lib-remote,0.1.0,prashobdev <vishnuprashob.s@gmail.com>,MIT,35014,Share your PC screen over IP and control it by touch from any phone/browser - with a simple GUI.
+2026-11-15T21:45:26Z,pydai-ledger,0.1.1,Tim,MIT,512019,"Reproducible, fully recorded batch runs of Pydantic AI agents (casebook in, ledger out)."
+2026-11-15T21:46:33Z,replicator-workshop,0.1.0,,MIT,562827,"You specify it, you build it: a sentence becomes a validated build program, an exact solid, a checked report and a printable file."
+2026-11-15T21:50:33Z,sequent-ha-common,0.0.1,,,28790,Shared Home Assistant integration code for Sequent Microsystems cards
+2026-11-15T21:51:16Z,tdlib-oracle,0.1.0,Theodosios Divolis,MIT AND BSL-1.0,46762,"Telegram Bot API message validator for HTML and MarkdownV2, ported from TDLib"
+2026-11-15T21:51:59Z,adf-parse,0.2.0,Abhishek Hazra,MIT,11427,Convert Atlassian Document Format (ADF) from Jira/Confluence into plain text or Markdown
+2026-11-15T21:56:35Z,toeplitz-ls,1.0.0rc1,Kacper Rutkowski,MIT,6101525,The reference implementation of the Toeplitz formulation of the multiharmonic least-squares periodogram (AoVMH / FastChi2).
+2026-11-15T21:58:35Z,sakila-mcp,0.1.1,Philip Antoniades <philip@antoniades.com>,Apache-2.0,186389,General-purpose read-only MySQL MCP server with a SQL safety layer and structured results.
+2026-11-15T21:58:49Z,szl-kernel-attest,0.1.0,,Apache-2.0,17582,Fail-closed ring-0 workload attestation (eBPF scheduler evidence) for the SZL estate
+2026-11-15T21:59:14Z,szl-os,0.1.0,SZL Holdings,Apache-2.0,55718,SZL Sovereign OS — fail-closed operator kernel
+2026-11-15T22:01:21Z,kermodes,0.5.0,,,67273752,Live and historical tables on Arrow
+2026-11-15T22:01:35Z,aixand-suite-python,0.1.0a1,Artificial Intelligence Advancement Initiative Inc.,Apache-2.0,64931,"Ergonomic composition of Agent Manager, Carrier, and Undercurrent"
+2026-11-15T22:01:36Z,aixand-suite-runner-client,0.1.0a1,,Apache-2.0,13058,Standard-library Python client for the local Aixand job runner
+2026-11-15T22:01:40Z,aixand-suite-connect,0.1.0a1,Artificial Intelligence Advancement Initiative Inc.,Apache-2.0,103039,"Private device file transfers, project tests, and remote Codex chats for Aixand Suite"
+2026-11-15T22:01:45Z,selfnotify,0.1.0,,,25370,Simple Python push notification library
+2026-11-15T22:02:25Z,kaigen,0.0.1,Kaigen <hello@kaigen3d.com>,MIT,5261,"Kaigen, the 3D engine built for AI coding agents: games, simulations and 3D apps, native on web, desktop, mobile and VR"
+2026-11-15T22:02:53Z,tagarnina,0.1.0,Guillermo Navas-Palencia <g.navas-palencia@gmail.com>,Apache-2.0,71100,Constrained Feature Selection
+2026-11-15T22:04:40Z,imagehub,0.1.0,gorkemgul,Apache-2.0 AND LicenseRef-NVIDIA-NSCLv1,35236986,"Open-weight image generation architectures, natively reimplemented in PyTorch with parity evidence"
+2026-11-15T22:05:19Z,aixand-suite-orchestration-mcp,0.1.0a1,,Apache-2.0,229533,Public manager and runtime delegation tools
+2026-11-15T22:06:36Z,superartifacts,0.1.0,Super Artifacts,MIT,83285,Python SDK for the Super Artifacts REST API: publish artifacts and read their data from your own code.
+2026-11-15T22:09:25Z,slf-guardian-mcp,1.2.0,SLF Guardian <team@slfguardian.com>,MIT,21067,"MCP server with six security checks an AI agent runs before it delivers code, installs a package, runs a command or opens a link"
+2026-11-15T22:09:57Z,adaptif,0.1.0,"bglid <benjamin.h.glidden@gmail.com>, elnaske <naske.elias@outlook.com>",MIT OR Apache-2.0,11441832,"DSP adaptive filters for Python, built with Rust."
+2026-11-15T22:13:16Z,nuasense,0.1.0,NuaSense <info@nuasense.com>,MIT,24703,"NuaSense for Python: frost, watering and spray advice from your weather station, sending readings from any station you build, and East African farm and market data."
+2026-11-15T22:17:13Z,sydost-memvol,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,21312,Toy emulator of memory volumes shared between virtual machines with access control and random workloads
+2026-11-15T22:19:12Z,stwrd,0.1.1,stwrd,MIT,206962,"Python SDK for stwrd: OpenID Connect sign-in, server-side sessions, FastAPI integration and webhook verification"
+2026-11-15T22:20:02Z,blink-data-lint,0.1.0,Gianni Luigi Messina,MIT,51715,"Zero-config, read-only data quality diagnostics for CSV and Parquet."
