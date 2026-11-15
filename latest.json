@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-15T17:18:44.423899Z",
-    "path": "data/new-packages-2026-11-15T18-18-41-04564Z.csv",
-    "to": "2026-11-15T18:18:41.04564Z"
+    "count": 39,
+    "from": "2026-11-15T18:18:41.04564Z",
+    "path": "data/new-packages-2026-11-15T19-19-09-782703Z.csv",
+    "to": "2026-11-15T19:19:09.782703Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-15T17:48:21Z",
       "package": "alucard",
       "since": "2026-11-15T17:18:44.423899Z",
       "version": "0.2.1"
     }
   ],
-  "serial": 43695100,
+  "serial": 43696828,
   "source_truncated": false,
-  "window": "2026-11-15T18:18:41.04564Z"
+  "window": "2026-11-15T19:19:09.782703Z"
 }
