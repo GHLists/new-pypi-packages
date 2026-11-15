@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T20:20:04Z,socialsforai,0.1.0,Codehorts LLC <lee@socialsforai.com>,MIT,35016,"Python client and agent tools for SocialsForAI: post to X, LinkedIn, Bluesky, Mastodon, Telegram, Discord and more from code or AI agents."
+2026-11-15T20:21:28Z,pulumi-defang-scaleway,2.12.0,,Apache-2.0,22154,Deploy containerized services to Scaleway with Pulumi.
+2026-11-15T20:23:04Z,mortis-engine,0.1.0,Code Mortis,Apache-2.0,542766,Review local Git changes and scan repository security with your AI connection
+2026-11-15T20:23:06Z,goome,0.4.0,sevvy-wevvy,GPL-3.0-only,1820234,"See-through, always on top overlays for Python, on top of the goome C library"
+2026-11-15T20:26:24Z,schemaguard-ci,0.1.0,gazi04,,48936,"Catch database migrations that break dbt models, in the backend pull request"
+2026-11-15T20:28:12Z,diakrin-config,0.0.0,,,1012,Reserved by Diakrin. Not for use; real packages are private.
+2026-11-15T20:28:14Z,diakrin-dns,0.0.0,,,981,Reserved by Diakrin. Not for use; real packages are private.
+2026-11-15T20:28:16Z,diakrin-postgres,0.0.0,,,1032,Reserved by Diakrin. Not for use; real packages are private.
+2026-11-15T20:28:18Z,diakrin-stack-manager-client,0.0.0,,,1144,Reserved by Diakrin. Not for use; real packages are private.
+2026-11-15T20:29:00Z,katze,0.1.1,Monnawat Tongkaw,MIT,113786,JobKatze Auto-Apply CLI
+2026-11-15T20:30:27Z,ofx-converter,0.1.0,Luke Deaves,GPL-3.0-only,79309,"Convert bank statements between OFX, QIF and CSV"
+2026-11-15T20:32:24Z,numtag,0.3.0a1,TigreGotico,Apache-2.0,269896,"Find every number in a text: exact values as digit strings, kinds and character spans."
+2026-11-15T20:35:11Z,nanocat-cli,0.4.3,Ali Mazaheri,"MIT License Copyright (c) 2026 Ali Mazaheri Permission is hereby granted, free of charge, to any pe…",18913,Syntax-highlight files or stdin using GNU nano (.nanorc) rules.
+2026-11-15T20:35:42Z,dataapp_crawler,0.1.0,,,173431,"Composable HTTP, browser and proxy acquisition SDK for DataOS DataApps"
+2026-11-15T20:35:44Z,dataapp-crawler-octoparse-browser,0.1.0,,,38144,Octoparse browser providers for DataApp Crawler
+2026-11-15T20:35:45Z,dataapp-resource-proxy,0.1.0,,,94658,"Run-scoped client for managed browser, proxy and CAPTCHA resources"
+2026-11-15T20:35:46Z,octoparse-relay,0.1.10,,,426305,Development relay between Playwright and a WXT Chrome extension
+2026-11-15T20:36:59Z,paradoxdb,0.1.0,arielgiamportone,MIT,108201,Pure-Python reader and writer for Paradox tables (.DB / .MB / .PX) with explicit per-cell state
+2026-11-15T20:37:58Z,simplibs-extractor-html,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,206456,"The HTML add-on of simplibs-extractor: file rules for HTML pages and Django and Jinja templates, steps that remove comments and imports (found by a scanner that knows scripts, styles and template tag…"
+2026-11-15T20:39:54Z,loopcaptain,0.3.1,Daniel Vogler,Apache-2.0,1984227,"An open protocol for agent loops and a local dashboard to monitor and steer them: plain files, any agent, no dependency."
+2026-11-15T20:42:02Z,aiobambulab,0.0.1,Joost Lekkerkerker <joostlek@outlook.com>,MIT,72785,Asynchronous Python client for Bambu Lab 3D printers on the local network
+2026-11-15T20:42:21Z,pdf-reader-0jsfjf,0.1.0,,Proprietary,76122,"PDF OCR, indexing and search tools for AI assistants"
+2026-11-15T20:47:38Z,mfe-quant-analytics,0.9.0,Samuel,MIT,291188,"Estensione Pandas (df.mfe) per Financial Engineering: metriche di rischio/performance, CAPM automatico, multipli P/E e PEG, valutazione DCF e DDM, obbligazioni, ottimizzazione di Markowitz automatica…"
+2026-11-15T20:47:56Z,materials-simulation-skills,1.0.0,Materials Simulation Skills Contributors,Apache-2.0,1259345,"Agent Skills for materials science simulations - numerical methods, validation, and parameter optimization"
+2026-11-15T20:48:16Z,gabby-ai,0.1.0b5,Gabby Contributors,Apache-2.0,702261,"A stateless, governed agent execution runtime."
+2026-11-15T20:48:39Z,zeta-scaling-toolkit,0.5.0,Zeta Scaling Toolkit Contributors,MIT,63305,Experimental PyTorch scaling utilities
+2026-11-15T20:49:37Z,katui,0.0.3,,MIT OR Apache-2.0,21866050,"Pixel apps, games and documents in the terminal, drawn with kitty graphics"
+2026-11-15T20:49:42Z,qlpca,0.2.0,"Nuno Lavado, Teresa Calapez",MIT,71667,"Quasi-linear PCA: PCA with low-order spline transformations, fitted by alternating least squares"
+2026-11-15T20:52:48Z,vigily,0.1.0b1,Saiful Islam,MIT,128395,"An experiment tracker that keeps watch: log runs, metrics and evaluations from Python"
+2026-11-15T20:53:44Z,entitybind,0.1.0,EntityBind,MIT,146239,"EntityBind command-line client: log in, wire EntityBind into Claude Code, Codex, Gemini CLI, Cursor or VS Code, and call the Core API."
+2026-11-15T20:54:05Z,xdfem3d,2026.11.14,Paulo Cachim,LGPL-3.0-or-later,4460341,3D structural FEM engine with a compiled Rust core
+2026-11-15T20:57:29Z,rw-style,0.3.0,,,93274,Add and safely update Python project guidance with uv.
+2026-11-15T21:01:06Z,factory-framework,0.3.1,Médéric Hurier,MIT,121184,"Factory Framework (ff) links human intents and specs to parallel executable checks, records validated metrics, and exports stakeholder-ready proofs."
+2026-11-15T21:03:06Z,vigily-engine,0.1.0b1,Saiful Islam,MIT,305965549,"The vigily engine: serves a repository's runs, evaluations and traces to the web app, the CLI and the Python SDK"
+2026-11-15T21:03:36Z,hook-sec,0.1.0,"""nihad.aghazada"" <agazadenihad707@gmail.com>",MIT,5347,Autonomous AI Deception & Sandbox SDK for FastAPI
+2026-11-15T21:04:47Z,screen-presenter,0.1.0,Jose A. Jimenez,MIT,191880,"Desktop application that shows your camera as a presenter overlay, so you can record your screen with any tool."
+2026-11-15T21:05:47Z,sanadb,0.1.2,,MIT OR Apache-2.0,7317991,Disk-first embedded vector + metadata store
+2026-11-15T21:06:09Z,sporemap,0.0.1,Grant,AGPL-3.0-only,26704,Open-source homelab manager that discovers and maps your lab automatically.
+2026-11-15T21:07:07Z,persianeval,0.1.1,PersianEval Contributors,Apache-2.0,407555,"PersianEval: the first serious open-source benchmark for evaluating LLMs on Persian (Farsi) — 8 tasks, reproducible async harness, weekly leaderboard."
+2026-11-15T21:08:12Z,haybale-protokol-midi,0.0.6,,MIT,41379,"MIDI for haybale-protokol: Device gates, MIDI Receive and Send nodes"
+2026-11-15T21:08:19Z,kataster-mcp,0.3.0,Branislav Klocok <branislav.klocok@orava.sk>,MIT,503641,"MCP server for the Slovak land registry (kataster nehnuteľností SR): parcels, LV, owners, soil, LPIS, floods, nature protection, maps"
+2026-11-15T21:11:05Z,langchain-llm-prices,0.1.0,Matthew Busel,MIT,26654,"LLM cost tracking for LangChain across every provider: get_cost_callback (get_openai_callback for Anthropic, Gemini, Bedrock, Vertex, Groq, Mistral, DeepSeek...) and CostCapMiddleware, a dollar budge…"
+2026-11-15T21:11:13Z,llm-token-costs,0.1.0,Matthew Busel,MIT,30237,"LLM plugin: what your logged prompts cost, priced with llm-prices"
+2026-11-15T21:11:15Z,langchain-tensorust,0.1.0,Matthew Busel,MIT,28298,"LangChain tools for the Tensorust Ontology: who owns or controls US companies and homes, private credit loan marks, contractor credit, OFAC and banned-vendor screens, from public records."
+2026-11-15T21:11:35Z,django-image-gallery,0.1.0,Alexander Towe,MIT,41111,A Django image gallery application.
+2026-11-15T21:11:53Z,ied-doctor,0.8.0,Pavel Dvořák,MIT,483652,"Read-only IEC 61850 MMS / GOOSE / SV inspection tool with SCD validation, VLAN checks, reports and an IED simulator"
+2026-11-15T21:12:01Z,pylatex-report,0.1.0,Harold Guéneau,MIT,65583,Compose technical PDF reports from Python with PyLaTeX.
+2026-11-15T21:12:06Z,glodformat,0.0.1,Javier Gatón Herguedas <gaton@goa.uva.es>,LGPL-3.0-only,461932,Reader and diagnostics toolkit for GLOD-based netCDF files.
+2026-11-15T21:12:47Z,openbb-tensorust,0.1.0,Matthew Busel,MIT,39991,"OpenBB extension for Tensorust data: BDC private credit loan marks, federal contractor credit, banned-vendor exposure in federal awards and No Surprises Act IDR offer bands."
+2026-11-15T21:13:46Z,convert-md,1.0.0,W3i,MIT,51930,"Right-click conversion between Markdown and Word, PDF, Excel, PowerPoint and HTML on Windows, using Pandoc and Microsoft MarkItDown."
+2026-11-15T21:16:01Z,hfvol,0.1.0,Matthew Busel,MIT,47076,"sktime-compatible realized variance, bipower and jump variation, Hawkes intensity transformers and a HAR-RV forecaster, on plain numpy functions. Carved out of srfm-lab."
+2026-11-15T21:16:03Z,strategy-genome,0.1.0,Matthew Busel,MIT,212807,"Typed genetic-algorithm / genetic-programming optimizer (NSGA-II, island model, adaptive operators) with an Optuna sampler. Carved out of srfm-lab."
+2026-11-15T21:16:05Z,caokit,0.3.0.dev0,Armando Zubillaga,MIT,182108,Chain-of-command agent company kit for CAO (cli-agent-orchestrator)
+2026-11-15T21:16:11Z,srfm-core,0.1.0,Matthew Busel,MIT,32580,"SRFM bar transforms (Minkowski beta, black-hole mass, geodesic, Hawking z) as numpy/pandas functions, streaming classes, a vectorbt indicator and a freqtrade helper. Carved out of srfm-lab, with gold…"
+2026-11-15T21:16:46Z,pyinsta360,0.1.0,chuoru <tranvietthanh0101@gmail.com>,MIT,51239,Python bindings for the Insta360 CameraSDK (X3 tested; X4/X5 nominal)
+2026-11-15T21:17:04Z,polars-yahoo,0.2.0,Thomas Schmelzer,Apache-2.0,104074,Minimal Yahoo Finance price history as polars DataFrames
+2026-11-15T21:17:45Z,egressveil,0.2.0,EgressVeil contributors,MIT,102132,The local privacy gateway for AI coding agents.
+2026-11-15T21:18:49Z,lightspeed-series,0.0.1,Mike Hull <mikehulluk@gmail.com>,MIT,210269,"Fast, zoomable plots of very large series, from min/max level-of-detail pyramids cached in HDF5."

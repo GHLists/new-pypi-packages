@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-11-15T19:19:09.782703Z",
-    "path": "data/new-packages-2026-11-15T20-18-47-533666Z.csv",
-    "to": "2026-11-15T20:18:47.533666Z"
+    "count": 58,
+    "from": "2026-11-15T20:18:47.533666Z",
+    "path": "data/new-packages-2026-11-15T21-19-59-870895Z.csv",
+    "to": "2026-11-15T21:19:59.870895Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-15T17:48:21Z",
       "package": "alucard",
       "since": "2026-11-15T17:18:44.423899Z",
       "version": "0.2.1"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-15T21:19:36Z",
+      "package": "fullcourtdefense-engine",
+      "since": "2026-11-15T20:18:47.533666Z",
+      "version": "0.19.0"
     }
   ],
-  "serial": 43698611,
+  "serial": 43700236,
   "source_truncated": false,
-  "window": "2026-11-15T20:18:47.533666Z"
+  "window": "2026-11-15T21:19:59.870895Z"
 }
