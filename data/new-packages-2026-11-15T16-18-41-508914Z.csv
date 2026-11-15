@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T15:22:26Z,hvx,0.5.0,HVX <bruno.adam@pm.me>,MPL-2.0,656019,"Indoor environmental quality (IEQ) analytics for buildings: EN 16798-1, TAIL, BR18, live monitoring and IFC/Brick interoperability"
+2026-11-15T15:23:24Z,harbor-rayrun,0.1.2,,Apache-2.0,63272,Harbor provider：把 Rayrun 沙箱云接成 Harbor 的评测环境
+2026-11-15T15:24:43Z,attar,1.0.1,RayChang987,MIT,495575,"The fast loop for physical design: any benchmark as GPU tensors, place and evaluate in seconds, validate in ORFS"
+2026-11-15T15:26:13Z,cobraphp,0.1.0.dev2,,GPL-2.0-only,98250,"Placeholder for the Python interface of CobraPHP, a static taint analyzer for PHP projects."
+2026-11-15T15:26:56Z,zexl-mcp,0.1.0,Zexl,Apache-2.0,35865,"MCP server for Zexl: ask your AI assistant about AI spend and waste, and connect a project in one go."
+2026-11-15T15:27:08Z,pda-nlp-lab,0.1.1,,,14703,NLP Lab programs package and Jupyter Notebook dynamic code loader
+2026-11-15T15:28:02Z,ajiet-blockchain-lab,1.0.0,,,44972,Blockchain Lab Program Launcher
+2026-11-15T15:28:47Z,llama-doctor,0.2.1,Manolo Salsas,MIT,297788,Non-invasive health diagnosis for local LLM inference servers via /metrics and /props.
+2026-11-15T15:37:05Z,qusim-np,1.0,Furkan Nar <furkan_nar4185@outlook.com>,MIT,44617,"A minimal, readable quantum computing simulator: gates, state-vector algorithms, and VQE"
+2026-11-15T15:39:35Z,radui,1.0.0,RADUI Contributors,Apache-2.0,2200217,RADUI: Reactive Application Development User Interface framework for Python.
+2026-11-15T15:40:27Z,voteworth,0.1.2,Alexander Bering,Apache-2.0,105884,"Measure error correlation in an LLM judge panel or voter ensemble, report the effective number of independent votes, and correct the majority vote for correlated voters — including the panel shape wh…"
+2026-11-15T15:43:04Z,pdcurses-python,0.0.0,Adam Karpierz <adam@karpierz.net>,,1198,PDCurses.
+2026-11-15T15:43:09Z,ritta,0.2.0,Ramiro Ritta,Apache-2.0,108851,"Signed spend mandates for AI agents: create, sign and verify what an agent may pay, on whose behalf, and within which limits."
+2026-11-15T15:44:25Z,skrap-ai,0.1.0,"""Infralyon Technology (Skrap.ai)"" <contact@skrap.ai>",MIT,67751,"Official Python SDK for the Skrap.ai API: email verification, email finder, enrichment, bulk jobs, lists and webhooks."
+2026-11-15T15:45:15Z,szl-frontier-control-plane,0.5.0,SZL Holdings,Apache-2.0,229125,Evidence-first Hugging Face frontier release intelligence for SZL Holdings
+2026-11-15T15:45:24Z,szl-lyte-enterprise,4.0.0,SZL Holdings,Apache-2.0,2919654,Governed business-observability Signal Lattice
+2026-11-15T15:45:24Z,szl-re,0.1.0,,Apache-2.0,30618,SZL Real Estate — public-records underwriting. Not an MLS.
+2026-11-15T15:46:03Z,scriptconv-nonfree,0.1.0a1,TigreGotico <contact@tigregotico.com>,Apache-2.0 AND MIT AND CC-BY-NC-4.0 AND LicenseRef-AfricaG2P-Data,1021395,"scriptconv phonemizer backends whose code, data or dependencies are non-commercial or carry no licence grant"
+2026-11-15T15:46:08Z,scriptconv-copyleft,0.1.0a1,TigreGotico <contact@tigregotico.com>,Apache-2.0 AND GPL-3.0-only,163595,"scriptconv phonemizer backends whose code or dependencies are copyleft (GPL, LGPL, AGPL)"
+2026-11-15T15:47:24Z,asgi-iframe,0.1.0,riafeed,MIT,28377,"Show a FastAPI / Starlette (ASGI) app in an iframe inside marimo notebooks, without sockets or a server."
+2026-11-15T15:47:45Z,kuzycal,0.1.9,Michele Renda,AGPL-3.0-or-later,86545,CalDAV-backed calendar writer for Kuzys operational events.
+2026-11-15T15:47:48Z,kuzydir,0.1.4,Michele Renda,AGPL-3.0-or-later,105564,JSON-first directory client for Kuzys identities.
+2026-11-15T15:47:52Z,kuzydoctor,0.1.0,Michele Renda,AGPL-3.0-or-later,51688,Continuity repair tools for Kuzys agent session stores.
+2026-11-15T15:47:55Z,kuzylaunch,0.1.41,Michele Renda,AGPL-3.0-or-later,162479,TUI + CLI launcher for Raven/kuzys agents (Portier directory + local launchers).
+2026-11-15T15:49:01Z,husdata-h66-modbus,0.1.0,Jonny Bergdahl <bergdahl@users.noreply.github.com>,MIT,32375,Async Modbus TCP library for the Husdata H66 heat pump gateway
+2026-11-15T15:49:03Z,overturo-sdk,2.0.0,Overturo <sdk@overturo.com>,Apache-2.0,174807,"Overturo SDK — authorize, oversight, and decisions for backend integrators"
+2026-11-15T15:49:03Z,runconvert,0.1.0,,MIT,25557,Official RunConvert SDK for Python: convert files between 240+ formats
+2026-11-15T15:49:22Z,dici-open,0.1.0a3,oJohnnyMarcello,MIT,16452,A lightweight terminal dictionary tool for quick word lookups.
+2026-11-15T15:55:29Z,command-execution,1.0.0,,,11818,Independent configured command and configuration APIs
+2026-11-15T16:04:16Z,qc-mll,0.1.0,QC Lab,MIT,17990,Minimal CLI helper for Machine Learning lab practicals
+2026-11-15T16:04:50Z,mindslice-tui,0.1.0,pancerZH,Apache-2.0,47753,"Read-only terminal UI for browsing MindSlice cards, slices and their relations."
+2026-11-15T16:07:26Z,huntaway,1.0.1,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,1448751,"The sheepdog for your AI agents. Saves and closes idle agent sessions, stops runaway processes before the machine freezes, and hunts rootkits."
+2026-11-15T16:07:27Z,banner-builder,1.0.1,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT AND OFL-1.1,612156,Build a profile banner as SVG and PNG from a config file that stays on your machine.
+2026-11-15T16:07:27Z,usbuntu,1.2.1,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,221687,"Install a complete, bootable Ubuntu system on a USB stick from an ISO, straight from the terminal."
+2026-11-15T16:08:35Z,lg-thermal-watch,1.0.1,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,325530,"A night watch, a temperature log and a dashboard for an LG heat pump on the official LG ThinQ Connect API, with an MCP server for AI agents."
+2026-11-15T16:09:41Z,llm-prices,1.2.0,Matthew Busel,MIT,44171,"Dated, source-cited LLM API prices (Anthropic, OpenAI, Gemini, DeepSeek, Mistral, xAI, Groq, Together, Fireworks, Cohere) per 1M tokens, with provider-aware model-id lookup and exact decimal costs. Z…"
+2026-11-15T16:10:40Z,pasteval,0.0.1,,MIT,19611,Redact sensitive information from text before you paste it into AI tools.
+2026-11-15T16:11:01Z,llm-token-visualizer,0.7.0,,MIT,3384752,"Flag the words an LLM answer was unsure about, from OpenAI or vLLM token logprobs. Spans, HTML report, CI gate."
+2026-11-15T16:12:55Z,cum-mediane,0.1.0,,,1801485,Calcul de medianes cumulatives en C++
+2026-11-15T16:13:56Z,mailcore-sdk,0.1.0a1,Mailcore,MIT,68410,Cliente Python da API Mailcore com recursos síncronos e assíncronos.
+2026-11-15T16:14:40Z,vmgx,1.0.1,Vegte Media Group,MIT,18424,"Reference parser for VMGX, a lightweight, human-readable data format for structured records, rich metadata and long-term digital preservation."
+2026-11-15T16:15:05Z,pingloom,0.1.0,Srish Rachamalla,MIT,15162,Python client for the PingLoom notification API (server-side only).
+2026-11-15T16:15:08Z,chartrank,0.1.0,Faïd Adéshinan ALAGBE,MIT,13620,"Early preview, not ready for use. Suggests and explains the right chart for your data and intent."
+2026-11-15T16:15:29Z,crc-mets-vis,0.1.0,"Visual Intelligence Lab, University of Minnesota",MIT,247387,"CRC metastasis explorer: Streamlit app with a custom D3 component (overview matrix, organ combinations with survival, swimmer plot)."
+2026-11-15T16:15:50Z,historical-call-graph-gif,0.0.1,,Apache-2.0,74872,"Turn a git repository's history into an animated road map of its call network (GIF, MP4 and a self-hosted interactive page), powered by GitGalaxy."
+2026-11-15T16:17:04Z,reckoner-er,0.3.0,Matthew Busel <mattbusel@gmail.com>,MIT,121600,"Deterministic, explainable entity resolution for organization names. No fuzzy matching. Every merge comes with a receipt."
