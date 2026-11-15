@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T12:20:45Z,bhashabid,1.0.1,"Ashikur Rahman Bhuiyan <ashikur.bhuiyan@brainstation-23.com>, Bhashabid Contributors <contributors@…",MIT,931868,The Deterministic Bengali linguistic coprocessor engine & progressive skill layer with a Supervised Self-Learning Distillation Loop.
+2026-11-15T12:22:02Z,leijun,0.1.0,YG,MIT,27671,雷军语录命令行工具：给出前半句，还你后半句
+2026-11-15T12:22:31Z,rookone-server,0.0.1,Eigentic,,1585,Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone.io
+2026-11-15T12:23:57Z,terraflux-py,1.59.0,Eduardo Lacerda,GPL-3.0-or-later,333736919,"Fast, exact landscape pattern, fragmentation, landscape-metric and connectivity analysis for Python."
+2026-11-15T12:27:53Z,pynonymizer-core,1.0.0,tastenkasperle,MIT,22158,Native Zero-Dependency In-Memory Database Anonymizer & GDPR Test Data Generator (CLI & MCP Server)
+2026-11-15T12:30:05Z,jetbrains-pulumi-aws-eks,999.9.9,,,971,Stub package that mitigates Dependency Confusion attacks
+2026-11-15T12:31:00Z,refjax,0.1.1,Stephanie L. Burg,MIT,22295,Lightweight `jit` and `grad` compatible reflectometry in jax.
+2026-11-15T12:32:25Z,contribution-city,1.3.0,partialHuman,MIT,2120585,Transform GitHub contribution activity into beautiful isometric pixel-art cities rendered as SVG.
+2026-11-15T12:34:49Z,provelog,1.2.0,ProveLog <contact@provelog.ai>,MIT AND AGPL-3.0-or-later,1437069,"A verifiable, complete trajectory record for AI agents. Stores model and tool inputs/outputs locally as an Ed25519-signed, hash-chained record with RFC 3161 anchoring that anyone can verify offline.…"
+2026-11-15T12:36:44Z,szl-atelier,0.1.0,Stephen Lutar <stephen@szlholdings.com>,Apache-2.0,35776,SZL Atelier: the legacy curated-gallery FastAPI runtime and the source of the SZLHOLDINGS/szl-atelier Space projection (frontier/atelier_v3).
+2026-11-15T12:39:48Z,shadowprice,0.1.1,Serik Iskakov,MIT,77129,"Economic cost-benefit analysis of investment projects: financial analysis, shadow prices, ENPV/EIRR and risk analysis following EU, ADB and World Bank methods."
+2026-11-15T12:40:35Z,ayaan33-gigbid-portfolio-mcp,1.0.0,,MIT,77931,"MCP server that lets an AI assistant search YOUR freelance portfolio for evidence (case studies, repos, reviews, past proposals) and cite it."
+2026-11-15T12:40:49Z,hmm-craft,0.4.0,"David Cournapeau, Fabian Pedregosa, Gael Varoquaux, Sergei Lebedev, Antony Lee, Matthew Danielson,…",BSD-3-Clause,4244697,A fork of hmmlearn: hidden Markov models with a scikit-learn like API
+2026-11-15T12:41:05Z,dominusnode-llamaindex,2.2.0,,MIT,27171,LlamaIndex ToolSpec for the DominusNode AI-agent relay network (19 v2 tools on the dominusnode SDK)
+2026-11-15T12:41:14Z,dominusnode-metagpt,2.2.0,,MIT,28364,"DominusNode agent relay network tools for MetaGPT (19 tools, built on the dominusnode SDK)"
+2026-11-15T12:41:22Z,dominusnode-moltbook,2.2.0,,MIT,25980,"DominusNode v2 standard tool set (19 relay-network tools) for agent runtimes, built on the dominusnode SDK"
+2026-11-15T12:41:28Z,dominusnode-openai-functions,2.2.0,,MIT,27452,"DominusNode v2 OpenAI-compatible function definitions and handler, built on the dominusnode SDK"
+2026-11-15T12:43:18Z,rombob,1.0.0,loudblow,,63591,"Fast binary serialization, driven by plain type hints."
+2026-11-15T12:44:13Z,spatial-computing,0.5.0,Spatial Computing contributors,Apache-2.0,174450,"Spatial Computing: open-source infrastructure efficiency toolkit. Measure, decide, prove (compute, tiered memory, runtime routing, hybrid quantum language)"
+2026-11-15T12:45:58Z,discerning-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47298,A that discerns.
+2026-11-15T12:47:22Z,danialtools,1.0.0,Danial,,3687,A simple Python utility library
+2026-11-15T12:47:36Z,freeimagetovideo-haystack,0.1.0,Free Image to Video <support@freeimagetovideo.ai>,MIT,186477,"Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. Haystack component for Free Image to Video."
+2026-11-15T12:49:55Z,energygraph,0.1.0,EnergyChain,LicenseRef-Proprietary,47477,Stateful workflow and agent orchestration for EnergyChain
+2026-11-15T12:52:27Z,skillbench-cli,0.1.0,Adam Saul,MIT,88204,"Test your Claude Code skills and agent workflows, the way you test code."
+2026-11-15T12:53:06Z,draco-insomnis,0.1.31,Notorius Vision,GPL-2.0-or-later,77302,"Firewall, anti-copy pace, country filter, review requests and CrowdSec for Python web apps (ASGI: FastAPI, Starlette; WSGI: Flask, Django). No dependencies."
+2026-11-15T12:54:37Z,d0pam1ne-bheh,1.0,Chris 'SaintDruG' Abou-Chabké <info@blackhatethicalhacking.com>,,419961,"D0pam1ne: offensive security framework engine with recon, OSINT and a manual attack toolkit (Black Hat Ethical Hacking)"
+2026-11-15T12:55:27Z,http-tls,0.2.1,,MIT,11971343,High-performance Rust-powered TLS & Browser Impersonating HTTP client for Python
+2026-11-15T12:59:49Z,spiegel-mcp,0.1.0,Mohammad Abbasi,MIT,73370,"Unofficial read-only MCP server for spiegel.de — headlines, 13 sections, search, videos & article text via the official RSS feeds"
+2026-11-15T13:00:28Z,flyin-map-generator,0.1.0,,MIT,19914,Generate valid Fly-in map files
+2026-11-15T13:01:49Z,naru-sitegen,0.1.2,,,60148,A shared Python static site generator for independent websites
+2026-11-15T13:02:52Z,eventq,0.1.0,ScR4tCh <scr4tch@scr4tch.org>,MIT,14204,A lightweight in-process event queue with named contexts and callback listeners.
+2026-11-15T13:06:11Z,sfincstools,0.1.0,aaronchh <aaronhsu219@gmail.com>,MIT,29081,Command-line tools for inspecting and monitoring SFINCS models
+2026-11-15T13:06:15Z,web-search-helper,0.2.0,Warith Harchaoui <warithmetics@deraison.ai>,BSD-3-Clause,122776,"Search a private corpus from a website with PHP only: index it on your machine, serve it with one PHP file, embed the question in the browser. The corpus is never published; visitors get short excerp…"
+2026-11-15T13:09:23Z,nostr-bot-kit,0.1.0,nostr-bot-kit contributors,MIT,43861,"Build nostr wallet/tip bots without coding: write one YAML file, run one command."
+2026-11-15T13:11:01Z,dnyana,0.1.0,Dnyana <support@dnyana.ai>,MIT,34460,Python client for the Dnyana memory API
+2026-11-15T13:11:30Z,shellbent,0.1.0,,MIT,37601,mini-swe-agent 2.4.6 model classes and named tools for a thesis on agent tool surfaces
+2026-11-15T13:13:13Z,freezeradar,0.1.0,FreezeRadar <mehdiraized@gmail.com>,MIT,54513,"FreezeRadar Python SDK: address freeze-risk screening for exchanges, OTC desks, and compliance teams."
+2026-11-15T13:17:12Z,actdim-along,4.9.0,actdim,"MIT License Copyright (c) 2026 actdim Permission is hereby granted, free of charge, to any person o…",2104695,"Provider-agnostic agent-context protocol and skills suite: in-repo memory, entity lifecycle, and LLM-Wiki knowledge base for Claude Code, Codex, OpenCode, and Antigravity."

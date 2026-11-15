@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-11-15T11:19:18.107465Z",
-    "path": "data/new-packages-2026-11-15T12-18-43-995681Z.csv",
-    "to": "2026-11-15T12:18:43.995681Z"
+    "count": 38,
+    "from": "2026-11-15T12:18:43.995681Z",
+    "path": "data/new-packages-2026-11-15T13-19-44-860918Z.csv",
+    "to": "2026-11-15T13:19:44.860918Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-15T10:05:31Z",
       "package": "aiojink",
       "since": "2026-11-15T09:19:29.114738Z",
       "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-15T08:19:59Z",
-      "package": "nonagenticai",
-      "since": "2026-11-15T08:19:15.511234Z",
-      "version": null
     }
   ],
-  "serial": 43684594,
+  "serial": 43686557,
   "source_truncated": false,
-  "window": "2026-11-15T12:18:43.995681Z"
+  "window": "2026-11-15T13:19:44.860918Z"
 }
