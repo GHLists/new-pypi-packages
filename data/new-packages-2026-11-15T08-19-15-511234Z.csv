@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-15T07:20:01Z,aka3,0.1.0,Bryan Lim <ytbryan@gmail.com>,MIT,44652,"Manage permanent Bash and Zsh aliases, functions, and project shortcuts"
+2026-11-15T07:20:01Z,ec2-byhand,0.1.0,gyuro,MIT,518621,Extract hand-placed and hand-modified files from EC2 EBS snapshots without logging in
+2026-11-15T07:22:07Z,automaton-simulate,0.1.2,Dayu811 <13691283074@163.com>,MIT,23804,A library for simulating automatons
+2026-11-15T07:24:02Z,robust-adapt,1.0.0,ROBUST-ADAPT Core Development Team <maintainers@robust-adapt.internal>,Apache-2.0,306839,Robust and Adaptive Learning with Resource-Efficient Optimization
+2026-11-15T07:25:41Z,privconvert,0.1.0,PrivConvert <contact@topriv.com>,MIT,25964,Official Python client for the PrivConvert file conversion API. Files are processed in memory and never stored.
+2026-11-15T07:31:36Z,soshi,0.0.1,HadeShiki,MIT,2096368,"A small, fast 2D game engine for Python with a pygame-shaped API"
+2026-11-15T07:31:55Z,recordchaos,0.1.0,Logit Solutions AI,Apache-2.0,27161873,Breaks synthetic HL7 FHIR R4 patient record bundles on purpose to test your importer. Includes a pytest plugin.
+2026-11-15T07:34:33Z,kakemono,0.4.0,Cao Minh Tiến,MIT,40401202,"Convert PDF papers and books into clean, readable HTML (pure Rust, no poppler or mupdf)"
+2026-11-15T07:36:25Z,mewfetch-zagadka,2.1.0,zagadka298-design <zagadka298@gmail.com>,MIT,240431,"A lightweight, customizable system info fetch tool with a cat aesthetic"
+2026-11-15T07:37:01Z,Nexa.py,0.5.1,Faizan ur Rahim,MIT,88731,Nexa.py — a Python-based web framework and development platform
+2026-11-15T07:37:40Z,vector-memory,2.0.1,Daniel Accatino,MIT,53445,"Long-term memory for LLM agents: stamped embeddings, add/update/merge dedup, rerank, threshold calibration."
+2026-11-15T07:37:41Z,tubetran,0.1.1,codemee,GPL-3.0-or-later,274472,水管譯工 (TubeTran)：播放 YouTube 並顯示 Claude 翻譯的雙語字幕
+2026-11-15T07:37:48Z,zerda-llm-router,2.0.0,Daniel Accatino,MIT,64144,"Route LLM calls across providers: fallback chains per role, spending caps, rate limits, a cost ledger."
+2026-11-15T07:38:35Z,cli-relay,0.1.1,mustikon,Apache-2.0,85697,"Run coding-agent CLIs (Claude Code, Antigravity, Codex, any OpenAI-compatible API) as one worker with automatic fallback when a subscription hits its limit."
+2026-11-15T07:43:13Z,pyzk20r,0.1.0,yunluo,MIT,55577,"ZKTeco Live20R 指纹采集器 Python 库 (ZKFinger SDK C API, 纯 ctypes, 零依赖, 支持 Windows XP / Python 3.4+)"
+2026-11-15T07:44:28Z,orbit-lang-sdk,0.1.0,ORBIT contributors,Apache-2.0,25787,Python worker SDK for the ORBIT orchestration runtime
+2026-11-15T07:49:13Z,screwtape-pay-safely,0.1.0,"""Screwtape.ai"" <support@screwtape.ai>",MIT,22355,"Check that a seller is safe to pay before your AI agent pays. Drop-in for LangChain, LangGraph, CrewAI, OpenAI Agents and AgentKit."
+2026-11-15T07:49:34Z,nova-clone,0.1.0,,,211880,Clone calling algorithm and QC
+2026-11-15T07:54:33Z,repocxt,0.1.0,Kamran,MIT,39492,"Package a repository into a single, LLM-ready context file with a tree, file contents, and a token estimate."
+2026-11-15T07:55:41Z,integral-compass,0.4.0,Integral Compass contributors,MIT,61225,Depth-controlled integration-by-parts search with partial fractions and class-based explanations.
+2026-11-15T07:55:57Z,briefed,0.1.0,Sri Krishna Lingamaneni,MIT,40133,"Deliver MCP server instructions to clients that ignore or truncate them (claude.ai connectors, Kiro, Google ADK, agno and more): folds InitializeResult.instructions into the tool list, as a stdio pro…"
+2026-11-15T07:57:39Z,starmade,0.0.1,Starmade <hello@starmade.com>,MIT,3795,Official Python SDK for Starmade: print and ship your designs on the products people actually buy.
+2026-11-15T08:00:02Z,qcc-copilot,0.1.0,codeasier,MIT,174355,面向软件研发团队的 QCC 赋能工具：确定性内核 + 可分发 Skill
+2026-11-15T08:00:51Z,sontris-raytest,0.0.1,,LGPL-3.0-or-later,86576,Ray-backed remote execution and reusable pytest support
+2026-11-15T08:03:00Z,pylara,1.0.0,Dzulfikar Maulana <dzulfikar.maulana@gmail.com>,MIT,181232,"A Laravel-inspired web framework for Python: routing, Eloquent-style ORM, middleware, migrations and an Artisan-style CLI."
+2026-11-15T08:04:12Z,utilora,0.1.0,,,3498,A collection of lightweight and reusable Python utilities for everyday development tasks.
+2026-11-15T08:06:22Z,vocabbot,1.0.0rc1,,Apache-2.0,4667846,"Vocabulary in one to three languages at once with spaced repetition, in the terminal and in Claude or Codex."
+2026-11-15T08:08:22Z,transcriptdock,0.1.0,Transcript Dock <transcriptdock@volods.com>,MIT,17162,Python client for the Transcript Dock video transcription API
+2026-11-15T08:09:01Z,ugarit-texts,0.2.0,,"﻿MIT License Copyright (c) 2026 ugarit-texts contributors Permission is hereby granted, free of cha…",192884,Browse Ugaritic tablet transliterations and local Baal Cycle editions
+2026-11-15T08:10:22Z,pubmarq,0.1.0,Xaeian,MIT,7794810,"Scientific articles and theses from markdown, set for a journal as PDF and DOCX"
+2026-11-15T08:11:12Z,harshitha-agentic-terminal,0.1.0,,,5350,An MCP which adds terminal capabilities to an agent.
+2026-11-15T08:13:48Z,mfrmpy,0.1.0a1,Ryuya Komuro,MIT,1491963,Many-facet Rasch analysis and balanced generalizability studies
+2026-11-15T08:16:01Z,unrestrictable,0.1.0,Uplink Switch LLC <hello@unrestrictable.ai>,MIT,4444,"Python client for Unrestrictable: uncensored AI chat, images and video on one prepaid key, through the OpenAI and Anthropic SDKs."
