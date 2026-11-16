@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T07:20:53Z,aiombenzin,0.1.0,Vituhlos,MIT,15917,Async client for the mBenzin.cz fuel price map (Czech Republic). Unofficial; needs your own access key.
+2026-11-16T07:23:21Z,csv-header-cleaner,0.1.0,Sabir Hussain Balal <sabirhusseinbalal@outlook.com>,MIT,11468,Clean messy CSV column headers into consistent snake_case names.
+2026-11-16T07:27:08Z,logdrop-agent,0.1.0a1,Initial Code (LogDrop),LicenseRef-LogDrop-Client-Library-License-1.0,378604,LogDrop Python agent: traces Python services without code changes and sends privacy-safe spans to LogDrop.
+2026-11-16T07:27:09Z,logdrop-api,0.1.0a1,Initial Code (LogDrop),LicenseRef-LogDrop-Client-Library-License-1.0,17158,"Optional custom spans, flush, export status and key update for Python services traced by the LogDrop agent. No dependencies; records nothing without the agent."
+2026-11-16T07:33:40Z,keo,0.1.1,,MIT,157108,"KEO: reproducible benchmark of K-means (Lloyd), E-means and O-means"
+2026-11-16T07:36:25Z,myspaces,0.0.1,,LicenseRef-Proprietary,2395,The MySpaces Python SDK: every AI agent gets its own Mac. Not released yet; join the waitlist at https://myspaces.dev
+2026-11-16T07:37:23Z,pyincroxigraph,0.0.1,"Incroxigraph contributors, Oxigraph contributors",MIT OR Apache-2.0,62039389,"Self-contained Python bindings for Incroxigraph, an incremental RDF and SPARQL database"
+2026-11-16T07:41:30Z,domino-proxy,0.17.8,KJaebye,GPL-3.0-only,1169504,Deploy independent proxy access over SSH and manage local or remote Domino services
+2026-11-16T07:41:37Z,ai-soil-net,1.0.0,Dr. Heba Al-Hashimi,,7984,The First Comprehensive Global Eco-Hydrological AI Framework for Soil Quality Assessment.
+2026-11-16T07:42:22Z,plotra-mcp,0.1.1,dataolllo,MIT,17852,MCP server for Plotra — let AI agents paint pixel-art identities on a shared live canvas
+2026-11-16T07:43:24Z,pickagm,0.1.0,Nicholas Clemett <nicholas.clemett@hsu.hamburg>,GPL-3.0-or-later,47568524,A Python library for selecting ground motions for nonlinear structural response analysis under earthquake loading.
+2026-11-16T07:45:21Z,my-poc-sandbox,1.0.1,,,3013,Document integrity utility
+2026-11-16T07:45:47Z,evident-map,0.3.0,Aadil Salman Butt,MIT,4530439,"Evidence-backed architecture maps: routes, models and services, each linked to the line that proves it."
+2026-11-16T07:48:16Z,evidgate,0.9.2,BringCo,MIT,48026,"Evidence gates for deliverables: every claim gets a command, an exit code, and a ledger line."
+2026-11-16T07:56:56Z,unitconv-azizs,0.3.0,,MIT,24958,Dependency-free unit and currency converter with a CLI and a Quantity class
+2026-11-16T07:59:23Z,reattach,0.1.0,Sri Krishna Lingamaneni,MIT,37426,"Fix MCP 'Session not found' (HTTP 404) after a Streamable HTTP server restarts, redeploys, scales out or times out a session: ASGI middleware and reverse proxy that re-initialize sessions for clients…"
+2026-11-16T08:00:15Z,recoverybench,0.1.0,RecoveryBench Contributors,Apache-2.0,402416,A local-first AI Agent Recovery Testing Platform
+2026-11-16T08:00:22Z,espaloma-onnx,0.1.0,"Xiaoxuan Yu, Peking University",MIT,59575,CPU molecular mechanics parameter assignment with Espaloma ONNX
+2026-11-16T08:05:21Z,aria-convo,0.0.0,Synthpop Inc,,1450,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-11-16T08:05:23Z,aria-comms,0.0.0,Synthpop Inc,,1451,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-11-16T08:06:32Z,enthusiast-domain-common,2.0.0,Mateusz Porebski,,23281,"Ecommerce framework layer for Enthusiast — data types, platform connector, and integration plugin interface."
+2026-11-16T08:07:14Z,enthusiast-domain,2.0.0,Mateusz Porebski,,20638,E-commerce domain definition for Suvereo (Enthusiast) — Product and Document Django models with pgvector embeddings.
+2026-11-16T08:07:16Z,enthusiast-domain-tools,2.0.0,Mateusz Porebski,,8582,Shared ecommerce-domain tools for Enthusiast agents
+2026-11-16T08:08:52Z,times-os,1.1.0,KanORS-EMR,GPL-3.0-or-later,2152827,TIMES Open Stack: the TIMES energy system model without GAMS (DD files -> Python -> Julia/JuMP -> HiGHS -> Veda result files)
+2026-11-16T08:11:20Z,orbifolder,0.1.0,Martin Wimmer,GPL-3.0-or-later,8580765,Exact heterotic orbifold calculations backed by Rust
+2026-11-16T08:14:51Z,grape-cli,0.3.4,Yuzhe Liao <jansonzhe@gmail.com>,MIT,203330,Agentic DevOps CLI: contract-driven command generation + native git passthrough (zero token exposure)
+2026-11-16T08:16:02Z,pycordis2,0.1.0,Thomas Chen,MIT,1017822,A Python port of the Cordis core: plugin and service composition from revertible effects.
+2026-11-16T08:18:22Z,vibo-memory,2.2.0,Viacheslav Bochkarev <hello@wwwvibo.com>,Proprietary,3690224,"Persistent memory for AI agents: one local file, semantic search, sealed secrets, versioned archives."

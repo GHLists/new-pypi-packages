@@ -8,39 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 07:18 UTC
+## Latest list — 2026-11-16 08:18 UTC
 
-New packages created between 2026-11-16 06:18 UTC and 2026-11-16 07:18 UTC.
+New packages created between 2026-11-16 07:18 UTC and 2026-11-16 08:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-16T07-18-44-456687Z.csv)
+[Full CSV](data/new-packages-2026-11-16T08-18-41-546611Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-16 06:20:04 | [caat-annotation](https://pypi.org/project/caat-annotation/) | 0.2.0 |  | 104.2 kB | Score, calibrate, evaluate, and triage saved model predictions |
-| 2026-11-16 06:22:20 | [latency-steps](https://pypi.org/project/latency-steps/) | 0.1.1 | LeeGyeongPil | 859.7 kB | Find when latency stepped up in raw event logs, then see whether it is one host… |
-| 2026-11-16 06:23:10 | [qubrixa-mail](https://pypi.org/project/qubrixa-mail/) | 1.1.2 | Its2Pawan | 36.2 kB | Official Python client for the Qubrixa Mail disposable-inbox / OTP API |
-| 2026-11-16 06:30:00 | [jetbrains-pulumi-aws-event-bridge-rule](https://pypi.org/project/jetbrains-pulumi-aws-event-bridge-rule/) | 999.9.9 |  | 987 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-16 06:34:16 | [awesome-checklists](https://pypi.org/project/awesome-checklists/) | 0.0.0 | Praneeth Vadlapati | 2.9 kB | A new package under development |
-| 2026-11-16 06:34:31 | [getmaxqr](https://pypi.org/project/getmaxqr/) | 0.1.0 | Max QR Code | 18.4 kB | Official Python SDK for the Max QR Code API (generate, dynamic codes, bulk jobs… |
-| 2026-11-16 06:35:48 | [patera-telemetry](https://pypi.org/project/patera-telemetry/) | 0.1.0 | Marko Šterk | 29.4 kB | OpenTelemetry tracing, metrics and log correlation for Patera |
-| 2026-11-16 06:35:49 | [ai-rag-common-framework](https://pypi.org/project/ai-rag-common-framework/) | 0.19.1 | BuhoZurdo Team | 304.1 kB | A lightweight, modular, zero-bloat foundation framework for RAG, MCP servers, a… |
-| 2026-11-16 06:35:57 | [ai-kavach-pack](https://pypi.org/project/ai-kavach-pack/) | 0.1.0 | Malaya Kumar Swain | 50.0 kB | Describe an AI system once and get its governance pack: risk tier, system card,… |
-| 2026-11-16 06:38:44 | [trioditis](https://pypi.org/project/trioditis/) | 0.6.0 |  | 256.4 kB | Security-first LLM router: one OpenAI-compatible endpoint that picks the right… |
-| 2026-11-16 06:39:19 | [synology-cloudflare-ddns](https://pypi.org/project/synology-cloudflare-ddns/) | 0.2.0 | Cian Butler <butlerx@notthe.c… | 22.3 kB | A simple script to update CloudFlare DDNS for Synology NAS. |
-| 2026-11-16 06:42:33 | [faircart-share](https://pypi.org/project/faircart-share/) | 1.0.0 |  | 74.8 kB | Group checkout planning with personal budgets and protected solo prices |
-| 2026-11-16 06:43:27 | [td-face-recognizer](https://pypi.org/project/td-face-recognizer/) | 0.1.0 |  | 25.1 kB | 基于 yolov5-face 检测与 ArcFace ONNX 特征提取的人脸识别包 |
-| 2026-11-16 06:44:17 | [omicsweave](https://pypi.org/project/omicsweave/) | 0.1.0 |  | 12.7 MB | A unified framework for loading multi-omics data into model training |
-| 2026-11-16 06:47:51 | [offspec](https://pypi.org/project/offspec/) | 0.0.1 |  | 24.4 kB | Audit AI-generated PRs for off-spec code: what the task didn't ask for, and wha… |
-| 2026-11-16 06:49:28 | [tracedojo](https://pypi.org/project/tracedojo/) | 0.1.0 | Syed Arman | 115.5 kB | Controlled tool failures and state assertions for AI agents |
-| 2026-11-16 06:50:59 | [pfrelay-quic](https://pypi.org/project/pfrelay-quic/) | 0.16.0 |  | 47.9 kB | Python SDK for the pf-simple relay hub over QUIC (tunnel protocol 3): serve a t… |
-| 2026-11-16 06:51:30 | [fhir-lite](https://pypi.org/project/fhir-lite/) | 0.5.0 | Juan Rael Corrales <raelcorra… | 93.2 kB | Ultra-lightweight, zero-dependency FHIR library for Python. |
-| 2026-11-16 06:55:20 | [deepaksraog-sigli](https://pypi.org/project/deepaksraog-sigli/) | 0.1.0 | Sigli <help@sigli.dev> | 35.5 kB | Official Python client for the Sigli document API (HTML/URL to PDF, OCR, PDF to… |
-| 2026-11-16 07:00:37 | [seedemu](https://pypi.org/project/seedemu/) | 2.0.0 | Wenliang Du | 751.9 kB | SEED Internet Emulator |
-| 2026-11-16 07:02:25 | [scratch-next](https://pypi.org/project/scratch-next/) | 3.0.0 | Scratch-Next Contributors | 48.5 kB | Enterprise-Grade Scratch API, Real-time Cloud Engine & AST Toolkit (100+ Real F… |
-| 2026-11-16 07:06:53 | [brick-flow](https://pypi.org/project/brick-flow/) | 0.1.0 | Peter Kulits | 2.4 MB | BrickFlow: Connectivity-Guided Brick Reconstruction |
-| 2026-11-16 07:08:32 | [polecraft](https://pypi.org/project/polecraft/) | 0.0.1 | Varun Pandithurai | 120.9 kB | Open-source design and simulation tool for quasi-direct-drive (QDD) motors. |
-| 2026-11-16 07:10:36 | [pymonge](https://pypi.org/project/pymonge/) | 0.1.0 | Utkarsh Maurya, Kavya Swamina… | 44.7 kB | Minimum-work transport protocols for trapped active colloids near a wall (Ritz… |
-| 2026-11-16 07:12:30 | [tgcrypto-c-lectr](https://pypi.org/project/tgcrypto-c-lectr/) | 1.3.2 | Dan <dan@pyrogram.org> | 724.0 kB | Fast AES-256 IGE/CTR/CBC for Telegram (Pyrogram, Kurigram) - drop-in tgcrypto r… |
-| 2026-11-16 07:13:24 | [sefa177-file-organizer](https://pypi.org/project/sefa177-file-organizer/) | 0.1.1 | Sefa177 | 14.1 kB | A tiny CLI that sorts a messy folder (like Downloads) into category subfolders,… |
-| 2026-11-16 07:14:18 | [orchestra-review](https://pypi.org/project/orchestra-review/) | 0.2.0 | VarunTx | 74.6 kB | Finds the mistakes your coding agents repeat across sessions, from local logs,… |
-| 2026-11-16 07:15:02 | [agylark](https://pypi.org/project/agylark/) | 0.1.1 | starswei | 141.0 kB | A lightweight, native-ACP bridge between Antigravity (agy) and Feishu / Lark vi… |
+| 2026-11-16 07:20:53 | [aiombenzin](https://pypi.org/project/aiombenzin/) | 0.1.0 | Vituhlos | 15.9 kB | Async client for the mBenzin.cz fuel price map (Czech Republic). Unofficial; ne… |
+| 2026-11-16 07:23:21 | [csv-header-cleaner](https://pypi.org/project/csv-header-cleaner/) | 0.1.0 | Sabir Hussain Balal <sabirhus… | 11.5 kB | Clean messy CSV column headers into consistent snake_case names. |
+| 2026-11-16 07:27:08 | [logdrop-agent](https://pypi.org/project/logdrop-agent/) | 0.1.0a1 | Initial Code (LogDrop) | 378.6 kB | LogDrop Python agent: traces Python services without code changes and sends pri… |
+| 2026-11-16 07:27:09 | [logdrop-api](https://pypi.org/project/logdrop-api/) | 0.1.0a1 | Initial Code (LogDrop) | 17.2 kB | Optional custom spans, flush, export status and key update for Python services… |
+| 2026-11-16 07:33:40 | [keo](https://pypi.org/project/keo/) | 0.1.1 |  | 157.1 kB | KEO: reproducible benchmark of K-means (Lloyd), E-means and O-means |
+| 2026-11-16 07:36:25 | [myspaces](https://pypi.org/project/myspaces/) | 0.0.1 |  | 2.4 kB | The MySpaces Python SDK: every AI agent gets its own Mac. Not released yet; joi… |
+| 2026-11-16 07:37:23 | [pyincroxigraph](https://pypi.org/project/pyincroxigraph/) | 0.0.1 | Incroxigraph contributors, Ox… | 62.0 MB | Self-contained Python bindings for Incroxigraph, an incremental RDF and SPARQL… |
+| 2026-11-16 07:41:30 | [domino-proxy](https://pypi.org/project/domino-proxy/) | 0.17.8 | KJaebye | 1.2 MB | Deploy independent proxy access over SSH and manage local or remote Domino serv… |
+| 2026-11-16 07:41:37 | [ai-soil-net](https://pypi.org/project/ai-soil-net/) | 1.0.0 | Dr. Heba Al-Hashimi | 8.0 kB | The First Comprehensive Global Eco-Hydrological AI Framework for Soil Quality A… |
+| 2026-11-16 07:42:22 | [plotra-mcp](https://pypi.org/project/plotra-mcp/) | 0.1.1 | dataolllo | 17.9 kB | MCP server for Plotra — let AI agents paint pixel-art identities on a shared li… |
+| 2026-11-16 07:43:24 | [pickagm](https://pypi.org/project/pickagm/) | 0.1.0 | Nicholas Clemett <nicholas.cl… | 47.6 MB | A Python library for selecting ground motions for nonlinear structural response… |
+| 2026-11-16 07:45:21 | [my-poc-sandbox](https://pypi.org/project/my-poc-sandbox/) | 1.0.1 |  | 3.0 kB | Document integrity utility |
+| 2026-11-16 07:45:47 | [evident-map](https://pypi.org/project/evident-map/) | 0.3.0 | Aadil Salman Butt | 4.5 MB | Evidence-backed architecture maps: routes, models and services, each linked to… |
+| 2026-11-16 07:48:16 | [evidgate](https://pypi.org/project/evidgate/) | 0.9.2 | BringCo | 48.0 kB | Evidence gates for deliverables: every claim gets a command, an exit code, and… |
+| 2026-11-16 07:56:56 | [unitconv-azizs](https://pypi.org/project/unitconv-azizs/) | 0.3.0 |  | 25.0 kB | Dependency-free unit and currency converter with a CLI and a Quantity class |
+| 2026-11-16 07:59:23 | [reattach](https://pypi.org/project/reattach/) | 0.1.0 | Sri Krishna Lingamaneni | 37.4 kB | Fix MCP 'Session not found' (HTTP 404) after a Streamable HTTP server restarts,… |
+| 2026-11-16 08:00:15 | [recoverybench](https://pypi.org/project/recoverybench/) | 0.1.0 | RecoveryBench Contributors | 402.4 kB | A local-first AI Agent Recovery Testing Platform |
+| 2026-11-16 08:00:22 | [espaloma-onnx](https://pypi.org/project/espaloma-onnx/) | 0.1.0 | Xiaoxuan Yu, Peking University | 59.6 kB | CPU molecular mechanics parameter assignment with Espaloma ONNX |
+| 2026-11-16 08:05:21 | [aria-convo](https://pypi.org/project/aria-convo/) | 0.0.0 | Synthpop Inc | 1.4 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-11-16 08:05:23 | [aria-comms](https://pypi.org/project/aria-comms/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-11-16 08:06:32 | [enthusiast-domain-common](https://pypi.org/project/enthusiast-domain-common/) | 2.0.0 | Mateusz Porebski | 23.3 kB | Ecommerce framework layer for Enthusiast — data types, platform connector, and… |
+| 2026-11-16 08:07:14 | [enthusiast-domain](https://pypi.org/project/enthusiast-domain/) | 2.0.0 | Mateusz Porebski | 20.6 kB | E-commerce domain definition for Suvereo (Enthusiast) — Product and Document Dj… |
+| 2026-11-16 08:07:16 | [enthusiast-domain-tools](https://pypi.org/project/enthusiast-domain-tools/) | 2.0.0 | Mateusz Porebski | 8.6 kB | Shared ecommerce-domain tools for Enthusiast agents |
+| 2026-11-16 08:08:52 | [times-os](https://pypi.org/project/times-os/) | 1.1.0 | KanORS-EMR | 2.2 MB | TIMES Open Stack: the TIMES energy system model without GAMS (DD files -> Pytho… |
+| 2026-11-16 08:11:20 | [orbifolder](https://pypi.org/project/orbifolder/) | 0.1.0 | Martin Wimmer | 8.6 MB | Exact heterotic orbifold calculations backed by Rust |
+| 2026-11-16 08:14:51 | [grape-cli](https://pypi.org/project/grape-cli/) | 0.3.4 | Yuzhe Liao <jansonzhe@gmail.c… | 203.3 kB | Agentic DevOps CLI: contract-driven command generation + native git passthrough… |
+| 2026-11-16 08:16:02 | [pycordis2](https://pypi.org/project/pycordis2/) | 0.1.0 | Thomas Chen | 1.0 MB | A Python port of the Cordis core: plugin and service composition from revertibl… |
+| 2026-11-16 08:18:22 | [vibo-memory](https://pypi.org/project/vibo-memory/) | 2.2.0 | Viacheslav Bochkarev <hello@w… | 3.7 MB | Persistent memory for AI agents: one local file, semantic search, sealed secret… |

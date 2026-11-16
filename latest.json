@@ -1,20 +1,20 @@
 {
   "list": {
     "count": 28,
-    "from": "2026-11-16T06:18:40.737548Z",
-    "path": "data/new-packages-2026-11-16T07-18-44-456687Z.csv",
-    "to": "2026-11-16T07:18:44.456687Z"
+    "from": "2026-11-16T07:18:44.456687Z",
+    "path": "data/new-packages-2026-11-16T08-18-41-546611Z.csv",
+    "to": "2026-11-16T08:18:41.546611Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T04:25:29Z",
       "package": "rhtop",
       "since": "2026-11-16T04:21:53.264157Z",
       "version": null
     }
   ],
-  "serial": 43715952,
+  "serial": 43717629,
   "source_truncated": false,
-  "window": "2026-11-16T07:18:44.456687Z"
+  "window": "2026-11-16T08:18:41.546611Z"
 }
