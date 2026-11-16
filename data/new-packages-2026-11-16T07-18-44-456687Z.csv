@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T06:20:04Z,caat-annotation,0.2.0,,MIT,104218,"Score, calibrate, evaluate, and triage saved model predictions"
+2026-11-16T06:22:20Z,latency-steps,0.1.1,LeeGyeongPil,MIT,859681,"Find when latency stepped up in raw event logs, then see whether it is one host, a load-mix shift, or everything."
+2026-11-16T06:23:10Z,qubrixa-mail,1.1.2,Its2Pawan,MIT,36188,Official Python client for the Qubrixa Mail disposable-inbox / OTP API
+2026-11-16T06:30:00Z,jetbrains-pulumi-aws-event-bridge-rule,999.9.9,,,987,Stub package that mitigates Dependency Confusion attacks
+2026-11-16T06:34:16Z,awesome-checklists,0.0.0,Praneeth Vadlapati,MIT,2898,A new package under development
+2026-11-16T06:34:31Z,getmaxqr,0.1.0,Max QR Code,MIT,18412,"Official Python SDK for the Max QR Code API (generate, dynamic codes, bulk jobs)."
+2026-11-16T06:35:48Z,patera-telemetry,0.1.0,Marko Šterk,MIT,29400,"OpenTelemetry tracing, metrics and log correlation for Patera"
+2026-11-16T06:35:49Z,ai-rag-common-framework,0.19.1,BuhoZurdo Team,,304127,"A lightweight, modular, zero-bloat foundation framework for RAG, MCP servers, and modern AI workflows."
+2026-11-16T06:35:57Z,ai-kavach-pack,0.1.0,Malaya Kumar Swain,Apache-2.0,49968,"Describe an AI system once and get its governance pack: risk tier, system card, DPDP checklist, vendor questions, pre-launch checklist, incident plan and board summary"
+2026-11-16T06:38:44Z,trioditis,0.6.0,,MIT,256404,Security-first LLM router: one OpenAI-compatible endpoint that picks the right model per prompt.
+2026-11-16T06:39:19Z,synology-cloudflare-ddns,0.2.0,Cian Butler <butlerx@notthe.cloud>,"MIT License Copyright (c) 2019 Cian Butler Permission is hereby granted, free of charge, to any per…",22325,A simple script to update CloudFlare DDNS for Synology NAS.
+2026-11-16T06:42:33Z,faircart-share,1.0.0,,MIT,74817,Group checkout planning with personal budgets and protected solo prices
+2026-11-16T06:43:27Z,td-face-recognizer,0.1.0,,GPL-2.0-only,25101,基于 yolov5-face 检测与 ArcFace ONNX 特征提取的人脸识别包
+2026-11-16T06:44:17Z,omicsweave,0.1.0,,,12709313,A unified framework for loading multi-omics data into model training
+2026-11-16T06:47:51Z,offspec,0.0.1,,Apache-2.0,24350,"Audit AI-generated PRs for off-spec code: what the task didn't ask for, and what nobody calls."
+2026-11-16T06:49:28Z,tracedojo,0.1.0,Syed Arman,Apache-2.0,115478,Controlled tool failures and state assertions for AI agents
+2026-11-16T06:50:59Z,pfrelay-quic,0.16.0,,Apache-2.0,47932,Python SDK for the pf-simple relay hub over QUIC (tunnel protocol 3): serve a tunnel or connect through one
+2026-11-16T06:51:30Z,fhir-lite,0.5.0,Juan Rael Corrales <raelcorrales@gmail.com>,MIT,93173,"Ultra-lightweight, zero-dependency FHIR library for Python."
+2026-11-16T06:55:20Z,deepaksraog-sigli,0.1.0,Sigli <help@sigli.dev>,MIT,35452,"Official Python client for the Sigli document API (HTML/URL to PDF, OCR, PDF tools, AI extraction, batch, workflows)."
+2026-11-16T07:00:37Z,seedemu,2.0.0,Wenliang Du,,751916,SEED Internet Emulator
+2026-11-16T07:02:25Z,scratch-next,3.0.0,Scratch-Next Contributors,MIT,48490,"Enterprise-Grade Scratch API, Real-time Cloud Engine & AST Toolkit (100+ Real Features)."
+2026-11-16T07:06:53Z,brick-flow,0.1.0,Peter Kulits,MIT,2387595,BrickFlow: Connectivity-Guided Brick Reconstruction
+2026-11-16T07:08:32Z,polecraft,0.0.1,Varun Pandithurai,Apache-2.0,120859,Open-source design and simulation tool for quasi-direct-drive (QDD) motors.
+2026-11-16T07:10:36Z,pymonge,0.1.0,"Utkarsh Maurya, Kavya Swaminathan, Ejaz Ashraf, Rajesh Singh",,44652,Minimum-work transport protocols for trapped active colloids near a wall (Ritz method with Adam and a genetic algorithm)
+2026-11-16T07:12:30Z,tgcrypto-c-lectr,1.3.2,Dan <dan@pyrogram.org>,LGPL-3.0-or-later,723967,"Fast AES-256 IGE/CTR/CBC for Telegram (Pyrogram, Kurigram) - drop-in tgcrypto replacement with AES-NI"
+2026-11-16T07:13:24Z,sefa177-file-organizer,0.1.1,Sefa177,MIT,14143,"A tiny CLI that sorts a messy folder (like Downloads) into category subfolders, with dry-run and undo."
+2026-11-16T07:14:18Z,orchestra-review,0.2.0,VarunTx,MIT,74620,"Finds the mistakes your coding agents repeat across sessions, from local logs, fixes each with one instruction line, and blocks them live"
+2026-11-16T07:15:02Z,agylark,0.1.1,starswei,MIT,141028,"A lightweight, native-ACP bridge between Antigravity (agy) and Feishu / Lark via lark-oapi."

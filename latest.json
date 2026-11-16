@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-11-16T05:18:46.196971Z",
-    "path": "data/new-packages-2026-11-16T06-18-40-737548Z.csv",
-    "to": "2026-11-16T06:18:40.737548Z"
+    "count": 28,
+    "from": "2026-11-16T06:18:40.737548Z",
+    "path": "data/new-packages-2026-11-16T07-18-44-456687Z.csv",
+    "to": "2026-11-16T07:18:44.456687Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-16T02:43:27Z",
-      "package": "mgm2-community",
-      "since": "2026-11-16T02:19:46.554629Z",
-      "version": "2.1.0"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-16T04:25:29Z",
       "package": "rhtop",
       "since": "2026-11-16T04:21:53.264157Z",
       "version": null
     }
   ],
-  "serial": 43714444,
+  "serial": 43715952,
   "source_truncated": false,
-  "window": "2026-11-16T06:18:40.737548Z"
+  "window": "2026-11-16T07:18:44.456687Z"
 }
