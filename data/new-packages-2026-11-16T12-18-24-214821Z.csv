@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T11:18:47Z,python-amazon-echo,0.1.1,Hudson Brendon <contato.hudsonbrendon@gmail.com>,MIT,100950,"Async Python client for Amazon Echo / Alexa devices: state, settings, media, notifications, lists, HTTP/2 push and LAN discovery"
+2026-11-16T11:22:48Z,cbrapitools,0.1.0,CBR Data Team,MIT,17373,"Python API clients and auth helpers for CBR platforms (CMP, Keystone, Keycloak)"
+2026-11-16T11:23:13Z,cs-image-system-engine,0.1.10,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,592676,"The engine of cs-image-system: the loader, the configuration reader, the resolver, the lifecycle runner, the commands, meta-state and the bootstrap"
+2026-11-16T11:24:12Z,minimindslab-xml-attr-sort,0.1.0,MiniMindsLab,MIT,6828,Sort XML element attributes into a stable order for deterministic text diffs and reproducible serialization.
+2026-11-16T11:27:14Z,gpusim2grid,0.3.0,DONNOT Benjamin <benjamin.donnot@gmail.com>,MPL-2.0 AND Apache-2.0,706808,"GPU-accelerated, batched AC power flow for the Grid2Op ecosystem"
+2026-11-16T11:27:41Z,flam-finesse,0.1.1,Flam,Apache-2.0,121518,"Python SDK for the Finesse voice API: voice cloning, text-to-speech and realtime streaming."
+2026-11-16T11:30:46Z,cueapril,1.1.0,,LicenseRef-Proprietary,161355,Launch the CueApril CLI from Python package managers; requires installed Node.js 20 or later.
+2026-11-16T11:31:43Z,xusbcan-cli,0.1.0,,,68480,面向 AI Agent 的 CAN 总线调试工具（CLI + MCP）
+2026-11-16T11:32:07Z,london-newbuilds,0.1.0,1newhomes Research <info@1newhomes.com>,,90203,Open dataset and research benchmarks for active residential new build developments in London.
+2026-11-16T11:32:35Z,recettes,1.0.0,Mathieu Leplatre,Creative Commons Legal Code CC0 1.0 Universal CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DO…,1412219,Build a static recipe website from Markdown files.
+2026-11-16T11:36:09Z,dex-connector-intercom,0.2.0,,MIT,162696,Intercom connector for Dex Flows
+2026-11-16T11:36:19Z,odoo-addon-website-sale-partner-sale-contact,19.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",LGPL-3,25984,Set the parent company as customer and the contact as sale contact on website orders
+2026-11-16T11:37:32Z,dex-connector-intuit-mailchimp,0.2.0,,MIT,208826,Dex-native Mailchimp Marketing API connector
+2026-11-16T11:37:55Z,tesseract-robotics-nanobind-support,0.36.0.0rc1,"Jelle Feringa <jelle@terrestrial.construction>, John Wason <wason@wasontech.com>",Apache-2.0 AND BSD-3-Clause,43452772,"Robot models and meshes from tesseract's support package, for tesseract-robotics-nanobind"
+2026-11-16T11:39:04Z,dex-connector-intuit-quickbooks,0.2.0,,MIT,194740,Dex-native Intuit QuickBooks Online connector
+2026-11-16T11:39:48Z,aidenix-atlas,0.6.0,"""Aidenix Inc."" <info@aidenix.com>",MIT,214596,"Run Aidenix Atlas data-source recipes locally: verified registries, APIs and datasets, fetched with your own credentials."
+2026-11-16T11:40:11Z,MRCL2,1.0.1,,,3330,Document integrity utility
+2026-11-16T11:40:56Z,carla-pack-registry,0.3.0,,Apache-2.0,15863522,"Share CARLA content packs through GitHub repository access and S3-compatible storage (R2, S3, MinIO)"
+2026-11-16T11:42:46Z,openeasy,1.0.0,Kauê Fagundes Guerra,"The MIT License (MIT) Copyright (c) 2026 KAUÊ FAGUNDES GUERRA Permission is hereby granted, free of…",20928,Biblioteca Python com calculadora e ferramentas para preservação de estilos em planilhas Excel.
+2026-11-16T11:46:37Z,contractor-foreman-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15572,"Connect Contractor Foreman to ChatGPT, Claude and any AI agent through your signed-in Cotlet.dev Cloud Browser."
+2026-11-16T11:47:24Z,leadee-mcp,0.2.0,,MIT,143151,"MCP server for Leadee.ai: SEO and AI visibility tools for Claude, Cursor and other MCP clients"
+2026-11-16T11:48:11Z,mira-ble,0.1.0,83noit,MIT,111550,"Async Python library for Mira digital showers (Platinum, Activate, Mode) over Bluetooth LE"
+2026-11-16T11:48:26Z,wannado-adv,0.1.0,JettZ,MIT,421240,"AI-focused, single-file modular adversarial robustness platform across CV, wireless communications, DRL, tabular, and unsupervised learning."
+2026-11-16T11:49:38Z,apprise-notify,1.2.0,Michele Bologna,MIT,9595,"Send a notification to an Apprise API server: one function, standard library only"
+2026-11-16T11:52:43Z,github-backup-app,0.4.1,Schlomo Schapiro <schlomo+github-backup-app@schapiro.org>,The MIT License (MIT) Copyright (c) 2013 Jose Diaz-Gonzalez Copyright (c) 2025 Schlomo Schapiro Per…,156610,Backup GitHub repositories and metadata using GitHub App authentication
+2026-11-16T11:53:25Z,trace2rules,0.1.0,Rakha Kanz Kautsar,MIT,89677,Mine coding-agent trajectories into evidence-backed AGENTS.md rules
+2026-11-16T11:58:42Z,nanosandbox-sdk,0.2.0,DevDone Labs,Apache-2.0,25851,Python SDK for the nanosandbox protocol helper
+2026-11-16T12:05:18Z,hanconv,0.6.0,fhluo <20843637+fhluo@users.noreply.github.com>,MIT,4008602,Convert between Chinese character variants.
+2026-11-16T12:13:00Z,pygraphds,0.1.0,Dr. Mohamed B.,MIT,17927,Beginner-friendly graph data structures and operations
+2026-11-16T12:14:04Z,jaari,0.0.0,,MIT,3440,Jaari: a self-hosted personal AI agent. Early development; see the repository.
+2026-11-16T12:16:10Z,flutter-security-analyzer,1.0.1,Caleb Elebhose <elebhosec@gmail.com>,MIT,107905,Static security analysis tool for Flutter/Dart applications with MASVS compliance mapping
