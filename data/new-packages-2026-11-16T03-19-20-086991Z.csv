@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T02:21:02Z,birdalbum,1.0.0,Bird Album,MIT,9954,"Bird of the day from Bird Album (birdalbum.com), plus links to 11,000+ AI-generated bird stickers (CC BY 4.0) and species pages. Standard library only."
+2026-11-16T02:21:26Z,oxradon,0.1.0,J Squared Labs,MIT,10479236,"A fast, drop-in Rust port of radon, the Python code metrics tool"
+2026-11-16T02:25:44Z,documentdriver,0.2.0,,Apache-2.0,26005438,"Read and edit Word, PowerPoint and Excel files from agents: the docx, pptx and xlsx CLIs as static binaries"
+2026-11-16T02:26:56Z,aionwc,0.1.1,Sats-Lottu,MIT,35934,Async Python client for Lightning wallets using Nostr Wallet Connect
+2026-11-16T02:37:05Z,temporalio-microsoft-agent-framework,0.0.1,Temporal Technologies Inc,MIT,103364,Temporal integration for Microsoft Agent Framework
+2026-11-16T02:42:00Z,ivae-sc,0.0.6,Zeyu Fu,MIT,45357,Interpretable Variational Autoencoder for Single-Cell Data
+2026-11-16T02:42:07Z,scfocus-sc,0.0.6,Zeyu Fu,MIT,1828311,single cell reinforcement learning for focusing
+2026-11-16T02:42:08Z,livae-sc,0.2.3,LiVAE Contributors,"MIT License Copyright (c) 2025 Zeyu Fu Permission is hereby granted, free of charge, to any person…",37877,Lorentzian Interpretable Variational Autoencoder for single-cell data
+2026-11-16T02:42:41Z,ling-aspec,0.1.0b0,,Apache-2.0,10921,ASpec draft environment
+2026-11-16T02:42:42Z,ling-aspec-runtime,0.1.0b0,,Apache-2.0,5743598,A Torch-native framework for speculative decoding training
+2026-11-16T02:42:44Z,ling-aspec-target,0.1.0b0,,Apache-2.0,10888,ASpec target environment
+2026-11-16T02:44:02Z,fontpkg-allura,1.110,,OFL-1.1,121041,"Allura font family, packaged for Python by fontpkg"
+2026-11-16T02:44:04Z,fontpkg-philosopher,2.1,,OFL-1.1,234130,"Philosopher font family, packaged for Python by fontpkg"
+2026-11-16T02:44:07Z,fontpkg-amaranth,1.1,,OFL-1.1,181043,"Amaranth font family, packaged for Python by fontpkg"
+2026-11-16T02:44:10Z,fontpkg-stix-two-text,2.130,,OFL-1.1,447701,"STIX Two Text font family, packaged for Python by fontpkg"
+2026-11-16T02:45:26Z,ccvgae,0.3.0,Zeyu Fu,MIT,63055,CCVGAE: centroid-coupled variational graph attention autoencoder for stable and interpretable single-cell representation learning
+2026-11-16T02:45:37Z,gahib,2.0.0,Zeyu Fu,MIT,106323,Graph Attention Hyperbolic Information Bottleneck VAE for single-cell omics analysis
+2026-11-16T02:45:39Z,mccvae,0.0.1,Zeyu Fu,MIT,241391,MCCVAE: momentum contrastive coupling unifies discrete and continuous structure in single-cell omics
+2026-11-16T02:47:24Z,roost-sdk,0.0.1,Roost <developers@roostcapital.ai>,Apache-2.0,1895,"Reserved name for Roost's Python SDK, which is not published yet. This placeholder contains no code."
+2026-11-16T02:47:26Z,roost-corpus-mcp,0.0.1,Roost <developers@roostcapital.ai>,Apache-2.0,1882,Reserved name with no code: install roost-mcp for Roost's payment check for AI agents.
+2026-11-16T02:47:29Z,roost-eval-mcp,0.0.1,Roost <developers@roostcapital.ai>,Apache-2.0,1888,Reserved name with no code: install roost-mcp for Roost's finance-agent safety test.
+2026-11-16T02:47:31Z,roost-worlds,0.0.1,Roost <developers@roostcapital.ai>,Apache-2.0,1862,"Reserved name for Roost Worlds, which is not published yet. This placeholder contains no code."
+2026-11-16T02:47:54Z,scccvgben,0.1.0,Zeyu Fu,MIT,269489,"Single-cell scCCVGBen Benchmark — multi-encoder, multi-graph, baseline comparison on 200 scRNA+scATAC datasets"
+2026-11-16T02:50:01Z,microformer-mgm2,2.1.0,,MIT,85951,Microbial General Model 2: multimodal representations of microbial community states and responses
+2026-11-16T02:51:21Z,mobius-db,2.0.1,José Joabio Bezerra Paiva <contato@astralintelligence.com>,Proprietary / Commercial - All Rights Reserved,9452,Arquitetura de Memória Topológica Auto-Bifurcante baseada em Fita de Möbius (720°) - Astral Intelligence
+2026-11-16T02:57:12Z,refbook,0.1.0,Nezar Abdennur,MIT,4550346,"A catalog of human reference genome editions, and tools to identify, fetch and reconstruct them"
+2026-11-16T02:57:51Z,pytest-llm-cost,0.1.0,Matthew Busel,MIT,38766,"pytest plugin: what each test's OpenAI, Anthropic and LiteLLM calls cost in USD, with a budget that fails the run"
+2026-11-16T02:59:45Z,just-ba,0.1.0,,Apache-2.0,1752279,"Minimal, fast bundle adjustment: CPU, Metal and CUDA backends, pose priors from ARKit and ARCore"
+2026-11-16T03:01:07Z,limitr,0.8.6,"""Formata, Inc."" <info@limitr.dev>",Apache-2.0,247310,"Limits, credits, and billing inside your AI product: an open-source engine that decides what each customer can do, what it costs you, and what to bill, on every call, in-process."
+2026-11-16T03:02:44Z,gtfeng,0.1.0,Jiayu Feng,Apache-2.0,44896,GT-FENG (General Theory of Factual Evaluation and Normative Grounding): evaluate language-model answers about rule-governed facts
+2026-11-16T03:08:10Z,rocketmq-client-remoting,0.0.1,,Apache-2.0,954034,Python implementation of Apache RocketMQ 4.x remoting client (client + remoting protocol).
+2026-11-16T03:08:48Z,magic-campus-cli,0.1.0,,AGPL-3.0-or-later,166269,Magic Campus business HTTP SDK and CLI
+2026-11-16T03:10:41Z,just-ba-cu12,0.1.0,,Apache-2.0,3912147,"Minimal, fast bundle adjustment: CPU, Metal and CUDA backends, pose priors from ARKit and ARCore (CUDA 12 package)"
+2026-11-16T03:11:25Z,magic-campus-im,0.1.0,,AGPL-3.0-or-later,102455,Magic Campus channel communication SDK
+2026-11-16T03:12:01Z,crop-icon,0.2.1,Your Name <you@example.com>,MIT,13919,Interactive (mouse drag) command-line tool to crop icon templates from a screenshot
+2026-11-16T03:13:01Z,llm-keyguard,0.2.0,,MIT,33346,"Zero-dependency secret scanner, MCP config auditor, and Git pre-commit guard for LLM & AI API keys."
+2026-11-16T03:16:15Z,just-ba-cu13,0.1.0,,Apache-2.0,3355651,"Minimal, fast bundle adjustment: CPU, Metal and CUDA backends, pose priors from ARKit and ARCore (CUDA 13 package)"
+2026-11-16T03:16:22Z,workbuddy-synology-mcp,0.1.0,,MIT,23848,WorkBuddy 群晖 NAS 连接器 MCP Server（DSM 7：文件管理、下载、系统状态、相册）
+2026-11-16T03:16:29Z,anonymize-cvr,0.4.0,,Apache-2.0,48040,Redact Colorado cast vote records for public release (C.R.S. 24-72-205.5)
