@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T18:22:42Z,receiptd,1.1.0,Nick Altstein <nickaltstein@gmail.com>,MIT,217565,"A fail-closed gate for hooked AI agent tool calls, with Ed25519-signed receipts and offline hash-chain checking."
+2026-11-16T18:24:19Z,django-llms-manager,0.1.0,Artem Fabrikov,MIT,58287,Manage llms.txt content for AI assistants through the Django admin.
+2026-11-16T18:25:49Z,styne-sdk,0.1.1,Styne AI <support@styne.ai>,Apache-2.0,162880,Python client for the Styne API: VMs and cloud browsers.
+2026-11-16T18:29:12Z,medre-adapter-simplexchat,0.1.0,,MIT,137656,SimpleX Chat groups for MEDRE through the official Python client
+2026-11-16T18:30:00Z,jetbrains-pulumi-aws-kms,999.9.9,,,971,Stub package that mitigates Dependency Confusion attacks
+2026-11-16T18:30:42Z,ovos-stt-plugin-whisper-browser,0.1.0a2,Andreas Lorensen,Apache-2.0,18367,"OpenVoiceOS STT plugin: Whisper speech recognition on the device, in the browser (transformers.js, WebAssembly/WebGPU)"
+2026-11-16T18:31:24Z,medre-adapter-chatmail,0.1.0,,MIT,122022,Chatmail conversations for MEDRE through the official core RPC client
+2026-11-16T18:31:47Z,duckdb-core-ext-glue,2.0.0,,,145467437,"The DuckDB glue extension for DuckDB 2.0.0, installed into a shared extension directory"
+2026-11-16T18:32:20Z,xno-call-binding,0.2.0,,MIT,112997,"Bind a Nano (XNO) payment to the call it paid for: stdlib only, no key; network only in the read-only node and price helpers (finality_facts, four_check, usd_quote), never at import."
+2026-11-16T18:33:28Z,detloop,0.1.0,raunaksahahere,MIT,303256,"Deterministic simulation testing for Python asyncio: virtual time, simulated networks, fault injection, one-seed replay"
+2026-11-16T18:34:59Z,google-cloud-managed-mlflow,0.1.0,Google LLC,Apache-2.0,202356,Google Cloud Managed Service for MLflow plugin
+2026-11-16T18:35:39Z,solarian-move,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,24388,Move a robot to a named pose. Poses live in the project's conf/skills/move.yaml.
+2026-11-16T18:36:10Z,matheel-zatca,0.1.0,Matheel <hello@matheel.app>,"MIT License Copyright (c) 2026 Matheel (matheel.app) Permission is hereby granted, free of charge,…",16980,"Official client for the Matheel ZATCA Phase 2 e-invoicing API (Saudi Arabia, Fatoora): file invoices with a device token, decode the QR, verify callbacks."
+2026-11-16T18:38:50Z,packvium-native-rust,1.11.0,Packvium contributors,MIT,7632068,"Compiled Rust backend for Packvium, consumed by the packvium-native selector"
+2026-11-16T18:39:12Z,imste,0.2.1,Fabrizio Costa,MIT,187837,Iterated Minimum Spanning Tree Embedding (IMSTE)
+2026-11-16T18:39:45Z,llm-localizator,0.2.0,Wojtek Wylon,MIT,5903071,"Localisation engine: find hardcoded strings, translate with local or cloud LLMs, validate and review message catalogues"
+2026-11-16T18:39:58Z,sri-einvoice,0.1.0,Martin Velez,Apache-2.0,85146,"Ecuador SRI e-invoicing engine: factura XML, clave de acceso, XAdES-BES signing, SOAP reception/authorization and RIDE PDF."
+2026-11-16T18:41:35Z,pyprivate-deobf,1.0.0,Ahmed Alhrrani,MIT,91255,Static ELF deobfuscator and Python source reconstruction for PyPrivate-obfuscated Cython binaries (AArch64)
+2026-11-16T18:42:24Z,GHIElectronics.Endpoint.UI,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,9646,"UI widgets for Endpoint: Button, Label, Container, Image, TextBox, Slider, CheckBox on top of the embedded LVGL in libendpoint. Pair with the GHI Electronics UI designer."
+2026-11-16T18:42:40Z,pepkio-sequence-property-calculator,0.1.0,,,38584,Python client for sequence property calculation via the Pepkio API
+2026-11-16T18:43:15Z,GHIElectronics.Endpoint.Drivers.FocalTech.FT5xx6,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,3600,FocalTech FT5xx6 capacitive-touch driver for Endpoint. Mirrors the .NET driver API.
+2026-11-16T18:43:18Z,GHIElectronics.Endpoint.Drivers.HiLetgo.ILI9341,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,4024,HiLetgo ILI9341 240x320 SPI TFT driver for Endpoint. Mirrors the .NET driver API.
+2026-11-16T18:43:21Z,GHIElectronics.Endpoint.Drivers.SinoWealth.SH110x,0.5.3,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,6246,SinoWealth SH1106 / SH1107 I2C 1bpp OLED display driver for Endpoint. Mirrors the .NET driver API.
+2026-11-16T18:44:00Z,chesssnake-discord,0.2.0,,MIT,87357,"Chess for Discord through a chesssnake server: a cog for your bot, or a bot of its own"
+2026-11-16T18:44:46Z,humanizer-id,2.4.0,Hafizh Muzani,MIT,284049,"Indonesian academic writing editorial engine: 592 prescriptive rules to remove AI-sounding cliches, machine-translation calques, and nonstandard forms"
+2026-11-16T18:46:18Z,auryn-csharp,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,128233,"C# language plugin for Auryn: fast tree-sitter parse + deep Roslyn extractor (bundled source, built on demand; requires the .NET SDK)."
+2026-11-16T18:47:03Z,auryn-cuda,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,44743,CUDA language plugin for Auryn: reuses the auryn-cpp engine and adds kernel execution-space and kernel-launch (LAUNCHES) signals.
+2026-11-16T18:47:31Z,auryn-events,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,30947,Language-agnostic message/event-bus stitch for Auryn: a post-ingestion hook that ties a publisher to a subscriber through the topic/queue they share (publisher -PUBLISHES_TO-> Topic <-SUBSCRIBES_TO-…
+2026-11-16T18:48:33Z,saltext.netbox,0.1.0,Nick Hilliard <nick@foobar.org>,Apache Software License,124867,Salt Extension for interacting with Netbox
+2026-11-16T18:51:03Z,simple-financial-tool-as,1.0.0,Giuseppe Giardino,,3524,Simple Financial Tool
+2026-11-16T18:51:36Z,ohamlab-voicestudio,0.1.0b2,OhamLab,MIT,29769,"Modular OhamLab voice SDK: Hindi TTS, voice cloning, ASR, voice chat and training utilities"
+2026-11-16T18:58:47Z,deadlock-mcp,0.1.0,,MIT,154165,MCP server for live-editing Deadlock's Panorama UI (XML / CSS / JS)
+2026-11-16T18:59:12Z,spater,0.4.5,,MIT,60471860,"asynq-compatible distributed task queue for Python, powered by Rust"
+2026-11-16T18:59:29Z,llm-finops-gateway,0.4.1,Andras Kelle,Apache-2.0,253139,"OpenAI-compatible LLM gateway with cost attribution, policy guardrails and observability."
+2026-11-16T19:00:16Z,amaze-chem,1.0,,,1517,A computational chemistry toolkit.
+2026-11-16T19:00:24Z,whitemarket-sdk,0.1.0,WhiteMarket,MIT,831268,"Python SDK for the WhiteMarket partner API: GraphQL, public export files, live updates."
+2026-11-16T19:00:26Z,mediainfo-picker,0.2.0,Bish Sinha,MIT,191269,"Pick which MediaInfo fields to show for a media file, and copy the output or the command that makes it"
+2026-11-16T19:02:00Z,ado-mcp-server,0.1.0,Visesh Prasad <11642379+viseshrp@users.noreply.github.com>,MIT,117147,Python MCP server for on-premises Azure DevOps Server and TFS.
+2026-11-16T19:04:05Z,kremy-cli,0.0.1,Christos Synodinos,MIT,5250,"A class-based command-line framework, validated by enforced. In development: this release reserves the name."
+2026-11-16T19:04:38Z,robotenv,0.2.1,,,5187933,"Robot embodiments as validated, hashable data, instantiated in batched RL environments"
+2026-11-16T19:05:58Z,depbisect,0.1.0,Dennis Kiwitz,MIT,74870,Find the dependency update that broke your Python tests: delta debugging over lockfile changes.
+2026-11-16T19:07:59Z,intro-eda,0.1.0,"Robb Sinn, Bryson R. Payne",BSD-3-Clause,13999,"One-line box plots, density plots and summary statistics for introductory statistics and data science courses."
+2026-11-16T19:09:34Z,keri-ext,0.0.0,,,1109,Reserved name; not installable from PyPI. Install from git per KERI_PIN: https://github.com/seriouscoderone/keri-ext
+2026-11-16T19:09:35Z,keri-serviceaid,0.0.0,,,1116,Reserved name; not installable from PyPI. Install from git per KERI_PIN: https://github.com/seriouscoderone/keri-ext
+2026-11-16T19:09:36Z,keri-cdk,0.0.0,,,1106,Reserved name; not installable from PyPI. Install from git per KERI_PIN: https://github.com/seriouscoderone/keri-ext
+2026-11-16T19:11:06Z,django-octo-qa,0.1.0,jeanpmodev <jeanpmodev@gmail.com>,MIT,106184,"Unified Django quality assurance and automated test runner (Pytest, Behave BDD, Locust) under Django-Octo."
+2026-11-16T19:12:01Z,calc-rtd,0.1.0,,MIT,45674,Use Excel RTD (RealTimeData) servers from LibreOffice Calc: the bridge that hosts the RTD server
+2026-11-16T19:13:49Z,whasp,0.1.0,Bradley Odimmasi,MIT,433251,"Whasp - self-hosted server control panel for Linux and Windows (web GUI, terminal app, CLI and extensions)"
+2026-11-16T19:13:55Z,hawking-runtime,0.1.0,Hawking Systems Inc.,Apache-2.0,518415,"Hawking Runtime: a lightweight, self-hosted library built around llama.cpp"
+2026-11-16T19:16:03Z,glass.ext.extend,0.1.0,Lorenzo Fusari,MIT License,2030340,GLASS extension for continuing lightcone simulations to higher redshift
