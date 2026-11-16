@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T19:23:01Z,superion-s1,0.1.0,Punky Tiger Labs <alvaro.lopez@punkytigerlabs.com>,MIT,27087,"Python client for Superion S1 — calibrated yes/no, choice and score decisions in one API call (Punky Tiger Labs)."
+2026-11-16T19:23:37Z,langchain-superion,0.1.0,Punky Tiger Labs <alvaro.lopez@punkytigerlabs.com>,MIT,17749,"LangChain integration for Superion S1 — calibrated decision tool, guardrail and router (Punky Tiger Labs)."
+2026-11-16T19:23:38Z,llama-index-tools-superion,0.1.0,Punky Tiger Labs <alvaro.lopez@punkytigerlabs.com>,MIT,9714,"llama-index tools superion integration — calibrated yes/no, choice and score decisions (Superion S1 by Punky Tiger Labs)."
+2026-11-16T19:24:17Z,missinggmm,0.1.0,Felix Schmitz <felix.schmitz@wiso.uni-koeln.de>,MIT,16809,"Generalized Method of Moments estimation with missing regressors (Abrevaya & Donald, 2017)."
+2026-11-16T19:27:02Z,joulescope-event-analyzer,0.1.0,Jetperch LLC <joulescope-dev@jetperch.com>,Apache-2.0,159727,"Find, measure, group and compare current events in Joulescope captures."
+2026-11-16T19:28:00Z,markitdown-for-everyone,0.4.1,Angel Romero,MIT,72992,"Convert PDFs, images, documents and other files to Markdown using MarkItDown and the Pollinations API"
+2026-11-16T19:28:25Z,af-fastapi-core,0.0.2,Allfly <engineering@allfly.io>,MIT,7296,Minimal server startup with opt-in central TLS
+2026-11-16T19:28:35Z,json-schema-semver,0.2.0,"Juan Cruz Viotti <jv@jviotti.com>, Tom Clark <tom@octue.com>",AGPL-3.0-or-later,15865465,Compare two JSON Schemas and work out the semantic version of the new one
+2026-11-16T19:31:55Z,k11-appium-qa-mcp,0.1.0,K11 Software Solutions,MIT,64432,"MCP server and CI tool for self-healing Appium locators in native and hybrid Android and iOS apps: heals against the screen a test failed on, verified re-runs, Python and Java Page Objects, accessibi…"
+2026-11-16T19:32:17Z,ProjectMFE2-marianna,1.0.0,,,2452,Simple Financial Tool
+2026-11-16T19:32:18Z,hotkernels,0.0.1,Konstantin Sofeikov,MIT,2257,"Hand-written assembly kernels for NumPy hot paths, as a zero-friction drop-in. In active development."
+2026-11-16T19:33:43Z,gene-edit-check,0.3.0,Arav Mendiratta,MIT,1119446,"Computational-biology toolkit that checks whether a CRISPR base edit works only in the cells you want, using AlphaGenome 2 as the judge."
+2026-11-16T19:36:36Z,multi-websearch-mcp,0.3.0rc2,websearch contributors,MIT,451106,"Parallel, captcha-avoiding web search over free sources (SearXNG, Bing RSS, Google News, GDELT, ...) with CLI, MCP server and monitoring"
+2026-11-16T19:39:08Z,anix-type,0.1.0,an1zy,MIT,50178,Context-aware autocompletion and natural language command forge for your terminal.
+2026-11-16T19:40:59Z,conductor-lab,0.1.2,,,170957,Standalone Conductor jump-host agent
+2026-11-16T19:45:16Z,market-lab-research,1.0.0,Market Lab contributors,Apache-2.0,5156164,"Local research workbench for testing AI trading agents against human, rule and model baselines"
+2026-11-16T19:48:12Z,predlr,1.0.0,Charles,MIT,20674,logistic regression library
+2026-11-16T19:49:04Z,fontlab-python-pens,1.0.8,,Apache-2.0,149623,"fontTools-compatible Pen and PointPen protocol for FontLab, with zero dependencies"
+2026-11-16T19:49:41Z,pythonqtside,1.1.12,,Apache-2.0,705315,Native FontLab PythonQt namespace adapter and compatibility plan
+2026-11-16T19:50:03Z,alter-sdk-asana,0.1.1,Alter Team,MIT,381315,Typed asana operations through Alter
+2026-11-16T19:50:27Z,fontlab_echopy,1.1.16,,Apache-2.0 AND LGPL-3.0-only AND GFDL-1.3-only,18698169,Source-readable native FontLab API facades and regeneration tools
+2026-11-16T19:50:42Z,ssiv,0.1.1,Serik Iskakov,MIT,44916,"Shift-share (Bartik) instrumental variables in Python: AKM/AKM0 exposure-robust inference, Rotemberg weights and shock-level estimation."
+2026-11-16T19:50:58Z,auryn-sql,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,35691,"Generic relational-database schema ingestor for Auryn: reflects any SQLAlchemy-supported engine (PostgreSQL, MySQL/MariaDB, SQLite, Oracle, ...) into Database/Schema/Table/Column/View/Sequence/Index/…"
+2026-11-16T19:51:00Z,auryn-swift,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,68576,"Swift language plugin for Auryn: a fast tree-sitter-swift engine extracting classes/structs/enums/protocols/functions/methods/initializers/properties/params/cases, the type hierarchy (EXTENDS/IMPLEME…"
+2026-11-16T19:51:01Z,auryn-typescript,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,81482,"TypeScript/JavaScript language plugin for Auryn: one fast tree-sitter engine over the whole JS/TS family (.ts/.tsx/.js/.jsx/.mjs/.cjs), extracting classes/interfaces/enums/type-aliases/functions/meth…"
+2026-11-16T19:52:54Z,turkish_ui,0.3.1,,,17302,
+2026-11-16T19:58:00Z,auryn-http,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,35763,Language-agnostic HTTP call<->endpoint stitch for Auryn (ADR 0006): a post-ingestion hook that resolves route-keyed APIEndpoint placeholders (emitted by any caller language) to their handler Methods…
+2026-11-16T19:58:02Z,auryn-go,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,88880,"Go language plugin for Auryn: a fast tree-sitter-go engine extracting packages/structs/interfaces/functions/methods/fields/params/consts, Go embedding (EMBEDS), and calls. IMPLEMENTS (structural inte…"
+2026-11-16T19:58:04Z,auryn-grpc,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,38721,Language-agnostic gRPC/Protobuf contract stitch for Auryn: a post-ingestion hook that parses .proto service contracts and links a client's RPC call and a server's handler Method to the shared contrac…
+2026-11-16T19:58:06Z,auryn-java,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,88644,"Java language plugin for Auryn: a fast tree-sitter-java engine extracting packages/classes/interfaces/enums/records/methods/fields/params, the type hierarchy (EXTENDS/IMPLEMENTS), and calls. A deep p…"
+2026-11-16T19:58:21Z,auryn-php,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,60182,"PHP language plugin for Auryn: a fast tree-sitter-php engine extracting namespaces/classes/interfaces/traits/enums/functions/methods/properties/constants/params, the type hierarchy (EXTENDS/IMPLEMENT…"
+2026-11-16T19:59:07Z,agent-checks-mcp,0.0.1,David Vujic,MIT,33888,"An MCP server that watches a project and serves cached lint, typecheck, and test results"
+2026-11-16T20:00:18Z,auryn-julia,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,58420,"Julia language plugin for Auryn: a fast tree-sitter-julia engine extracting modules/structs/abstract+primitive types/generic functions/methods/fields/params, the subtype hierarchy (EXTENDS), multiple…"
+2026-11-16T20:00:20Z,auryn-kotlin,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,69533,"Kotlin language plugin for Auryn: a fast tree-sitter-kotlin engine extracting packages/classes/objects/interfaces/enums/methods/functions/fields/params, the type hierarchy (EXTENDS/IMPLEMENTS), and c…"
+2026-11-16T20:00:23Z,auryn-oracle,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,2547277,Oracle-stack plugins for Auryn: live-DB and file-based PL/SQL (vendored ANTLR grammar) and Redgate schema-catalog reconstruction (oraschema). (The generic relational-DB schema ingestor now lives in a…
+2026-11-16T20:00:25Z,auryn-orm,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,33939,Language-agnostic ORM model<->database-table stitch for Auryn: a post-ingestion hook that joins a SQLAlchemy model class (in a code graph) to the physical Table/Column nodes a SQL ingestor produced (…
+2026-11-16T20:01:18Z,mcp-aevo-server,0.2.0,Aevo,MIT,76556,Model Context Protocol server for AEVO trading
+2026-11-16T20:02:59Z,auryn-python,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,114696,"Python language plugin for Auryn: fast `ast` + deep Jedi (in-process) engines, plus the web-framework route enrichment."
+2026-11-16T20:03:31Z,pydelity,0.0.1,IDinsight DSEM <dsem@idinsight.org>,MIT,6693,"Under development and not yet usable. PDF to structured JSON, faithfully."
+2026-11-16T20:04:53Z,auryn-rust,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,96713,"Rust language plugin for Auryn: a fast tree-sitter-rust engine extracting modules/structs/enums/traits/functions/methods/fields/variants/params/consts, the trait hierarchy (IMPLEMENTS/EXTENDS), and c…"
+2026-11-16T20:04:55Z,auryn-ruby,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,62054,"Ruby language plugin for Auryn: a fast tree-sitter-ruby engine extracting modules/classes/methods/functions/parameters/fields/constants, the class hierarchy (EXTENDS/INCLUDES), require graph (IMPORTS…"
+2026-11-16T20:06:25Z,openvpn3-kde-nm,1.1.0,German Rosales <rosalesgermane@gmail.com>,MIT,59794,Native KDE Connection Manager (plasma-nm / NetworkManager) integration for OpenVPN 3 Linux
+2026-11-16T20:06:52Z,django-admin-api2,0.1.0a1,Ramez Ashraf,MIT,268780,"MCP-ready Django admin: a REST API and an MCP server for AI agents from your existing ModelAdmins, driven by api_ twins."
+2026-11-16T20:06:53Z,ko-artefacts-sdk,0.3.1,"""Komus.ai"" <codir@komus.ai>",MIT,336220,Python SDK + CLI for Komus Artefacts
+2026-11-16T20:07:38Z,nvim-bin,0.12.6.1,nvim-bin contributors,MIT AND Apache-2.0 AND Vim,71792396,"Neovim from PyPI: official builds as wheels, installed with one setup command."
+2026-11-16T20:08:47Z,mind-api,0.0.0,,,2035,The interface to mind-api.com. This release reserves the name.
+2026-11-16T20:13:21Z,cfb27-dynasty,0.1.1,,MIT,72348,Typed client for the CFB 27 Dynasty API
+2026-11-16T20:14:41Z,mwps-client-dev,0.1.35,,,14742,"Official mwps client library: single entry point MwpsClient, one typed method per mwps command."
+2026-11-16T20:14:51Z,crypto-deprecation-check,0.1.0,referencesource.org,CC0-1.0,34748,"Read the cryptographic algorithms your repository's own code calls — hashlib, Cipher.getInstance, MODE_ECB, a JWT alg, generate_private_key, an SSH HostKeyAlgorithms setting, an openssl subcommand —…"
+2026-11-16T20:15:01Z,graphas,1.0.0,"Henry Saenz, Kelly Beltran, Carlos Gomes, Facundo Carrillo",MIT,57267,Speech graph analysis: structural features of a directed word graph built from a transcription
+2026-11-16T20:15:50Z,physu,0.1.0,taxnam23 <tarfanam342@gmail.com>,MIT,34083,A modular Python physics library with strict unit and dimensional validation powered by Pint.
