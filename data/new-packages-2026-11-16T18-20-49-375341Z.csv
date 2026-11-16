@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T17:19:24Z,ubits-bot,0.1.0b2,,MIT,23185,Async Python client for the Ubits Bot API beta
+2026-11-16T17:20:57Z,halluciguard,6.2.0,HalluciGuard Contributors,MIT,109527,A zero-dependency Python security and SAST scanner
+2026-11-16T17:25:07Z,airhand,0.1.0,Chinmay Jha,Apache-2.0,43003,"Drive any device that accepts a Bluetooth keyboard and mouse from Python, through an nRF52840 dongle."
+2026-11-16T17:25:20Z,deceptron,1.0.0,Aaditya L. Kachhadiya,,32957,Deceptron: Learned Local Inverses for Fast and Stable Physics Inversion
+2026-11-16T17:25:32Z,candleprep,0.1.0,Absolute-Convergence,MIT,54979,Synthetic candle-data corruption and verified repair-instruction datasets
+2026-11-16T17:26:04Z,domania,3.0.0,Aaron Johnson,MIT,2111960,"Translate data arrays between time, frequency and WDM, and evaluate a noise model's per-point K x K covariance on a frequency or WDM grid."
+2026-11-16T17:26:41Z,vcti-usd-schema-core,0.2.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,76837,"Codeless OpenUSD schema shared by the VCollab schema family: the label a user sees, kept apart from a prim's name, the descriptors that list and arrange what a stage holds for the user, and the contr…"
+2026-11-16T17:29:28Z,swir-cgan,0.1.0,,GPL-3.0-only,61539,"Synthetic SWIR bands for CBERS-4, CBERS-4A and AMAZONIA-1 WFI imagery."
+2026-11-16T17:30:38Z,outlook-graph-mcp-plus,0.1.1,Alexander Rolli,MIT,123438,"Outlook (Microsoft 365) as a local MCP server via Microsoft Graph: mail, folders, attachments, calendar and To Do, with each organisation's own Entra app registration."
+2026-11-16T17:32:42Z,sipl-toolkit-vit,0.1.2,Vitalii Prykhodko,MIT,116858,"SIPL Language Toolkit: grammar, typed AST, interpreter, CLI, and conformance suite"
+2026-11-16T17:35:20Z,signatomics,0.1.0,Elena Stamatelou,MIT,293898,"Python tools for Olink (PEA) proteomics data: read, quality control, bridging, statistics and biomarker signatures, with every step reported."
+2026-11-16T17:36:04Z,cortex-bitemporal-mcp,1.2.0,Akandwanaho Ivan Alvin <codesphere-u@users.noreply.github.com>,MIT,102830,"Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents"
+2026-11-16T17:36:21Z,geoflag,0.1.1,Muhammed Reis,MIT,39695,WAF fingerprinting and authorized capacity load-testing from the command line.
+2026-11-16T17:39:35Z,assay-pipeline,0.1.0,Biplob Chakraborty,MIT,357972,"EGFR bioactivity data with provenance and quality rules, read by an AI agent through a SQL guard and a hash-chained audit log."
+2026-11-16T17:42:46Z,aiofmi,0.1.0,Finnish Meteorological Institute,MIT,42675,Async client for the Finnish Meteorological Institute's open data
+2026-11-16T17:45:18Z,nalvera,0.1.0,Nalvera BV,Apache-2.0,674613,Run Nalvera.AI tasks on medical scans from Python. Scans are anonymized on your computer before upload.
+2026-11-16T17:46:08Z,tums-datastudio-ai-agent,0.0.0,,,676,
+2026-11-16T17:48:31Z,tenorflo,1.0.0,,,17687797,
+2026-11-16T17:53:13Z,geodms,20.26.0,,GPL-3.0-or-later,139518205,"GeoDMS, an open-source platform for spatial models over large grid, vector and attribute data"
+2026-11-16T17:54:31Z,quantum-emotion,0.1.0,"Tanishka Birdavade, Hendrik Kuehne, Matthew Howarth",,80084,Classical simulation of quantum circuits.
+2026-11-16T17:56:46Z,meuget,1.0.0,meucak,MIT,59097,Universal zero-dependency GitHub (meucak) package & project manager for Windows 10 and Linux
+2026-11-16T17:58:46Z,cadwyn-core,9.1.0rc1,Stanislav Zmiev <zmievsa@gmail.com>,MIT,296985,Cadwyn's Stripe-like API versioning without FastAPI
+2026-11-16T18:00:46Z,desfr,0.1.0,,,3766,A dead simple CLI file reader
+2026-11-16T18:00:48Z,packvium-native,1.11.0,Packvium contributors,MIT,14116,"Packvium backend selector: the native engine when a wheel is available, pure Python otherwise."
+2026-11-16T18:01:53Z,py-epc-uk,0.1.0,David Huang,MPL-2.0,227014,"Download, process and clean the UK Energy Performance Certificate registers of England and Wales and of Scotland."
+2026-11-16T18:02:09Z,ragguard-cli,0.1.0,RAGGuard,MIT,25707,Check that your RAG index matches your source documents: a command line tool and an MCP server for AI assistants (RAGGuard).
+2026-11-16T18:04:39Z,engg-math-viz,0.0.1,Engineering Mathematics,Apache-2.0,9823,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-16T18:04:40Z,engineering-mathematics,0.0.1,Engineering Mathematics,Apache-2.0,9893,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-16T18:05:23Z,smart-study,0.1.0,,,13028786,Webcam-based study distraction monitor
+2026-11-16T18:06:46Z,dietgpu,0.1.0,"""Jeff Johnson (original author)"" <jhj@fb.com>, ""Yee Hin Chong (fork maintainer)"" <yuxuan-z19@qq.com>",MIT,1393300,Open-source GPU compression for PyTorch. ANS entropy coding for fp16/bf16/fp32 on CUDA-compatible devices. Free alternative to proprietary nvCOMP.
+2026-11-16T18:08:21Z,transmitly,1.6.0,,MIT,7789,Dependency-free Python client for the Transmitly email API
+2026-11-16T18:10:09Z,kotecharts,0.1.0,Kote Charts,MIT,18011,"Free Bitcoin on-chain analytics API & MCP server: MVRV, NUPL, SOPR, exchange flows, whales"
+2026-11-16T18:15:07Z,langchain-onlinecompiler,0.1.0,RunCode Inc.,MIT,32370,"LangChain tools for OnlineCompiler.io: let an agent run code, or judge code against test cases, in 46 languages in a sandbox"
+2026-11-16T18:15:30Z,esp32tl,0.1.0,Mateusz Sikora,MIT,1770750,"Test unmodified ESP32 firmware through its wires, on the esp32sim emulator or a real board."
+2026-11-16T18:15:43Z,eol-pin-check,0.1.0,referencesource.org,CC0-1.0,63689,"Find the runtime versions your repo pins — Python, Node.js, Ubuntu, Debian, Alpine, Go, PostgreSQL — and say whether the publisher has stopped supporting each one, with the publisher's own sentence a…"
+2026-11-16T18:16:18Z,heaven3d,3.2.0,lolgg313,Apache-2.0,5936764,Heaven3D: a 3D game engine and editor written in Python on ModernGL
+2026-11-16T18:19:57Z,wellfriend-document-sdk,0.2.0a2,,MIT,86593,Wellfriend Developer Platform v2 SDK

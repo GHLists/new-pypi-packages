@@ -1,146 +1,146 @@
 {
   "list": {
-    "count": 64,
-    "from": "2026-11-16T16:20:37.330091Z",
-    "path": "data/new-packages-2026-11-16T17-18-23-954584Z.csv",
-    "to": "2026-11-16T17:18:23.954584Z"
+    "count": 37,
+    "from": "2026-11-16T17:18:23.954584Z",
+    "path": "data/new-packages-2026-11-16T18-20-49-375341Z.csv",
+    "to": "2026-11-16T18:20:49.375341Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T17:12:36Z",
       "package": "amesa-cli-legacy",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T17:12:21Z",
       "package": "amesa-inference-legacy",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-16T15:26:38Z",
       "package": "azureaicommunity-agent-diagnostics-trace-diff",
       "since": "2026-11-16T15:18:19.132957Z",
       "version": "0.1.0a1"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-16T15:34:57Z",
       "package": "chameleon-ccauth",
       "since": "2026-11-16T15:18:19.132957Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T14:51:58Z",
       "package": "clapclap-navidrome",
       "since": "2026-11-16T14:20:54.107634Z",
       "version": "0.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T14:25:20Z",
       "package": "cuda-coop",
       "since": "2026-11-16T14:20:54.107634Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T14:22:11Z",
       "package": "cuda-coop-cutlass",
       "since": "2026-11-16T14:20:54.107634Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-16T14:17:10Z",
-      "package": "gs-usb-fd",
-      "since": "2026-11-16T13:20:34.148702Z",
-      "version": null
+      "attempts": 1,
+      "created_at": "2026-11-16T17:49:13Z",
+      "package": "granada",
+      "since": "2026-11-16T17:18:23.954584Z",
+      "version": "0.1.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T14:52:25Z",
       "package": "ljj-test",
       "since": "2026-11-16T14:20:54.107634Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:36:48Z",
       "package": "retico-alfred",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:41:20Z",
       "package": "retico-crisperasr",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:42:50Z",
       "package": "retico-fer",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:43:53Z",
       "package": "retico-gemini",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:44:45Z",
       "package": "retico-language-detection",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:46:13Z",
       "package": "retico-multilingual-tts",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:47:37Z",
       "package": "retico-ollama",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:48:33Z",
       "package": "retico-respeakermic",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:49:39Z",
       "package": "retico-rtdetr",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T16:51:11Z",
       "package": "retico-simplelogger",
       "since": "2026-11-16T16:20:37.330091Z",
       "version": null
     }
   ],
-  "serial": 43742864,
+  "serial": 43745484,
   "source_truncated": false,
-  "window": "2026-11-16T17:18:23.954584Z"
+  "window": "2026-11-16T18:20:49.375341Z"
 }
