@@ -1,12 +1,34 @@
 {
   "list": {
-    "count": 49,
-    "from": "2026-11-16T08:18:41.546611Z",
-    "path": "data/new-packages-2026-11-16T09-18-21-785475Z.csv",
-    "to": "2026-11-16T09:18:21.785475Z"
+    "count": 45,
+    "from": "2026-11-16T09:18:21.785475Z",
+    "path": "data/new-packages-2026-11-16T10-20-16-832866Z.csv",
+    "to": "2026-11-16T10:20:16.832866Z"
   },
-  "pending": [],
-  "serial": 43719935,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-16T09:43:21Z",
+      "package": "grapharch",
+      "since": "2026-11-16T09:18:21.785475Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-16T09:30:31Z",
+      "package": "my-signature",
+      "since": "2026-11-16T09:18:21.785475Z",
+      "version": "1.0.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-16T09:53:01Z",
+      "package": "tencentcloud-iac-publish-smoke-test",
+      "since": "2026-11-16T09:18:21.785475Z",
+      "version": "0.0.1"
+    }
+  ],
+  "serial": 43722558,
   "source_truncated": false,
-  "window": "2026-11-16T09:18:21.785475Z"
+  "window": "2026-11-16T10:20:16.832866Z"
 }

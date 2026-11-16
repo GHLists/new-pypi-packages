@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T09:20:34Z,universal-media-converter,0.2.0,Krishay Shah,MIT,70755,"A simple command-line media converter for video, audio and images, powered by FFmpeg."
+2026-11-16T09:22:12Z,brightdata-amazon-scraper,0.1.0,Bright Data,Apache-2.0,354315,"Amazon scraper in Python: products, reviews, sellers and search as JSON, on the Bright Data Amazon Scraper API (Web Scraper API). No login, no browser. 5,000 free credits a month."
+2026-11-16T09:22:13Z,brightdata-chatgpt-scraper,0.1.0,Bright Data,Apache-2.0,326823,"ChatGPT scraper in Python: ChatGPT answers, citations and sources for any prompt as JSON, by country, with web search and follow-up prompts, on the Bright Data ChatGPT Scraper API. No OpenAI API key,…"
+2026-11-16T09:22:28Z,brightdata-facebook-scraper,0.1.0,Bright Data,Apache-2.0,86342,"Facebook scraper in Python: page and group posts, comments, reels, pages, profiles, reviews, Marketplace, events and Meta Ad Library as JSON, on the Bright Data Facebook Scraper API. No Facebook logi…"
+2026-11-16T09:24:04Z,brightdata-fetch-api-scraper,0.1.0,Bright Data,Apache-2.0,49885,"Fetch API scraper in Python: any public web page as Markdown, plain text, HTML and JSON-LD, ready for an LLM, on the Bright Data Fetch API. Gets past bot blocks with no browser and no dependencies. 5…"
+2026-11-16T09:24:19Z,brightdata-tiktok-scraper,0.1.0,Bright Data,Apache-2.0,59115,"TikTok scraper in Python: profiles, posts, comments and TikTok Shop products as JSON, on the Bright Data TikTok Scraper API. No TikTok login, no browser. 5,000 free credits a month."
+2026-11-16T09:24:20Z,brightdata-linkedin-scraper,0.1.0,Bright Data,Apache-2.0,344341,"LinkedIn scraper in Python: profiles, companies, jobs and posts as JSON, on the Bright Data LinkedIn Scraper API (Web Scraper API). No LinkedIn login, no browser. 5,000 free credits a month."
+2026-11-16T09:25:40Z,brightdata-youtube-scraper,0.1.0,Bright Data,Apache-2.0,590899,"YouTube scraper in Python: videos, transcripts, Shorts, channels and comments as JSON, by URL, keyword, hashtag or channel, on the Bright Data YouTube Scraper API. No YouTube API key, no quota, no de…"
+2026-11-16T09:25:42Z,koreaaitel,0.77.2,,Apache-2.0,2562,"Official Python SDK for 한국AI통신 (Korea AI Telecom): Korean phone numbers, voice calls, and messaging API for AI agents"
+2026-11-16T09:27:43Z,supermemo-toolkit,0.2.12,tingshu <xinglan42w@outlook.com>,GPL-2.0-only,2249493,SuperMemo 增强工具(CLI命令行)。包含time时间梯度备份、e2sm图书转换(epub->xml)、imgfit调整当前元素图片大小、splitLine快捷分割当前元素、pathpix图链管理、math组件公式渲染和latex公式转图片、autotts卡片朗读、sm2anki发送item到anki、comptitle修补导出标题乱码、trace显示当前元素信息、无感执行菜单命令(fu…
+2026-11-16T09:30:50Z,abc-library,0.1.2,Hikauiro,,7873,A simple Python library
+2026-11-16T09:34:45Z,outlook-desktop-mcp-plus,0.4.0,Alexander Rolli,,168648,"Maintained fork of outlook-desktop-mcp: Outlook Desktop as an MCP server — Windows (COM) and macOS (AppleScript). No Graph API, no Entra app registration — just your local Outlook."
+2026-11-16T09:36:15Z,neuroviz-lab,0.1.0,Humza Ali,MIT,1626898,"See inside the model: run small ML models step by step and watch the forward pass, loss, backward pass and update as interactive 2D and 3D views."
+2026-11-16T09:37:01Z,podpack-mail,0.1.0,Steve Holden,MIT,15987,"Outbound mail for podpack sites, installed as an app"
+2026-11-16T09:38:15Z,pbfcut,0.1.0,,MIT,5051050,"Cut an OpenStreetMap .osm.pbf file into map tiles, H3 cells or areas"
+2026-11-16T09:40:34Z,minioj,0.1.0,,MIT,25029,Run configured exercise stages and report feedback on GitHub pull requests.
+2026-11-16T09:41:36Z,nonebot-plugin-yrr-fortune,1.0.1,YRR,MIT,4216784,NoneBot 每日运势卡片：七档运势、六维雷达、幸运信息、宜忌与六套模板
+2026-11-16T09:43:51Z,cityengine-mcp,0.1.0,,MIT,19521,"CityEngine Cloud MCP server: CGA parse / NL2CGA / text-to-3D for MCP clients (kimi code, codex, Claude Desktop)"
+2026-11-16T09:43:52Z,cityengine-tools,0.1.0,,Proprietary,16434,CityEngine Cloud tools for OpenAI-compatible function calling (deepseek/qwen/glm/gpt etc.)
+2026-11-16T09:45:36Z,acex-driver-cisco-ios-classic-cli,0.2.0,Johan Lahti,AGPL-3.0,33488,ACE-X Driver: Cisco IOS (classic) CLI SSH
+2026-11-16T09:46:00Z,wxdiagram,0.1.0,Andy Bulka <abulka@gmail.com>,MIT,141233,A zoomable shape-and-connector canvas for wxPython
+2026-11-16T09:46:02Z,numga,2.0.0,Eelco Hoogendoorn <hoogendoorn.eelco@gmail.com>,"MIT License Copyright (c) 2022 Eelco Hoogendoorn Permission is hereby granted, free of charge, to a…",527230,"Geometric algebra and extensors in NumPy, JAX, PyTorch and WebGPU"
+2026-11-16T09:46:37Z,medic-cli,0.1.1,Ali,MIT,88895,"Health-check CLI for pipeline checkpoints, CI, and watch-mode monitoring"
+2026-11-16T09:48:59Z,manyan,0.14.0,Ju Lin,MIT,5699701,"A fast model checker for TLA+, compatible with TLC and Apalache."
+2026-11-16T09:52:25Z,uller,0.0.1,The ULLER team,,2970,"Placeholder for ULLER, a unified language for learning and reasoning. Not yet released."
+2026-11-16T09:53:14Z,ateng-mcp-server-rag,1.0.0,Ateng <2385569970@qq.com>,Apache-2.0,800311,基于 Python 与 FastMCP 构建的高性能检索增强生成 (RAG) 模型上下文协议 (MCP) 服务，为大语言模型提供知识库检索与上下文增强能力。
+2026-11-16T09:54:44Z,agent-permission-linter,0.1.0,Shreyas Amaranath,Apache-2.0,260040,Detect AI agents holding more power than their declared task needs.
+2026-11-16T09:54:55Z,agent-acceptance,1.0.0,agent-acceptance contributors,Apache-2.0,54488,Deterministic test-evidence checks for AI-contributed PRs: verify added tests fail before and pass after the change. Report mode never blocks.
+2026-11-16T09:57:14Z,audace-display-gui,0.9.1,Invisensing,MIT,61884829,"Desktop viewer for Audace DAS recordings, driving audace-display's Python worker (installed by audace-display[gui])."
+2026-11-16T10:00:18Z,crowdsec_utils,0.1.2,JesseBot,AGPL-3.0-or-later,35514,A collection of small scripts to parse crowdsec alert and decision jsons into better json and more descriptive human readable formats
+2026-11-16T10:00:57Z,netinfra-phtaya-game-philippi-38w36,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5207,Technical network verification and high-availability endpoint registry for PHTaya Game Philippines Local Pilot Blast
+2026-11-16T10:05:33Z,rechtssysteem-mcp,0.3.3,The Coppola Connection <info@rechtssysteem.ai>,Apache-2.0,29400,"MCP server for leak-free prediction of Dutch court cases, trained on 609,715 rulings"
+2026-11-16T10:06:40Z,pytest-servex,0.1.3,Jorge Cardona <jorgeecardona@gmail.com>,MIT,42385,"Starts the Docker containers your tests need, once per test run, and shares them with all workers."
+2026-11-16T10:07:31Z,bookvox-misaki,0.9.5,hexgrad <hello@hexgrad.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",7418400,G2P engine for TTS
+2026-11-16T10:07:54Z,bookvox-kokoro,0.9.5,hexgrad <hello@hexgrad.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",26252119,TTS
+2026-11-16T10:08:33Z,taneko,0.1.1,,MIT,114273,"Download part of a long video. If it stops, run it again and it picks up where it stopped."
+2026-11-16T10:09:40Z,buildf3d,0.1.0,,MIT,3178911,Rust-backed reader for Autodesk Fusion F3D and F3Z archives
+2026-11-16T10:10:50Z,nodejax,1.0.0,Eelco Hoogendoorn <hoogendoorn.eelco@gmail.com>,MIT,243891,"Composable stateful objects in JAX: neural layers, physical plants, controllers, caches, replay buffers, and trainers under one algebra."
+2026-11-16T10:11:21Z,seanerstack,0.1.3,,Apache-2.0,74447,"Curated Spack recipes and environments for SEANERGYS, with synchronization, bootstrap, and validation tooling."
+2026-11-16T10:11:51Z,pynesys,0.1.0,PYNESYS LLC <hello@pynesys.com>,Apache-2.0,3889,PyneSys tools for Pine Script in Python: installs PyneCore with its CLI
+2026-11-16T10:14:52Z,nirnay-450m,0.2.0,Gautam Kishore <info@eulogik.com>,Apache-2.0,1711016,"NIRNAY 450M: bring your own labels, get calibrated decisions locally (Banking77 87.9%)"
+2026-11-16T10:15:12Z,smartflow-db,0.0.0,Smartflow Monitoring,,2315,Name reserved. This is an internal package and is not distributed on PyPI.
+2026-11-16T10:18:50Z,pynesys-pynecomp,0.1.0,PYNESYS LLC <hello@pynesys.com>,Apache-2.0,3886,"PyneComp, the Pine Script to Python compiler of PyneSys: installs PyneCore with its CLI"
+2026-11-16T10:18:51Z,pynesys-pyneide,0.1.0,PYNESYS LLC <hello@pynesys.com>,GPL-3.0-only,3856,PyneIDE is a VS Code extension: this package points to where to install it
+2026-11-16T10:18:52Z,pynesys-pynefair,0.1.0,PYNESYS LLC <hello@pynesys.com>,Apache-2.0,3527,"PyneFair, a project of PyneSys"
