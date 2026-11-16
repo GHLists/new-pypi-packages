@@ -8,45 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 01:20 UTC
+## Latest list — 2026-11-16 02:19 UTC
 
-New packages created between 2026-11-16 00:20 UTC and 2026-11-16 01:20 UTC.
+New packages created between 2026-11-16 01:20 UTC and 2026-11-16 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-16T01-20-08-154097Z.csv)
+[Full CSV](data/new-packages-2026-11-16T02-19-46-554629Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-16 00:23:52 | [winrt-Windows.ApplicationModel.DataTransfer.Interop](https://pypi.org/project/winrt-Windows.ApplicationModel.DataTransfer.Interop/) | 4.0.0 |  | 98.4 kB | Gets the DataTransferManager of a window, and shows the share sheet for it, fro… |
-| 2026-11-16 00:30:22 | [iragi](https://pypi.org/project/iragi/) | 0.2.0 | Yannick Magayane <yannickmaga… | 68.7 kB | Toolkit Python modulaire pour l'inspection de qualite de donnees et l'extractio… |
-| 2026-11-16 00:30:43 | [trialforge](https://pypi.org/project/trialforge/) | 0.1.0 | Richard Iannone <riannone@me.… | 16.4 MB | Synthetic CDISC clinical-trial data (SDTM, ADaM, define.xml) from declarative s… |
-| 2026-11-16 00:31:16 | [sipl-lang](https://pypi.org/project/sipl-lang/) | 0.1.1 | Роман Гринчак | 119.3 kB | SIPL (SImple Programming Language) toolkit: grammar, parser, typed AST, interpr… |
-| 2026-11-16 00:33:56 | [turbine-troubleshooter-bot](https://pypi.org/project/turbine-troubleshooter-bot/) | 1.0.0 | Adz1DoubleD | 119.9 kB | Telegram bot for wind turbine technicians: fault codes, spare parts and referen… |
-| 2026-11-16 00:35:31 | [tukuroi](https://pypi.org/project/tukuroi/) | 3.0.0 | Meta Platforms, Inc, Amethyst… | 525.8 kB | A lint framework that writes better Python code for you. |
-| 2026-11-16 00:36:07 | [ablago](https://pypi.org/project/ablago/) | 0.1.0 | Thomas Meissner | 1.0 MB | Python client for Ablago, the self-hosted document filing for home and small bu… |
-| 2026-11-16 00:36:07 | [choson-mcp](https://pypi.org/project/choson-mcp/) | 0.1.0 |  | 14.0 kB | MCP server for the Chosŏn conjoint API: run studies from Claude or any MCP clie… |
-| 2026-11-16 00:36:14 | [pytatui](https://pypi.org/project/pytatui/) | 1.0.0 | PyTatui contributors | 12.4 MB | Python bindings for Ratatui |
-| 2026-11-16 00:45:05 | [rulestamp-kakutei-shinkoku-tenpu-lint-jp](https://pypi.org/project/rulestamp-kakutei-shinkoku-tenpu-lint-jp/) | 1.0.2 | Rulestamp <support@getreadyst… | 41.4 kB | 確定申告の準備メモを所得税法120条・施行令262条と国税庁の添付ルールで検査するVS Code拡張（令和8年分・期限2027年3月15日） (bundled… |
-| 2026-11-16 00:45:25 | [rulestamp-kani-kazei-shokuhin-1pct-lint-jp](https://pypi.org/project/rulestamp-kani-kazei-shokuhin-1pct-lint-jp/) | 1.0.3 | Rulestamp <support@getreadyst… | 41.0 kB | 売上帳CSVの税率と事業区分を検査し、1%特例込みで納付税額を概算 (bundled Node.js runtime) |
-| 2026-11-16 00:45:43 | [rulestamp-kassenbeleg-tse-lint](https://pypi.org/project/rulestamp-kassenbeleg-tse-lint/) | 1.0.4 | Rulestamp <support@getreadyst… | 33.7 kB | 15 Regeln prüfen eine Belegvorlage gegen § 6 KassenSichV und § 146a AO; in der… |
-| 2026-11-16 00:46:02 | [rulestamp-koyo-hoken-ryoritsu-lint-r8](https://pypi.org/project/rulestamp-koyo-hoken-ryoritsu-lint-r8/) | 1.0.3 | Rulestamp <support@getreadyst… | 35.8 kB | 給与計算の設定・ソースに残った令和7年度以前の雇用保険料率を令和8年度率と照合 (6 rules) (bundled Node.js runtime) |
-| 2026-11-16 00:48:17 | [cum-median](https://pypi.org/project/cum-median/) | 0.1.0 |  | 1.8 MB | Cumulative median computation using C++ and pybind11 |
-| 2026-11-16 00:48:18 | [somadb](https://pypi.org/project/somadb/) | 0.0.0 |  | 1.8 kB | Placeholder for SomaDB, a portable, versioned SQL database for agent state. Not… |
-| 2026-11-16 00:49:02 | [tokenshark](https://pypi.org/project/tokenshark/) | 0.2.1 | Sumit <ksiiitm@gmail.com> | 770.0 kB | Open, inspect, edit, and train how open-weight language and image models comput… |
-| 2026-11-16 00:49:58 | [discogs-api-reference](https://pypi.org/project/discogs-api-reference/) | 0.1.0 | Jean-Marc Fontaine | 29.5 kB | Build a local Markdown copy of the Discogs API reference |
-| 2026-11-16 00:50:08 | [optris-sdk](https://pypi.org/project/optris-sdk/) | 12.0.7 | Optris GmbH & Co. KG | 49.6 MB | Python binding for the Optris thermal camera SDK: live temperature frames, meas… |
-| 2026-11-16 00:51:32 | [aws_sdk_sagemaker](https://pypi.org/project/aws_sdk_sagemaker/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_sagemaker name. Not yet functional. |
-| 2026-11-16 00:53:04 | [aws_sdk_resource_groups_tagging_api](https://pypi.org/project/aws_sdk_resource_groups_tagging_api/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_resource_groups_tagging_api name. Not yet fun… |
-| 2026-11-16 00:53:37 | [aws_sdk_elasticache](https://pypi.org/project/aws_sdk_elasticache/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_elasticache name. Not yet functional. |
-| 2026-11-16 00:54:17 | [aws_sdk_translate](https://pypi.org/project/aws_sdk_translate/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_translate name. Not yet functional. |
-| 2026-11-16 00:58:10 | [aws_sdk_comprehend](https://pypi.org/project/aws_sdk_comprehend/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_comprehend name. Not yet functional. |
-| 2026-11-16 00:58:52 | [aws_sdk_identitystore](https://pypi.org/project/aws_sdk_identitystore/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_identitystore name. Not yet functional. |
-| 2026-11-16 00:59:28 | [aws_sdk_geo_places](https://pypi.org/project/aws_sdk_geo_places/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_geo_places name. Not yet functional. |
-| 2026-11-16 01:00:15 | [aws_sdk_glue](https://pypi.org/project/aws_sdk_glue/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_glue name. Not yet functional. |
-| 2026-11-16 01:04:01 | [rua-bench](https://pypi.org/project/rua-bench/) | 0.0.1 |  | 6.0 kB | Benchmark suites and scoring for robot-use agents (RUA): load a suite, record e… |
-| 2026-11-16 01:08:05 | [coldread-tfm](https://pypi.org/project/coldread-tfm/) | 0.1.0 | ColdRead contributors | 197.1 kB | ColdRead tabular foundation model inference for classification and regression |
-| 2026-11-16 01:12:20 | [python-bl](https://pypi.org/project/python-bl/) | 0.9.0 |  | 460.7 kB | Python bindings for the bl C++ library. |
-| 2026-11-16 01:12:26 | [aws_sdk_mediaconvert](https://pypi.org/project/aws_sdk_mediaconvert/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_mediaconvert name. Not yet functional. |
-| 2026-11-16 01:12:44 | [aws_sdk_wafv2](https://pypi.org/project/aws_sdk_wafv2/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_wafv2 name. Not yet functional. |
-| 2026-11-16 01:13:02 | [aws_sdk_redshift_data](https://pypi.org/project/aws_sdk_redshift_data/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_redshift_data name. Not yet functional. |
-| 2026-11-16 01:13:16 | [aws_sdk_iot_data_plane](https://pypi.org/project/aws_sdk_iot_data_plane/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_iot_data_plane name. Not yet functional. |
-| 2026-11-16 01:13:25 | [rua](https://pypi.org/project/rua/) | 0.0.1 |  | 6.7 kB | The eval interface for rua-bench: how an agent and a benchmark task talk to eac… |
+| 2026-11-16 01:22:34 | [stille-hunter](https://pypi.org/project/stille-hunter/) | 0.3.0 | Forex Robotics Co., Ltd. | 185.8 kB | Generate leak-canary records and check them against leak sources. |
+| 2026-11-16 01:23:08 | [incident2chaos](https://pypi.org/project/incident2chaos/) | 0.1.0 | Yogesh Ramaswamy | 224.4 kB | Chaos Mesh and LitmusChaos experiments derived from real cloud incident reports |
+| 2026-11-16 01:23:56 | [alpha-led-sign](https://pypi.org/project/alpha-led-sign/) | 0.1.0 | Syne Ardwin | 134.5 kB | Typed Python control for Alpha-protocol LED message signs |
+| 2026-11-16 01:27:08 | [tia_databricks](https://pypi.org/project/tia_databricks/) | 0.1.0 | Fabricio D'Morison <fabricio.… | 23.8 kB | Databricks family for Tiozin, your friendly ETL framework |
+| 2026-11-16 01:29:33 | [gavvahar-access-kit](https://pypi.org/project/gavvahar-access-kit/) | 1.0.1 | Nihar Gavva | 74.1 kB | Shared backend toolkit for ClearRead and SoundSight |
+| 2026-11-16 01:31:28 | [democrazy](https://pypi.org/project/democrazy/) | 0.0.1 | Carson Coder <carson@carsonco… | 32.0 kB | The python sdk used for creating democrazy runners |
+| 2026-11-16 01:33:08 | [uwquest](https://pypi.org/project/uwquest/) | 0.1.0 | Amol Venkataraman | 62.2 kB | Read-first CLI and Python client for UWaterloo Quest (PeopleSoft) student self-… |
+| 2026-11-16 01:33:11 | [tplinkctl](https://pypi.org/project/tplinkctl/) | 0.1.1 | Amol Venkataraman | 126.5 kB | Read-first CLI and Python API for TP-Link routers, with connectivity diagnostic… |
+| 2026-11-16 01:33:13 | [transitlog](https://pypi.org/project/transitlog/) | 0.1.1 | Amol Venkataraman | 135.4 kB | Download and summarise your own transit-card trip and purchase history (Clipper… |
+| 2026-11-16 01:33:15 | [iclouddl](https://pypi.org/project/iclouddl/) | 1.0.1 | Amol Venkataraman | 29.4 kB | Download photos and videos from an iCloud shared album, for those without an Ap… |
+| 2026-11-16 01:35:52 | [pqplot](https://pypi.org/project/pqplot/) | 0.1.0 | Christian Ramirez | 156.2 kB | Chromosome ideograms and karyograms for matplotlib. |
+| 2026-11-16 01:36:32 | [crushdem](https://pypi.org/project/crushdem/) | 0.5.0 | Felipe Santibanez-Leal | 186.1 kB | Soft-sphere discrete element method for crushers: Hertz-Mindlin contacts with t… |
+| 2026-11-16 01:37:46 | [epoch-source-connections](https://pypi.org/project/epoch-source-connections/) | 0.1.0a4 |  | 81.1 kB | Typed Epoch source connections over Airbyte and the existing dataset APIs |
+| 2026-11-16 01:38:08 | [semver-check](https://pypi.org/project/semver-check/) | 1.0.0 | Clemens Schwaighofer | 9.9 kB | Add your description here |
+| 2026-11-16 01:39:27 | [netbridgeng](https://pypi.org/project/netbridgeng/) | 0.1.0 | Scott Peterman | 716.1 kB | Proof of concept: a network device's own telemetry, rendered as a ship's bridge… |
+| 2026-11-16 01:43:34 | [jp-receipt-normalize](https://pypi.org/project/jp-receipt-normalize/) | 0.1.1 | jp-receipt-normalize contribu… | 56.1 kB | Auditable normalization and candidate extraction for Japanese document OCR |
+| 2026-11-16 01:43:50 | [fortocorrpy](https://pypi.org/project/fortocorrpy/) | 1.0.0 | Jaebeom Kim, Minkyu Moon | 749.7 kB | Topographic correction of optical satellite imagery over rugged terrain, with m… |
+| 2026-11-16 01:43:55 | [norain](https://pypi.org/project/norain/) | 0.2.0 | jcy0chenyuan0 <jboxi@qq.com> | 318.7 kB | Norain：基于 sing-box 的 Hysteria2/Trojan 客户端与服务端控制层 |
+| 2026-11-16 01:45:51 | [agentic-fsm](https://pypi.org/project/agentic-fsm/) | 0.1.5 | OpenOutreach <hello@openoutre… | 68.8 kB | Entity lifecycles declared once and advanced the same way by code, a model or a… |
+| 2026-11-16 01:48:44 | [snow-agent](https://pypi.org/project/snow-agent/) | 0.1.0 | XiaodongTong | 263.1 kB | Cross-device command execution and agent orchestration CLI. |
+| 2026-11-16 01:50:00 | [kinema](https://pypi.org/project/kinema/) | 0.1.0 | Ved Patel | 257.0 kB | Quality checks for LeRobot robot-learning datasets: find the data problems that… |
+| 2026-11-16 01:51:02 | [nativehtmlkit-ui](https://pypi.org/project/nativehtmlkit-ui/) | 0.1.0 | NativeHTMLKit contributors | 15.1 kB | Minimal reactive UI toolkit for native HTML/CSS desktop applications |
+| 2026-11-16 01:51:18 | [teachers-pay-teachers-mcp](https://pypi.org/project/teachers-pay-teachers-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 15.8 kB | Connect Teachers Pay Teachers to ChatGPT, Claude and any AI agent through Cotle… |
+| 2026-11-16 01:51:23 | [discord-self-quest](https://pypi.org/project/discord-self-quest/) | 2.0.2 | ALLAY-XD-20 | 33.0 kB | Lightweight Python library and CLI to auto-complete Discord Quests. |
+| 2026-11-16 01:53:57 | [nativehtmlkit](https://pypi.org/project/nativehtmlkit/) | 0.1.1 | NativeHTMLKit contributors | 29.8 MB | Python SDK for the NativeHTMLKit native HTML/CSS desktop host |
+| 2026-11-16 01:56:38 | [strict-semantic-mcp](https://pypi.org/project/strict-semantic-mcp/) | 0.1.0 | Son Chau <46123450+noscn@user… | 110.3 kB | Strict semantic-view linter and deterministic, FinOps-safe SQL compiler with an… |
+| 2026-11-16 02:00:27 | [stageyy](https://pypi.org/project/stageyy/) | 0.1.0 | Trevor Wong | 12.2 kB | Add your description here |
+| 2026-11-16 02:01:59 | [aws_sdk_pinpoint_sms_voice_v2](https://pypi.org/project/aws_sdk_pinpoint_sms_voice_v2/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_pinpoint_sms_voice_v2 name. Not yet functiona… |
+| 2026-11-16 02:03:21 | [freedomllm](https://pypi.org/project/freedomllm/) | 0.0.0.dev0 | Yeongu Choe <yeongu.choe@iclo… | 15.8 kB | General-purpose LLM Inference Engine |
+| 2026-11-16 02:05:04 | [qor-harness](https://pypi.org/project/qor-harness/) | 0.1.0 |  | 223.1 kB | Ϙ A TUI-first Python agent harness |
+| 2026-11-16 02:09:25 | [aws_sdk_sso_admin](https://pypi.org/project/aws_sdk_sso_admin/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_sso_admin name. Not yet functional. |
+| 2026-11-16 02:10:01 | [ja3-tls-client](https://pypi.org/project/ja3-tls-client/) | 2.1.0 |  | 24.1 MB | HTTP client with JA3 / HTTP2 fingerprint spoofing (bundled Go tls-client backen… |
+| 2026-11-16 02:10:42 | [aws_sdk_location](https://pypi.org/project/aws_sdk_location/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_location name. Not yet functional. |
+| 2026-11-16 02:11:19 | [aws_sdk_s3_control](https://pypi.org/project/aws_sdk_s3_control/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_s3_control name. Not yet functional. |
