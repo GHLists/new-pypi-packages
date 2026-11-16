@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T00:23:52Z,winrt-Windows.ApplicationModel.DataTransfer.Interop,4.0.0,,MIT,98428,"Gets the DataTransferManager of a window, and shows the share sheet for it, from its handle."
+2026-11-16T00:30:22Z,iragi,0.2.0,Yannick Magayane <yannickmagayaneyan@gmail.com>,MIT,68740,Toolkit Python modulaire pour l'inspection de qualite de donnees et l'extraction documentaire.
+2026-11-16T00:30:43Z,trialforge,0.1.0,Richard Iannone <riannone@me.com>,MIT,16401863,"Synthetic CDISC clinical-trial data (SDTM, ADaM, define.xml) from declarative study specs."
+2026-11-16T00:31:16Z,sipl-lang,0.1.1,Роман Гринчак,,119285,"SIPL (SImple Programming Language) toolkit: grammar, parser, typed AST, interpreter, trace and CLI"
+2026-11-16T00:33:56Z,turbine-troubleshooter-bot,1.0.0,Adz1DoubleD,MIT,119931,"Telegram bot for wind turbine technicians: fault codes, spare parts and reference content behind approval-based access."
+2026-11-16T00:35:31Z,tukuroi,3.0.0,"Meta Platforms, Inc, Amethyst Reese, Jimmy Lai, Zsolt Dollenstein","MIT License Copyright (c) Facebook, Inc. and its affiliates. Copyright (c) 2026 Fkinds Permission i…",525796,A lint framework that writes better Python code for you.
+2026-11-16T00:36:07Z,ablago,0.1.0,Thomas Meissner,Apache-2.0,1003976,"Python client for Ablago, the self-hosted document filing for home and small businesses"
+2026-11-16T00:36:07Z,choson-mcp,0.1.0,,MIT,13991,MCP server for the Chosŏn conjoint API: run studies from Claude or any MCP client
+2026-11-16T00:36:14Z,pytatui,1.0.0,PyTatui contributors,MIT,12434643,Python bindings for Ratatui
+2026-11-16T00:45:05Z,rulestamp-kakutei-shinkoku-tenpu-lint-jp,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,41374,確定申告の準備メモを所得税法120条・施行令262条と国税庁の添付ルールで検査するVS Code拡張（令和8年分・期限2027年3月15日） (bundled Node.js runtime)
+2026-11-16T00:45:25Z,rulestamp-kani-kazei-shokuhin-1pct-lint-jp,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,40955,売上帳CSVの税率と事業区分を検査し、1%特例込みで納付税額を概算 (bundled Node.js runtime)
+2026-11-16T00:45:43Z,rulestamp-kassenbeleg-tse-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33727,15 Regeln prüfen eine Belegvorlage gegen § 6 KassenSichV und § 146a AO; in der mitgelieferten Beispielvorlage findet der Lint 8 Verstöße — 7 Fehler und 1 Warnung. § 379 Abs. 4 AO nennt für Verstöße g…
+2026-11-16T00:46:02Z,rulestamp-koyo-hoken-ryoritsu-lint-r8,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35796,給与計算の設定・ソースに残った令和7年度以前の雇用保険料率を令和8年度率と照合 (6 rules) (bundled Node.js runtime)
+2026-11-16T00:48:17Z,cum-median,0.1.0,,,1801203,Cumulative median computation using C++ and pybind11
+2026-11-16T00:48:18Z,somadb,0.0.0,,Apache-2.0,1753,"Placeholder for SomaDB, a portable, versioned SQL database for agent state. Not yet released."
+2026-11-16T00:49:02Z,tokenshark,0.2.1,Sumit <ksiiitm@gmail.com>,MIT,770044,"Open, inspect, edit, and train how open-weight language and image models compute in the browser, from pure Python."
+2026-11-16T00:49:58Z,discogs-api-reference,0.1.0,Jean-Marc Fontaine,Apache-2.0,29501,Build a local Markdown copy of the Discogs API reference
+2026-11-16T00:50:08Z,optris-sdk,12.0.7,Optris GmbH & Co. KG,LicenseRef-Optris-Proprietary,49567607,"Python binding for the Optris thermal camera SDK: live temperature frames, measurement regions, alarms and recording."
+2026-11-16T00:51:32Z,aws_sdk_sagemaker,0.0.0,,Apache-2.0,1980,Placeholder reserving the aws_sdk_sagemaker name. Not yet functional.
+2026-11-16T00:53:04Z,aws_sdk_resource_groups_tagging_api,0.0.0,,Apache-2.0,2179,Placeholder reserving the aws_sdk_resource_groups_tagging_api name. Not yet functional.
+2026-11-16T00:53:37Z,aws_sdk_elasticache,0.0.0,,Apache-2.0,1996,Placeholder reserving the aws_sdk_elasticache name. Not yet functional.
+2026-11-16T00:54:17Z,aws_sdk_translate,0.0.0,,Apache-2.0,1979,Placeholder reserving the aws_sdk_translate name. Not yet functional.
+2026-11-16T00:58:10Z,aws_sdk_comprehend,0.0.0,,Apache-2.0,1991,Placeholder reserving the aws_sdk_comprehend name. Not yet functional.
+2026-11-16T00:58:52Z,aws_sdk_identitystore,0.0.0,,Apache-2.0,2017,Placeholder reserving the aws_sdk_identitystore name. Not yet functional.
+2026-11-16T00:59:28Z,aws_sdk_geo_places,0.0.0,,Apache-2.0,1993,Placeholder reserving the aws_sdk_geo_places name. Not yet functional.
+2026-11-16T01:00:15Z,aws_sdk_glue,0.0.0,,Apache-2.0,1926,Placeholder reserving the aws_sdk_glue name. Not yet functional.
+2026-11-16T01:04:01Z,rua-bench,0.0.1,,,5990,"Benchmark suites and scoring for robot-use agents (RUA): load a suite, record episodes, report success rates."
+2026-11-16T01:08:05Z,coldread-tfm,0.1.0,ColdRead contributors,Apache-2.0,197120,ColdRead tabular foundation model inference for classification and regression
+2026-11-16T01:12:20Z,python-bl,0.9.0,,MIT,460745,Python bindings for the bl C++ library.
+2026-11-16T01:12:26Z,aws_sdk_mediaconvert,0.0.0,,Apache-2.0,2024,Placeholder reserving the aws_sdk_mediaconvert name. Not yet functional.
+2026-11-16T01:12:44Z,aws_sdk_wafv2,0.0.0,,Apache-2.0,1946,Placeholder reserving the aws_sdk_wafv2 name. Not yet functional.
+2026-11-16T01:13:02Z,aws_sdk_redshift_data,0.0.0,,Apache-2.0,2035,Placeholder reserving the aws_sdk_redshift_data name. Not yet functional.
+2026-11-16T01:13:16Z,aws_sdk_iot_data_plane,0.0.0,,Apache-2.0,2048,Placeholder reserving the aws_sdk_iot_data_plane name. Not yet functional.
+2026-11-16T01:13:25Z,rua,0.0.1,,,6729,"The eval interface for rua-bench: how an agent and a benchmark task talk to each other, and the loop that runs one episode."
