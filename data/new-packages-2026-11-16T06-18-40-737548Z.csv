@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T04:59:15Z,xrack,0.6.0,,MIT OR Apache-2.0,65354404,Declarative native UI for Python with XRack
+2026-11-16T05:20:52Z,prism-tui,1.5.0,,,9273657,Prism for the terminal — manage isolated Cursor profiles from your shell
+2026-11-16T05:22:08Z,breezeway-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15471,"Connect Breezeway to ChatGPT, Claude, Codex and Claude Code through the hosted Cotlet.dev MCP server."
+2026-11-16T05:22:26Z,openspective,0.1.0,Aryan Tah,Apache-2.0,50782,"Open-source, self-hosted drop-in replacement for Google's Perspective API. Same endpoints, same JSON, open models."
+2026-11-16T05:25:29Z,voyvoy,0.1.0,Roberto Yamanaka,MIT,328745,Let Claude Code call people: a fast voice agent talks on Google Meet while your Claude Code session answers and steers.
+2026-11-16T05:26:21Z,grundfos-modbus,0.1.0,grundfos-modbus contributors,Unlicense,58037,Read Grundfos MAGNA3 circulators and other E-pumps through a CIM 200/500 Modbus module.
+2026-11-16T05:26:27Z,mattergram,0.1.0a1,mattergram contributors,MIT,4626972,Native Mattermost bot framework with an aiogram-style programming model (under development)
+2026-11-16T05:27:24Z,clearfetch,1.0.0,ClearFetch Team <support@clearfetch.dev>,MIT,17009,Official Python SDK for ClearFetch (clearfetch.dev) - Unblocked Web & Anti-Bot Markdown/JSON Extraction for AI Agents.
+2026-11-16T05:29:46Z,vaani-kokoro-worker,0.1.1,Kirtika,GPL-3.0-or-later,38771,The Kokoro speech process Vaani runs as a separate program (GPL-3.0-or-later)
+2026-11-16T05:30:42Z,vogtcon,0.1.0,Jorge Carlos Urteaga Reyesvera,Apache-2.0,75277,Deterministic contracts and runtime governance for agents.
+2026-11-16T05:34:47Z,kinematics-sim,1.0.0,Nico Schuermann,MIT OR Apache-2.0,16802749,"Physics of belt-driven gantries and parallel pickers: runs, analyses, sizing verdicts and catalogue sizing, from Python."
+2026-11-16T05:35:11Z,homekit-camera-gstreamer,1.1,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",32767,
+2026-11-16T05:37:25Z,nodivium,2.0.0,Sri Venkata Satya Sai Eswar M,MIT,4176708,"Explore, visualize, and export NCBI, UniProt, and PDB records"
+2026-11-16T05:37:49Z,daz3d-mcp,1.0.1,Daz3D-MCP contributors,Apache-2.0,611376,MCP server and skills that let AI agents control Daz Studio
+2026-11-16T05:41:27Z,audio-studio-mcp,1.1.1,東京AI映像合同会社,MIT,676847,Local AI BGM and sound-effect generation (Stable Audio 3) as an MCP server
+2026-11-16T05:42:44Z,cc-crawl,0.1.0,cc-crawl contributors,MIT,107441,cc-crawl：轻量异步爬虫框架（curl_cffi 下载器，API 参考 Scrapy / feapder）
+2026-11-16T05:47:03Z,Norderem,10.12.3,tderk <usvu.tech@gmail.com>,MIT,60724964,Norderem // 终端套件 - 将 Norderem、博识终端、流感零和翡翠//线整合到一个启动器中
+2026-11-16T05:47:05Z,vernacbridge,1.0.0,VernacBridge Contributors,MIT,391579,A Python NLP library for understanding Tanglish (Tamil written in English letters).
+2026-11-16T05:47:49Z,procbrick,0.1.0,Peter Kulits,MIT,1016638,Procedural brick assemblies for BrickFlow
+2026-11-16T05:50:16Z,spec2py-runtime,0.1.0,Brendan Fahy <bmfahy@gmail.com>,MIT,54047,"Runtime library for spec2py-generated API clients: transport, retries, auth, pagination, streaming and uploads on httpx2 and Pydantic v2."
+2026-11-16T05:51:28Z,dj-pydantic-agents,0.1.1,Marcus A. Lee,MIT,127492,"Agent turns, streaming and approvals for Django, on Pydantic AI."
+2026-11-16T05:51:44Z,peffect,0.1.2,,,603967,
+2026-11-16T05:54:30Z,spec2py,0.1.0,Brendan Fahy <bmfahy@gmail.com>,MIT,253922,"A Python-only OpenAPI client generator: Pydantic v2 models, an httpx2 runtime, sync and async from one source, with pagination, retries and streaming built in."
+2026-11-16T05:55:14Z,orlin-sdk,0.0.1,Orlin Team <dev@orlin.cc>,Apache-2.0,2259,"Official Python SDK for Orlin — capabilities, in orbit."
+2026-11-16T05:55:15Z,orlin,0.0.1,Orlin Team <dev@orlin.cc>,Apache-2.0,2338,"Orlin — capabilities, in orbit. Controllable, auditable AI capability cloud."
+2026-11-16T05:56:11Z,hello-world-ratnesh151277,0.0.1,Ratnesh,,1199,A hello-world example package
+2026-11-16T06:00:57Z,argus-drivers-google,1.15.2,,Apache-2.0,31767,Gmail and Drive drivers for bounded Argus integration scenarios
+2026-11-16T06:02:16Z,ludamtalk,1.0.0,FRAMETECH STUDIO,MIT,13541,"루담톡(LudamTalk) 온라인채팅 봇 SDK — 게이트웨이 연결, 명령어, 임베드, 보안 봇, AI 봇"
+2026-11-16T06:03:53Z,gemini-video-pipeline,0.1.0,Google Cloud Consulting - Global Solution Delivery,Apache-2.0,70972,"Smart Video Chunker, Adaptive Ingestion Engine & Autonomous Agent Tool for Gemini"
+2026-11-16T06:06:45Z,xqo-schedules,3.1.0,dudikkocak,MIT,57854,"Scheduled and repeating tasks for xqo (cron, every, at)"
+2026-11-16T06:06:47Z,xqo-toolchains,3.1.0,dudikkocak,MIT,38529,"Node, Go, Rust and .NET setup for xqo run_code"
+2026-11-16T06:08:15Z,android-re-mcp,1.4.0,"FlyPhantomFly, mobile-security-mcp contributors",MIT,1553845,"Android dynamic analysis MCP server: adb, Frida, mitmproxy, apktool, jadx"
+2026-11-16T06:11:44Z,phantomdisk,0.0.1,,,2913,PhantomDisk SDK: a cloud drive for programs and AI agents. Not released yet; this version only holds the name.
+2026-11-16T06:14:48Z,siann,0.0.1,Victor Glazer,MIT,3899,Silicon approximate nearest neighbors: fast similarity search on Apple silicon (placeholder; in development)
+2026-11-16T06:15:00Z,sentinel-proof-mcp,0.1.0,,Apache-2.0,30654,"MCP server that checks an LLM answer against its sources: every number and citation verified, wrong citations fixed, unsupported claims removed. Local, no API key, no model."
+2026-11-16T06:15:25Z,clop-dit,1.1.0,Zeyu Fu,MIT,708436,CLOP-DiT: Text-conditioned single-cell latent generation via contrastive language-omics pretraining and diffusion transformers.
+2026-11-16T06:16:38Z,curlcast,0.1.0,CurlCast Contributors,MIT,64272,"Render photos, GIFs, and videos in crisp terminal art with synced audio."
