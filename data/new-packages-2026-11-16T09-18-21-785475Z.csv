@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T08:19:09Z,brez,0.0.1a0,,Apache-2.0,1738,Brez: Root-and-Delta Multi-Specialist LLM Serving & CLI
+2026-11-16T08:19:12Z,brez-format,0.0.1a0,,Apache-2.0,1810,Core .brez 2MB page-aligned container format and lineage hashing
+2026-11-16T08:19:15Z,brez-cli,0.0.1a0,,Apache-2.0,1791,"Brez CLI delta compiler, multi-engine launcher, and BrezHub client"
+2026-11-16T08:19:18Z,brez-vllm,0.0.1a0,,Apache-2.0,1793,Out-of-tree vLLM V1 plugin for Brez 2MB CuMem slab paging
+2026-11-16T08:20:06Z,monetarray,0.1.0,T0nyN1,MIT,261763,"High-performance, fixed-point multi-currency and FX pricing tensor engine based on NumPy. Zero float drift, portfolio revaluation, and banking-grade precision."
+2026-11-16T08:27:40Z,kargoplex,0.1.1,,MIT,17165,Official Python SDK for the Kargoplex public API.
+2026-11-16T08:28:49Z,pyathy,0.1.23,Mihai Banulescu,MIT,127699,Python acceptance testing harness (for) you: Gherkin for command-line programs
+2026-11-16T08:30:28Z,benchtare,0.0.1,Drew Scott,"MIT License Copyright (c) 2026 Drew Scott Permission is hereby granted, free of charge, to any pers…",316979,"A self-verifying HIL/SIL test framework for embedded systems, built on pytest."
+2026-11-16T08:31:24Z,dupe-hunter-kit,0.1.0,Your Name <you@example.com>,MIT,30412,Fast two-stage (file size + SHA-256) duplicate file finder and storage analyzer. Zero dependencies.
+2026-11-16T08:32:05Z,glossgenius-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15395,"Connect GlossGenius to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev, a hosted MCP server. No GlossGenius API key needed."
+2026-11-16T08:32:32Z,aba-khqr,0.1.0,aba-khqr contributors,MIT,26051,Python client for ABA PayWay QR payments and transaction status.
+2026-11-16T08:35:34Z,djangoer,0.1.0,nakita628,MIT,3649386,"A Studio for your Django models and their data: browse rows, run SQL, try ORM queries and see the SQL they send"
+2026-11-16T08:35:45Z,atmovault-client,0.1.0,Aleksandar Ivanov Ivanov,Apache-2.0,185954,"Client library, command line and local HTTP gateway for Atmovault, end-to-end encrypted file storage"
+2026-11-16T08:36:09Z,lambda-cloud-mcp,0.1.0,Anton Dziatkovskii,MIT,26628,"MCP server for the Lambda Cloud API: find, price and (optionally) launch GPU instances from an AI agent. Read-only by default."
+2026-11-16T08:36:09Z,pr-watch,1.0.1,Palo Alto AI Research Lab,MIT License Copyright (c) 2026 Anton Dzyatkovsky / Palo Alto AI Research Lab Permission is hereby g…,32389,"Outbound ledger + daily harvest digest for the pull requests and issues you opened in other people's repos. One file, stdlib, gh CLI, zero LLM."
+2026-11-16T08:36:27Z,secondop-panel,1.0.1,Palo Alto AI Research Lab,MIT License Copyright (c) 2026 Anton Dziatkovskii / Palo Alto AI Research Lab Permission is hereby…,67229,"A second opinion on your code from a PANEL of vendors, not one model. One reviewer is a special case of a panel, and it should be named out loud."
+2026-11-16T08:39:38Z,claim-check-ci,1.1.0,Palo Alto AI Research Lab,"MIT License Copyright (c) 2026 Palo Alto AI Research Lab Permission is hereby granted, free of char…",48769,"Every number you publish is a claim. Bind it to the artifact it came from and prove it in CI -- no LLM, no network, no dependencies."
+2026-11-16T08:39:51Z,verbatim-citation-gate,0.3.2,Palo Alto AI Research Lab,"MIT License Copyright (c) 2026 Palo Alto AI Research Lab Permission is hereby granted, free of char…",352520,"Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framework-agnostic."
+2026-11-16T08:40:21Z,mp2p-icp,3.2.0,Jose Luis Blanco-Claraco,BSD-3-Clause,22369549,"Point cloud registration (ICP), metric maps and point cloud pipelines, from the MOLA mp2p_icp C++ libraries"
+2026-11-16T08:42:58Z,anycubic-slicer-mcp,1.1.0,pcb,MIT,153752,"MCP server that lets AI agents slice, preview, diagnose and optimise 3D prints with Anycubic Slicer Next (Windows and macOS)"
+2026-11-16T08:43:45Z,zaguu-mcp,0.1.1,dataolllo,MIT,77904,MCP server for ZaGuu Arena — let autonomous AI agents compete in social strategy games
+2026-11-16T08:46:38Z,tactifoot-vision,0.3.0,Jakub Eichner <redhotdevil996@gmail.com>,Apache-2.0,425561,"Football video analysis: detection, tracking, team classification and pitch homography, from dataset preparation to tactical maps."
+2026-11-16T08:48:47Z,lima-lasercalc,0.1.0,LIMA,MIT,25565,激光加工常用参数计算库（高斯光束 / 能量密度 / 脉冲参数）
+2026-11-16T08:49:02Z,bulkparse,0.1.0,,MIT,20418812,Python bindings for the BulkParse Rust document engine
+2026-11-16T08:51:02Z,mola-metric-maps,3.5.0,Jose Luis Blanco-Claraco,GPL-3.0-only,10272289,"Metric map classes of MOLA (incremental point clouds, voxel maps, NDT, TSDF, keyframe maps), the layers of its .mm maps"
+2026-11-16T08:54:25Z,realnymetr-mcp,0.3.1,,"MIT License Copyright (c) 2026 RealnyMetr (realnymetr.pl) Permission is hereby granted, free of cha…",155544,"MCP server for RealnyMetr (realnymetr.pl) — query Polish real-estate analytics (listings, recorded sale prices, rents, valuations, forecasts) from Claude and other agents."
+2026-11-16T08:55:21Z,pywats-client,0.7.0b1,The WATS Company AS,"MIT License Copyright (c) 2024-2026 The WATS Company AS Permission is hereby granted, free of charg…",1339200,"WATS client for Python: converter service, offline queue and HTML/Qt configurator for pyWATS"
+2026-11-16T08:55:38Z,kron-otp,1.0.0,,MIT,8106,Lightweight TOTP generation and verification for Python.
+2026-11-16T08:55:52Z,coordconverterVMN,0.1.0,Vitumbiko Masuti Nyirongo <masutinyirongo@gmail.com>,,6550,A Python package for converting Decimal Degrees and Geographic Coordinates.
+2026-11-16T08:57:02Z,circle-codex-cli-bin,0.154.0,Ashish Verma,Apache-2.0,6188,Codex CLI runtime (unofficial fork with xAI provider) for the circle-codex Python SDK
+2026-11-16T09:00:00Z,cairn-code,0.3.7,,LicenseRef-Proprietary,25243572,Terminal coding agent
+2026-11-16T09:01:04Z,aiwan-workbuddy-image-tools-mcp,0.7.0,,MIT,39018,"Background keying, transparent-margin trimming, sheet splitting, resizing and format conversion for game UI assets, exposed as a WorkBuddy connector"
+2026-11-16T09:02:48Z,scraperack-browsers,0.2.0a1,,LicenseRef-Proprietary,12008,Browser sessions on a self-hosted Scraperack cluster through its browsers plugin
+2026-11-16T09:03:33Z,cleanup-claim-audit,0.1.0,hao li,MIT,21478,Offline auditor for documented temporary-file cleanup promises in Python projects.
+2026-11-16T09:03:43Z,piping-claim-audit,0.1.0,piping-claim-audit contributors,MIT,22341,Offline static audit of documented Python transport claims
+2026-11-16T09:03:51Z,watch-live-reload-claim-audit,0.1.0,watch-live-reload-claim-audit contributors,MIT,19447,Offline audit of documented filesystem observation behavior
+2026-11-16T09:04:00Z,python-version-claim-audit,0.1.0,python-version-claim-audit contributors,MIT,18381,Offline audit of documented Python version promises
+2026-11-16T09:04:01Z,usdm-minting-client,0.1.3,Utila,MIT,2254,USDm minting client
+2026-11-16T09:04:48Z,mjpn,6.0.0,Dr Yohanan Ouaknine <contact@yahasra.org>,MIT,39154,"Moroccan Jewish Phonetic Names (MJPN): phonetic root computation for Moroccan Jewish surnames, the engine behind yahasra.org"
+2026-11-16T09:11:59Z,laya-weights-part-00,0.1.0,,Apache-2.0,87053951,Part 0 of the laya-weights checkpoint (install laya-weights)
+2026-11-16T09:12:08Z,pricu,0.0.0.dev0,,GPL-3.0-only,2925,"Placeholder: name reserved for pricu, a Python interface to harmonized intensive care data (not released yet)."
+2026-11-16T09:13:02Z,nonebot-plugin-ccb,0.1.0,zebwqfox,MIT,20826,和群友发生赛博ccb行为的 NoneBot2 群娱乐插件
+2026-11-16T09:13:16Z,humanmd,0.1.0,,MIT,3441043,Initialize human-owned research and software project intent documents from Markdown templates.
+2026-11-16T09:13:51Z,laya-weights-part-01,0.1.0,,Apache-2.0,87168131,Part 1 of the laya-weights checkpoint (install laya-weights)
+2026-11-16T09:15:43Z,laya-weights-part-02,0.1.0,,Apache-2.0,87189344,Part 2 of the laya-weights checkpoint (install laya-weights)
+2026-11-16T09:15:48Z,patchsight,0.1.0,Niroj33,Apache-2.0,202495,"Know which vulnerable Python dependencies your code actually calls: symbol-level triage, no LLM at scan time."
+2026-11-16T09:16:56Z,inka-evidence,0.0.2,,MIT OR Apache-2.0,1857450,Emit inka test evidence v1 JSON from Python test adapters
+2026-11-16T09:17:25Z,sbmlsim-core,0.3.0,Matthias König,MIT AND BSD-3-Clause AND LGPL-2.1-or-later,35486208,Compile SBML models to WebAssembly and simulate them
+2026-11-16T09:17:38Z,laya-weights-part-03,0.1.0,,Apache-2.0,87170030,Part 3 of the laya-weights checkpoint (install laya-weights)
