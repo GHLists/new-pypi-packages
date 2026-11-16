@@ -1,76 +1,62 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-11-16T11:18:24.726631Z",
-    "path": "data/new-packages-2026-11-16T12-18-24-214821Z.csv",
-    "to": "2026-11-16T12:18:24.214821Z"
+    "count": 52,
+    "from": "2026-11-16T12:18:24.214821Z",
+    "path": "data/new-packages-2026-11-16T13-20-34-148702Z.csv",
+    "to": "2026-11-16T13:20:34.148702Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-16T11:25:59Z",
-      "package": "cozo-ng",
-      "since": "2026-11-16T11:18:24.726631Z",
+      "created_at": "2026-11-16T13:01:51Z",
+      "package": "google-agents-cli-extensions",
+      "since": "2026-11-16T12:18:24.214821Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-16T11:58:40Z",
-      "package": "eoapi-client",
-      "since": "2026-11-16T11:18:24.726631Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T09:43:21Z",
       "package": "grapharch",
       "since": "2026-11-16T09:18:21.785475Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-16T10:20:58Z",
       "package": "ldk-node",
       "since": "2026-11-16T10:20:16.832866Z",
       "version": "0.7.9999"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T09:30:31Z",
       "package": "my-signature",
       "since": "2026-11-16T09:18:21.785475Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-16T10:52:45Z",
       "package": "my-signatureu",
       "since": "2026-11-16T10:20:16.832866Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-16T12:12:04Z",
-      "package": "myshell_py",
-      "since": "2026-11-16T11:18:24.726631Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-16T10:40:51Z",
       "package": "rule-engine-mini",
       "since": "2026-11-16T10:20:16.832866Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T09:53:01Z",
       "package": "tencentcloud-iac-publish-smoke-test",
       "since": "2026-11-16T09:18:21.785475Z",
       "version": "0.0.1"
     }
   ],
-  "serial": 43726472,
+  "serial": 43729208,
   "source_truncated": false,
-  "window": "2026-11-16T12:18:24.214821Z"
+  "window": "2026-11-16T13:20:34.148702Z"
 }

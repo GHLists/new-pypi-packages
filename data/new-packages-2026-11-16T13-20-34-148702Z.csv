@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T11:25:59Z,cozo-ng,0.12.0,,,40388412,The Embedded Graph + Vector Database for AI Agents & GraphRAG in Python
+2026-11-16T11:58:40Z,eoapi-client,0.1.0,Development Seed,MIT,29669,Python client for eoAPI
+2026-11-16T12:12:04Z,myshell-py,0.2.0,,MIT,193745,"A Unix-style shell written in Python, with a built-in guide."
+2026-11-16T12:26:01Z,llm-eval-ci,0.1.0,llm-eval-ci,MIT,75863,"pytest for LLMs and agents in CI — deterministic, offline-first evals (stdlib only)"
+2026-11-16T12:26:17Z,cited-rag,0.1.0,cited-rag,MIT,46061,"Local RAG you can trust: every claim cited, or the answer refused."
+2026-11-16T12:30:00Z,jetbrains-pulumi-aws-irsa,999.9.9,,,969,Stub package that mitigates Dependency Confusion attacks
+2026-11-16T12:31:31Z,somestuff-hassstuff,0.1.0,Henning Thieß <ht@xomox.cc>,,41129,"Home Assistant over REST and WebSocket: typed clients plus a CLI for states, registries, helpers, automations, traces and Lovelace dashboards"
+2026-11-16T12:31:55Z,bidarhq,0.0.1,CyberHuginn <contact@cyberhuginn.com>,MIT,8535,Background error reporting SDK for Python and Django
+2026-11-16T12:32:32Z,myshell-py,0.2.0,,MIT,193745,"A Unix-style shell written in Python, with a built-in guide."
+2026-11-16T12:34:50Z,llm-json-heal,0.1.0,Rahul Karne,MIT,25313,"Extract, heal and parse JSON from messy LLM output: code fences, prose, trailing commas, missing commas, bad escapes and truncated replies."
+2026-11-16T12:34:53Z,wp-attack-surface,0.1.0,Rahul Karne,MIT,38247,"Map the attack surface of WordPress plugins: AJAX and admin-post actions, REST routes, shortcodes, admin pages, blocks and widgets, with nonce and capability check detection."
+2026-11-16T12:34:55Z,wp-security-rules,0.1.0,Rahul Karne,MIT,63262,"WordPress plugin security rules: Semgrep taint rules, 219 triage regex patterns, and CWE / severity / CVSS / remediation classification."
+2026-11-16T12:35:11Z,recovery-admission,0.1.3,Guigui Wang <wangguigui@correctover.com>,Apache-2.0,29268,"Falsifiable Recovery Admission suite: explicit decision table + independent verifier over 576 anchors (6 orthogonal dimensions). Dataset CC0, code Apache-2.0."
+2026-11-16T12:38:25Z,flum,1.0.0,FLUM contributors,EUPL-1.2,35145,Package for forest and other land uses mapping.
+2026-11-16T12:38:45Z,python-ship,0.1.0,python-ship,MIT,237031,"Framework-agnostic, cross-platform Docker development environment and portable releases for Python web apps."
+2026-11-16T12:39:00Z,tinymeow,0.1.1,,,12737,A small NumPy-based neural network library
+2026-11-16T12:39:51Z,meho-ui,0.2.0,evoila Group,Apache-2.0,180263,"Shared UI foundation for the MEHO web interfaces: brand, shell and test kit"
+2026-11-16T12:40:56Z,project-center-client,0.1.4,,,43916,Remote Project Center command-line client
+2026-11-16T12:41:11Z,job-iq,0.1.0,,,105189,"A local, single-user tool that remembers a job search."
+2026-11-16T12:42:07Z,cassiopee-transform-i8,2026.11,ONERA,LGPLv3,9671882,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-16T12:42:14Z,cassiopee-distributor2-i8,2026.11,ONERA,LGPLv3,6235721,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-16T12:43:40Z,cassiopee-i8,2026.11,ONERA,LGPLv3,6936,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-16T12:43:42Z,oic-sync,0.1.0,Open Image Cloud,Apache-2.0,105841,Keep openimages.cloud signed cloud images in sync with OpenStack Glance or Proxmox VE
+2026-11-16T12:45:22Z,tenhaw-ai-readiness,1.0.0,Tenhaw <hello@tenhaw.com>,MIT AND CC-BY-4.0,18356,"Deterministic, evidence-aware AI readiness assessment for internal tools."
+2026-11-16T12:47:15Z,netinfra-phtaya-game-set-1-pr-er3pm,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5430,Technical network verification and high-availability endpoint registry for PHTaya Game Set 1 PR Articles Blast
+2026-11-16T12:48:50Z,pypedigree,0.4.3,"Alexandre Mathieu <alexandre.mathieu@pasteur.fr>, Freddy Cliquet <freddy.cliquet@gmail.com>",MIT,978915,Generate publication-quality pedigree (family tree) diagrams from pedigree files
+2026-11-16T12:50:23Z,sqlite-guard-mcp,0.2.0,Atharva Siddhawar,"MIT License Copyright (c) 2026 Atharva Siddhawar Permission is hereby granted, free of charge, to a…",30943,"A read-only, security-hardened SQLite MCP server for local AI agents."
+2026-11-16T12:52:23Z,netinfra-phtaya-game-universi-qoa20,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,6229,Technical network verification and high-availability endpoint registry for PHTaya Game University Pads Blast
+2026-11-16T12:52:39Z,nnsmith-autofusex,0.1.2.post1,,Apache-2.0,209829,"""AutofuseX fork of NNSmith: automatic DNN generation for fuzzing and more."""
+2026-11-16T12:52:41Z,waymark-browser,0.2.0,guangxiangdebizi,MIT,32697,"CLI and stdio MCP bridge for Waymark, the open-source desktop browser shared by AI agents and humans."
+2026-11-16T12:52:46Z,medxpert-ortho-mcp,0.1.2,"""Zhao Xinghua (Steven Zhao)"" <zhaoxinghua09@gmail.com>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",58265,"Orthopedic device testing connector MCP server: lab matching, quotations, UDI, dual-temporal standards lookup, judgment trees, region routes, timelines, gap reports. Offline, zero dependencies, illus…"
+2026-11-16T12:52:53Z,york-dewpoint,0.1.0,YORK Instrument - Middle East <dubai@yorkinstrument.com>,MIT,15165,"Dew point, frost point, ppmV and ISO 8573-1 pressure dew point conversions (Sonntag 1990) for industrial gases and compressed air."
+2026-11-16T12:53:48Z,codex-sms,0.3.3,Codex SMS,,27040,Official Python SDK for Codex SMS verification and overseas mobile number services (https://shanma.store)
+2026-11-16T12:54:32Z,vidx,0.2.0,Renjith Kartha,MIT,3765736,Token-efficient video understanding + editing for LLM agents
+2026-11-16T12:54:49Z,kroner,0.1.0,Venkatakrishnan Ganesh,MIT,20531,"Parse cron expressions and compute run times, with time zone support"
+2026-11-16T12:56:59Z,humaninput-testing,0.2.0,humaninput contributors,MIT,2466609,"Find frontend timing bugs by typing like people do, then replay the exact failure."
+2026-11-16T12:58:13Z,tenhaw-ai-roi,1.0.0,Tenhaw <hello@tenhaw.com>,MIT AND CC-BY-4.0,14412,Explainable AI business cases separating cash savings and recovered capacity.
+2026-11-16T12:59:15Z,harrow-code,0.4.1,,,26916479,"Static analysis for Python projects: dead code, dependencies, cycles, complexity, duplication. Parses source only; never imports or runs it."
+2026-11-16T13:01:11Z,tutor-contrib-2fa,0.1.0,Abstract Technology,AGPL-3.0-only,120132,Authenticator-based two-factor authentication for Open edX with Tutor
+2026-11-16T13:01:32Z,kyvvu-acs,1.0.0,"""Kyvvu B.V."" <info@kyvvu.com>","Copyright 2026 Kyvvu B.V. Licensed under the Apache License, Version 2.0 (the ""License""); you may n…",297290,Kyvvu Guardian for the OWASP Agent Control Standard (ACS) — policy enforcement over the ACS JSON-RPC protocol
+2026-11-16T13:04:24Z,tenhaw-delivery-metrics,1.0.0,Tenhaw <hello@tenhaw.com>,MIT,28405,DORA and flow metrics with honest data coverage and local GitHub/Jira collectors.
+2026-11-16T13:04:40Z,nevia-sdk,0.0.0,,MIT,1944,Placeholder: this name is reserved for the official Nevia SDK. Not yet functional.
+2026-11-16T13:04:43Z,nevia-python,0.0.0,,MIT,1968,Placeholder: this name is reserved for the official Nevia SDK. Not yet functional.
+2026-11-16T13:08:12Z,altdatahub,0.1.0,Altdatahub Contributors,MIT,144278,封装中国人民银行征信中心「金融信用信息基础数据库替代数据通」产品的第三方 Python SDK（非官方）—— 10 个产品大类、51 个 productCode 的强类型封装与离线目录
+2026-11-16T13:08:27Z,kiosktunes-mcp,0.1.0,,MIT,157956,Local TTY music control through MCP and mpv
+2026-11-16T13:09:02Z,tenhaw,1.0.0,Tenhaw <hello@tenhaw.com>,MIT,11894,"Agent-friendly CLI for AI readiness, AI ROI and delivery metrics."
+2026-11-16T13:10:24Z,nuclide,0.1.0,Dait,MIT AND CC-BY-3.0,1096413,"Natural, unit-aware operations on nuclides and radioactive decay"
+2026-11-16T13:10:24Z,sowwic-json-config,1.0.7,Dima Shevchenko,MIT,32667,"Layered JSON configuration with typed pydantic values: stack JSON files, edit one layer, save only the overrides."
+2026-11-16T13:13:37Z,facturlint,0.2.0,FacturLint <contact@facturlint.com>,MIT,29776,"Official Python SDK & CLI for FacturLint — Factur-X 1.09.2, EN 16931 & BR-FR-CTC validation, PDF/A-3b envelope repair & audit API."
+2026-11-16T13:16:03Z,agentos-provider-openai-compat,0.17.0,,MIT,23749,"AgentOS executor for any OpenAI-compatible chat-completions server (Ollama, vLLM, LM Studio, OpenRouter, OpenAI) over plain HTTP"
+2026-11-16T13:18:14Z,early-stopping-is-self-care,0.1.0,So Overfit <sooverfit@mail.grokbot.com>,MIT,37365,A joke early-stopping companion callback for Keras and PyTorch Lightning. It roasts your overfit run and changes nothing.
+2026-11-16T13:19:47Z,agentos-provider-anthropic,0.17.0,,MIT,20489,"AgentOS executor for the Anthropic Messages API wire format (Anthropic, and Ollama's /v1/messages) over plain HTTP"
