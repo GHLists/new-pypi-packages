@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 52,
-    "from": "2026-11-16T12:18:24.214821Z",
-    "path": "data/new-packages-2026-11-16T13-20-34-148702Z.csv",
-    "to": "2026-11-16T13:20:34.148702Z"
+    "count": 57,
+    "from": "2026-11-16T13:20:34.148702Z",
+    "path": "data/new-packages-2026-11-16T14-20-54-107634Z.csv",
+    "to": "2026-11-16T14:20:54.107634Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-16T13:01:51Z",
-      "package": "google-agents-cli-extensions",
-      "since": "2026-11-16T12:18:24.214821Z",
+      "created_at": "2026-11-16T14:17:10Z",
+      "package": "gs-usb-fd",
+      "since": "2026-11-16T13:20:34.148702Z",
       "version": null
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-16T09:43:21Z",
-      "package": "grapharch",
-      "since": "2026-11-16T09:18:21.785475Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-16T10:20:58Z",
       "package": "ldk-node",
       "since": "2026-11-16T10:20:16.832866Z",
@@ -29,34 +22,20 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-16T09:30:31Z",
-      "package": "my-signature",
-      "since": "2026-11-16T09:18:21.785475Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-16T10:52:45Z",
       "package": "my-signatureu",
       "since": "2026-11-16T10:20:16.832866Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T10:40:51Z",
       "package": "rule-engine-mini",
       "since": "2026-11-16T10:20:16.832866Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-16T09:53:01Z",
-      "package": "tencentcloud-iac-publish-smoke-test",
-      "since": "2026-11-16T09:18:21.785475Z",
-      "version": "0.0.1"
     }
   ],
-  "serial": 43729208,
+  "serial": 43734007,
   "source_truncated": false,
-  "window": "2026-11-16T13:20:34.148702Z"
+  "window": "2026-11-16T14:20:54.107634Z"
 }
