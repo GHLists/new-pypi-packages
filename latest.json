@@ -1,41 +1,48 @@
 {
   "list": {
-    "count": 57,
-    "from": "2026-11-16T13:20:34.148702Z",
-    "path": "data/new-packages-2026-11-16T14-20-54-107634Z.csv",
-    "to": "2026-11-16T14:20:54.107634Z"
+    "count": 47,
+    "from": "2026-11-16T14:20:54.107634Z",
+    "path": "data/new-packages-2026-11-16T15-18-19-132957Z.csv",
+    "to": "2026-11-16T15:18:19.132957Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-11-16T14:51:58Z",
+      "package": "clapclap-navidrome",
+      "since": "2026-11-16T14:20:54.107634Z",
+      "version": "0.0.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-16T14:25:20Z",
+      "package": "cuda-coop",
+      "since": "2026-11-16T14:20:54.107634Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-16T14:22:11Z",
+      "package": "cuda-coop-cutlass",
+      "since": "2026-11-16T14:20:54.107634Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-16T14:17:10Z",
       "package": "gs-usb-fd",
       "since": "2026-11-16T13:20:34.148702Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-16T10:20:58Z",
-      "package": "ldk-node",
-      "since": "2026-11-16T10:20:16.832866Z",
-      "version": "0.7.9999"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-16T10:52:45Z",
-      "package": "my-signatureu",
-      "since": "2026-11-16T10:20:16.832866Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-16T10:40:51Z",
-      "package": "rule-engine-mini",
-      "since": "2026-11-16T10:20:16.832866Z",
-      "version": null
+      "attempts": 1,
+      "created_at": "2026-11-16T14:52:25Z",
+      "package": "ljj-test",
+      "since": "2026-11-16T14:20:54.107634Z",
+      "version": "0.1.0"
     }
   ],
-  "serial": 43734007,
+  "serial": 43736348,
   "source_truncated": false,
-  "window": "2026-11-16T14:20:54.107634Z"
+  "window": "2026-11-16T15:18:19.132957Z"
 }

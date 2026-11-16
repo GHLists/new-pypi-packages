@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T14:21:10Z,eternal-studio-core,0.0.1,Furkan Karabudak,Apache-2.0,951504,High-performance Rust native core engine for Eternal Studio.
+2026-11-16T14:23:10Z,python-can-gs-usb-fd,0.1.0,,MIT,32962,"python-can interface for CAN FD over gs_usb devices (tricore-debug-machine probe, candleLight FD)"
+2026-11-16T14:23:21Z,llevant,0.1.2,Alvaro Cubi,EUPL-1.2,33862254,"Fast, exact queries on MCNP geometry, from Python or the command line (python -m llevant)"
+2026-11-16T14:26:36Z,benigntwin,1.0.1,Enes Deniz <enes@altaysec.com.tr>,Apache-2.0,156827,"Benchmark prompt-injection detectors and LLM guardrails on matched benign/attack pairs: attack recall, false-positive rate and pair accuracy, per attack family and per language."
+2026-11-16T14:28:41Z,asimov-ptadata,0.1.0,Daniel Williams <daniel.williams@ligo.org>,"MIT License Copyright (c) 2026 Daniel Williams Permission is hereby granted, free of charge, to any…",161831,"Pulsar timing array data acquisition and reduction, with an Asimov pipeline plugin"
+2026-11-16T14:29:05Z,autoreader-gmail-mcp,0.1.0,AutoReader Team,MIT,48083,Production-grade multi-user Model Context Protocol (MCP) server for Gmail automation
+2026-11-16T14:30:12Z,tchipng,0.1.0,opn48 <cuba3@163.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",201830,甜气可见色压缩，供本机命令行和 Python 调用
+2026-11-16T14:34:07Z,ruml-parser,1.0.0,,Apache-2.0,204117,Providing Pydantic models for RUML and RUML Result
+2026-11-16T14:35:24Z,PyUtilsToolsKit,1.0.1,,,3073,Propose des classes qui permettent de contrôler des objets
+2026-11-16T14:35:47Z,kodachi,0.1.0,yuzujelly2222,MIT,22540,Approximate nearest neighbor search with random projection trees.
+2026-11-16T14:35:51Z,qobit,0.9.0,Piero Fiadino,GPL-3.0-or-later,518722,A bit-perfect Qobuz client with a terminal UI
+2026-11-16T14:36:27Z,ombrabrowser,0.1.0,Ombra Labs <hello@ombrabrowser.dev>,Apache-2.0,116735,Python SDK for Ombra stealth Chromium — drop-in Playwright launcher over CDP.
+2026-11-16T14:38:30Z,rustegon,0.1.0,The Rustegon Authors,Apache-2.0,317347,The official Python driver of the Rustegon document database.
+2026-11-16T14:39:00Z,abiz,2026.1116.1,ABIZ contributors,Apache-2.0,105195,"Check ABIZ (Agentic Business Record) DNS assertions and signed business records, ABIZ 1.1."
+2026-11-16T14:40:08Z,keithley2460-ophyd,0.1.0,,BSD-3-Clause,133747,Ophyd Flyer and instrument-local finite-sequence runtime for the Keithley 2460 SourceMeter
+2026-11-16T14:40:35Z,karnak-scan,0.2.0,,Apache-2.0,439776,"Security reconnaissance for codebases: secrets, dangerous patterns, supply chain, attack surface, and gated live probing"
+2026-11-16T14:40:35Z,pyharnx,0.1.0,Liyan Xu,MIT,355160,"A minimal agent harness in Python, built for experiments — a lightweight alternative to pi"
+2026-11-16T14:40:59Z,graph-me-maybe,0.1.73,Graph-Me-Maybe contributors,LicenseRef-PolyForm-Noncommercial-1.0.0,1686018,Graph-Me-Maybe: local-first multimodal graph RAG over documents
+2026-11-16T14:41:05Z,pandafile,0.2.0,3XAYA LTD <hello@pandafile.co>,MIT,59791,"Official Pandafile SDK: send large files with resumable uploads, file requests, e-signatures and webhooks."
+2026-11-16T14:42:27Z,shopify-json-ld-product-scraper-price-sk,0.1.0,Your Name <you@example.com>,MIT,31741,"A tiny pure‑Python scraper that extracts product data (price, SKU, stock, etc.) from Shopify collections, JSON‑LD and simple product pages."
+2026-11-16T14:42:53Z,dmarc-check,1.0.0,Lookproof <github@lookproof.dev>,MIT,67546,"CI checks for SPF, DMARC, DKIM, MX, MTA-STS and TLS-RPT. CLI and GitHub Action."
+2026-11-16T14:43:30Z,aispec-sdk,0.1.0,,Apache-2.0,36532,Official Python SDK for AISpec repositories
+2026-11-16T14:44:06Z,pure-docs-br,1.0.0,guilhermegor,MIT,24688,"Valida, aplica e remove a máscara de documentos brasileiros"
+2026-11-16T14:44:33Z,spiritcuffs,0.1.1,SpiritCuffs contributors,MIT,179040,A lightweight local tool that reviews your code with an LLM before every git push.
+2026-11-16T14:46:21Z,fb-reels-scraper,1.0.2,Ishan <ishan@example.com>,MIT,31586,Scrape Facebook Reels descriptions using your existing browser session via a WebSocket bridge.
+2026-11-16T14:47:37Z,agent-stress-lab,0.1.0,Eduard Smirnov,MIT,45361,A CLI harness for fault and regression tests of existing agents
+2026-11-16T14:50:09Z,sqlodet,0.3,a <abc012@acc.com>,BSD-2-Clause,2475342,Extensible SQL Library in Python folked from aiosql
+2026-11-16T14:51:36Z,fdemmer-django-db-geventpool,5.0,"Javier Cordero Martinez <j@jcmz.me>, Florian Demmer <fdemmer@gmail.com>",Apache-2.0,28802,"Fork of django-db-geventpool, a DB connection pool using gevent for Django"
+2026-11-16T14:53:02Z,tutor-agent,0.1.0,Jakob Ayo,MIT,80011,A personal tutor that watches Claude Code sessions and teaches the concepts behind them.
+2026-11-16T14:53:44Z,voicekit-py,0.1.0,Festus Kipkoech <koechfestus003@gmail.com>,MIT,18904,Python SDK for the Voicekit voice-agent server
+2026-11-16T14:54:25Z,supermimic-pytorch,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",8547,"Unofficial implementation of Supermimic, Scaling Humanoid Whole-Body Control with One Differentiable World Model"
+2026-11-16T14:55:32Z,cognee-connector-vercel,0.1.0,Cognee team,Apache-2.0,115548,"Vercel connector for cognee: syncs selected projects, deployments and optional failed build logs into cognee memory, incrementally and with forget-on-delete"
+2026-11-16T14:57:14Z,clapclap-cli,0.2.1,,,170016,"CLAP CLI for Navidrome. Track radio, album radio, artist radio, automatic playlists generation, etc..."
+2026-11-16T14:59:12Z,chemviz,0.1.0,Pablo Mas <pablovn.mas@gmail.com>,MIT,114809,"Fast, easy-to-install chemical space visualization: TMAP, UMAP, t-SNE and PCA"
+2026-11-16T14:59:44Z,roxy-regression,1.0.1,"Deaglan J. Bartlett, Harry Desmond",MIT,68259,Regression and Optimisation with X and Y errors
+2026-11-16T15:00:26Z,glasscode,1.1.0,Kristof Willen,GPL-3.0-only,47403,"Browse classes, functions and atrributes in Python codebases"
+2026-11-16T15:02:59Z,boarai,0.0.1,boarai,MIT,2962,"BoarAI - a microkernel, hot-pluggable, cross-platform AI agent framework (pre-release placeholder)"
+2026-11-16T15:04:42Z,svikruti,0.9.0,Harsh Kahate,MIT,489356,"Open-source privacy-as-code: code is the source of truth for DPDPA, GDPR and ISO/IEC 27701 evidence"
+2026-11-16T15:05:16Z,livekit-plugins-vaakini,0.1.0,Oggnai Technologies Private Limited,Apache-2.0,30949,LiveKit Agents plugin for Vaakini (https://vaakini.com): text to speech in 12 Indian languages
+2026-11-16T15:05:18Z,pipecat-vaakini,0.1.0,Oggnai Technologies Private Limited,Apache-2.0,33072,Pipecat TTS service for Vaakini (https://vaakini.com): text to speech in 12 Indian languages
+2026-11-16T15:05:20Z,vaakini,0.1.0,Oggnai Technologies Private Limited,Apache-2.0,45132,Python SDK for Vaakini (https://vaakini.com): text to speech in 12 Indian languages
+2026-11-16T15:05:28Z,asfexample,0.0.2,ASF Tooling,Apache-2.0,19902,Example package for ASF Tooling
+2026-11-16T15:06:05Z,stackcheck-mcp,0.1.0,,Apache-2.0,208962,"MCP server: latest stable npm/PyPI/Maven versions and the incompatibilities between them, in one call."
+2026-11-16T15:11:28Z,satham,0.1.0,Satham,Apache-2.0,72052,Async Python client for Satham's realtime speech-to-speech API
+2026-11-16T15:12:08Z,pipecat-satham,0.1.0,Satham,Apache-2.0,31592,Satham realtime speech-to-speech service for Pipecat
+2026-11-16T15:12:49Z,open-mt5-gateway,0.1.0,,MIT,26721,"Open-source, zero-DLL cross-platform MetaTrader 5 bridge for macOS, Linux, and Windows."
+2026-11-16T15:13:00Z,falkordb-auryn,0.1.0,Roi Lipman <roi.lipman@falkordb.com>,SSPL-1.0,3955659,Extracts structural metadata from source code (and SQL databases) into a FalkorDB knowledge graph for AI agent consumption. Umbrella package; language support ships as auryn-<lang> plugins.
