@@ -1,0 +1,63 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T15:19:26Z,pandasMFE,0.1.0,Gianmarco Scafarto,MIT,38290,"Risk and performance metrics (Sharpe, drawdown, VaR, CVaR) for pandas, with a .mfe accessor"
+2026-11-16T15:20:17Z,colorcat,0.1.0,Devin McCabe,MIT,43892,Generate maximally distinct colors for categorical data palettes.
+2026-11-16T15:20:58Z,musica-data,2026.10.20,ACOM MUSICA Developers <musica-support@ucar.edu>,Apache-2.0,6810079,Configuration and data files for the musica Python package.
+2026-11-16T15:22:03Z,ovos-audio-plugin-browser,0.1.0a1,Andreas Lorensen,Apache-2.0,22615,"OpenVoiceOS audio backend: plays music, radio and podcasts in a browser's <audio> element, over the messagebus"
+2026-11-16T15:22:36Z,katip-mask,0.1.0,Fikri Fırat,AGPL-3.0-only,374247,"Detect and mask Turkish personal data (KVKK) locally, with optional ONNX name models."
+2026-11-16T15:23:02Z,test-wakcp-server-pypi,0.1.0,usergwx,,3046,Add your description here
+2026-11-16T15:25:29Z,llmburn,0.0.1,Ian Abu,MIT,3482,See who's burning your AI budget: per-user LLM cost tracking and caps.
+2026-11-16T15:26:21Z,qriib_wesal,1.0.0,Qriib,Apache-2.0,65083,Qriib Python SDK for room management and meeting links.
+2026-11-16T15:32:02Z,solarcast-belgium,0.1.0,,Apache-2.0,412568,"Python toolkit for benchmarking energy forecasting models, starting with Belgian day-ahead solar PV."
+2026-11-16T15:32:41Z,electrochemistry-bluesky,0.1.0,,BSD-3-Clause,197910,"Bluesky battery-cycling experiments on the Keithley 2460: run sheets, QueueServer, HDF5 run files"
+2026-11-16T15:33:06Z,rsgments,0.2.1,MemeViber,Apache-2.0,58638464,Rust-accelerated state machine engine for Pygments
+2026-11-16T15:33:56Z,nano-receipt-ledger,0.2.0,,MIT,115949,"A public, append-only record of outward Nano payments, each carrying the block hash that proves it."
+2026-11-16T15:34:10Z,stealth-browser-cloud-sdk,0.1.0,Stealth Browser,MIT,36569,Dependency-free Python client for Stealth Browser cloud browsers and hosted agents.
+2026-11-16T15:35:24Z,lawliet-server,0.3.0,,Apache-2.0,8162117,"In-memory vector cache that speaks the Redis protocol. pip install, then start it from Python."
+2026-11-16T15:36:25Z,nabedra,0.1.0,,MIT,208493,Pure Python client for the Nabedra Database HTTP API
+2026-11-16T15:36:39Z,alter-sdk-brex,0.1.0,Alter Team,MIT,166711,Typed brex operations through Alter
+2026-11-16T15:37:27Z,lamellar,0.2.1,The lamellar Authors,Apache-2.0,133712,Armor for small local models: rules checked by code before the answer reaches you. Fully offline.
+2026-11-16T15:37:47Z,ingot-mail,0.1.0,Aliaksandr Karotki,Apache-2.0,19472,The mail of Ingots applications.
+2026-11-16T15:37:58Z,alter-sdk-docusign,0.1.0,Alter Team,MIT,662230,Typed docusign operations through Alter
+2026-11-16T15:38:28Z,kynsec-ai-guard,0.1.0,KynSec,MIT,101811,"Security auditor for local AI agent configurations, MCP servers, system prompts, and LLM deployment files."
+2026-11-16T15:38:29Z,livekit-plugins-satham,0.1.1,Satham,Apache-2.0,35330,Satham realtime speech-to-speech for LiveKit Agents
+2026-11-16T15:41:35Z,statsx,0.1.0,Jorge Cardona <jorgeecardona@gmail.com>,MIT,192816,"Statistics for Python with its own Rust core: Bayesian inference, forecasting, causal impact, tests and design, with NumPy as the only dependency."
+2026-11-16T15:42:27Z,wagtail-kanban-content-calendar,0.2.0,Jerry Reinitz,MIT,83091,"Kanban board and content calendar for Wagtail pages, inside the Wagtail admin."
+2026-11-16T15:44:26Z,dearpygui-implot3d,2.3.0.4,Zhi Liu,MIT,6101251,"Fork of DearPyGui with built-in ImPlot3D, NOT official DearPyGui"
+2026-11-16T15:44:33Z,hwpx-doctor,0.1.0,,MIT,732455,"Integrity checker and safe fixer for generated HWPX (OWPML) documents: container, manifest, and ID-reference checks for CI."
+2026-11-16T15:44:36Z,circle-codex,0.154.1,Ashish Verma,Apache-2.0,198960,Unofficial Codex Python SDK fork with a built-in xAI provider
+2026-11-16T15:44:55Z,buildish-release-tooling,0.1.2,Buildish <dev@buildish.org>,Apache-2.0,776950,Shared release orchestration tooling for Buildish components
+2026-11-16T15:45:47Z,tooldata-lint,0.1.1,,MIT,608078,"Lint tool-calling fine-tuning data (JSONL) before training: JSON Schema argument checks, call/response pairing, argument encoding."
+2026-11-16T15:46:36Z,anixcode,0.8.0,an1zy,MIT,182684,AI coding agent for the terminal. Bring your own API key.
+2026-11-16T15:47:28Z,gitty-messenger,4.1.0,,,22934,Secure terminal messenger with online users and timestamps
+2026-11-16T15:48:46Z,embeddedpy,0.1.0,lubanqihao9875,MIT,343822,"Write complete C99 using valid Python syntax: compile .py source into full C source files, declaration headers, or linkable libraries — the same program also runs directly under CPython"
+2026-11-16T15:49:13Z,cie-genai-lab,0.1.2,,MIT,134291,"CIE GenAI lab notebooks. Install, then call cie_lab.inject(1) through cie_lab.inject(7) to paste one program into the open notebook."
+2026-11-16T15:50:32Z,commitguard-kynsec,3.4.2,Amr Khaled Ahmed <amr171516@gmail.com>,Apache-2.0,923583,"Fast, offline-first local security control plane for secrets, SAST, dependencies, and policy gating."
+2026-11-16T15:55:13Z,bitcoindatalabs-mcp,0.1.1,Saurabh Kumar,MIT,38260,"Zero-clone Model Context Protocol (MCP) server for Bitcoin Data Labs open telemetry: Bitcoin Core governance, BIPs, OSS ecosystem security posture (1,009 repos), Lightning security research, mining c…"
+2026-11-16T15:55:28Z,veery,0.1.0a1,Nataly Panczyk <nrpanczyk@gmail.com>,MIT,35874,A Validation Environment for Exposing RiskY models
+2026-11-16T15:56:59Z,arb-universal-ide,2.0.0,Aarav Roy Bhattacharya,Apache-2.0,2513,100% offline AI multi-language compiler IDE powered by embedded local Qwen 2.5 Coder.
+2026-11-16T15:57:56Z,gukhanmun-cli,0.4.0.dev362,Hong Minhee <hong@minhee.org>,GPL-3.0-only AND LicenseRef-CC-BY-SA-2.0-KR AND LicenseRef-NIKL-Free-Use,89837994,The standalone Gukhanmun commands with bundled dictionaries
+2026-11-16T15:58:03Z,kelder,0.0.1,Adam Mercer,GPL-3.0-or-later,78058,Run Claude Code in a smolvm guest with host directories attached
+2026-11-16T15:59:04Z,django-octo-uml,0.1.0,jeanpmodev <jeanpmodev@gmail.com>,MIT,132365,Interactive runtime Django UML visualizer under Django-Octo.
+2026-11-16T16:00:40Z,graphxlib,0.1.0,Your Name <you@example.com>,MIT,13928,"Graph algorithms toolbox: BFS, Dijkstra, Bellman-Ford, Floyd-Warshall, MST, topological sort."
+2026-11-16T16:01:24Z,passkit,0.0.1,,GPL-3.0-or-later,1723,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-16T16:01:27Z,passkit-agora,0.0.1,,GPL-3.0-or-later,1794,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-16T16:01:29Z,passkit-chorus,0.0.1,,GPL-3.0-or-later,1804,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-16T16:01:30Z,passkit-argus,0.0.1,,GPL-3.0-or-later,1794,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-16T16:02:05Z,kuzychat,0.8.18,Michele Renda,AGPL-3.0-or-later,1337367,JSON-first XMPP chat client for Kuzys agents.
+2026-11-16T16:02:11Z,kuzytrig,0.2.16,Michele Renda,AGPL-3.0-or-later,185617,Local activation scheduler for Kuzys agents.
+2026-11-16T16:02:15Z,kuzymount,0.2.1,Michele Renda,AGPL-3.0-or-later,77788,JSON-first SSHFS mount manager for agent personal shares.
+2026-11-16T16:02:18Z,kuzyquota,0.1.3,Michele Renda,AGPL-3.0-or-later,75750,JSON-first local quota reporter for agent runtimes.
+2026-11-16T16:05:09Z,noneto-cli,1.1.1,VincentPelos,MIT,260997,Unofficial TIDAL client for the terminal.
+2026-11-16T16:06:13Z,argus-herald,0.2.0,smk762,MIT,371021,"Release announcements for any Python package: drafted from PyPI and GitHub, held for review, published to your channels."
+2026-11-16T16:06:29Z,pcdd,0.4.0,aledepaoligampel,MIT,66571,Progressive Change-Driven Development: a local toolkit for working with AI coding agents
+2026-11-16T16:07:41Z,guardrail-engine,0.2.0,rain610,MIT,1407162,"A stdlib-only code-gate engine for AI-assisted repos: one shared rule engine, with CLI and MCP shells. Wheels bundle the engine (guardrail-engine init)."
+2026-11-16T16:09:59Z,hypergraph-rewriting-engine,1.0.0rc3.post2,,"MIT License Copyright (c) 2025 The Wolfram Institute Permission is hereby granted, free of charge,…",27560293,"Multiway hypergraph rewriting with the HypergraphRewriting engine, in-process"
+2026-11-16T16:10:19Z,csv2sef,1.0.0,"Vicky Slonosky <VickyS08@users.noreply.github.com>, Hervé Hacot <hhacot@users.noreply.github.com>",MIT,77192,convert transcribed historical weather observations (csv / Excel) into the Station Exchange Format (SEF 1.0.0).
+2026-11-16T16:10:19Z,tenet-tools-ai-essentials,0.0.0,,Apache-2.0,2059,Name reserved for the Tenet platform's tenet-tools-ai-essentials distribution. Not yet published.
+2026-11-16T16:10:32Z,tenet-tools-ai-factory,0.0.0,,Apache-2.0,2027,Name reserved for the Tenet platform's tenet-tools-ai-factory distribution. Not yet published.
+2026-11-16T16:10:45Z,tenet-tools-ai-gui,0.0.0,,Apache-2.0,1984,Name reserved for the Tenet platform's tenet-tools-ai-gui distribution. Not yet published.
+2026-11-16T16:10:58Z,tenet-tools-ai-integrations,0.0.0,,Apache-2.0,2079,Name reserved for the Tenet platform's tenet-tools-ai-integrations distribution. Not yet published.
+2026-11-16T16:12:02Z,bota-filters,1.0.1,Raul Cruz-Oliver <support@botasys.com>,,1294294,Python binding for the Bota Filters C++ library
+2026-11-16T16:14:23Z,databucket-client,2.0.0,Krzysztof Słysz,MIT,43174,"Client for Databucket (test data management): find, reserve, change and remove test data from your automated tests"
+2026-11-16T16:15:43Z,rustmy,1.0.0,M4RC0Sx <contact@marcosalonso.dev>,MIT OR Apache-2.0,86287861,"Fast DB-API 2.0 driver for MySQL/MariaDB written in Rust, no system libraries required"
+2026-11-16T16:16:08Z,package-foundry,26.11.3,Beyonder GmbH <hello@beyonder.eu>,"MIT License Copyright (c) 2023 Beyonder GmbH Permission is hereby granted, free of charge, to any p…",108030,Render and maintain the boilerplate of many Python and Django packages from a single metadata file.
