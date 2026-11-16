@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T04:25:15Z,inqaba,0.1.0,Dr. Rainer Burkhardt,Apache-2.0,29444,"Shared Python filesystem, configuration, command, and media boundaries for RAIkeep."
+2026-11-16T04:25:18Z,umgodi-json,0.1.0,Dr. Rainer Burkhardt,Apache-2.0,607480,"Distributed, cloud-drive-backed JSON persistence for Python with immutable history and multi-process synchronization."
+2026-11-16T04:26:42Z,mirage-geo,1.3.0,Jordan Zavaleta,GPL-3.0-or-later,981458,Reproducible raster lineament extraction without geological origin inference
+2026-11-16T04:28:42Z,virtudoc,0.1.0,Sergey Romanov <xxsmotur@gmail.com>,MIT,89434,"Local documentation server for AI agents (MCP, SQLite FTS5)"
+2026-11-16T04:34:25Z,evalnoise,0.1.0,Meenal Asesh,MIT,61572,"Where does the noise in an eval score come from? Split it across questions, judges, prompt wordings and runs, and plan where to spend the next API calls"
+2026-11-16T04:35:57Z,blastingpy,0.1.0,Miqueas Quintanilla Ventura <miqueasq@gmail.com>,MIT,4377176,"Blast vibration, airblast, flyrock and near-field analysis for mining. C++ core, Python API"
+2026-11-16T04:36:31Z,nexusbt-tds,0.0.1,coolbress,Apache-2.0,1878,NexusBT Data Standard (TDS) conformance checker (placeholder; first real release will be 1.0).
+2026-11-16T04:41:47Z,dft-rs-python,0.4.0,ss0832 <highlighty876@gmail.com>,Apache-2.0,8971969,Pure-Rust Gaussian-basis molecular and finite-k periodic Kohn-Sham DFT with Python and ASE interfaces
+2026-11-16T04:42:49Z,django-octo-aurora,0.1.1,jeanpmodev <jeanpmodev@gmail.com>,MIT,343955,Decoupled Django runtime software topology visualizer and interactive architecture showcase module under the Django-Octo ecosystem.
+2026-11-16T04:42:55Z,oxicells,0.1.0,,MPL-2.0 AND (MIT OR Apache-2.0),65649424,"Run supported Excel workbook VBA without Microsoft Excel, using the Oxi engine."
+2026-11-16T04:43:17Z,agentcabin,0.2.0,,,153965,Build and run SSH + VNC desktop containers for AI coding agents with rootless podman
+2026-11-16T04:44:13Z,nciplot-rs-python,0.1.0,ss0832 <highlighty876@gmail.com>,Apache-2.0,79459,"Real-space NCI, IGM, and IGMH analysis and offline molecular visualization"
+2026-11-16T04:44:51Z,rolloutwatch,0.1.0,Meenal Asesh,MIT,57371,"Did my prompt or model change make things worse? Watch LLM quality after a change, checking as often as you like without false alarms"
+2026-11-16T04:47:13Z,xlio,0.1.0,Ethan Post,MIT AND LicenseRef-Ecma-Text-Copyright-Policy,361930,"Internal xlsx reader and writer of the sheetmill project, extracted from xlrecalc; not intended for direct use."
+2026-11-16T04:48:27Z,myuri,3.0.4,Jake Writer,LGPL-3.0-or-later,125144,"API-agnostic human-like browser cursor, keyboard, and scroll simulation. Bring your own driver (Playwright, CDP, or custom)."
+2026-11-16T04:53:28Z,buwigs-auth-sdk,0.2.0a1,,Apache-2.0,25683,Buwigs Auth OIDC integration helpers
+2026-11-16T04:54:38Z,hypra,0.2.0,,,2590889,"Native exact hypergeometric epsilon expansions in SymPy, inspired by HypExp2"
+2026-11-16T04:56:53Z,ratchet-authz-mcp,0.1.0,Manideep Pendyala,MIT,8421,MCP resource-server adapter for the Ratchet authorization broker.
+2026-11-16T04:59:20Z,lanka-rag,0.1.1,Nipuna Lakruwan,MIT,64890,"Local-first Sinhala/Tamil RAG with Ollama + LangChain, and a retrieval benchmark of embedding models on Sinhala, Tamil and Singlish."
+2026-11-16T05:04:02Z,prolog-practicals,1.0.0,Prateek Yadav,MIT,24419,"15 ready-to-run Prolog lab programs, saved to a roll-number folder on your Desktop from a simple menu"
+2026-11-16T05:04:26Z,shap-rs,0.1.0,Atomic Labs LLC,,5732807,"Fast SHAP values: a drop-in Rust engine for the shap library. Same values, 10-80x faster TreeSHAP for XGBoost, LightGBM and random forests."
+2026-11-16T05:05:05Z,agentspec-sdk,0.5.0,,,65203,Universal Agent Manifest SDK for Python agents
+2026-11-16T05:05:35Z,mini-aiohttp,0.1.0,,MIT,18457,"A small, dependency-free async HTTP/1.1 client and server built on asyncio"
+2026-11-16T05:07:46Z,pastclimate,0.1.0,PastClimate,MIT,48898,"Official Python client for the PastClimate API: historical daily, hourly, monthly and yearly weather, climate normals and records."
+2026-11-16T05:07:54Z,maximem-synap-cli,0.3.5,Maximem <hello@maximem.ai>,Proprietary,174802,maximem-synap — provision and operate Synap from your terminal
+2026-11-16T05:08:39Z,teloce-npm,0.1.0,Aldane Hutchinson <aldanehutchinson5@gmail.com>,MIT,185564,Use npm packages in .vel files or plain html without Node.js or node_modules.
+2026-11-16T05:09:06Z,scitex-affairs,0.1.0,SciTeX Contributors,AGPL-3.0-only,15833071,"Single-source business and personal affairs: catalogs, actuals, scenarios, reports, and plots"
+2026-11-16T05:09:15Z,ewsgraph,0.1.0,SD Software LLC,,526417,exchangelib-compatible API on Microsoft Graph
+2026-11-16T05:10:11Z,bitmomo,0.1.0,BitMomo,MIT,41940,BitMomo merchant SDK: accept crypto payments and verify webhooks in Python
+2026-11-16T05:12:45Z,jarvis-ai-agent-cli,2.0.0,Mohit Patel,MIT,175622,Personal AI Assistant and Autonomous System Controller
+2026-11-16T05:16:35Z,datacheckup,0.1.0,Corefix Group,MIT,38630,"Find the exact row and column of every error in a CSV or JSON file, with no setup and no database."
+2026-11-16T05:16:44Z,dataquorum,0.0.1,krtk06,MIT,10566,A team of AI data-science agents that must prove their work.

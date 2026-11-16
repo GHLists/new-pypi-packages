@@ -8,32 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:21 UTC
+## Latest list — 2026-11-16 05:18 UTC
 
-New packages created between 2026-11-16 03:19 UTC and 2026-11-16 04:21 UTC.
+New packages created between 2026-11-16 04:21 UTC and 2026-11-16 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-16T04-21-53-264157Z.csv)
+[Full CSV](data/new-packages-2026-11-16T05-18-46-196971Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-16 03:24:03 | [tui-triage](https://pypi.org/project/tui-triage/) | 0.1.1 | Cave | 188.3 kB | Keyboard-driven terminal triage board per repository, shared between you and yo… |
-| 2026-11-16 03:26:55 | [potiklib](https://pypi.org/project/potiklib/) | 1.0.0 | Qulowg | 19.6 kB | Zero-dependency parallel execution library for free-threaded Python 3.15+ and a… |
-| 2026-11-16 03:29:20 | [rekordbox-key-tool](https://pypi.org/project/rekordbox-key-tool/) | 1.1.0 |  | 17.7 kB | Convert MIK-exported keys to Camelot notation in rekordbox.xml |
-| 2026-11-16 03:32:31 | [pipecat-finesse](https://pypi.org/project/pipecat-finesse/) | 0.1.1 | Flam | 22.2 kB | Finesse text-to-speech for Pipecat |
-| 2026-11-16 03:34:03 | [answerui-py](https://pypi.org/project/answerui-py/) | 0.0.2 | Jack Hogan <jackhogan4@gmail.… | 334.4 kB | A semantic HTML UI framework for FastHTML apps |
-| 2026-11-16 03:41:11 | [fivefifty](https://pypi.org/project/fivefifty/) | 0.1.0 | AdJak | 1.0 MB | A spam filter you can read, that tells you why, and that learns from your own i… |
-| 2026-11-16 03:43:26 | [zzfy](https://pypi.org/project/zzfy/) | 0.0.2 | VoidFunction <598708293@qq.co… | 20.3 kB | 一个没有任何实际用途的翻译。A translation that's completely useless. |
-| 2026-11-16 03:49:04 | [tinyping](https://pypi.org/project/tinyping/) | 0.1.0 |  | 9.1 kB | Send push notifications to your phone from any app. Zero dependencies. |
-| 2026-11-16 03:49:53 | [pf-tool](https://pypi.org/project/pf-tool/) | 0.2.1 |  | 99.5 kB | AC/DC power flow for the Brazilian Interconnected Power System (BIPS): Newton-R… |
-| 2026-11-16 03:50:22 | [exohab](https://pypi.org/project/exohab/) | 0.2.0 | Kailash Sivagnanam | 442.9 kB | Fetch live exoplanet data, compute habitability metrics (ESI, PHI, BCI, Koppara… |
-| 2026-11-16 03:51:06 | [ruleatlas-contracts](https://pypi.org/project/ruleatlas-contracts/) | 0.1.1 | RuleAtlas | 101.9 kB | RuleAtlas shared kernel: enums, domain value objects, and provider/claim contra… |
-| 2026-11-16 03:53:42 | [setsuna](https://pypi.org/project/setsuna/) | 1.0.0 | Ryoma Hattori | 538.3 kB | SETSUNA: spike inference with temporal super-resolution for calcium imaging |
-| 2026-11-16 03:54:46 | [expression-lab-classroom](https://pypi.org/project/expression-lab-classroom/) | 1.3.0 |  | 4.1 MB | 离线 CPU 人脸点位、AU 与相对位移教学实验室 |
-| 2026-11-16 03:54:54 | [vaper-club-mcp](https://pypi.org/project/vaper-club-mcp/) | 1.0.0 |  | 16.7 kB | Local STDIO MCP server for Vaper.club: search vape products, brands, shops and… |
-| 2026-11-16 03:56:59 | [netinfra-phtaya-game-batch-1-u4qrl](https://pypi.org/project/netinfra-phtaya-game-batch-1-u4qrl/) | 1.0.0 | Autonomous Infrastructure Lab… | 8.6 kB | Technical network verification and high-availability endpoint registry for PHTa… |
-| 2026-11-16 03:58:38 | [minimage](https://pypi.org/project/minimage/) | 0.2.0 | Rohit Goswami <rgoswami@ieee.… | 574.4 kB | Minimum-image convention for periodic parallelepiped cells |
-| 2026-11-16 04:00:50 | [shopee-mshop-flagkit](https://pypi.org/project/shopee-mshop-flagkit/) | 0.0.0 | sc | 2.5 kB | A small example package |
-| 2026-11-16 04:01:38 | [devkb](https://pypi.org/project/devkb/) | 0.2.0 | Hung T. Le | 491.9 kB | A software-process knowledge graph for software development agents: extraction,… |
-| 2026-11-16 04:13:39 | [agentprobe-toolkit](https://pypi.org/project/agentprobe-toolkit/) | 1.2.0 | Chhayank Jain, Sarthak Pattna… | 149.1 kB | Fault injection and OpenTelemetry observability toolkit for evaluating the reli… |
-| 2026-11-16 04:19:25 | [powerbi-pbip-forensics](https://pypi.org/project/powerbi-pbip-forensics/) | 1.0.0 | Vinicius de Souza Santos | 236.2 kB | Evidence-based static forensics for Power BI PBIP/PBIR/TMDL projects and Perfor… |
-| 2026-11-16 04:20:28 | [rankcheck](https://pypi.org/project/rankcheck/) | 0.1.0 | Sankalp Gilda | 183.6 kB | How many real ranks does a leaderboard carry, and how many independent signals… |
+| 2026-11-16 04:25:15 | [inqaba](https://pypi.org/project/inqaba/) | 0.1.0 | Dr. Rainer Burkhardt | 29.4 kB | Shared Python filesystem, configuration, command, and media boundaries for RAIk… |
+| 2026-11-16 04:25:18 | [umgodi-json](https://pypi.org/project/umgodi-json/) | 0.1.0 | Dr. Rainer Burkhardt | 607.5 kB | Distributed, cloud-drive-backed JSON persistence for Python with immutable hist… |
+| 2026-11-16 04:26:42 | [mirage-geo](https://pypi.org/project/mirage-geo/) | 1.3.0 | Jordan Zavaleta | 981.5 kB | Reproducible raster lineament extraction without geological origin inference |
+| 2026-11-16 04:28:42 | [virtudoc](https://pypi.org/project/virtudoc/) | 0.1.0 | Sergey Romanov <xxsmotur@gmai… | 89.4 kB | Local documentation server for AI agents (MCP, SQLite FTS5) |
+| 2026-11-16 04:34:25 | [evalnoise](https://pypi.org/project/evalnoise/) | 0.1.0 | Meenal Asesh | 61.6 kB | Where does the noise in an eval score come from? Split it across questions, jud… |
+| 2026-11-16 04:35:57 | [blastingpy](https://pypi.org/project/blastingpy/) | 0.1.0 | Miqueas Quintanilla Ventura <… | 4.4 MB | Blast vibration, airblast, flyrock and near-field analysis for mining. C++ core… |
+| 2026-11-16 04:36:31 | [nexusbt-tds](https://pypi.org/project/nexusbt-tds/) | 0.0.1 | coolbress | 1.9 kB | NexusBT Data Standard (TDS) conformance checker (placeholder; first real releas… |
+| 2026-11-16 04:41:47 | [dft-rs-python](https://pypi.org/project/dft-rs-python/) | 0.4.0 | ss0832 <highlighty876@gmail.c… | 9.0 MB | Pure-Rust Gaussian-basis molecular and finite-k periodic Kohn-Sham DFT with Pyt… |
+| 2026-11-16 04:42:49 | [django-octo-aurora](https://pypi.org/project/django-octo-aurora/) | 0.1.1 | jeanpmodev <jeanpmodev@gmail.… | 344.0 kB | Decoupled Django runtime software topology visualizer and interactive architect… |
+| 2026-11-16 04:42:55 | [oxicells](https://pypi.org/project/oxicells/) | 0.1.0 |  | 65.6 MB | Run supported Excel workbook VBA without Microsoft Excel, using the Oxi engine. |
+| 2026-11-16 04:43:17 | [agentcabin](https://pypi.org/project/agentcabin/) | 0.2.0 |  | 154.0 kB | Build and run SSH + VNC desktop containers for AI coding agents with rootless p… |
+| 2026-11-16 04:44:13 | [nciplot-rs-python](https://pypi.org/project/nciplot-rs-python/) | 0.1.0 | ss0832 <highlighty876@gmail.c… | 79.5 kB | Real-space NCI, IGM, and IGMH analysis and offline molecular visualization |
+| 2026-11-16 04:44:51 | [rolloutwatch](https://pypi.org/project/rolloutwatch/) | 0.1.0 | Meenal Asesh | 57.4 kB | Did my prompt or model change make things worse? Watch LLM quality after a chan… |
+| 2026-11-16 04:47:13 | [xlio](https://pypi.org/project/xlio/) | 0.1.0 | Ethan Post | 361.9 kB | Internal xlsx reader and writer of the sheetmill project, extracted from xlreca… |
+| 2026-11-16 04:48:27 | [myuri](https://pypi.org/project/myuri/) | 3.0.4 | Jake Writer | 125.1 kB | API-agnostic human-like browser cursor, keyboard, and scroll simulation. Bring… |
+| 2026-11-16 04:53:28 | [buwigs-auth-sdk](https://pypi.org/project/buwigs-auth-sdk/) | 0.2.0a1 |  | 25.7 kB | Buwigs Auth OIDC integration helpers |
+| 2026-11-16 04:54:38 | [hypra](https://pypi.org/project/hypra/) | 0.2.0 |  | 2.6 MB | Native exact hypergeometric epsilon expansions in SymPy, inspired by HypExp2 |
+| 2026-11-16 04:56:53 | [ratchet-authz-mcp](https://pypi.org/project/ratchet-authz-mcp/) | 0.1.0 | Manideep Pendyala | 8.4 kB | MCP resource-server adapter for the Ratchet authorization broker. |
+| 2026-11-16 04:59:20 | [lanka-rag](https://pypi.org/project/lanka-rag/) | 0.1.1 | Nipuna Lakruwan | 64.9 kB | Local-first Sinhala/Tamil RAG with Ollama + LangChain, and a retrieval benchmar… |
+| 2026-11-16 05:04:02 | [prolog-practicals](https://pypi.org/project/prolog-practicals/) | 1.0.0 | Prateek Yadav | 24.4 kB | 15 ready-to-run Prolog lab programs, saved to a roll-number folder on your Desk… |
+| 2026-11-16 05:04:26 | [shap-rs](https://pypi.org/project/shap-rs/) | 0.1.0 | Atomic Labs LLC | 5.7 MB | Fast SHAP values: a drop-in Rust engine for the shap library. Same values, 10-8… |
+| 2026-11-16 05:05:05 | [agentspec-sdk](https://pypi.org/project/agentspec-sdk/) | 0.5.0 |  | 65.2 kB | Universal Agent Manifest SDK for Python agents |
+| 2026-11-16 05:05:35 | [mini-aiohttp](https://pypi.org/project/mini-aiohttp/) | 0.1.0 |  | 18.5 kB | A small, dependency-free async HTTP/1.1 client and server built on asyncio |
+| 2026-11-16 05:07:46 | [pastclimate](https://pypi.org/project/pastclimate/) | 0.1.0 | PastClimate | 48.9 kB | Official Python client for the PastClimate API: historical daily, hourly, month… |
+| 2026-11-16 05:07:54 | [maximem-synap-cli](https://pypi.org/project/maximem-synap-cli/) | 0.3.5 | Maximem <hello@maximem.ai> | 174.8 kB | maximem-synap — provision and operate Synap from your terminal |
+| 2026-11-16 05:08:39 | [teloce-npm](https://pypi.org/project/teloce-npm/) | 0.1.0 | Aldane Hutchinson <aldanehutc… | 185.6 kB | Use npm packages in .vel files or plain html without Node.js or node_modules. |
+| 2026-11-16 05:09:06 | [scitex-affairs](https://pypi.org/project/scitex-affairs/) | 0.1.0 | SciTeX Contributors | 15.8 MB | Single-source business and personal affairs: catalogs, actuals, scenarios, repo… |
+| 2026-11-16 05:09:15 | [ewsgraph](https://pypi.org/project/ewsgraph/) | 0.1.0 | SD Software LLC | 526.4 kB | exchangelib-compatible API on Microsoft Graph |
+| 2026-11-16 05:10:11 | [bitmomo](https://pypi.org/project/bitmomo/) | 0.1.0 | BitMomo | 41.9 kB | BitMomo merchant SDK: accept crypto payments and verify webhooks in Python |
+| 2026-11-16 05:12:45 | [jarvis-ai-agent-cli](https://pypi.org/project/jarvis-ai-agent-cli/) | 2.0.0 | Mohit Patel | 175.6 kB | Personal AI Assistant and Autonomous System Controller |
+| 2026-11-16 05:16:35 | [datacheckup](https://pypi.org/project/datacheckup/) | 0.1.0 | Corefix Group | 38.6 kB | Find the exact row and column of every error in a CSV or JSON file, with no set… |
+| 2026-11-16 05:16:44 | [dataquorum](https://pypi.org/project/dataquorum/) | 0.0.1 | krtk06 | 10.6 kB | A team of AI data-science agents that must prove their work. |
