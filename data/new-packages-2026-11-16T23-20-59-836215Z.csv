@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T22:20:56Z,jumbax-mpdata-numba,0.0.1,,,4499,"Numba MPDATA backend, using PyMPDATA"
+2026-11-16T22:21:00Z,jumbax-mpdata-jax,0.0.1,,,10450,JAX MPDATA backend
+2026-11-16T22:21:06Z,jumbax-mpdata-fortran,0.0.1,,,12136050,Fortran NCAR MPDATA solver with nanobind bindings
+2026-11-16T22:22:42Z,ovos-skill-guardian,0.1.0a5,Andreas Lorensen,Apache-2.0,168750,"OpenVoiceOS skill: your privacy by voice. What the assistant sent out today, who hears what you say, and going offline (local only)"
+2026-11-16T22:29:29Z,feconfig,0.1.0,Erik von Reis,GPL-3.0-or-later,38451,Python client for the feconfig filter-configuration service (LIGO front-end filters)
+2026-11-16T22:30:24Z,ovos-skill-store,0.1.0a2,Andreas Lorensen,Apache-2.0,125749,"OpenVoiceOS skill: find and install skills by voice from one or more skill stores, with their icons and example phrases on the screen"
+2026-11-16T22:30:34Z,zcrafter-bridge,0.3.1,Zcrafter,"MIT License Copyright (c) 2026 Zcrafter INC Permission is hereby granted, free of charge, to any pe…",473767,"MCP server that gives AI agents an IBM z/OS mainframe, with every change approved by a person"
+2026-11-16T22:30:44Z,pydub2-mp3,0.0.1,Rasmus Stisen,LGPL-2.0-or-later AND MIT,1361979,"LAME mp3 encoder for pydub2, loaded at runtime"
+2026-11-16T22:30:46Z,pydub2-compat,0.0.1,Rasmus Stisen,MIT,3531,"Makes import pydub use pydub2, even when the real pydub is installed"
+2026-11-16T22:30:47Z,pydub2,0.0.1,Rasmus Stisen,MIT,170612743,"Drop-in replacement for pydub with a C++ core. wav, flac, ogg, opus and mp3 reading need no ffmpeg."
+2026-11-16T22:31:22Z,jumbax-mpdata-cpp,0.0.1,,,139570188,"C++ MPDATA backend, using libmpdata++"
+2026-11-16T22:33:02Z,freetoken-metal,0.0.1,FlashML Team,Apache-2.0,3136656,LLM serving engine for Apple Silicon on MLX and Metal
+2026-11-16T22:33:39Z,gridhunt,1.0.0rc1,"Aju Ani Justus, Chris Baber, Aditya Acharya, Leonardo Stella",MIT,905020,"Heterogeneous, mixed-motive predator-prey environments for multi-agent RL and human-agent teaming (PettingZoo API)"
+2026-11-16T22:38:14Z,ovos-skill-kiosk,0.1.0a1,Andreas Lorensen,Apache-2.0,85505,"OpenVoiceOS skill: full screen, keeping the screen on and installing as an app, by voice, for an assistant on a screen"
+2026-11-16T22:41:32Z,capivara-rpa,1.2.0,Capivara <capivara@arthurfaria.tech>,"MIT License Copyright (c) 2026 Capivara Permission is hereby granted, free of charge, to any person…",352247,"Capivara — biblioteca e plataforma de RPA em Python, 100% em português"
+2026-11-16T22:43:49Z,pycunls-cu12,0.4.0,,,43423530,Python bindings for cuNLS: CUDA-accelerated nonlinear least squares solver
+2026-11-16T22:44:33Z,metacooler,0.2.0,Jacques Serizay,MIT,2606507,metacooler: Hi-C contact maps for metagenomes — an extension of the cooler format.
+2026-11-16T22:44:55Z,lifekeeper,0.1.0,Claudia Kitova,MIT,1603440,"Reclaim your data: one page of your life from your photos, chats and posts, and answers from your own records."
+2026-11-16T22:45:02Z,pycunls-cu13,0.4.0,,,36459834,Python bindings for cuNLS: CUDA-accelerated nonlinear least squares solver
+2026-11-16T22:45:14Z,realtime-bpm-analyzer,6.2.0,David Lepaux,Apache-2.0,45319,"Offline BPM detection with the same readings as the realtime-bpm-analyzer JS library, held to it by shared conformance vectors."
+2026-11-16T22:47:10Z,xlwings-sqlookup,1.0.0,Zoomer Analytics GmbH,MIT,14226,SQLOOKUP custom function for xlwings Lite: query Excel ranges with SQL
+2026-11-16T22:48:11Z,django-jsonpath,0.1.0a1,marlizzz,,8408,Django-native JSONPath support for queries through the ORM.
+2026-11-16T22:48:52Z,respectful-offers,0.1.0,Biplob Chakraborty,MIT,330613,"A subscription offer policy with a Thompson sampling bandit and two respect rules, evaluated offline against a holdout."
+2026-11-16T22:49:15Z,fayde,0.3.0,Shane Ryall,Apache-2.0,4580819,"Astrometric plate solver: a verified WCS from a source list, against UCAC4"
+2026-11-16T22:50:43Z,parallax-grid,1.0.1,kredt,MIT,205307,"PARALLAX // an offline systems, adversary-simulation and defence console"
+2026-11-16T22:52:42Z,praesago,0.1.0,Praesago,MIT,17636,"Python client for the Praesago API: England and Wales property and area data (sold prices, rents, listings statistics, planning, crime, schools, flood)."
+2026-11-16T22:53:00Z,arckep-blender-mcp,0.1.0,ArcKep,MIT,60359,"Local MCP server connecting Blender 4.2+ scenes with ArcKep 3D generation, mesh post-processing, and RUB Budget Guard"
+2026-11-16T22:53:42Z,sealwax,0.1.0,Sylvain Boily and the sealwax contributors,MIT OR Apache-2.0,15599066,"A PDF library written in Rust: reading, flattening, PDF/A-3 conversion and PAdES signatures."
+2026-11-16T22:56:01Z,bos-geo,0.1.0,,GPL-3.0-only,4584131,Buffer overlay statistics for 2D polylines: completeness (recall) and correctness (precision) of a predicted line against a ground truth line
+2026-11-16T22:57:42Z,finn-bs-pricer,2.0.0,Finn Brennan,MIT,17267,"Vectorised Black-Scholes pricing, Greeks and implied volatility"
+2026-11-16T22:59:41Z,easy-obs,0.5.0,Conor Turner <conor_turner@hotmail.com>,MIT,36765,"Python client for the easy-obs.com (obs_app) ingestion API - logs, metrics and traces."
+2026-11-16T23:02:46Z,auragrid-api,4.3.0,,MIT,9288,"Canonical wire contracts, JSON Schemas, OpenAPI 3.1 specifications, protocol docs, and golden test vectors for the AuraCore ecosystem"
+2026-11-16T23:08:54Z,horux-client,1.1.0,Aterve <support@aterve.com>,Apache-2.0,73781,Official Python client library for Horux monitoring platform
+2026-11-16T23:09:27Z,pliktre,1.0.0,,,487,Generated package for pliktre
+2026-11-16T23:10:34Z,nkd,1.0.0,Amitej Mehta <amitejmehta@gmail.com>,MIT,55490,"An LLM, a loop, and a few tools: a zero-abstraction Python agent framework, plus a terminal coding assistant built on it."
+2026-11-16T23:12:38Z,pkpdutils-core,0.2.0,Matthias König <konigmatt@googlemail.com>,MIT,2857092,The compiled non-compartmental analysis kernel of pkpdutils
+2026-11-16T23:13:28Z,statclaim,0.1.0,Supun Manathunga,MIT,426996,"Check that a statistical guarantee applies to your study: typed claims with proved, conditional or cited evidence"
+2026-11-16T23:20:17Z,mercy-pay,0.1.0,,MIT,63835,La bibliothèque Python officielle de l'API Mercy Pay : paiements mobile money et carte.
+2026-11-16T23:20:31Z,caspian-client,2.9.9,Caspian Data Platform Team,MIT,19863,Client library for the Caspian data platform
