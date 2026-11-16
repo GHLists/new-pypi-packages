@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T21:24:51Z,mylm,0.0.1,phkoek,MIT,46339,Tooling for hosting Qwen3.8-27B on a local llama.cpp setup with support for Pi Coding Agent and Paseo
+2026-11-16T21:28:40Z,pdfluent-haystack,0.1.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",MIT,25558,"Haystack converter for PDFluent: PDFs to structure-aware Document chunks with page, box and kind, with the local engine or the hosted API."
+2026-11-16T21:32:10Z,aijscan,0.1.0,aij contributors,MIT,185244,Async jailbreak-resistance scanner for LLM endpoints
+2026-11-16T21:33:23Z,python-ring,0.10.0,"Ron Klinkien, python-ring-doorbell developers",LGPL-3.0-or-later,127204,"Python library for Ring doorbells, cameras, chimes and intercoms"
+2026-11-16T21:33:30Z,sandrail,0.1.0,Karan Patel,MIT,138611,A coding-agent harness with a hidden-test benchmark and reward-hacking checks.
+2026-11-16T21:33:34Z,glaurlex,0.1.1,Marcos Gómez Robres <magomerob@unirioja.es>,GPL-3.0-or-later,127357,"Lexical availability statistics, co-occurrence graphs and group inference."
+2026-11-16T21:33:55Z,nat-tokenizer,0.1.0,Ahad Jawaid,MIT,21550,NAT action tokenizer: robot action chunks to time-ordered discrete tokens and back
+2026-11-16T21:34:50Z,markitdown-pdfluent,0.1.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",MIT,81898,"A MarkItDown plugin that converts PDFs to Markdown with the PDFluent engine: reading order, headings, lists and tables, locally and offline."
+2026-11-16T21:43:16Z,fleche-numpy,1.0.0,Marvin Poul <pmrv@posteo.de>,BSD-3-Clause,4507,numpy digest hooks for fleche
+2026-11-16T21:44:36Z,fleche-pandas,1.0.0,Marvin Poul <pmrv@posteo.de>,BSD-3-Clause,5311,pandas digest hooks for fleche
+2026-11-16T21:45:42Z,mssql-ocp-migrate,0.2.1,Karthikeyan Balasundaram,MIT,424414,"Migrate SQL Server databases to SQL Server on OpenShift (or anywhere) with parallel chunked copy, resume and end-to-end validation. Zero dependencies: the TDS driver is bundled."
+2026-11-16T21:49:46Z,pip-vm-hostrun,0.1.0,readwithai,,23335,"Run commands on the host from inside a jail (a VM or container), through one unix socket, with a policy and your approval"
+2026-11-16T21:50:13Z,qryndel,0.3.0,Manveer Singh,MIT,168372,"A safe, schema-checked query language for SQLite: bound parameters, write guards, budgets and guardrails for AI agents"
+2026-11-16T21:51:27Z,currytruck,0.1.0,Babble Baz <dev@babblebaz.com>,MIT,70675,"Finding the best solution, one ingredient at a time — a pure Python optimization toolkit."
+2026-11-16T21:53:02Z,schema-sidecar,0.7.0,Noel McLoughlin,Apache-2.0 AND MIT,382219,"Agent skills that give any repository a LinkML data model, at its root or as a sidecar, with the template they lay down."
+2026-11-16T21:54:12Z,django-pg-sse,0.1.0,Oliver Andrich <oliver@andrich.me>,MIT,103038,"Server-sent events for Django over PostgreSQL LISTEN/NOTIFY, with replay after reconnects."
+2026-11-16T21:57:40Z,terminal-cells,0.1.0,cells contributors,0BSD,1805591,A living microscope slide in your terminal
+2026-11-16T21:58:43Z,flux-stats,0.0.1,Agentics Transformation Ltd,Apache-2.0,11152,Reserved: flux-stats is released with flux-sim-engine from github.com/Agenticstiger/flux-engine. This placeholder holds no code.
+2026-11-16T21:59:19Z,nativehtmlkit-demo,0.1.0,NativeHTMLKit contributors,MIT,238660,"Browse and run the NativeHTMLKit examples: one window with the HTML, CSS, Python and PowerShell source of each example and a Run button"
+2026-11-16T22:05:20Z,jumbax,0.0.1,,,2639,"J* Unified Multi-Backend Algorithms Excellence: A multi-algorithm, multi-backend scientific computing library"
+2026-11-16T22:05:28Z,jumbax-core,0.0.1,,,7646,
+2026-11-16T22:05:30Z,jumbax-api,0.0.1,,,4084,
+2026-11-16T22:06:08Z,fussel,3.3.0,Fussel Contributors,MIT,578574,A static photo gallery generator
+2026-11-16T22:06:43Z,polymorfa-sdk,0.1.0a0.dev20261116213644,,MIT,1789201,Handwritten asynchronous Polymorfa server SDK
+2026-11-16T22:08:41Z,polarstory,1.2.0,,,148207,Data exploration and profiling with polars
+2026-11-16T22:08:45Z,multimerge-genomics,2.4.0,,,41551843,"Genomics tools for files of any size: validate, sort, index and query VCF/BED/GFF/SAM/BAM; interval operations; VCF filter and normalization; FASTQ quality report and trimming; k-mer counting; BGZF,…"
+2026-11-16T22:09:19Z,max-lint,0.6.0,Rodrigo Carvajal,Apache-2.0,91193,"One command that runs black, isort, flake8, mypy and pytest with a single shared configuration."
+2026-11-16T22:09:41Z,tancrede,0.1.0.dev1,skitourer,MIT,111230,"Tancrède: a desktop assistant for notes, projects and cognitive load."
+2026-11-16T22:11:23Z,wannado-wce,1.1.0,JettZ,MIT,529105,"WannaDo Series: Standards-anchored, Just-in-Time wireless communication environment quick provisioning across ITU IMT-2030 (6G), 3GPP NR/NTN/V2X/ISAC, RIS/XL-MIMO, traffic/MAC queues, and open-source…"
+2026-11-16T22:11:37Z,tdna-gcp-utils,0.0.0,,,1958,Placeholder. Name reserved by Tech DNA to prevent dependency confusion; the real package is not distributed on PyPI.
+2026-11-16T22:11:43Z,diagr,0.1.0,AnasImloul,MIT,234864,"Declarative diagrams in YAML: static SVG in light and dark, and a self-contained interactive HTML page."
+2026-11-16T22:13:37Z,l3bintools,2.1.1,,MIT,3254,RESERVED by security research as a dependency-confusion placeholder. Inert - does nothing.
+2026-11-16T22:13:42Z,kgbcia-mcp,0.1.0,,MIT,60389,Read-only MCP server for the KGB-CIA biomedical knowledge graph
+2026-11-16T22:14:16Z,YFZ,1.0.0,Kiarash Sardari,MIT,25992,"A Python mathematical toolkit for statistics, linear algebra, and symbolic mathematics"
+2026-11-16T22:16:02Z,dex-connector-klaviyo,0.1.0,,MIT,88422,Klaviyo connector for Dex Flows
