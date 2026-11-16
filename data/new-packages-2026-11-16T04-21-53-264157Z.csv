@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T03:24:03Z,tui-triage,0.1.1,Cave,GPL-3.0-or-later,188274,"Keyboard-driven terminal triage board per repository, shared between you and your coding agent."
+2026-11-16T03:26:55Z,potiklib,1.0.0,Qulowg,MIT,19573,Zero-dependency parallel execution library for free-threaded Python 3.15+ and asyncio
+2026-11-16T03:29:20Z,rekordbox-key-tool,1.1.0,,MIT,17652,Convert MIK-exported keys to Camelot notation in rekordbox.xml
+2026-11-16T03:32:31Z,pipecat-finesse,0.1.1,Flam,BSD-2-Clause,22210,Finesse text-to-speech for Pipecat
+2026-11-16T03:34:03Z,answerui-py,0.0.2,Jack Hogan <jackhogan4@gmail.com>,Apache-2.0,334403,A semantic HTML UI framework for FastHTML apps
+2026-11-16T03:41:11Z,fivefifty,0.1.0,AdJak,MIT,1017334,"A spam filter you can read, that tells you why, and that learns from your own inbox"
+2026-11-16T03:43:26Z,zzfy,0.0.2,VoidFunction <598708293@qq.com>,"MIT License Copyright (c) 2026 VoidFunction Permission is hereby granted, free of charge, to any pe…",20320,一个没有任何实际用途的翻译。A translation that's completely useless.
+2026-11-16T03:49:04Z,tinyping,0.1.0,,Proprietary,9052,Send push notifications to your phone from any app. Zero dependencies.
+2026-11-16T03:49:53Z,pf-tool,0.2.1,,,99491,AC/DC power flow for the Brazilian Interconnected Power System (BIPS): Newton-Raphson and optimization (Pyomo/Ipopt) solvers for ANAREDE .dat cases.
+2026-11-16T03:50:22Z,exohab,0.2.0,Kailash Sivagnanam,MIT,442862,"Fetch live exoplanet data, compute habitability metrics (ESI, PHI, BCI, Kopparapu HZ), propagate measurement uncertainties and plot results."
+2026-11-16T03:51:06Z,ruleatlas-contracts,0.1.1,RuleAtlas,MIT,101922,"RuleAtlas shared kernel: enums, domain value objects, and provider/claim contracts depended on by every other package"
+2026-11-16T03:53:42Z,setsuna,1.0.0,Ryoma Hattori,GPL-3.0-or-later,538299,SETSUNA: spike inference with temporal super-resolution for calcium imaging
+2026-11-16T03:54:46Z,expression-lab-classroom,1.3.0,,,4082198,离线 CPU 人脸点位、AU 与相对位移教学实验室
+2026-11-16T03:54:54Z,vaper-club-mcp,1.0.0,,MIT,16710,"Local STDIO MCP server for Vaper.club: search vape products, brands, shops and reviews through the Vaper.club Public API."
+2026-11-16T03:56:59Z,netinfra-phtaya-game-batch-1-u4qrl,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,8646,Technical network verification and high-availability endpoint registry for PHTaya Game Batch 1 Blast
+2026-11-16T03:58:38Z,minimage,0.2.0,Rohit Goswami <rgoswami@ieee.org>,MIT,574366,Minimum-image convention for periodic parallelepiped cells
+2026-11-16T04:00:50Z,shopee-mshop-flagkit,0.0.0,sc,BSD License,2470,A small example package
+2026-11-16T04:01:38Z,devkb,0.2.0,Hung T. Le,Apache-2.0,491850,"A software-process knowledge graph for software development agents: extraction, pre-computed context packs, and an MCP server"
+2026-11-16T04:13:39Z,agentprobe-toolkit,1.2.0,"Chhayank Jain, Sarthak Pattnaik, Eugene Pinsky",MIT,149098,"Fault injection and OpenTelemetry observability toolkit for evaluating the reliability of LLM agents (LangGraph, LangChain, AutoGen)"
+2026-11-16T04:19:25Z,powerbi-pbip-forensics,1.0.0,Vinicius de Souza Santos,LicenseRef-Proprietary,236195,Evidence-based static forensics for Power BI PBIP/PBIR/TMDL projects and Performance Analyzer logs.
+2026-11-16T04:20:28Z,rankcheck,0.1.0,Sankalp Gilda,Apache-2.0,183613,"How many real ranks does a leaderboard carry, and how many independent signals does a model panel carry?"
