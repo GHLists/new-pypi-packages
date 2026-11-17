@@ -1,34 +1,55 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-11-17T17:20:09.836444Z",
-    "path": "data/new-packages-2026-11-17T18-20-53-065353Z.csv",
-    "to": "2026-11-17T18:20:53.065353Z"
+    "count": 33,
+    "from": "2026-11-17T18:20:53.065353Z",
+    "path": "data/new-packages-2026-11-17T19-19-01-738424Z.csv",
+    "to": "2026-11-17T19:19:01.738424Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-11-17T19:04:51Z",
+      "package": "ShapPFN",
+      "since": "2026-11-17T18:20:53.065353Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-17T17:25:26Z",
       "package": "creator-studio-doc-format",
       "since": "2026-11-17T17:20:09.836444Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-17T14:51:25Z",
-      "package": "odoo-addon-sale-order-qty-to-invoice-cancelled",
-      "since": "2026-11-17T14:19:11.635893Z",
+      "attempts": 1,
+      "created_at": "2026-11-17T18:34:19Z",
+      "package": "kubex-runtime",
+      "since": "2026-11-17T18:20:53.065353Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-17T19:05:13Z",
+      "package": "nanoRT",
+      "since": "2026-11-17T18:20:53.065353Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-17T18:30:00Z",
+      "package": "padme-asm",
+      "since": "2026-11-17T18:20:53.065353Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-17T15:48:01Z",
       "package": "pyeryx-runtime-javascript",
       "since": "2026-11-17T15:18:22.062961Z",
       "version": null
     }
   ],
-  "serial": 43796686,
+  "serial": 43798874,
   "source_truncated": false,
-  "window": "2026-11-17T18:20:53.065353Z"
+  "window": "2026-11-17T19:19:01.738424Z"
 }
