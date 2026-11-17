@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T21:20:48Z,pace-eval,0.2.2,Seyed Mahmoud Sajjadi Mohammadabadi <mahmoud.sajjadi@unr.edu>,Apache-2.0,510759,"PACE: Parity-Aware Compute Evaluation for Multi-Agent LLMs (CLI, Resource Vector Auditor, Debate Dynamics & Browser Studio)"
+2026-11-17T21:20:57Z,herd-cli,0.4.6rc2,,GPL-3.0-only,2386305,Manage a collection of Git repositories.
+2026-11-17T21:22:13Z,crestline,1.0.2,,,64872,"Polygon centerlines by flooding: no skeletonization, linear time, for shapely polygons and raster masks alike."
+2026-11-17T21:25:27Z,abkit-experiments,0.1.0,,MIT,354630,"Experimentation toolkit for TravelPlan: assignment, A/B statistics, simulation checks."
+2026-11-17T21:27:00Z,sharpfy-nextapi,0.2.0,Sharpfy <contato@sharpfy.com.br>,MIT,49122,"SDK oficial da NextAPI para Python: CNPJ (inclusive alfanumérico), Simples Nacional, CEP, sócios e mercado. Sem dependências."
+2026-11-17T21:29:38Z,pyskimo,0.1.0,pyskimo contributors,MIT,49878,"A Python package for fetching, parsing, and analyzing Ski Mountaineering (Skimo) race results"
+2026-11-17T21:31:11Z,nuke-stubs,17.1.2.1,,MIT,380685,Type stubs for nuke 17.1v2
+2026-11-17T21:32:06Z,claude-remote-mcp-agent-bridge,0.1.0,Jakub Płachecki,MIT,178405,Stateless HTTP service on the agent host that drives the herdr CLI
+2026-11-17T21:34:14Z,qcorre,0.1.0,Bryan Gael Esquivel Pérez,MIT,258209,"See what's running on your machine, grouped by project, and use git in plain language. A terminal dashboard for developers."
+2026-11-17T21:34:57Z,ovos-assist-pipeline-plugin,0.1.0a1,Andreas Lorensen,Apache-2.0,17438,"OpenVoiceOS pipeline plugin: what Home Assistant's Assist recognizes (lights, heating, rooms...) goes to Home Assistant"
+2026-11-17T21:37:59Z,negaresh,0.2.0,,MIT,313773,"Persian (Farsi) writing guide: sourced rule set, mechanical checks and a local MCP server"
+2026-11-17T21:39:55Z,ipdb-com,0.1.0,IP-DB <abuse@ip-db.com>,MIT,49566,Official Python library for the IP-DB API
+2026-11-17T21:39:58Z,idealclima-modbus,0.2.0,crug80 <claudio@cr-tech.it>,MIT,49426,Async Modbus library for Idealclima fan coil units (Comfosplit IKARO HW and Radiantore SKUDO DC Inverter)
+2026-11-17T21:40:17Z,axt-google-api,1.0.0,,,8278,Python client library for the Google API
+2026-11-17T21:41:00Z,pyurcmrx,0.1.0,,MIT,47641,"Async LAN client for URC Total Control MRX controllers (clean-room, built from open-control-spec)"
+2026-11-17T21:41:20Z,lwnrdb-client,0.1.0,,MIT,165034,"The official Python client for LWNRDB: a connection pool, a fluent query builder, transactions and live queries, sync and asyncio"
+2026-11-17T21:42:41Z,django-visit-logger,0.1.0,,,12431,Django visit collection API and read-only admin
+2026-11-17T21:42:54Z,relay-dbauth,0.1.0,,Apache-2.0,8925,Mint IAM tokens that log in to Relay databases.
+2026-11-17T21:44:13Z,mascotinhos,0.1.0,"Jonas Timbaúba, João Vitor Lima, Gilson Bezerra",MIT,257447,"Mascotes animados em Python puro: formas e animações em JSON, desenho com Pillow, saída em PNG, GIF e SVG."
+2026-11-17T21:45:41Z,rocheometry,0.1.0,PD Hall <20580126+pdhall99@users.noreply.github.com>,MIT,565287,Compute the equipotential geometry of binary systems in the classical Roche model
+2026-11-17T21:48:38Z,django-shopify-pricing,0.1.0,Santiago Fernandez,MIT,6596,Shopify App Pricing (managed pricing) for Django apps built on django_shopify_app
+2026-11-17T21:49:09Z,somame-local,0.2.0,Akrosystems Ltd,"MIT License Copyright (c) 2026 Akrosystems Ltd Permission is hereby granted, free of charge, to any…",129701,"Somame Local: one supervised AI specialist on your own machine, under a write gate that always returns deleting, paying, publishing and changing access to a person. Provenance, a hash-chained audit l…"
+2026-11-17T21:53:02Z,bluelink-mcp,0.1.0,Gowthaman Thangavel <gowthamand7@gmail.com>,MIT,38456,"MCP server for Hyundai Bluelink, Kia Connect and Genesis remote vehicle control"
+2026-11-17T21:53:40Z,fastlinkage,0.1.1,Michael Li,MIT,39501,"Exact hierarchical clustering (Ward, average linkage) on the GPU, without the n x n distance matrix"
+2026-11-17T21:54:13Z,oq-cal,0.1.1,Quantum Rings,Apache-2.0,129809,A vendor-neutral JSON interchange format for QPU calibration and characterization data
+2026-11-17T21:55:45Z,authzen-client,0.2.0,,MIT,44299,A typed Python client for the AuthZEN Authorization API.
+2026-11-17T21:58:37Z,pyradix-radiomics,0.1.0,Ahmadreza Sohrabi-Ashlaghi,BSD-3-Clause,87869240,Dual-standard radiomics extractor (IBSI + PyRadiomics compat)
+2026-11-17T22:02:10Z,raloop,0.1.0,lekanggy,MIT,196526,"A transparent, async-first agent framework — see exactly how your agents think, act, and observe."
+2026-11-17T22:06:43Z,carmelolg-galib,0.2.0,CARMELO LA GAMBA,Apache-2.0,65154,"A small, extensible library to build genetic algorithms."
+2026-11-17T22:07:00Z,cityparquet,0.1.0,,MIT OR Apache-2.0,38389659,"Python bindings for CityParquet: convert, export and validate packages"
+2026-11-17T22:08:15Z,mantisbase,0.1.0,Allan Koech,MIT,222718253,Python bindings for mantisbase – Flask-style HTTP server backed by a C++ engine
+2026-11-17T22:15:25Z,thoughtformula,0.3.0,ellainng,MIT,158657,"Pure-Python generative Transformer architecture with FlashAttention, Paged KV-Cache, BitNet b1.58, KTO, Medusa, and Continuous Batching"
+2026-11-17T22:17:25Z,solidfunc,0.1.0a1,David Straub,MIT,38346758,An experimental functional Python API for SolidCore.

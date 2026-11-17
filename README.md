@@ -8,53 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:19 UTC
+## Latest list — 2026-11-17 22:19 UTC
 
-New packages created between 2026-11-17 20:21 UTC and 2026-11-17 21:19 UTC.
+New packages created between 2026-11-17 21:19 UTC and 2026-11-17 22:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-17T21-19-23-185269Z.csv)
+[Full CSV](data/new-packages-2026-11-17T22-19-22-647037Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-17 20:22:22 | [neurogas](https://pypi.org/project/neurogas/) | 0.0.5 | Falko Duwanoff <f.duwanoff@gm… | 683.9 kB | Jupyter-compatible Python wrapper for the Rust-based GNG algorithm |
-| 2026-11-17 20:24:38 | [improv-client](https://pypi.org/project/improv-client/) | 1.0.0 | Jonny Bergdahl <github@bergda… | 55.5 kB | Client for provisioning Improv Wi-Fi devices over serial and BLE |
-| 2026-11-17 20:24:56 | [pydaltoolbox](https://pypi.org/project/pydaltoolbox/) | 0.1.0 | Eduardo Ogasawara <eogasawara… | 76.0 kB | Leveraging Experiment Lines for Data Analytics (Python port of the R daltoolbox… |
-| 2026-11-17 20:25:04 | [sourcetrace](https://pypi.org/project/sourcetrace/) | 0.5.1 |  | 51.7 kB | Follow a statistic back through its citations to where it actually came from. |
-| 2026-11-17 20:25:22 | [nbtevo-diag](https://pypi.org/project/nbtevo-diag/) | 0.1.0 | Igor Titov | 69.0 kB | On-head-unit diagnostics for BMW NBT EVO (F30): module DTCs + live engine/vehic… |
-| 2026-11-17 20:29:35 | [gql-core](https://pypi.org/project/gql-core/) | 0.2.0a1 |  | 540.6 kB | Experimental embedded property-graph query and typed reasoning engine for Python |
-| 2026-11-17 20:30:23 | [robotframework-aiagent-verify](https://pypi.org/project/robotframework-aiagent-verify/) | 0.4.0 |  | 8.1 kB | LLM-as-judge verification keywords for robotframework-aiagent |
-| 2026-11-17 20:30:54 | [owlrouter](https://pypi.org/project/owlrouter/) | 0.1.0 | Willy <willy@owlrouter.com> | 1.5 MB | Link-state routing over causal stamps for accelerator fabrics |
-| 2026-11-17 20:31:00 | [promptblame](https://pypi.org/project/promptblame/) | 0.4.0 | Marco Baleato Domínguez | 100.7 kB | Atribución de respuestas de LLM a instrucciones del system prompt y del user pr… |
-| 2026-11-17 20:32:06 | [wacome](https://pypi.org/project/wacome/) | 0.1.1 |  | 93.1 kB | A visual GUI for xsetwacom (X11 Wacom tablet configuration) |
-| 2026-11-17 20:33:53 | [polarka-agent](https://pypi.org/project/polarka-agent/) | 0.1.1 | Severka | 146.4 kB | A wallet for TrueNorth (NORTH) that a program can use: command line, Python lib… |
-| 2026-11-17 20:35:53 | [sc_apl_py](https://pypi.org/project/sc_apl_py/) | 0.1.1 | Mark Keller | 202.3 kB | Association Plots (APL) for the Scverse ecosystem and AnnData objects |
-| 2026-11-17 20:37:43 | [losslessaudiocut](https://pypi.org/project/losslessaudiocut/) | 1.2.0 | Gunter Königsmann | 87.3 MB | Cut audio recordings without re-encoding: the kept audio decodes to exactly the… |
-| 2026-11-17 20:40:02 | [hermit-hbc](https://pypi.org/project/hermit-hbc/) | 0.3.0 | Valerio Pio De Nicola | 93.2 kB | Hermes Reverse Engineering & Manipulation Interactive Toolkit — disassemble, de… |
-| 2026-11-17 20:40:34 | [google-trends-daily-trending-searches-by](https://pypi.org/project/google-trends-daily-trending-searches-by/) | 0.1.0 |  | 13.6 kB | Google Trends Daily Trending Searches by Country (RSS) |
-| 2026-11-17 20:40:58 | [lighten](https://pypi.org/project/lighten/) | 0.3.0 | sukumarlightningleap | 54.9 kB | Keep Claude Code conversations light: earlier guided compaction, memory across… |
-| 2026-11-17 20:45:02 | [cavok](https://pypi.org/project/cavok/) | 0.1.0 | OmarLT-222 <lukach.omar@gmail… | 25.3 kB | Python library for parsing aviation weather messages (METAR, TAF) |
-| 2026-11-17 20:45:09 | [grpb-m2m](https://pypi.org/project/grpb-m2m/) | 0.1.0 | Team Nittany Nerds (Penn Stat… | 80.3 kB | Run generated gRPC stubs and servicers over MQTT with Protobuf encoding (oneM2M… |
-| 2026-11-17 20:45:56 | [dag-kv](https://pypi.org/project/dag-kv/) | 0.2.0 | Kaushal Nandaniya | 123.2 kB | Universal Position-Decoupled Graph KV Cache with Query-Side Adjoint RoPE & LSE-… |
-| 2026-11-17 20:48:10 | [max-mcp-server](https://pypi.org/project/max-mcp-server/) | 0.1.0 | artgas1 | 438.9 kB | MCP server for MAX messenger (max.ru) personal account: read chats, history, se… |
-| 2026-11-17 20:48:21 | [ovos-phal-plugin-ha-link](https://pypi.org/project/ovos-phal-plugin-ha-link/) | 0.1.0a2 | Andreas Lorensen | 25.8 kB | OpenVoiceOS PHAL plugin: links the device to Home Assistant - it connects itsel… |
-| 2026-11-17 20:49:46 | [anix-snap](https://pypi.org/project/anix-snap/) | 0.3.3 | an1zy | 29.5 kB | Beautiful code screenshots right from your terminal |
-| 2026-11-17 20:51:17 | [fairshare-cli](https://pypi.org/project/fairshare-cli/) | 0.1.1 | Dongli Liu | 340.0 kB | One assistant across several AI-assistant subscriptions: shared history and set… |
-| 2026-11-17 20:51:40 | [medisync](https://pypi.org/project/medisync/) | 0.1.0 | MediSync GmbH <support@medisy… | 203.0 kB | Python SDK for the MediSync API: speech, notes, ICD-10-GM coding, decisions and… |
-| 2026-11-17 20:56:55 | [sailfork](https://pypi.org/project/sailfork/) | 0.0.1 |  | 1.9 kB | Official Sailfork SDK for Python. In development. |
-| 2026-11-17 20:59:29 | [layerlink](https://pypi.org/project/layerlink/) | 0.0.0 |  | 1.5 kB | Reserved for Layerlink, the API for sites that don't have one. The real package… |
-| 2026-11-17 20:59:34 | [layerlink-sdk](https://pypi.org/project/layerlink-sdk/) | 0.0.0 |  | 1.6 kB | Reserved for Layerlink, the API for sites that don't have one. The real package… |
-| 2026-11-17 20:59:41 | [layerlink-mcp](https://pypi.org/project/layerlink-mcp/) | 0.0.0 |  | 1.6 kB | Reserved for Layerlink, the API for sites that don't have one. The real package… |
-| 2026-11-17 20:59:46 | [layerlink-cli](https://pypi.org/project/layerlink-cli/) | 0.0.0 |  | 1.6 kB | Reserved for Layerlink, the API for sites that don't have one. The real package… |
-| 2026-11-17 21:00:33 | [heislime](https://pypi.org/project/heislime/) | 1.1.1 | HeiGIT | 87.1 kB | HeiGIT street-level imagery (SLI) mining engine |
-| 2026-11-17 21:00:45 | [repeat-o-scope](https://pypi.org/project/repeat-o-scope/) | 0.1.0 | Kimmo Parviainen-Jalanko | 83.6 kB | Audits your Claude Code transcripts for wasted usage and repeats, and turns the… |
-| 2026-11-17 21:01:32 | [parsethon](https://pypi.org/project/parsethon/) | 0.3.0 | ellainng | 57.1 kB | Extensible Python Lexical Parser and Tongue Translation System |
-| 2026-11-17 21:01:38 | [libhbc](https://pypi.org/project/libhbc/) | 0.3.0 | Valerio Pio De Nicola | 8.4 MB | Hermes bytecode (HBC) parser, disassembler, decompiler and structural patcher —… |
-| 2026-11-17 21:04:55 | [mspdi](https://pypi.org/project/mspdi/) | 0.1.0 | Mario (Kind of Lost) | 39.0 kB | Read and write Microsoft Project XML (MSPDI) with the standard library only, wi… |
-| 2026-11-17 21:06:42 | [sooner-email](https://pypi.org/project/sooner-email/) | 0.1.0 | Sooner | 15.2 kB | The first-party Python client for the Sooner email API |
-| 2026-11-17 21:06:57 | [corrosign](https://pypi.org/project/corrosign/) | 0.1.0 |  | 3.7 MB | PAdES signatures on PDF documents via ID Austria (A-Trust Security Layer 1.2) |
-| 2026-11-17 21:08:02 | [peek-app-utilities](https://pypi.org/project/peek-app-utilities/) | 1.3.0 | Peek Travel | 397.4 kB | Python SDK for the Peek, CNG, and ACME backoffice APIs — the Python port of @pe… |
-| 2026-11-17 21:09:24 | [nixonlxl](https://pypi.org/project/nixonlxl/) | 1.0.0 |  | 31.7 kB | My personal Python library |
-| 2026-11-17 21:10:44 | [ggufly](https://pypi.org/project/ggufly/) | 0.2.0 | ggufly | 46.7 kB | Modelos GGUF locales con llama.cpp precompilado: un solo modelo en memoria para… |
-| 2026-11-17 21:11:30 | [blockyos-client](https://pypi.org/project/blockyos-client/) | 0.2.0 | The blockyOS authors | 15.1 kB | Python client for blockyOS: queue experiments, read results as tables, report m… |
-| 2026-11-17 21:12:10 | [zenter-networks](https://pypi.org/project/zenter-networks/) | 0.1.0 | luke porteous, zenter | 11.5 kB | A Python neural network and evolution library |
-| 2026-11-17 21:12:37 | [aswf-aces-amf-utils](https://pypi.org/project/aswf-aces-amf-utils/) | 0.1.0 |  | 65.8 kB | CLI, builder, and utilities for ACES Metadata Files (AMF) |
+| 2026-11-17 21:20:48 | [pace-eval](https://pypi.org/project/pace-eval/) | 0.2.2 | Seyed Mahmoud Sajjadi Mohamma… | 510.8 kB | PACE: Parity-Aware Compute Evaluation for Multi-Agent LLMs (CLI, Resource Vecto… |
+| 2026-11-17 21:20:57 | [herd-cli](https://pypi.org/project/herd-cli/) | 0.4.6rc2 |  | 2.4 MB | Manage a collection of Git repositories. |
+| 2026-11-17 21:22:13 | [crestline](https://pypi.org/project/crestline/) | 1.0.2 |  | 64.9 kB | Polygon centerlines by flooding: no skeletonization, linear time, for shapely p… |
+| 2026-11-17 21:25:27 | [abkit-experiments](https://pypi.org/project/abkit-experiments/) | 0.1.0 |  | 354.6 kB | Experimentation toolkit for TravelPlan: assignment, A/B statistics, simulation… |
+| 2026-11-17 21:27:00 | [sharpfy-nextapi](https://pypi.org/project/sharpfy-nextapi/) | 0.2.0 | Sharpfy <contato@sharpfy.com.… | 49.1 kB | SDK oficial da NextAPI para Python: CNPJ (inclusive alfanumérico), Simples Naci… |
+| 2026-11-17 21:29:38 | [pyskimo](https://pypi.org/project/pyskimo/) | 0.1.0 | pyskimo contributors | 49.9 kB | A Python package for fetching, parsing, and analyzing Ski Mountaineering (Skimo… |
+| 2026-11-17 21:31:11 | [nuke-stubs](https://pypi.org/project/nuke-stubs/) | 17.1.2.1 |  | 380.7 kB | Type stubs for nuke 17.1v2 |
+| 2026-11-17 21:32:06 | [claude-remote-mcp-agent-bridge](https://pypi.org/project/claude-remote-mcp-agent-bridge/) | 0.1.0 | Jakub Płachecki | 178.4 kB | Stateless HTTP service on the agent host that drives the herdr CLI |
+| 2026-11-17 21:34:14 | [qcorre](https://pypi.org/project/qcorre/) | 0.1.0 | Bryan Gael Esquivel Pérez | 258.2 kB | See what's running on your machine, grouped by project, and use git in plain la… |
+| 2026-11-17 21:34:57 | [ovos-assist-pipeline-plugin](https://pypi.org/project/ovos-assist-pipeline-plugin/) | 0.1.0a1 | Andreas Lorensen | 17.4 kB | OpenVoiceOS pipeline plugin: what Home Assistant's Assist recognizes (lights, h… |
+| 2026-11-17 21:37:59 | [negaresh](https://pypi.org/project/negaresh/) | 0.2.0 |  | 313.8 kB | Persian (Farsi) writing guide: sourced rule set, mechanical checks and a local… |
+| 2026-11-17 21:39:55 | [ipdb-com](https://pypi.org/project/ipdb-com/) | 0.1.0 | IP-DB <abuse@ip-db.com> | 49.6 kB | Official Python library for the IP-DB API |
+| 2026-11-17 21:39:58 | [idealclima-modbus](https://pypi.org/project/idealclima-modbus/) | 0.2.0 | crug80 <claudio@cr-tech.it> | 49.4 kB | Async Modbus library for Idealclima fan coil units (Comfosplit IKARO HW and Rad… |
+| 2026-11-17 21:40:17 | [axt-google-api](https://pypi.org/project/axt-google-api/) | 1.0.0 |  | 8.3 kB | Python client library for the Google API |
+| 2026-11-17 21:41:00 | [pyurcmrx](https://pypi.org/project/pyurcmrx/) | 0.1.0 |  | 47.6 kB | Async LAN client for URC Total Control MRX controllers (clean-room, built from… |
+| 2026-11-17 21:41:20 | [lwnrdb-client](https://pypi.org/project/lwnrdb-client/) | 0.1.0 |  | 165.0 kB | The official Python client for LWNRDB: a connection pool, a fluent query builde… |
+| 2026-11-17 21:42:41 | [django-visit-logger](https://pypi.org/project/django-visit-logger/) | 0.1.0 |  | 12.4 kB | Django visit collection API and read-only admin |
+| 2026-11-17 21:42:54 | [relay-dbauth](https://pypi.org/project/relay-dbauth/) | 0.1.0 |  | 8.9 kB | Mint IAM tokens that log in to Relay databases. |
+| 2026-11-17 21:44:13 | [mascotinhos](https://pypi.org/project/mascotinhos/) | 0.1.0 | Jonas Timbaúba, João Vitor Li… | 257.4 kB | Mascotes animados em Python puro: formas e animações em JSON, desenho com Pillo… |
+| 2026-11-17 21:45:41 | [rocheometry](https://pypi.org/project/rocheometry/) | 0.1.0 | PD Hall <20580126+pdhall99@us… | 565.3 kB | Compute the equipotential geometry of binary systems in the classical Roche mod… |
+| 2026-11-17 21:48:38 | [django-shopify-pricing](https://pypi.org/project/django-shopify-pricing/) | 0.1.0 | Santiago Fernandez | 6.6 kB | Shopify App Pricing (managed pricing) for Django apps built on django_shopify_a… |
+| 2026-11-17 21:49:09 | [somame-local](https://pypi.org/project/somame-local/) | 0.2.0 | Akrosystems Ltd | 129.7 kB | Somame Local: one supervised AI specialist on your own machine, under a write g… |
+| 2026-11-17 21:53:02 | [bluelink-mcp](https://pypi.org/project/bluelink-mcp/) | 0.1.0 | Gowthaman Thangavel <gowthama… | 38.5 kB | MCP server for Hyundai Bluelink, Kia Connect and Genesis remote vehicle control |
+| 2026-11-17 21:53:40 | [fastlinkage](https://pypi.org/project/fastlinkage/) | 0.1.1 | Michael Li | 39.5 kB | Exact hierarchical clustering (Ward, average linkage) on the GPU, without the n… |
+| 2026-11-17 21:54:13 | [oq-cal](https://pypi.org/project/oq-cal/) | 0.1.1 | Quantum Rings | 129.8 kB | A vendor-neutral JSON interchange format for QPU calibration and characterizati… |
+| 2026-11-17 21:55:45 | [authzen-client](https://pypi.org/project/authzen-client/) | 0.2.0 |  | 44.3 kB | A typed Python client for the AuthZEN Authorization API. |
+| 2026-11-17 21:58:37 | [pyradix-radiomics](https://pypi.org/project/pyradix-radiomics/) | 0.1.0 | Ahmadreza Sohrabi-Ashlaghi | 87.9 MB | Dual-standard radiomics extractor (IBSI + PyRadiomics compat) |
+| 2026-11-17 22:02:10 | [raloop](https://pypi.org/project/raloop/) | 0.1.0 | lekanggy | 196.5 kB | A transparent, async-first agent framework — see exactly how your agents think,… |
+| 2026-11-17 22:06:43 | [carmelolg-galib](https://pypi.org/project/carmelolg-galib/) | 0.2.0 | CARMELO LA GAMBA | 65.2 kB | A small, extensible library to build genetic algorithms. |
+| 2026-11-17 22:07:00 | [cityparquet](https://pypi.org/project/cityparquet/) | 0.1.0 |  | 38.4 MB | Python bindings for CityParquet: convert, export and validate packages |
+| 2026-11-17 22:08:15 | [mantisbase](https://pypi.org/project/mantisbase/) | 0.1.0 | Allan Koech | 222.7 MB | Python bindings for mantisbase – Flask-style HTTP server backed by a C++ engine |
+| 2026-11-17 22:15:25 | [thoughtformula](https://pypi.org/project/thoughtformula/) | 0.3.0 | ellainng | 158.7 kB | Pure-Python generative Transformer architecture with FlashAttention, Paged KV-C… |
+| 2026-11-17 22:17:25 | [solidfunc](https://pypi.org/project/solidfunc/) | 0.1.0a1 | David Straub | 38.3 MB | An experimental functional Python API for SolidCore. |
