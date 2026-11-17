@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T08:18:40Z,unexhub-agent,0.1.0,UnexHub,Apache-2.0,226639,"UnexHub Agent runtime, Python starter and unex-agent-v1 protocol checker"
+2026-11-17T08:19:17Z,serbia-prices-mcp,0.1.2,,MIT,136149,MCP server for grocery prices of the major Serbian retail chains from data.gov.rs open data
+2026-11-17T08:21:02Z,docpipe-maestro,0.2.0,ivnmoreno <ivnmoreno@gmail.com>,MIT,448423,"A minimal, provider-agnostic, structure-aware RAG pipeline library."
+2026-11-17T08:22:06Z,capturekit-haystack,0.1.0,CaptureKit <contact@capturekit.dev>,MIT,13898,Haystack integration for CaptureKit: fetch web pages as clean Markdown documents for RAG pipelines and agents.
+2026-11-17T08:22:12Z,langchain-asin,0.1.0,Asin <contact@asin.dev>,MIT,14108,"LangChain tools for Asin: search Amazon, read a product's price history and compare its sellers' offers."
+2026-11-17T08:22:19Z,langchain-capturekit,0.1.0,CaptureKit <contact@capturekit.dev>,MIT,17460,LangChain tools for CaptureKit: read web pages as clean Markdown and get an AI profile of a website.
+2026-11-17T08:22:25Z,langchain-chartquery,0.1.0,ChartQuery <contact@chartquery.com>,MIT,15605,"LangChain tools for ChartQuery: turn data into charts, descriptions into diagrams, and text into QR codes, as image links."
+2026-11-17T08:24:59Z,fancy-fun-lab,0.1.0,Particle Academy,MIT,68270,"Headless gamification engine - XP to gamed metrics, levels and weighted level groups, achievements, prizes with inventory, leaderboards and an event log with analytics. Zero runtime dependencies. The…"
+2026-11-17T08:26:05Z,lab-gate,1.0.0,Anuja Khatri,MIT,138949,"Check an autonomous-lab experiment plan against written rules before it runs: PASS with a proof certificate, BLOCK with a counterexample, or ABSTAIN to a human."
+2026-11-17T08:26:16Z,retrievalloom,0.1.0,S MUNI HARISH,Apache-2.0,457567,"An async-first, provider-agnostic, multi-channel retrieval and evidence orchestration engine for Python applications."
+2026-11-17T08:27:13Z,lazy-paw,0.0.0,,,2160,Reserved name. This project holds no code.
+2026-11-17T08:29:02Z,runtess,0.1.1,mtious <mtious@outlook.com>,,880419,"A Python runtime that enables LLMs to continuously observe, reason, execute, and interact with the outside world."
+2026-11-17T08:29:41Z,password-auditor-ane-uxue,0.2.0,"Ane Sanz <anesanzb@alumni.mondragon.edu>, Uxue del Valle <uxuedelvalle@alumni.mondragon.edu>",MIT,10926,Librería Python para analizar y mejorar contraseñas
+2026-11-17T08:32:52Z,glow-md,0.1.0,,MIT,36655,"A Python Markdown reader for the terminal, inspired by Charm's Glow"
+2026-11-17T08:36:02Z,mirpredictor,0.1.2,,,6255662,miRNA inference from single-cell RNA-seq with cached ensemble models
+2026-11-17T08:36:32Z,apisk,3.0.0,RockFeng0 <281589463@qq.com>,MIT,135404,"A pytest-based API automation framework where endpoints, services and readiness probes are declared by pluggable domain packages"
+2026-11-17T08:36:43Z,node1-governance-kernel,0.1.0,Node1 AI <oss@node1.ai>,Apache-2.0,27495,"Governance runtime for AI agent fleets — privilege separation, tool allowlisting, and audit evidence at the OS level."
+2026-11-17T08:42:49Z,pgretry,0.1.0,Ali Hussein,"MIT License Copyright (c) 2026 Ali Hussein Permission is hereby granted, free of charge, to any per…",84694,PostgreSQL concurrency and retry toolkit for Python applications
+2026-11-17T08:46:23Z,pythonshenanigans,1.0.0,akinari (aki),MIT,64971,"A Python library for creating, loading and modifying Jujutsu Shenanigans movesets."
+2026-11-17T08:46:32Z,bili-sub2txt,0.2.0,folin <Lin-Ruipeng@users.noreply.github.com>,MIT,57429,Convert Bilibili subtitles to plain text — local VTT conversion and BV-number download
+2026-11-17T08:47:14Z,blindrelay,0.1.0,,MIT,17404,Official Python SDK for the Blindrelay transactional email API.
+2026-11-17T08:47:14Z,lrf-uart-decoder,1.0.0,ERDI TECH LTD <tommy@erdimail.com>,MIT,33058,"Decode and auto-detect laser rangefinder / single-point LiDAR UART frames: Benewake TFmini/TF-Luna/TF02/TF03, LightWare, JRT, Nooploop TOFSense, DFRobot SEN0366, ERDI. CLI + library, checksum checkin…"
+2026-11-17T08:47:33Z,nillebco-varda,0.6.0,,MIT,24390408,"Routes markdown tasks to AI agents (Claude, Codex, Copilot) and tracks their lifecycle"
+2026-11-17T08:48:05Z,music-recommender-gif3,0.1.0,Oihane y Miren <oihane.orio@alumni.mondragon.edu>,MIT,8079,A music recommendation library based on song similarity
+2026-11-17T08:55:11Z,datasportsapi,0.0.1,Noventra Software Ltd,MIT,7777,Official client for the DataSportsAPI sports data API (pre-release: a minimal client; the full SDK arrives with 0.1).
+2026-11-17T08:55:50Z,returns-ty,0.1.0,Kevin Castro <hola@kev.pe>,MIT,17482,typed-functional-programming (returns) support for ty-extended.
+2026-11-17T08:55:59Z,supatrace,0.1.0,"Slancha, Inc.",Apache-2.0,30219,Alpha Python client for SupaTrace.
+2026-11-17T08:56:23Z,site-cms-package,0.1.0.dev0,puzzllium <puzzllium@gmail.com>,MIT,77793,"Site CMS for the Core packages: editable pages, FAQ, menu/footer, per-page overrides for pages written in code, site settings and a SEO engine (analysis, safe repair, redirects, 404 monitor, sitemap/…"
+2026-11-17T08:56:53Z,phlite,0.2.0,,MIT,1903,Persistent homology that's light on memory usage: every phlite package
+2026-11-17T08:56:55Z,phlite-clouds,0.2.0,,MIT,188835047,"Persistent homology of point clouds and distance matrices, computed with phlite"
+2026-11-17T08:57:50Z,app-platform-package,0.1.0.dev0,puzzllium <puzzllium@gmail.com>,MIT,256270,"Shared app-product backend modules (billing, payments, prices, support, ads, donations, access, appcenter, backoffice, fonts, analytics, messaging). Every module is switchable from the panel and keep…"
+2026-11-17T08:58:29Z,refix-fix42,0.1.0,David Steiner <david@davidsteiner.dev>,MIT OR Apache-2.0,34962,Typed FIX 4.2 protocol messages for ReFIX
+2026-11-17T08:58:40Z,phlite-complexes,0.2.0,,MIT,338207862,"Persistent homology of sparse filtered chain complexes you build yourself, computed with phlite"
+2026-11-17T08:58:51Z,ms-workflow-utils,1.0.3,"Ms Workflow Technology, co., ltd.",,8767921,BPMN 2.0 workflow engine kernel (C++ protected)
+2026-11-17T08:58:53Z,tohsaka-rin,1.0.0,,MIT,28727,Sketch of Rin
+2026-11-17T08:59:00Z,product-modules-package,0.1.0.dev0,puzzllium <puzzllium@gmail.com>,MIT,9306769,"Product-specific backend modules (religious calendar, music, shares, courses, classroom, Byte panel/contact, per-product sync and payment modules). Each is switchable from the panel and keeps the Dja…"
+2026-11-17T09:00:46Z,phlite-core,0.2.0,,MIT,30773571,"The shared core of phlite's Python packages: choosing an algorithm, and barcodes"
+2026-11-17T09:03:56Z,iptime-cli,0.1.1,El Fenomeno,MIT,69848,"Unofficial command line and Python library for ipTIME routers with the new admin UI (firmware 16.x): clients, DHCP reservations, port forwarding, Wi-Fi, WAN, remote admin. Standard library only."
+2026-11-17T09:04:10Z,git-dirty-triage,0.1.0,El Fenomeno,MIT,39797,"Tell which modified files in a lagging or shared Git checkout are really unpublished, and commit only those on top of the remote tip without pushing."
+2026-11-17T09:05:13Z,reverie-mem,0.3.0,Mudit Sarda <mudit@muditsarda.com>,Apache-2.0,1030169,"Engineering memory for coding agents — conclusions, not logs"
+2026-11-17T09:05:39Z,omnipython-iconkit,0.1.0.dev3,Brad Barnett,MIT AND Apache-2.0,91366,"Material Design icons as flash-resident alpha masks, drawn in LVGL or pygraphics"
+2026-11-17T09:06:09Z,bargcc,0.1.0,Debmalya Ray <debmalya.ray9989@gmail.com>,MIT,16899,BARG-CC: certified reliability gating and selective adoption for multi-view clustering
+2026-11-17T09:06:56Z,panel-agents,0.1.0b0,Philipp Rudiger <philipp@holoviz.org>,BSD,397540,Panel components for building agent user interfaces.
+2026-11-17T09:10:14Z,owui-deploy,0.1.2,LeeGyeongPil,MIT,80453,"Lint, plan and apply Open WebUI Tools and Functions from a git folder (no code execution, idempotent, CI-friendly exit codes)."
+2026-11-17T09:10:43Z,datawright-cli,0.1.0,Clement,MIT,236895,"Lineage, impact reports and join paths compiled from your data repo's code, for AI agents and reviewers"
+2026-11-17T09:12:13Z,tencentcloud-infra-pulumi,0.3.0,,Apache-2.0,6649018,A Pulumi package for creating and managing Tencent Cloud resources.
+2026-11-17T09:12:30Z,smepay,0.1.0,Typof Technologies Pvt Ltd,MIT,20045,Official Python SDK for the SMEPay External API (UPI payments).
+2026-11-17T09:14:27Z,globusiri,0.0.3,Wen Guan <wen.guan@cern.ch>,Apache-2.0,255628,Submit and monitor HPC jobs through the IRI API and move files with Globus (HTTPS and Transfer)
+2026-11-17T09:14:39Z,duebuddy-mcp,1.1.0,DueBuddy <hello@duebuddy.work>,MIT,15591,"MCP server that reads incoming supplier invoices (PDF, photo, XML e-invoices) and returns structured data plus a file for 1C, DATEV or CSV"
+2026-11-17T09:17:19Z,bwh-payments-core,0.1.1,"""developers@buildwithhussain.com"" <developers@buildwithhussain.com>",,81619,Payment gateway connectors and the payment engine for Frappe apps
