@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T01:21:43Z,langchain-kosa8,0.1.0,kosa8,MIT,62270,kosa8 Cloud sandbox integration for LangChain Deep Agents
+2026-11-17T01:23:03Z,sea-transport-data,2026.11.17,Southeast Asia Transport,CC-BY-4.0 AND ODbL-1.0,254599,"Open transport data for Laos, Thailand, Vietnam, Cambodia, the Philippines and Indonesia: border crossings, routes, ferry routes, timetables and transport-map places as JSON, CSV and GeoJSON."
+2026-11-17T01:24:04Z,classinghwp,0.3.11,,,28893515,ClassingHWP 한글(HWP·HWPX) 문서 엔진 chwp-agent. chwp-agent 스킬이 Windows·macOS 에서 쓴다.
+2026-11-17T01:27:21Z,greedy-sms,0.1.0,,ISC,39502,"Python client for the Greedy SMS activation, rental, and email verification API"
+2026-11-17T01:32:46Z,aws_sdk_efs,0.0.0,,Apache-2.0,2051,Placeholder reserving the aws_sdk_efs name. Not yet functional.
+2026-11-17T01:33:15Z,aws_sdk_pinpoint,0.0.0,,Apache-2.0,2112,Placeholder reserving the aws_sdk_pinpoint name. Not yet functional.
+2026-11-17T01:33:39Z,aws_sdk_s3vectors,0.0.0,,Apache-2.0,2123,Placeholder reserving the aws_sdk_s3vectors name. Not yet functional.
+2026-11-17T01:33:59Z,aws_sdk_codepipeline,0.0.0,,Apache-2.0,2155,Placeholder reserving the aws_sdk_codepipeline name. Not yet functional.
+2026-11-17T01:34:10Z,goal-atomistic,0.2.0,Amir Masoud Nourollah <nourollah.am@gmail.com>,MIT,967954,General Open Atomistic Laboratory: train machine-learning interatomic potentials and run molecular dynamics with them
+2026-11-17T01:35:47Z,kedimeet-mcp,1.0.1,KediCode <info@kedicode.cloud>,MIT,22734,"Read-only MCP server for KediMeet: Claude, Cursor, Codex and other AI assistants search and read your recorded calls on your Mac"
+2026-11-17T01:36:27Z,uehara-agentic-kernel-core,0.71.1rc1,,Apache-2.0,66088,UAK core component; contracts and limits are documented in the UAK repository.
+2026-11-17T01:36:29Z,uehara-agentic-kernel-provider-anthropic,0.71.1rc1,,Apache-2.0,8570,UAK provider-anthropic component; contracts and limits are documented in the UAK repository.
+2026-11-17T01:36:30Z,uehara-agentic-kernel-provider-gemini,0.71.1rc1,,Apache-2.0,8704,UAK provider-gemini component; contracts and limits are documented in the UAK repository.
+2026-11-17T01:36:31Z,uehara-agentic-kernel-provider-ollama,0.71.1rc1,,Apache-2.0,9006,UAK provider-ollama component; contracts and limits are documented in the UAK repository.
+2026-11-17T01:36:59Z,airos-tui,2.0,Sergio Rodríguez <srodriguez3441@gmail.com>,GPL-3.0-only,1053123,Terminal UI to configure Ubiquiti airMAX antennas (airOS 8 and airOS 6) as their own web does
+2026-11-17T01:37:21Z,makespdf,0.1.1,makesPDF,MIT,39977,Thin Python client for the makesPDF hosted API (Markdown and DSL templates to PDF)
+2026-11-17T01:37:41Z,aws_sdk_marketplace_metering,0.0.0,,Apache-2.0,2104,Placeholder reserving the aws_sdk_marketplace_metering name. Not yet functional.
+2026-11-17T01:37:58Z,aws_sdk_servicediscovery,0.0.0,,Apache-2.0,2059,Placeholder reserving the aws_sdk_servicediscovery name. Not yet functional.
+2026-11-17T01:38:14Z,aws_sdk_dynamodb_streams,0.0.0,,Apache-2.0,2068,Placeholder reserving the aws_sdk_dynamodb_streams name. Not yet functional.
+2026-11-17T01:38:36Z,aws_sdk_lex_runtime_service,0.0.0,,Apache-2.0,2099,Placeholder reserving the aws_sdk_lex_runtime_service name. Not yet functional.
+2026-11-17T01:42:41Z,typemotion-art-svg,0.1.0,YananLee,MIT,5732,Generate lightweight SVG graphics for TypeMotion.Art workflows
+2026-11-17T01:42:56Z,livelychart-svg,0.1.0,YananLee,MIT,5961,Generate lightweight SVG graphics for LivelyChart workflows
+2026-11-17T01:43:10Z,aiwhiteboard-video-svg,0.1.0,YananLee,MIT,6149,Generate lightweight SVG graphics for AIWhiteboard.Video workflows
+2026-11-17T01:43:24Z,sparkmeld-storyboard-svg,0.1.0,YananLee,MIT,6374,Generate lightweight SVG graphics for SparkMeld workflows
+2026-11-17T01:45:04Z,rulestamp-lit-binding-xss-audit,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33356,"Finds the lit-html binding positions auto-escaping does not cover, before the component ships (bundled Node.js runtime)"
+2026-11-17T01:45:24Z,rulestamp-lockfile-due-diligence-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32995,"npm install scripts, integrity and sources under EU CRA Art. 13(5) (bundled Node.js runtime)"
+2026-11-17T01:45:42Z,rulestamp-loeschkonzept-fristen-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33746,"BEG IV: Buchungsbelege 8 statt 10 Jahre — prüft jede Zeile Ihres Löschkonzepts gegen AO, HGB und DSGVO (bundled Node.js runtime)"
+2026-11-17T01:46:00Z,rulestamp-mcp-2026-migration-lint,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32257,"The 2026-07-28 MCP revision removed the initialize handshake, sessions, ping and 4 more RPCs. 27 rules find them in your mcp.json and server code, with the replacement on each line. (bundled Node.js…"
+2026-11-17T01:48:53Z,kettle-labs,0.1.0,Kettle Labs,Apache-2.0,196543,"A checkpoint in plain code that holds an agent's risky actions for a human yes, and an attack test that counts what gets through."
+2026-11-17T01:49:00Z,aw3-sdk,1.0.0,"""AW3 Technology, Inc."" <contact@aw3.tech>",MIT,15887,"Python client for AW3 Host, the multi-cloud deployment control plane: deploy to 17 clouds from one API."
+2026-11-17T01:49:17Z,billionsend,0.1.0,BillionSend,MIT,131711,"Python SDK for the BillionSend email API: sending, receiving, inboxes for agents, contacts, broadcasts and more."
+2026-11-17T01:50:22Z,cap-inspector,0.1.0,,Apache-2.0,41404,OpenCV-based cap position and opening-state inspection over gRPC
+2026-11-17T01:52:14Z,threeblindmice,0.3.0,,MIT,235848,"Toolkit defensivo de avaliação de segurança: Scout (recon), Sniffer (análise) e Squeak (relatórios)."
+2026-11-17T01:57:47Z,screenspot,0.1.0,screenspot contributors,MIT,33343,"Locate template images on screen and act on them with fluent, chainable calls."
+2026-11-17T02:00:05Z,openjiuwen-security,0.0.1b1,,Apache-2.0,918104,"OpenJiuwen agent security suite: agent_shield, agent_ssas, security_mask and jiuwenbox in one distribution"
+2026-11-17T02:02:40Z,qcstore,0.1.0a1,Colton Hicks <github@coltonhicks.com>,"MIT License Copyright (c) 2026 Atoms for Humanity Permission is hereby granted, free of charge, to…",183912,"A store for quantum chemistry results: plain JSON records, safe under concurrent writers."
+2026-11-17T02:05:52Z,solarian-dynamixel,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,58616,Dynamixel servo actuator and bus plugin for Solarian robotics framework
+2026-11-17T02:06:01Z,solarian-umi,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,737343,Run and train a UMI diffusion policy. Each task is a yaml in the project's conf/.
+2026-11-17T02:06:07Z,solarian-diffusion,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,456352,Diffusion (UMI) policy plugin for Solarian: trains and serves a DiffusionUnetTimmPolicy
+2026-11-17T02:06:36Z,tigrbl-skills,0.1.0a1,Tigrbl <support@tigrbl.com>,Apache-2.0,14459,Portable installer and marketplace manager for Tigrbl Codex plugins.
+2026-11-17T02:08:12Z,tigrbl-skills-engineer,0.1.0a1,Tigrbl <support@tigrbl.com>,Apache-2.0,97821,Portable Tigrbl Engineer Codex plugin.
+2026-11-17T02:09:20Z,rqmesh,0.1.0,Daniel Sandner,Apache-2.0,191597,"Structure-aware quad remeshing, simplification and retopology (pure Python + NumPy)"
+2026-11-17T02:09:27Z,tigrbl-skills-maintainer,0.1.0a1,Tigrbl <support@tigrbl.com>,Apache-2.0,32822,Portable Tigrbl Maintainer Codex plugin.
+2026-11-17T02:10:37Z,tigrbl-skills-app-authoring,0.1.0a1,Tigrbl <support@tigrbl.com>,Apache-2.0,54717,Portable Tigrbl App Authoring Codex plugin.
+2026-11-17T02:11:48Z,linkhash,0.0.1,Linkhash <oss@linkhash.ai>,Apache-2.0,13520,Shared core utilities for Linkhash Python libraries.
+2026-11-17T02:12:19Z,mcintosh-serial,0.1.0,,MIT,30050,"Async Python library for controlling McIntosh receivers, preamps and amplifiers over RS232."
+2026-11-17T02:13:41Z,linkhash-provo,0.0.1,Linkhash <oss@linkhash.ai>,Apache-2.0,15848,Provo: payments toolkit by Linkhash (early development).
+2026-11-17T02:14:19Z,cupel-cli,0.3.0,,BSD-3-Clause,5972,Verification suite that grades what a coding agent produced. Runs the cupel release binary for this platform.
+2026-11-17T02:14:55Z,azure-health-console,1.1.0,Rafael Sonego da Silva,MIT,1517603,"Read-only Azure health view: pick a resource, see what it depends on and whether any of it is unhealthy."
+2026-11-17T02:15:04Z,snappy-cython-file,1.4.7,Isaac Onagh <mkalafsaz@gmail.com>,MIT,97154,A self-contained Snappy raw-format codec written in Cython
+2026-11-17T02:17:46Z,mythic-console,1.0.0,thespicybyte,"MIT License Copyright (c) 2024 thespicybyte Permission is hereby granted, free of charge, to any pe…",379194,A Textual terminal UI for interacting with a Mythic C2 server.
