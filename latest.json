@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-11-16T22:18:37.875539Z",
-    "path": "data/new-packages-2026-11-16T23-20-59-836215Z.csv",
-    "to": "2026-11-16T23:20:59.836215Z"
+    "count": 37,
+    "from": "2026-11-16T23:20:59.836215Z",
+    "path": "data/new-packages-2026-11-17T00-19-48-544517Z.csv",
+    "to": "2026-11-17T00:19:48.544517Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-16T23:00:44Z",
       "package": "auragrid-py",
       "since": "2026-11-16T22:18:37.875539Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-16T20:49:32Z",
       "package": "pinesandbox",
       "since": "2026-11-16T20:20:12.993028Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-16T23:19:14Z",
-      "package": "tallwright-langgraph",
-      "since": "2026-11-16T22:18:37.875539Z",
-      "version": null
     }
   ],
-  "serial": 43756938,
+  "serial": 43759112,
   "source_truncated": false,
-  "window": "2026-11-16T23:20:59.836215Z"
+  "window": "2026-11-17T00:19:48.544517Z"
 }

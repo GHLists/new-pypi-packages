@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-16T23:19:14Z,tallwright-langgraph,0.1.0,Tallwright,Apache-2.0,15926,"Tallwright - Cloud Proof for LangChain/LangGraph v1 agents, as one middleware"
+2026-11-16T23:21:59Z,tabgen-eval,0.1.0,Granica Research,Apache-2.0,4173948,"Evaluation of tabular generative models with fidelity, memorization, utility, and sampling uncertainty."
+2026-11-16T23:22:16Z,limsport,1.0.0,Sage Wright,GPL-3.0-or-later,330827,Transform a TSV table's column names and perform QC on rows to generate a LIMS-importable file.
+2026-11-16T23:24:35Z,fluxgate-caliper,0.1.0,FluxGate AI,LicenseRef-Proprietary,12399,The Python client for Caliper: ask a Caliper endpoint questions from any Python program.
+2026-11-16T23:24:44Z,specprobe-openapi,1.0.1,Basheer Adel,MIT,164940,Desktop GUI and CLI for testing any OpenAPI/Swagger API
+2026-11-16T23:24:45Z,spacetime-sym,1.0.0,"""Dr. Bogdan Tanygin"" <bogdan@deeptech.business>",GPL-3.0-only OR LicenseRef-Commercial,72254,"Python library for spatial and dichromatic point groups, Curie limiting groups, multiple antisymmetry, and physical-quantity invariance up to rank 2."
+2026-11-16T23:25:24Z,byond-wire,0.1.0,Wirewraith,MIT,20831,Small standard-library BYOND Topic client
+2026-11-16T23:27:15Z,tallwright-mcp,0.1.0,Tallwright,Apache-2.0,11621,"Tallwright - Cloud Proof for MCP tool calls, by wrapping the client session you already hold"
+2026-11-16T23:27:34Z,ooxpy,0.5.2,,MIT,2809688,"Office Open XML (docx, xlsx, pptx) the odfpy way: a factory per element, generated from the schemas, with validation"
+2026-11-16T23:27:58Z,mercy-pay-django,0.1.0,,MIT,11735,Mercy Pay pour Django : client configuré par les settings et webhooks signés en signaux.
+2026-11-16T23:29:43Z,clearideas-egress,0.3.0,Clear Ideas,MIT,152795,Generic policy decisions for a Squid egress proxy
+2026-11-16T23:29:48Z,ai-permission-supervisor,0.1.0,Team TINSY,MIT,155882,"Local guardrail for IBM Bob: intercepts every agent tool call and allows, denies, or escalates it to a human before it runs."
+2026-11-16T23:31:39Z,tallwright-openai-agents,0.1.0,Tallwright,Apache-2.0,13560,"Tallwright - Cloud Proof for OpenAI Agents SDK runs, as the SDK's run hooks"
+2026-11-16T23:35:05Z,tallwright-otel,0.1.0,Tallwright,Apache-2.0,11481,"Tallwright - Cloud Proof for OpenTelemetry GenAI spans, as a span processor"
+2026-11-16T23:40:27Z,themadoc,0.1.0,nomisge <nomisge@live.de>,GPL-3.0-or-later,90366,ThemAdoc - Themed AsciiDoc document converter powered by Asciidoctor and Pandoc
+2026-11-16T23:40:45Z,ancient-processor,4.0.1,Super Processor contributors,MIT,6942682,Local-first AI-assisted video processing
+2026-11-16T23:44:15Z,brewsorted-cli,0.8.4,,,138924,Portable HTTP client for the BrewSorted API
+2026-11-16T23:46:09Z,hamingjur,0.1.0,"Adam DePrince, Jeff Quast, Erik Rose, Avram Lubkin",MIT,1059183,A pure Python fork of Blessed with Kitty and Silkie terminal protocols.
+2026-11-16T23:49:23Z,chloedb-server,0.3.7,,Apache-2.0,252198100,"ChloeDB's server, prebuilt: a search database (full text, vectors, graphs, SQL) over HTTP and gRPC, with a command center in the browser"
+2026-11-16T23:52:06Z,context-mapper,0.20.2,Henrique Moody <henriquemoody@gmail.com>,ISC,90955,Builds an interactive context map and Mermaid diagrams from a YAML domain model.
+2026-11-16T23:52:49Z,onehealth,0.4.0,bhargava-morampalli,MIT,2977513,"Resolve NCBI isolate IDs, classify their isolation sources into One Health categories, and compare sources."
+2026-11-16T23:53:20Z,synthetic-balance,0.1.0,"""Joel Velasco, Unax Martinez"" <joel.velasco@alumni.mondragon.edu>",MIT,33845,This library synthetically balances numerical data samples across different subgroups within a category.
+2026-11-16T23:54:11Z,gesso-sdk,0.1.0,Qamber Haidry <qamber.haidry@gmail.com>,MIT,155460,Gesso — a framework for building Qt (PySide6) desktop applications
+2026-11-16T23:54:53Z,anchorpass,0.1.1,,MIT,75136,Synchronous and asynchronous HTTP protocol client with explicit proxy routing
+2026-11-16T23:55:25Z,kk-meshcut,0.2.0,,MIT,277766,"K&K meshcut - cut 3D meshes into parts exactly and put them back together, with a round-trip proof"
+2026-11-16T23:55:33Z,psephi,0.1.0,Psephi,MIT,62459,Command-line client for the Psephi personal finance API
+2026-11-16T23:56:39Z,ops-requisition-auditor,1.5.0,Alexandru Manning,AGPL-3.0-only OR LicenseRef-Commercial,350029,"ops-requisition-auditor: deterministic, explainable JD Alignment scoring with quoted evidence and zero-fabrication rewrites for operations, WFM, and BI requisitions"
+2026-11-17T00:00:44Z,glovebox-core,0.1.2,AlexanderMattTurner,Apache-2.0,171884,"Glovebox's security decisions as pure functions: the host rules, the JSON reader and the egress verdict"
+2026-11-17T00:02:48Z,samotate,0.1.0,samotate contributors,MIT,64829,"SAM-assisted auto-labeling for object detection, with YOLO dataset export"
+2026-11-17T00:03:24Z,AppleCrumble,0.1.0,,,5803,AppleCrumble is a simple SSG that converts your markdown into HTML for the browser.
+2026-11-17T00:04:17Z,aruco-pose,0.2.0,Jonathan Shulgach,Apache-2.0,1401865,"A robust toolkit for ArUco marker detection, pose estimation, and custom 3D model tracking"
+2026-11-17T00:08:58Z,zombieos-zsharp,1.4.1.1,ZombieOS,Apache-2.0,29411,Call public Z# functions from standalone Python
+2026-11-17T00:10:58Z,codehood-cli,0.5.0,Fábio Macêdo Mendes,MIT,328643,"Command line client for Codehood, an LMS for geeky types."
+2026-11-17T00:11:13Z,chalk-worker,0.5.0,Fábio Macêdo Mendes,MIT,62290,Pull worker that grades code answers of a Codehood course on the teacher's machine.
+2026-11-17T00:11:53Z,sensorium-trace,0.18.2,bricelancasterwcp-sudo,MIT,6788925,"Execution-trace recorder for Python programs, driver and converter for the TypeScript and C recorders, and the LLM-native query CLI that reads every sensorium trace: Python's, the Rust recorder's, th…"
+2026-11-17T00:14:52Z,punk-records,0.1.0,gablooge,MIT,64490,"One brain for all your AI agents' memories (CLAUDE.md, AGENTS.md, napkins, rules), synced online or air-gapped."
+2026-11-17T00:19:24Z,aws_sdk_config_service,0.0.0,,Apache-2.0,2032,Placeholder reserving the aws_sdk_config_service name. Not yet functional.
