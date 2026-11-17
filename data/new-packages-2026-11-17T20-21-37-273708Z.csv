@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T18:30:00Z,padme-asm,0.2.0,Luiz Felipe,MIT,501971,Monitora a superfície de ataque dos seus domínios e avisa quando algo muda
+2026-11-17T19:20:26Z,amchi,0.0.1,Andreas V. Copan,MIT,54250,
+2026-11-17T19:21:35Z,raytatouille,0.10.0,,MIT AND Apache-2.0 AND BSD-3-Clause AND MPL-2.0,30992109,Raytracing engine for optical design
+2026-11-17T19:22:53Z,mt940-camt053,0.1.0,,MIT,35331,"Convert bank statements between SWIFT MT940 and ISO 20022 CAMT.053 (both ways), or to CSV. Offline, with a balance check."
+2026-11-17T19:23:16Z,status-machina,0.1.14,Jacobus Geluk <jacobus.geluk@dataroad.com>,MIT OR Apache-2.0,3712675,"Native typed, caller-driven state machines with checked composition"
+2026-11-17T19:25:07Z,memomee,0.0.1,Synapti AS,All rights reserved,2456,Reserved by Synapti AS for the memomee client. The real package has not been published yet.
+2026-11-17T19:25:37Z,tenthcheck,0.1.1,,MIT,84762,"Tenthcheck, from Tenthlook: see what an AI coding agent's edit could break before it lands. Static checks for Python: dependents by hop, import cycles, edit impact. CLI and MCP server."
+2026-11-17T19:31:53Z,ymf,0.3.0,cekees,MIT,623944,"YAML Modeling Format for computational physics — problem specification, VVUQ, and multi-backend dispatch."
+2026-11-17T19:32:02Z,jabuti,0.3.0,,MIT,90980,CLI para criação e padronização de projetos de software
+2026-11-17T19:36:02Z,ai-devlease-client,0.1.6,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,Proprietary,30155,Typed client of the ai-devlease lease manager - a wrapper over the mcp-proxy-adapter framework client
+2026-11-17T19:36:34Z,cyvex-cli,0.1.0,Cyvex,MIT,46190,Cyvex developer CLI - scan a local folder from the terminal
+2026-11-17T19:37:19Z,metalog2,0.1.0,Stephen Xu,MIT,33749,"Feasibility test, moments, and best feasible fit for the metalog 2.0 distribution"
+2026-11-17T19:38:27Z,desktop-venv-manager,0.1.2,Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>,GPL-3.0-only WITH Classpath-exception-2.0 OR BSD-3-Clause,68378,"A local Linux desktop application for creating, importing, inspecting, and managing Python `venv` environments."
+2026-11-17T19:39:43Z,contitext,0.5.3,Contitext contributors,Apache-2.0,94865,"Project continuity for AI agents: state, decisions, checkpoints, and handoffs."
+2026-11-17T19:40:36Z,ofacmatch,0.1.0,Krunal Solanki,Apache-2.0,22599,Python client for the self-hosted OfacMatch REST API: explainable OFAC SDN name screening that keeps your data on your own server.
+2026-11-17T19:40:49Z,dismisstress,0.1.0,,,50518,TUI manager for GitHub notifications
+2026-11-17T19:41:01Z,tencentcloud-sdk-python-makers,3.1.207,Tencent Cloud,Apache License 2.0,45273,Tencent Cloud Makers SDK for Python
+2026-11-17T19:41:28Z,hfget,0.1.0,Mohammad Sharara,MIT,81894,"Download Hugging Face models and datasets with curl, continuing partial files where they stopped."
+2026-11-17T19:42:42Z,cctmux,0.6.1,Paul Robello <probello@gmail.com>,"MIT License Copyright (c) 2026 Paul Robello Permission is hereby granted, free of charge, to any pe…",275666,Launch Claude Code inside tmux with session management
+2026-11-17T19:43:14Z,geoserver-dataops,0.2.0,,MIT,194799,"The data GeoServer publishes, loaded into PostGIS and kept up to date from YAML files: ArcGIS, CKAN, STAC, Overture, OpenStreetMap, WFS, OGC API and more"
+2026-11-17T19:43:54Z,fluidattacks_core_snippets,0.1.0,Development <development@fluidattacks.com>,MPL-2.0,1195802,Fluid Attacks Core Snippets Library
+2026-11-17T19:45:08Z,groundbox,0.1.0,Groundbox <contact@groundbox.dev>,MIT,11768,Python SDK for the Groundbox API: sandboxes and CI runners for your agents
+2026-11-17T19:47:36Z,fhir-inspector-mcp,1.0.1,,MIT,50842,"Zero-cost MCP server to inspect, validate, summarize, and generate FHIR R4/R5 resources"
+2026-11-17T19:48:33Z,github-milestone-roadmap,0.1.0,Leif Denby,MIT,57896,Build a live roadmap website from GitHub release milestones across several repositories
+2026-11-17T19:49:46Z,ternaryai,1.0.0a1,FDeveloper-hub,Apache-2.0,1683410,"Neural networks with strictly ternary weights (-1, 0, +1), computed in C"
+2026-11-17T19:50:50Z,aamio-lan,0.1.0,AI SENSE AS,MIT,14197,"aamio over the local network: a transport under contract 3 that sends each frame as one UDP datagram, to an address or to everyone on the network."
+2026-11-17T19:56:09Z,langchain-langsmith-cli,0.5.0,LangChain,MIT,55353822,"The LangSmith CLI, an agent-first command line for LangSmith"
+2026-11-17T19:58:16Z,nethack-gamepad-gym,0.1.0,,NGPL,9783814,NetHack with original tiles and a gamepad interface.
+2026-11-17T20:01:41Z,channels-cleaner,1.0.1,,MIT,914457,"Tinder-like cleanup of your Telegram channel subscriptions, running locally"
+2026-11-17T20:02:01Z,clinestra,0.3.0,Augsidius,AGPL-3.0-or-later,1339671,"Open-source harness for longitudinal clinical care: every concept around the patient with its rules, a generated FastAPI Clinical API, and scoped tools for AI agents."
+2026-11-17T20:05:31Z,nibblergb,1.4.1,HeiGIT,AGPL-3.0-only,82161,Vehicle speed measurements from OpenStreetMap road geometry and Sentinel-2 imagery
+2026-11-17T20:05:37Z,labpay,0.1.0,Labyrinthe Innovations SARL <contact@labyrinthe-rdc.com>,MIT,57325,"Official Python SDK for LabPay: collect and send Mobile Money (M-Pesa, Airtel Money, Orange Money, MTN MoMo…) across Africa."
+2026-11-17T20:12:47Z,tesseraline-invariants,0.0.1,Tesseraline,PolyForm-Noncommercial-1.0.0,515953,"Promises about what a function's output may contain, checked by code and recorded in a lock file."
+2026-11-17T20:16:34Z,roulette-cell-tool,1.0.0,billy-ngo,MIT,87626,Outline cells in TEM images and measure their area and perimeter
+2026-11-17T20:17:30Z,tensorc,0.10.0,Carlos Guedea,Apache-2.0,84006,"Neural network framework in C11 with autograd, callable from Python"
+2026-11-17T20:17:56Z,bibaifilter,1.0.0,"Burak Can Kara, Alperen Şahin",GPL-3.0-or-later,906080,"LLM-assisted relevance scoring and eligibility screening of bibliographic records, with full call-level audit logs"
+2026-11-17T20:18:08Z,vsview-graph,0.1.0,Vardë <ichunjo.le.terrible@gmail.com>,EUPL-1.2,274047,Interactive dependency graph visualizer for vsview using Cytoscape.js and vsgraph
+2026-11-17T20:18:51Z,pyrpn-lib,0.1.0,Breadleaf,,8237,"A type-safe, decorator-driven RPN stack library for Python"
