@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T04:19:37Z,falabella-sdk,1.0.0a1,Camilo Andrés Rodríguez Higuera <andres.roh@outlook.com>,MIT,38015,Unofficial Python SDK for the Falabella Seller Center API
+2026-11-17T04:21:22Z,zenmaid-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15453,"Connect ZenMaid to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev, a hosted MCP server. No ZenMaid API key needed."
+2026-11-17T04:23:47Z,py-tiehu-sdk,0.1.0,guolei <174000902@qq.com>,,112158,铁虎道闸平台 Python SDK - 同步接口调用（官方文档: https://www.showdoc.com.cn/1735808258920310/9467753400037587）
+2026-11-17T04:31:35Z,dettato,2.0.0,Nathan Mills,Apache-2.0,132094,"Multi-instrument audio-to-MIDI transcription: notes, instrument-named tracks and drums from any recording"
+2026-11-17T04:37:35Z,langchain-convexlake,0.1.0,,MIT,15462,LangChain tools for ConvexLake prediction-market and options data.
+2026-11-17T04:39:26Z,daz-mcp-server,0.8.0,Blue Moon Foundry,MIT,837609,MCP server wrapping the DazScriptServer HTTP API for DAZ Studio
+2026-11-17T04:44:34Z,axionmultiphysics,0.1.0,"Joshua N. Benabou, Joshua W. Foster, Benjamin R. Safdi","BSD 3-Clause License Copyright (c) 2026, Joshua N. Benabou, Joshua W. Foster, Benjamin R. Safdi Red…",258176809,"Finite-element simulation for axion dark-matter detectors: lumped-element detectors from the field solve to the scan reach, with beta modules for cavity haloscopes, SRF heterodyne cavities, dc SQUID…"
+2026-11-17T04:46:47Z,bocconcini,4.3.1,Grasso Maurizio,MIT,106183,Local LLM client for small usable windows. Zero runtime dependencies.
+2026-11-17T04:49:47Z,securelint,1.0.0,Faten Harbaoui,MIT,252474,A security scanner and CI policy gate for Python projects.
+2026-11-17T04:52:33Z,orimem-mcp,0.1.2,Orion,MIT,381588,"Local Obsidian-vault memory for coding agents (Claude Code, Codex, DeepSeek Harness) over MCP: hybrid recall, verified write-back, conversation capture and daily summaries."
+2026-11-17T04:53:34Z,ai-os-desktop,0.1.0,,MIT,58680,Voice-first Windows desktop control: a voice assistant and an MCP server for DeepSeek Harness and other agents
+2026-11-17T04:55:35Z,cgajs-mcp,0.1.0,,Proprietary,4280,"CGA.js Cloud MCP server: compile CGA rules to 3D models (GLB) for MCP clients (kimi code, codex, Claude Desktop)"
+2026-11-17T04:55:37Z,nl2cga-mcp,0.1.0,,Proprietary,4053,"NL2CGA Cloud MCP server: natural language to CGA rules for MCP clients (kimi code, codex, Claude Desktop)"
+2026-11-17T04:57:03Z,cryptodown,1.0.0,namkeenbiskoot,,21115,Offline CNS Lab Program Generator for Lab Exams
+2026-11-17T05:02:46Z,claude-multi-desktop,0.1.2,claude-multi-desktop contributors,MIT,34299,"Run multiple Claude Desktop accounts at once on a Mac, sharing one Claude Code setup"
+2026-11-17T05:03:16Z,chalk-classroom,0.1.0,Fábio Macêdo Mendes,MIT,262171,Command line tool to grade quizzes and keep a roster and grades in plain text files.
+2026-11-17T05:04:39Z,fontpkg-josefin-slab,2.100,,OFL-1.1,59151,"Josefin Slab font family, packaged for Python by fontpkg"
+2026-11-17T05:04:42Z,fontpkg-alegreya,2.9,,OFL-1.1,437917,"Alegreya font family, packaged for Python by fontpkg"
+2026-11-17T05:04:44Z,fontpkg-noto-sans-bengali,3.11,,OFL-1.1,308856,"Noto Sans Bengali font family, packaged for Python by fontpkg"
+2026-11-17T05:04:47Z,fontpkg-neuton,1.560,,OFL-1.1,212401,"Neuton font family, packaged for Python by fontpkg"
+2026-11-17T05:05:53Z,MRCL2Suhail,1.0.0,,,3460,Document integrity utility
+2026-11-17T05:14:39Z,northtracks,1.0.0,North Tracks Team,MIT,52517,North Tracks - Autonomous 320k Studio Audio Downloader & Organizer
+2026-11-17T05:15:39Z,aws-hit-breaks,1.0.0,AWS Break CLI Team,MIT,79338,Emergency cost control for AWS accounts - pause all services without deletion
+2026-11-17T05:15:39Z,vera-anchor-verifier,0.1.0,Vera Anchor,MIT,529871,"Independent, read-only verification of Vera Anchor evidence and supported HCS records"
+2026-11-17T05:16:49Z,rocq-live,0.1.0,Kyle Zhang,MIT,70293,"Live Rocq proof sessions for coding agents: a CLI and MCP server, with no per-project setup"
+2026-11-17T05:17:36Z,dwg2image,0.1.0,,,14757,Convert DWG drawings to PNG via an external ODA converter and ezdxf
