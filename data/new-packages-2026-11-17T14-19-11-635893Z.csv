@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T10:22:37Z,odoo-addon-website-sale-product-catalog-public-category,18.0.1.0.0.2,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,27480,Browse the product catalog by eCommerce category
+2026-11-17T10:26:13Z,odoo-addon-payment-amazon-pay,18.0.1.0.0.4,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,41235,Amazon Pay payment provider for Odoo
+2026-11-17T13:19:24Z,brez-sglang,0.0.1a0,,Apache-2.0,1810,SGLang async H2D and Triton sparse-outlier specialist runner
+2026-11-17T13:19:31Z,ai-native-system,0.1.1,,LicenseRef-AI-Native-System-Noncommercial-1.3 AND MIT,690041,A framework for verifiable enterprise AI tasks
+2026-11-17T13:20:32Z,jupyterlab-tarot-card,0.2.0,,MIT,1201286,"A JupyterLab sidebar for a one-card tarot draw, AI reading, and latest saved record."
+2026-11-17T13:21:51Z,goome-cli,0.5.3,sevvy-wevvy,GPL-3.0-only,48109,"goome new makes a new goome project from a template, goome build --web puts an app in the browser. One file, no dependencies."
+2026-11-17T13:22:01Z,german-b2b-mcp,0.1.0,André Grunert,MIT,49045,"Standalone Model Context Protocol (MCP) server for the German & DACH B2B Data, Compliance & PropTech API Suite powered by Apify Cloud Actors."
+2026-11-17T13:22:40Z,tribulnation-terminal,0.3.1,Marcel Claramunt <marcel@tribulnation.com>,MIT,140156,"Tribulnation Terminal: a typed async Python client and the tn terminal command line, for your portfolio and market data (read-only)"
+2026-11-17T13:23:53Z,aeon-jurist,0.2.0,"""Römer, Johann"" <joberoemer@gmail.com>",MIT,50144,"A map, not a verdict: sourced legal cases on personhood and rights for nature, animals and AI (GenesisAeon P55)"
+2026-11-17T13:25:07Z,ayentra,1.0.0,Ayentra <support@ayentra.dev>,MIT,499385,"Invariant-aware verification gate with property-based shrinking, deterministic concurrency checks, and sandbox patch verification."
+2026-11-17T13:28:14Z,caelum-ai,0.1.0,Issouf KANAZOE,Apache-2.0,1055035,"The control plane for AI inference: drop-in caching, routing, observability and fallback for LLM APIs."
+2026-11-17T13:29:23Z,FxTermuxTui,0.1.0,,"MIT License Copyright (c) 2026 kksk Permission is hereby granted, free of charge, to any person obt…",14196,FxTermuxTui: TUI for Termux
+2026-11-17T13:31:07Z,hoglint,0.1.0,PostHog,,22677982,"Boundary linter for large Python and Django monorepos, with a Rust engine"
+2026-11-17T13:31:26Z,yandex-autodsat,66.0.3,Yandex,,1162,A package to prevent Dependency Confusion attacks against Yandex.
+2026-11-17T13:31:37Z,yandex-crowd-jj-matchers,66.0.3,Yandex,,1170,A package to prevent Dependency Confusion attacks against Yandex.
+2026-11-17T13:31:59Z,byterun,0.0.2,ByteRun,Apache-2.0,13553,"Official Python SDK for ByteRun, an AI infrastructure platform for Python, SQL and AI agent execution."
+2026-11-17T13:32:46Z,gea-pushbutton-hmi,1.0.0,BASIT AKRAM <basit.akram@gaengineering.com>,MIT,56825,"Industrial RS-485 driver library for PB-DEV-HMI push-button LED light controllers (firmware 4.1+, PIC24FV)"
+2026-11-17T13:35:05Z,spanlint,0.2.0,Artiom Kuciuk,Apache-2.0,100787,Conformance linter for OpenTelemetry GenAI telemetry
+2026-11-17T13:36:08Z,flynet,0.1.0,Yoav Haimov <haimovyoav.work@gmail.com>,MIT,680401,Spiking neural network library based on the Drosophila brain connectome
+2026-11-17T13:36:27Z,ecpfs,0.10.0,Omar Shahbaz Khan <osk@oskhan.com>,MIT OR Apache-2.0,35725930,"Extended Cluster Pruning (eCP) approximate nearest neighbor index, with a Rust core"
+2026-11-17T13:37:21Z,paymid-mcp,0.1.0,Paymid <contact@aufwassen.com>,MIT,8785,"Commission protection for middlemen: the commission is paid first, then the seller is paid. Stdio bridge to the hosted Paymid MCP server."
+2026-11-17T13:37:25Z,crewai-paymid,0.1.0,Paymid <contact@aufwassen.com>,MIT,8810,"Commission protection for middlemen: the commission is paid first, then the seller is paid. CrewAI tools backed by the hosted Paymid MCP server."
+2026-11-17T13:40:01Z,browserless,0.1.0,Browserless <eng@browserless.io>,MIT,4134,"Installs browserless-bap, the Python client for Browserless's Browser Automation Protocol"
+2026-11-17T13:40:12Z,covtl-sandhi,0.1.1,covtl-sandhi contributors,GPL-3.0-or-later,171024,"Cross-word sandhi (liaison, raddoppiamento, enlace, encadeamento, Glottalversatz, a-an + onset linking) for the COVTL pipeline languages"
+2026-11-17T13:40:24Z,covtl-synth,1.2.1,Frédéric Berthommier,GPL-3.0-or-later,6752193,"Articulatory synthesis from text (Berthommier COVTL model + VocalTractLab): 5 speakers, 6 languages, expressive prosody, phonation modes, sandhi, polar video"
+2026-11-17T13:40:33Z,covtl-console,3.1.9,Frédéric Berthommier,GPL-3.0-or-later,261782,"COVTL Lab Console — local web interface for covtl-pipeline (G2P preview, SAMPA guard, syllable compiler, continuous polar display)"
+2026-11-17T13:44:34Z,brother-bridge,1.0.0,brother-bridge contributors,GPL-3.0-or-later,141508,"Parse, render and print Brother P-touch (.lbx) label templates on Windows (b-PAC) and Linux/macOS (Brother QL raster, CUPS)."
+2026-11-17T13:46:11Z,gafa,1.3.0rc1,"Yngvar Larsen <ynla@norceresearch.no>, Tom Grydeland <tgry@norceresearch.no>, Temesgen Gebrie Yitay…",Apache-2.0 OR LicenseRef-ESA-PL-Permissive-2.5,2195004,GAFA -- The Geometry and Frequency Agnostic SAR processor
+2026-11-17T13:48:06Z,cmr-emulator,0.1.0,,GPL-3.0-or-later,2288936,"OpenMalaria emulator for Cameroon (prevalence, clinical incidence, episodes averted per district, 2026-2030)"
+2026-11-17T13:48:45Z,covtl,1.2.1,Frédéric Berthommier,GPL-3.0-or-later,29774,"The COVTL articulatory speech synthesis suite: covtl-synth engine, covtl-console web bridge, covtl-sandhi cross-word rules - one install command"
+2026-11-17T13:51:45Z,consilience,0.1.0,Anuja Khatri,MIT AND CC-BY-4.0,160571,"Compare two measurements with units and conditions, and check a table against written limits. Refuses what it cannot read; every result has a receipt you can re-run."
+2026-11-17T13:51:47Z,deepsift,0.2.1,Saaketh Kesireddy <saakethr.kesireddy@gmail.com>,MIT,67658,High-performance historical Reddit research toolkit and scraper for Arctic Shift.
+2026-11-17T13:53:24Z,casapi,0.1.0,dceoy <dceoy@users.noreply.github.com>,AGPL-3.0-only,52056,Stateless HTTP API for remote Claude Code execution powered by Claude Agent SDK
+2026-11-17T13:54:48Z,privset,0.1.0,Internset,LicenseRef-Proprietary,81441,"Server SDK for Privset: consent, privacy rules, requests and signed webhooks."
+2026-11-17T13:56:15Z,riskstate-guard,0.1.0,RiskState,MIT,29682,"Enforce RiskState pre-trade risk permissions locally: size caps, entry blocking, fail-closed, shadow mode. Includes a Freqtrade mixin."
+2026-11-17T13:57:25Z,llmdup,0.1.0,,Apache-2.0,210638,"From a Kubernetes cluster to a working llm-d endpoint: a terminal UI for people, a JSON CLI and an MCP server for agents."
+2026-11-17T13:57:43Z,operation-dispatcher,1.0.0,,GPL-3.0-only,174606,Lightweight operation dispatcher package for managing and executing operations
+2026-11-17T13:59:56Z,tap-indec,0.2.0,Lautaro Celli <cellilautaro@gmail.com>,Apache-2.0,73930,Tap de Meltano para ingerir series estadísticas del INDEC (Argentina)
+2026-11-17T14:01:42Z,agent-town-hall,0.1.0,Neil Massella,MIT,38031,"Lightweight, local-first communication CLI for independent AI coding agents"
+2026-11-17T14:03:15Z,faxforagents-crewai,0.2.0,Fax for Agents <hello@faxforagents.com>,MIT,338689,Fax for Agents tools for CrewAI.
+2026-11-17T14:03:19Z,jupyterlab-openbis-toolbar,4.0.0,ID SIS | ETH Zürich <sis.helpdesk@ethz.ch>,Apache-2.0,159287,JupyterLab openBIS toolbar: connect to openBIS and download/upload datasets from a notebook
+2026-11-17T14:03:49Z,psd-python,2.0.0,Gregor Skok <Gregor.Skok@fmf.uni-lj.si>,MIT,19174,Precipitation Smoothing Distance for fields on a planar grid
+2026-11-17T14:04:10Z,ultrazohm-cli,0.1.1.dev0,,Apache-2.0,16057453,Rust-powered UltraZohm acquisition and control
+2026-11-17T14:04:31Z,switchyard-openfeature,0.1.0,,Apache-2.0,27742,"Switchyard OpenFeature provider for Python: local evaluation, streaming updates"
+2026-11-17T14:04:50Z,aioartemis,0.1.0,Maksim Smirnov <smirnoffmg@gmail.com>,Apache-2.0,50814,asyncio AMQP 1.0 client for ActiveMQ Artemis with failover across nodes
+2026-11-17T14:07:24Z,arbobase,0.0.1,Kyell Jensen,MIT,3436,"An open, STA-aligned data standard for tree cadastres"
+2026-11-17T14:07:28Z,arbosphere,0.0.1,Kyell Jensen,MIT,3444,Open platform for tree and environmental data
+2026-11-17T14:07:30Z,silvasonic,0.0.1,Kyell Jensen,MIT,3528,Autonomous bioacoustic monitoring system
+2026-11-17T14:10:17Z,obligra-verify,0.1.0,Obligra <support@obligra.ai>,Apache-2.0,27806,Obligra Verify Python SDK — explicit server-side capture of AI decision records
+2026-11-17T14:11:59Z,tech-teardown,0.1.1,Mario Meyer <mario@reyem.tech>,MIT,167583,"Passive web-app architecture reconnaissance with subdomain fan-out, emitting an agent-readable JSON contract."
+2026-11-17T14:13:02Z,adaptive-dq,0.1.0,Thanigaivendhan Thiyagarajan,MIT,19405,"Adaptive statistical data quality detection for streaming data pipelines (KS, PSI and Wasserstein ensemble with adaptive recalibration)"
+2026-11-17T14:13:29Z,ainsys,0.1.1,,LicenseRef-AI-Native-System-Noncommercial-1.3,7606,Short installation and command names for AI Native System
+2026-11-17T14:14:14Z,odoo-addon-sale-order-line-smartbutton,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,28536,"Access, search and edit sale order lines from a smart button"
+2026-11-17T14:14:20Z,minimax-accounting-mcp,0.1.0,Blazium <info@blazium.si>,MIT,127308,"MCP server for the Minimax accounting API (moj.minimax.si / .hr / .rs): invoices, customers, items, stock, journals and more, for LLM clients."
+2026-11-17T14:15:07Z,radicalbit-ai-gateway-sdk,1.0.0rc1,,Apache-2.0,105124,Python SDK for the management API of the Radicalbit AI Gateway.
+2026-11-17T14:15:52Z,iso-standard-check,0.1.0,referencesource.org,CC0-1.0,4744126,Find ISO and IEC standard citations in a repository and fail CI on the editions ISO's own register marks withdrawn — every verdict with the register row it was read from
+2026-11-17T14:15:57Z,esm3di,0.2.0,"Finn Weikert, Philippe Le Mercier, Christophe Dessimoz",MIT,163564,"Lightweight ESM3Di inference, cleavage prediction, and FoldSeek database tools"
+2026-11-17T14:16:31Z,parsosaur,0.1.0,Anil Madhavapeddy <anil@recoil.org>,MIT,341157,"Convert academic PDFs to JSON, TEI XML, and HTML."
+2026-11-17T14:16:48Z,moj-data-loader,2.2.0,,,48751,"MoJ Data Loader (MoDaL) provides an easy-to-use, config-driven way to load files from S3 into Athena."
+2026-11-17T14:17:52Z,mboostrs,0.2.0,mboostrs contributors,MIT,57942998,Additive and distributional statistical modeling with a Rust engine
