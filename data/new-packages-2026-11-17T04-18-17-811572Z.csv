@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T03:18:15Z,weave-lang,1.1.2,Atharv Raotole <100996694+AtharvRaotole@users.noreply.github.com>,,50252414,Runtime for fan-out and chained agent tool calls: one script instead of many tool turns
+2026-11-17T03:18:56Z,lacuna-mse,1.0.0,Caio Theodoro,Apache-2.0,260822,"Estimates how many agent actions no log recorded, by capture-recapture over several logs of the same system."
+2026-11-17T03:19:12Z,sentinel-pipeline,1.1.0,,MIT,980479,"Tiered build pipeline for AI coding agents: triage, spec, code, review, QA and release checks, driven by one config file."
+2026-11-17T03:19:55Z,autoreply,0.1.0,Kirik,,3880,A simple Python library
+2026-11-17T03:23:31Z,gridwell,0.1.0,Richard Iannone <riannone@me.com>,MIT,12055694,Fast multi-format table rendering from a declarative IR
+2026-11-17T03:25:46Z,safeconduct,0.1.0,,Apache-2.0,5805,"Rules for safeconduct, the replay browser for AI agents: start a run, check rules after every step"
+2026-11-17T03:31:35Z,aiometeo3r,0.1.0,Webysther Sperandio,MIT,85367,"Async client for the measurements of the Meteo 3R app of Arpa Piemonte: river levels, rain and temperature of the Piedmont stations"
+2026-11-17T03:32:50Z,aioarpapiemonte,0.1.0,Webysther Sperandio,MIT,112669,"Async client for the real-time data of the stations of Arpa Piemonte: river levels, rain, temperature and snow, from its website files and its api_realtime"
+2026-11-17T03:33:23Z,coolguy038_pysh,0.2.9.3,Cade,MIT,11241,"A custom python shell (pronounced like ""fysh"")"
+2026-11-17T03:34:26Z,py-secrets-xethhung12,0.0.0,Xeth Hung <admin@xethh.me>,GPL-3.0-only,44608,"Encrypted secret manager CLI and library using AES-256-GCM (via CLI key, OS keyring, or environment variable)"
+2026-11-17T03:37:20Z,sparqify,0.1.0,shipitamit,MIT,758785,"Convert pandas, SQL dialects, SAS, R, ETL tools (Informatica, Talend, Teradata...) and more into Apache Spark (PySpark / Spark SQL)"
+2026-11-17T03:38:01Z,k11-api-security-qa-mcp,0.1.0,K11 Software Solutions,MIT,50288,"MCP server and CI tool for API security testing as release evidence: OWASP API Security Top 10 tests generated from your OpenAPI spec (BOLA, broken auth, mass assignment, data exposure, admin functio…"
+2026-11-17T03:38:21Z,switchboard-agent,0.3.1,Mathew Maximo,MIT,22333,"Connect any AI agent to your private Switchboard network: end-to-end encrypted agent-to-agent messaging, as a CLI and a local MCP server."
+2026-11-17T03:38:40Z,j2k,0.14.0,,MIT OR Apache-2.0,8091720,"JPEG 2000 and HTJ2K pixels and wavelet tensors, decoded by Rust"
+2026-11-17T03:41:09Z,ultradarkfusion,5.4.1,DarkFusion contributors,AGPL-3.0-only,114474443,"DarkFusion desktop image annotation, dataset preparation, and model training tools"
+2026-11-17T03:42:34Z,1xops,0.2.0,Nhat-Thanh Nguyen <nnthanh101@gmail.com>,Apache-2.0,24700,"1xops by OceanSoft.io: set up the 1xops plugin, settings and read-only cloud connectors for an organisation, team or person."
+2026-11-17T03:44:03Z,cocotb-cache,0.1.0,,BSD-3-Clause,97239,Transparent S3-backed build and test cache for the cocotb Python runner
+2026-11-17T03:49:36Z,alibabacloud-qweneduaisuite20261102,1.0.0,Alibaba Cloud SDK,Apache License 2.0,33791,Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for Python
+2026-11-17T03:50:41Z,ultradarkfusion-themes,5.4.1,DarkFusion contributors,AGPL-3.0-only,197871558,Original version-matched theme animations for UltraDarkFusion
+2026-11-17T03:51:10Z,zarqa,0.1.0b0,ares-369,Apache-2.0,554763,"Open-source, AI-powered threat intelligence tool (beta)"
+2026-11-17T03:51:18Z,cavi-godot-mcp,0.1.0,CAVI AI,MIT,89454,Local MCP tools for reviewing static Godot assets
+2026-11-17T03:52:31Z,gwmock-newtonian-noise,0.1.0,Isaac C. F. Wong,BSD-3-Clause,388308,Newtonian-noise and seismic-witness simulation for triangular gravitational-wave detectors such as the Einstein Telescope
+2026-11-17T03:58:20Z,humancoin,0.1.1,,Apache-2.0,173964,"Multi-frequency sensor datasets with independent storage and time-aligned queries, built on LeRobot"
+2026-11-17T03:59:34Z,mcp-acemusic,2026.11.17.0,AceDataCloud <support@acedata.cloud>,MIT,51981,MCP Server for ACE Music AI Music Generation via AceDataCloud API
+2026-11-17T04:01:12Z,moneytools-x402-guard,0.2.0,MoneyTools,MIT,21770,"Use this when an agent is about to pay an x402 seller: Pay Precheck, spend caps, daily budget, Approval Relay and a payment log, before anything is signed. Never loads a key or sends a payment."
+2026-11-17T04:01:14Z,moneytools-transcripts,0.1.0,MoneyTools <support@moneytools.dev>,MIT,19091,"Pay-per-file transcription over x402 (USDC on Base): official MoneyTools Transcripts client with a dTelecom-compatible file API and CLI mt-transcribe, plus a pay-per-call MoneyTools Settle client. No…"
+2026-11-17T04:01:23Z,langchain-moneytools,0.1.0,,MIT,8775,"LangChain tools for MoneyTools: pay-per-file speech-to-text (Transcripts, 0.005 USDC/min) and x402 spend controls (Settle), paid with x402 USDC on Base. No API keys."
+2026-11-17T04:03:26Z,scrimmage,0.0.0,,,1867,"Placeholder for Scrimmage, a test tool that injects faults into AI agents. Not usable yet."
+2026-11-17T04:03:37Z,hani2,0.1.0,Yasser Mohammad <yasserfarouk@gmail.com>,AGPL-3.0-or-later,8052213,"HANI2: a web interface for human-agent negotiation studies, with support agents and pluggable tools"
+2026-11-17T04:04:38Z,acemusic-cli,2026.11.17.1,AceDataCloud <support@acedata.cloud>,MIT,23746,CLI tool for ACE Music AI Music Generation via AceDataCloud API
+2026-11-17T04:05:36Z,voice-firewall-client,0.1.0,,Apache-2.0,41090,Thin client for the hosted Voice Firewall: HTTP calls plus Pipecat and LiveKit glue.
+2026-11-17T04:07:28Z,247sim,0.1.0,247SIM,,17805,247SIM Python SDK：通过 DataGate 数据网关查询已授权的业务数据
+2026-11-17T04:10:37Z,springprompt,0.3.0,Spring Prompt,MIT,60507,"Copies a sample of your app's LLM calls to Spring Prompt, which tests them on other models."
+2026-11-17T04:10:54Z,dw-harness,2.0.0,pugyy,MIT,396467,"Data warehouse AI engineering layer: SQL guards, table contracts, key-level reconciliation and the 8-step workflow (MaxCompute -> StarRocks)."
+2026-11-17T04:12:00Z,k11-integration-qa-mcp,0.1.0,K11 Software Solutions,MIT,46962,"MCP server and CI tool for integration testing of event-driven and batch systems: flows that combine API calls, Kafka messages (publish, expect, dead-letter queues, AsyncAPI schemas), batch jobs and…"
