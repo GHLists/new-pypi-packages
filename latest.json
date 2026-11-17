@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-17T04:18:17.811572Z",
-    "path": "data/new-packages-2026-11-17T05-18-53-635947Z.csv",
-    "to": "2026-11-17T05:18:53.635947Z"
+    "count": 18,
+    "from": "2026-11-17T05:18:53.635947Z",
+    "path": "data/new-packages-2026-11-17T06-21-17-116068Z.csv",
+    "to": "2026-11-17T06:21:17.116068Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-11-17T05:26:51Z",
+      "package": "Predictika_Validator_MCP",
+      "since": "2026-11-17T05:18:53.635947Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-17T04:45:21Z",
       "package": "codetantra",
       "since": "2026-11-17T04:18:17.811572Z",
       "version": "1.0.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-17T05:05:45Z",
-      "package": "python-projectm",
-      "since": "2026-11-17T04:18:17.811572Z",
-      "version": null
     }
   ],
-  "serial": 43767529,
+  "serial": 43768906,
   "source_truncated": false,
-  "window": "2026-11-17T05:18:53.635947Z"
+  "window": "2026-11-17T06:21:17.116068Z"
 }
