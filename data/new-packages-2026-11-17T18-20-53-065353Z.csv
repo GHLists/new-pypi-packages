@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T17:20:18Z,term-styling,0.2.1,Cody Dunne,Apache-2.0,35292,"Terminal output tiers for CLI scripts: plain ASCII when piped, color and OSC 8 links in a terminal, Nerd Font glyphs on request."
+2026-11-17T17:20:24Z,switchfile-haystack,0.1.0,"""Aura UG (haftungsbeschränkt)"" <hello@switchfile.io>",MIT,31719,"Haystack converter that turns PDFs into Markdown documents with tables, using the switchfile API"
+2026-11-17T17:22:42Z,ttlama-sdk,0.1.0,"""Rémi Verschuur|rverschuur@audit-io.fr|"" <rverschuur@audit-io.fr>",Apache-2.0,21284,Python client for the TTL-LAMa API
+2026-11-17T17:23:00Z,crystal-ball-markets,1.0.0,Crystal Ball Markets <support@crystalballmarkets.com>,MIT,8641,"Free exchange rate and gold price API client: 60 currencies, gold price in 69 countries, live market quotes. No sign-up."
+2026-11-17T17:23:17Z,nimbo-weather,0.1.0,Nimbo Weather <hello@nimboweather.com>,MIT,25929,Client for the Nimbo Weather rain nowcast API: minute-by-minute rain for the next 3 hours in Europe.
+2026-11-17T17:24:43Z,kamiwaza-mcp,0.1.1,Kamiwaza AI <support@kamiwaza.ai>,Apache-2.0,460889,Hosted MCP server exposing the Kamiwaza platform to AI agents
+2026-11-17T17:26:55Z,aa-toolkit,0.1.0a1,,MIT,2538,The whole aa toolkit: the aa command and every library.
+2026-11-17T17:26:57Z,aa-toolkit-cli,0.1.0a1,,MIT,34034,The aa command.
+2026-11-17T17:26:58Z,aa-toolkit-log,0.1.0a1,,MIT,10811,"Ready-made logging for apps, on top of Python's logging."
+2026-11-17T17:26:59Z,aa-toolkit-redact,0.1.0a1,,MIT,17364,"Takes sensitive values out of text, with Python's standard library only."
+2026-11-17T17:27:00Z,f3d2solidcraft,0.3.0,Cristián Carter <cristian@mitocondria.cl>,MIT,905855,Convert Autodesk Fusion .f3d/.f3z designs into editable SolidCraft designs
+2026-11-17T17:27:20Z,clownfish,0.5.0,ellainng,,1606860,A modern terminal emulator written in Python and Tkinter
+2026-11-17T17:27:26Z,praisonai-kosa8,0.1.0,kosa8,MIT,61583,kosa8 Cloud microVM sandbox backend for PraisonAI
+2026-11-17T17:29:20Z,asgi-listeners,0.0.1,,,42227,Serve named ASGI application listeners with coordinated startup and shutdown.
+2026-11-17T17:29:22Z,cholaka,0.1.0,,,32474,Python SDK for the Cholaka posting and scheduling API
+2026-11-17T17:31:54Z,ferberus,1.0.0,Carlos Jenkins,ISC,57584346,"A drop-in, high-performance Rust reimplementation of the Cerberus validation library."
+2026-11-17T17:36:37Z,netbox-cisco-cer,0.1.0,sieteunoseis <jeremy.worden@gmail.com>,Apache-2.0,57609,NetBox plugin for Cisco Emergency Responder - manage Conventional ERLs from NetBox Site addresses
+2026-11-17T17:36:57Z,ainmax,0.1.0,Christopher Kirwan <christopher.kirwan@ibm.com>,,265141,Scientific computing in JAX with named arrays
+2026-11-17T17:44:50Z,ray360-native,0.3.0,,MIT,4964939,Optional Rust image sampler for Ray360
+2026-11-17T17:45:28Z,evoflow-bio,1.0.0,Jacopo,MIT,315377,Biological network analysis using MaxFlow min-cut and genetic algorithms
+2026-11-17T17:47:00Z,prism-qc,0.1.0rc1,Evan McKinney <evmckinney9@gmail.com>,Apache-2.0,2437854,A Qiskit transpiler for dual-rail qubits that binds each gate's realization at routing time.
+2026-11-17T17:54:39Z,windowsml-llama,2.9.36a0,Microsoft Corporation,MICROSOFT SOFTWARE LICENSE TERMS Microsoft Windows ML Runtime _____________________________________…,12498,"llama.cpp backend for the Windows ML Runtime, with the CPU and NVIDIA CUDA backends"
+2026-11-17T17:54:47Z,windowsml-llama-cuda,2.9.36a0,Microsoft Corporation,MICROSOFT SOFTWARE LICENSE TERMS Microsoft Windows ML Runtime _____________________________________…,120047897,NVIDIA CUDA backend for the Windows ML llama.cpp backend
+2026-11-17T17:55:06Z,fasthtmlparser,0.1.0,z3l,,4170526,"Fast HTML / XML parser for scraping with XPath 1.0 and CSS selectors, in Rust. A port of z3l.FastHtmlParser."
+2026-11-17T17:55:56Z,sg-mockgun,0.1.0,,"Copyright (c) 2026, Kevin Sallee Copyright (c) 2009-2011, Shotgun Software Inc All rights reserved.…",884230,"Mockgun, the in-memory Flow Production Tracking mock from shotgun_api3, extended with behaviour recorded by sg-groundtruth."
+2026-11-17T17:56:11Z,othertext,0.1.0,,,26190,Add your description here
+2026-11-17T18:01:21Z,binaryfog,1.0.0,"Carlo Tasillo, Torsten Bringmann, Chris Gordon",MIT,378653,The supermassive black hole binary background as a nuisance in pulsar timing array searches for new physics
+2026-11-17T18:01:30Z,arc56-generated-nemes-7d247fd6,1.1.2026111716,nemesis0007,,58541,Generated ARC-56 Algorand smart-contract clients for nemesis0007/ScholarStream.
+2026-11-17T18:01:36Z,cardbox-video,0.1.1,,"MIT License Copyright (c) 2026 The cardbox authors Permission is hereby granted, free of charge, to…",1592723,"Plain text in, finished video out: narrated, captioned, animated videos in your own cloned voice. No paid AI needed; an MCP server lets any AI assistant drive it."
+2026-11-17T18:01:55Z,unitcorn,0.9.0,noblecloud,MIT,169638,"Units that convert, localize and format themselves, with weather-flavoured defaults"
+2026-11-17T18:02:03Z,omega-cognitive-kernel,0.5.8,Omega Core Contributors,MIT,946110,Python bindings for omega-cognitive-kernel: Online strategy-patch runtime with audit and rollback
+2026-11-17T18:02:05Z,ragsonar,0.1.0,Zahid Hasan,MIT,81445,"Deterministic, offline evaluation of retrieval and answer quality for RAG pipelines."
+2026-11-17T18:08:24Z,arc56-generated-kudbe-b199f297,1.2.2026072010,KudbeeZero,,25514,Generated ARC-56 Algorand smart-contract clients for KudbeeZero/Algo-Unify-Dev.
+2026-11-17T18:09:28Z,arc56-generated-kudbe-c5910120,1.2.2026072010,KudbeeZero,,25517,Generated ARC-56 Algorand smart-contract clients for KudbeeZero/frintier-on-solana.
+2026-11-17T18:09:44Z,charlemagne,0.1.1,"""V. Delfavero"" <vdfavero@cita.utoronto.ca>",GPL-3.0-only,11721231,CharlemAGNe
+2026-11-17T18:10:32Z,arc56-generated-kudbe-47ace13d,1.2.2026072010,KudbeeZero,,27664,Generated ARC-56 Algorand smart-contract clients for KudbeeZero/GrowPodEmpirev1.0.
+2026-11-17T18:11:10Z,memgrove,0.4.0,Mahdi Hosseinpour,MIT,135101,"Local-first persistent Markdown memory for AI coding agents, shared across MCP-compatible clients"
+2026-11-17T18:17:53Z,lightforest,0.1.0,,,11704,Validate portable Lightforest Graph Documents
