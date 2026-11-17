@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T00:19:49Z,aws_sdk_redshift,0.0.0,,Apache-2.0,1971,Placeholder reserving the aws_sdk_redshift name. Not yet functional.
+2026-11-17T00:20:05Z,aws_sdk_securityhub,0.0.0,,Apache-2.0,2002,Placeholder reserving the aws_sdk_securityhub name. Not yet functional.
+2026-11-17T00:20:20Z,aws_sdk_lambda_microvms,0.0.0,,Apache-2.0,2049,Placeholder reserving the aws_sdk_lambda_microvms name. Not yet functional.
+2026-11-17T00:20:28Z,mdxml,0.1.1,,MIT,105010,"Fast, zero-dependency, streaming parser for FMI 2.0 and 3.0 modelDescription.xml files"
+2026-11-17T00:23:53Z,aws-finops-auditor,1.0.0,Aisser Rodriguez,MIT,20024,"Read-only AWS FinOps CLI auditor for identifying idle compute, orphaned storage, and unattached network waste."
+2026-11-17T00:26:29Z,technic-hub-mcp,0.1.0,Gustavo Pabon,MIT,77402,MCP server that lets AI assistants read and control a LEGO Technic Hub and its motors over Bluetooth.
+2026-11-17T00:26:42Z,nativecluster,0.1.0,NativeCluster,Apache-2.0,91880,NativeCluster's kit for Python apps: the app's half of the host API
+2026-11-17T00:30:00Z,jetbrains-pulumi-aws-lambda,999.9.9,,,973,Stub package that mitigates Dependency Confusion attacks
+2026-11-17T00:33:22Z,ui-theme,0.1.0,Tristan Simas <tristan.simas@mail.mcgill.ca>,MIT,54915,"Colour schemes, pywal, colour depth and animated effects for any UI backend"
+2026-11-17T00:33:26Z,langgraph-harness,0.1.1,AaronG18,MIT,32132,"Per-node HARNESS parsing, injection and enforcement for LangGraph nodes."
+2026-11-17T00:34:53Z,douyin-dl-cli,2.1.0,,MIT,744161,Douyin batch downloader with no-watermark support
+2026-11-17T00:35:14Z,smolagents-spraay,0.1.0,Plagtech,Apache-2.0,27872,Spraay batch payment tools for smolagents: pay up to 200 recipients in one transaction on Base.
+2026-11-17T00:40:07Z,promptops-git,0.3.0,Vineetha Joy,MIT,66437,"Git-native version control for LLM prompts: semantic diff, Thompson Sampling A/B, LLM-as-judge eval, MCP server."
+2026-11-17T00:41:46Z,pipecat-gmicloud,0.1.0,Jayanng,BSD-2-Clause,21303,"Pipecat text-to-speech service for GMI Cloud's multimodal inference engine (Inworld TTS, MiniMax TTS, Chatterbox and more)."
+2026-11-17T00:47:27Z,gnsswire-bits,0.2.0,Trace Navigation,MIT,46298,"MSB-first bit reader and writer, and the CRCs GNSS wire formats use."
+2026-11-17T00:47:32Z,gnsswire-nav,0.1.0,Trace Navigation,MIT,37035,"Broadcast navigation messages (GPS LNAV, Galileo I/NAV and F/NAV, BeiDou D1 and D2, GLONASS strings) as integer fields, and their ephemerides from UBX and SkyTraq navigation words."
+2026-11-17T00:47:32Z,yescc,0.1.0,五秋望田 <wuqiuwangtian@users.noreply.github.com>,MIT,23407336,YesCC：永不扫兴的 AI 编译器。合法代码原样编译，错误与自然语言尽量变成可运行程序。
+2026-11-17T00:47:33Z,gnsswire-nmea,0.2.0,Trace Navigation,MIT,13214,"NMEA 0183 sentence framing and GGA/ZDA, fields kept as strings."
+2026-11-17T00:47:35Z,gnsswire-rinex,0.1.0,Trace Navigation,MIT,12114,"RINEX 3 and 4 observation files, read and written losslessly as fixed-column text fields."
+2026-11-17T00:49:57Z,geoharness,0.1.0,GeoAgent contributors,Apache-2.0,741740,Verify-before-execute harness for geospatial agents: an MCP server that statically verifies LLM-planned operator DAGs against geo-typed contracts and executes only verified plans.
+2026-11-17T00:51:29Z,dropinf,1.0.0,Taha Shieenavaz <tahashieenavaz@gmail.com>,,7113,dropinf utility for Pandas.
+2026-11-17T00:54:13Z,sowwic-nyx,1.0.0,sowwic,MIT,22780377,Python nodal execution graph
+2026-11-17T00:56:36Z,lampouali,1.0.0,,,490,Generated package for lampouali
+2026-11-17T00:57:43Z,trafficwar,2.0.0,TrafficWar,"MIT License Copyright (c) 2026 TrafficWar Permission is hereby granted, free of charge, to any pers…",58411,Official Python server SDK for TrafficWar event ingestion
+2026-11-17T00:58:45Z,idyllic,0.0.1,,MIT,2003,Reserved name. The real idyllic is an internal package and is not published on PyPI.
+2026-11-17T00:59:00Z,accelerated-weighting,0.8.0,Carl Sanders <carl.e.sanders@census.gov>,,250746,Fast and sparsity-aware implementations of EBW and GREG weighting routines.
+2026-11-17T00:59:41Z,omnipilot,1.1.0,Farley Wang <farleyw@google.com>,,3265790,OmniPilot - verification-first mobile automation for iOS and Android
+2026-11-17T00:59:42Z,omnipilot-client,0.1.0,Georgi Mullassery <mullassery@gmail.com>,Apache-2.0,43081,Zero-runtime-dependency Python client for a remote OmniPilot host
+2026-11-17T01:08:17Z,noesis_ai,0.0.0,Mirai Engineering OÜ,MIT,87135,Thin Python SDK and local runner for Noesis application evaluation
+2026-11-17T01:08:43Z,genepool,0.0.1,Coefficient Systems Ltd <contact@coefficient.ai>,,1580,Balanced dataset selection by genetic algorithm
+2026-11-17T01:15:32Z,openhound-sample,0.0.1,Joey Dreijer <jdreijer@specterops.io>,,3471684,An extension for OpenHound to generate synthetic data for testing and development purposes.
+2026-11-17T01:17:28Z,microinterp,0.1.0,"Janam Patel, Daniel Gartner, Orlando Arguello-Miranda",MIT,114852856,"Microscopy frame interpolation with selectable backends (RIFE, FILM, CDFI, LDMVFI)"
+2026-11-17T01:17:36Z,logger-prefix-buffer-lexer,1.0.0,,,404,Generated package for logger-prefix-buffer-lexer
+2026-11-17T01:17:38Z,pepestyglo,1.0.0,,,429,Generated package for pepestyglo
+2026-11-17T01:17:46Z,scryer,0.2.0,Steven Siebert <info@auracoredynamics.com>,Apache-2.0,103245,Two-phase lossless document and image context extraction library powered by AuraRouter

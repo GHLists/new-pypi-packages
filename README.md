@@ -8,48 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 00:19 UTC
+## Latest list — 2026-11-17 01:20 UTC
 
-New packages created between 2026-11-16 23:20 UTC and 2026-11-17 00:19 UTC.
+New packages created between 2026-11-17 00:19 UTC and 2026-11-17 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-17T00-19-48-544517Z.csv)
+[Full CSV](data/new-packages-2026-11-17T01-20-42-02368Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-16 23:19:14 | [tallwright-langgraph](https://pypi.org/project/tallwright-langgraph/) | 0.1.0 | Tallwright | 15.9 kB | Tallwright - Cloud Proof for LangChain/LangGraph v1 agents, as one middleware |
-| 2026-11-16 23:21:59 | [tabgen-eval](https://pypi.org/project/tabgen-eval/) | 0.1.0 | Granica Research | 4.2 MB | Evaluation of tabular generative models with fidelity, memorization, utility, a… |
-| 2026-11-16 23:22:16 | [limsport](https://pypi.org/project/limsport/) | 1.0.0 | Sage Wright | 330.8 kB | Transform a TSV table's column names and perform QC on rows to generate a LIMS-… |
-| 2026-11-16 23:24:35 | [fluxgate-caliper](https://pypi.org/project/fluxgate-caliper/) | 0.1.0 | FluxGate AI | 12.4 kB | The Python client for Caliper: ask a Caliper endpoint questions from any Python… |
-| 2026-11-16 23:24:44 | [specprobe-openapi](https://pypi.org/project/specprobe-openapi/) | 1.0.1 | Basheer Adel | 164.9 kB | Desktop GUI and CLI for testing any OpenAPI/Swagger API |
-| 2026-11-16 23:24:45 | [spacetime-sym](https://pypi.org/project/spacetime-sym/) | 1.0.0 | "Dr. Bogdan Tanygin" <bogdan@… | 72.3 kB | Python library for spatial and dichromatic point groups, Curie limiting groups,… |
-| 2026-11-16 23:25:24 | [byond-wire](https://pypi.org/project/byond-wire/) | 0.1.0 | Wirewraith | 20.8 kB | Small standard-library BYOND Topic client |
-| 2026-11-16 23:27:15 | [tallwright-mcp](https://pypi.org/project/tallwright-mcp/) | 0.1.0 | Tallwright | 11.6 kB | Tallwright - Cloud Proof for MCP tool calls, by wrapping the client session you… |
-| 2026-11-16 23:27:34 | [ooxpy](https://pypi.org/project/ooxpy/) | 0.5.2 |  | 2.8 MB | Office Open XML (docx, xlsx, pptx) the odfpy way: a factory per element, genera… |
-| 2026-11-16 23:27:58 | [mercy-pay-django](https://pypi.org/project/mercy-pay-django/) | 0.1.0 |  | 11.7 kB | Mercy Pay pour Django : client configuré par les settings et webhooks signés en… |
-| 2026-11-16 23:29:43 | [clearideas-egress](https://pypi.org/project/clearideas-egress/) | 0.3.0 | Clear Ideas | 152.8 kB | Generic policy decisions for a Squid egress proxy |
-| 2026-11-16 23:29:48 | [ai-permission-supervisor](https://pypi.org/project/ai-permission-supervisor/) | 0.1.0 | Team TINSY | 155.9 kB | Local guardrail for IBM Bob: intercepts every agent tool call and allows, denie… |
-| 2026-11-16 23:31:39 | [tallwright-openai-agents](https://pypi.org/project/tallwright-openai-agents/) | 0.1.0 | Tallwright | 13.6 kB | Tallwright - Cloud Proof for OpenAI Agents SDK runs, as the SDK's run hooks |
-| 2026-11-16 23:35:05 | [tallwright-otel](https://pypi.org/project/tallwright-otel/) | 0.1.0 | Tallwright | 11.5 kB | Tallwright - Cloud Proof for OpenTelemetry GenAI spans, as a span processor |
-| 2026-11-16 23:40:27 | [themadoc](https://pypi.org/project/themadoc/) | 0.1.0 | nomisge <nomisge@live.de> | 90.4 kB | ThemAdoc - Themed AsciiDoc document converter powered by Asciidoctor and Pandoc |
-| 2026-11-16 23:40:45 | [ancient-processor](https://pypi.org/project/ancient-processor/) | 4.0.1 | Super Processor contributors | 6.9 MB | Local-first AI-assisted video processing |
-| 2026-11-16 23:44:15 | [brewsorted-cli](https://pypi.org/project/brewsorted-cli/) | 0.8.4 |  | 138.9 kB | Portable HTTP client for the BrewSorted API |
-| 2026-11-16 23:46:09 | [hamingjur](https://pypi.org/project/hamingjur/) | 0.1.0 | Adam DePrince, Jeff Quast, Er… | 1.1 MB | A pure Python fork of Blessed with Kitty and Silkie terminal protocols. |
-| 2026-11-16 23:49:23 | [chloedb-server](https://pypi.org/project/chloedb-server/) | 0.3.7 |  | 252.2 MB | ChloeDB's server, prebuilt: a search database (full text, vectors, graphs, SQL)… |
-| 2026-11-16 23:52:06 | [context-mapper](https://pypi.org/project/context-mapper/) | 0.20.2 | Henrique Moody <henriquemoody… | 91.0 kB | Builds an interactive context map and Mermaid diagrams from a YAML domain model. |
-| 2026-11-16 23:52:49 | [onehealth](https://pypi.org/project/onehealth/) | 0.4.0 | bhargava-morampalli | 3.0 MB | Resolve NCBI isolate IDs, classify their isolation sources into One Health cate… |
-| 2026-11-16 23:53:20 | [synthetic-balance](https://pypi.org/project/synthetic-balance/) | 0.1.0 | "Joel Velasco, Unax Martinez"… | 33.8 kB | This library synthetically balances numerical data samples across different sub… |
-| 2026-11-16 23:54:11 | [gesso-sdk](https://pypi.org/project/gesso-sdk/) | 0.1.0 | Qamber Haidry <qamber.haidry@… | 155.5 kB | Gesso — a framework for building Qt (PySide6) desktop applications |
-| 2026-11-16 23:54:53 | [anchorpass](https://pypi.org/project/anchorpass/) | 0.1.1 |  | 75.1 kB | Synchronous and asynchronous HTTP protocol client with explicit proxy routing |
-| 2026-11-16 23:55:25 | [kk-meshcut](https://pypi.org/project/kk-meshcut/) | 0.2.0 |  | 277.8 kB | K&K meshcut - cut 3D meshes into parts exactly and put them back together, with… |
-| 2026-11-16 23:55:33 | [psephi](https://pypi.org/project/psephi/) | 0.1.0 | Psephi | 62.5 kB | Command-line client for the Psephi personal finance API |
-| 2026-11-16 23:56:39 | [ops-requisition-auditor](https://pypi.org/project/ops-requisition-auditor/) | 1.5.0 | Alexandru Manning | 350.0 kB | ops-requisition-auditor: deterministic, explainable JD Alignment scoring with q… |
-| 2026-11-17 00:00:44 | [glovebox-core](https://pypi.org/project/glovebox-core/) | 0.1.2 | AlexanderMattTurner | 171.9 kB | Glovebox's security decisions as pure functions: the host rules, the JSON reade… |
-| 2026-11-17 00:02:48 | [samotate](https://pypi.org/project/samotate/) | 0.1.0 | samotate contributors | 64.8 kB | SAM-assisted auto-labeling for object detection, with YOLO dataset export |
-| 2026-11-17 00:03:24 | [AppleCrumble](https://pypi.org/project/AppleCrumble/) | 0.1.0 |  | 5.8 kB | AppleCrumble is a simple SSG that converts your markdown into HTML for the brow… |
-| 2026-11-17 00:04:17 | [aruco-pose](https://pypi.org/project/aruco-pose/) | 0.2.0 | Jonathan Shulgach | 1.4 MB | A robust toolkit for ArUco marker detection, pose estimation, and custom 3D mod… |
-| 2026-11-17 00:08:58 | [zombieos-zsharp](https://pypi.org/project/zombieos-zsharp/) | 1.4.1.1 | ZombieOS | 29.4 kB | Call public Z# functions from standalone Python |
-| 2026-11-17 00:10:58 | [codehood-cli](https://pypi.org/project/codehood-cli/) | 0.5.0 | Fábio Macêdo Mendes | 328.6 kB | Command line client for Codehood, an LMS for geeky types. |
-| 2026-11-17 00:11:13 | [chalk-worker](https://pypi.org/project/chalk-worker/) | 0.5.0 | Fábio Macêdo Mendes | 62.3 kB | Pull worker that grades code answers of a Codehood course on the teacher's mach… |
-| 2026-11-17 00:11:53 | [sensorium-trace](https://pypi.org/project/sensorium-trace/) | 0.18.2 | bricelancasterwcp-sudo | 6.8 MB | Execution-trace recorder for Python programs, driver and converter for the Type… |
-| 2026-11-17 00:14:52 | [punk-records](https://pypi.org/project/punk-records/) | 0.1.0 | gablooge | 64.5 kB | One brain for all your AI agents' memories (CLAUDE.md, AGENTS.md, napkins, rule… |
-| 2026-11-17 00:19:24 | [aws_sdk_config_service](https://pypi.org/project/aws_sdk_config_service/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_config_service name. Not yet functional. |
+| 2026-11-17 00:19:49 | [aws_sdk_redshift](https://pypi.org/project/aws_sdk_redshift/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_redshift name. Not yet functional. |
+| 2026-11-17 00:20:05 | [aws_sdk_securityhub](https://pypi.org/project/aws_sdk_securityhub/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_securityhub name. Not yet functional. |
+| 2026-11-17 00:20:20 | [aws_sdk_lambda_microvms](https://pypi.org/project/aws_sdk_lambda_microvms/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_lambda_microvms name. Not yet functional. |
+| 2026-11-17 00:20:28 | [mdxml](https://pypi.org/project/mdxml/) | 0.1.1 |  | 105.0 kB | Fast, zero-dependency, streaming parser for FMI 2.0 and 3.0 modelDescription.xm… |
+| 2026-11-17 00:23:53 | [aws-finops-auditor](https://pypi.org/project/aws-finops-auditor/) | 1.0.0 | Aisser Rodriguez | 20.0 kB | Read-only AWS FinOps CLI auditor for identifying idle compute, orphaned storage… |
+| 2026-11-17 00:26:29 | [technic-hub-mcp](https://pypi.org/project/technic-hub-mcp/) | 0.1.0 | Gustavo Pabon | 77.4 kB | MCP server that lets AI assistants read and control a LEGO Technic Hub and its… |
+| 2026-11-17 00:26:42 | [nativecluster](https://pypi.org/project/nativecluster/) | 0.1.0 | NativeCluster | 91.9 kB | NativeCluster's kit for Python apps: the app's half of the host API |
+| 2026-11-17 00:30:00 | [jetbrains-pulumi-aws-lambda](https://pypi.org/project/jetbrains-pulumi-aws-lambda/) | 999.9.9 |  | 973 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-17 00:33:22 | [ui-theme](https://pypi.org/project/ui-theme/) | 0.1.0 | Tristan Simas <tristan.simas@… | 54.9 kB | Colour schemes, pywal, colour depth and animated effects for any UI backend |
+| 2026-11-17 00:33:26 | [langgraph-harness](https://pypi.org/project/langgraph-harness/) | 0.1.1 | AaronG18 | 32.1 kB | Per-node HARNESS parsing, injection and enforcement for LangGraph nodes. |
+| 2026-11-17 00:34:53 | [douyin-dl-cli](https://pypi.org/project/douyin-dl-cli/) | 2.1.0 |  | 744.2 kB | Douyin batch downloader with no-watermark support |
+| 2026-11-17 00:35:14 | [smolagents-spraay](https://pypi.org/project/smolagents-spraay/) | 0.1.0 | Plagtech | 27.9 kB | Spraay batch payment tools for smolagents: pay up to 200 recipients in one tran… |
+| 2026-11-17 00:40:07 | [promptops-git](https://pypi.org/project/promptops-git/) | 0.3.0 | Vineetha Joy | 66.4 kB | Git-native version control for LLM prompts: semantic diff, Thompson Sampling A/… |
+| 2026-11-17 00:41:46 | [pipecat-gmicloud](https://pypi.org/project/pipecat-gmicloud/) | 0.1.0 | Jayanng | 21.3 kB | Pipecat text-to-speech service for GMI Cloud's multimodal inference engine (Inw… |
+| 2026-11-17 00:47:27 | [gnsswire-bits](https://pypi.org/project/gnsswire-bits/) | 0.2.0 | Trace Navigation | 46.3 kB | MSB-first bit reader and writer, and the CRCs GNSS wire formats use. |
+| 2026-11-17 00:47:32 | [gnsswire-nav](https://pypi.org/project/gnsswire-nav/) | 0.1.0 | Trace Navigation | 37.0 kB | Broadcast navigation messages (GPS LNAV, Galileo I/NAV and F/NAV, BeiDou D1 and… |
+| 2026-11-17 00:47:32 | [yescc](https://pypi.org/project/yescc/) | 0.1.0 | 五秋望田 <wuqiuwangtian@users.nor… | 23.4 MB | YesCC：永不扫兴的 AI 编译器。合法代码原样编译，错误与自然语言尽量变成可运行程序。 |
+| 2026-11-17 00:47:33 | [gnsswire-nmea](https://pypi.org/project/gnsswire-nmea/) | 0.2.0 | Trace Navigation | 13.2 kB | NMEA 0183 sentence framing and GGA/ZDA, fields kept as strings. |
+| 2026-11-17 00:47:35 | [gnsswire-rinex](https://pypi.org/project/gnsswire-rinex/) | 0.1.0 | Trace Navigation | 12.1 kB | RINEX 3 and 4 observation files, read and written losslessly as fixed-column te… |
+| 2026-11-17 00:49:57 | [geoharness](https://pypi.org/project/geoharness/) | 0.1.0 | GeoAgent contributors | 741.7 kB | Verify-before-execute harness for geospatial agents: an MCP server that statica… |
+| 2026-11-17 00:51:29 | [dropinf](https://pypi.org/project/dropinf/) | 1.0.0 | Taha Shieenavaz <tahashieenav… | 7.1 kB | dropinf utility for Pandas. |
+| 2026-11-17 00:54:13 | [sowwic-nyx](https://pypi.org/project/sowwic-nyx/) | 1.0.0 | sowwic | 22.8 MB | Python nodal execution graph |
+| 2026-11-17 00:56:36 | [lampouali](https://pypi.org/project/lampouali/) | 1.0.0 |  | 490 B | Generated package for lampouali |
+| 2026-11-17 00:57:43 | [trafficwar](https://pypi.org/project/trafficwar/) | 2.0.0 | TrafficWar | 58.4 kB | Official Python server SDK for TrafficWar event ingestion |
+| 2026-11-17 00:58:45 | [idyllic](https://pypi.org/project/idyllic/) | 0.0.1 |  | 2.0 kB | Reserved name. The real idyllic is an internal package and is not published on… |
+| 2026-11-17 00:59:00 | [accelerated-weighting](https://pypi.org/project/accelerated-weighting/) | 0.8.0 | Carl Sanders <carl.e.sanders@… | 250.7 kB | Fast and sparsity-aware implementations of EBW and GREG weighting routines. |
+| 2026-11-17 00:59:41 | [omnipilot](https://pypi.org/project/omnipilot/) | 1.1.0 | Farley Wang <farleyw@google.c… | 3.3 MB | OmniPilot - verification-first mobile automation for iOS and Android |
+| 2026-11-17 00:59:42 | [omnipilot-client](https://pypi.org/project/omnipilot-client/) | 0.1.0 | Georgi Mullassery <mullassery… | 43.1 kB | Zero-runtime-dependency Python client for a remote OmniPilot host |
+| 2026-11-17 01:08:17 | [noesis_ai](https://pypi.org/project/noesis_ai/) | 0.0.0 | Mirai Engineering OÜ | 87.1 kB | Thin Python SDK and local runner for Noesis application evaluation |
+| 2026-11-17 01:08:43 | [genepool](https://pypi.org/project/genepool/) | 0.0.1 | Coefficient Systems Ltd <cont… | 1.6 kB | Balanced dataset selection by genetic algorithm |
+| 2026-11-17 01:15:32 | [openhound-sample](https://pypi.org/project/openhound-sample/) | 0.0.1 | Joey Dreijer <jdreijer@specte… | 3.5 MB | An extension for OpenHound to generate synthetic data for testing and developme… |
+| 2026-11-17 01:17:28 | [microinterp](https://pypi.org/project/microinterp/) | 0.1.0 | Janam Patel, Daniel Gartner,… | 114.9 MB | Microscopy frame interpolation with selectable backends (RIFE, FILM, CDFI, LDMV… |
+| 2026-11-17 01:17:36 | [logger-prefix-buffer-lexer](https://pypi.org/project/logger-prefix-buffer-lexer/) | 1.0.0 |  | 404 B | Generated package for logger-prefix-buffer-lexer |
+| 2026-11-17 01:17:38 | [pepestyglo](https://pypi.org/project/pepestyglo/) | 1.0.0 |  | 429 B | Generated package for pepestyglo |
+| 2026-11-17 01:17:46 | [scryer](https://pypi.org/project/scryer/) | 0.2.0 | Steven Siebert <info@auracore… | 103.2 kB | Two-phase lossless document and image context extraction library powered by Aur… |
