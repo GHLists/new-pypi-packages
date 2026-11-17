@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T02:20:10Z,parse-md,0.1.0,wispsy,MIT,85635,Bounded source-preserving Markdown parsing and safe typed HTML rendering
+2026-11-17T02:21:29Z,clearideas-agent-runtime,1.0.0,Clear Ideas Incorporated,Apache-2.0,780361,"Python implementation of Clear Ideas Agent Runtime, interoperable with the TypeScript runtime."
+2026-11-17T02:24:14Z,enchi,0.8.0,Roy Dawson IV <Roy.Dawson.IV@gmail.com>,MIT,29298,Python install package for the native Enchi release bundles (formerly pyenv-native).
+2026-11-17T02:25:00Z,markov-ci,0.1.0,deghosal-2026,Apache-2.0,221129,"Markov-governed, self-healing CI/CD — governance for agentic pipelines"
+2026-11-17T02:27:02Z,tinypaper,0.5.0,,MIT,62700,"Executable papers for research agents: one Markdown file, runnable experiments, checkable claims"
+2026-11-17T02:27:29Z,figentra,0.1.0,peterDataScientia,MIT,11186,Reproducible publication-ready scientific figure styling for Matplotlib
+2026-11-17T02:28:03Z,tidyexcel,0.1.0,Naveen Yalakala,MIT,23757,"Messy spreadsheet in, tidy DataFrame out — detects title rows, merged multi-row headers, totals and footnote rows in Excel/CSV files, and reports every fix."
+2026-11-17T02:33:51Z,arcuied-fofa-structured-mcp,0.1.0,,AGPL-3.0-only,29035,Structured-output adapter for the Arcuied FOFA MCP server
+2026-11-17T02:35:21Z,stokesjx,0.1.0,Sia Ghelichkhan,Apache-2.0,383024,"Instantaneous viscous response of a spherically symmetric mantle to internal loads (geoid, dynamic topography, surface velocity), in JAX, with derivatives."
+2026-11-17T02:36:23Z,dagnam-core,0.1.1,,Apache-2.0,10741600,Compiled core for the Dagnam.AI libraries. Internal: import dagnam-contracts or dagnam instead.
+2026-11-17T02:37:36Z,sparksi,0.6.0,Peelsa,Apache-2.0,2080816,"DGX Spark unified-memory side view: inventory, probe, dry-run, lock, apply, UI (Xanthsi suite)"
+2026-11-17T02:41:54Z,dictation4me,0.3.0,Dictation4me contributors,MIT,229347,"System-wide voice dictation, live transcription and AI-assisted notes for KDE Plasma (Wayland)"
+2026-11-17T02:42:01Z,occultsky,0.1.0,yuliu <yuliu@gzu.edu.cn>,MIT,109517,OccultSky: Search for historical lunar occultations using Skyfield.
+2026-11-17T02:42:57Z,mypy-boto3-connectscheduling,1.44.4,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,36052,Type annotations for boto3 ConnectScheduling 1.44.4 service generated with mypy-boto3-builder 8.12.0
+2026-11-17T02:43:22Z,mypy-boto3-opensearchmemory,1.44.4,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,52330,Type annotations for boto3 OpenSearchMemory 1.44.4 service generated with mypy-boto3-builder 8.12.0
+2026-11-17T02:43:25Z,mypy-boto3-sagemaker-inference-router-runtime,1.44.4,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,35082,Type annotations for boto3 SageMakerInferenceRouterRuntime 1.44.4 service generated with mypy-boto3-builder 8.12.0
+2026-11-17T02:44:52Z,rubicon-agents,0.10.1,Ashin-06,MIT,187481,"Reversibility-aware execution for AI agents: undoable steps first, permanent steps last, rollback on failure."
+2026-11-17T02:46:57Z,skapi,2.4.1,broadway Inc.,Apache-2.0,185360,"Serverless backend for Python: sign-in, users and a database, with the Skapi API."
+2026-11-17T02:47:24Z,kartograph-new,0.7.1,Gregor Aisch,AGPL-3.0-only,190314,Open Source Python library for generating semantic SVG maps
+2026-11-17T02:47:31Z,harmonyrl,1.0.0,CloudHolic <cloudholic@pm.me>,MIT,88288,Melody harmonization with reinforcement learning
+2026-11-17T02:48:33Z,leanscene,0.1.0,Lucas Jackson,MIT,3694411,A 0.5M-parameter network for fast shot transition detection in video
+2026-11-17T02:49:57Z,outsemble,0.2.0,,GPL-2.0-or-later,86425872,OUTRIDER + OUTSINGLE + AXO in one Python package (no R runtime)
+2026-11-17T02:50:33Z,django-simple-history-relation,3.13.1,Edgar,BSD-3-Clause,172047,"Fork of django-simple-history with forward/reverse ManyToMany compatibility, bulk/QuerySet history tracking, change-aware suppression, and sequential versioning."
+2026-11-17T02:51:58Z,floops,0.1.0,,MIT,1855037,"Rust-powered scattering amplitudes, particle decays, and Feynman diagrams"
+2026-11-17T02:53:43Z,cotti-uvm,0.0.1,Cotti Nicolas Gabriel <ngcotti@gmail.com>,GPL-3.0-or-later,42129,Simplified UVM classes for RTL testbenches
+2026-11-17T02:55:48Z,casepatch,0.5.0,CasePatch <support@casepatch.com>,Apache-2.0,4453202,"Production data anonymization for AI agent evals: replace identities in PDFs and images, locally or via the CasePatch API"
+2026-11-17T02:56:16Z,votum,0.1.1,,Apache-2.0,151411,"Votum: a single-pass decision model on Apertus-1.5-8B (probabilities over the options of a question, no generation)"
+2026-11-17T02:57:02Z,tujia-tts,0.2.0,ibaibing,MIT,58065252,"Tujia text-to-speech: Ye pinyin to 16 kHz waveform (single-speaker, ONNX)"
+2026-11-17T03:06:47Z,types-boto3-connectscheduling,1.44.4,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,36041,Type annotations for boto3 ConnectScheduling 1.44.4 service generated with mypy-boto3-builder 8.12.0
+2026-11-17T03:08:22Z,judgekeeper-mcp,0.0.1,Sathvik Thota,Apache-2.0,10891,Holds the name for judgekeeper MCP. It has no features; the first release will be 0.1.0.
+2026-11-17T03:08:33Z,smartoken-mcp,0.1.1,,MIT,10390,Local MCP server for SmarToken's text Chat Completions API
+2026-11-17T03:13:32Z,noul-search-agent,2.2.0,Ernane Domingues,Apache-2.0,799195,"Scientific research co-assistant (MCP server, CLI, skill and subagents): literature search across six open sources, Evidence Meter, research projects, peer-review evidence, academic writing and pre-s…"
+2026-11-17T03:13:37Z,realdelta,0.1.0,Althea Yuquan Chen,Apache-2.0,140650,"Is that change in your agent eval real, or noise? Intervals, paired comparisons and trial planning for repeated agent evals; interval coverage checked on a pre-registered simulation grid."
+2026-11-17T03:14:56Z,datumseal,0.2.0,"""VF Software Co., Ltd."" <support@vf-software.co.jp>",MIT,389529,"Verification tools for researchers: table reading, freezing and verification of research inputs, and revision ledgers"
