@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T12:21:30Z,truvelocity-tevv,2026.11.17.1,Innominds,LicenseRef-Innominds-Proprietary,13618315,"TruVelocity for AI TEVV: black-box, evidence-based test, evaluation, verification and validation of AI agents (chat, task and multi-agent)."
+2026-11-17T12:21:44Z,nbskill,0.0.21,Konrad <62557233+MorsCerta-crypto@users.noreply.github.com>,Apache-2.0,320121,"Notebook-aware context, editing, execution, and review for Python agents"
+2026-11-17T12:22:00Z,coderforge-cloud-sdk,1.0.0,CoderForge.org Ltd,"MIT License Copyright (c) 2026 CoderForge.org Ltd Permission is hereby granted, free of charge, to…",25363,CloudBuilder Function capabilities and HTTP routing for Python and Pyodide
+2026-11-17T12:23:51Z,persian-tokenizer,1.0.0,Isaac Onagh <yesnacoc@gmail.com>,MIT,35865,"Persian text tokenizer: normalization, ZWNJ fixing, punctuation/digit conversion, stop words, stemming"
+2026-11-17T12:26:17Z,plmdenoise,0.1.0,,,36221,Probabilistic longitudinal microbiome denoising with flexible event responses
+2026-11-17T12:28:26Z,verbatimcv-mcp,0.1.0,,MIT,13134,"MCP server for VerbatimCV: CV and resume parsing for AI agents, every field quoted from the CV, nothing invented."
+2026-11-17T12:29:54Z,opencontext-video,0.1.0,OpenContext contributors,MIT,168956,Turn video and images into evidence-linked developer context for text-only AI
+2026-11-17T12:30:01Z,jetbrains-pulumi-aws-network,999.9.9,,,978,Stub package that mitigates Dependency Confusion attacks
+2026-11-17T12:30:02Z,tickplus,0.1.2,,,73189,为股票投资爱好者提供全面、准确、稳定的股票实时行情数据。
+2026-11-17T12:33:49Z,pytest-state-guard,0.1.0,pytest-state-guard contributors,MIT,60053,Deterministic concurrency auditor for ThreadPoolExecutor task lifetimes against pytest owners
+2026-11-17T12:35:14Z,de-augur,0.5.0,,Apache-2.0,55387,"Augur — 자연어 → SQL. 스키마 RAG로 근거를 대고, eval 하네스로 실패를 분류한다"
+2026-11-17T12:35:59Z,pydantic-ai-factory,0.1.0,,MIT,116085,AI factories that prove their work. Built on Pydantic AI.
+2026-11-17T12:36:19Z,pydantic-ai-factory-software,0.1.0,,MIT,24959,"The software factory for Pydantic AI Factory, starting with the Design station."
+2026-11-17T12:36:46Z,tls-profile,2026.11.17.post3,,Proprietary,184296062,Platform-specific TLS ClientHello profiles for requests
+2026-11-17T12:37:09Z,hgvs-extractor,0.1.0,Nick Moore,CC0-1.0,87479,"Extract HGVS variant descriptions (g., c., r., p.) from a reference and a variant nucleotide sequence"
+2026-11-17T12:38:31Z,dataforge-engine,2.1.0,Mahdi Kordian,MIT,139071,"Leakage-aware data preparation for machine learning: fit on train only, reusable pipelines, data contracts."
+2026-11-17T12:38:56Z,de-hasta,0.5.0,,Apache-2.0,63358,Hasta — leased REST and Postgres outbox microbatch streaming
+2026-11-17T12:40:44Z,pykdpw,0.2.0,solek13,MIT,62069,Daily KDPW RZE bond archives and versioned SQLite history
+2026-11-17T12:41:57Z,gemseo-gantry,0.1.0,Axel Widenfelt,MIT,127948,Generate GEMSEO glue code for MDAO problems from a TOML problem definition.
+2026-11-17T12:42:11Z,de-ballista,0.5.0,,Apache-2.0,104052,Ballista — capability-gated remote execution lifecycle for Gladius plans
+2026-11-17T12:42:49Z,tljh-flashcards,0.1.0,ICTSoEasy,"BSD 3-Clause License Copyright (c) 2026, the tljh-flashcards authors Redistribution and use in sour…",144334,Flashcard decks (.deck files) for students in JupyterLab / The Littlest JupyterHub
+2026-11-17T12:43:01Z,requisition-aws,0.1.0,Sudo Apt Holdings LLC (Script Kitty OS & Labs),Apache-2.0 AND (CC0-1.0 OR 0BSD),1773942,"AWS demo adapters for Requisition (Strands hook, AgentCore Gateway REQUEST interceptor, offline check)."
+2026-11-17T12:43:05Z,evalloop-agents,0.6.0,Sumit Parmar,MIT,108365,"Unit tests and a CI gate for LLM agents: reliability (pass^k), multi-turn conversations, prompt injection, hallucination, loops, cost and latency. Works with OpenAI Agents SDK and LangGraph."
+2026-11-17T12:45:12Z,repo-fixer,0.3.2,MANayab,MIT,104925,Make any GitHub repository contributor-ready in minutes.
+2026-11-17T12:45:14Z,seqout-fetch,0.1.0,Joe Hoye Dow <luxunisgod123@gmail.com>,MIT,12606,Filter the seqout.org single-cell and spatial study tables and export them as CSV.
+2026-11-17T12:50:06Z,kvrail,0.0.1,KVRail <hello@kvrail.org>,Apache-2.0,32768,"KVRail: RDMA-over-Thunderbolt KV-cache store for Apple Silicon. v0.0.1 ships `kvrail doctor`, a readiness check for macOS RDMA clusters."
+2026-11-17T12:50:36Z,inspect-kosa8,0.2.0,kosa8,MIT,70196,kosa8 Cloud sandbox environment for Inspect AI
+2026-11-17T12:50:44Z,harbor-kosa8,0.2.0,kosa8,MIT,62646,kosa8 Cloud environment for Harbor (Terminal-Bench)
+2026-11-17T12:53:25Z,taskattest,0.16.0,Sion Jang,Apache-2.0,166871,"Stop a coding agent from finishing with changes outside its task: deterministic, local-only checks of what it changed, produced and recorded, with replayable evidence."
+2026-11-17T12:53:42Z,token-optimizer-plugin,1.0.0,Aveek Sengupta <aveekforyou@gmail.com>,MIT,45841,"Local-first, end-to-end token optimization for VS Code Copilot. Compresses workspace context on the input side into a reversible, traceable context pack and rewrites agent output into lean, high-sign…"
+2026-11-17T12:54:24Z,nowgate,0.1.0,Nowgate,MIT,73104,"The Nowgate API's Python SDK: payments, payment links, payouts and refunds, with webhook verification. No dependencies."
+2026-11-17T12:54:50Z,argus-bench,0.1.0,The ARGUS authors,MIT,24821,"Record every model call (what the model saw, what it said) of an agent run in one unified JSONL format, for any inference library."
+2026-11-17T12:55:26Z,odiatranslit,0.1.0,Srinibash Samal,MIT,39406,"Odia <-> Roman transliteration (ISO 15919, Hunterian, ITRANS)"
+2026-11-17T12:56:52Z,stepline,0.1.0,Stepline contributors,MIT,1109574,"Time-travel debugger for AI agents: record every LLM call, inspect it in a local web UI, and replay from any step."
+2026-11-17T12:57:20Z,roosta,0.11.5,,Apache-2.0,7360926,Your agentic office: a desktop app for a team of AI workers that learns your work
+2026-11-17T12:58:35Z,argus-terminal,0.1.0,ARGUS,MIT,82387,"ARGUS - offline live meta-world mission terminal: criticality dispatch, unlimited missions, evidence and logs."
+2026-11-17T12:58:41Z,kodwen-sdk,0.114.1,Kodwen <support@codai.ro>,MIT,546938,"Official Python SDK for the Kodwen AI gateway — chat, messages, responses, streaming, agents, sessions, hosts, tasks, account."
+2026-11-17T12:59:13Z,netinfra-jeetbuzz-affiliate-e-f5hgf,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,8910,Technical network verification and high-availability endpoint registry for JeetBuzz Affiliate EDU & GOV Campaign
+2026-11-17T12:59:38Z,pytest-apex,0.1.1,Apex Dev,,28019,Shared pytest fixtures
+2026-11-17T13:02:19Z,feincms3-api-cli,0.0.1,"Feinheit AG <dev@feinheit.ch>, Matthias Kestenholz <mk@feinheit.ch>",BSD-3-Clause,17075,The feincms3 content API from the command line
+2026-11-17T13:03:34Z,blip-boop,0.1.0,Loreleï,MIT,54064,Colored presences and floating particles in your terminal.
+2026-11-17T13:07:11Z,slurp-ui,0.8.1,Roman Gruber,GPL-3.0-only,968964,"All of slurm in one slurp: a terminal and browser UI for Slurm jobs, locally or on clusters over SSH"
+2026-11-17T13:07:13Z,sensitivebox,0.1.0,,MIT,1586432,Read-only Linux hwmon sensor daemon with alerting and a neo-skeuomorphic local web UI.
+2026-11-17T13:07:22Z,jopedro-core-lib,0.1.0b1,,,35068,Shared support library
+2026-11-17T13:07:55Z,oplus-ota,0.1.0,Reza Jelveh <agent@jelveh.me>,Apache-2.0,46949,Query and download OPPO/OnePlus/realme OTA packages
+2026-11-17T13:08:06Z,de-aquila,0.5.0,,Apache-2.0,48273,"Aquila — a file-backed data catalog: datasets, schema history, lineage, contracts and tags"
+2026-11-17T13:08:42Z,financecalendar,0.1.8,Awareness Days Ltd (financecalendar.com),MIT,128285,Economic calendar Python client and CLI. Starter adds forecasts/results and tools; ongoing Free Developer schedule JSON is available. Account key required.
+2026-11-17T13:09:07Z,leksika,0.4.0,zmlsaggg,MIT,668531,Лексика — экспериментальный язык программирования с русскими командами и именами (движок Лексус)
+2026-11-17T13:11:03Z,inspiria-agentic-starter,0.1.0,,,35074,Inspiria Agentic Starter: inicializador de projetos de agentes Weni
+2026-11-17T13:13:11Z,budgetwise-srini,1.0.0,Srinivasan D,,7070,Smart Personal Budget Planner using Python
+2026-11-17T13:18:17Z,kibends,0.1.0,Matti Airas <matti.airas@hatlabs.fi>,MIT,6959120,"Smooth KiCad tracks into short, clearance-keeping paths"
