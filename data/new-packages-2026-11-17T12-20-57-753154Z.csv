@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T10:20:32Z,odoo-addon-stock-available-to-promise-release-weight-volume,18.0.1.0.0.2,"Camptocamp, BCIM, Odoo Community Association (OCA)",AGPL-3,23848,Computes available to promise weight and volume
+2026-11-17T11:24:04Z,sessionyard,0.7.0,mikomiel/agent-chat contributors,AGPL-3.0-only,937550,Self-hosted coordination chat for multiple AI agent sessions
+2026-11-17T11:24:23Z,minimindslab-header-rename-map,0.1.0,MiniMindsLab,MIT,7694,"Deterministically rename keys in Python dicts, JSON objects, or CSV-style header maps using an explicit old-to-new mapping, with optional ignore-missing behavior."
+2026-11-17T11:25:10Z,ppflx,0.9.1,,Apache-2.0,392290,"Privacy-preserving federated learning on Flower: homomorphic encryption, zero-knowledge proofs of bounded updates, and differential-privacy noise"
+2026-11-17T11:26:09Z,recfold,1.0.1,"Zenith-20, ssartayev, Alishnis, bekonty, exehamza, thecocogoat",MIT,66256,Zero-runtime-dependency recursion call-tree analyzer and state inspector for Python.
+2026-11-17T11:27:36Z,pulumi-taba,0.3.18,,Apache-2.0,60728,"Queues, distributors and access tokens of the Taba messaging system."
+2026-11-17T11:31:48Z,market-impact-mcp-server,0.0.1,,,1568,Market impact MCP server (coming soon)
+2026-11-17T11:32:35Z,steward-mcp,0.1.1,,MIT,1811699,Autonomous Digital Secretary & Governed VPS Infrastructure Control Plane
+2026-11-17T11:33:16Z,perseus-tda,6.0.0,Vidit Nanda,MIT,24873279,"Persistent homology over Q with certified bad primes, or over any prime field"
+2026-11-17T11:38:12Z,torchneat,0.1.0,Bradley Odimmasi,MIT,379459,TorchNEAT - GPU/CPU accelerated neuroevolution for PyTorch modules
+2026-11-17T11:40:22Z,lupaxa-archive-explorer,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",107302,"Inspect, search, compare, and extract archive members without unpacking the whole archive."
+2026-11-17T11:44:00Z,netinfra-baji-live-deep-linki-s3o3t,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,6936,Technical network verification and high-availability endpoint registry for Baji Live Deep-Linking 70/30 Blast
+2026-11-17T11:44:22Z,fusion-identity,0.2.35,dahai80,MIT,483418,Fusion tenant-identity service — JWT issuer + tenant registry + Postgres fusion_identity (multi-tenant PRD §3)
+2026-11-17T11:44:57Z,moodle-mcp-server,1.0.3,MattFor <mattfor@relaxy.xyz>,MIT,19791,"MCP server that lets AI agents use a Moodle account: courses, deadlines, grades, files and homework submissions."
+2026-11-17T11:45:48Z,personal-library-manager-cli-aui,0.1.0,Afaq Ul Islam <afaqulislam707@gmail.com>,MIT,42073,"A command-line manager for organizing, searching, tracking and exporting your personal book collection."
+2026-11-17T11:49:17Z,pysad-k64,1.0.0,pysad-k64 authors,"Copyright (c) 1986-2016, KEK Accelerator Laboratory All rights reserved. Redistribution and use in…",1318089,"Python translation of SAD (Strategic Accelerator Design, K64 version): a source-faithful port of the optics, tracking, emittance and SADScript interpreter"
+2026-11-17T11:49:56Z,agent-memory-forest,1.0.0b1,Hyungchul Choi,MIT,491354,"A readable, rule-kept local memory for long-running AI agents and teams of agents"
+2026-11-17T11:51:50Z,codomo-alerts,0.2.3,Koorosh Komeilizadeh,MIT,306218,"Self-hosted alerts for new Codomo homes (formerly Holland2Stay) in the Netherlands, Spain, Portugal and Austria."
+2026-11-17T11:57:34Z,nurbforge,0.9.0,PhotonPower,MIT,20760385,"Headless NURBS-based CAD kernel for scientific software (optics, FEM, BEM, FMM)"
+2026-11-17T12:08:28Z,mcp-tut-2-pypi,0.1.0,ayushmaheshwari-cyn <ayushmaheshwari@cyntexa.com>,,5252,Add your description here
+2026-11-17T12:09:06Z,gcejob,0.0.1,Phosphene AI,Apache-2.0,66068,Training and evaluation jobs on ephemeral Google Cloud VMs (Cloud Batch backend).
+2026-11-17T12:10:52Z,qshield,1.2.0,QSHIELD Contributors <284222233+katepallewarprathmesh-sketch@users.noreply.github.com>,Apache-2.0,475447,Quantum Software Supply Chain Security Framework
+2026-11-17T12:11:17Z,oarepo-antivirus,1.0.0,,MIT,24871,A module for antivirus
+2026-11-17T12:11:25Z,aiocontrome,0.1.0,,GPL-3.0-only,119641,Async client for the local HTTP API of Controme Smart-Heat
+2026-11-17T12:13:19Z,kalecardiac,0.1.0a2,PyKale,MIT,632300,"Multimodal cardiovascular machine learning for the PyKale ecosystem — ECG, chest X-ray, cardiac imaging, and clinical data, with representation learning and clinical prediction"
+2026-11-17T12:13:19Z,smallcat-chonk,0.6.0,,,134923,"A small, modular data catalog."
+2026-11-17T12:19:56Z,moolre,0.1.2,Moolre <hello@moolre.com>,MIT,37864,"Official Moolre server SDK: collections, payouts, name validation, sales, SMS, WhatsApp, payment links, bulk payouts and webhook verification."
+2026-11-17T12:20:08Z,rarebl,0.2.0,Rarebl,MIT,65938,"Rarebl signing SDK: build, verify and sign BTC, LTC, BCH, DASH, ETH and TRON transactions locally. Private keys never leave your machine."
