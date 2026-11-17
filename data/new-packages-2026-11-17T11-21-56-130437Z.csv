@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T10:21:17Z,fwid,0.1.0,,,15610,
+2026-11-17T10:23:15Z,nfrio,0.0.2,,,2022,Image I/O based on the Neutral Format Registry (NFR).
+2026-11-17T10:23:27Z,nfr,0.0.2,,,2065,"Neutral Format Registry: how image formats and their edge cases must be interpreted, with evidence."
+2026-11-17T10:24:42Z,fastapi-flowmap,0.1.0,ashokpkumar,MIT,75791,"Editable flow diagrams for FastAPI apps: see how every API works, change values in the picture, write them back to the code."
+2026-11-17T10:24:45Z,rowvioli,0.1.0,the rowvioli authors,MIT,136948,"Mirrors tables from source systems into PostgreSQL, as fresh as each table's maximum age"
+2026-11-17T10:25:20Z,hatchway,0.0.3,Thor Whalen,MIT,61152,"A narrow, logged opening through which an outside agent reaches your tools: an SSH forced command that runs only an allowlist kept as data"
+2026-11-17T10:25:20Z,omnipython-applibs,0.1.2.dev16,Brad Barnett,MIT,452796,"The libraries apps share: appkit, controlkit, deskkit, programkit, sayso, songmodel, soundmodule, spectrum and touchkit"
+2026-11-17T10:25:58Z,video-processor-ai,0.1.0,Hemanth Krishna,Apache-2.0,58711,"Scene-aware, motion-filtered, token-budgeted video processor for multimodal AI pipelines"
+2026-11-17T10:27:50Z,zview-gui,0.3.0,Zano Systems,Apache-2.0,5333640,Browser UI for ZView: live and recorded Zephyr RTOS kernel views
+2026-11-17T10:28:16Z,duckdb-extension-wheel,0.1.0,,MIT,33864,Build pip wheels from DuckDB extension binaries
+2026-11-17T10:28:23Z,kalecancer,0.1.0a2,PyKale,MIT,231938,"Multimodal cancer AI for the PyKale ecosystem — CT, whole-slide pathology, and clinical tabular data, with time-to-event prediction"
+2026-11-17T10:28:49Z,polestar-vega,0.1.0,ashokpkumar,MIT,80261,"Editable flow diagrams for FastAPI apps: see how every API works, change values in the picture, write them back to the code."
+2026-11-17T10:30:06Z,trialmap,0.1.0,Robert Joseph,Apache-2.0,242936,"Typed ClinicalTrials.gov v2 API client, plus drug-code → asset resolution, company pipeline mapping and public real-world evidence."
+2026-11-17T10:32:37Z,benin-business-id,0.1.0,Egbavou,MIT,93857,"Offline Beninese IFU and RCCM validation with optional APIEx directory checks, and Django and Pydantic integrations."
+2026-11-17T10:32:39Z,vat-number-validator,0.1.0,Egbavou,MIT,106389,"Offline VAT number validation (EU-27, XI, GB, CH, NO) with an optional VIES existence check, Django and Pydantic integrations."
+2026-11-17T10:32:44Z,macrostrat.schema_management,2.0.0,"Daven Quinn, Matthew Westphall, Amy Fromandi",,104722,"Declarative schemas, schema diffs and condition-checked migrations for PostgreSQL"
+2026-11-17T10:35:39Z,typed-risex,0.1.0,Marcel Claramunt <marcel@tribulnation.com>,MIT,240368,"A fully typed, validated async client for the RISEx API."
+2026-11-17T10:37:30Z,visual-language-toolkit,0.0.1,Sign Language Research Team,PolyForm-Noncommercial-1.0.0,2750,Placeholder: the Visual Language Toolkit for sign language research is coming soon.
+2026-11-17T10:38:01Z,MirageSight,0.1.0,Cédric Bonhomme,GPL-3.0-or-later,37866,A client that retrieves the CVEs exploited against the OffSeq Mirage honeypot fleet and pushes them to a Vulnerability-Lookup instance as sightings.
+2026-11-17T10:39:18Z,webtaste,0.1.1,,Apache-2.0,60017,网页规则初筛与离线复算（evalkit）：检查本地 HTML 的锚点、悬停误导、手机超出、疑似死按钮、控制台报错；复算仓库数字。不调用模型。
+2026-11-17T10:39:30Z,fouriergrating,0.19.0,,"MIT License Copyright (c) 2026 KF Permission is hereby granted, free of charge, to any person obtai…",18771366,Fourier modal method for 1D/2D gratings: differential method (implicit Runge-Kutta) and RCWA
+2026-11-17T10:41:20Z,paxos-sdk,0.1.0,Paxos,Apache-2.0,282616,Paxos Python SDK — Idiomatic access to all public Paxos APIs
+2026-11-17T10:43:19Z,django-email-ledger,0.1.0,,,22277,Reusable Django email attempt tracking with Anymail provider IDs
+2026-11-17T10:43:55Z,pbia,1.1.0,HP,MIT,341959,"Power BI DAX vs SQL QA automation: capture visual queries, validate DAX against developer SQL, pytest test cases"
+2026-11-17T10:44:19Z,scilog-viewer,0.2.9,,,313717,"Read and write SciLog (PSI's electronic logbook) in the browser: a flow of days, outline and map, fuzzy search, editing, views."
+2026-11-17T10:44:41Z,veritable-verify,0.3.1,Intelth LLC,Apache-2.0,43123,"Offline verification for Veritable signed certificates and report envelopes (ed25519, no dependencies)."
+2026-11-17T10:49:29Z,selective-deps,1.7.1,Gigaverse,Apache-2.0,19631,Portable file dependency declarations for test selection and incremental tooling
+2026-11-17T10:50:17Z,host-pressure,0.1.0,El Fenomeno,,1617808,"Read CPU, memory, swap, disk, thermal, battery and pressure stall time on macOS, Linux and Windows, and turn them into one verdict: ok, busy or overloaded. No subprocess, no dependency."
+2026-11-17T10:50:26Z,headless-reaper,0.1.0,El Fenomeno,,1608875,"Find and stop orphaned headless browsers — Chrome, Chromium, Edge, Playwright, Puppeteer, Firefox, WebKit — left behind by tests and automation. Dry run by default."
+2026-11-17T10:51:45Z,fouriergrating-cuda12,0.19.0,,"MIT License Copyright (c) 2026 KF Permission is hereby granted, free of charge, to any person obtai…",6326861,CUDA 12 core of FourierGrating (cuBLAS/cuSOLVER); install together with fouriergrating
+2026-11-17T10:52:50Z,lupaxa-metadata-inspector,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",100001,"Inspect, identify, remove, and verify privacy-sensitive metadata in photographs."
+2026-11-17T10:54:16Z,fivefold,0.1.0a1,,Apache-2.0,1373367,A test suite and reference gateway that checks whether AI agents act correctly when things fail.
+2026-11-17T10:54:35Z,algorithm-genome,0.3.0,,,2136258,Scriptable Python framework for learned classification algorithm recommendations
+2026-11-17T10:55:25Z,fusion-agent-studio,0.18.5,,,2064157,Fusion-MLX Agent Studio — Local Agent Development Platform for Apple Silicon
+2026-11-17T11:00:14Z,abliterate,0.1.0,andreaborio,MIT,14027,A local prompt kit and agent skill for pre-push security reviews.
+2026-11-17T11:00:47Z,radarbg,0.1.0,,MIT,6682,"Tiny client for Radar APIs: IBAN, EU VAT (VIES), SEPA XML, HS codes, PDF and 140 more. 25 free calls a day, no key."
+2026-11-17T11:03:05Z,fusion-plugins-ecosystem,0.10.0,Fusion-MLX Team,Apache-2.0,438042,"Fusion plugin ecosystem — plugin registry, lifecycle manager, MCP server, and Claude full-chain adaptation layer on top of fusion-cowork"
+2026-11-17T11:06:42Z,bandsintown-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15924,"Connect Bandsintown to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No Bandsintown API key needed."
+2026-11-17T11:08:09Z,molcrafts-molvis-nightly,0.4.0.dev202611171104,MolCrafts Team,BSD-3-Clause,15619507,Molecular visualization driven by a local WebSocket-hosted page
+2026-11-17T11:13:30Z,odoo-addon-stock-package-sscc,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,24277,Stores the SSCC of a package
+2026-11-17T11:13:58Z,linpipe.training,0.9.0a0,"Milan Straka <milan@strakovi.com>, Jana Straková <strakova@ufal.mff.cuni.cz>",MPL-2.0,15179,Training framework for LinPipe models
+2026-11-17T11:14:59Z,leverprice,0.3.0,Leverprice <support@leverprice.com>,MIT,81563,Server-side SDK for Leverprice price experiments
