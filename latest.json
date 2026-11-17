@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-11-17T19:19:01.738424Z",
-    "path": "data/new-packages-2026-11-17T20-21-37-273708Z.csv",
-    "to": "2026-11-17T20:21:37.273708Z"
+    "count": 42,
+    "from": "2026-11-17T20:21:37.273708Z",
+    "path": "data/new-packages-2026-11-17T21-19-23-185269Z.csv",
+    "to": "2026-11-17T21:19:23.185269Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-17T19:04:51Z",
       "package": "ShapPFN",
       "since": "2026-11-17T18:20:53.065353Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-17T17:25:26Z",
       "package": "creator-studio-doc-format",
       "since": "2026-11-17T17:20:09.836444Z",
@@ -22,27 +22,34 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-11-17T20:32:06Z",
+      "package": "echonova",
+      "since": "2026-11-17T20:21:37.273708Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-17T19:51:13Z",
       "package": "fairshare",
       "since": "2026-11-17T19:19:01.738424Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-17T18:34:19Z",
       "package": "kubex-runtime",
       "since": "2026-11-17T18:20:53.065353Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-17T19:05:13Z",
       "package": "nanoRT",
       "since": "2026-11-17T18:20:53.065353Z",
       "version": null
     }
   ],
-  "serial": 43801412,
+  "serial": 43803591,
   "source_truncated": false,
-  "window": "2026-11-17T20:21:37.273708Z"
+  "window": "2026-11-17T21:19:23.185269Z"
 }

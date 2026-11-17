@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T20:22:22Z,neurogas,0.0.5,Falko Duwanoff <f.duwanoff@gmail.com>,MIT,683887,Jupyter-compatible Python wrapper for the Rust-based GNG algorithm
+2026-11-17T20:24:38Z,improv-client,1.0.0,Jonny Bergdahl <github@bergdahl.it>,MIT,55531,Client for provisioning Improv Wi-Fi devices over serial and BLE
+2026-11-17T20:24:56Z,pydaltoolbox,0.1.0,Eduardo Ogasawara <eogasawara@ieee.org>,MIT,76049,Leveraging Experiment Lines for Data Analytics (Python port of the R daltoolbox framework)
+2026-11-17T20:25:04Z,sourcetrace,0.5.1,,MIT,51651,Follow a statistic back through its citations to where it actually came from.
+2026-11-17T20:25:22Z,nbtevo-diag,0.1.0,Igor Titov,Apache-2.0,69023,"On-head-unit diagnostics for BMW NBT EVO (F30): module DTCs + live engine/vehicle signals over HSFZ/UDS, no OBD adapter"
+2026-11-17T20:29:35Z,gql-core,0.2.0a1,,Apache-2.0,540647,Experimental embedded property-graph query and typed reasoning engine for Python
+2026-11-17T20:30:23Z,robotframework-aiagent-verify,0.4.0,,Apache-2.0,8148,LLM-as-judge verification keywords for robotframework-aiagent
+2026-11-17T20:30:54Z,owlrouter,0.1.0,Willy <willy@owlrouter.com>,,1514049,Link-state routing over causal stamps for accelerator fabrics
+2026-11-17T20:31:00Z,promptblame,0.4.0,Marco Baleato Domínguez,AGPL-3.0-or-later,100712,Atribución de respuestas de LLM a instrucciones del system prompt y del user prompt
+2026-11-17T20:32:06Z,wacome,0.1.1,,,93069,A visual GUI for xsetwacom (X11 Wacom tablet configuration)
+2026-11-17T20:33:53Z,polarka-agent,0.1.1,Severka,MIT,146406,"A wallet for TrueNorth (NORTH) that a program can use: command line, Python library and MCP server."
+2026-11-17T20:35:53Z,sc_apl_py,0.1.1,Mark Keller,GPL-3.0-or-later,202321,Association Plots (APL) for the Scverse ecosystem and AnnData objects
+2026-11-17T20:37:43Z,losslessaudiocut,1.2.0,Gunter Königsmann,GPL-3.0-or-later,87332841,"Cut audio recordings without re-encoding: the kept audio decodes to exactly the same samples (MP3, AAC/M4A, Ogg Vorbis/Opus/Speex, FLAC, WAV, AIFF, AC-3, ...)"
+2026-11-17T20:40:02Z,hermit-hbc,0.3.0,Valerio Pio De Nicola,MIT,93245,"Hermes Reverse Engineering & Manipulation Interactive Toolkit — disassemble, decompile and structurally patch React Native Hermes bytecode"
+2026-11-17T20:40:34Z,google-trends-daily-trending-searches-by,0.1.0,,MIT,13559,Google Trends Daily Trending Searches by Country (RSS)
+2026-11-17T20:40:58Z,lighten,0.3.0,sukumarlightningleap,LicenseRef-Proprietary,54908,"Keep Claude Code conversations light: earlier guided compaction, memory across sessions, and shorter tool output, so you use fewer tokens."
+2026-11-17T20:45:02Z,cavok,0.1.0,OmarLT-222 <lukach.omar@gmail.com>,MIT,25309,"Python library for parsing aviation weather messages (METAR, TAF)"
+2026-11-17T20:45:09Z,grpb-m2m,0.1.0,Team Nittany Nerds (Penn State),Apache-2.0,80276,Run generated gRPC stubs and servicers over MQTT with Protobuf encoding (oneM2M-ready)
+2026-11-17T20:45:56Z,dag-kv,0.2.0,Kaushal Nandaniya,Apache-2.0,123244,Universal Position-Decoupled Graph KV Cache with Query-Side Adjoint RoPE & LSE-Bounded Sparse Bridge Repair
+2026-11-17T20:48:10Z,max-mcp-server,0.1.0,artgas1,MIT,438894,"MCP server for MAX messenger (max.ru) personal account: read chats, history, search and media from Claude, Claude Code or Cursor; read-only by default"
+2026-11-17T20:48:21Z,ovos-phal-plugin-ha-link,0.1.0a2,Andreas Lorensen,Apache-2.0,25835,OpenVoiceOS PHAL plugin: links the device to Home Assistant - it connects itself and carries its bus to the OpenVoiceOS integration
+2026-11-17T20:49:46Z,anix-snap,0.3.3,an1zy,MIT,29509,Beautiful code screenshots right from your terminal
+2026-11-17T20:51:17Z,fairshare-cli,0.1.1,Dongli Liu,MIT,340024,"One assistant across several AI-assistant subscriptions: shared history and settings, each session started on the account whose budget is best used now."
+2026-11-17T20:51:40Z,medisync,0.1.0,MediSync GmbH <support@medisync.me>,Apache-2.0,202994,"Python SDK for the MediSync API: speech, notes, ICD-10-GM coding, decisions and MediSync Connect"
+2026-11-17T20:56:55Z,sailfork,0.0.1,,Proprietary,1864,Official Sailfork SDK for Python. In development.
+2026-11-17T20:59:29Z,layerlink,0.0.0,,Proprietary,1528,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T20:59:34Z,layerlink-sdk,0.0.0,,Proprietary,1564,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T20:59:41Z,layerlink-mcp,0.0.0,,Proprietary,1565,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T20:59:46Z,layerlink-cli,0.0.0,,Proprietary,1562,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T21:00:33Z,heislime,1.1.1,HeiGIT,AGPL-3.0-only,87084,HeiGIT street-level imagery (SLI) mining engine
+2026-11-17T21:00:45Z,repeat-o-scope,0.1.0,Kimmo Parviainen-Jalanko,MIT,83618,"Audits your Claude Code transcripts for wasted usage and repeats, and turns them into fixes you approve."
+2026-11-17T21:01:32Z,parsethon,0.3.0,ellainng,MIT,57091,Extensible Python Lexical Parser and Tongue Translation System
+2026-11-17T21:01:38Z,libhbc,0.3.0,Valerio Pio De Nicola,MIT,8411129,"Hermes bytecode (HBC) parser, disassembler, decompiler and structural patcher — native bindings"
+2026-11-17T21:04:55Z,mspdi,0.1.0,Mario (Kind of Lost),MIT,38999,"Read and write Microsoft Project XML (MSPDI) with the standard library only, with the element-order and unit gotchas documented."
+2026-11-17T21:06:42Z,sooner-email,0.1.0,Sooner,MIT,15197,The first-party Python client for the Sooner email API
+2026-11-17T21:06:57Z,corrosign,0.1.0,,MPL-2.0,3699364,PAdES signatures on PDF documents via ID Austria (A-Trust Security Layer 1.2)
+2026-11-17T21:08:02Z,peek-app-utilities,1.3.0,Peek Travel,MIT,397399,"Python SDK for the Peek, CNG, and ACME backoffice APIs — the Python port of @peektravel/app-utilities."
+2026-11-17T21:09:24Z,nixonlxl,1.0.0,,MIT,31707,My personal Python library
+2026-11-17T21:10:44Z,ggufly,0.2.0,ggufly,MIT,46687,Modelos GGUF locales con llama.cpp precompilado: un solo modelo en memoria para todas tus respuestas simultaneas.
+2026-11-17T21:11:30Z,blockyos-client,0.2.0,The blockyOS authors,Apache-2.0,15130,"Python client for blockyOS: queue experiments, read results as tables, report metrics from research programs"
+2026-11-17T21:12:10Z,zenter-networks,0.1.0,"luke porteous, zenter",MIT,11549,A Python neural network and evolution library
+2026-11-17T21:12:37Z,aswf-aces-amf-utils,0.1.0,,Apache-2.0,65760,"CLI, builder, and utilities for ACES Metadata Files (AMF)"
