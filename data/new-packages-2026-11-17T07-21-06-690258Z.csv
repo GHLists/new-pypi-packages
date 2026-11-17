@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T06:21:56Z,asset-identity-gs1,0.1.0,arielgiamportone,MIT,77231,"GS1 identity for physical inventory assets: GIAI, GIAI-96 EPC, GS1 Digital Link, checked aliases, Code128/QR label sheets and RFID ZPL, with offline multi-tenant uniqueness."
+2026-11-17T06:23:45Z,evalcrucible,0.1.0,Ranadhir Ghosh,MIT,32201,Prove your graders: a grader-validation and benchmark-audit toolkit for agent builders — validate graders against labelled data and audit static prompt-to-gold suites for broken tests.
+2026-11-17T06:23:49Z,runreckon,0.1.0,Ranadhir Ghosh,MIT,71221,"Score how an AI agent executed a run, not just whether it finished: deterministic scoring of recorded agent traces (tool selection, argument validity, step economy, error recovery, policy compliance,…"
+2026-11-17T06:24:54Z,pairseal,0.1.0,Ranadhir Ghosh,MIT,80448,"Free, verified field extraction from document images (invoices, bank checks, flyers, receipts, forms): two independent vision-model reads must agree before any field is sealed; everything else is a r…"
+2026-11-17T06:25:22Z,bipga,0.1.0,BiPGA,LicenseRef-Component-Terms,5548886,"Twelve graph alignment methods with construction, evaluation, diagnostics and reproducible paper results"
+2026-11-17T06:27:41Z,claude-inc,0.1.0,Himanshu Tewatia,,8136,Pre-Execution AI Agent Spend Firewall & Token Ledger
+2026-11-17T06:30:02Z,jetbrains-pulumi-aws-msk,999.9.9,,,971,Stub package that mitigates Dependency Confusion attacks
+2026-11-17T06:32:01Z,oss-mcp-server,0.1.0,,,87093,"Aliyun OSS MCP server for uploading, downloading, replacing and managing objects"
+2026-11-17T06:38:21Z,turkish_ui_pydroid,0.4.3,,,22113,
+2026-11-17T06:40:48Z,sais-dataset-download-sdk,0.4.0,,,16708,SDK for downloading datasets from OSS with server-managed credentials
+2026-11-17T06:44:21Z,mcp-calchas,0.1.0,liutongzhao,Apache-2.0,224837,Black-box injection vulnerability detection for MCP (Model Context Protocol) servers
+2026-11-17T06:45:33Z,kamoji-dev,0.1.1,,MIT,73479,"Develop Kamoji Mini Apps on your own Kamoji: check, install over Bluetooth and reload on every save, with the USB log and screenshots."
+2026-11-17T06:51:12Z,hwp-edit-mcp,0.1.0,Myeongsu Park,MIT,147743,"Safe HWP/HWPX editing MCP server for AI agents: hash-checked, snapshot-backed, verified writes (rhwp engine)"
+2026-11-17T06:52:29Z,devrounds,0.0.1,,MIT,2564,One local CLI that runs a round of checks on any repo or dev machine. Placeholder release.
+2026-11-17T06:52:58Z,agyscope,0.2.1,Daehyeok Mun,MIT,151131,Unofficial read-only subagent viewer for the Antigravity agent CLI (agy)
+2026-11-17T06:53:43Z,aparat-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,792384,"Unofficial read-only MCP server for Aparat (آپارات, aparat.com), the Iranian video platform: search, videos, channels, trending, comments."
+2026-11-17T06:53:49Z,snapptrip-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,476817,"Unofficial read-only MCP server for SnappTrip (snapptrip.com): Iranian hotel search, room prices, reviews and domestic flights."
+2026-11-17T06:53:53Z,kilid-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,406865,"Unofficial read-only MCP server for Kilid (kilid.com), the Iranian real-estate portal: buy and rent listings, districts, price per m2 statistics, agencies."
+2026-11-17T06:58:44Z,voiceveritas,0.1.5,VoiceVeritas Contributors,Apache-2.0,1426652,"Detect whether interview answers are read/recited from a script or spoken spontaneously. Audio-only, open-source anti-cheat for AI interviews."
+2026-11-17T06:59:58Z,tensoract-sdk,1.0.0,Tensoract,,9694,Official Python SDK for the Tensoract Platform Public API
+2026-11-17T07:01:32Z,aloc-sdk,1.0.0,ALOC Core Team <aloc.mass@gmail.com>,Proprietary,263120,"Official Python SDK for the ALOC Assessment Content Infrastructure Platform (WAEC, JAMB, NECO, Post-UTME — L1 Questions, L2 Curriculum Metadata, L3 AI Explanations, L4 Vector Similarity)."
+2026-11-17T07:02:20Z,whichagent,0.1.0,,MIT,108135,Find out which coding agent actually works on your repo: a benchmark built from your own git history.
+2026-11-17T07:03:18Z,cinematicket-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,443339,"Unofficial read-only MCP server for Cinematicket (cinematicket.org), Iranian cinema and theatre tickets: cities, films, cinemas, showtimes and prices, events, box office."
+2026-11-17T07:03:23Z,tiwall-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,448153,"Unofficial read-only MCP server for Tiwall (tiwall.com), the Iranian ticketing site: theatre, concerts, exhibitions, workshops, venues, sessions, prices, reviews."
+2026-11-17T07:03:28Z,telewebion-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,758239,"Unofficial read-only MCP server for Telewebion (تلوبیون, telewebion.ir), IRIB live TV: channels, what aired, programs, episodes, live sports."
+2026-11-17T07:06:25Z,chatjimmy,0.1.0,Community SDK Contributor <developer@chatjimmy-community.org>,MIT,48010,"A Python SDK for ChatJimmy's ultra-fast AI inference platform, featuring simplified and OpenAI-compatible interfaces."
+2026-11-17T07:07:08Z,iran-bus-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,490341,"Unofficial read-only MCP server for Iranian intercity bus tickets (Safar724): cities, trips, prices in Toman, free seats, cheapest ticket."
+2026-11-17T07:07:14Z,raja-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,485624,"Unofficial read-only MCP server for Raja (raja.ir), the Iranian train ticket seller: stations, train search with prices and free seats, timetables, news."
+2026-11-17T07:07:16Z,iran-roads-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,421098,"Unofficial read-only MCP server for Iran road status (141.ir, Road Maintenance and Transportation Organization): bulletins, closures, restrictions, road works, weather warnings."
+2026-11-17T07:11:39Z,commit-roaster,0.1.0,dileeppdkr,MIT,52496,"A grumpy senior dev in your terminal: roasts your git diff, then writes the commit message."
+2026-11-17T07:14:06Z,dualmapref,0.2.9,DualMapRef developers,,2385914,DualMapRef ensemble-relational conformer generation and compact-library construction
+2026-11-17T07:14:26Z,openems-client,0.1.0,Lamarqe,Apache-2.0,136133,Async client for OpenEMS / FENECON FEMS energy management systems
+2026-11-17T07:15:55Z,pykmclib,0.0.1,LiuGaoyong <liugaoyong_88@163.com>,GPL-3.0-or-later,13870544,Python re-development of KMCLib: lattice kinetic Monte Carlo simulations with a C++ backend
+2026-11-17T07:16:37Z,korkutwhisper,0.1.0,,,108544,Decoder-guided selective Whisper inference with CTranslate2
+2026-11-17T07:16:59Z,estrec,0.1.0,Ted Matherly,MIT AND CC0-1.0,507268,"Reference validator, writer and redactor for estrec, the estimation record format: one JSON record per statistical estimation run"
+2026-11-17T07:19:55Z,ecotrack,0.1.0,"Noa Aguayo <noa.aguayo@alumni.mondragon.edu>, Alejandro Diego <alejandro.diego@alumni.mondragon.edu…",MIT,34839,A Python library for energy consumption analysis and cost estimation.
+2026-11-17T07:20:24Z,iran-dictionary-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,509858,"Unofficial read-only MCP server for Persian dictionaries Abadis and Vajehyab: Dehkhoda, Moein, Amid, synonyms, antonyms, English and Arabic translation, names."
