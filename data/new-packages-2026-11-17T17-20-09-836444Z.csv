@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T14:52:07Z,odoo14-addon-sale-order-qty-to-invoice-cancelled,14.0.1.0.1,"Akretion, Odoo Community Association (OCA)",AGPL-3,23877,This module sets the sale order quantity to invoice to the quantity invoiced when the sale order is cancelled on lines with order as invoice_policy.
+2026-11-17T16:18:50Z,bobkit,1.0.0,Ashin T V <ashintv3@gmail.com>,Apache-2.0,36070,Developer toolkit and Python client for the Bob Agent Client Protocol (ACP)
+2026-11-17T16:18:51Z,gradiex,0.0.4,Snehashish Laskar,MIT,22698894,"A dependency-free feedforward neural network engine in C++, with Python bindings."
+2026-11-17T16:20:36Z,django-server-healthcheck,0.1.0,,,34210,Persistent Django server health reports with read-only administration
+2026-11-17T16:21:40Z,flashdata-youtube-video-download-api,0.2.0,FlashData <support@flashdata.dev>,MIT,39634,"Python YouTube video download API examples with MP4, MP3, clips, cloud delivery and recoverable bulk jobs"
+2026-11-17T16:22:22Z,rusender,0.1.0,RuSender,MIT,97148,Official Python SDK for the RuSender public API
+2026-11-17T16:24:14Z,marin-evalrecords,0.2.289.dev44108686998,,,112466,"Evaluation run records, result readers, and the statistics computed from them."
+2026-11-17T16:24:22Z,noisysecrets,0.0.1,ASF Tooling,Apache-2.0,19227,Noisy Secrets: self-verifying bearer credentials that are easy to detect when leaked
+2026-11-17T16:26:50Z,xry4gnt,0.1.0,Agent X-Ray contributors,MIT,1520297,"A live, cinematic 3D view of any LangGraph app's brain. Add watch(graph) and see it think."
+2026-11-17T16:27:12Z,isthmus,1.0.0,Serena Solutions,Apache-2.0,56896,"Sub-linguagem híbrida de interoperabilidade, controle e verificação do ecossistema ZEPHIRUM"
+2026-11-17T16:29:00Z,gavel-ranking,1.0.0,Anish Athalye,AGPL-3.0-only,34020,Ranking algorithms for pairwise judging from Gavel
+2026-11-17T16:30:51Z,robot-model-ladders,0.2.0,Zach Yamaoka,MIT,714688,"Generic physical models of robot part types (no maker, no SKU): each type a ladder of models from ideal to learned, every rung with its parameters, equation and references."
+2026-11-17T16:31:14Z,evidenceml,0.32.1,Evgeny Bagirov,LicenseRef-EvidenceML,132157,"Python library for scientific ML: feature engineering, WoE transformations, feature selection, and cross-validation."
+2026-11-17T16:33:03Z,robot-models-lib,0.2.0,Zach Yamaoka,MIT,714662,"Generic physical models of robot part types (no maker, no SKU): each type a ladder of models from ideal to learned, every rung with its parameters, equation and references."
+2026-11-17T16:33:18Z,ertebat,0.1.0,mahdishami,MIT,64741,"Async multi-platform bot clients for Rubika, Bale, Soroush Plus and Telegram"
+2026-11-17T16:36:15Z,agent-jail-cli,0.1.6,Ralph,MIT,40142,"Zero-overhead, OS-level sandboxing for autonomous AI agents on macOS and Linux"
+2026-11-17T16:39:43Z,aiproof-sysik,0.1.1,SYSIK,MIT,1685032,AiProof: the agent says done. AiProof checks the receipts.
+2026-11-17T16:42:04Z,ucdreams-tools,1.0.0,UCDREAMS Engineering <uchitchakma@gmail.com>,,8308,"Official Python Client & CLI for UCDREAMS In-Browser Web Utilities (WebRTC, Media Streams & Edge Tools)"
+2026-11-17T16:44:33Z,ctao-sdc-download,0.1.0rc1,"Onur Ates <onur.ates@cta-consortium.org>, Daniel Morcuende <daniel.morcuende@cta-observatory.org>",BSD-3-Clause,62595,Command-line tool for securely downloading CTAO SDC data
+2026-11-17T16:46:05Z,agent-firebreak,0.1.1,Gopi K Aitham (builditwithgk),MIT,84660,"Contain the damage when an AI agent is fooled by prompt injection: a deterministic guard that tracks where values came from and gates risky tool calls, with a browser demo."
+2026-11-17T16:46:06Z,price-monitor-kit,1.0.0,Quill,MIT,12994,"Watch any product page price, keep history in one CSV, get alerted on drops (Telegram or email). Local-first, no cloud, no account."
+2026-11-17T16:47:17Z,analystkit,0.1.0,hasansayyed,,5120,Python library for data profiling and dataset reporting.
+2026-11-17T16:47:55Z,cleansheet,1.1.0,aimenachraff-jpg,MIT,53618,"Clean messy Excel/CSV files offline: logs every change and flags ambiguous values instead of guessing. Arabic, French and English headers, with locale packs for Algeria, Morocco, Tunisia, Egypt and F…"
+2026-11-17T16:49:32Z,vllm-hust-engine,2026.11.17.8,vLLM-HUST,Apache-2.0,124759094,vLLM-HUST Engine frozen B1 r8 runtime for Ascend 910B2
+2026-11-17T16:52:52Z,splent-feature-hub-shell,0.2.4,,LGPL-3.0-or-later,1219745,"The shell every hub of the OpenHubs line shares: the application and public layouts, the sidebar drawn from the menu registry, the header, the footer, the flashed messages and the error pages, with A…"
+2026-11-17T16:54:23Z,epochtime,1.0.0,Sri Murugan Systems,MIT,13429,"Convert Unix timestamps and decode UUID v7, ULID, snowflake, ObjectId, KSUID and JWT times from the terminal. By epochtime.tools."
+2026-11-17T16:58:13Z,odoo-addon-sale-delivery-address-picking-update,18.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",AGPL-3,30777,Auto-update delivery address on pending pickings when changed on sale order
+2026-11-17T16:58:43Z,pyportopt,0.1.0rc1,,MIT,1789347,Portfolio optimization over the PortOpt C API
+2026-11-17T16:59:58Z,dlopss,0.1.0,hi <hifrombro@gmail.com>,MIT,2708893,Deep Learning course data files and notebooks.
+2026-11-17T17:00:45Z,hair,0.1.0,Tim Menzies <timm@ieee.org>,MIT,33898,"Tiny AI, explained: short, readable examples of AI over tabular data."
+2026-11-17T17:01:29Z,langchain-askjapan,0.1.0,"iHouse Co., Ltd.",MIT,29620,LangChain tools for Ask Japan public data and MARU Japan Hands MCP services
+2026-11-17T17:05:17Z,roulette-game,2.5.1,,MIT,123071,"A roulette game for the terminal, with a croupier you can bribe"
+2026-11-17T17:05:24Z,agentsml-impl,0.2.0,Sanjay Sharma,MIT,328948,"AgentsML IR-first compiler — converts AgentsML YAML documents into target-specific code, manifests, and deployment bundles."
+2026-11-17T17:05:27Z,agentsml-lsp,0.2.0,,MIT,42846,AgentsML Language Server Protocol implementation
+2026-11-17T17:06:37Z,blindsight-security,1.0.0,Blindsight Technologies AG,Apache-2.0,54630,"Official Python SDK for Blindsight Runtime Security: scan prompts, responses, files and tool-calls, or route your LLM traffic through the guardrail reverse proxy."
+2026-11-17T17:08:26Z,resolvable-node-options,1.0.0,Sam Wolski <samuel.wolski@usherbrooke.ca>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",74748,"Options container associated with tree nodes, whose values can be set by the user or inferred from the tree structure."
+2026-11-17T17:09:02Z,thzdaq-mcp,0.0.6b4,yarvod,MIT,8390,"ThzDAQ MCP server: the bench's tools for agents (Claude Code, Codex), a client of the daemon"
+2026-11-17T17:10:21Z,tensarflow,0.1.0,,,20049,Display original neural network model programs
+2026-11-17T17:13:13Z,feephipho,0.0.1,,,3658322,Framework to Explore the Evolution of PHages Interactively using Phage Protein Pools associated with each HOst.
+2026-11-17T17:16:40Z,langchain-adapterspot,0.1.0,"""Clear Solutions BV (AdapterSpot)"" <info@adapterspot.com>",MIT,13582,LangChain tools for the AdapterSpot Power Supply Identifier API: read a power adapter label from a photo and find the power supply that fits.
+2026-11-17T17:17:46Z,bobstack,1.0.0,Ashin T V <ashintv3@gmail.com>,Apache-2.0,36155,Developer stack and Python client for the Bob Agent Client Protocol (ACP)
+2026-11-17T17:18:48Z,msads-agent,0.1.0,MS TECH IT PRIVATE LIMITED <partner@msadsnetwork.com>,MIT,7544,"MS Ads Agent Exchange server SDK (offers, events, HMAC request signing)"
