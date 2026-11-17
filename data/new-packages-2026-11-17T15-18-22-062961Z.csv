@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T14:19:47Z,zync-py,0.1.0,Zurab Mujirishvili <zurab.mu@gmail.com>,,40063,Sync folders of PDFs into Zotero collections.
+2026-11-17T14:23:49Z,package-monitor,1.0.1,Shifu-HU <Shifu-HU@users.noreply.github.com>,MIT,149577,"A lightweight PySide6 desktop monitor that tracks Cainiao and express deliveries with login, tray notifications and a card-based UI"
+2026-11-17T14:25:39Z,esm3di-training,0.2.1,"David Moi, Dongwook Kim, Finn Weikert, Philippe Le Mercier, Christophe Dessimoz",MIT,77209,Supported ESM++ MLM and supervised LoRA/CNN training for ESM3Di
+2026-11-17T14:25:48Z,boringrad,0.0.0,"Boring Radiology, Inc.",Apache-2.0,2352,Boring Radiology.
+2026-11-17T14:25:49Z,boringrad-m2,0.0.0,"Boring Radiology, Inc.",Apache-2.0,2448,Python client for m2 by Boring Radiology. See m2rad.
+2026-11-17T14:25:50Z,m2rad,0.0.0,"Boring Radiology, Inc.",Apache-2.0,2369,"Python client for m2, the radiology report search engine by Boring Radiology."
+2026-11-17T14:27:12Z,patreon-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15337,"Connect Patreon to ChatGPT, Claude and any AI agent through the hosted Cotlet.dev MCP server."
+2026-11-17T14:27:24Z,lvault,0.0.1,Sacco AI Consulting <info@saccoai.com>,MIT,3606,"Command line interface for LocalVault, the on-premise AI platform by Sacco AI"
+2026-11-17T14:27:44Z,air2mqtt,0.1.0,Fabian Arndt,MIT,29039,Reads BME680 and MH-Z19 sensors and publishes them to Home Assistant via MQTT.
+2026-11-17T14:27:45Z,beet-datapack-utils,0.1.0,Fabian Arndt,MIT,26321,A Python library that provides helper functions for Minecraft datapacks using beet.
+2026-11-17T14:27:48Z,sdjs,0.1.0,SpatialData.js contributors,MIT,7024802,Serve local SpatialData stores and browse them in the SpatialData.js viewer
+2026-11-17T14:28:39Z,cathedra,0.1.0,Benjamin Piwowarski,MIT,122440458,"Lecture slides in Typst (Touying): web decks with a Reveal.js viewer and live reload, printable PDFs, course sites"
+2026-11-17T14:28:57Z,shipbook,0.2.0,Shipbook <support@shipbook.io>,MIT,82316,Shipbook logging SDK for Python servers — ships the standard library logging to Shipbook.
+2026-11-17T14:31:50Z,odoo-addon-base-line-numbering,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,29339,Generic mixin to renumber an ordered set of lines
+2026-11-17T14:32:04Z,railflag-openfeature,0.1.0,,Apache-2.0,27664,"Railflag OpenFeature provider for Python: local evaluation, streaming updates"
+2026-11-17T14:34:44Z,dex-connector-linear,0.1.0,,MIT,136505,Dex-native Linear connector
+2026-11-17T14:36:11Z,dex-connector-linkedin,0.2.0,,MIT,141761,LinkedIn OpenID Connect UserInfo connector for Dex Flows
+2026-11-17T14:36:26Z,captcher,0.1.0,,AGPL-3.0-or-later,5078397,Record a task in the browser and turn it into an interactive training walkthrough.
+2026-11-17T14:36:40Z,servecast,0.0.1,The ServeCast authors,Apache-2.0,11496,"Predicts LLM serving performance (TTFT, TPOT, throughput) on a GPU running vLLM. This release only reserves the name."
+2026-11-17T14:37:38Z,dex-connector-mailgun,0.1.0,,MIT,87137,Mailgun connector for Dex Flows
+2026-11-17T14:38:00Z,sjsonl,0.1.0,Jim Kalafut,MIT,32215,"Signed JSONL (SJSONL): sign, verify, diff and patch JSON Lines documents"
+2026-11-17T14:38:40Z,webrecon-cli,0.2.2,,MIT,116210,"A small web reconnaissance scanner: DNS, subdomains, HTTP fingerprinting, TLS and ports."
+2026-11-17T14:39:20Z,aegis-ai-gateway,1.0.1,TechTonicShift <supremetrinity151@gmail.com>,MIT,60432,High-throughput reverse proxy gateway with semantic vector caching and multi-model fault-tolerant failover.
+2026-11-17T14:39:23Z,madhav-act,0.1.0,,,23795,Install the Act and Transform Codex skill globally or per project
+2026-11-17T14:41:44Z,ot-chunk,0.1.1,"Kartashev Daniel, Iaroslav Malovichko",MIT,26539,Склейка блоков OCR в чанки для DEXOCC: DP под целевой размер
+2026-11-17T14:44:57Z,courtside-roster-111210529,0.1.0,Jerry Chen,MIT,7823,"Validate, search, and filter COURTSIDE NBA roster data."
+2026-11-17T14:46:36Z,valgebra-jsonschema,0.0.1,Pasquale Pigazzini,MIT OR Apache-2.0,278610,"JSON Schema read into valgebra's sets: membership as the specification states it, and inclusion decided between two schemas."
+2026-11-17T14:48:49Z,pcot,1.1.0rc1,Jim Finnis,MIT,2303854,PanCam Operations Toolkit
+2026-11-17T14:51:45Z,phantom-kv,0.6.1,Sameer Ahmed,MIT,158370,Deterministic simulation testing for LLM-serving KV caches
+2026-11-17T14:52:32Z,mcp-owner-auth,0.1.1,Emil Madsen,Apache-2.0,41650,Single-user OAuth 2.1 (password + TOTP) for self-hosted MCP servers used from claude.ai
+2026-11-17T14:53:32Z,queuemo-quality,1.0.2,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,18087,
+2026-11-17T14:55:13Z,morsel-bot,0.1.0,Morsel,MIT,300886,Run end-to-end encrypted Morsel Chats bots from your own server (asyncio).
+2026-11-17T14:56:53Z,DetectMateDataset,0.1.0,"Elisabeth Woiseschlaeger <aecid@ait.ac.at>, André García Gómez <aecid@ait.ac.at>, Viktor Beck <aeci…",,83846,Downloads and processes log datasets for use with DetectMate.
+2026-11-17T15:00:41Z,analytix9-watermark,1.0.0,Analytix9 AI Engineering Labs <contactus@analytix9.com>,MIT,9242,"High-precision computer vision utilities for AI watermark removal, SynthID reverse alpha blending, Kling video inpainting, and PPC margin defense."
+2026-11-17T15:03:25Z,nnviz-mri,0.2.1,Yakin Rubaiat,MIT,697261,"An MRI scanner for language models: every weight visible, the wiring as a 3-D brain, and activity playing through both, token by token."
+2026-11-17T15:04:03Z,azure-mgmt-saas,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3122,This package will be released in the near future. Stay tuned!
+2026-11-17T15:04:43Z,pydanfoss-cloud,0.1.0,aghulas,MIT,112211,"Accès à l'API cloud non officielle Danfoss Ally (voie 1a) : client, décodage DP, écritures gardées, clés passerelles, tunnel Zigbee local."
+2026-11-17T15:05:21Z,edgecase-provocateur,0.1.0,"Ahmed Raza, Hamza Hafeez, Usman Ahmed",MIT,30424,An educational tool that probes Python functions with edge cases and explains failures with Socratic feedback.
+2026-11-17T15:05:39Z,domino-agent,0.1.0,,Apache-2.0,103427,"Register an agent folder in git with the Domino agent service: domino-agent deploy, and domino-agent pull."
+2026-11-17T15:06:36Z,adorm,0.0.1,Jure Erznožnik,MIT,593464,Asynchronous database ORM: one async query and model API executed by pluggable drivers.
+2026-11-17T15:06:40Z,autovisual-whisper-base,1.0.0,,MIT,63721764,"Bundled Whisper base (int8, CTranslate2) model for offline transcription with faster-whisper (Autovisual by BangDan)."
+2026-11-17T15:06:45Z,utility-tariffs-lib,0.1.0,macuistin,MIT,246937,"Tariff model, bill engine, price series, store client and plan ranking"
+2026-11-17T15:07:02Z,authentify-sdk,0.2.0,4Sure Technologies LLC,MIT,20099,Typed Python client for the Authentify API: authorize AI agent actions before they run
+2026-11-17T15:07:16Z,azure-mgmt-professionalservice,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3301,This package will be released in the near future. Stay tuned!
+2026-11-17T15:12:20Z,netinfra-jeetbuzz-affiliate-d-b1nsr,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,8483,Technical network verification and high-availability endpoint registry for JeetBuzz Affiliate Deep-Linking 70/30 Campaign
+2026-11-17T15:13:36Z,amep-protocol,0.2.0a4,Staford Titus Selvaraj,Apache-2.0,42547,Verify and produce AMEP (Agentic Mandate Evidence Protocol) evidence: proof that AI agent actions stayed within delegated authority.
+2026-11-17T15:16:17Z,hello-demo-tarai,0.1.0,Surendra Tarai,MIT,2672,My first test package
+2026-11-17T15:16:19Z,hello-suri,0.0.1,Surendra Tarai,MIT,2649,My first test package
+2026-11-17T15:16:19Z,italian-brainrot-random,0.1.0,,,3003,Random Italian Brainrot characters
+2026-11-17T15:17:32Z,creekx,0.1.0,,Apache-2.0,20221,"The creekX API from Python: streams, access tokens, videos, webhooks."
