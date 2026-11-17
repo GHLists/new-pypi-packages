@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T07:21:30Z,crypto-service-sdk-python,0.0.40,Sebastien Rousseau,Apache-2.0 OR MIT,128993,Typed async and sync Python client for the Crypto Service REST API (crypto-server v2).
+2026-11-17T07:21:34Z,pyevolutionary,0.4.1,Sayed Mohammad Ali Mirkazemi <esmirk.137@gmail.com>,"MIT License Copyright (c) 2025 Sayed Mohammad Ali Mirkazemi Permission is hereby granted, free of c…",71868,"This Python framework provides a comprehensive implementation of evolutionary algorithms, supporting both binary and ordinal individuals, as well as their crossover and mutation operations. The frame…"
+2026-11-17T07:24:25Z,dyausq-bolt,3.0.1,,,13780456,Bolt v3.0 programming language transpiler and runtime for Python
+2026-11-17T07:24:58Z,pyeebus,0.1.2,Frane Bandov,MIT,145770,"EEBUS (SHIP and SPINE) for Python, ported from the enbility Go implementation"
+2026-11-17T07:25:57Z,mina-python,0.1.0,migo,,36560,Mina 成品语音提供方异步客户端
+2026-11-17T07:26:46Z,elli-eebus,0.1.5,Frane Bandov,MIT,37905,"Elli Charger over EEBUS: status, power limits and measurements (Elli Charger 2 and first generation)"
+2026-11-17T07:27:10Z,xcore-doctype,0.3.0,traoreera,MIT,3647875,"Moteur de DocTypes et interface Desk pour xcore : définissez un document une fois (YAML/JSON), obtenez stockage, API, permissions, hooks et UI Vue."
+2026-11-17T07:27:12Z,blackjack-supporter,0.1.5,"Eneko Urrutia <eneko.urrutiaa@alumni.mondragon.edu>, Unai Abio <unai.abio@alumni.mondragon.edu>",MIT,9265,Una librería para decirte que hacer en el Blackjack
+2026-11-17T07:33:14Z,dwgtodxf,0.1.0,xxparthparekhxx,MIT,3565626,Fast DWG to DXF/PDF converter with its own Rust DWG decoder - no external tools.
+2026-11-17T07:33:50Z,knapset,1.0.0,knapset-dev <knapset-dev@users.noreply.github.com>,MIT,388935,"Dependency-free Python framework for analyzing marketplace listings and optimizing compatible, budget-constrained sets."
+2026-11-17T07:35:33Z,bruhcat,0.1.0,Cliff Yang,MIT,586640,建立 LaTeX / Machine Learning 專案骨架的命令列工具
+2026-11-17T07:35:33Z,wixlf,0.1.1,chinchilak,MIT,30527,"Write Into XLSX Files — constant-memory, multiprocess streaming writer for existing .xlsx/.xlsm workbooks."
+2026-11-17T07:35:36Z,ssapling,0.1.0,Kobe Knowles,Apache-2.0,427089,"Infrastructure, interfaces and scaffolding for System-Specification Alignment Problem projects."
+2026-11-17T07:35:42Z,koolkoding,0.1.0,,MIT,286958,"An extensible terminal coding agent with sub-agent orchestration, built to understand how agent CLIs work."
+2026-11-17T07:36:27Z,zenx-lite-python,0.1.0,,,89902,An explicitly composed asyncio scraping runtime
+2026-11-17T07:37:49Z,mimird,0.1.0,RamonAvocado,,6782,"The mimird module Mimird scripts import: instruments, history and providers, answered by the platform."
+2026-11-17T07:41:43Z,whoop-export,1.0.1,hashb,MIT,215724,"Export granular WHOOP data into SQLite by replaying the web app's internal endpoints, plus a local dashboard."
+2026-11-17T07:42:40Z,table-png,0.1.0,El Fenomeno,MIT,45286,"Render a table (Markdown, CSV or JSON) as a PNG image with correct Korean, Chinese and Japanese text and colour emoji, for chat apps, notifications and bots that cannot show a Markdown table."
+2026-11-17T07:43:28Z,dst-disclose,0.1.1,Tobias Kragholm,MIT,3727864,Disclosure control for result tables taken home from Statistics Denmark's research machines
+2026-11-17T07:45:22Z,cofferdb,0.1.1,,Apache-2.0,11344619,In-process embedded retrieval for local Python applications.
+2026-11-17T07:49:01Z,worldcompute,0.1.0a1,World Compute <team@worldcompute.org>,,23479,Python client for World Compute controls
+2026-11-17T07:52:02Z,anylist-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15424,"Connect AnyList to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No AnyList API key needed."
+2026-11-17T07:52:36Z,lidarslam,0.12.0,,BSD-2-Clause,144526159,"LiDAR-inertial SLAM that writes Autoware-compatible maps, without a ROS 2 install"
+2026-11-17T07:53:32Z,glasscube,0.1.0,Moetez Fradi <moetezfradi7@gmail.com>,MIT,2028570,"Build gesture-controlled smart mirrors: webcam hand gestures drive pages and widgets of a React UI, plus a voice assistant"
+2026-11-17T07:58:06Z,sandloom-redis,0.7.0a14,,Apache-2.0,159361,"Redis drivers for Sandloom: atomic store, lease, broadcast, cache and the Streams event bus"
+2026-11-17T07:58:48Z,tangents,0.1.0,Martin,MIT,436143,"A teaching aid for live, interactive workshops: a folder of content becomes a navigable, presentable, printable workshop."
+2026-11-17T08:01:19Z,armor-agent-plugin,6.0.0,"""Aveek Sengupta, CIB Markets RegTech"" <ibt_cp_rrpp_team_reflection@restricted.chase.com>",MIT,291165,ARMOR v6 — LLM-driven AI-guardrail posture pipeline with citation cross-verification and adversarial red-team loops.
+2026-11-17T08:03:39Z,open-resume-agent,0.3.1,Sangamesh Hiremath,MIT,88067,"Reference tools for Open Resume Agent (ORA): compile, validate and render model-agnostic resume agent files, and serve them over MCP."
+2026-11-17T08:07:46Z,fnet-ctf,2.19.0,Fnet contributors,Apache-2.0,1327738,Fnet - 开源 CTF 网络流量分析工具箱（WebUI，Linux/macOS/Windows）
+2026-11-17T08:07:49Z,avm-ac2,0.1.0,AlgoVoi <chopmob@gmail.com>,Apache-2.0,827656,"AC2 consent bound to an avm-mesh settlement: proof of who authorised a transaction, on Algorand and Voi"
+2026-11-17T08:12:13Z,sandloom-celery,0.7.0a14,,Apache-2.0,65684,"Celery driver for Sandloom: taskqueue, worker host and scheduler"
+2026-11-17T08:14:20Z,pytest-turbo,0.0.1,,MIT,4535278,"Run your pytest suite in parallel, slowest tests first, in long-lived pytest workers"
+2026-11-17T08:15:14Z,bricscad-mcp,0.1.0,Aleš Dolenec,MIT,108781,MCP server for controlling BricsCAD through a LISP bridge
+2026-11-17T08:15:24Z,vaelchi,0.1.0,Rahul Kakodkar <cacodcar@gmail.com>,MIT,946030,Time-series clustering and representative periods
