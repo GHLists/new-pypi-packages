@@ -1,0 +1,63 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T15:07:13Z,qentimart-sdk,0.1.1,Pimeng,MIT,50598,QentimArt 下游 SDK：拉取游戏资源版本，支持块级增量更新，无需本地对象缓存
+2026-11-17T15:18:23Z,nogil-immutables,0.21.0a1,MagicStack Inc <hello@magic.io>,"Apache License, Version 2.0",129814,Experimental free-threaded/no-GIL build of Immutables - not production ready
+2026-11-17T15:18:28Z,nogil-ciso8601,2.3.3a1,,MIT,46906,Experimental free-threaded/no-GIL build of ciso8601 - not production ready
+2026-11-17T15:18:32Z,nogil-pyahocorasick,2.3.1a1,Wojciech Muła,BSD-3-Clause and Public-Domain,136882,"pyahocorasick is a fast and memory efficient library for exact or approximate multi-pattern string search. With the ``ahocorasick.Automaton`` class, you can find multiple key string occurrences at on…"
+2026-11-17T15:18:39Z,nogil-blosc,1.11.4a1,The Blosc development team,https://opensource.org/licenses/BSD-3-Clause,4162936,Blosc data compressor
+2026-11-17T15:19:39Z,testops-mcp,0.4.0,,MIT,186225,Allure TestOps MCP server
+2026-11-17T15:21:52Z,iptc-iris,0.1.0,"Martin Wieser, Geert Verhoeven",MIT,247588,"IPTC-IRIS (IPTC - Image Region Integrity System): validation, normalisation, and reasoning for IPTC Image Region metadata."
+2026-11-17T15:21:53Z,rtt-fusion,0.1.0,,MIT,465317,Prototype of the Raytatouille Fusion: wave-optical solvers coupled through ports
+2026-11-17T15:25:49Z,hindko-tokenizer,1.0.0,Junaid Ahmed,CC-BY-4.0,768602,"Hindko tokenizer (SentencePiece Unigram, 32,768 ids) with a small Python SDK: tokenize, encode, decode and normalize Hindko text."
+2026-11-17T15:26:16Z,open-geo-service,0.2.0,University of Oslo,BSD-3-Clause,1442866,"Climate, Earth Observation and geospatial data API"
+2026-11-17T15:26:20Z,hindko-embeddings,1.0.0,Junaid Ahmed,CC-BY-NC-4.0,25030,"Hindko text embeddings with a small Python SDK: semantic search, similarity, clustering and classification for Hindko."
+2026-11-17T15:26:33Z,core-packages,0.0.2,Surendra Tarai,MIT,2691,My first test package
+2026-11-17T15:31:11Z,pagepluck,0.1.1,JN,MIT,223783,把网页 HTML 解析成结构化数据：标题、正文、时间、作者，以及任意业务字段的自动发现
+2026-11-17T15:33:16Z,odoo-addon-hr-user-role-activity,19.0.1.0.0.2,"glueckkanja AG, Odoo Community Association (OCA)",LGPL-3,22838,Assign user role expiration reminders to the employee's manager
+2026-11-17T15:33:29Z,aws_sdk_opensearch,0.0.0,,Apache-2.0,1991,Placeholder reserving the aws_sdk_opensearch name. Not yet functional.
+2026-11-17T15:33:59Z,aws_sdk_pricing,0.0.0,,Apache-2.0,1955,Placeholder reserving the aws_sdk_pricing name. Not yet functional.
+2026-11-17T15:34:28Z,aws_sdk_connect,0.0.0,,Apache-2.0,1957,Placeholder reserving the aws_sdk_connect name. Not yet functional.
+2026-11-17T15:34:52Z,aws_sdk_inspector2,0.0.0,,Apache-2.0,1993,Placeholder reserving the aws_sdk_inspector2 name. Not yet functional.
+2026-11-17T15:35:03Z,orqmesh,0.1.0b1,Swayam Debata <swayamdebata2003@gmail.com>,Apache-2.0,39259,An infrastructure-neutral Python SDK for controlled agent workflows.
+2026-11-17T15:35:41Z,aws_sdk_route_53_domains,0.0.0,,Apache-2.0,2063,Placeholder reserving the aws_sdk_route_53_domains name. Not yet functional.
+2026-11-17T15:36:05Z,aws_sdk_transfer,0.0.0,,Apache-2.0,1969,Placeholder reserving the aws_sdk_transfer name. Not yet functional.
+2026-11-17T15:36:09Z,opgd-cli,0.1.1,OPGD,"MIT License Copyright (c) 2026 OPGD Permission is hereby granted, free of charge, to any person obt…",82315,"基于最优参数的地理探测器（OPGD, Optimal Parameters-based Geographical Detector）平台命令行客户端 —— 上传数据、提交分析、终端渲染报告"
+2026-11-17T15:36:13Z,micro-reader-core,0.0.1,Bugra Oezdemir <bugraa.ozdemir@gmail.com>,MIT,11970887,"Native (Rust) read engine for micro-reader: positioned reads, decoding and placement of a whole region in one call, without Python's lock."
+2026-11-17T15:36:29Z,aws_sdk_codeartifact,0.0.0,,Apache-2.0,2015,Placeholder reserving the aws_sdk_codeartifact name. Not yet functional.
+2026-11-17T15:36:50Z,aws_sdk_kafka,0.0.0,,Apache-2.0,1939,Placeholder reserving the aws_sdk_kafka name. Not yet functional.
+2026-11-17T15:40:03Z,lupaxa-file-recipe,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",106077,"Plan, preview, and run reusable filesystem workflows from TOML recipes."
+2026-11-17T15:45:16Z,torch-npu-memory-saver,0.1.0,,MIT License Copyright (c) 2026 LightSeek Foundation <contact@lightseek.org> Permission is hereby gr…,31862,Managed Ascend memory with stable virtual addresses
+2026-11-17T15:46:11Z,devfortress-sdk,0.3.0,Duncan Ndungu Ndegwa,BUSL-1.1,196108,"DevFortress event reporting client for Python (external mode): request signing, classification, webhook verification, credential isolation, and agent-behavior monitoring for Flask and FastAPI applica…"
+2026-11-17T15:46:50Z,aiomapit,0.1.0,Mapit IoT S.L.,MIT,116557,Async Python client for the Mapit API
+2026-11-17T15:47:21Z,repomarshal,0.1.0,Mohammed Hamdan,Apache-2.0,689419,"Compile each repository change into an explained plan of required checks, then return an evidence-backed completion verdict."
+2026-11-17T15:48:11Z,pytsf,1.0.0,,MIT,2014383,"Pure-Python reader for Bruker timsTOF TSF (.d) spectrum data — works on macOS, where Bruker ships no library"
+2026-11-17T15:49:35Z,runrist,0.1.0,Adam DePrince,GPL-3.0-or-later,518346,"A live, Python-extensible terminal text editor in the Emacs tradition, for the Silkie terminal."
+2026-11-17T15:51:10Z,pathtracer,0.3.0,,MIT,3551114,"Light transport on trimmed NURBS geometry: light tracing, path tracing, bidirectional, photon mapping"
+2026-11-17T15:51:31Z,photonpower-fieldtracing,0.1.0,,MIT,177493,"Numerical reference implementation of field tracing (hybrid field, PFT, SFT, LPIA)"
+2026-11-17T15:52:28Z,wagtail-sidebyside,0.1.1,PythonUnited,MIT,154767,"Translate Wagtail pages side by side: one main language, translations next to the source, optional AI."
+2026-11-17T15:57:17Z,odoo-addon-shopinvader-product-order-mode,18.0.2.0.0,ACSONE SA/NV,AGPL-3,14426,Add a field for specifying the order mode of a product in a generic way.
+2026-11-17T15:57:23Z,odoo-addon-shopinvader-product-order-mode-on-request,18.0.2.0.0,ACSONE SA/NV,AGPL-3,13447,Add new order modes on products.
+2026-11-17T15:57:32Z,odoo-addon-shopinvader-api-cart-quotation,18.0.2.0.0,ACSONE SA/NV,AGPL-3,11832,cart-to-quote management module
+2026-11-17T15:57:35Z,odoo-addon-sale-cart-quotation,18.0.2.0.0,ACSONE SA/NV,AGPL-3,11932,"Glue module between sale_quotation and sale_cart, allowing users to request a quotation directly from a cart."
+2026-11-17T15:58:23Z,QtDataTable,1.0.0,,MIT,118490,"A reusable, model-view data table widget for PySide6 applications"
+2026-11-17T15:58:31Z,langgraph-preflight,0.1.1,LeeGyeongPil,MIT,79833,"Check a LangGraph graph before it runs: concurrent writes to reducer-less keys, Send fan-out writes, cycles that can never exit."
+2026-11-17T15:58:42Z,git-engram,0.1.0,Giuseppe Gambino,MIT,551138,"Local-first memory for AI coding agents: why code exists, hidden co-change coupling and failed attempts from your git history, served over MCP."
+2026-11-17T15:59:31Z,speakerjoin,0.1.0,,MIT,85916,"Join speech-to-text output with speaker diarization into speaker-labelled transcripts and subtitles, with a numeric alignment quality report."
+2026-11-17T16:00:19Z,playground-serve,0.1.1,Playground Serve contributors,Apache-2.0,3232543,Open source serving for robot policies and LLM agents on Runpod
+2026-11-17T16:00:38Z,lora-mergecheck,0.1.2,LeeGyeongPil,MIT,1077849,"Verify that a merged LoRA checkpoint matches the adapter model: per-module weight residuals, dtype rounding limits, and output drift relative to the adapter effect."
+2026-11-17T16:01:48Z,narwhals-dask,0.1.0,,MIT,60132,Dask backend for Narwhals
+2026-11-17T16:01:50Z,build-your-python,0.1.0,Baptiste Pestourie,MIT,47368358,A Python library to build your own CPython executable
+2026-11-17T16:02:00Z,rslmto-utils,1.0.0,Anders Bergman <anders.bergman@physics.uu.se>,GPL-3.0-only,17821250,"Utilities for the RS-LMTO-ASA code: CIF/structure setup, surfaces and impurities, exchange maps, UppASD export, band structure and DOS"
+2026-11-17T16:02:14Z,shardpix,4.0.1,Pasquale Ruotolo,GPL-3.0-or-later,360857,Encrypt a file and hide k-of-n shares of its key in ordinary-looking images.
+2026-11-17T16:02:26Z,jupyter-shell,0.1.0,,MIT,17241,An Anyshell terminal plugin for Jupyverse
+2026-11-17T16:04:48Z,dl-notebooks-data,0.1.0,hi <hifrombro@gmail.com>,MIT,2696320,Deep Learning course Jupyter notebooks bundled as an installable package.
+2026-11-17T16:11:00Z,nexlib,0.1.0,,,20507,A lightweight Python utility library
+2026-11-17T16:11:16Z,logreach,0.1.0,AIT Austrian Institute of Technology GmbH <aecid@ait.ac.at>,EUPL-1.2,58252,Filter logfiles by timestamp and detect the log type of files in a directory
+2026-11-17T16:11:58Z,detector-ia,1.0.0,Alberto Ortiz Sánchez,MIT,32697,Detector de texto generado por IA y de copia entre entregas · AI-text and plagiarism detection for student submissions
+2026-11-17T16:12:39Z,flashdata-bulk-video-download,0.3.0,FlashData <support@flashdata.dev>,MIT,61041,"Bulk video download with Python: YouTube ID files, cloud delivery, saved jobs and failed-only retries"
+2026-11-17T16:13:35Z,meeko4moldrug,0.6.1.post7.dev0,"Forli Lab <forli@scripps.edu>, Alejandro Martínez León <ale94mleon@gmail.com>",,152627,Python package for preparing small molecule for docking
+2026-11-17T16:13:44Z,jlogtail,0.1.0,El Fenomeno,MIT,1419336,Tail large JSON Lines transcripts by record or byte window.
+2026-11-17T16:15:56Z,pytrat,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,12680,OAuth Transaction Tokens for Python services and AI agents (installs pytrat-core; extras add integrations).
+2026-11-17T16:15:57Z,pytrat-agents,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,66919,Experimental AI-agent profile for Transaction Tokens (draft-araut-oauth-transaction-tokens-for-agents-03).
+2026-11-17T16:15:59Z,pytrat-cli,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,19821,Developer CLI for PyTraT.
+2026-11-17T16:16:00Z,pytrat-client,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,68044,RFC 8693 Transaction Token exchange client and propagating HTTP client.
+2026-11-17T16:16:38Z,garmin-health-mcp,0.1.0,Emil Madsen,Apache-2.0,65602,"Unofficial, read-only MCP server for the Garmin Connect Personal API (not affiliated with Garmin)"
