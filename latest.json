@@ -1,48 +1,55 @@
 {
   "list": {
-    "count": 67,
-    "from": "2026-11-18T15:19:34.458076Z",
-    "path": "data/new-packages-2026-11-18T16-19-55-767281Z.csv",
-    "to": "2026-11-18T16:19:55.767281Z"
+    "count": 46,
+    "from": "2026-11-18T16:19:55.767281Z",
+    "path": "data/new-packages-2026-11-18T17-19-01-487542Z.csv",
+    "to": "2026-11-18T17:19:01.487542Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-18T14:34:51Z",
       "package": "RSIBox",
       "since": "2026-11-18T14:20:56.939729Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T15:34:51Z",
       "package": "amattesa",
       "since": "2026-11-18T15:19:34.458076Z",
       "version": "0.0.1"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T15:45:03Z",
       "package": "bmattesa",
       "since": "2026-11-18T15:19:34.458076Z",
       "version": "0.0.1"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T15:28:14Z",
       "package": "chrome-ai-mode",
       "since": "2026-11-18T15:19:34.458076Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-18T16:37:56Z",
+      "package": "lightsold",
+      "since": "2026-11-18T16:19:55.767281Z",
+      "version": "0.0.1"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-18T13:23:32Z",
       "package": "mistral-agentic-security",
       "since": "2026-11-18T13:19:00.264391Z",
       "version": "0.1.0a5"
     }
   ],
-  "serial": 43840385,
+  "serial": 43842849,
   "source_truncated": false,
-  "window": "2026-11-18T16:19:55.767281Z"
+  "window": "2026-11-18T17:19:01.487542Z"
 }

@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T16:20:00Z,ssh-agent-guard,0.1.0,,,19990,Proxy in front of a captive ssh-agent that only accepts keys added with confirm (ssh-add -c). Starlark code with Python shims for bootloading and I/O.
+2026-11-18T16:20:22Z,campanita,0.1.0,Pablo Alaniz,MIT,81417,"Notificaciones con las mismas reglas en cualquier stack: una política, cualquier base, cualquier canal, cualquier bandeja."
+2026-11-18T16:20:29Z,aws_sdk_docdb,0.0.0,,Apache-2.0,1939,Placeholder reserving the aws_sdk_docdb name. Not yet functional.
+2026-11-18T16:24:05Z,aws_sdk_marketplace_catalog,0.0.0,,Apache-2.0,2082,Placeholder reserving the aws_sdk_marketplace_catalog name. Not yet functional.
+2026-11-18T16:24:38Z,aws_sdk_elastic_load_balancing,0.0.0,,Apache-2.0,2118,Placeholder reserving the aws_sdk_elastic_load_balancing name. Not yet functional.
+2026-11-18T16:25:11Z,aws_sdk_comprehendmedical,0.0.0,,Apache-2.0,2062,Placeholder reserving the aws_sdk_comprehendmedical name. Not yet functional.
+2026-11-18T16:25:11Z,gnsswire-rtcm3,0.2.0,Trace Navigation,MIT,187001,"RTCM 10403.x framing, ephemeris, MSM and station messages, and IGS SSR (4076), as integer fields."
+2026-11-18T16:25:13Z,gnsswire-skytraq,0.1.0,Trace Navigation,MIT,72793,"SkyTraq binary framing, raw measurement and navigation data messages, as integer fields."
+2026-11-18T16:25:15Z,gnsswire-spartn,0.2.0,Trace Navigation,MIT,62295,"SPARTN v2 framing, decryption and OCB/HPAC/GAD/BPAC messages, as integer fields."
+2026-11-18T16:25:16Z,gnsswire-ubx,0.1.1,Trace Navigation,MIT,39497,"u-blox UBX framing and a small set of messages, as integer fields."
+2026-11-18T16:26:00Z,aws_sdk_connectparticipant,0.0.0,,Apache-2.0,2066,Placeholder reserving the aws_sdk_connectparticipant name. Not yet functional.
+2026-11-18T16:28:12Z,revsec,0.3.0,"""RevSec / RevUp AI, Inc."" <hello@revupai.com>",LicenseRef-Proprietary,3186,"Installs revsec-sdk, the RevSec governance SDK."
+2026-11-18T16:28:16Z,perfr-api,0.1.7,The perfr Authors,BSD-2-Clause,822923,"perfr manual instrumentation for Python: scopes, instants, links and values on a timeline a running perfr draws"
+2026-11-18T16:29:35Z,bovidaeta,0.2.0,"Enhong Liu, Meike van Leerdam, Sumit Sharma, Haiyu Yang, Hanlu Zhang, Puchun Niu, Haowen Hu, Lipika…",Apache-2.0,162619,"A common data format for dairy cattle events, with loaders for SQLite and Delta Lake."
+2026-11-18T16:29:41Z,protein-motor-sim,0.1.2,ProteinMotorSim contributors,MIT,166587,Modular stochastic simulation tools for molecular protein motors
+2026-11-18T16:29:58Z,ratchetflow,0.1.0,Paco Fernández,MIT,53443,"Durable steps for long-running agent workflows: a crash costs one step, not the run."
+2026-11-18T16:30:58Z,lacerna-ai,0.0.1,Ian Walsh,Apache-2.0,10131,"An open-source AI agent framework, coming in early 2027."
+2026-11-18T16:30:59Z,lacerna,0.0.1,Ian Walsh,Apache-2.0,10094,"An open-source AI agent framework, coming in early 2027."
+2026-11-18T16:36:42Z,claude-remote-mcp-gateway,0.1.1,Jakub Płachecki,MIT,195978,Public MCP server that exposes Claude Code session tools and forwards them to agent-bridge
+2026-11-18T16:36:52Z,oya-browser,0.2.1,Oya <sales@getoya.ai>,MIT,228040,"Real browsers for AI agents: start one on Oya Cloud or any provider, drive it, save a task as a playbook and replay it with no model. Plugs into browser-use over CDP."
+2026-11-18T16:39:26Z,touchy-dankbot,0.1.1,Touchy-Pad contributors,GPL-3.0-or-later,139600,"An eavesdropping desk robot: witty one-liners about overheard conversation, via a remote LLM."
+2026-11-18T16:40:02Z,lightsole,0.0.1,Jacky <jacky@gmail.com>,MIT,80870481,package
+2026-11-18T16:42:01Z,pybot-hf,0.1.1,,Apache-2.0,25508616,"PyBot: a chatbot written in plain Python by a swarm of agents. No weights, no training, just rules."
+2026-11-18T16:44:56Z,legacy-ssh-proxy,0.1.1,,MIT,13045749,Python wrapper and context manager for Legacy SSH Proxy
+2026-11-18T16:47:23Z,omecli,0.0.1,Sakxem <sakxem@duck.com>,,21573,An anonymous Omegle clone made for the command line with real-time ASCII video streaming
+2026-11-18T16:49:25Z,linkmybots,0.0.1,Fixin Labs LLC,,2378,Name reserved by Fixin Labs LLC for LinkMyBots. See https://linkmybots.com
+2026-11-18T16:50:40Z,fancy-conformance,0.55.1,Particle Academy,MIT,1294550,"Shared cross-language conformance fixtures for the Fancy suite, with the Python loader. One contract, N implementations, and a single table every implementation asserts in its own CI - so 'parity' is…"
+2026-11-18T16:52:10Z,indiasim,0.1.0,Dr Sulaxan,MIT,151427,"Agent-based simulator of the Indian economy (Economy Lab), calibrated to RBI, MoSPI and PLFS data"
+2026-11-18T16:56:01Z,novu-agents,0.1.0a1,Novu <support@novu.co>,MIT,42456,"Novu agents for Python: run your own agent on Slack, Teams, WhatsApp, email and web chat through Novu (preview)."
+2026-11-18T16:57:23Z,xmltokenizer,0.1.1,Maarten Janssen,MIT,166210,"Robust inline tokenization of TEI/XML and generic XML, designed for flexipipe and standalone use."
+2026-11-18T16:59:36Z,agent-approval-gate,0.1.0,Bhavisha Ahuja <bhavishaahuja800@gmail.com>,MIT,243243,"Human approval for AI agent tool calls without approval fatigue. A Python decorator with risk tiers, previews and an audit log. Works with any framework."
+2026-11-18T17:00:33Z,sgriph,0.0.1,,PolyForm-Noncommercial-1.0.0,5263,Installs septograph
+2026-11-18T17:01:14Z,filigrana,0.1.0,rad,MIT,181664,"Writer-held statistical watermark: evidence that your prose is yours, never a verdict"
+2026-11-18T17:01:17Z,moodface,1.20261119.1004911,Yuan-Yi Chang <changyy.csie@gmail.com>,MIT,1664850,"Animated watch faces for Xiaomi bands and watches that change with your stress level, time of day or season."
+2026-11-18T17:05:13Z,animalpose,1.0.0,,GPL-3.0-only,603541,"Species-agnostic multi-animal pose estimation, tracking, behavior and multi-view 3D for rodents and beyond"
+2026-11-18T17:05:49Z,KineSIM,0.1.2,KineSIM contributors,MIT,66108,A modular Python library for stochastic and mechanochemical simulation of kinesin motors
+2026-11-18T17:07:08Z,thesis-sdk,0.0.2,Thesis PBC,LicenseRef-Thesis-Proprietary,3989,The Thesis SDK for Python (import thesis).
+2026-11-18T17:07:09Z,thesis-client,0.0.2,Thesis PBC,LicenseRef-Thesis-Proprietary,4053,The Thesis API client for Python (import thesis).
+2026-11-18T17:07:16Z,ocrmypdf-docling,1.0.0,Adrian Mazur,MIT,22607,OCRmyPDF plugin for Docling Serve
+2026-11-18T17:07:16Z,primitives-sdk,0.0.2,Thesis PBC,LicenseRef-Thesis-Proprietary,4028,The Primitives SDK for Python.
+2026-11-18T17:08:10Z,perfr,0.1.7,The perfr Authors,BSD-2-Clause,93855799,"perfr: a low-overhead profiler. The capture service and web viewer in one command, plus the C/C++ and Python instrumentation API."
+2026-11-18T17:09:21Z,rga-ocr,0.1.1,Luca Rui,MIT,148038,"Search file names and contents beneath a path, OCR for PDFs and images included, through ripgrep-all"
+2026-11-18T17:09:58Z,bcv,1.0.0,BCV Today,Apache-2.0,67536,"Official client for the BCV Today API: Banco Central de Venezuela exchange rates (USD, EUR, CNY, TRY, RUB to VES). Unofficial, not affiliated with the bank."
+2026-11-18T17:10:49Z,datasette-arrows,0.1a0,Datasette,Apache-2.0,20658,Streaming exports for Datasette using Arrow IPC.
+2026-11-18T17:15:46Z,nprof,0.6.1,,,29170,
+2026-11-18T17:16:46Z,fibrs,0.1.0,Praveen Perera <me@praveenperera.com>,Apache-2.0,4225767,Native drop-in for Qual's AVF_SPLINE_GENERATOR 0.2.0: traces AFV V/H fibre predictions into the same .afv
