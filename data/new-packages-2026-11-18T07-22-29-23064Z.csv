@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T06:29:14Z,arktor,0.6.0,Arktor contributors,MIT,688655,"A complete, extensible agent framework for building AI agents and multi-agent systems"
+2026-11-18T06:30:04Z,jetbrains-pulumi-aws-secrets-manager,999.9.9,,,985,Stub package that mitigates Dependency Confusion attacks
+2026-11-18T06:36:32Z,scrapy-lightpanda-middleware,0.1.0,,BSD-3-Clause,22976,Opt-in Lightpanda downloader middleware for Scrapy
+2026-11-18T06:36:48Z,nunchaku-lite,0.3.1,,Apache-2.0,415182,Lite plugin runtime for applying Nunchaku v2 quantized transformer weights to Diffusers (PyTorch) and mflux (MLX) pipelines.
+2026-11-18T06:37:44Z,pebblous-dataclinic-viz,0.1.1,Pebblous <dev@pebblous.ai>,LicenseRef-Pebblous-Proprietary,45127,"Charts for Pebblous DataClinic image-data quality results: density, duplicates, kNN structure and classes."
+2026-11-18T06:37:55Z,simplerobotics,1.0.5.2,Leonardo Andrey Gaspar Mejía,,761071,"Educational Python library for robot kinematics, homogeneous transformations, trajectory interpolation, and 3D visualization."
+2026-11-18T06:38:22Z,quant-falsifier,0.1.0,quant-falsifier contributors,Apache-2.0,114810,"Falsification tooling for quantitative research: trial ledgers, deflated Sharpe ratios, multiple-testing corrections and leakage audits."
+2026-11-18T06:42:16Z,zmem,0.1.1,Joe Palala,MIT,21327,"Local memory for Claude Code: SQLite FTS5 search over your session transcripts, plus facts you approve."
+2026-11-18T06:44:50Z,lampu-tidur,0.1.0,"""N. Sutedja"" <n.sutedja.dev@outlook.com>",,2515,Lampu tidur sederhana untuk terminal.
+2026-11-18T06:50:03Z,dpmcl,26.1,dianbtcmputr,MIT,199151,Minecraft: Java Edition command-line launcher with a progress-callback library API
+2026-11-18T06:50:40Z,agentic-terminal-rachelle,0.1.0,,,5348,An MCP which adds terminal capabilities to an agent.
+2026-11-18T06:54:10Z,businessapi-mcp,0.1.0,Joe Fu,MIT,178758,MCP server for businessapi.com.au — Australian ASIC / ATO / ABRS / PPSR registry API with dry-run-first lodgement tools
+2026-11-18T06:56:35Z,imgsim-py,0.1.0,zhou <zhouchuan315@gmail.com>,MIT,74396,"Find duplicate and near-duplicate images with perceptual hashing, color verification and clustering."
+2026-11-18T06:56:54Z,smartmeter-austria,1.0.0,Paul Wölfel,GPL-3.0-only,139791,"Read Austrian smart meters (Burgenland, Niederösterreich, Wien, Steiermark, Salzburg, Tirol) from their customer interface"
+2026-11-18T07:06:18Z,kpai-aria-client,0.0.1,"KP-AI, Inc.",All rights reserved,3377,Reserved by KP-AI for ARIA. Not for use: ARIA customers get the real library from their own ARIA server.
+2026-11-18T07:08:36Z,agentreadycrm,0.1.0,NimbleBrain Inc <hello@nimblebrain.ai>,MIT,803392,"A CRM for AI agents, as an MCP server with views: organizations, contacts, deals and the evidence behind them. Runs locally on one SQLite file."
+2026-11-18T07:10:36Z,mcp-kymograph,0.2.0a1,Arno Sontheim,Apache-2.0,3195261,Dynamic security testing for MCP servers: records the exchange with a server and reports named signals.
+2026-11-18T07:11:25Z,pytaskq,0.3.0,Vraj Patel,MIT,288141,"Background jobs for Python — simple to start, safe in production. Async-first task queue with a live dashboard, built on Redis."
+2026-11-18T07:11:52Z,fastrdf,0.1.0,Magnus Bakken <magnus@data-treehouse.com>,Apache-2.0,948279,Fast RDF for Python
+2026-11-18T07:12:54Z,ultraloop,0.0.1,UltraThinkLabs,Apache-2.0,11154,The UltraThinkLabs SDK for post-training research
+2026-11-18T07:14:05Z,voyoagent,0.1.0,zhantewei,,53012,基于 OpenAI Responses API 的极简异步 Agent 框架：流式事件、工具注册、Skill 加载、MCP 接入、提示词 fragment 与生命周期钩子
+2026-11-18T07:15:13Z,wuji-hand2-2-description,2026.11.18,,MIT,29499776,"MJCF, URDF, USD, and mesh assets for Wuji Hand 2.2"
+2026-11-18T07:16:08Z,autofusex,0.2.0,,,583700,Autofuse debugging and reproducible CPU/NPU fuzz testing
+2026-11-18T07:16:54Z,canvouch,0.2.1,CanVouch contributors,MIT,1353044,"DBC-aware CRC, rolling-counter and E2E protection verification for CAN traces"
+2026-11-18T07:17:37Z,kuzysign,0.1.0,Michele Renda,AGPL-3.0-or-later,62836,Local PDF signature rail for Kuzys agent acceptance.
+2026-11-18T07:17:41Z,kuzysignal,0.0.1,Michele Renda,AGPL-3.0-or-later,152168,JSON-first Signal chat client for Kuzys agents (signal-cli backend).
+2026-11-18T07:17:44Z,kuzystats,0.1.1,Michele Renda <michele.renda@protonmail.com>,AGPL-3.0-or-later,50725,Inspect native Codex and Claude Code session statistics.
+2026-11-18T07:17:49Z,kuzybackup,0.1.5,Michele Renda,AGPL-3.0-or-later,185841,"Scheduled, verifiable backups of AI agent sessions via Needlecast."
+2026-11-18T07:20:58Z,areagiskit,0.14.1,Pradeepika Kaushik,GPL-3.0-or-later,1889197,"One-click geospatial studies of any area: Flood, LULC, Landslide, Crop, Urban and Health (236 analyses), with validation and Word/PDF/HTML reports."
