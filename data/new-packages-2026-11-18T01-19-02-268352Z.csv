@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T00:20:36Z,gavel-connector,0.1.0,GremlinLabs,LicenseRef-Proprietary,43510,"Connect Gavel to models and chatbots on your own computer or network: one outbound WebSocket, an allow-list of targets"
+2026-11-18T00:20:40Z,btmc,0.0.0,sneakers-the-rat <sneakers-the-rat@protonmail.com>,EUPL-1.2,172335,btmc - bittorrent microclient: a super small asyncio bittorrent client
+2026-11-18T00:22:29Z,deed-page,0.1.0,Avatar 8 LLC <ops@avatar33.com>,MIT,18104,Official deed.page CLI and client: publish a file or folder to a permanent https://{slug}.deed.page/ URL. No account needed.
+2026-11-18T00:24:23Z,parcel-id,0.0.1,,MIT,7584,Validate US Assessor's Parcel Numbers (APNs) against officially stated county formats. In development; this release only reserves the name.
+2026-11-18T00:27:38Z,agentkoin-core,0.1.1,STOS Technologies LLC,MIT,50008,"AgentKoin (formerly AgentCoin) router client (find, order, pay, verify). Base Sepolia testnet only."
+2026-11-18T00:27:40Z,crewai-agentkoin,0.1.0,STOS Technologies LLC,MIT,6932,AgentKoin (formerly AgentCoin) tools for CrewAI. Base Sepolia testnet only.
+2026-11-18T00:27:42Z,langchain-agentkoin,0.1.0,STOS Technologies LLC,MIT,7077,AgentKoin (formerly AgentCoin) tools for LangChain and LangGraph. Base Sepolia testnet only.
+2026-11-18T00:27:44Z,openai-agents-agentkoin,0.1.0,STOS Technologies LLC,MIT,7252,AgentKoin (formerly AgentCoin) tools for the OpenAI Agents SDK (Python). Base Sepolia testnet only.
+2026-11-18T00:28:16Z,commitron,1.0.0rc4,Error404-uv,MIT,94134,A safer AI-powered Git assistant for the command line
+2026-11-18T00:28:18Z,architecture-extractor,0.27.0,AE contributors,MIT,331162,Static Python/PyTorch architecture extraction and vector diagrams
+2026-11-18T00:29:45Z,coherion-mipcode,0.6.4,Brian Gansz,Apache-2.0,299984,Static Python call-contract checks and Solidity structural analysis with mip-delta
+2026-11-18T00:30:02Z,jetbrains-pulumi-aws-rds-proxy,999.9.9,,,979,Stub package that mitigates Dependency Confusion attacks
+2026-11-18T00:30:36Z,sowwic-nyx-usd,1.0.0,Dima Shevchenko,MIT,27717,Description
+2026-11-18T00:34:48Z,harbor-framework-client,0.1.0,,,637187,Typed synchronous and asynchronous clients for the Harbor API.
+2026-11-18T00:35:55Z,slogo,15,Beasteren,,13324,Logo
+2026-11-18T00:46:04Z,litesuite-rust-sidecar,0.1.0,,MIT,283761,The Python engines the Rust Lite apps start beside themselves. This version holds LiteSound's audio engine.
+2026-11-18T00:46:12Z,winrt-Microsoft.UI.Xaml.Media.DXInterop,4.0.0,,MIT,104628,"Sets the DXGI swap chain that a WinUI 3 SwapChainPanel shows, through the panel's native interfaces. It needs the Windows App Runtime, as WinUI 3 does, but works with any Windows App SDK release."
+2026-11-18T00:47:04Z,cr1000a-mcp,0.2.1,Soham Patwardhan,MIT,32631,MCP server for the Verizon CR1000A (Fios) router
+2026-11-18T00:53:14Z,palisec,0.4.0,Palisec,MIT,33468,"Python client for Palisec: ask before every agent transaction, send only on ALLOW."
+2026-11-18T00:53:14Z,sgl-router,0.1.0,,Apache-2.0,32228887,Slim KV-aware OpenAI-compatible router for SGLang workers
+2026-11-18T00:53:34Z,opengwasdb,0.12.0,OpenGWASDB contributors,LicenseRef-Sustainable-Use-License,1976993,Standalone storage and query engine for OpenGWAS-scale summary statistic stores
+2026-11-18T00:53:43Z,mailko,0.1.0,Bithaus SAS,MIT,64743,"Librería oficial de Mailko para Python: la API /v1, la verificación de webhooks y un backend de correo para Django."
+2026-11-18T00:55:40Z,bucli,0.6.0,Bithaus SAS,MIT,160089,"Librería oficial de Bucli para Python: cliente de la API /v1, verificación de webhooks e integración con Django."
+2026-11-18T00:56:01Z,embedxray,0.1.1,,Apache-2.0,60192,Read-only diagnostic and evaluation library for sentence-transformers embeddings.
+2026-11-18T00:57:52Z,acumatica-api,0.1.0,,,53236,"A lightweight Python SDK for the Acumatica contract-based REST API, built with `httpx2`."
+2026-11-18T00:59:21Z,subsumes,0.2.0,,MIT,7489809,JSON Schema inclusion: does one schema accept every instance that is valid under another?
+2026-11-18T01:00:16Z,nodetect,1.0.1,Mitul Islam,,75587,High-performance stealth browser automation & persistent profile engine
+2026-11-18T01:00:26Z,sketch-tastic,0.2.0,drusifer,MIT,101547,Mergeable sketches of JSONL event streams for regression testing and flow analysis.
+2026-11-18T01:01:31Z,orsel,0.1.0,,MIT,137999,"Python SDK for orsel: the web action layer for AI agents. find, read, act, watch, explain, approve, revoke."
+2026-11-18T01:04:22Z,openconstruction-tools,0.1.0,OpenConstruction,Apache-2.0,210664,"OpenConstruction MCP server, command-line interface, and shared catalog services."
+2026-11-18T01:05:29Z,fxyz,0.1.0,,,21165,Fxyz是专业的金融数据API平台，为量化交易与投资研究提供可靠的全市场行情数据API。
+2026-11-18T01:11:55Z,testscope,0.1.0,,Apache-2.0,137314,Run only the tests a change can affect. Built for AI coding agents and CI.
+2026-11-18T01:13:08Z,aind-atlas-terminology,0.2.0,Allen Institute for Neural Dynamics,MIT,700876,Resolve and select brain structures in Allen atlas-assets terminologies
