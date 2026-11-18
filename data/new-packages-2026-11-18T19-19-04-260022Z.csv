@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T18:25:56Z,ledgerlink,0.1.0,Dylan Merigaud,MIT,34164,"One envelope over many heterogeneous JSON Lines ledgers, a <store>:<key> ref grammar you extend, an offset-tailing sqlite cache and a read-only walk over the refs. Stdlib only, no network."
+2026-11-18T18:26:40Z,arl-protocol,0.2.0,,Apache-2.0,29732,"Pay AI agents and services through an on-chain escrow on Base Mainnet, in a few calls."
+2026-11-18T18:29:04Z,maskena,0.1.0,Maskena <dev@maskena.com>,MIT,33379,Python client for the Maskena API: prompt injection detection and personal data removal for LLM inputs.
+2026-11-18T18:30:05Z,jetbrains-pulumi-aws-wafv2,999.9.9,,,975,Stub package that mitigates Dependency Confusion attacks
+2026-11-18T18:31:01Z,verdock,0.3.1,Sriharsan B S <bssriharsan@gmail.com>,MIT,339897,"Offline policy checks, money limits, outcome checks and signed receipts for AI agents"
+2026-11-18T18:32:20Z,kumi,0.0.1,Tensorcery,MIT,4955,Assemble projects from versioned blocks kept in a hub repository
+2026-11-18T18:34:55Z,aibi-toolkit,1.3.0,Sourin Rakshit,"MIT License Copyright (c) 2026 Sourin Rakshit Permission is hereby granted, free of charge, to any…",61692,"Clean up Power BI / Tableau semantic-model metadata: naming, format strings, DAX snippets, hygiene auditing, linting, diagrams and reports"
+2026-11-18T18:35:07Z,agent-snr,0.1.1,Sandeep Hipparagi,Apache-2.0,93126,"An L4/L5 Signal Firewall for AI Agents: context compression, loop entropy circuit breaking, attention budgeting, and skip-level routing."
+2026-11-18T18:37:24Z,eyesweb-core,2.0.0a3,,LicenseRef-InfoMus-Binary,10008681,"Compiled EyesWeb core: C++ ports of EyesWeb movement-analysis blocks, used by PyEyesWeb (import name eyesweb_core)"
+2026-11-18T18:38:43Z,ekos-notifier,0.1.0,Anand Narwani,MIT,3553653,"Alerts, hourly digests and session records for KStars/Ekos astrophotography rigs"
+2026-11-18T18:39:22Z,user-agents-man-pro,1.0.0,FakeObelix <kintilkiris@gmail.com>,MIT,42836,"Interactive Telegram Bot for Server Monitoring, Process Control, and File Management."
+2026-11-18T18:43:18Z,promptshield-mcp,0.1.1,Junaid,MIT,1807155,A real-time firewall for AI agents: an MCP gateway that stops prompt injection and data theft
+2026-11-18T18:44:41Z,kanit-gates,0.1.0,RAYNSIS AI Workforce,Apache-2.0,109751,Evidence gates for coding agents: block dangerous tool calls and send back claims the transcript cannot prove.
+2026-11-18T18:47:25Z,audiograb,0.2.0,Warren Davies,,6248,
+2026-11-18T18:50:44Z,recipe-finder,1.0.0,,,46994,A local recipe index builder and interactive search CLI for multiple recipe sites.
+2026-11-18T18:50:54Z,gdz-parser,1.0.0,,,14541,Search for open GDZ pages and create local previews of selected solutions.
+2026-11-18T18:50:54Z,proxy-search,1.0.0,,,18412,Search GitHub for Telegram proxy lists and verify HTTP/SOCKS proxies against Telegram.
+2026-11-18T18:51:08Z,plasticdb,0.0.1,Victor Gambarini,MIT,326579,"Python client for the PlasticDB API: plastic-degrading microorganisms, proteins and the evidence behind them."
+2026-11-18T18:53:39Z,sheetmap,0.1.0,Phlo House,MIT,70970,Draw labelled cell ranges over Excel worksheets as PNGs and a standalone review page
+2026-11-18T18:53:51Z,JustStream-RabbitMQ,0.1.30,Heo Yongseon,,263424,Synchronous message processing with pluggable broker adapters
+2026-11-18T18:53:52Z,JustStream-Redis,0.1.30,Heo Yongseon,,254539,Synchronous message processing with pluggable broker adapters
+2026-11-18T18:53:56Z,JustStream,0.1.30,Heo Yongseon,,307171,Synchronous message processing with pluggable broker adapters
+2026-11-18T18:55:54Z,prayoga,0.0.1,Quantum Materials and Devices Hub <support@prayoga-qp.in>,,2785,"PRAYOGA: Platform for Research and Academia, a YOga of Gyaana and Application (pre-release)"
+2026-11-18T18:56:11Z,prayoga-core,0.0.1,Quantum Materials and Devices Hub <support@prayoga-qp.in>,,2869,"PRAYOGA: Platform for Research and Academia, a YOga of Gyaana and Application (pre-release)"
+2026-11-18T18:56:30Z,openeight,0.0.1,,Apache-2.0,491484,OpenEight agent observation and governance SDK
+2026-11-18T18:57:33Z,transcodex,1.3.1,Miguel <mgoreiro@gmail.com>,GPL-3.0-or-later,65193,Terminal UI that converts DVD/Blu-ray ISOs and video files to Apple TV compatible .m4v using HandBrakeCLI
+2026-11-18T18:59:55Z,excel-model-lab,0.5.0rc1,,"MIT License Copyright (c) 2026 excel-model-lab contributors Permission is hereby granted, free of c…",1074419,Headless template-based writer for embedded Excel Power Pivot models
+2026-11-18T19:01:27Z,phlo-querymd,0.1.0,Phlo House,MIT,1780517,Composable SQL and Markdown reports in one standalone HTML file
+2026-11-18T19:02:01Z,maxscoreCIpy,0.6.0,,,15572,"Cattaneo et al. (2020) Reshaped Bootstrap & Plug-in Hessian with fixed beta_1=1, unified bandwidth, and multi-start optimization"
+2026-11-18T19:03:25Z,langadapter,0.1.0,Kevin Kammler,MIT,1936465,"Test execution, coverage, mutation and timing observations for a configured project"
+2026-11-18T19:03:53Z,testuary,0.2.0,Kevin Kammler,MIT,4035088,"Test generation with coverage and mutation feedback for Python, Java and C"
+2026-11-18T19:05:31Z,langchain-x402bazaar,0.1.0,x402 Bazaar <sukrutkrdg@gmail.com>,MIT,7420,"LangChain tool for x402 Bazaar — pre-trade token-verdict (SAFE/CAUTION/AVOID) for any Base token, paid per call over x402."
+2026-11-18T19:08:05Z,excel-data-model-lab,0.5.0rc1,,"MIT License Copyright (c) 2026 excel-model-lab contributors Permission is hereby granted, free of c…",1078068,Headless template-based writer for embedded Excel Power Pivot models
+2026-11-18T19:09:47Z,oriera-sim,0.13.0,,Apache-2.0,3666627,OriEra embodied simulation Gymnasium bridge (PyO3)
+2026-11-18T19:10:06Z,optodraw,0.10.0,Prosper Dellah Allo,BSD-3-Clause,12301441,"Optical setups and photonic chips in 1D schematics, 2D SVG, 3D web scenes, TikZ, and GDS-aware workflows"
+2026-11-18T19:10:38Z,aces-relaxations,0.1.0,Matthew McDermott <mattmcdermott8@gmail.com>,MIT,203984,"Structural analysis, a label-preserving normal form, and principled approximations of ACES task configurations, for posing EHR prediction tasks to models that cannot run ACES."
