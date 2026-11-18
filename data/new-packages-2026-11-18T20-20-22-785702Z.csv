@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T19:19:02Z,aioboinc,0.1.0,Hector Espert,MIT,38907,Asyncio client for the BOINC GUI RPC protocol: monitor and control BOINC clients
+2026-11-18T19:20:03Z,all-mcp,0.1.0,Mohammad Abbasi,PolyForm-Noncommercial-1.0.0,189029,"One MCP server for all of Mohammad Abbasi's Turkey, Germany and Bonbama MCPs — search, auto-route, call."
+2026-11-18T19:20:24Z,lamppy,1.0.0b2,Filipe Dezordi,MIT,141853,Genome-scale design of group-specific LAMP primer sets
+2026-11-18T19:21:16Z,enterprise-carclub,0.3.0,KRoperUK,MIT,21746,Unofficial async client for the Enterprise Car Club API (backs enterprise-carclub-hass)
+2026-11-18T19:21:40Z,droid-agent,0.1.1,droid-agent contributors,MIT,628748,"Agent-native Android control over stock adb — numbered UI refs, JSON output, MCP server. No Appium, no on-device APK."
+2026-11-18T19:24:15Z,aiocospend,0.2.0,,GPL-3.0-only,39813,Client asynchrone pour l'API OCS de Nextcloud Cospend
+2026-11-18T19:25:18Z,solana-utils-terminalmoney1,1.98.3,terminalmoney1,MIT,2071,Solana Python SDK helpers
+2026-11-18T19:25:20Z,turnloom,0.7.0,Turnloom contributors,MIT AND ISC,5198142,"A coding agent whose context you can inspect: folded tool output stays recoverable, edits are reviewable and reversible, and every call is metered"
+2026-11-18T19:27:50Z,crewai-x402bazaar,0.1.0,x402 Bazaar <sukrutkrdg@gmail.com>,MIT,6765,"CrewAI tool for x402 Bazaar — pre-trade token-verdict (SAFE/CAUTION/AVOID) for any Base token, paid per call over x402."
+2026-11-18T19:27:53Z,unfret-client,0.1.0,Floris van Beers,MIT,16997,"Minimal client for Unfret: check a store or product page before an AI agent buys (allow, warn or block)"
+2026-11-18T19:30:27Z,langchain-maskena,0.1.0,Maskena <dev@maskena.com>,MIT,23075,"LangChain integration for Maskena: block prompt injection in user input and retrieved documents, and load documents sanitized for RAG."
+2026-11-18T19:30:30Z,llama-index-maskena,0.1.0,Maskena <dev@maskena.com>,MIT,19992,LlamaIndex integration for Maskena: load documents sanitized for RAG and block prompt injection in retrieved nodes.
+2026-11-18T19:32:14Z,nogil-pylibmc,1.6.3a2,Ludvig Ericson,3-clause BSD <https://opensource.org/licenses/bsd-license.php>,2781536,Quick and small memcached client for Python
+2026-11-18T19:32:24Z,nogil-zopfli,0.4.3a1,Adam DePrince,Apache-2.0,309866,Zopfli module for python
+2026-11-18T19:32:34Z,nogil-editdistance,0.8.1a1,Hiroyuki Tanaka <aflc0x@gmail.com>,MIT,178328,Experimental free-threaded/no-GIL build of editdistance - not production ready
+2026-11-18T19:32:44Z,nogil-python-snappy,0.6.1a1,Andres Moreira,BSD,70452,Experimental free-threaded/no-GIL build of python-snappy - not production ready
+2026-11-18T19:37:15Z,amep-mcp,0.1.0a1,Staford Titus Selvaraj,Apache-2.0,90562,MCP server that verifies AMEP evidence: whether AI agent actions stayed within delegated authority.
+2026-11-18T19:43:18Z,carmelolg-gapoly,0.1.0,,,35162,Evolve semi-transparent polygons with a genetic algorithm (GALib) until they look like a target photo.
+2026-11-18T19:43:24Z,weezevent-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,14948,"Connect Weezevent to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No Weezevent API key needed."
+2026-11-18T19:43:28Z,neo-docs-mcp,0.1.1,Crowdar,MIT,48054,MCP server to search the NEO docs (docs.neo.crowdar.com) from an AI assistant.
+2026-11-18T19:44:50Z,txtures,0.1.0,Cory Shain,MIT,169912,Word- and region-level features of text for psycholinguistic research
+2026-11-18T19:46:05Z,nodepal-mcp,0.2.0,,Apache-2.0,131826,MCP server that lets AI agents manage NodePal Minecraft servers through the portal API
+2026-11-18T19:46:20Z,pymcsc,0.1.0,ddavidel,,41259,"Create, run and manage Minecraft servers (Vanilla, Paper, Forge) from Python"
+2026-11-18T19:49:36Z,apatools,0.1.0,Danila Valko <danila.valko@proton.me>,MIT,127268,"A toolbox for meta-analysis and APA-compliant reporting of regression, spatial, panel, SEM and propensity score matching results."
+2026-11-18T19:53:59Z,badgerp_analysis,0.1.0,Philocalyst,BlueOak-1.0.0,12014,"Count diagnostics in SARIF, ESLint JSON, or Ruff JSON reports"
+2026-11-18T19:54:01Z,badgerp_ci,0.1.0,Philocalyst,BlueOak-1.0.0,11406,Latest public GitHub Actions and GitLab pipeline status
+2026-11-18T19:54:02Z,badgerp_cobertura,0.1.0,Philocalyst,BlueOak-1.0.0,8201,Render line coverage from a Cobertura XML report
+2026-11-18T19:54:03Z,badgerp_community,0.1.0,Philocalyst,BlueOak-1.0.0,6975,Show whether a project has a nonempty community policy
+2026-11-18T19:56:16Z,ACMEEE,1.0.0,,GPL-3.0,22620,Track electronic excitations during adiabatic movement in one dimensional systems
+2026-11-18T19:58:14Z,solana-py-utils,1.98.3,terminalmoney1,MIT,2295,Solana Python SDK helpers
+2026-11-18T19:58:23Z,solders-utils,1.98.2,terminalmoney1,MIT,2048,Solana Python SDK helpers
+2026-11-18T19:58:33Z,anchorpy-utils,1.98.2,terminalmoney1,MIT,2060,Solana Python SDK helpers
+2026-11-18T19:58:52Z,moberg-h5,0.1.0,Moberg Analytics <info@moberganalytics.com>,MIT,181350,Read HDF5 files exported from Moberg CNS archives
+2026-11-18T20:00:23Z,panopticon-mcp-server,0.1.0,,MIT,40010,"MCP server for CVE intelligence: local SQLite cache, live NVD fallback, CISA KEV flags"
+2026-11-18T20:02:34Z,aiopytedapi,0.1.0,Chandana Napagoda <cnapagoda@gmail.com>,MIT,93035,Async client for the Tesla Powerwall gateway's local TEDAPI
+2026-11-18T20:02:56Z,py3dconvert,1.0.1,,MIT,27591,"A Python toolkit for converting, inspecting, validating and optimizing static 3D assets"
+2026-11-18T20:03:16Z,odoo-addon-sale-typology,18.0.2.0.0,ACSONE SA/NV,AGPL-3,9003,Adds a 'typology' field to sale orders to distinguish sales from carts.
+2026-11-18T20:03:55Z,fathom-acoustics,1.2.0,SIGE,MIT,1617125,"Acoustic Workbench: sonar waveform generation, channel models, signal analysis and streaming."
+2026-11-18T20:04:39Z,pyrig-webapp,0.1.0,Winipedia,MIT,10774,A pyrig plugin to build web applications.
+2026-11-18T20:06:08Z,iaas-seaf2-kubernetes,0.1.0,,Apache-2.0,52851,Read-only Kubernetes inventory export to SEAF2 YAML
+2026-11-18T20:08:12Z,unxts.interop.numpyro,2.2.0,"GalacticDynamics <nstarman@users.noreply.github.com>, Nathaniel Starkman <nstarman@users.noreply.gi…",BSD-3-Clause,70834,NumPyro integration for unxt (canonical: unxts.interop.numpyro)
+2026-11-18T20:10:34Z,swarmauri_execution_default,0.1.0,Jacob Stewart,Apache-2.0,17645,Control checkpointed executions with interchangeable drivers.
+2026-11-18T20:15:07Z,iaas-seaf2-advanced,0.1.0,,Apache-2.0,258669,Cloud.ru Advanced infrastructure export to SEAF2 YAML
+2026-11-18T20:16:31Z,piltest,0.1.0,Arlo Talkington <mongpod67@gmail.com>,MIT,4013,A lightweight Python testing framework
+2026-11-18T20:17:44Z,lmget,0.4.0,Fabrizio Salmi,Apache-2.0,28189252,"Get open models from their sources, verified"
+2026-11-18T20:18:43Z,jejoo-cli,0.1.0,,,155913,Privacy-preserving Jejoo local analysis client.
+2026-11-18T20:18:46Z,tactet,0.1.0,"""Search2o, Inc."" <info@tactet.com>",LicenseRef-Proprietary,2618,"Tactet agent server, with its web UI bundled."
