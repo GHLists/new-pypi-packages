@@ -1,0 +1,64 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T12:18:42Z,evalkit-agents,0.1.0,EvalKit contributors,MIT,162524,"Evaluate and debug LLM agents: trace capture, pluggable scorers, golden datasets, replay and CI gates. LangGraph first."
+2026-11-18T12:19:18Z,lupaxa-invisible-ink,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",58219,Offline command-line tool for concealing and recovering messages in ordinary Unicode text.
+2026-11-18T12:20:05Z,rifterm,0.2.0,soloofboom,MIT,28615,"rifterm — le marché, dans votre terminal. CLI open source de rif (Heat Index, pépites, rapports)."
+2026-11-18T12:22:58Z,fiware-fundamentals,1.0.0,Sascha Johnen <sa.johnen@fz-juelich.de>,,95092,"A collection of fundamental functions for FIWARE at ICE-1, but easily usable for others as well"
+2026-11-18T12:23:37Z,oinyx,0.1.0,oinyx contributors,MIT,289981,"Provider-agnostic client library for chat-completion AI models, with a plugin registry and no built-in providers."
+2026-11-18T12:24:07Z,tencentdb-agent-memory-sdk-python,0.1.0,TencentDB Agent Memory Team,MIT,13266,Python SDK for TencentDB Agent Memory v2 API
+2026-11-18T12:25:28Z,sandcrab,0.3.0,,Apache-2.0,85729,"Native Python client, template workflows, host-call dispatcher and stdio MCP server for Sandcrab"
+2026-11-18T12:26:06Z,tencentcloud-agentobs-distro,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,29913,Tencent Cloud AgentObs distro: default configuration and OTLP export to CLS
+2026-11-18T12:26:08Z,tencentcloud-agentobs-instrumentation-agentscope,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,45527,LoongSuite AgentScope Instrumentation
+2026-11-18T12:26:11Z,tencentcloud-agentobs-instrumentation-claude-agent-sdk,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,27132,LoongSuite Claude Agent SDK instrumentation
+2026-11-18T12:26:13Z,tencentcloud-agentobs-instrumentation-google-adk,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,20300,LoongSuite instrumentation for Google Agent Development Kit (ADK)
+2026-11-18T12:27:28Z,scout-tissue,1.0.1,Antonio M. Rinaldi,Apache-2.0,93403,SCOUT-open: risk-guided foundation-model escalation for tissue detection in whole-slide images
+2026-11-18T12:27:41Z,LibHankel,0.1.0,Letizia Protopapa,,11809356,A C library with Python bindings for computing Hankel transforms
+2026-11-18T12:29:04Z,tdai-memory,0.0.1,TencentDB Agent Memory Team,MIT,2210,Placeholder package (name reserved by TencentDB Agent Memory Team)
+2026-11-18T12:30:02Z,jetbrains-pulumi-aws-valkey,999.9.9,,,974,Stub package that mitigates Dependency Confusion attacks
+2026-11-18T12:33:31Z,odoo-addon-sy-crm-salesperson-planner-extended-phonecall,18.0.1.0.0,Sygel,AGPL-3,41342,CRM Salesperson Planner Extended Phonecall
+2026-11-18T12:38:08Z,spanlineage,0.1.0,Wenke Du,MIT,19530,"Span-level provenance for extracted values: every number keeps the characters it came from, through every transformation."
+2026-11-18T12:40:44Z,multipanel,0.1.0,Fraser Holloway,BSD-3-Clause,11033355,"MultiPanel: a UI framework built with VTK (in-scene panels, widgets and charts)"
+2026-11-18T12:40:56Z,localagentbrowser-cleanroom,1.67,SnowFX,MIT,301160,"Clean Room, a private edition of LocalAgentBrowser: an autonomous web research agent with checked answers, on a local LLM (LM Studio) only, and Playwright."
+2026-11-18T12:42:21Z,recording-transcriber,1.0.0,Daniel Muehlbachler-Pietrzykowski,GPL-3.0-or-later,231420,"Transcribe recordings into clean transcripts with named speakers, a protocol and an agenda."
+2026-11-18T12:42:36Z,nickerson-lit-synth,0.1.0,Karthikeyan Velusamy,MIT,63196,"LLM-assisted, evidence-verified literature coding for taxonomy and SoK studies following Nickerson et al. (2013)."
+2026-11-18T12:44:31Z,beets-fdup,0.1.0,Ryan Griffiths,MIT,86476,Beets plugin that finds duplicate tracks by fuzzy matching fields such as artist and title
+2026-11-18T12:44:46Z,playwright-mcp-server-hellork,0.2.0,,Apache-2.0,18563,MCP server for Playwright browser automation
+2026-11-18T12:45:00Z,qwiki-builder,1.0.0,Franco Benedetti <franco@growthhq.net>,MIT,132725,"Generalised CLI, Python engine, and AI agent workflow to create, manage, and remotely deploy online documentation suites, equipment manuals, user guides, quality manuals, and safety handbooks to Stan…"
+2026-11-18T12:45:32Z,textstats-ashb,0.1.0,Boolean Lojiq <ashrafbandah08@gmail.com>,MIT,5601,"A simple text analysis package: count words, characters, reading time, and common words."
+2026-11-18T12:46:26Z,agent-review-suite,0.1.0,Agent Review Suite contributors,Apache-2.0,149336,Provider-neutral review guidance and bounded v1 request and report validation
+2026-11-18T12:49:14Z,ria,0.0.2,Khaidar Bikmaev,,2593,ria
+2026-11-18T12:50:13Z,pyicloudx,0.13.0,pyicloudx contributors,"MIT License Copyright (c) 2026 pyicloudx contributors Permission is hereby granted, free of charge,…",161327,"Vendor-neutral auth strategies, anti-abuse shield, PCP protocol, routing, keyring and a serialized JSON-RPC daemon (stdlib + numpy)"
+2026-11-18T12:50:25Z,qkit-research,0.1.0,Wenke Du,MIT,23997,"The checks a quantitative researcher forgets: lookahead detection, survivorship auditing, purged cross-validation and deflated Sharpe."
+2026-11-18T12:52:24Z,lupaxa-magic-bytes,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",92048,"Offline command-line tool for identifying, validating, and extracting binary file structures."
+2026-11-18T12:52:55Z,hevo-mcp,1.0.0,Hevo Data,MIT,668465,"MCP server for Hevo: Edge and Standard pipelines, Destinations, Models, Workflows, team users and OAuth accounts"
+2026-11-18T12:54:23Z,sgrs,0.1.0,,MIT,19094,"Typed, composable ANSI SGR styles for terminal text"
+2026-11-18T12:55:29Z,hydra-link-connect,0.1.0,,Proprietary,155782,"Subscribe-class Hydra Link agent package: subscription wake, task claim/reply, crash-safe cursor."
+2026-11-18T12:55:32Z,icuflow,0.1.0,Wenke Du,MIT,23620,"Leak-safe cohort splitting, calibration and alarm metrics for clinical prediction, in the shape PyHealth and RHealth tasks expect."
+2026-11-18T12:56:30Z,ktemia-mcp,0.1.3,Ktemia,MIT,60407,"Model Context Protocol server for the Ktemia travel search API - flights, hotels, and cars across 100+ providers"
+2026-11-18T12:56:39Z,MnMS,1.1.0,Cécile Becarie <cecile.becarie@univ-eiffel.fr>,LGPL-3.0-only,302627,Agent-based Multimodal Urban Moblity Simulator resulting from the ERC MAGnUM project
+2026-11-18T12:56:55Z,agent0-runtime,0.1.0,r1cardohj <2413302357@qq.com>,MIT,132843,"A small embeddable agent runtime with tools, sessions, events, and plugins"
+2026-11-18T12:58:34Z,DeePAQ,0.1.0,"Guanxin Jiang, Fraunhofer IIS",MIT,25222,MERT-based audio quality embeddings and reference evaluation
+2026-11-18T12:59:05Z,bonbama-mcp,0.1.0,Mohammad Abbasi,PolyForm-Noncommercial-1.0.0,59295,"Unofficial read-only MCP server for bonbama.ir — Gorgan discounts, businesses and codes"
+2026-11-18T13:00:43Z,arsalan-test-pkg-9921,0.1.0,,,1386,
+2026-11-18T13:01:48Z,videocap,0.0.1a1,,GPL-3.0-or-later,146412,"Unattended capture from analog video sources: lossless masters and MP4s, for whole collections"
+2026-11-18T13:02:54Z,pixeljoy-ble,0.1.0,,MIT,56478,Reverse-engineered BLE protocol + client for PixelJoy LED matrix panels
+2026-11-18T13:04:05Z,internetdata-django,1.0.1,Mslm Dev <support@internetdata.io>,MIT,54059,"Official Django middleware for the InternetData API. Look up the visitor behind every request: location, network, VPN, proxy, Tor and hosting."
+2026-11-18T13:04:06Z,internetdata-flask,1.0.1,Mslm Dev <support@internetdata.io>,MIT,53263,"Official Flask extension for the InternetData API. Look up the visitor behind every request: location, network, VPN, proxy, Tor and hosting."
+2026-11-18T13:04:10Z,internetdata-fastapi,1.0.1,Mslm Dev <support@internetdata.io>,MIT,54184,"Official FastAPI and Starlette middleware for the InternetData API. Look up the visitor behind every request: location, network, VPN, proxy, Tor and hosting."
+2026-11-18T13:06:50Z,ppfm-chargebee,0.0.1,Cedric Wishiya <cedricwishiya@gmail.com>,,2627,Placeholder for ppfm-chargebee. Real package coming soon.
+2026-11-18T13:06:58Z,ppfm-connectwise,0.0.1,Cedric Wishiya <cedricwishiya@gmail.com>,,2662,Placeholder for ppfm-connectwise. Real package coming soon.
+2026-11-18T13:07:06Z,ppfm-idira,0.0.1,Cedric Wishiya <cedricwishiya@gmail.com>,,2561,Placeholder for ppfm-idira. Real package coming soon.
+2026-11-18T13:07:14Z,ppfm-keyvault,0.0.1,Cedric Wishiya <cedricwishiya@gmail.com>,,2624,Placeholder for ppfm-keyvault. Real package coming soon.
+2026-11-18T13:08:29Z,mangono-addon-report_carbone_account,18.0.1.0.1,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,27933,
+2026-11-18T13:08:29Z,mangono-addon-report_carbone_portal,18.0.1.0.1,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,28838,
+2026-11-18T13:08:30Z,mangono-addon-report_carbone_sale,18.0.1.0.1,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,30249,
+2026-11-18T13:09:05Z,openai-agents-nano,0.2.1,,MIT,249974,Pay any x402-priced HTTP endpoint in self-custodied Nano (XNO) from an OpenAI Agents SDK agent — a thin adapter on the MIT feeless402 client
+2026-11-18T13:09:14Z,bounded-distill,0.0.1,Yerassyl Pirzhanov <erasil200270@gmail.com>,MIT,7754,"Distill your LLM classifier into a small fast model, with a statistical bound on agreement and LLM fallback for uncertain cases."
+2026-11-18T13:10:17Z,meshedlogo,0.1.0,John Aoga <johnaoga@gmail.com>,MIT,73196,Generate beautiful triangle-meshed logos from text and LaTeX formulas
+2026-11-18T13:10:41Z,tenet-tools-ai-knowledge,0.0.0,,Apache-2.0,2047,Name reserved for the Tenet platform's tenet-tools-ai-knowledge distribution. Not yet published.
+2026-11-18T13:10:54Z,tenet-tools-ai-model-spec,0.0.0,,Apache-2.0,2064,Name reserved for the Tenet platform's tenet-tools-ai-model-spec distribution. Not yet published.
+2026-11-18T13:11:07Z,tenet-tools-ai-platform,0.0.0,,Apache-2.0,2031,Name reserved for the Tenet platform's tenet-tools-ai-platform distribution. Not yet published.
+2026-11-18T13:11:19Z,tenet-tools-ai-repo,0.0.0,,Apache-2.0,1991,Name reserved for the Tenet platform's tenet-tools-ai-repo distribution. Not yet published.
+2026-11-18T13:12:24Z,stream-dlp,0.1.2,,MIT,2513264,Bounded byte-stream inspection with Python and LiteLLM bindings
+2026-11-18T13:13:24Z,mdsite,0.1.2,,MIT,63744,Preview and build websites directly from Markdown directories
+2026-11-18T13:15:08Z,esgf-core-models,0.1.0,"Lukasz Lacinski <lukasz@uchicago.edu>, Rhys Evans <rhys.r.evans@stfc.ac.uk>",MIT,29006,Pydantic models and exceptions for the ESGF core architecture
+2026-11-18T13:17:50Z,chemulator,1.0.0,"Sam de Regt, Neale Gibson, Viktoria Kecskeméthy, Evert Nasedkin, Tomasz Różański, Yinan Zhao",MIT,12146505,Fast neural-network emulator of FastChem equilibrium chemistry
