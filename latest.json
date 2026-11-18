@@ -1,41 +1,41 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-11-18T09:19:01.581764Z",
-    "path": "data/new-packages-2026-11-18T10-20-47-867438Z.csv",
-    "to": "2026-11-18T10:20:47.867438Z"
+    "count": 40,
+    "from": "2026-11-18T10:20:47.867438Z",
+    "path": "data/new-packages-2026-11-18T11-19-26-124753Z.csv",
+    "to": "2026-11-18T11:19:26.124753Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-18T10:43:29Z",
+      "package": "cofide-sdk",
+      "since": "2026-11-18T10:20:47.867438Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-18T08:44:05Z",
       "package": "cofide-sdk-python",
       "since": "2026-11-18T08:19:03.663002Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-18T08:23:58Z",
       "package": "curlkit",
       "since": "2026-11-18T08:19:03.663002Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-18T07:13:31Z",
-      "package": "livekit-plugins-boson-ai",
-      "since": "2026-11-18T06:22:05.829336Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
-      "created_at": "2026-11-18T07:47:50Z",
-      "package": "tba-app-backend-wit-issuance",
-      "since": "2026-11-18T07:22:29.23064Z",
+      "attempts": 1,
+      "created_at": "2026-11-18T11:16:34Z",
+      "package": "ensembl-vep",
+      "since": "2026-11-18T10:20:47.867438Z",
       "version": null
     }
   ],
-  "serial": 43827140,
+  "serial": 43829083,
   "source_truncated": false,
-  "window": "2026-11-18T10:20:47.867438Z"
+  "window": "2026-11-18T11:19:26.124753Z"
 }

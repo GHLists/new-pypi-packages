@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T07:47:50Z,tba-app-backend-wit-issuance,0.4.0.dev2,,Apache-2.0,5938,Deployable WIMSE WIT issuance with explicit enrollment and key policy.
+2026-11-18T10:23:00Z,unscript-datasets,0.1.3,LeeGyeongPil,MIT,903964,Scan Python code and notebooks for load_dataset calls broken by 'Dataset scripts are no longer supported' and rewrite them based on each Hub dataset's current state.
+2026-11-18T10:26:56Z,digistyle-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,456388,"Unofficial read-only MCP server for Digistyle (digistyle.com), Digikala's fashion store: product search with size, brand and price filters, product details, categories, brands, discounts."
+2026-11-18T10:26:57Z,digiato-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,488827,"Unofficial read-only MCP server for Digiato (دیجیاتو, digiato.com), the Iranian tech news site: latest news, reviews, search, categories, tags, full articles."
+2026-11-18T10:26:59Z,iran-weather-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,1134648,"Unofficial read-only MCP server for the Iran Meteorological Organization (IRIMO, irimo.ir): city forecasts, observations, warnings, road and airport weather."
+2026-11-18T10:27:36Z,protforge-groundcheck,0.1.0,ProtForge <hello@protforge.com>,MIT,68046,"Cheap hallucination detectors for RAG, benchmarked on RAGTruth"
+2026-11-18T10:29:32Z,dsm-oauth-admin-client,0.1.3,,,24641,Django client integration for DSM OAuth and Django Admin
+2026-11-18T10:30:02Z,nocthost,0.1.0,Nocthost OÜ,MIT,24312,Official Python client for the NoctHost API: deploy and manage hourly-billed cloud servers from one prepaid balance.
+2026-11-18T10:30:48Z,kastir,0.0.0,,,2701,This name is held by Kastir. The real Kastir package will be published here.
+2026-11-18T10:33:30Z,iranseda-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,506154,"Unofficial read-only MCP server for Iranseda (ایران‌صدا, radio.iranseda.ir), the IRIB audio archive: radio channels, live streams, schedules, programs, audiobooks, music, Quran."
+2026-11-18T10:33:30Z,khodro45-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,819445,"Unofficial read-only MCP server for Khodro45 (خودرو۴۵, khodro45.com), the Iranian used-car marketplace: listings, inspection reports, price estimate, sale prices."
+2026-11-18T10:33:39Z,namasha-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,462742,"Unofficial read-only MCP server for Namasha (نماشا, namasha.com), the Iranian video platform: search, videos, channels, categories."
+2026-11-18T10:34:01Z,lupaxa-package-autopsy,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",119187,"Inspect, validate, compare, and audit Python wheels and source distributions without installing them."
+2026-11-18T10:34:02Z,pyxtpanel,0.0.1,Frederick Kahindo <frederickahindo048@gmail.com>,MIT,677624,"Panel-data management and exploration in Python: the foundation (Stata's xt layer) for estimation packages, validated against Stata"
+2026-11-18T10:34:53Z,ruscker-sso,0.1.0,André Leite <leite@castlab.org>,Apache-2.0,36227,"Sign people in to a backend through a Ruscker portal (OpenID Connect, authorization code + PKCE)."
+2026-11-18T10:38:03Z,pep517-build-hook-poc,0.1.0,,,451,Controlled PEP 517 build-hook security proof
+2026-11-18T10:40:08Z,tba-app-backend-wpt-verifier,0.4.0.dev2,,Apache-2.0,6800,Deployable delegated WIT/WPT verification with recipient policy and replay protection.
+2026-11-18T10:42:14Z,tba-app-backend-wic-ca,0.4.0.dev2,,Apache-2.0,6621,Deployable native WIMSE Workload Identity Certificate authority.
+2026-11-18T10:43:21Z,positnp,0.20.0,,Apache-2.0,111331,"NumPy-style posit arithmetic (posit8/16/32 with the quire), in software or in the PL of a Kria KV260"
+2026-11-18T10:43:23Z,positnp-kv260,0.20.0,,Apache-2.0,2813929,posit32 / posit16 / posit8 engines with matmul x4 and function tables - Kria KV260 bitstream for positnp
+2026-11-18T10:43:26Z,positnp-kv260-dsp,0.20.0,,Apache-2.0,2809409,posit32 / posit16 / posit8 engines with the hardware radix-4 FFT core (posit32) - Kria KV260 bitstream for positnp
+2026-11-18T10:43:31Z,positnp-kv260-linalg,0.20.0,,Apache-2.0,3043428,posit32 / posit16 engines with gemm x8 (posit32) and x4 (posit16) - Kria KV260 bitstream for positnp
+2026-11-18T10:46:00Z,mcp-eu-funding,0.1.0,Oleg Sher,MIT,25747,"EU Funding & Tenders Portal for AI assistants: Horizon Europe, Digital Europe, LIFE, EIC calls, topic conditions, budgets, deadlines and EU tenders"
+2026-11-18T10:46:46Z,feed-llm-less,0.1.0,,MIT,333115,Help your coding agent choose which files to read first
+2026-11-18T10:46:50Z,spine-converter,1.0.0,an5w1r <an5w1r@163.com>,,6597488,Convert Spine skeleton data between every version from 3.5 to 4.3
+2026-11-18T10:46:56Z,mcp-il-innovation,0.1.0,Oleg Sher,MIT,19255,"Israel Innovation Authority (רשות החדשנות) programs for AI assistants: funding tracks, collaboration programs, program matching and where open calls are published"
+2026-11-18T10:47:38Z,give-qt-eyes,0.1.0,Belal Alkufri,MIT,101108,Check Qt layouts with screenshots and saved measurements
+2026-11-18T10:51:39Z,ninisite-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,557530,"Unofficial read-only MCP server for Ninisite (ninisite.com), the Persian parenting forum and magazine: forum topics with replies, articles, week-by-week pregnancy guide."
+2026-11-18T10:51:41Z,persian-wikipedia-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,723951,"Unofficial read-only MCP server for the Persian Wikipedia (ویکی‌پدیای فارسی, fa.wikipedia.org): search, summaries, article text, infobox facts, nearby places."
+2026-11-18T10:51:45Z,virgool-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,461271,"Unofficial read-only MCP server for Virgool (virgool.ir), the Persian blogging platform: search, posts, authors, topics, publications."
+2026-11-18T10:56:38Z,graphrt-plugin,0.1.0,,Apache-2.0,12602,SDK for writing graphrt plugins in Python (standard library only)
+2026-11-18T10:56:50Z,xmrming-tool,0.1.0b1,Nyan Lin Htet,LicenseRef-Proprietary,14225,"A transparent, user-controlled XMRig helper for Termux"
+2026-11-18T10:57:17Z,resmi-gazete-cli,0.1.2,Ata Can Yaymacı,Apache-2.0,74501,"T.C. Resmi Gazete Karar, Kanun ve İlan Scraper, CLI ve MCP Sunucusu"
+2026-11-18T11:01:02Z,pipefetch,0.1.0,Pipefetch <support@pipefetch.com>,MIT,16115,"YouTube transcripts, video details, channels, search and comments as JSON. Client for the Pipefetch API."
+2026-11-18T11:04:27Z,instana-opentelemetry,0.0.1,,Apache-2.0,1932,Placeholder: Instana OpenTelemetry integration (name reservation).
+2026-11-18T11:05:05Z,dbgate-dashboard-mcp,0.1.0,Evgenii Danilin <evgenii.danilin.m@gmail.com>,MIT,50859,MCP server for querying databases through a running DbGate dashboard.
+2026-11-18T11:06:12Z,xeption,1.0.0.0,Hassan Habib <hassanhabib@live.com>,LicenseRef-TSSL-1.1,12753,Exceptions that carry their validation data and compare by value: the Python port of The Standard's Xeption library.
+2026-11-18T11:07:47Z,primapy-ghisa,0.1.0,Prima Assicurazioni,,1759,primapy-ghisa package
+2026-11-18T11:09:51Z,loopcutter,0.3.0,Aaron Smiles,MIT,185529,"Cut sample-accurate loops out of full tracks, driven by a manifest, for live loop-based sets"
+2026-11-18T11:13:25Z,kindlegarten,0.1.0,,MIT,31241,A command-line backup tool for purchased Amazon Kindle books
