@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-17T23:03:13Z,ods-validator,0.1.0,,MIT,63602,Validador de mensagens do barramento ODS 2026/2 (JSON Schemas da Especificação 1.0)
+2026-11-17T23:20:38Z,astropulse,1.0.5,AstroPulse <contact@astropulse.io>,Apache-2.0,2033959,The official Python SDK for the AstroPulse Platform API
+2026-11-17T23:21:19Z,pytest-llmchaos,0.1.0,pytest-llmchaos contributors,MIT,137051,"Record real LLM API responses once, replay them offline, and inject provider-accurate failures."
+2026-11-17T23:24:24Z,raretree,0.14.1rc4,Renato Frazão,MIT,83472,Interpretable decision trees with optional rare-event business constraints
+2026-11-17T23:25:45Z,canarybench,0.1.0,CanaryBench,Apache-2.0,4299630,Contamination-free deterministic AI evaluation harness for compliance and extraction agents
+2026-11-17T23:27:29Z,netherframe.backends.aws,0.2.0,Sourabh Cheedella,MIT,34900,AWS backend implementations for Netherframe
+2026-11-17T23:27:31Z,netherframe.backends.azure,0.2.0,Sourabh Cheedella,MIT,20028,Azure backend implementations for Netherframe
+2026-11-17T23:27:32Z,netherframe.backends.consul,0.2.0,Sourabh Cheedella,MIT,18128,Consul backend implementations for Netherframe
+2026-11-17T23:27:33Z,netherframe.backends.gcp,0.2.0,Sourabh Cheedella,MIT,19034,Google Cloud Platform backend implementations for Netherframe
+2026-11-17T23:27:35Z,pronunciada,1.0.1,,Apache-2.0 AND CC-BY-SA-4.0 AND BSD-2-Clause AND MIT,37974742,"Pronunciation assessment for ten languages on CPU: phoneme, word and sentence scores, tones and stress"
+2026-11-17T23:34:02Z,tripsort,0.0.1,Shubh Dave,MIT,10597,"Offline Python library + CLI that merges trip photo zips, removes duplicates, and sorts photos by person, shot type, and category."
+2026-11-17T23:34:48Z,mo-trace,0.2.0,,Apache-2.0,50401,nbdev-style literate programming for marimo notebooks
+2026-11-17T23:38:11Z,skarn-guard,0.37.0,,MIT,299492,Runs the Skarn guard inside Python agent runtimes and gateways
+2026-11-17T23:39:25Z,logwarden,0.3.0,Ingeniator,Apache-2.0,70145,Guardrail for structured logs: checks JSON logs against an OpenTelemetry-based logging standard
+2026-11-17T23:45:53Z,cotop,0.1.0,,Apache-2.0,659351,A top-like terminal dashboard for Google Colab runtimes and compute units
+2026-11-17T23:47:17Z,digitalpassport-by,1.0.0,Digital Passport Belarus <info@digitalpassport.by>,MIT,8863,Belarusian 9-digit UNP checksum validator and zero-dependency client for the Digital Passport Belarus public API (digitalpassport.by).
+2026-11-17T23:52:10Z,debugealo,1.1.0,,MIT,2414890,"Local-first Docker debugging, with a UI-independent Python engine."
+2026-11-17T23:58:28Z,langtoken-toolkit,0.1.0,,MIT,4788,A modular Python library for text tokenization.
+2026-11-17T23:58:54Z,wuo,0.1.1,,GPL-3.0-or-later,81796,Find Windows updates and prepare them for offline servicing
+2026-11-17T23:59:15Z,ntf-ai,0.4.0,Legitimate LLC <info@legitimateapps.com>,MIT,154032,NTF-AI (ntf): phone notifications and replies for AI agents. Speaks the ntfy protocol.
+2026-11-17T23:59:34Z,instro-pymeasure,0.1.0,,Apache-2.0,39824,Publish pymeasure instrument traffic through any instro publisher
+2026-11-18T00:06:08Z,shutong-backend,0.0.1,,MIT,718088,Citation-verified scholarly research over a local corpus (MCP server)
+2026-11-18T00:08:29Z,kipip,0.1.0,,(MIT OR Apache-2.0) AND MIT AND Apache-2.0 AND MPL-2.0 AND BSD-3-Clause AND ISC AND Zlib AND Unicod…,41098134,"A drop-in replacement for uv, the Python package and project manager, written in C"
+2026-11-18T00:08:35Z,loop-link,0.1.0,Lachlan Grose <lachlan.grose@monash.edu>,MIT,219758,Send geoscience data to the LoopConnect viewer
+2026-11-18T00:08:39Z,json-repair-lite,1.0.1,Tidy Byte Tools,MIT,20632,"Repair broken or incomplete JSON, including output from language models. Local CLI and MCP server. No API key."
+2026-11-18T00:08:40Z,base64-lite,1.0.1,Tidy Byte Tools,MIT,22730,Encode or decode Base64 for text and local files. URL-safe and data-URI options. Local CLI and MCP server.
+2026-11-18T00:12:03Z,cypher-dsl,0.1.0a2,,Apache-2.0,396288,CPython DSl to constuct Cypher queries.
+2026-11-18T00:12:30Z,wicked-brain-mcp,0.1.1,"SimpliFixed Technologies, LLC",MIT,231586,"MCP server for Wicked Brain: a plain-markdown memory vault your AI agents can search, read and write."
+2026-11-18T00:14:33Z,cornice-apispec,0.1.0,Robbin,BSD-3-Clause,13761,OpenAPI spec generation for Cornice/Pyramid with Marshmallow and OneOfSchema support
+2026-11-18T00:15:58Z,tidy-hash-lite,1.0.1,Tidy Byte Tools,MIT,24007,"Hash text or local files with SHA-256, SHA-1, MD5 and SHA-512. Hex and Base64. Local CLI and MCP server."
+2026-11-18T00:19:00Z,tidy-byte-tools,0.1.1,Tidy Byte Tools,MIT,66395,"One install and one MCP server for the Tidy Byte Tools lite CLIs: repair JSON, extract PDF tables, convert documents to Markdown, and more. Runs locally. No API key."

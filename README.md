@@ -8,36 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 23:19 UTC
+## Latest list — 2026-11-18 00:20 UTC
 
-New packages created between 2026-11-17 22:19 UTC and 2026-11-17 23:19 UTC.
+New packages created between 2026-11-17 23:19 UTC and 2026-11-18 00:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-17T23-19-10-56398Z.csv)
+[Full CSV](data/new-packages-2026-11-18T00-20-07-604121Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-17 22:24:07 | [manulx](https://pypi.org/project/manulx/) | 1.1.0 | smrplugg | 46.8 kB | Modular SSTV-like protocol for sending images over audio |
-| 2026-11-17 22:24:09 | [infrarabbit](https://pypi.org/project/infrarabbit/) | 0.1.0 |  | 11.6 kB | Python client for the InfraRabbit price API: cheapest VPS, GPU and LLM prices,… |
-| 2026-11-17 22:26:12 | [sphinx-daisyui](https://pypi.org/project/sphinx-daisyui/) | 0.1.0 | Sam <samuel.scott.jennings@gm… | 211.2 kB | A Sphinx theme drawn with daisyUI 5, with its own options |
-| 2026-11-17 22:32:44 | [proliant-mcp](https://pypi.org/project/proliant-mcp/) | 0.6.1 | hjma29 | 123.7 kB | MCP server for HPE compute: read-only tools for ProLiant iLO (Redfish), HPE Com… |
-| 2026-11-17 22:32:59 | [unwash-cli](https://pypi.org/project/unwash-cli/) | 1.0.0 | unwash contributors | 499.4 kB | A trust report on what a coding agent's "done" claim is actually worth: static… |
-| 2026-11-17 22:33:21 | [nimbulo](https://pypi.org/project/nimbulo/) | 0.3.2 | Dayton Jones | 130.3 kB | Manage logins across AWS, GCP, Azure, OCI, Vultr, and DigitalOcean from CLI/TUI… |
-| 2026-11-17 22:38:36 | [fishyjoes-runtime](https://pypi.org/project/fishyjoes-runtime/) | 9.0.1a9 |  | 2.0 MB | Python-side FishyJoes binding layer for the shared Iota ABI |
-| 2026-11-17 22:39:55 | [media-processing-local](https://pypi.org/project/media-processing-local/) | 0.0.1b4773 | Circles | 5.5 kB | PyPI media-processing-local Python Package owned by Circlez.ai |
-| 2026-11-17 22:43:14 | [hegemony-step-sdk](https://pypi.org/project/hegemony-step-sdk/) | 0.43.1 |  | 65.3 kB | Public SDK for Hegemony step-handler plugins |
-| 2026-11-17 22:43:17 | [hegemony-notification-sdk](https://pypi.org/project/hegemony-notification-sdk/) | 0.3.3 |  | 18.4 kB | Public SDK for Hegemony notification provider and preset plugins |
-| 2026-11-17 22:43:20 | [hegemony-secret-sdk](https://pypi.org/project/hegemony-secret-sdk/) | 0.3.6 |  | 19.9 kB | Public SDK for Hegemony secret backend plugins |
-| 2026-11-17 22:43:22 | [hegemony-steps-general](https://pypi.org/project/hegemony-steps-general/) | 0.43.1 |  | 19.1 kB | General flow-utility step handlers for Hegemony (noop, sleep) |
-| 2026-11-17 22:50:09 | [basely](https://pypi.org/project/basely/) | 1.0.0 | Colin Moynes <dev@fullstacksp… | 283.1 kB | Compare container base images on vulnerabilities (via OSV), size and fit with y… |
-| 2026-11-17 22:51:42 | [signal-true-remote-corps](https://pypi.org/project/signal-true-remote-corps/) | 0.1.1 |  | 28.2 kB | Signal True Remote — desktop body client (capture, gestures, receipts) for the… |
-| 2026-11-17 22:53:10 | [shimmer-sdk](https://pypi.org/project/shimmer-sdk/) | 0.1.0 |  | 34.9 kB | Python SDK for integrating evaluation tests with the Shimmer backend. |
-| 2026-11-17 22:53:52 | [rocm-nixl](https://pypi.org/project/rocm-nixl/) | 0.0.1.dev0 | Riley Dixon <riley.dixon@amd.… | 2.7 kB | Placeholder for NIXL on AMD ROCm |
-| 2026-11-17 22:58:56 | [dex-connector-microsoft-entra-id](https://pypi.org/project/dex-connector-microsoft-entra-id/) | 0.1.0 |  | 129.8 kB | Dex-native Python connector for Microsoft Entra ID |
-| 2026-11-17 23:01:40 | [postcrm-plugin-sdk](https://pypi.org/project/postcrm-plugin-sdk/) | 0.1.3 | PostCRM | 25.9 kB | PostCRM plugin SDK (Python) |
-| 2026-11-17 23:02:36 | [ags10-library](https://pypi.org/project/ags10-library/) | 1.0.1 | Tan Siret Akinci <tan@riscfru… | 35.7 kB | MicroPython library for AGS10 air quality sensor |
-| 2026-11-17 23:06:14 | [chuskybrowser](https://pypi.org/project/chuskybrowser/) | 1.20.0 |  | 7.8 kB | Python client for chuskybrowser: open pages, read them, and hand them to a pers… |
-| 2026-11-17 23:06:58 | [orboni](https://pypi.org/project/orboni/) | 1.0.0 | Orboni <support@orboni.com> | 41.9 kB | Orboni's API for Python: crypto payments (USDT, USDC, BTC and more) paid straig… |
-| 2026-11-17 23:09:11 | [pywebasto-ng](https://pypi.org/project/pywebasto-ng/) | 3.1.0 | Malene Trab | 65.6 kB | API library for Webasto ThermoConnect devices |
-| 2026-11-17 23:10:13 | [placewise](https://pypi.org/project/placewise/) | 0.1.0a1 | Amol Venkataraman | 1.6 MB | Offline, two-way geocoding and geo toolkit: the place people would name, plus d… |
-| 2026-11-17 23:14:56 | [ariadne-verify](https://pypi.org/project/ariadne-verify/) | 0.1.0 | Ariadne Nexus Engineering <se… | 11.6 kB | Air-gapped Ed25519 & SHA-256 Merkle compliance verifier for Ariadne Nexus ZK_PR… |
-| 2026-11-17 23:16:38 | [jot-format](https://pypi.org/project/jot-format/) | 0.1.0 | Hemanth Rudra | 80.1 kB | Jot: a JSON-compatible format that's easier to write by hand and uses fewer tok… |
+| 2026-11-17 23:03:13 | [ods-validator](https://pypi.org/project/ods-validator/) | 0.1.0 |  | 63.6 kB | Validador de mensagens do barramento ODS 2026/2 (JSON Schemas da Especificação… |
+| 2026-11-17 23:20:38 | [astropulse](https://pypi.org/project/astropulse/) | 1.0.5 | AstroPulse <contact@astropuls… | 2.0 MB | The official Python SDK for the AstroPulse Platform API |
+| 2026-11-17 23:21:19 | [pytest-llmchaos](https://pypi.org/project/pytest-llmchaos/) | 0.1.0 | pytest-llmchaos contributors | 137.1 kB | Record real LLM API responses once, replay them offline, and inject provider-ac… |
+| 2026-11-17 23:24:24 | [raretree](https://pypi.org/project/raretree/) | 0.14.1rc4 | Renato Frazão | 83.5 kB | Interpretable decision trees with optional rare-event business constraints |
+| 2026-11-17 23:25:45 | [canarybench](https://pypi.org/project/canarybench/) | 0.1.0 | CanaryBench | 4.3 MB | Contamination-free deterministic AI evaluation harness for compliance and extra… |
+| 2026-11-17 23:27:29 | [netherframe.backends.aws](https://pypi.org/project/netherframe.backends.aws/) | 0.2.0 | Sourabh Cheedella | 34.9 kB | AWS backend implementations for Netherframe |
+| 2026-11-17 23:27:31 | [netherframe.backends.azure](https://pypi.org/project/netherframe.backends.azure/) | 0.2.0 | Sourabh Cheedella | 20.0 kB | Azure backend implementations for Netherframe |
+| 2026-11-17 23:27:32 | [netherframe.backends.consul](https://pypi.org/project/netherframe.backends.consul/) | 0.2.0 | Sourabh Cheedella | 18.1 kB | Consul backend implementations for Netherframe |
+| 2026-11-17 23:27:33 | [netherframe.backends.gcp](https://pypi.org/project/netherframe.backends.gcp/) | 0.2.0 | Sourabh Cheedella | 19.0 kB | Google Cloud Platform backend implementations for Netherframe |
+| 2026-11-17 23:27:35 | [pronunciada](https://pypi.org/project/pronunciada/) | 1.0.1 |  | 38.0 MB | Pronunciation assessment for ten languages on CPU: phoneme, word and sentence s… |
+| 2026-11-17 23:34:02 | [tripsort](https://pypi.org/project/tripsort/) | 0.0.1 | Shubh Dave | 10.6 kB | Offline Python library + CLI that merges trip photo zips, removes duplicates, a… |
+| 2026-11-17 23:34:48 | [mo-trace](https://pypi.org/project/mo-trace/) | 0.2.0 |  | 50.4 kB | nbdev-style literate programming for marimo notebooks |
+| 2026-11-17 23:38:11 | [skarn-guard](https://pypi.org/project/skarn-guard/) | 0.37.0 |  | 299.5 kB | Runs the Skarn guard inside Python agent runtimes and gateways |
+| 2026-11-17 23:39:25 | [logwarden](https://pypi.org/project/logwarden/) | 0.3.0 | Ingeniator | 70.1 kB | Guardrail for structured logs: checks JSON logs against an OpenTelemetry-based… |
+| 2026-11-17 23:45:53 | [cotop](https://pypi.org/project/cotop/) | 0.1.0 |  | 659.4 kB | A top-like terminal dashboard for Google Colab runtimes and compute units |
+| 2026-11-17 23:47:17 | [digitalpassport-by](https://pypi.org/project/digitalpassport-by/) | 1.0.0 | Digital Passport Belarus <inf… | 8.9 kB | Belarusian 9-digit UNP checksum validator and zero-dependency client for the Di… |
+| 2026-11-17 23:52:10 | [debugealo](https://pypi.org/project/debugealo/) | 1.1.0 |  | 2.4 MB | Local-first Docker debugging, with a UI-independent Python engine. |
+| 2026-11-17 23:58:28 | [langtoken-toolkit](https://pypi.org/project/langtoken-toolkit/) | 0.1.0 |  | 4.8 kB | A modular Python library for text tokenization. |
+| 2026-11-17 23:58:54 | [wuo](https://pypi.org/project/wuo/) | 0.1.1 |  | 81.8 kB | Find Windows updates and prepare them for offline servicing |
+| 2026-11-17 23:59:15 | [ntf-ai](https://pypi.org/project/ntf-ai/) | 0.4.0 | Legitimate LLC <info@legitima… | 154.0 kB | NTF-AI (ntf): phone notifications and replies for AI agents. Speaks the ntfy pr… |
+| 2026-11-17 23:59:34 | [instro-pymeasure](https://pypi.org/project/instro-pymeasure/) | 0.1.0 |  | 39.8 kB | Publish pymeasure instrument traffic through any instro publisher |
+| 2026-11-18 00:06:08 | [shutong-backend](https://pypi.org/project/shutong-backend/) | 0.0.1 |  | 718.1 kB | Citation-verified scholarly research over a local corpus (MCP server) |
+| 2026-11-18 00:08:29 | [kipip](https://pypi.org/project/kipip/) | 0.1.0 |  | 41.1 MB | A drop-in replacement for uv, the Python package and project manager, written i… |
+| 2026-11-18 00:08:35 | [loop-link](https://pypi.org/project/loop-link/) | 0.1.0 | Lachlan Grose <lachlan.grose@… | 219.8 kB | Send geoscience data to the LoopConnect viewer |
+| 2026-11-18 00:08:39 | [json-repair-lite](https://pypi.org/project/json-repair-lite/) | 1.0.1 | Tidy Byte Tools | 20.6 kB | Repair broken or incomplete JSON, including output from language models. Local… |
+| 2026-11-18 00:08:40 | [base64-lite](https://pypi.org/project/base64-lite/) | 1.0.1 | Tidy Byte Tools | 22.7 kB | Encode or decode Base64 for text and local files. URL-safe and data-URI options… |
+| 2026-11-18 00:12:03 | [cypher-dsl](https://pypi.org/project/cypher-dsl/) | 0.1.0a2 |  | 396.3 kB | CPython DSl to constuct Cypher queries. |
+| 2026-11-18 00:12:30 | [wicked-brain-mcp](https://pypi.org/project/wicked-brain-mcp/) | 0.1.1 | SimpliFixed Technologies, LLC | 231.6 kB | MCP server for Wicked Brain: a plain-markdown memory vault your AI agents can s… |
+| 2026-11-18 00:14:33 | [cornice-apispec](https://pypi.org/project/cornice-apispec/) | 0.1.0 | Robbin | 13.8 kB | OpenAPI spec generation for Cornice/Pyramid with Marshmallow and OneOfSchema su… |
+| 2026-11-18 00:15:58 | [tidy-hash-lite](https://pypi.org/project/tidy-hash-lite/) | 1.0.1 | Tidy Byte Tools | 24.0 kB | Hash text or local files with SHA-256, SHA-1, MD5 and SHA-512. Hex and Base64.… |
+| 2026-11-18 00:19:00 | [tidy-byte-tools](https://pypi.org/project/tidy-byte-tools/) | 0.1.1 | Tidy Byte Tools | 66.4 kB | One install and one MCP server for the Tidy Byte Tools lite CLIs: repair JSON,… |
