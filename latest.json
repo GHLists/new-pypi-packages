@@ -1,20 +1,41 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-18T03:21:33.150363Z",
-    "path": "data/new-packages-2026-11-18T04-19-50-44268Z.csv",
-    "to": "2026-11-18T04:19:50.44268Z"
+    "count": 33,
+    "from": "2026-11-18T04:19:50.44268Z",
+    "path": "data/new-packages-2026-11-18T05-20-00-715706Z.csv",
+    "to": "2026-11-18T05:20:00.715706Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-18T04:31:05Z",
+      "package": "inworld-sava",
+      "since": "2026-11-18T04:19:50.44268Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-18T04:31:14Z",
+      "package": "inworld-voice-isolation",
+      "since": "2026-11-18T04:19:50.44268Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-18T02:23:41Z",
       "package": "toki-time-companion",
       "since": "2026-11-18T02:19:03.492327Z",
       "version": "0.1.1"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-18T05:19:59Z",
+      "package": "unpdf-tool",
+      "since": "2026-11-18T04:19:50.44268Z",
+      "version": null
     }
   ],
-  "serial": 43816322,
+  "serial": 43818005,
   "source_truncated": false,
-  "window": "2026-11-18T04:19:50.44268Z"
+  "window": "2026-11-18T05:20:00.715706Z"
 }

@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T04:22:51Z,titer,0.1.1,,MIT OR Apache-2.0,8599699,"Check whether a change's tests test the change: fail-on-base, diff-scoped mutation, weakened-test scan, and CRAP."
+2026-11-18T04:22:57Z,spdepy,0.0.1,,BSD-3-Clause,35279,A Python library for stochastic partial differential equations
+2026-11-18T04:25:22Z,lastexam,0.1.0,LastExam contributors,Apache-2.0,39137,"Reproducible task suites and evaluation tools for AI agents, starting with quantum science"
+2026-11-18T04:25:53Z,sinapsis_protocol,1.0.0,"Ariel Ruiz-Garcia <ariel@sinapsis.tech>, Nimesh Patel <nimesh@sinapsis.tech>",MIT OR Apache-2.0,192496,"Versioned, extensible wire serialization protocol for Sinapsis data containers."
+2026-11-18T04:29:26Z,sinapsis_contracts,1.0.0,"Ariel Ruiz-Garcia <ariel@sinapsis.tech>, Nimesh Patel <nimesh@sinapsis.tech>",MIT OR Apache-2.0,72425,"Sinapsis contract definitions for interaction with the sinapsis cloud, api, and other backend services"
+2026-11-18T04:29:57Z,sinapsis_sdk,1.0.0,"Ariel Ruiz-Garcia <ariel@sinapsis.tech>, Nimesh Patel <nimesh@sinapsis.tech>",MIT OR Apache-2.0,71672,"Sinapsis SDK for interaction with the sinapsis cloud, api, and other backend services"
+2026-11-18T04:31:01Z,emshare,0.1.1,emshare contributors,MIT,656126,行情数据接口：A 股 / 港股 / 指数 / 基金的行情、K 线、资金流、龙虎榜、财报，可选 pandas DataFrame
+2026-11-18T04:32:41Z,playwright-desktop,0.1.0,,,223534,Desktop interactions for Playwright Python
+2026-11-18T04:33:09Z,agent-autofill,0.1.2,,,333896,Local-first personal information broker for AI agents
+2026-11-18T04:33:13Z,faster-mac-use,0.1.0,Lifan Chen,MIT,302770,"Background-first, multi-cursor browser and native macOS computer-use engine for AI agents"
+2026-11-18T04:34:03Z,pebblous-dataclinic-gw-databricks,0.1.1,Pebblous <dev@pebblous.ai>,LicenseRef-Pebblous-Proprietary,48798,Run Pebblous DataClinic image-data quality analysis from a Databricks notebook through the DataClinic Gateway.
+2026-11-18T04:34:08Z,dwn-cpu,0.6.0,,,20205,CPU training and inference kernels for Differentiable Weightless Neural Networks
+2026-11-18T04:36:19Z,homerun-client,0.1.0,Szyoo,MIT,20499,Unofficial async client for Homerun smart air purifiers
+2026-11-18T04:39:34Z,sdkbench,0.1.0,SDKBench contributors,Apache-2.0,46286,"Reproducible SDK performance and correctness benchmarks, starting with quantum development kits"
+2026-11-18T04:42:11Z,sync-sentry-teambition,0.2.0,,,30732,Self-hosted Sentry integration for linking existing Teambition tasks
+2026-11-18T04:46:45Z,docfgp-office,1.0.0,,Apache-2.0,129284471,DocFGP Office provides the office2pdf converter DocFGP uses to convert DOCX and PPTX files.
+2026-11-18T04:47:53Z,docfgp-latin,1.0.0,,Apache-2.0,43165913,DocFGP Latin provides the Tesseract models DocFGP uses to OCR the Latin script.
+2026-11-18T04:48:25Z,talkops-kargo-mcp-server,0.2.0,TalkOps <contact@talkops.ai>,Apache-2.0,302769,Execution-only MCP server and Agent Skills package for Kargo v1.12 continuous promotion orchestration.
+2026-11-18T04:49:41Z,tieout-ai,0.1.0,,Apache-2.0,160197,"AI TieOut: prove two business numbers agree. The AI proposes, code proves, people confirm."
+2026-11-18T04:51:51Z,dayfile,0.1.2,dayfile <team@dayfile.app>,AGPL-3.0-only,793588,"A personal, append-only event log exposed as feed views."
+2026-11-18T04:53:05Z,django-neolith,0.1.0a1,Vignesh Pai and django-neolith contributors,BSD-3-Clause,658887,"Deploy Django apps, not Django projects."
+2026-11-18T04:55:50Z,pyxis-harness,0.1.0rc1,Onenightcarnival,MIT,5094,"PyxisHarness: an everything-is-a-plugin agent harness — the kernel with the base, toolkit, web and creator bundles"
+2026-11-18T04:55:52Z,pyxis-harness-agent,0.1.0rc1,Onenightcarnival,MIT,36480,"PyxisHarness plugin: sessions, runs, approvals, resume (ctx.agents)"
+2026-11-18T04:55:53Z,pyxis-harness-agent-loop-deepagents,0.1.0rc1,Onenightcarnival,MIT,34470,PyxisHarness plugin: deepagents agent loop (ctx.agentLoop)
+2026-11-18T04:55:54Z,pyxis-harness-api,0.1.0rc1,Onenightcarnival,MIT,49330,PyxisHarness plugin: REST and SSE API under /api
+2026-11-18T04:57:06Z,webstone,0.8.0,Lexmount,Apache-2.0,21349579,"Webstone: the touchstone for your agent's web tools. Benchmark browsers and Web tools for AI agents: Web Fetch, Web Search, Web Extract and Browser Trajectory Replay"
+2026-11-18T05:00:18Z,b4n1-db,0.1.0,,,115820233,Sovereign embedded database — Python SDK over the b4n1-db binary
+2026-11-18T05:01:16Z,oxap-sdk,0.1.0a34,Open Agent Protocol contributors,ISC,95114,"Python SDK for the Open Agent Protocol project's runtime, over its stdio protocol"
+2026-11-18T05:04:20Z,interactive-video-backend-core,0.1.0,Taj,MIT,14186,Framework-agnostic Python backend core and storage adapters for syncing interactive video state and decision ledgers
+2026-11-18T05:05:44Z,yufu-sdk,0.1.0,Bin-hy,Apache-2.0,69631,"Runtime SDK for yufu: OIDC discovery, PKCE, token refresh, JWKS verification, introspection and back-channel logout."
+2026-11-18T05:06:35Z,meli-python-sdk,1.0.0a1,Camilo Andrés Rodríguez Higuera <hola@camilordz.com>,MIT,69918,Unofficial Python SDK for the Mercado Libre API
+2026-11-18T05:16:01Z,sockat,0.1.1,Yoshiaki Kawazu,MIT,39664,Bind / connect Unix domain sockets at paths longer than sun_path
+2026-11-18T05:18:56Z,qcbench,0.1.0,QCBench contributors,Apache-2.0,57995,Reproducible quantum computer characterization from hardware circuits and shot counts

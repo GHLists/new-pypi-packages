@@ -8,46 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 04:19 UTC
+## Latest list — 2026-11-18 05:20 UTC
 
-New packages created between 2026-11-18 03:21 UTC and 2026-11-18 04:19 UTC.
+New packages created between 2026-11-18 04:19 UTC and 2026-11-18 05:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-18T04-19-50-44268Z.csv)
+[Full CSV](data/new-packages-2026-11-18T05-20-00-715706Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-18 03:23:54 | [rsoslang](https://pypi.org/project/rsoslang/) | 0.3.0 | r-a-elu-architecture | 185.5 kB | RSOS State Runtime and Language: multi-agent workflows in 2 model calls instead… |
-| 2026-11-18 03:25:57 | [envxx](https://pypi.org/project/envxx/) | 1.0.7 |  | 132.4 kB | Portable multi-runtime manager for Python, Node.js and friends |
-| 2026-11-18 03:26:26 | [mcp-server-huaweicloud-gaussdb](https://pypi.org/project/mcp-server-huaweicloud-gaussdb/) | 0.8.1 |  | 329.0 kB | Huawei Cloud GaussDB management MCP Server |
-| 2026-11-18 03:28:48 | [medical-privacy-guard](https://pypi.org/project/medical-privacy-guard/) | 0.6.0 | mokuyoaxis | 452.0 kB | Local-first privacy guardrails for medical data before it crosses a trust bound… |
-| 2026-11-18 03:31:06 | [dev-terminal-app](https://pypi.org/project/dev-terminal-app/) | 0.1.0 |  | 24.8 kB | An AI-Native Developer CLI |
-| 2026-11-18 03:31:48 | [satsgate-proxy](https://pypi.org/project/satsgate-proxy/) | 0.14.1 |  | 76.1 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
-| 2026-11-18 03:33:44 | [signet-lang](https://pypi.org/project/signet-lang/) | 26.0b70 | Daniel Desai | 236.4 kB | Signet: a coordination language that wires modules in any language together wit… |
-| 2026-11-18 03:42:06 | [esp-iot-ci](https://pypi.org/project/esp-iot-ci/) | 0.0.1 | laride | 75.0 kB | Project-oriented ESP-IDF CI planning, analysis and execution |
-| 2026-11-18 03:44:11 | [earful](https://pypi.org/project/earful/) | 0.1.0 |  | 589.2 kB | Deterministic regression tests for real-time voice agents |
-| 2026-11-18 03:44:23 | [lifeline-recovery](https://pypi.org/project/lifeline-recovery/) | 2.0.1 | Ojas Gupta | 291.1 kB | Get deleted files back: a guided recovery app and CLI for Windows, macOS and Li… |
-| 2026-11-18 03:48:06 | [agent-audit-memory](https://pypi.org/project/agent-audit-memory/) | 0.2.0rc1 | agent-memory-ledger maintaine… | 47.5 kB | A verifiable memory layer for AI agents (research prototype). |
-| 2026-11-18 03:48:11 | [opensr-sr1m](https://pypi.org/project/opensr-sr1m/) | 0.1.1 | Eavheang | 19.5 kB | Sentinel-2 10 m to 1 m RGB super-resolution for points and dates |
-| 2026-11-18 03:48:23 | [yimo-kit](https://pypi.org/project/yimo-kit/) | 0.1.0 | 溢墨修心（Yimo） <changhongyuan@126… | 682.4 kB | Yimo Kit——统一数据库访问层（PG/MySQL/SQLite）与 AI/Redis/文件/文档/向量工具集 |
-| 2026-11-18 03:49:03 | [smart-study-planner](https://pypi.org/project/smart-study-planner/) | 0.5.0 |  | 83.6 kB | Priority-aware study scheduling balanced across dates and daily time windows |
-| 2026-11-18 03:49:28 | [zhangsan2026-mcp-demo](https://pypi.org/project/zhangsan2026-mcp-demo/) | 0.1.0 | shaoxia2019 | 3.3 kB | Add your description here |
-| 2026-11-18 03:49:35 | [zc-2026-mcp-demo](https://pypi.org/project/zc-2026-mcp-demo/) | 0.1.0 | zhaoc | 3.5 kB | Add your description here |
-| 2026-11-18 03:49:38 | [cc-mcp-demo](https://pypi.org/project/cc-mcp-demo/) | 0.1.0 |  | 3.6 kB | Add your description here |
-| 2026-11-18 03:49:42 | [zhangying2026-mcp-demo](https://pypi.org/project/zhangying2026-mcp-demo/) | 0.1.0 | zy | 3.6 kB | Add your description here |
-| 2026-11-18 03:49:46 | [vcti-usd-schema-model-catalog](https://pypi.org/project/vcti-usd-schema-model-catalog/) | 0.2.0 | Visual Collaboration Technolo… | 84.4 kB | Codeless OpenUSD schema for the catalog of a VCollab model, the trees and lists… |
-| 2026-11-18 03:51:50 | [studymaster](https://pypi.org/project/studymaster/) | 0.1.0 | StudyMaster Team | 11.3 kB | Academic productivity toolkit for students |
-| 2026-11-18 03:53:20 | [topomark](https://pypi.org/project/topomark/) | 0.4.0 | "Li, ching yu" <tipo5890Li@gm… | 435.9 kB | A zero-dependency code map for AI coding agents: progressive-disclosure docs, p… |
-| 2026-11-18 03:53:58 | [codex-usage-limits](https://pypi.org/project/codex-usage-limits/) | 0.1.0 | codex-usage contributors | 37.4 kB | CLI for Codex plan usage and rate limits, with session-log fallback and warning… |
-| 2026-11-18 03:55:56 | [satsgate-mcp](https://pypi.org/project/satsgate-mcp/) | 0.13.0 |  | 105.1 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
-| 2026-11-18 03:56:22 | [pyhj212](https://pypi.org/project/pyhj212/) | 0.1.0 | tinychen <weinanmay@gmail.com> | 26.5 kB | A Python library for HJ212 protocol encoding, decoding, validation, and communi… |
-| 2026-11-18 04:00:47 | [waveweave](https://pypi.org/project/waveweave/) | 0.1.0 |  | 8.3 kB | Local and remote matrix computation examples |
-| 2026-11-18 04:02:35 | [pebblous-dataclinic-gw-databricks](https://pypi.org/project/pebblous-dataclinic-gw-databricks/) | 0.1.0 | Pebblous <dev@pebblous.ai> | 48.7 kB | Run Pebblous DataClinic image-data quality analysis from a Databricks notebook… |
-| 2026-11-18 04:03:04 | [loxia](https://pypi.org/project/loxia/) | 1.1.0 | Cassio Dalla | 841.6 kB | Loxia: a small, statically checked language descended from Lox, with a tree-wal… |
-| 2026-11-18 04:06:18 | [llm-agent-budget](https://pypi.org/project/llm-agent-budget/) | 0.1.3 | Matthew Charles Busel <mattbu… | 82.2 kB | Hard USD budgets for agents that delegate: reserve/settle child scopes for para… |
-| 2026-11-18 04:07:52 | [satsgate](https://pypi.org/project/satsgate/) | 0.1.1 |  | 53.7 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
-| 2026-11-18 04:10:30 | [pyrake-survey](https://pypi.org/project/pyrake-survey/) | 0.2.0 | Bob Wilson <bob.wilson@convex… | 264.3 kB | Survey calibration and balancing weights, with estimators for means and treatme… |
-| 2026-11-18 04:12:24 | [langchain-agent-budget](https://pypi.org/project/langchain-agent-budget/) | 0.1.0 | Matthew Busel | 24.0 kB | Hard dollar budgets for LangChain agents: reserve each model call's worst-case… |
-| 2026-11-18 04:14:16 | [progressor-mcp](https://pypi.org/project/progressor-mcp/) | 1.4.0 | Rachit Asthana | 10.2 MB | Your AI's plan, saved in your project and shown live on a dashboard: an MCP ser… |
-| 2026-11-18 04:14:57 | [xtick-skill](https://pypi.org/project/xtick-skill/) | 0.1.4 |  | 123.1 kB | XTick提供完整的金融市场数据解决方案，通过HTTP API接口获取实时行情数据，具有高效稳定的特点。 |
-| 2026-11-18 04:18:10 | [testledger](https://pypi.org/project/testledger/) | 0.1.0 | Suresh Babu <sureshbabu.santh… | 78.7 kB | Test Estate Balance Sheet: turn CI results and git history into per-test P&L an… |
-| 2026-11-18 04:19:11 | [mcpguard-adk](https://pypi.org/project/mcpguard-adk/) | 0.3.1 | MCPGuard-ADK Contributors | 178.2 kB | Multi-agent MCP supply-chain, >200K token cost-cliff, and tool-trajectory audit… |
+| 2026-11-18 04:22:51 | [titer](https://pypi.org/project/titer/) | 0.1.1 |  | 8.6 MB | Check whether a change's tests test the change: fail-on-base, diff-scoped mutat… |
+| 2026-11-18 04:22:57 | [spdepy](https://pypi.org/project/spdepy/) | 0.0.1 |  | 35.3 kB | A Python library for stochastic partial differential equations |
+| 2026-11-18 04:25:22 | [lastexam](https://pypi.org/project/lastexam/) | 0.1.0 | LastExam contributors | 39.1 kB | Reproducible task suites and evaluation tools for AI agents, starting with quan… |
+| 2026-11-18 04:25:53 | [sinapsis_protocol](https://pypi.org/project/sinapsis_protocol/) | 1.0.0 | Ariel Ruiz-Garcia <ariel@sina… | 192.5 kB | Versioned, extensible wire serialization protocol for Sinapsis data containers. |
+| 2026-11-18 04:29:26 | [sinapsis_contracts](https://pypi.org/project/sinapsis_contracts/) | 1.0.0 | Ariel Ruiz-Garcia <ariel@sina… | 72.4 kB | Sinapsis contract definitions for interaction with the sinapsis cloud, api, and… |
+| 2026-11-18 04:29:57 | [sinapsis_sdk](https://pypi.org/project/sinapsis_sdk/) | 1.0.0 | Ariel Ruiz-Garcia <ariel@sina… | 71.7 kB | Sinapsis SDK for interaction with the sinapsis cloud, api, and other backend se… |
+| 2026-11-18 04:31:01 | [emshare](https://pypi.org/project/emshare/) | 0.1.1 | emshare contributors | 656.1 kB | 行情数据接口：A 股 / 港股 / 指数 / 基金的行情、K 线、资金流、龙虎榜、财报，可选 pandas DataFrame |
+| 2026-11-18 04:32:41 | [playwright-desktop](https://pypi.org/project/playwright-desktop/) | 0.1.0 |  | 223.5 kB | Desktop interactions for Playwright Python |
+| 2026-11-18 04:33:09 | [agent-autofill](https://pypi.org/project/agent-autofill/) | 0.1.2 |  | 333.9 kB | Local-first personal information broker for AI agents |
+| 2026-11-18 04:33:13 | [faster-mac-use](https://pypi.org/project/faster-mac-use/) | 0.1.0 | Lifan Chen | 302.8 kB | Background-first, multi-cursor browser and native macOS computer-use engine for… |
+| 2026-11-18 04:34:03 | [pebblous-dataclinic-gw-databricks](https://pypi.org/project/pebblous-dataclinic-gw-databricks/) | 0.1.1 | Pebblous <dev@pebblous.ai> | 48.8 kB | Run Pebblous DataClinic image-data quality analysis from a Databricks notebook… |
+| 2026-11-18 04:34:08 | [dwn-cpu](https://pypi.org/project/dwn-cpu/) | 0.6.0 |  | 20.2 kB | CPU training and inference kernels for Differentiable Weightless Neural Networks |
+| 2026-11-18 04:36:19 | [homerun-client](https://pypi.org/project/homerun-client/) | 0.1.0 | Szyoo | 20.5 kB | Unofficial async client for Homerun smart air purifiers |
+| 2026-11-18 04:39:34 | [sdkbench](https://pypi.org/project/sdkbench/) | 0.1.0 | SDKBench contributors | 46.3 kB | Reproducible SDK performance and correctness benchmarks, starting with quantum… |
+| 2026-11-18 04:42:11 | [sync-sentry-teambition](https://pypi.org/project/sync-sentry-teambition/) | 0.2.0 |  | 30.7 kB | Self-hosted Sentry integration for linking existing Teambition tasks |
+| 2026-11-18 04:46:45 | [docfgp-office](https://pypi.org/project/docfgp-office/) | 1.0.0 |  | 129.3 MB | DocFGP Office provides the office2pdf converter DocFGP uses to convert DOCX and… |
+| 2026-11-18 04:47:53 | [docfgp-latin](https://pypi.org/project/docfgp-latin/) | 1.0.0 |  | 43.2 MB | DocFGP Latin provides the Tesseract models DocFGP uses to OCR the Latin script. |
+| 2026-11-18 04:48:25 | [talkops-kargo-mcp-server](https://pypi.org/project/talkops-kargo-mcp-server/) | 0.2.0 | TalkOps <contact@talkops.ai> | 302.8 kB | Execution-only MCP server and Agent Skills package for Kargo v1.12 continuous p… |
+| 2026-11-18 04:49:41 | [tieout-ai](https://pypi.org/project/tieout-ai/) | 0.1.0 |  | 160.2 kB | AI TieOut: prove two business numbers agree. The AI proposes, code proves, peop… |
+| 2026-11-18 04:51:51 | [dayfile](https://pypi.org/project/dayfile/) | 0.1.2 | dayfile <team@dayfile.app> | 793.6 kB | A personal, append-only event log exposed as feed views. |
+| 2026-11-18 04:53:05 | [django-neolith](https://pypi.org/project/django-neolith/) | 0.1.0a1 | Vignesh Pai and django-neolit… | 658.9 kB | Deploy Django apps, not Django projects. |
+| 2026-11-18 04:55:50 | [pyxis-harness](https://pypi.org/project/pyxis-harness/) | 0.1.0rc1 | Onenightcarnival | 5.1 kB | PyxisHarness: an everything-is-a-plugin agent harness — the kernel with the bas… |
+| 2026-11-18 04:55:52 | [pyxis-harness-agent](https://pypi.org/project/pyxis-harness-agent/) | 0.1.0rc1 | Onenightcarnival | 36.5 kB | PyxisHarness plugin: sessions, runs, approvals, resume (ctx.agents) |
+| 2026-11-18 04:55:53 | [pyxis-harness-agent-loop-deepagents](https://pypi.org/project/pyxis-harness-agent-loop-deepagents/) | 0.1.0rc1 | Onenightcarnival | 34.5 kB | PyxisHarness plugin: deepagents agent loop (ctx.agentLoop) |
+| 2026-11-18 04:55:54 | [pyxis-harness-api](https://pypi.org/project/pyxis-harness-api/) | 0.1.0rc1 | Onenightcarnival | 49.3 kB | PyxisHarness plugin: REST and SSE API under /api |
+| 2026-11-18 04:57:06 | [webstone](https://pypi.org/project/webstone/) | 0.8.0 | Lexmount | 21.3 MB | Webstone: the touchstone for your agent's web tools. Benchmark browsers and Web… |
+| 2026-11-18 05:00:18 | [b4n1-db](https://pypi.org/project/b4n1-db/) | 0.1.0 |  | 115.8 MB | Sovereign embedded database — Python SDK over the b4n1-db binary |
+| 2026-11-18 05:01:16 | [oxap-sdk](https://pypi.org/project/oxap-sdk/) | 0.1.0a34 | Open Agent Protocol contribut… | 95.1 kB | Python SDK for the Open Agent Protocol project's runtime, over its stdio protoc… |
+| 2026-11-18 05:04:20 | [interactive-video-backend-core](https://pypi.org/project/interactive-video-backend-core/) | 0.1.0 | Taj | 14.2 kB | Framework-agnostic Python backend core and storage adapters for syncing interac… |
+| 2026-11-18 05:05:44 | [yufu-sdk](https://pypi.org/project/yufu-sdk/) | 0.1.0 | Bin-hy | 69.6 kB | Runtime SDK for yufu: OIDC discovery, PKCE, token refresh, JWKS verification, i… |
+| 2026-11-18 05:06:35 | [meli-python-sdk](https://pypi.org/project/meli-python-sdk/) | 1.0.0a1 | Camilo Andrés Rodríguez Higue… | 69.9 kB | Unofficial Python SDK for the Mercado Libre API |
+| 2026-11-18 05:16:01 | [sockat](https://pypi.org/project/sockat/) | 0.1.1 | Yoshiaki Kawazu | 39.7 kB | Bind / connect Unix domain sockets at paths longer than sun_path |
+| 2026-11-18 05:18:56 | [qcbench](https://pypi.org/project/qcbench/) | 0.1.0 | QCBench contributors | 58.0 kB | Reproducible quantum computer characterization from hardware circuits and shot… |
