@@ -8,57 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 02:19 UTC
+## Latest list — 2026-11-18 03:21 UTC
 
-New packages created between 2026-11-18 01:19 UTC and 2026-11-18 02:19 UTC.
+New packages created between 2026-11-18 02:19 UTC and 2026-11-18 03:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-18T02-19-03-492327Z.csv)
+[Full CSV](data/new-packages-2026-11-18T03-21-33-150363Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-18 01:19:17 | [projectbudget](https://pypi.org/project/projectbudget/) | 0.1.0 | Sean Deery | 681.6 kB | One honest shopping backlog across all your projects, scheduled against your bu… |
-| 2026-11-18 01:20:14 | [slimtree](https://pypi.org/project/slimtree/) | 0.1.0a1 |  | 14.5 MB | Disk-light git worktrees from APFS clones |
-| 2026-11-18 01:23:44 | [shacl-py](https://pypi.org/project/shacl-py/) | 0.4.0 |  | 131.5 kB | Minimal Python viewer for DataLad Concepts metadata |
-| 2026-11-18 01:28:42 | [deadline-conflict-solver-merged-demo](https://pypi.org/project/deadline-conflict-solver-merged-demo/) | 0.1.0 |  | 24.2 kB | Assignment scheduling, conflict analysis, and extra-time scenarios with interac… |
-| 2026-11-18 01:29:50 | [agent-tuner](https://pypi.org/project/agent-tuner/) | 1.0.0 | Tuner contributors | 468.9 kB | Understand your AI usage. Tune your agent workflows. |
-| 2026-11-18 01:30:46 | [pinesandbox](https://pypi.org/project/pinesandbox/) | 0.3.6 | Pine AI | 393.0 kB | Server SDK for Pine Computer: create and start Computers, run Pine's agent or y… |
-| 2026-11-18 01:31:15 | [pure-schema-regimes](https://pypi.org/project/pure-schema-regimes/) | 0.1.0 | guilhermegor | 35.9 kB | Per-regime schema adapters for series that change columns mid-series (zero-depe… |
-| 2026-11-18 01:34:26 | [tradespace](https://pypi.org/project/tradespace/) | 0.1.0 | Michael Zargham | 797.7 kB | Learns the shape of a design trade space from evaluated designs, with estimator… |
-| 2026-11-18 01:35:09 | [tdgl-solver](https://pypi.org/project/tdgl-solver/) | 0.1.1 | Luder Espitia Guzmán | 64.8 kB | Simulador numérico TDGL (2D 2-Bandas y 3D) con motor Octave e interfaces gráfic… |
-| 2026-11-18 01:35:24 | [design-once](https://pypi.org/project/design-once/) | 0.0.0 |  | 2.9 kB | Placeholder: golf, a CAD kernel for agents, from Design Once |
-| 2026-11-18 01:35:26 | [design-once-linux-x86-64-gnu](https://pypi.org/project/design-once-linux-x86-64-gnu/) | 0.0.0 |  | 2.6 kB | Placeholder: the Linux x86_64 build of design-once |
-| 2026-11-18 01:35:29 | [design-once-win32-x64-msvc](https://pypi.org/project/design-once-win32-x64-msvc/) | 0.0.0 |  | 2.6 kB | Placeholder: the Windows x64 build of design-once |
-| 2026-11-18 01:38:48 | [trae-installer-creator](https://pypi.org/project/trae-installer-creator/) | 3.0.0 | Trae <yangdw2021@gmail.com> | 1.4 MB | Native Rust single-file Windows installer builder compatible with Inno Setup (.… |
-| 2026-11-18 01:39:58 | [uehara-agentic-kernel-provider-openai](https://pypi.org/project/uehara-agentic-kernel-provider-openai/) | 0.71.1rc1 |  | 9.5 kB | UAK provider-openai component; contracts and limits are documented in the UAK r… |
-| 2026-11-18 01:40:00 | [uehara-agentic-kernel-runtime](https://pypi.org/project/uehara-agentic-kernel-runtime/) | 0.71.1rc1 |  | 1.0 MB | UAK runtime component; contracts and limits are documented in the UAK repositor… |
-| 2026-11-18 01:40:02 | [uehara-agentic-kernel-cli](https://pypi.org/project/uehara-agentic-kernel-cli/) | 0.71.1rc1 |  | 55.7 kB | UAK cli component; contracts and limits are documented in the UAK repository. |
-| 2026-11-18 01:40:03 | [uehara-agentic-kernel-mcp](https://pypi.org/project/uehara-agentic-kernel-mcp/) | 0.71.1rc1 |  | 45.4 kB | UAK mcp component; contracts and limits are documented in the UAK repository. |
-| 2026-11-18 01:41:28 | [texel-importer](https://pypi.org/project/texel-importer/) | 0.1.0 | GT6 Modern contributors | 149.8 kB | Convert PNG images to deterministic, diff-friendly PXL source files |
-| 2026-11-18 01:41:30 | [texel-compiler](https://pypi.org/project/texel-compiler/) | 0.1.0 | GT6 Modern contributors | 127.5 kB | Deterministic PXL compiler implemented with the Python standard library |
-| 2026-11-18 01:42:31 | [kv-cli](https://pypi.org/project/kv-cli/) | 0.9.0 |  | 10.1 MB | Contract guardrails for data pipelines: missing parameters, hardcoded secrets a… |
-| 2026-11-18 01:43:01 | [forgepack](https://pypi.org/project/forgepack/) | 3.0.0 | ForgePack <yangdw2021@gmail.c… | 2.0 MB | ForgePack - Native Rust single-file Windows installer builder compatible with I… |
-| 2026-11-18 01:44:44 | [geosquare-engine](https://pypi.org/project/geosquare-engine/) | 0.1.0 |  | 1.4 MB | GeoSquare V2 grid engine: GID codec, Int64 packing, topology, and column detect… |
-| 2026-11-18 01:47:27 | [segger](https://pypi.org/project/segger/) | 1.0.0rc1 | Elyas Heidari <elyas.heidari@… | 198.1 kB | Segmentation of spatial transcriptomics data |
-| 2026-11-18 01:47:29 | [pymupdf4llm-rs](https://pypi.org/project/pymupdf4llm-rs/) | 0.4.0 |  | 921.1 kB | 100% pure-Rust pymupdf4llm PDF-to-Markdown library for Python with reusable eng… |
-| 2026-11-18 01:52:06 | [yyc-transit-mcp](https://pypi.org/project/yyc-transit-mcp/) | 0.1.0 | Abiola Raji | 295.4 kB | MCP server for Calgary Transit: live arrivals, alerts, and historical route rel… |
-| 2026-11-18 01:52:15 | [bitting](https://pypi.org/project/bitting/) | 1.2.0 | Muhammad Anas Mahmood | 156.7 kB | API key lifecycle management for Python: generation, memory-hard hashing, prefi… |
-| 2026-11-18 01:52:22 | [wavecraft-gui](https://pypi.org/project/wavecraft-gui/) | 4.0.0 | WaveCraft Team <yangdw2021@gm… | 4.8 MB | WaveCraft v4.0: High-performance Rust + React/Three.js WebGL quantum chemistry… |
-| 2026-11-18 01:53:36 | [python-beam](https://pypi.org/project/python-beam/) | 0.1.0a1 |  | 53.7 MB | Python-first tools for BEAM services |
-| 2026-11-18 01:54:43 | [webinar-cloud-audit-helper](https://pypi.org/project/webinar-cloud-audit-helper/) | 0.1.0 |  | 6.1 kB | Helper utilities for the quarterly cloud access review |
-| 2026-11-18 01:55:25 | [ddgai](https://pypi.org/project/ddgai/) | 1.1.2 | frat | 25.4 kB | High-performance reverse-engineered Duck.ai (DuckDuckGo AI Chat) client |
-| 2026-11-18 01:58:17 | [aws_sdk_kinesis_video](https://pypi.org/project/aws_sdk_kinesis_video/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_kinesis_video name. Not yet functional. |
-| 2026-11-18 01:58:18 | [omninode-onex](https://pypi.org/project/omninode-onex/) | 0.0.1 | OmniNode | 2.2 kB | The OmniNode onex CLI: installs the onex command and the packages it runs. |
-| 2026-11-18 01:58:45 | [aws_sdk_device_farm](https://pypi.org/project/aws_sdk_device_farm/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_device_farm name. Not yet functional. |
-| 2026-11-18 01:59:08 | [aws_sdk_marketplace_entitlement_service](https://pypi.org/project/aws_sdk_marketplace_entitlement_service/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_marketplace_entitlement_service name. Not yet… |
-| 2026-11-18 01:59:25 | [aws_sdk_fsx](https://pypi.org/project/aws_sdk_fsx/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_fsx name. Not yet functional. |
-| 2026-11-18 01:59:27 | [smart-image-splitter](https://pypi.org/project/smart-image-splitter/) | 0.2.0 | SliceCraft Contributors | 766.4 kB | High-performance hybrid Rust (PyO3 + Rayon) and OpenCV image splitter with XY-C… |
-| 2026-11-18 02:00:04 | [aws_sdk_quicksight](https://pypi.org/project/aws_sdk_quicksight/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_quicksight name. Not yet functional. |
-| 2026-11-18 02:00:23 | [aws_sdk_mwaa](https://pypi.org/project/aws_sdk_mwaa/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_mwaa name. Not yet functional. |
-| 2026-11-18 02:00:40 | [aws_sdk_s3tables](https://pypi.org/project/aws_sdk_s3tables/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_s3tables name. Not yet functional. |
-| 2026-11-18 02:00:44 | [itops-rag](https://pypi.org/project/itops-rag/) | 0.1.0 | Chamudith Amarasinghe | 152.5 kB | Retrieval-augmented answers for IT operations: hybrid search, local reranking,… |
-| 2026-11-18 02:00:55 | [aws_sdk_ebs](https://pypi.org/project/aws_sdk_ebs/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_ebs name. Not yet functional. |
-| 2026-11-18 02:02:21 | [aws_sdk_redshift_serverless](https://pypi.org/project/aws_sdk_redshift_serverless/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_redshift_serverless name. Not yet functional. |
-| 2026-11-18 02:02:39 | [aws_sdk_database_migration_service](https://pypi.org/project/aws_sdk_database_migration_service/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_database_migration_service name. Not yet func… |
-| 2026-11-18 02:03:02 | [aws_sdk_pi](https://pypi.org/project/aws_sdk_pi/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_pi name. Not yet functional. |
-| 2026-11-18 02:03:17 | [aws_sdk_codedeploy](https://pypi.org/project/aws_sdk_codedeploy/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_codedeploy name. Not yet functional. |
-| 2026-11-18 02:08:45 | [mcschemora](https://pypi.org/project/mcschemora/) | 0.1.0 | MCSchemora contributors | 10.4 MB | Minecraft schematic authoring, editing, conversion, and rendering |
+| 2026-11-18 02:25:33 | [sqling-mcp](https://pypi.org/project/sqling-mcp/) | 0.2.0 | Data Design Group, Inc. | 128.4 kB | Ask an AI assistant about an Oracle Forms and Reports application: an MCP serve… |
+| 2026-11-18 02:35:06 | [xyj-api](https://pypi.org/project/xyj-api/) | 0.0.4 | xyj-api Contributors | 58.2 kB | xyj-api Python SDK — 发票流水/上下游 + 报告：SHA1withRSA 签名、统一信封解析、响应验签（data）、3 端点与通用 req… |
+| 2026-11-18 02:35:14 | [toki-time](https://pypi.org/project/toki-time/) | 0.1.2 | TOKI contributors | 40.8 kB | TOKI (TIME), a minimal cross-platform command-line clock, alarm, and timer |
+| 2026-11-18 02:36:22 | [topoppi-affinity](https://pypi.org/project/topoppi-affinity/) | 3.0.0 |  | 7.2 MB | Affinity modelling using interface descriptors produced by the TopoPPI workflow |
+| 2026-11-18 02:37:11 | [wayward-eagle](https://pypi.org/project/wayward-eagle/) | 0.1.0 | Josh Bailey | 27.8 kB | Lower the cognitive complexity of C function bodies, keeping what they do |
+| 2026-11-18 02:39:15 | [issue-folder-sync](https://pypi.org/project/issue-folder-sync/) | 0.1.0 |  | 57.5 kB | Keep GitHub issues and a local folder in step, both ways: text, sub-issues, att… |
+| 2026-11-18 02:39:56 | [huaweicloud-mcp-core](https://pypi.org/project/huaweicloud-mcp-core/) | 1.3.0 |  | 26.6 kB | Shared core library for Huawei Cloud MCP servers (config, credentials, guardrai… |
+| 2026-11-18 02:41:06 | [neutron-transport-pinns](https://pypi.org/project/neutron-transport-pinns/) | 3.9.2 | Carlos Rafael Gonzalez Alejo… | 246.3 kB | Automated system for neutron transport simulations with parallel execution and… |
+| 2026-11-18 02:43:58 | [reposift](https://pypi.org/project/reposift/) | 0.1.0 | ghoste12125 <anonymosmauros@g… | 113.8 kB | Find and inspect GitHub repositories from the command line |
+| 2026-11-18 02:45:19 | [rulestamp-nencho-fuyo-csv-lint-r8](https://pypi.org/project/rulestamp-nencho-fuyo-csv-lint-r8/) | 1.0.3 | Rulestamp <support@getreadyst… | 39.4 kB | 扶養親族CSVを令和8年分の新要件62万円・74万円・特定親族特別控除で19ルール検査 (bundled Node.js runtime) |
+| 2026-11-18 02:45:38 | [rulestamp-swift6-concurrency-lint](https://pypi.org/project/rulestamp-swift6-concurrency-lint/) | 1.0.5 | Rulestamp <support@getreadyst… | 32.2 kB | 11 rules that name the .swift lines Swift 6 language mode rejects — 13 findings… |
+| 2026-11-18 02:45:46 | [rulestamp-mcp-config-guard](https://pypi.org/project/rulestamp-mcp-config-guard/) | 1.0.8 | Rulestamp <support@getreadyst… | 41.4 kB | Reads .mcp.json / .vscode/mcp.json / claude_desktop_config.json while you edit… |
+| 2026-11-18 02:46:05 | [rulestamp-myinvois-field-check](https://pypi.org/project/rulestamp-myinvois-field-check/) | 1.0.4 | Rulestamp <support@getreadyst… | 36.0 kB | Finds the fields IRBM rejects in a MyInvois JSON payload, on the line, before y… |
+| 2026-11-18 02:46:24 | [topoppi-hotspot](https://pypi.org/project/topoppi-hotspot/) | 3.0.0 |  | 6.8 MB | Residue feature extraction and selected-partner ranking for TopoPPI. |
+| 2026-11-18 02:47:47 | [auto-mas-whimbox-adapter](https://pypi.org/project/auto-mas-whimbox-adapter/) | 0.1.0 |  | 159.4 kB | Whimbox specialized script adapter for AUTO-MAS |
+| 2026-11-18 02:47:50 | [job-o-matic](https://pypi.org/project/job-o-matic/) | 1.1.0 | Jerry Reinitz | 1.6 MB | A local career database your AI uses to write resumes fast. MCP server + local… |
+| 2026-11-18 02:53:01 | [dabai](https://pypi.org/project/dabai/) | 1.0.0 | DaBai contributors | 14.9 MB | 少儿编程教学游戏引擎: 笛卡尔坐标系 + Scratch 风格 API + 安卓虚拟按键 (education-first 2D game engine on… |
+| 2026-11-18 02:53:07 | [hhc-openstd-mcp](https://pypi.org/project/hhc-openstd-mcp/) | 0.1.0 |  | 6.5 kB | MCP server for searching and downloading Chinese national standards (国家标准全文公开系统) |
+| 2026-11-18 02:56:20 | [pqproof](https://pypi.org/project/pqproof/) | 0.1.0 | g1mn | 823.0 kB | Offline check that a PQC migration is complete: the original and the converted… |
+| 2026-11-18 03:00:17 | [fylgja-infrahub](https://pypi.org/project/fylgja-infrahub/) | 1.0.0 |  | 68.6 kB | Fylgja's Infrahub reader: a branch of Infrahub read into a blueprint, or the fi… |
+| 2026-11-18 03:00:19 | [fylgja-core](https://pypi.org/project/fylgja-core/) | 1.0.0 |  | 315.9 kB | Fylgja's core: a blueprint becomes a twin. |
+| 2026-11-18 03:00:26 | [fylgja-netbox](https://pypi.org/project/fylgja-netbox/) | 1.0.0 |  | 55.6 kB | Fylgja's NetBox reader: a branch of NetBox read into a blueprint, or the findin… |
+| 2026-11-18 03:02:21 | [datadog-llm-d](https://pypi.org/project/datadog-llm-d/) | 0.0.1 |  | 766 B |  |
+| 2026-11-18 03:06:18 | [carnelian](https://pypi.org/project/carnelian/) | 0.1.0 |  | 118.8 kB | Sign-in for Python on the standard library alone: OpenID Connect, SAML 2.0, LDA… |
+| 2026-11-18 03:07:34 | [laya-weights-part-04](https://pypi.org/project/laya-weights-part-04/) | 0.1.0 | Aleeza Noor | 87.2 MB | Part 4 of laya's offline English weights. Install laya-weights instead of this. |
+| 2026-11-18 03:08:03 | [laya-weights-part-05](https://pypi.org/project/laya-weights-part-05/) | 0.1.0 | Aleeza Noor | 87.1 MB | Part 5 of laya's offline English weights. Install laya-weights instead of this. |
+| 2026-11-18 03:08:24 | [sinapsis_core](https://pypi.org/project/sinapsis_core/) | 1.0.0 | Ariel Ruiz-Garcia <ariel@sina… | 148.9 kB | sinapsis core agent and template implementation |
+| 2026-11-18 03:08:32 | [laya-weights-part-06](https://pypi.org/project/laya-weights-part-06/) | 0.1.0 | Aleeza Noor | 87.1 MB | Part 6 of laya's offline English weights. Install laya-weights instead of this. |
+| 2026-11-18 03:08:55 | [laya-weights-part-07](https://pypi.org/project/laya-weights-part-07/) | 0.1.0 | Aleeza Noor | 87.1 MB | Part 7 of laya's offline English weights. Install laya-weights instead of this. |
+| 2026-11-18 03:10:54 | [laravel-mcp-companion](https://pypi.org/project/laravel-mcp-companion/) | 0.15.1 | Brian Irish <irishb@gmail.com> | 14.6 MB | A Laravel developer's MCP companion. Get the absolute best advice, recommendati… |
+| 2026-11-18 03:11:34 | [datasuspy](https://pypi.org/project/datasuspy/) | 0.1.0 | André Leite | 3.2 MB | Fast reader for DATASUS .dbc/.dbf files, returning Apache Arrow tables |
+| 2026-11-18 03:12:22 | [apple-container-spyglass](https://pypi.org/project/apple-container-spyglass/) | 1.0 | Wolf Paulus <wolf@paulus.com> | 19.3 kB | A one-shot macOS CLI for keeping selected Apple Containers up to date. |
+| 2026-11-18 03:12:42 | [cairnpost](https://pypi.org/project/cairnpost/) | 0.1.0 | Michael Ramirez | 120.0 kB | The Python client for CairnPost, a self-hostable gateway for transactional emai… |
+| 2026-11-18 03:13:19 | [noteweaver](https://pypi.org/project/noteweaver/) | 0.1.0 |  | 214.4 kB | Lecture-linked notes with PDF reading, AI drafts, editing, and project persiste… |
+| 2026-11-18 03:14:15 | [centsible](https://pypi.org/project/centsible/) | 0.10.0 | Vi Nguyen | 176.2 kB | Repo memory and loop guard for AI coding agents, with savings reported as verif… |
+| 2026-11-18 03:16:43 | [satsgate-sdk](https://pypi.org/project/satsgate-sdk/) | 0.10.0 |  | 40.7 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
+| 2026-11-18 03:18:15 | [crosstrace](https://pypi.org/project/crosstrace/) | 0.1.0 | Mayank Kumar Singh | 200.5 kB | Find the failures your AI agent hides: replay real runs with byte-level provide… |

@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T02:25:33Z,sqling-mcp,0.2.0,"Data Design Group, Inc.",MIT,128393,Ask an AI assistant about an Oracle Forms and Reports application: an MCP server over its metadata
+2026-11-18T02:35:06Z,xyj-api,0.0.4,xyj-api Contributors,MIT,58156,xyj-api Python SDK — 发票流水/上下游 + 报告：SHA1withRSA 签名、统一信封解析、响应验签（data）、3 端点与通用 request
+2026-11-18T02:35:14Z,toki-time,0.1.2,TOKI contributors,MIT,40794,"TOKI (TIME), a minimal cross-platform command-line clock, alarm, and timer"
+2026-11-18T02:36:22Z,topoppi-affinity,3.0.0,,MIT,7174546,Affinity modelling using interface descriptors produced by the TopoPPI workflow
+2026-11-18T02:37:11Z,wayward-eagle,0.1.0,Josh Bailey,Apache-2.0,27845,"Lower the cognitive complexity of C function bodies, keeping what they do"
+2026-11-18T02:39:15Z,issue-folder-sync,0.1.0,,,57473,"Keep GitHub issues and a local folder in step, both ways: text, sub-issues, attachments, milestones."
+2026-11-18T02:39:56Z,huaweicloud-mcp-core,1.3.0,,MIT,26563,"Shared core library for Huawei Cloud MCP servers (config, credentials, guardrails, output)"
+2026-11-18T02:41:06Z,neutron-transport-pinns,3.9.2,Carlos Rafael Gonzalez Alejo <carlosr301101@gmail.com>,MIT,246281,Automated system for neutron transport simulations with parallel execution and TUI/CLI interfaces
+2026-11-18T02:43:58Z,reposift,0.1.0,ghoste12125 <anonymosmauros@gmail.com>,MIT,113827,Find and inspect GitHub repositories from the command line
+2026-11-18T02:45:19Z,rulestamp-nencho-fuyo-csv-lint-r8,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,39411,扶養親族CSVを令和8年分の新要件62万円・74万円・特定親族特別控除で19ルール検査 (bundled Node.js runtime)
+2026-11-18T02:45:38Z,rulestamp-swift6-concurrency-lint,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32216,"11 rules that name the .swift lines Swift 6 language mode rejects — 13 findings, 6 build-blocking, on the 47-line fixture (bundled Node.js runtime)"
+2026-11-18T02:45:46Z,rulestamp-mcp-config-guard,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,41402,"Reads .mcp.json / .vscode/mcp.json / claude_desktop_config.json while you edit it and marks the lines that hand an AI agent more than you meant - unpinned servers, literal credentials, plaintext tran…"
+2026-11-18T02:46:05Z,rulestamp-myinvois-field-check,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35972,"Finds the fields IRBM rejects in a MyInvois JSON payload, on the line, before you submit. (bundled Node.js runtime)"
+2026-11-18T02:46:24Z,topoppi-hotspot,3.0.0,,MIT,6849767,Residue feature extraction and selected-partner ranking for TopoPPI.
+2026-11-18T02:47:47Z,auto-mas-whimbox-adapter,0.1.0,,AGPL-3.0-or-later,159431,Whimbox specialized script adapter for AUTO-MAS
+2026-11-18T02:47:50Z,job-o-matic,1.1.0,Jerry Reinitz,MIT,1550789,A local career database your AI uses to write resumes fast. MCP server + local app; one SQLite file on your computer.
+2026-11-18T02:53:01Z,dabai,1.0.0,DaBai contributors,MIT,14921141,少儿编程教学游戏引擎: 笛卡尔坐标系 + Scratch 风格 API + 安卓虚拟按键 (education-first 2D game engine on pygame)
+2026-11-18T02:53:07Z,hhc-openstd-mcp,0.1.0,,GPL-3.0-or-later,6526,MCP server for searching and downloading Chinese national standards (国家标准全文公开系统)
+2026-11-18T02:56:20Z,pqproof,0.1.0,g1mn,MIT,823006,"Offline check that a PQC migration is complete: the original and the converted tree are judged by the same rules, with a hashed evidence record (RFC 8785 + SHA-256)."
+2026-11-18T03:00:17Z,fylgja-infrahub,1.0.0,,Apache-2.0,68647,"Fylgja's Infrahub reader: a branch of Infrahub read into a blueprint, or the findings that refused it."
+2026-11-18T03:00:19Z,fylgja-core,1.0.0,,Apache-2.0,315876,Fylgja's core: a blueprint becomes a twin.
+2026-11-18T03:00:26Z,fylgja-netbox,1.0.0,,Apache-2.0,55557,"Fylgja's NetBox reader: a branch of NetBox read into a blueprint, or the findings that refused it."
+2026-11-18T03:02:21Z,datadog-llm-d,0.0.1,,,766,
+2026-11-18T03:06:18Z,carnelian,0.1.0,,MIT,118791,"Sign-in for Python on the standard library alone: OpenID Connect, SAML 2.0, LDAP and SCIM 2.0."
+2026-11-18T03:07:34Z,laya-weights-part-04,0.1.0,Aleeza Noor,Apache-2.0,87160249,Part 4 of laya's offline English weights. Install laya-weights instead of this.
+2026-11-18T03:08:03Z,laya-weights-part-05,0.1.0,Aleeza Noor,Apache-2.0,87100587,Part 5 of laya's offline English weights. Install laya-weights instead of this.
+2026-11-18T03:08:24Z,sinapsis_core,1.0.0,Ariel Ruiz-Garcia <ariel@sinapsis.tech>,MIT OR Apache-2.0,148890,sinapsis core agent and template implementation
+2026-11-18T03:08:32Z,laya-weights-part-06,0.1.0,Aleeza Noor,Apache-2.0,87123875,Part 6 of laya's offline English weights. Install laya-weights instead of this.
+2026-11-18T03:08:55Z,laya-weights-part-07,0.1.0,Aleeza Noor,Apache-2.0,87139484,Part 7 of laya's offline English weights. Install laya-weights instead of this.
+2026-11-18T03:10:54Z,laravel-mcp-companion,0.15.1,Brian Irish <irishb@gmail.com>,"MIT License Copyright (c) 2025 Brian Irish Permission is hereby granted, free of charge, to any per…",14575805,"A Laravel developer's MCP companion. Get the absolute best advice, recommendations, and up-to-date documentation for the entire Laravel ecosystem."
+2026-11-18T03:11:34Z,datasuspy,0.1.0,André Leite,MIT,3246575,"Fast reader for DATASUS .dbc/.dbf files, returning Apache Arrow tables"
+2026-11-18T03:12:22Z,apple-container-spyglass,1.0,Wolf Paulus <wolf@paulus.com>,MIT,19290,A one-shot macOS CLI for keeping selected Apple Containers up to date.
+2026-11-18T03:12:42Z,cairnpost,0.1.0,Michael Ramirez,MIT,119972,"The Python client for CairnPost, a self-hostable gateway for transactional email."
+2026-11-18T03:13:19Z,noteweaver,0.1.0,,AGPL-3.0-only,214367,"Lecture-linked notes with PDF reading, AI drafts, editing, and project persistence"
+2026-11-18T03:14:15Z,centsible,0.10.0,Vi Nguyen,MIT,176225,"Repo memory and loop guard for AI coding agents, with savings reported as verified vs estimated. Zero dependencies."
+2026-11-18T03:16:43Z,satsgate-sdk,0.10.0,,Apache-2.0,40734,"Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UTC month. Cobrale a agentes de IA en Lightning y USDC, en el mismo 402."
+2026-11-18T03:18:15Z,crosstrace,0.1.0,Mayank Kumar Singh,MIT,200511,Find the failures your AI agent hides: replay real runs with byte-level provider faults and get a verdict for each

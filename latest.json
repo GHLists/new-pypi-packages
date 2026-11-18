@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-11-18T01:19:02.268352Z",
-    "path": "data/new-packages-2026-11-18T02-19-03-492327Z.csv",
-    "to": "2026-11-18T02:19:03.492327Z"
+    "count": 37,
+    "from": "2026-11-18T02:19:03.492327Z",
+    "path": "data/new-packages-2026-11-18T03-21-33-150363Z.csv",
+    "to": "2026-11-18T03:21:33.150363Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-17T23:10:06Z",
-      "package": "astropulse-release",
-      "since": "2026-11-17T22:19:22.647037Z",
-      "version": null
+      "attempts": 1,
+      "created_at": "2026-11-18T02:23:41Z",
+      "package": "toki-time-companion",
+      "since": "2026-11-18T02:19:03.492327Z",
+      "version": "0.1.1"
     }
   ],
-  "serial": 43812927,
+  "serial": 43814849,
   "source_truncated": false,
-  "window": "2026-11-18T02:19:03.492327Z"
+  "window": "2026-11-18T03:21:33.150363Z"
 }
