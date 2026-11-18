@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T22:20:42Z,pytest-testing-files-generator,0.6.0rc1,DonislawDev,MPL-2.0,7442,"pytest plugin for testing-files-generator: real files of exact sizes and formats for tests, and what the system under test should do with each one."
+2026-11-18T22:21:05Z,eden-xi,0.2.0,Barika Johnbazia,MIT,7525,"Eden.xi curated Python stack: a core bundle plus modular AI, web, and data extras."
+2026-11-18T22:22:21Z,qubrics-mailbox,3.0.0,,MIT,383594,Generated Python client for the Qubrics Mailbox API.
+2026-11-18T22:28:37Z,fontlab,1.0.2,,Apache-2.0,40252,Install FontLab and automate it from external Python
+2026-11-18T22:30:08Z,fontgate,1.0.2,,Apache-2.0,12526,Explanatory stub for FontLab's native fontgate module
+2026-11-18T22:30:09Z,sudoo-cli,3.0.0,Sudoo.sh,Apache-2.0,70251,"The sudoo command: manage the projects, instances, backups, domains and jobs of a Sudoo.sh panel from a terminal or a CI pipeline."
+2026-11-18T22:30:29Z,pravaha-mem,1.0.0,Sirisha Kota,MIT,106171,"Live GPU memory traffic over NVLink C2C on the NVIDIA GB10 (DGX Spark), from the GPU's L2 cache counters"
+2026-11-18T22:31:09Z,spacetimer,0.1.0,norlandrhagen,MIT,44041,"Chunk, shard, and codec recommendations for Zarr, by use case"
+2026-11-18T22:31:28Z,fontpr,1.0.2,,Apache-2.0,12501,Explanatory stub for FontLab's native fontpr module
+2026-11-18T22:32:01Z,lodestream,0.2.0,Karthikeyan Balasundaram,MIT,419151,"Bulk content migration from any source (WSS/SharePoint, file shares, SQL BLOBs, CSV exports, S3, CMIS) into IBM FileNet: pluggable, restartable, built for 100 TB+. Zero dependencies: the SQL Server d…"
+2026-11-18T22:32:26Z,amep-agents,0.1.0a1,Staford Titus Selvaraj,Apache-2.0,26885,"AMEP evidence for agent frameworks: signed records that tool calls stayed within delegated authority (OpenAI Agents SDK, LangGraph, LangChain)."
+2026-11-18T22:33:45Z,opengene,0.1.0,Hasan Raza <hasanraza72341@gmail.com>,MPL-2.0,166365,"Clean-room, local-first molecular design and cloning workstation"
+2026-11-18T22:34:50Z,mcp-chipradar,0.2.2,ChipRadar <dev@chipradar.io>,Apache-2.0,20138,MCP server for the ChipRadar hardware pricing API
+2026-11-18T22:41:17Z,sattleme-checkout,1.0.0,sattle.me,MIT,738859,"Take Lightning and on-chain payments for a sattle.me merchant from an online shop's server: invoices, deposit addresses, registry declarations, payment checks."
+2026-11-18T22:42:33Z,vcti-usd-schema-model-navigator,0.3.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,92147,"Codeless OpenUSD schema for the navigator of a VCollab model, the trees and lists a user browses it by, kept in a layer of its own that the model never depends on: schema source, generated plugin, sy…"
+2026-11-18T22:44:05Z,open-diagram,0.2.0,Luke Deasy,MIT,1704461,Python building blocks for dense architecture diagrams that check their own layout
+2026-11-18T22:44:11Z,pylibecpint,1.1.0,Robert Shaw,MIT,5308423,"Python bindings for libecpint, a library for ECP integral evaluation"
+2026-11-18T22:48:18Z,ont-guide-aligner,1.0.0,Jimmy Kim <jimmy.kim@ubc.ca>,MIT AND Zlib,2864650,"Count CRISPR sgRNAs in Oxford Nanopore reads, one guide per read, anchored on vector flanks"
+2026-11-18T22:49:31Z,simready-retrieve,2026.10.0,NVIDIA Corporation,Apache-2.0,117435,SimReady Asset Retrieval (OmniStorage + HuggingFace + S3) & Optimization
+2026-11-18T22:51:02Z,openbb-0xarchive,0.2.0,0xArchive <support@0xarchive.io>,MIT,632472,"Hyperliquid and Lighter order books, trades, funding, liquidations and wallets from 0xArchive for the OpenBB Platform"
+2026-11-18T22:51:25Z,mocassino,0.0.1,Alberto Pettarin <alberto@albertopettarin.it>,GPL-3.0-or-later,16730,Lightweight audio player based on MOC for Raspberry Pi Zero 2 devices with Pimoroni Pirate Audio hats
+2026-11-18T22:57:43Z,elevenlabs-agent-migrator,0.1.2a0,,,33383,Stage and verify ElevenLabs agent migrations across workspaces
+2026-11-18T23:03:33Z,rajasthani,1.0.0,Akshat Singh Bisht,MIT,603165,"Rajasthani (राजस्थानी) Language Standard Library: Multi-Dialect Translation, Morphological Conjugation, Voice Processing & Cultural Heritage"
+2026-11-18T23:03:35Z,opus-tplink-mcp,1.0.2,vehoelite,MIT,247760,"Complete, safety-first MCP server for TP-Link Archer (BE series) routers: 31 tools, dry runs, confirm tokens, journal and undo"
+2026-11-18T23:06:25Z,evalmarket-cli,0.1.1,,,56190,Import purchased EvalMarket evaluations into your evaluation platform
+2026-11-18T23:06:48Z,salable-sdk,0.0.1b1,Salable,Apache-2.0,973917,Official Python SDK for the Salable API
+2026-11-18T23:10:04Z,tensorsuggestlite,2.1.0,Core Red Project,MIT AND MPL-2.0,257319,Configuration-driven text classification models with TensorFlow/Keras and TFLite export
