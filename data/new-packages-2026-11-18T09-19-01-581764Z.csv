@@ -1,0 +1,78 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T08:01:11Z,tba-codec-jcs,0.4.0.dev2,,Apache-2.0,4661,RFC 8785 JSON Canonicalization Scheme codec.
+2026-11-18T08:16:04Z,odoo-addon-stock-move-position,19.0.1.1.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,28619,Adds position to stock move and numbering from picking
+2026-11-18T08:18:03Z,odoo-addon-sale-validity,16.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,54804,Set a default validity delay on quotations
+2026-11-18T08:19:19Z,aiml-practicals,0.1.0,,,30262,"Simple, readable AIML practical programs"
+2026-11-18T08:20:08Z,chat-client-sdk,0.1.0,,MIT,11306,Python wrapper for the Rust chat client C ABI
+2026-11-18T08:20:56Z,transparent-iml,0.1.0,nunkesser,MIT,44974,A Unified Interpretable Machine Learning Ecosystem featuring transparent rule-based classifiers
+2026-11-18T08:23:37Z,somnians,0.1.2,东十四 (Tungsisos),MIT,67700,"In-place deduplication for agent memory: scan, adjudicate, soft-delete in one transaction, roll back by batch"
+2026-11-18T08:24:11Z,tba-codec-x509-logotype,0.4.0.dev2,,Apache-2.0,6106,DER decoder for the subject logotype in X.509 certificates.
+2026-11-18T08:26:18Z,pymath-aiml,0.1.0,,,30240,"Simple, readable AIML practical programs"
+2026-11-18T08:26:51Z,academicflow,0.1.0.dev0,"Member 1, Member 2, Member 3, Member 4, Member 5",MIT,36462,"An academic-writing pipeline for Jupyter: text analysis, style checks, BibTeX citations (APA/IEEE/Nature), abstract generation, and LaTeX/Word export."
+2026-11-18T08:27:45Z,tba-provider-certificate-evidence,0.4.0.dev2,,Apache-2.0,11012,"X.509 path, CRL, and RFC 6962 SCT verification."
+2026-11-18T08:27:49Z,atm-milano-mcp,0.1.3,Matteo Redaelli <matteo.redaelli@gmail.com>,GPL-3.0-or-later,9436,"MCP server exposing ATM Milano journey planning, lines, stops and metro data"
+2026-11-18T08:34:09Z,runtimeconditions-common-integrations,0.2.0,,,25225,
+2026-11-18T08:37:11Z,patchloom,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,61240,"Zero-dependency RFC 6902 JSON Patch, RFC 7396 Merge Patch, reversible structural diff & three-way merge engine for Python 3.12+."
+2026-11-18T08:37:34Z,beam-opt-framework,0.2.0,Benito Pezone,MIT,169960,"Size optimisation of curved 3-D beam structures: built-in beam solver or ANSYS MAPDL, selectable algorithms, APDL import/export"
+2026-11-18T08:38:23Z,sebside-tmux,0.1.0,Sebastian Wojtyna,MIT,97447,"A tmux sidebar that shows every session as a card: who is working, who is waiting for you, what just finished."
+2026-11-18T08:38:33Z,aiodynet,0.1.0,Sam Dunster <me@sdunster.com>,MIT,65375,Asyncio client for the Signify Dynalite DyNet lighting control bus
+2026-11-18T08:40:09Z,dynet-cli,0.1.0,Sam Dunster <me@sdunster.com>,MIT,78266,"Command-line tool to watch, control and capture a Signify Dynalite DyNet bus"
+2026-11-18T08:40:33Z,tba-provider-certificate-issuer-x509,0.4.0.dev2,,Apache-2.0,11064,Generic CSR-based X.509 leaf certificate issuer.
+2026-11-18T08:42:47Z,tba-capability-communications-identity,0.4.0.dev2,,Apache-2.0,8004,Shared domain onboarding and recheck workflows.
+2026-11-18T08:43:57Z,techsical,0.1.0,Isidro Rodríguez,MIT,877459,"Tema editorial técnico para Zensical: tipografía serif de lectura, interfaz sans y colores personalizables."
+2026-11-18T08:44:04Z,toktokdata,0.1.0,toktokdata.live,MIT,61227,"Official Python SDK for the toktokdata.live API (TikTok LIVE rankings, creators, gifters, LIVE sessions, alerts, exports)."
+2026-11-18T08:44:18Z,swarmauri_tts_openai,0.1.0a2,Jacob Stewart,Apache-2.0,18252,"Alpha compatibility adapter for deprecated OpenAI Speech models (shutdown 2027-01-06) with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-18T08:44:19Z,graphia,0.1.0,,,82606,"Batch document conversion from the terminal, powered by Graphia."
+2026-11-18T08:44:41Z,tba-provider-dns-txt,0.4.0.dev2,,Apache-2.0,5435,Typed DNS TXT lookup provider.
+2026-11-18T08:47:07Z,tba-protocol-dmarc,0.4.0.dev2,,Apache-2.0,8599,"DMARC TXT record parsing, DNS discovery and policy selection."
+2026-11-18T08:48:56Z,nimblestax,0.1.0,,Apache-2.0,316290,Bring the software development lifecycle to Databricks pipelines
+2026-11-18T08:49:13Z,tba-codec-cid,0.4.0.dev2,,Apache-2.0,5791,Binary CIDv0 and CIDv1 with base58btc text representations.
+2026-11-18T08:49:35Z,cheffelo-embeddings,0.0.0,Cheffelo,,1626,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-18T08:49:37Z,cheffelo-forecasting-helper,0.0.0,Cheffelo,,1741,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-18T08:49:38Z,cheffelo-key-vault,0.0.0,Cheffelo,,1618,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-18T08:49:39Z,cheffelo-logging,0.0.0,Cheffelo,,1624,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-18T08:50:03Z,posflow,1.1.0,POSFLOW Engineering Team <support@posflow.ai>,Proprietary,12514,Official Python SDK for the POSFLOW GNSS Processing Platform
+2026-11-18T08:50:47Z,exp-aisc-18-packages,1.0.0,,,6127,Offline package for practical experiments
+2026-11-18T08:51:00Z,zhouyi-6bit,1.1.0,Ethan Lin · HexSage Classical Systems Research <support@hexsage.ai>,MIT,30254,"Zero-dependency 6-bit binary hypercube state machine, 50-stalk yarrow (1:5:7:3) vs 3-coin (2:6:6:2) probability simulator, Zhu Xi 7-case changing-line rules, and True Solar Time calibration for the I…"
+2026-11-18T08:51:12Z,tba-protocol-zcap,0.4.0.dev2,,Apache-2.0,23098,ZCAP-LD delegation and HTTP invocation verification for the TBA Ed25519 development profile.
+2026-11-18T08:51:20Z,a11y-eco,0.1.0,BrivalTech,MIT,145215,"Accessibility and eco-design audit of a web page, from the command line, with zero runtime dependencies."
+2026-11-18T08:53:15Z,graftcode-gateway-sdk,1.5.1,"""GRAFTCODE S.A."" <support@graftcode.com>",MIT,75159112,This package provides SDK for Graftcode Gateway
+2026-11-18T08:53:26Z,ifc2ply-xml,0.1.0,,MIT,1724445,IFC2PLY&XML — Convert IFC building models to Sionna-native Mitsuba XML and PLY meshes
+2026-11-18T08:53:30Z,tba-protocol-bimi,0.4.0.dev2,,Apache-2.0,10160,BIMI TXT record parsing and selector discovery.
+2026-11-18T08:54:58Z,refall,1.0.1,Grégoire Passault,PolyForm-Noncommercial-1.0.0,143917291,"A falling-block puzzle game across 61 hand-directed universes, staged by any music you like (local files or YouTube)"
+2026-11-18T08:55:24Z,tba-provider-bimi-mark-certificate,0.4.0.dev2,,Apache-2.0,9780,BIMI Mark Certificate path and evidence verification.
+2026-11-18T08:55:40Z,swarmauri_tts_deepinfra,0.1.0a1,Jacob Stewart,Apache-2.0,17557,"Alpha Swarmauri deepinfra text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-18T08:56:44Z,qimsdk-app-builder,0.0.0,Your Name <you@example.com>,,1164,Dummy qimsdk-app-builder package for PyPI
+2026-11-18T08:56:55Z,runtimeconditions-env-configuration,0.2.0,,,43256,
+2026-11-18T08:57:05Z,community-charge-b-advisor-mcp,0.1.0,,,2282410,社区有序充电 B 版只读预测和日内优化工具；不提供桩控
+2026-11-18T08:57:37Z,tba-codec-dag-cbor,0.4.0.dev2,,Apache-2.0,5552,Strict canonical DAG-CBOR with IPLD CID links.
+2026-11-18T08:57:54Z,dreamscale-core,0.1.0a1,,Apache-2.0,61261,Shared Dreamscale client and service contracts
+2026-11-18T08:58:54Z,fast-matrix-rank,0.1.1,Jay Patel <jayp261118@gmail.com>,MIT,16149,"Fast numerical rank for large sparse square matrices, with SVD fallback."
+2026-11-18T08:59:35Z,tba-profile-communications-identity-bimi,0.4.0.dev2,,Apache-2.0,18438,Optional BIMI Mark Certificate and DNS readiness profile.
+2026-11-18T08:59:47Z,swarmauri_tts_together,0.1.0a1,Jacob Stewart,Apache-2.0,18260,"Alpha Swarmauri together text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-18T09:01:09Z,r1-python-sdk,0.2.0,RRChaoW,Apache-2.0,178479,Python SDK for the Richtech R1 six-axis robotic arm (Damiao motors + in-house bottom board / end-effector board)
+2026-11-18T09:01:38Z,tba-router-wpt-verification,0.4.0.dev2,,Apache-2.0,9091,Authenticated remote WIT/WPT verification for a configured recipient.
+2026-11-18T09:02:49Z,capsule-strands,0.1.0,Capsule Security,"Capsule Security Commercial License Copyright (c) Capsule Security, Inc. All rights reserved. This…",104072,Capsule plugin for Strands Agents - gates prompts and tool calls against Capsule policies and reports every session for audit.
+2026-11-18T09:03:08Z,runtimeconditions-nats-service,0.2.0,,,26105,
+2026-11-18T09:03:11Z,swarmauri_tts_gemini,0.1.0a1,Jacob Stewart,Apache-2.0,20066,"Alpha Swarmauri Gemini Interactions text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-18T09:03:35Z,resume-claim-audit,0.1.0,resume-claim-audit contributors,MIT,15161,Offline static audit of documentation against Python continuation evidence
+2026-11-18T09:03:42Z,tba-protocol-ucan,0.4.0.dev2,,Apache-2.0,16705,UCAN delegation and invocation verification for the TBA Ed25519 development profile.
+2026-11-18T09:03:43Z,autosave-claim-audit,0.1.0,Claim Audit contributors,MIT,17110,Offline static audit of documented automatic-saving promises
+2026-11-18T09:03:52Z,daemon-claim-audit,0.1.0,,MIT,14549,Offline static audit of documented detachment promises
+2026-11-18T09:04:01Z,plugin-claim-audit,0.1.0,,MIT,15957,An offline static audit of documented third-party extensibility promises
+2026-11-18T09:04:48Z,guardrail-middleware,0.1.0,Niraj Sanjay Karnawat,MIT,38356,"Runtime authorization middleware for AI agent tool calls — policy checks, injection/taint detectors, and a hash-chained audit log, before any action executes."
+2026-11-18T09:04:48Z,shutong-backend-mcp,0.0.3,,MIT,4325,MCP registry launcher for the Shutong backend MCP server
+2026-11-18T09:05:14Z,foundgine,3.4.0,,Apache-2.0,59535,Thin MCP client for Foundgine (transport only)
+2026-11-18T09:05:41Z,tba-router-wic-ca,0.4.0.dev2,,Apache-2.0,5760,Mountable native WIMSE WIC enrollment endpoint.
+2026-11-18T09:06:03Z,runtimeconditions-aws-s3,0.2.0,,,33175,
+2026-11-18T09:07:50Z,tba-router-wit-issuance,0.4.0.dev2,,Apache-2.0,6213,Mountable native WIMSE WIT enrollment endpoint.
+2026-11-18T09:08:04Z,randonneuring-intelligence,0.1.0,Prathap Pandian <mprathappandian@gmail.com>,MIT,29662,Python libraries for processing and analyzing randonneuring cycling event data
+2026-11-18T09:08:17Z,clouddetectx,3.0.0,dipanshwave,MIT,384435,"Find exposed cloud storage, prove what's reachable and inside, investigate access, and fix it - AWS, Azure and GCP."
+2026-11-18T09:08:49Z,runtimeconditions-google-analytics,0.1.0,,,14427,
+2026-11-18T09:09:01Z,randonneuring-intelligence-mcp,0.1.0,Prathap Pandian <mprathappandian@gmail.com>,MIT,3368732,MCP server for randonneuring cycling event data analysis - exposes 53 tools for AI agents
+2026-11-18T09:11:29Z,runtimeconditions-kubernetes-api,0.1.0,,,17030,
+2026-11-18T09:13:49Z,wx1-lorenzo,0.1.0,Jordy van Gils,Apache-2.0,18482,Lossless 2-D Lorenzo predictor as a Zarr v3 ArrayArrayCodec for GRIB-quantised weather grids
+2026-11-18T09:14:06Z,runtimeconditions-source-control,0.1.0,,,13393,
+2026-11-18T09:14:54Z,langchain-sovereigneg,0.1.0,SovereignEG,MIT,15246,"LangChain and LangGraph integration for SovereignEG, the Egyptian sovereign AI platform"
+2026-11-18T09:15:42Z,xref,0.1.0,,Apache-2.0,41514,Cross-project refs for dbt v2 without the dbt platform.
+2026-11-18T09:15:46Z,unitoolkit,0.7.0,vhsgreed,MIT,196115,"Read-only tools an agent needs to run a Swedish university student's week: Canvas, Ladok, TimeEdit, the library, and the subscribed research databases, with APA citations"
