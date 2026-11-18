@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T08:53:54Z,odoo-addon-sale-order-add-consumed-components,18.0.2.0.0.3,"Odoo Community Association (OCA), OBS Solutions BV",AGPL-3,37348,Add consumed components from Manufacturing Order to the originating Sales Order as invoiceable lines.
+2026-11-18T09:27:46Z,capcut-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15400,"Connect CapCut to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No CapCut API key needed."
+2026-11-18T09:29:26Z,cuprofer-oroide,0.0.0,,MIT OR Apache-2.0,2811,Python client of Oroide (placeholder: not released yet).
+2026-11-18T09:31:38Z,kalkan,0.3.1,,MIT OR Apache-2.0,2912107,"Fast PII shield for Turkish text: masks personal data before it reaches an LLM and restores it in the reply (KVKK/GDPR, Rust)."
+2026-11-18T09:35:41Z,phlite-images,0.2.0,,MIT,138072910,"Persistent homology of images (cubical complexes), computed with phlite"
+2026-11-18T09:37:13Z,phlite-networks,0.2.0,,MIT,238451576,"Persistent homology of networks (weighted digraphs), computed with phlite"
+2026-11-18T09:37:14Z,runtimeconditions-profiler,0.5.0,,,127092,Runtime Conditions Python profiler
+2026-11-18T09:37:17Z,evdx,0.1.1,evdx,,14711,Add your description here
+2026-11-18T09:38:07Z,scensim-ros-humble,0.1.0,,Apache-2.0,2213,"Where the prebuilt scensim for ROS 2 Humble is: each artefact's URL, size and sha256"
+2026-11-18T09:38:33Z,colcon-scensim,0.1.0,,Apache-2.0,4996,"colcon's scensim_testbench build type: a scensim testbench, package.xml and testbench.yaml, no CMake"
+2026-11-18T09:38:59Z,explain-my-own-code,1.0.0,Tejas Mhamane <tejas@mhamane.dev>,MIT,320100,Local-first developer safety CLI and git commit comprehension gate for AI-generated diffs
+2026-11-18T09:39:00Z,azcaptcha,1.0.0,AZcaptcha <support@azcaptcha.com>,MIT,25192,"Official AZcaptcha SDK for Python — reCAPTCHA, hCaptcha, Turnstile and image captchas"
+2026-11-18T09:39:00Z,scensim,0.1.0,,Apache-2.0,11871,scensim runs driving scenarios in simulation: the front end that installs the prebuilt scensim for your ROS 2 release
+2026-11-18T09:43:11Z,labqc,0.4.0,Mantas Valantinavičius,MIT,54372,"Laboratory quality calculations: GUM uncertainty budgets, method validation, proficiency-test scores, Westgard rules and flue-gas emission conversions"
+2026-11-18T09:43:51Z,ganda-grammar,0.1.0,Henry Hale,Apache-2.0,67337,Luganda spelling and grammar correction by cited rules.
+2026-11-18T09:49:21Z,septograph,0.1.0,,PolyForm-Noncommercial-1.0.0,20592416,"A non-manifold model of spaces and the surfaces between them, with data on every entity"
+2026-11-18T09:49:51Z,rss-mcp-server,0.1.1,HUANG Cheng,MIT,126266,"Agent-only MCP server for RSS subscriptions, fetch, and unread tracking."
+2026-11-18T09:50:38Z,openeo-portable,0.2.0rc1,"Emmanuel Mathot <emmanuel@developmentseed.org>, Firza Riany <firza@developmentseed.org>",MIT AND CC-BY-SA-4.0,167208,Parameter and backend management for porting openEO notebooks and User-Defined Processes across backends with different collection and band names
+2026-11-18T09:52:03Z,unittas,0.1.0.dev19,Asger Jon Vistisen,Apache-2.0,2495737,"Tests that play the real Minecraft: the orchestrator, and the protocol it speaks with the probe in the game"
+2026-11-18T09:54:24Z,lplearn,0.1.0,,,873156,Diagnostic Python and Rust bridge for weakly coupled MDP policy learning
+2026-11-18T09:55:50Z,scensim-ros-jazzy,0.1.0,,Apache-2.0,1958,Placeholder: scensim 0.1.0 has no ROS 2 Jazzy release; Jazzy arrives in 0.2.0
+2026-11-18T09:55:54Z,lupaxa-regexlab,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",122632,"Explain, test, generate, compare, and debug regular expressions from the command line."
+2026-11-18T10:00:51Z,curlyshed,0.1.0,Stefan Tatschner,EUPL-1.2,116324,"Python on libcurl: HTTP client (sync and asyncio), WebSocket, a requests compatibility layer"
+2026-11-18T10:02:04Z,gg-mcp-demo-server,0.1.0,,,8359,"A minimal MCP server demo: one tool, one resource, and call-logging middleware."
+2026-11-18T10:04:08Z,tuxcarectl,0.0.0,TuxCare <support@tuxcare.com>,,1255,"Placeholder for tuxcarectl, the TuxCare CLI. It holds no code: the TuxCare release pipeline publishes the first release."
+2026-11-18T10:04:31Z,sentinel-pm,0.2.6,4ster-light <me@4ster.dev>,"MIT License Copyright (c) 2025 Permission is hereby granted, free of charge, to any person obtainin…",102194,A lightweight process orchestrator CLI
+2026-11-18T10:11:38Z,ai-agent-portable-memory,0.1.1,,MIT,30456,Portable compressed memory for AI agents — works with any LLM
+2026-11-18T10:18:02Z,grobner,0.0.1,Marcus Valtonen Örnhag <marcusvaltonen@gmail.com>,,2321,Coming soon.
