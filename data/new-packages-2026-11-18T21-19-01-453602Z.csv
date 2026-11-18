@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T18:39:18Z,marcos-client,1.1.0,Vlad Negnevitsky,"Copyright 2026 Vlad Negnevitsky Permission is hereby granted, free of charge, to any person obtaini…",113681,"Python client for the MaRCoS MRI control system (server communication, sequence compiler and Experiment API)."
+2026-11-18T20:22:23Z,networkwright,0.0.1,,Apache-2.0,330238,"Self-hosted, offline-capable network monitoring and automation for small teams"
+2026-11-18T20:27:51Z,wyro,0.2.0,,MIT,26428,"Official Python client for the wyro API: publish and schedule posts on Instagram, TikTok, LinkedIn, X and more."
+2026-11-18T20:30:18Z,raynsis-inspector,0.2.0,RAYNSIS AI Workforce,Apache-2.0,110994,Evidence gates for coding agents: block dangerous tool calls and send back claims the transcript cannot prove.
+2026-11-18T20:30:45Z,any2tosca,0.1.0,"""Ubicity Corp."" <info@ubicity.com>",Apache-2.0,101428,"Convert JSON Schema, OpenAPI, Redfish and YANG schemas to TOSCA 2.0 node types and data types"
+2026-11-18T20:30:57Z,netwrkwright,0.0.1,,Apache-2.0,2307,Alias for NetworkWright: installing this installs the networkwright package
+2026-11-18T20:33:36Z,fontlab-glyport,1.2.14,,Apache-2.0 AND Unicode-3.0 AND CC0-1.0,2129148,Glyphs script and plugin compatibility for FontLab
+2026-11-18T20:35:17Z,fancy-http-guard,0.1.0,Particle Academy,MIT,51422,"ASGI request guards for Starlette and FastAPI, checked BEFORE the body is parsed (413, nesting depth, list length, finite numbers, workbook caps), plus one error envelope with a request id on every r…"
+2026-11-18T20:35:43Z,relevan,0.1.0,Relevan,Apache-2.0,196343,Python client for the Relevan search API
+2026-11-18T20:36:57Z,rare-tails,0.1.0,"Charles-Auguste Marois, rare-labs",MIT,359771,"Batched extreme-value analysis in Python: GEV, GPD, peaks over threshold, and IDF curves, for one station or thousands of series."
+2026-11-18T20:37:43Z,shadowlap,0.1.0,,Apache-2.0,196910,shadowlap SDK: effect-typed tools and recorded clock/randomness for replayable AI agents.
+2026-11-18T20:39:01Z,usbizdays,1.0.0,Plainfold <plainfoldhq@proton.me>,MIT,21508,"US federal, NYSE and Federal Reserve business days and holidays. No dependencies, no data files."
+2026-11-18T20:39:19Z,retailcal,1.0.0,Plainfold <plainfoldhq@proton.me>,MIT,14628,"52/53-week retail and fiscal calendars (4-4-5, 4-5-4, 5-4-4, NRF-style) as CSV. Standard library only."
+2026-11-18T20:41:54Z,spilltune,0.3.0,0xydendrum,PolyForm-Noncommercial-1.0.0,68375,Find the fastest llama-server settings for a model that does not fit in your GPU.
+2026-11-18T20:43:32Z,luaward,0.1.1,Luaward <support@luaward.com>,MIT,18278,Official Luaward Python SDK (Sync & Async) with Luarmor drop-in compatibility wrapper
+2026-11-18T20:45:13Z,neuralui,0.12.2,,,7223906,"A lightweight web UI for the open source Synapse Cortex, built as a Synapse service."
+2026-11-18T20:48:10Z,post-graph-rag-mcp,0.1.0,Chandan Rajah <chandan.rajah@gmail.com>,Apache-2.0,95699,Bi-temporal knowledge graph memory MCP server powered by post-graph-rag and PostgreSQL + pgvector.
+2026-11-18T20:54:40Z,jspassgen,0.0.22,Sebastien Rousseau,Apache-2.0 OR MIT,28997,"Native Python port of the jspassgen password and passphrase core, on the secrets module (in development)."
+2026-11-18T20:55:06Z,pypitrust,1.0.2,,Apache-2.0,58475,"Set up PyPI Trusted Publishing for GitHub repos: the GitHub side through gh, the PyPI side through a real browser."
+2026-11-18T20:55:17Z,fontlab-grablab,1.1.16,,Apache-2.0,1253057,FontLab screenshot and vector export helpers
+2026-11-18T20:55:21Z,ultrafast-engine,1.0.0a1,,Apache-2.0,5318968,Nonlinear ultrafast pulse propagation through complete optical systems (Python bindings for UltrafastEngine)
+2026-11-18T20:59:07Z,fontlab-remopy,2.0.9,,Apache-2.0,107268,"Reusable FontLab launch, script and authenticated MCP remote control"
+2026-11-18T20:59:35Z,fontlab-python-plugmix,1.1.18,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",839523,Native FontLab 9 reporter and filter plugins
+2026-11-18T20:59:35Z,rvsched,0.1.1,Abhishek Srivastava <aa20moon@gmail.com>,Apache-2.0,45332,"Decide formal vs simulation for each RTL module before you spend the compute, and never prove the same structure twice."
+2026-11-18T21:00:26Z,randomized-experiments,1.2.0,,,340347,"Дизайн и подведение итогов A/B и switchback-экспериментов: WLS-регрессия, CUPAC, MDE"
+2026-11-18T21:00:50Z,puppetboard-dp,8.2.0,Vox Pupuli,Apache-2.0,7599697,"Web frontend, read-only JSON API and MCP server for PuppetDB (fork of puppetboard)"
+2026-11-18T21:00:56Z,govdiff,0.1.0,latam-gov-diffs maintainers,"MIT License Copyright (c) 2026 latam-gov-diffs maintainers Permission is hereby granted, free of ch…",153325,Nightly snapshots and machine-readable diffs of Latin American government reference data
+2026-11-18T21:01:53Z,tesseraline-airlock,0.0.1,Tesseraline,PolyForm-Noncommercial-1.0.0,268910,"A gateway for LLM agent tools: every call checked by policy, secrets kept from the agent, egress allowlisted."
+2026-11-18T21:02:03Z,ressimplotter,0.1.0,Daniel Hamill,MIT,82511,A Python package for reservoir simulation plotting and visualization
+2026-11-18T21:09:47Z,eddy-ai,0.1.0,Oluwatobi Talabi,Apache-2.0,228849,Eddy: a plug-and-play universal robot controller that wraps existing robot code.
+2026-11-18T21:11:54Z,sacremoses-rs,0.1.0,,MIT,4294021,"Rust-accelerated drop-in classes for sacremoses (Moses tokenizer, detokenizer, punctuation normalizer)"
+2026-11-18T21:12:11Z,projix,0.1.2,,Apache-2.0,48513,Generate evidence-backed project analysis and documentation
+2026-11-18T21:13:00Z,openzpl,0.1.0,The 01 Company,MIT,13763,"ZPL to PDF and PNG, PDF and image to ZPL. Client for the OpenZPL API (Labelary-compatible ZPL renderer); also reads EPL, TSPL and Datamax DPL."
+2026-11-18T21:13:25Z,sqlparse-rs,0.1.0,,BSD-3-Clause,1486500,Rust-accelerated lexer and statement splitter for sqlparse
+2026-11-18T21:16:33Z,thunderbird-mcp,0.4.1,simonjamescarroll and contributors,MIT,616430,"Thunderbird email MCP for search, attachments, drafts, sending and mailbox automation"
+2026-11-18T21:16:54Z,nixonlx,1.0.2,,MIT,60441,My personal Python library
+2026-11-18T21:18:44Z,pbip-doc,0.2.0,Simone Mazzoleni <mazzolenif.simone@gmail.com>,MIT,665695,Pure Python documentation generator and metadata extractor for Power BI Project (PBIP) and Fabric semantic models.
