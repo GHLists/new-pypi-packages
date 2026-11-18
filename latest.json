@@ -1,62 +1,13 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-11-18T20:20:22.785702Z",
-    "path": "data/new-packages-2026-11-18T21-19-01-453602Z.csv",
-    "to": "2026-11-18T21:19:01.453602Z"
+    "count": 41,
+    "from": "2026-11-18T21:19:01.453602Z",
+    "path": "data/new-packages-2026-11-18T22-20-46-55145Z.csv",
+    "to": "2026-11-18T22:20:46.55145Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-18T18:11:03Z",
-      "package": "blas-lapack-variant-provider",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T18:11:10Z",
-      "package": "openmp-variant-provider",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T17:56:57Z",
-      "package": "provider-variant-amd",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T18:10:42Z",
-      "package": "provider-variant-blas-lapack",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T17:57:05Z",
-      "package": "provider-variant-intel",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T17:56:50Z",
-      "package": "provider-variant-nvidia",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T18:10:53Z",
-      "package": "provider-variant-openmp",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T20:45:34Z",
       "package": "pyagent-dns",
       "since": "2026-11-18T20:20:22.785702Z",
@@ -64,27 +15,20 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-11-18T22:20:42Z",
+      "package": "pytest-testing-files-generator",
+      "since": "2026-11-18T21:19:01.453602Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-18T20:29:15Z",
       "package": "relevan-python",
       "since": "2026-11-18T20:20:22.785702Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T18:17:46Z",
-      "package": "variant-provider-huawei",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-18T18:17:41Z",
-      "package": "variant-provider-huawei-ascend",
-      "since": "2026-11-18T17:19:01.487542Z",
-      "version": null
     }
   ],
-  "serial": 43852347,
+  "serial": 43855191,
   "source_truncated": false,
-  "window": "2026-11-18T21:19:01.453602Z"
+  "window": "2026-11-18T22:20:46.55145Z"
 }

@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T21:19:09Z,gph-qgp,0.3.0,Walter Hivoina <whivoina@gmail.com>,CC-BY-4.0,128750,GPH Quantum Gravity Phenomenology lab: toy modified-mechanics experiments for teaching and exploration
+2026-11-18T21:19:28Z,projan,0.1.3,,Apache-2.0,47541,Generate evidence-backed project analysis and documentation
+2026-11-18T21:21:55Z,merrow,0.1.1,HyperI Team <dev@hyperi.io>,Apache-2.0,640723,"Mermaid diagram automation for people, now updated for AI too."
+2026-11-18T21:22:44Z,mirql-love-sparkle,0.1.0,,MIT,5101,A tiny sparkle of love: the Python port of @mirql/love-sparkle
+2026-11-18T21:23:49Z,yorkerapi,0.1.5,YorkerAPI <support@yorkerapi.com>,MIT,27636,Python client for the YorkerAPI Cricket data API. No dependencies.
+2026-11-18T21:24:02Z,dicing,0.4.0,Cewerty,MIT,80696,"Typed, extensible dice library for tabletop RPGs: dice pools, keep/drop, advantage and a dice notation parser (4d6kh3+2) with a CLI"
+2026-11-18T21:25:42Z,margin-notes,0.1.0,John B Nelson <jbn@abreka.com>,MIT,53527,"Review HTML and Markdown in your browser: highlight passages, comment, and save the notes as JSON beside each document."
+2026-11-18T21:26:44Z,canopen-sim,0.1.0,Ralf Steinert,MIT,154613,Simulated CANopen devices with behaviour and fault injection: I/O modules and drives on a virtual or real CAN bus
+2026-11-18T21:27:22Z,prodbat,0.0.1,,MIT,19154,"Report server errors, scheduled jobs and Stripe events to Prodbat. No dependencies."
+2026-11-18T21:29:02Z,barchart-desktop-sdk,0.1.0,,LicenseRef-Barchart,149043,"Live quotes, order books and cumulative volume from Openfeed, kept up to date for you."
+2026-11-18T21:29:46Z,crimlab,0.0.1,Vansh Singh Ruhela,Apache-2.0 WITH LLVM-exception,164200412,Criminology and sociolegal statistics
+2026-11-18T21:29:48Z,appcues-agent,0.0.1,Appcues,MIT,4384,Reserved by Appcues for the Appcues agent SDK (appcues/appcues-agent-sdk-python). Not yet released.
+2026-11-18T21:29:49Z,appcues,0.0.1,Appcues,MIT,4213,Reserved by Appcues for Appcues Python packages. Not yet released.
+2026-11-18T21:31:45Z,healthcare-access,0.2.0,Rajib Hossain <rajibhossain2k14@gmail.com>,MIT,30212,"Spatial accessibility to healthcare: 2SFCA, Enhanced, Gaussian, Modified and Three-step FCA, and gravity models"
+2026-11-18T21:31:45Z,pyinproxy,0.1.1,Pranav Agrawal,MIT,37042,
+2026-11-18T21:38:31Z,tracegamma,0.1.0,William J. Dwyer,MIT,42790,The trace-gamma distribution: a three-cumulant calibrated reference for quadratic-form tests
+2026-11-18T21:39:15Z,repofacts,0.0.1,Dzmitar <dzmitar.noreply@gmail.com>,MIT,7297,"Deterministic, evidence-backed repository knowledge map for AI agents and sessions"
+2026-11-18T21:39:39Z,clawlab-audit,0.1.0,ClawLab,,5716,Lightweight execution auditing for Python agents
+2026-11-18T21:40:09Z,auction-assign,0.1.1,,MIT,1569476,Fast Bertsekas auction algorithm for linear sum assignment in Rust with Python bindings
+2026-11-18T21:41:29Z,world-use,0.3.0,Dmytro Hrybov,Apache-2.0 AND CERN-OHL-W-2.0,47595247,"Tools for LLM-operated robot arms: camera observations, measured geometry, checked motion and execution records."
+2026-11-18T21:41:57Z,linked-codebook,0.11.0,,MIT,74818,"Read, write and check codebooks of tables whose variables are linked to concepts."
+2026-11-18T21:44:00Z,gremlinlabs-connector,0.3.1,GremlinLabs,LicenseRef-Proprietary,93291,"Connect Gremlin Labs products (Gavel) to models and chatbots on your own computer or network: one outbound WebSocket, an allow-list of targets"
+2026-11-18T21:49:42Z,two-worlds,0.0.1,Thomas Pinder,,2534,Open Source Emulation and Digital Twins
+2026-11-18T21:50:51Z,yescrypt,1.0.1,github.com/arlsr,,21542,Pure-Python yescrypt password hashing
+2026-11-18T21:55:28Z,imageum,1.0.1,Asinerum Conlang Project,MIT,10573,Google Drive and Blogger Image Tool
+2026-11-18T21:56:27Z,jenkinsfilelint-engine,0.1.0,Xianpeng Shen <xianpeng.shen@gmail.com>,MIT,3289787,Offline engine of jenkinsfilelint: checks Jenkinsfile syntax and Declarative Pipeline structure without a Jenkins controller
+2026-11-18T21:57:11Z,doctosae,0.1.0,"Gaëtan Brison, Diane Bouchacourt",Apache-2.0,329052,Sparse autoencoders for interpretable and transferable medical information retrieval
+2026-11-18T22:00:49Z,mimicry-http,0.6.0rc1,,MIT,45802961,"HTTP requests the way Chrome, Firefox and Safari send them: TLS, HTTP/2, HTTP/3, headers and their order."
+2026-11-18T22:01:41Z,tgmark,0.1.0,Theodosios Divolis,MIT,40690,"Telegram Bot API markup converter for HTML, Markdown, and plain text"
+2026-11-18T22:04:06Z,subsumes-benchmark,0.9.0,Georg Wölflein,MIT AND GPL-3.0-only,7444087,"The subsumes benchmark for JSON Schema inclusion: pairs of draft 2020-12 schemas with known answers, and the command that runs a checker over them."
+2026-11-18T22:04:24Z,dex-connector-microsoft-excel,0.1.0,,MIT,117303,Dex-native Python connector for Microsoft Excel
+2026-11-18T22:05:54Z,dex-connector-microsoft-onedrive,0.1.0,,MIT,130869,Dex-native Microsoft OneDrive and SharePoint connector
+2026-11-18T22:06:10Z,emoji-rs,0.1.0,,BSD-3-Clause,1242448,"Rust-accelerated demojize, replace_emoji and emoji_list for the emoji package"
+2026-11-18T22:07:11Z,reperes,0.1.0,BMSE,Apache-2.0,44054,"SDK Python et CLI de l'API REPERES : contexte documentaire sourcé, valeurs de référence et simulateurs du champ social et médico-social"
+2026-11-18T22:07:12Z,openfix-cli,0.4.0,Markus Weldon,MIT,166532,Model-agnostic security remediation agent. Every fix ships with proof.
+2026-11-18T22:07:21Z,dex-connector-microsoft-outlook-calendar,0.1.0,,MIT,131204,Dex-native Python connector for Microsoft Outlook Calendar
+2026-11-18T22:11:00Z,testing-files-generator,0.6.0rc1,DonislawDev,MPL-2.0,62057318,"Real files of exact sizes and formats for tests, and what the system under test should do with each one. For pytest and any other test runner."
+2026-11-18T22:11:21Z,linkit-all,1.0.0,silentco2 <osamakhalifa333@gmail.com>,AGPL-3.0-or-later,9297876,"Open-source AI job search that runs on your computer: finds jobs, ranks them against your CV, tailors it and fills in applications."
+2026-11-18T22:13:22Z,arsalan-unique-pkg-7788,0.1.0,arsalan_unique_pkg_7788,,2484,A test package for PyPI curl upload workflow
+2026-11-18T22:15:16Z,hexa-pipelines,0.2.0,,,110587,Shape-directed pipelines with inert effects and replay
+2026-11-18T22:16:06Z,iagenify,0.1.0,IaGenify LLC <contact@iagenify.com>,Apache-2.0,144538,Official Python SDK for the IaGenify AI platform
