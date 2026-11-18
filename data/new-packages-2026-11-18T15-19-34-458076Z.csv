@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T14:02:30Z,mobilerun-functions,0.1.0rc1,,,116135,"Script interface for Mobilerun routine scripts: typed entry point, Context, inspect and run."
+2026-11-18T14:22:06Z,dyna-zarr-core,0.0.1,Bugra Oezdemir <bugraa.ozdemir@gmail.com>,MIT,11390531,"Native (Rust) engine for dyna-zarr: coordinate transformations and lazy array operations on Zarr arrays, built on zarrs."
+2026-11-18T14:23:55Z,grassmann-ot,0.2.3,Your Name <you@example.com>,404: Not Found,21590,Differentiable cell-to-cell anchoring via Grassmann subspace distance and Optimal Transport (PyTorch backend).
+2026-11-18T14:24:50Z,statementkit,0.1.0,heshiming,Apache-2.0,5121349,Parse brokerage statement content into actionable numbers. Independent tool. Not affiliated with or endorsed by Interactive Brokers LLC.
+2026-11-18T14:24:52Z,nexusyn,0.1.0,RedFoxCode,Apache-2.0,23064,"Official Python client for the Nexusyn memory API — long-term, time-aware memory for AI agents."
+2026-11-18T14:24:56Z,agency-garden,0.1.0a3,Laurentiu Meirosu <laurentiu@ymail.dev>,Apache-2.0,2367450,An experimental world engine for moral reasoning.
+2026-11-18T14:25:23Z,aioopenmeteo,0.1.0,Bjarne Riis,MIT,33623,"Async Python client for the Open-Meteo forecast and air quality APIs, with model selection"
+2026-11-18T14:26:53Z,s1-geometry,0.2.0,,MIT,3267944,"Tool to estimate geometric quantities (such as incidence, elevation or ground heading angle) from a Sentinel-1 SAR footprint."
+2026-11-18T14:32:32Z,lookfirst,0.1.0,,Apache-2.0,575889,"Check a GitHub repo, shell one-liner or package before you or your AI agent runs it."
+2026-11-18T14:34:46Z,markitdown-mdzip,0.1.0,,Apache-2.0,31904,"MarkItDown plugin for MDZip (.mdz): convert .mdz archives to Markdown, and Word, PowerPoint, HTML and more to .mdz with the images kept."
+2026-11-18T14:36:01Z,londonaicentre-conditionschema,0.1.2,Martin Chapman <contact@martinchapman.co.uk>,,34137,Condition
+2026-11-18T14:36:22Z,veyo,0.15.0,Rhythmicc <rhythmlian.cn@gmail.com>,MIT,25703,A lightweight CLI framework and terminal interaction toolkit
+2026-11-18T14:36:45Z,deepblur-napari,0.1.0,"Pierre Weiss <pierre.weiss@cnrs.fr>, Florian Sarron <florian.sarron@irit.fr>, Minh-Hai NGUYEN <nguy…",BSD-3-Clause,28039472,"Blind deblurring and PSF metrology with neural networks, for microscopy"
+2026-11-18T14:37:51Z,sensai-engine,0.0.0,,MIT,3042,Reserved for the SensAI inference engine library.
+2026-11-18T14:37:53Z,sensaix,0.0.0,,MIT,3244,Reserved for the SensAI inference engine command.
+2026-11-18T14:39:52Z,odoo-addon-sy-contract-purchase,18.0.1.0.0.1,Sygel,AGPL-3,49138,Generate supplier contracts from purchase orders
+2026-11-18T14:41:08Z,saidhome,0.0.1,SAIDHOME,,2392,"Name reserved by SAIDHOME Inc. for .said, the memory file any AI can use. The first release is coming."
+2026-11-18T14:42:52Z,proposer-llm,0.1.0,David Oluwasusi <daviddamilola20@gmail.com>,Apache-2.0,162171,Assistants that read and propose but never act: a framework for describing what a pipeline should build
+2026-11-18T14:47:19Z,pratico-sensor,3.0.0,Riccardo Gaetano Cirrone,GPL-3.0-only,66567,PRATICO 3 firmware: low-cost Raspberry Pi colorimeter for nitrate and phosphate (FreshWater Watch kits)
+2026-11-18T14:47:37Z,ponolock,0.3.1,"Moseli Motsoehli, PonoLock contributors",MIT,616285,"Dependable multicamera and GNSS recording with explicit timestamp provenance, loss accounting and offline verification"
+2026-11-18T14:52:16Z,libimgquant,3.0.0,kiwina,BSD-2-Clause,4398089,"Pure-Rust, BSD-licensed color quantizer: RGBA images to 8-bit palette images with alpha, for small PNGs and GIFs"
+2026-11-18T14:53:22Z,fitfleet,0.2.0,shaizae,MIT,349819,Run many scikit-learn models x feature subsets x hyper-parameters in parallel and keep the best.
+2026-11-18T14:54:07Z,krrood-compute-resources,26.10.0,Tom Schierenbeck <tom_sch@uni-bremen.de>,LGPL-3.0-only,21173,"The processor cores, memory and GPUs a computation runs on, and how a machine is divided among processes."
+2026-11-18T14:54:30Z,lexgrid,1.0.0,NovaPixel <lexgrid@novapixel.it>,MIT,44298,"Official Python SDK for NovaPixel LexGrid — Sovereign EU Compliance, Regulatory Auditing & Statutory Verification Engine"
+2026-11-18T14:56:09Z,Elvarix,1.0.0,,,7209,ML Lab practicals 1-8: show(n) prints the code
+2026-11-18T14:56:09Z,dual-general-relativity,1.0.1,Dual General Relativity,MIT,19428,"Dual General Relativity (DGR): companion metric f = 2 eta - g, separate GR and DGR systems, Flask app to compute curvature, C / Rcal, eps = G - 8 pi T, and implied stress tensor."
+2026-11-18T14:59:15Z,stagewatch,0.2.0,Harish Raagav K J,MIT,95945,"Local-first pipeline observability with anomaly detection, schema contracts and root-cause insights."
+2026-11-18T14:59:19Z,pocket-editor,2026.11.18,Somi Douth <somidouth@gmail.com>,,1129528,"A Python/Tkinter code editor with project, Git and team collaboration plugins"
+2026-11-18T14:59:41Z,teqel,0.0.1,,Apache-2.0,10209,Teqel: agent tracing and evaluation. Early release; the SDK is under active development.
+2026-11-18T15:00:30Z,skaters-fast,0.17.0,Peter Cotton <peter.cotton@microprediction.com>,MIT,5268685,Opt-in accelerated backend for skaters: a PyO3 skin over the parity-gated Rust core.
+2026-11-18T15:01:08Z,mmar-chunker,1.0.0,"malovichko, kartashev, kopanichuk, tagin, bakulin",MIT,26545,Склейка блоков OCR в чанки: DP под целевой размер
+2026-11-18T15:02:55Z,kaizeval,0.2.0,,Apache-2.0,815168,"Evaluate, diagnose and safely optimize AI agents. Self-hosted, offline-capable, evidence-based."
+2026-11-18T15:03:28Z,nano-wallet-xno,1.4.0,,MIT,302407,"Nano (XNO) wallet as one install, with a receive-only profile an operator can verify: create, validate, balance, receive. No dependencies, no custody, send not registered."
+2026-11-18T15:03:55Z,marcus-staticgen,0.1.0,Marcus Beauregard <marcus.beauregard.developer@gmail.com>,MIT,4691,A no-dependency static site generator: markdown + templates to HTML
+2026-11-18T15:05:36Z,pite-stubs,0.4.0,Pite Contributors,MIT OR Apache-2.0,17485,Type stubs for the Pite engine's embedded Python API (PEP 561).
+2026-11-18T15:05:52Z,atlas-service-discovery,0.1.0,Manzi Osee,Apache-2.0,22431,Python client for the Atlas service registry
+2026-11-18T15:10:04Z,zvamz,999.0.0,,Proprietary,2772,Placeholder. zvamz is no longer distributed on PyPI.
+2026-11-18T15:10:06Z,typosquatshield,0.1.0,,,18634,Pre-installation PyPI package risk advisory CLI
+2026-11-18T15:11:02Z,anomalous-gas-extractor,0.0.1,"""P. Kamphuis"" <peterkamphuisastronomy@gmail.com>",GPL-3.0-or-later,207734,Development Status :: 4 - Beta
+2026-11-18T15:12:41Z,birinchishop,0.1.0,Birinchi Shop <noreply@birinchishop.uz>,MIT,38067,"Official Python client for the Birinchi Shop Partner API (CPA affiliate network, Uzbekistan): offers, tracking links, orders, stats, events, webhooks."
+2026-11-18T15:12:51Z,neocore-memory,0.2.0,Vincent Porquet,Apache-2.0,334173,Governed long-term memory for AI assistants: recalls only what the moment needs. Shared memory for Claude Code and Codex.
+2026-11-18T15:14:45Z,pyodex,0.1.0,,,111260,Framework for building Chrome (MV3) extensions whose logic runs in Python via Pyodide.
+2026-11-18T15:15:31Z,budget-tracker-11213161,0.1.0,11213161,MIT,7783,An object-oriented personal budget tracker and expense analyzer.
+2026-11-18T15:16:18Z,lilywhite,0.1.0,SaigyoujYuyuko,MIT,88706,LilyWhite：基于 Litestar 与 Uvicorn 的 Pythonic 服务端框架
+2026-11-18T15:19:20Z,shopware-admin,0.1.0a1,"""Henrik D."" <henrik.brokkoli@mailbox.org>",MIT,24294,"Typed Shopware Admin API entities, expressions, and explicit writes"
+2026-11-18T15:19:22Z,dbpeek,0.1.0,Simon Schmitz <simonstz3000@gmail.com>,MIT,27316,"CLI tool for quickly inspecting a db instance, it's tables and the stored data"
