@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T04:31:05Z,inworld-sava,1.0.0,Inworld AI,Apache-2.0,90802,"SAVA, semantic acoustic voice activity: streaming voice activity and end-of-turn detection in one model."
+2026-11-18T04:31:14Z,inworld-voice-isolation,1.0.0,Inworld AI,Apache-2.0,120537,"Inworld Voice Isolator: 48 kHz full-band voice isolation, offline or streaming, that preserves speaker timbre."
+2026-11-18T07:10:20Z,sudsy,0.0.2,,MIT,114052360,"Formatter and linter for C#, JSON, YAML and more"
+2026-11-18T07:25:31Z,wan30,0.1.0,"Wan30, NotUsingGithub",MIT,55315,Python client for a wan30.video account. Purchased credits are required.
+2026-11-18T07:25:58Z,langchain-wan30,0.1.0,"Wan30, NotUsingGithub",MIT,10666,LangChain tools for a wan30.video account. Generation is opt-in and spends purchased credits.
+2026-11-18T07:27:35Z,cvescope,0.2.6,,GPL-3.0-or-later,328753,"Track the CVEs that hit the gear you actually run, ranked by real-world exploitation (KEV, EPSS, Metasploit, Nuclei, Exploit-DB, public PoCs)."
+2026-11-18T07:27:52Z,meetstream-agent-kit,0.3.0,MeetStream,Apache-2.0,135104,"Bring your own agent into your meetings: Claude Code, Codex, Hermes and more answer out loud in Google Meet, Zoom and Teams through MeetStream MIA."
+2026-11-18T07:27:58Z,reactor-rt,0.1.0,IParraMartin,MIT,256169,Human reading times for any text: word-level eye-tracking and self-paced reading predictions in 22 languages.
+2026-11-18T07:29:27Z,openvisionauto,0.1.0,OpenAutoUtility,MIT,37185,"OpenVisionAuto: Cross-platform desktop automation toolkit with visual image matching, mouse/keyboard control, and screen recording"
+2026-11-18T07:29:31Z,htop-web,0.1.1,leekyungmoon,MIT,116808,A web interface of htop: monitor Linux hosts at a glance
+2026-11-18T07:32:27Z,gemhub,1.0.5,Hadi Cahyadi <cumulus13@gmail.com>,MIT,141482,"Caching RubyGems mirror with a web hub: compact index, legacy index, verified gem files, and a package browser"
+2026-11-18T07:38:12Z,flagraft,0.1.0a0,,MIT,55501,Python SDK for Flagraft feature flags
+2026-11-18T07:39:23Z,flymind,0.2.0,voronindenis5,"MIT License Copyright (c) 2026 voronindenis5 Permission is hereby granted, free of charge, to any p…",89305,"Drosophila brain connectome as a compute substrate: rate & spiking reservoirs on real wiring, Hebbian/STDP plasticity, VFB/neuPrint access, MCP server"
+2026-11-18T07:40:34Z,langchain-movoa,0.1.0,Movoa (https://movoa.ai),MIT,161929,"Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. LangChain tools for Movoa (movoa.ai): text to…"
+2026-11-18T07:40:37Z,movoa-haystack,0.1.0,Movoa (https://movoa.ai),MIT,188373,"Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. Haystack component for Movoa (movoa.ai): text…"
+2026-11-18T07:41:41Z,tba-contracts-dns,0.4.0.dev2,,Apache-2.0,6070,DNS TXT lookup contracts and shared TXT record handling.
+2026-11-18T07:43:12Z,sii-runfield,0.1.0,,Apache-2.0,69129,通过 Runfield Controller API 与同机 UDS 加速代理统一管理 Sandbox 生命周期、执行与流式归档的异步 Python SDK
+2026-11-18T07:48:40Z,bakeoff,0.0.1,Atlantis Analytics,Apache-2.0,10830,"Placeholder for the bakeoff.si benchmark harness, not yet released on PyPI"
+2026-11-18T07:50:20Z,quota-fuse-wire,0.1.1,QuotaFuse,MIT,260616,"QuotaFuse Wire - local-first multi-source news collection, AI digest, event clustering and MCP access"
+2026-11-18T07:50:25Z,agentdevlabs,0.1.0,,Apache-2.0,118111,Capture and replay LLM calls from the OpenAI and Anthropic Python SDKs.
+2026-11-18T07:51:01Z,de-pilum,0.6.0,,Apache-2.0,47633,"Pilum — reverse ETL: dispatch changed records from Parquet to HTTP endpoints and Slack, once per change"
+2026-11-18T07:52:14Z,ldst-proxyfleet,0.2.0,ProxyFleet,MIT,160744,自建代理 IP 池：自动采集、三级校验、每请求换 IP、常驻供货（零第三方依赖）
+2026-11-18T07:52:55Z,sekka,0.2.1,sh-sunfaded,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",65778,"Static analysis for x64 PE exception tables: RUNTIME_FUNCTION lookup and UNWIND_INFO parsing (handlers, unwind codes, chained info), with readable-state selection across multiple memory captures"
+2026-11-18T07:53:38Z,qfex2,1.0.0,,MIT,185905,Python SDK for the QFEX API
+2026-11-18T07:53:57Z,versabot-local-agent,0.2.0,Versabot,,24538,Run your own AI agent on Versabot work from your computer.
+2026-11-18T07:54:41Z,pytoka,0.3.1,sh-sunfaded,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",85355,"Toolkit for analyzing the KONN packer format (self-decrypting Stage0 packer, SPN chain cipher, rol13 rolling layer, Huffman/LZSS bytecode VM)"
+2026-11-18T07:56:03Z,lichtung-plot,0.1.0,,MIT OR Apache-2.0,50093543,Native scientific plots with reusable Python configuration owners
+2026-11-18T07:57:01Z,pycut-image-splitter,1.0.0,"0passion0, PyCut Contributors",Apache-2.0 OR MIT,61872,"Memory-safe, ultra-fast pure Python + OpenCV + vectorized NumPy image layout parser and batch slicer."
+2026-11-18T07:57:29Z,run-bounded,0.1.2,El Fenomeno,MIT,1426899,"A command-line tool and Python library for running commands with time, output, and process-tree limits."
+2026-11-18T07:58:34Z,tba-codec-multibase,0.4.0.dev2,,Apache-2.0,5051,Multibase encoding and decoding for the base58btc alphabet.
+2026-11-18T07:59:53Z,earis-connector-models,0.1.0,Tinámica S.L.,Apache-2.0,157656,"Immutable, typed dataclasses for dataspace connectors: ODRL policies, Gaia-X Self Descriptions (DCAT-AP 3, CSVW) and operational messages."
+2026-11-18T08:05:37Z,earis-did-manager,0.1.0,Tinámica S.L.,Apache-2.0,166377,"Create, resolve and verify did:web identifiers (signed DID Documents) for data spaces."
+2026-11-18T08:06:34Z,kashif,1.1.0,,MIT,5582126,Standalone source-code vulnerability scanner that reports findings from highest to lowest severity.
+2026-11-18T08:07:12Z,hoshilet,0.1.0,,MIT,18980,Publish static sites to hoshilet using API keys or GitLab OIDC
+2026-11-18T08:08:56Z,vocabulary-scanner,0.2.0,AndyTLY,,751985,"Scan English documents, find the CEFR level (A1-C2) of every word, and export a vocabulary book."
+2026-11-18T08:09:21Z,mdsite-cli,0.1.1,,MIT,47077,Preview and build websites directly from Markdown directories
+2026-11-18T08:13:18Z,cliodinamica,0.1.0,Kevin Osorio,,55655,Simulador dinámico de sistemas complejos y cliodinámica (ODEs acopladas con SciPy y clasificador MLP)
+2026-11-18T08:13:24Z,dampmeter,1.0.0,Ma Ka Po,CC BY 4.0,27331,"IDV damping caliper: measure a system's intrinsic relaxation time tau (gamma = 1/tau) from a single scalar time series — four-test convergence + shuffle null, KB-RAM / millisecond class, built for ed…"
+2026-11-18T08:14:09Z,conviva-agent-traces-connector,1.0.0,Conviva Inc.,Apache-2.0,6293,OpenTelemetry helper that copies allowlisted W3C baggage entries onto every span and ensures the baggage propagator is registered.
+2026-11-18T08:14:09Z,jubaozan-supplier-mcp,0.8.2,Jubaozan,Proprietary,116432,聚宝赞供应商只读 MCP Server（商品查询与白名单 GET 接口调用）
+2026-11-18T08:15:44Z,atm-milano,0.1.0,Matteo Redaelli <matteo.redaelli@gmail.com>,GPL-3.0-or-later,10970,"Async Python client for ATM Milano (GiroMilano) journey planner, line, stop and metro data"
+2026-11-18T08:16:20Z,conviva-agent-tracing,1.0.0,Conviva Inc.,Apache-2.0,8456,"Conviva tracing SDK for AI agents — a thin wrapper over OpenLLMetry that exports OTLP http/protobuf traces to the Conviva agent gateway, with Conviva's span processors and baggage connector built in."
+2026-11-18T08:18:17Z,conviva-otlp-exporter,1.0.0,Conviva Inc.,Apache-2.0,13555,OTLP trace exporter and span processors that send OpenTelemetry traces to the Conviva agent gateway.

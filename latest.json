@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-18T06:22:05.829336Z",
-    "path": "data/new-packages-2026-11-18T07-22-29-23064Z.csv",
-    "to": "2026-11-18T07:22:29.23064Z"
+    "count": 43,
+    "from": "2026-11-18T07:22:29.23064Z",
+    "path": "data/new-packages-2026-11-18T08-19-03-663002Z.csv",
+    "to": "2026-11-18T08:19:03.663002Z"
   },
   "pending": [
     {
-      "attempts": 3,
-      "created_at": "2026-11-18T04:31:05Z",
-      "package": "inworld-sava",
-      "since": "2026-11-18T04:19:50.44268Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
-      "created_at": "2026-11-18T04:31:14Z",
-      "package": "inworld-voice-isolation",
-      "since": "2026-11-18T04:19:50.44268Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T07:13:31Z",
       "package": "livekit-plugins-boson-ai",
       "since": "2026-11-18T06:22:05.829336Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-18T06:14:44Z",
       "package": "livekit-plugins-vlmrun",
       "since": "2026-11-18T05:20:00.715706Z",
@@ -36,13 +22,34 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-18T07:10:20Z",
-      "package": "sudsy",
-      "since": "2026-11-18T06:22:05.829336Z",
+      "created_at": "2026-11-18T08:18:03Z",
+      "package": "odoo-addon-sale-validity",
+      "since": "2026-11-18T07:22:29.23064Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-18T08:16:04Z",
+      "package": "odoo-addon-stock-move-position",
+      "since": "2026-11-18T07:22:29.23064Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-18T07:47:50Z",
+      "package": "tba-app-backend-wit-issuance",
+      "since": "2026-11-18T07:22:29.23064Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-18T08:01:11Z",
+      "package": "tba-codec-jcs",
+      "since": "2026-11-18T07:22:29.23064Z",
       "version": null
     }
   ],
-  "serial": 43821237,
+  "serial": 43823035,
   "source_truncated": false,
-  "window": "2026-11-18T07:22:29.23064Z"
+  "window": "2026-11-18T08:19:03.663002Z"
 }
