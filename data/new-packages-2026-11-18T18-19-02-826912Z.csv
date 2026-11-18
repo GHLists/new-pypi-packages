@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T17:19:43Z,tribulnation-nado,0.1.0,,MIT,61186,Tribulnation SDK implementation for Nado spot and perpetual markets.
+2026-11-18T17:21:00Z,wos-mcp-bridge,0.1.0,,Apache-2.0,208547,Read-only MCP tools for Web of Science and open-access scientific literature
+2026-11-18T17:21:49Z,squitter,0.1.0,Shibaji Chakraborty <chakras4@erau.edu>,LGPL-3.0-or-later,1961396,"SQUITTER: ADS-B/C Link Outage, Fading, and Degradation from Ionospheric Irregularities Simulator. A physical forward model of ADS-B, ADS-C and GNSS channels through a controllable ionosphere, from ir…"
+2026-11-18T17:22:07Z,fancy-service-token,0.1.0,Particle Academy,MIT,36544,"Verify Fancy service tokens in a Python sidecar: a framework-free core plus Starlette/FastAPI middleware that refuses before the body is read, with a named reason. Standard library only."
+2026-11-18T17:22:17Z,aiopelletstove,1.0.0,Voluzi,MIT,21650,Async register protocol client for Wi-Fi pellet stoves
+2026-11-18T17:22:32Z,aiovents,0.1.0,Voluzi,MIT,26439,Async UDP client for Vents air handling units
+2026-11-18T17:24:09Z,pytest-testmu,0.1.0,TestMu AI,Apache-2.0,15631,pytest plugin for Kane CLI by TestMu AI (Formerly LambdaTest): write browser tests in plain English
+2026-11-18T17:25:48Z,asciidoc-gen,0.1.0,René Beckmann,MIT,12039,A library to generate asciidoc documents.
+2026-11-18T17:26:32Z,geoalign,0.1.0,World Insight Lab,Apache-2.0,1135286,"Map Chinese administrative-division names (county level and above) to official codes, and convert codes between years 2012-2025. 把中国县级以上行政区划的名称对到官方代码。"
+2026-11-18T17:28:40Z,django-dynamic-configs,1.0.0,Tecktron,MIT,288132,"Typed runtime settings for Django that admins can add and edit, read through a small cached API."
+2026-11-18T17:32:07Z,documentation-checker,0.1.0,Christophe Le Douarec,Apache-2.0 AND MPL-2.0,1489714,Compare and audit PDF and HTML documentation
+2026-11-18T17:32:10Z,odoo-addon-stock-picking-batch-move-position,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,31588,Adds the position of stock moves in their batch transfer
+2026-11-18T17:35:20Z,mrz-checkdigit,0.1.0,Ali Ahmed,MIT,10477,"Validate passport and ID card MRZ check digits (ICAO 9303: TD1, TD2, TD3)"
+2026-11-18T17:35:30Z,aa-toolkit-settings,0.1.0a1,,MIT,25386,"Settings for apps, on top of pydantic-settings."
+2026-11-18T17:35:37Z,quf,0.1.0,vtrsharvin-sj,MIT,142040,QUF: Quantized Unified Format for 4-bit quantized decoder-only LLMs
+2026-11-18T17:36:33Z,langchain-synapcores,0.1.0,SynapCores,MIT,26058,"LangChain integration for SynapCores, the AI-native database: vector store and in-database embeddings."
+2026-11-18T17:38:36Z,alp-na,1.0.0,NaturalAntibody,,1081014,Gumbel (Karlin-Altschul) parameters for local alignment scores via the NCBI ALP library
+2026-11-18T17:40:12Z,pyrpa-framework,0.1.0,Kauê Cunha Baesso,MIT License Copyright (c) 2026 Kauê Cunha Baesso e Nícolas Paulo Nasário Permission is hereby grant…,99003,CLI opinativa para scaffolding e orquestração declarativa de projetos RPA em Clean Architecture
+2026-11-18T17:41:47Z,digsim-engine,1.13.0,Fredrik Andersson <freand@gmail.com>,,331951,"The simulator of DigSim: digital logic circuits in Python, and Verilog with Yosys"
+2026-11-18T17:47:41Z,s3lin,0.1.0,Rushikesh Yadav Vadlakonda,MIT,48721,"Linearizability checker for histories of S3 conditional writes (If-None-Match, If-Match)"
+2026-11-18T17:48:16Z,fontlab-aidus-agentus,1.1.15,,LicenseRef-Proprietary,565047,Embedded FontLab ACP client and optional external AgentPool coding brain
+2026-11-18T17:48:47Z,fontlab-fly,1.3.4,,Apache-2.0,45614,Short exact aliases for FontLab scripting packages
+2026-11-18T17:48:57Z,fontlab-fontlabapp,1.2.30,,Apache-2.0 AND MIT AND BSD-3-Clause AND LicenseRef-Proprietary,6422668,FontLab application context and utilities
+2026-11-18T17:49:09Z,fontlab-fontport,1.2.13,,Apache-2.0,397787,FontParts and UFO library interoperability for FontLab
+2026-11-18T17:54:23Z,dobot-usb,0.2.0a3,Dobot Kit contributors,MIT,168100,A small Python interface for classic DOBOT Magician robots
+2026-11-18T17:55:39Z,drive-artifacts,0.1.0,The Chaos Bureau,Apache-2.0,250443,"GitHub Actions artifacts, stored in your own Google Drive"
+2026-11-18T17:58:10Z,solidworks-mcp-server,2.4.1,Matteo Baisini,MIT,262858,MCP server that lets an AI assistant drive SolidWorks through its COM API
+2026-11-18T18:00:17Z,Sh-Error,1.0.0,Fatemeh SHM,MIT,4792,A Python error guide with detailed causes and solutions.
+2026-11-18T18:02:29Z,veripass,0.0.1,"VeriPass AI, Inc.",,2654,"Name reserved by VeriPass AI, Inc. Not a release. Contains no SDK code."
+2026-11-18T18:02:37Z,ltc-ein-college-type,0.1.0,,,39074151,"EIN-by-tax-year college type crosswalk, with the scripts that build and apply it"
+2026-11-18T18:02:45Z,veripass-sdk,0.0.1,"VeriPass AI, Inc.",,2734,"Name reserved by VeriPass AI, Inc. Not a release. Contains no SDK code."
+2026-11-18T18:06:08Z,sipl-kit,0.4.0,Vitalii Fedin <vfedin868@gmail.com>,MIT,57930,"SIPL (SImple Programming Language) toolkit: grammar, parser, interpreter, trace, semantic terms and CLI"
+2026-11-18T18:07:31Z,Sadr,0.1.0,,,2451,A Python package publishing framework
+2026-11-18T18:08:39Z,stury,0.2.1,,MIT,29795897,A query engine and a lossless editing tool for jq filters across eleven formats
+2026-11-18T18:11:14Z,tensor-flow-assignments,0.1.0,Shreenath Kadam,MIT,35528,"Deep Learning lab assignments (MLPs, regularisation, activations, CNNs, RNN/LSTM, transfer learning, hyperparameter tuning) as runnable TensorFlow scripts."
+2026-11-18T18:11:16Z,stemseal,0.1.6,,MIT,88153,"Verified, locked calculation cells that small LLMs call instead of guessing. Local, no server, no dependencies."
+2026-11-18T18:12:33Z,odoo-addon-l10n-br-sped-ecf,16.0.1.0.0.7,"Akretion, KMEE, Odoo Community Association (OCA)",AGPL-3,227659,Arquivo ECF do SPED
+2026-11-18T18:13:00Z,fasthtmlparser-pure,0.1.0,z3l,,154816,"Fast HTML / XML parser for scraping with XPath 1.0 and CSS selectors, in pure Python. A port of z3l.FastHtmlParser."
+2026-11-18T18:13:41Z,orble-sdk,0.1.0,,MIT,13600,Orble: Linux boxes for agents
+2026-11-18T18:15:29Z,matscikit,0.1.0b1,Janosh Riebesell <janosh.riebesell@gmail.com>,MIT,10247087,"Fast Rust kernels for computational materials science, with Python and WebAssembly bindings"
+2026-11-18T18:15:57Z,misina-lab,0.1.0,Andras Polgar <azazdeaz@gmail.com>,MIT OR Apache-2.0,123066,The Python side of a generated scene: the USD builder and the Isaac Lab spawner every generator shares.
+2026-11-18T18:17:25Z,aibi-dax,0.2.1,Sourin Rakshit,"MIT License Copyright (c) 2026 Sourin Rakshit Permission is hereby granted, free of charge, to any…",104235,"DAX expression analysis: complexity metrics, anti-pattern detection, per-model ranking"
+2026-11-18T18:18:06Z,quotapilot,0.1.0,Dylan Merigaud,MIT,21239,"Project what expires unused across several accounts with weekly quota windows, and say which account to drain first. No dependencies, no network."
+2026-11-18T18:18:09Z,discern-discord,0.1.0,Paolo Pancaldi <pancaldi.paolo@gmail.com>,MIT,19658,"Colored Discord notification indicator for Linux — red for DM/@mention, blue for generic"
+2026-11-18T18:18:23Z,ape-solana,0.0.1a0,ApeWorX Ltd.,Apache-2.0,56378,ape-solana: Ape Ecosystem Plugin for Solana
