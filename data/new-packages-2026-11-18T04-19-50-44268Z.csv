@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T03:23:54Z,rsoslang,0.3.0,r-a-elu-architecture,Apache-2.0,185487,"RSOS State Runtime and Language: multi-agent workflows in 2 model calls instead of 42, with hash-checked shared state (MCP server included)"
+2026-11-18T03:25:57Z,envxx,1.0.7,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",132420,"Portable multi-runtime manager for Python, Node.js and friends"
+2026-11-18T03:26:26Z,mcp-server-huaweicloud-gaussdb,0.8.1,,MIT,329049,Huawei Cloud GaussDB management MCP Server
+2026-11-18T03:28:48Z,medical-privacy-guard,0.6.0,mokuyoaxis,MIT,451957,Local-first privacy guardrails for medical data before it crosses a trust boundary.
+2026-11-18T03:31:06Z,dev-terminal-app,0.1.0,,,24835,An AI-Native Developer CLI
+2026-11-18T03:31:48Z,satsgate-proxy,0.14.1,,Apache-2.0,76122,"Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UTC month. Self-hosted reverse proxy. Cobrale a agentes de IA en Lightning y USDC, en el mismo 402."
+2026-11-18T03:33:44Z,signet-lang,26.0b70,Daniel Desai,MIT,236380,Signet: a coordination language that wires modules in any language together with Signals
+2026-11-18T03:42:06Z,esp-iot-ci,0.0.1,laride,MPL-2.0,75016,"Project-oriented ESP-IDF CI planning, analysis and execution"
+2026-11-18T03:44:11Z,earful,0.1.0,,Apache-2.0,589211,Deterministic regression tests for real-time voice agents
+2026-11-18T03:44:23Z,lifeline-recovery,2.0.1,Ojas Gupta,MIT,291101,"Get deleted files back: a guided recovery app and CLI for Windows, macOS and Linux (NTFS, FAT, exFAT, 20 carved formats, lost partitions)"
+2026-11-18T03:48:06Z,agent-audit-memory,0.2.0rc1,agent-memory-ledger maintainers,MIT,47470,A verifiable memory layer for AI agents (research prototype).
+2026-11-18T03:48:11Z,opensr-sr1m,0.1.1,Eavheang,MIT,19484,Sentinel-2 10 m to 1 m RGB super-resolution for points and dates
+2026-11-18T03:48:23Z,yimo-kit,0.1.0,溢墨修心（Yimo） <changhongyuan@126.com>,Apache-2.0,682401,Yimo Kit——统一数据库访问层（PG/MySQL/SQLite）与 AI/Redis/文件/文档/向量工具集
+2026-11-18T03:49:03Z,smart-study-planner,0.5.0,,,83612,Priority-aware study scheduling balanced across dates and daily time windows
+2026-11-18T03:49:28Z,zhangsan2026-mcp-demo,0.1.0,shaoxia2019,,3271,Add your description here
+2026-11-18T03:49:35Z,zc-2026-mcp-demo,0.1.0,zhaoc,,3482,Add your description here
+2026-11-18T03:49:38Z,cc-mcp-demo,0.1.0,,,3573,Add your description here
+2026-11-18T03:49:42Z,zhangying2026-mcp-demo,0.1.0,zy,,3648,Add your description here
+2026-11-18T03:49:46Z,vcti-usd-schema-model-catalog,0.2.0,Visual Collaboration Technologies Inc.,LicenseRef-Proprietary,84351,"Codeless OpenUSD schema for the catalog of a VCollab model, the trees and lists a user browses it by, kept in a layer of its own that the model never depends on: schema source, generated plugin, synt…"
+2026-11-18T03:51:50Z,studymaster,0.1.0,StudyMaster Team,,11349,Academic productivity toolkit for students
+2026-11-18T03:53:20Z,topomark,0.4.0,"""Li, ching yu"" <tipo5890Li@gmail.com>",MIT,435930,"A zero-dependency code map for AI coding agents: progressive-disclosure docs, per-file review stamps that catch stale summaries, and fast symbol/impact/test navigation for git repositories."
+2026-11-18T03:53:58Z,codex-usage-limits,0.1.0,codex-usage contributors,MIT,37413,"CLI for Codex plan usage and rate limits, with session-log fallback and warning thresholds."
+2026-11-18T03:55:56Z,satsgate-mcp,0.13.0,,Apache-2.0,105071,"Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UTC month. Buyer-side MCP server. Cobrale a agentes de IA en Lightning y USDC, en el mismo 402."
+2026-11-18T03:56:22Z,pyhj212,0.1.0,tinychen <weinanmay@gmail.com>,MIT,26505,"A Python library for HJ212 protocol encoding, decoding, validation, and communication."
+2026-11-18T04:00:47Z,waveweave,0.1.0,,,8281,Local and remote matrix computation examples
+2026-11-18T04:02:35Z,pebblous-dataclinic-gw-databricks,0.1.0,Pebblous <dev@pebblous.ai>,LicenseRef-Pebblous-Proprietary,48715,Run Pebblous DataClinic image-data quality analysis from a Databricks notebook through the DataClinic Gateway.
+2026-11-18T04:03:04Z,loxia,1.1.0,Cassio Dalla,MIT OR Apache-2.0,841631,"Loxia: a small, statically checked language descended from Lox, with a tree-walk interpreter and an optional LLVM backend"
+2026-11-18T04:06:18Z,llm-agent-budget,0.1.3,Matthew Charles Busel <mattbusel@gmail.com>,MIT,82216,"Hard USD budgets for agents that delegate: reserve/settle child scopes for parallel sub-agents, and the A2A budget extension over A2A metadata, W3C baggage and MCP _meta"
+2026-11-18T04:07:52Z,satsgate,0.1.1,,Apache-2.0,53706,"Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UTC month. Cobrale a agentes de IA en Lightning y USDC, en el mismo 402."
+2026-11-18T04:10:30Z,pyrake-survey,0.2.0,Bob Wilson <bob.wilson@convexanalytics.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",264259,"Survey calibration and balancing weights, with estimators for means and treatment effects"
+2026-11-18T04:12:24Z,langchain-agent-budget,0.1.0,Matthew Busel,MIT,24008,"Hard dollar budgets for LangChain agents: reserve each model call's worst-case cost before the call, settle the real cost after, shared safely by parallel runs and deepagents subagents."
+2026-11-18T04:14:16Z,progressor-mcp,1.4.0,Rachit Asthana,PolyForm-Noncommercial-1.0.0,10193544,"Your AI's plan, saved in your project and shown live on a dashboard: an MCP server that keeps an AI coding agent on its plan across context compression."
+2026-11-18T04:14:57Z,xtick-skill,0.1.4,,,123058,XTick提供完整的金融市场数据解决方案，通过HTTP API接口获取实时行情数据，具有高效稳定的特点。
+2026-11-18T04:18:10Z,testledger,0.1.0,Suresh Babu <sureshbabu.santhakumar@gmail.com>,MIT,78656,Test Estate Balance Sheet: turn CI results and git history into per-test P&L and executive Quality Investment Memos.
+2026-11-18T04:19:11Z,mcpguard-adk,0.3.1,MCPGuard-ADK Contributors,Apache-2.0,178181,"Multi-agent MCP supply-chain, >200K token cost-cliff, and tool-trajectory auditor built on Google ADK 2.0, A2A Protocol v1.0, and OpenTelemetry."

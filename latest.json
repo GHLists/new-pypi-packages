@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-11-18T02:19:03.492327Z",
-    "path": "data/new-packages-2026-11-18T03-21-33-150363Z.csv",
-    "to": "2026-11-18T03:21:33.150363Z"
+    "count": 35,
+    "from": "2026-11-18T03:21:33.150363Z",
+    "path": "data/new-packages-2026-11-18T04-19-50-44268Z.csv",
+    "to": "2026-11-18T04:19:50.44268Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T02:23:41Z",
       "package": "toki-time-companion",
       "since": "2026-11-18T02:19:03.492327Z",
       "version": "0.1.1"
     }
   ],
-  "serial": 43814849,
+  "serial": 43816322,
   "source_truncated": false,
-  "window": "2026-11-18T03:21:33.150363Z"
+  "window": "2026-11-18T04:19:50.44268Z"
 }

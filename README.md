@@ -8,48 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 03:21 UTC
+## Latest list — 2026-11-18 04:19 UTC
 
-New packages created between 2026-11-18 02:19 UTC and 2026-11-18 03:21 UTC.
+New packages created between 2026-11-18 03:21 UTC and 2026-11-18 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-18T03-21-33-150363Z.csv)
+[Full CSV](data/new-packages-2026-11-18T04-19-50-44268Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-18 02:25:33 | [sqling-mcp](https://pypi.org/project/sqling-mcp/) | 0.2.0 | Data Design Group, Inc. | 128.4 kB | Ask an AI assistant about an Oracle Forms and Reports application: an MCP serve… |
-| 2026-11-18 02:35:06 | [xyj-api](https://pypi.org/project/xyj-api/) | 0.0.4 | xyj-api Contributors | 58.2 kB | xyj-api Python SDK — 发票流水/上下游 + 报告：SHA1withRSA 签名、统一信封解析、响应验签（data）、3 端点与通用 req… |
-| 2026-11-18 02:35:14 | [toki-time](https://pypi.org/project/toki-time/) | 0.1.2 | TOKI contributors | 40.8 kB | TOKI (TIME), a minimal cross-platform command-line clock, alarm, and timer |
-| 2026-11-18 02:36:22 | [topoppi-affinity](https://pypi.org/project/topoppi-affinity/) | 3.0.0 |  | 7.2 MB | Affinity modelling using interface descriptors produced by the TopoPPI workflow |
-| 2026-11-18 02:37:11 | [wayward-eagle](https://pypi.org/project/wayward-eagle/) | 0.1.0 | Josh Bailey | 27.8 kB | Lower the cognitive complexity of C function bodies, keeping what they do |
-| 2026-11-18 02:39:15 | [issue-folder-sync](https://pypi.org/project/issue-folder-sync/) | 0.1.0 |  | 57.5 kB | Keep GitHub issues and a local folder in step, both ways: text, sub-issues, att… |
-| 2026-11-18 02:39:56 | [huaweicloud-mcp-core](https://pypi.org/project/huaweicloud-mcp-core/) | 1.3.0 |  | 26.6 kB | Shared core library for Huawei Cloud MCP servers (config, credentials, guardrai… |
-| 2026-11-18 02:41:06 | [neutron-transport-pinns](https://pypi.org/project/neutron-transport-pinns/) | 3.9.2 | Carlos Rafael Gonzalez Alejo… | 246.3 kB | Automated system for neutron transport simulations with parallel execution and… |
-| 2026-11-18 02:43:58 | [reposift](https://pypi.org/project/reposift/) | 0.1.0 | ghoste12125 <anonymosmauros@g… | 113.8 kB | Find and inspect GitHub repositories from the command line |
-| 2026-11-18 02:45:19 | [rulestamp-nencho-fuyo-csv-lint-r8](https://pypi.org/project/rulestamp-nencho-fuyo-csv-lint-r8/) | 1.0.3 | Rulestamp <support@getreadyst… | 39.4 kB | 扶養親族CSVを令和8年分の新要件62万円・74万円・特定親族特別控除で19ルール検査 (bundled Node.js runtime) |
-| 2026-11-18 02:45:38 | [rulestamp-swift6-concurrency-lint](https://pypi.org/project/rulestamp-swift6-concurrency-lint/) | 1.0.5 | Rulestamp <support@getreadyst… | 32.2 kB | 11 rules that name the .swift lines Swift 6 language mode rejects — 13 findings… |
-| 2026-11-18 02:45:46 | [rulestamp-mcp-config-guard](https://pypi.org/project/rulestamp-mcp-config-guard/) | 1.0.8 | Rulestamp <support@getreadyst… | 41.4 kB | Reads .mcp.json / .vscode/mcp.json / claude_desktop_config.json while you edit… |
-| 2026-11-18 02:46:05 | [rulestamp-myinvois-field-check](https://pypi.org/project/rulestamp-myinvois-field-check/) | 1.0.4 | Rulestamp <support@getreadyst… | 36.0 kB | Finds the fields IRBM rejects in a MyInvois JSON payload, on the line, before y… |
-| 2026-11-18 02:46:24 | [topoppi-hotspot](https://pypi.org/project/topoppi-hotspot/) | 3.0.0 |  | 6.8 MB | Residue feature extraction and selected-partner ranking for TopoPPI. |
-| 2026-11-18 02:47:47 | [auto-mas-whimbox-adapter](https://pypi.org/project/auto-mas-whimbox-adapter/) | 0.1.0 |  | 159.4 kB | Whimbox specialized script adapter for AUTO-MAS |
-| 2026-11-18 02:47:50 | [job-o-matic](https://pypi.org/project/job-o-matic/) | 1.1.0 | Jerry Reinitz | 1.6 MB | A local career database your AI uses to write resumes fast. MCP server + local… |
-| 2026-11-18 02:53:01 | [dabai](https://pypi.org/project/dabai/) | 1.0.0 | DaBai contributors | 14.9 MB | 少儿编程教学游戏引擎: 笛卡尔坐标系 + Scratch 风格 API + 安卓虚拟按键 (education-first 2D game engine on… |
-| 2026-11-18 02:53:07 | [hhc-openstd-mcp](https://pypi.org/project/hhc-openstd-mcp/) | 0.1.0 |  | 6.5 kB | MCP server for searching and downloading Chinese national standards (国家标准全文公开系统) |
-| 2026-11-18 02:56:20 | [pqproof](https://pypi.org/project/pqproof/) | 0.1.0 | g1mn | 823.0 kB | Offline check that a PQC migration is complete: the original and the converted… |
-| 2026-11-18 03:00:17 | [fylgja-infrahub](https://pypi.org/project/fylgja-infrahub/) | 1.0.0 |  | 68.6 kB | Fylgja's Infrahub reader: a branch of Infrahub read into a blueprint, or the fi… |
-| 2026-11-18 03:00:19 | [fylgja-core](https://pypi.org/project/fylgja-core/) | 1.0.0 |  | 315.9 kB | Fylgja's core: a blueprint becomes a twin. |
-| 2026-11-18 03:00:26 | [fylgja-netbox](https://pypi.org/project/fylgja-netbox/) | 1.0.0 |  | 55.6 kB | Fylgja's NetBox reader: a branch of NetBox read into a blueprint, or the findin… |
-| 2026-11-18 03:02:21 | [datadog-llm-d](https://pypi.org/project/datadog-llm-d/) | 0.0.1 |  | 766 B |  |
-| 2026-11-18 03:06:18 | [carnelian](https://pypi.org/project/carnelian/) | 0.1.0 |  | 118.8 kB | Sign-in for Python on the standard library alone: OpenID Connect, SAML 2.0, LDA… |
-| 2026-11-18 03:07:34 | [laya-weights-part-04](https://pypi.org/project/laya-weights-part-04/) | 0.1.0 | Aleeza Noor | 87.2 MB | Part 4 of laya's offline English weights. Install laya-weights instead of this. |
-| 2026-11-18 03:08:03 | [laya-weights-part-05](https://pypi.org/project/laya-weights-part-05/) | 0.1.0 | Aleeza Noor | 87.1 MB | Part 5 of laya's offline English weights. Install laya-weights instead of this. |
-| 2026-11-18 03:08:24 | [sinapsis_core](https://pypi.org/project/sinapsis_core/) | 1.0.0 | Ariel Ruiz-Garcia <ariel@sina… | 148.9 kB | sinapsis core agent and template implementation |
-| 2026-11-18 03:08:32 | [laya-weights-part-06](https://pypi.org/project/laya-weights-part-06/) | 0.1.0 | Aleeza Noor | 87.1 MB | Part 6 of laya's offline English weights. Install laya-weights instead of this. |
-| 2026-11-18 03:08:55 | [laya-weights-part-07](https://pypi.org/project/laya-weights-part-07/) | 0.1.0 | Aleeza Noor | 87.1 MB | Part 7 of laya's offline English weights. Install laya-weights instead of this. |
-| 2026-11-18 03:10:54 | [laravel-mcp-companion](https://pypi.org/project/laravel-mcp-companion/) | 0.15.1 | Brian Irish <irishb@gmail.com> | 14.6 MB | A Laravel developer's MCP companion. Get the absolute best advice, recommendati… |
-| 2026-11-18 03:11:34 | [datasuspy](https://pypi.org/project/datasuspy/) | 0.1.0 | André Leite | 3.2 MB | Fast reader for DATASUS .dbc/.dbf files, returning Apache Arrow tables |
-| 2026-11-18 03:12:22 | [apple-container-spyglass](https://pypi.org/project/apple-container-spyglass/) | 1.0 | Wolf Paulus <wolf@paulus.com> | 19.3 kB | A one-shot macOS CLI for keeping selected Apple Containers up to date. |
-| 2026-11-18 03:12:42 | [cairnpost](https://pypi.org/project/cairnpost/) | 0.1.0 | Michael Ramirez | 120.0 kB | The Python client for CairnPost, a self-hostable gateway for transactional emai… |
-| 2026-11-18 03:13:19 | [noteweaver](https://pypi.org/project/noteweaver/) | 0.1.0 |  | 214.4 kB | Lecture-linked notes with PDF reading, AI drafts, editing, and project persiste… |
-| 2026-11-18 03:14:15 | [centsible](https://pypi.org/project/centsible/) | 0.10.0 | Vi Nguyen | 176.2 kB | Repo memory and loop guard for AI coding agents, with savings reported as verif… |
-| 2026-11-18 03:16:43 | [satsgate-sdk](https://pypi.org/project/satsgate-sdk/) | 0.10.0 |  | 40.7 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
-| 2026-11-18 03:18:15 | [crosstrace](https://pypi.org/project/crosstrace/) | 0.1.0 | Mayank Kumar Singh | 200.5 kB | Find the failures your AI agent hides: replay real runs with byte-level provide… |
+| 2026-11-18 03:23:54 | [rsoslang](https://pypi.org/project/rsoslang/) | 0.3.0 | r-a-elu-architecture | 185.5 kB | RSOS State Runtime and Language: multi-agent workflows in 2 model calls instead… |
+| 2026-11-18 03:25:57 | [envxx](https://pypi.org/project/envxx/) | 1.0.7 |  | 132.4 kB | Portable multi-runtime manager for Python, Node.js and friends |
+| 2026-11-18 03:26:26 | [mcp-server-huaweicloud-gaussdb](https://pypi.org/project/mcp-server-huaweicloud-gaussdb/) | 0.8.1 |  | 329.0 kB | Huawei Cloud GaussDB management MCP Server |
+| 2026-11-18 03:28:48 | [medical-privacy-guard](https://pypi.org/project/medical-privacy-guard/) | 0.6.0 | mokuyoaxis | 452.0 kB | Local-first privacy guardrails for medical data before it crosses a trust bound… |
+| 2026-11-18 03:31:06 | [dev-terminal-app](https://pypi.org/project/dev-terminal-app/) | 0.1.0 |  | 24.8 kB | An AI-Native Developer CLI |
+| 2026-11-18 03:31:48 | [satsgate-proxy](https://pypi.org/project/satsgate-proxy/) | 0.14.1 |  | 76.1 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
+| 2026-11-18 03:33:44 | [signet-lang](https://pypi.org/project/signet-lang/) | 26.0b70 | Daniel Desai | 236.4 kB | Signet: a coordination language that wires modules in any language together wit… |
+| 2026-11-18 03:42:06 | [esp-iot-ci](https://pypi.org/project/esp-iot-ci/) | 0.0.1 | laride | 75.0 kB | Project-oriented ESP-IDF CI planning, analysis and execution |
+| 2026-11-18 03:44:11 | [earful](https://pypi.org/project/earful/) | 0.1.0 |  | 589.2 kB | Deterministic regression tests for real-time voice agents |
+| 2026-11-18 03:44:23 | [lifeline-recovery](https://pypi.org/project/lifeline-recovery/) | 2.0.1 | Ojas Gupta | 291.1 kB | Get deleted files back: a guided recovery app and CLI for Windows, macOS and Li… |
+| 2026-11-18 03:48:06 | [agent-audit-memory](https://pypi.org/project/agent-audit-memory/) | 0.2.0rc1 | agent-memory-ledger maintaine… | 47.5 kB | A verifiable memory layer for AI agents (research prototype). |
+| 2026-11-18 03:48:11 | [opensr-sr1m](https://pypi.org/project/opensr-sr1m/) | 0.1.1 | Eavheang | 19.5 kB | Sentinel-2 10 m to 1 m RGB super-resolution for points and dates |
+| 2026-11-18 03:48:23 | [yimo-kit](https://pypi.org/project/yimo-kit/) | 0.1.0 | 溢墨修心（Yimo） <changhongyuan@126… | 682.4 kB | Yimo Kit——统一数据库访问层（PG/MySQL/SQLite）与 AI/Redis/文件/文档/向量工具集 |
+| 2026-11-18 03:49:03 | [smart-study-planner](https://pypi.org/project/smart-study-planner/) | 0.5.0 |  | 83.6 kB | Priority-aware study scheduling balanced across dates and daily time windows |
+| 2026-11-18 03:49:28 | [zhangsan2026-mcp-demo](https://pypi.org/project/zhangsan2026-mcp-demo/) | 0.1.0 | shaoxia2019 | 3.3 kB | Add your description here |
+| 2026-11-18 03:49:35 | [zc-2026-mcp-demo](https://pypi.org/project/zc-2026-mcp-demo/) | 0.1.0 | zhaoc | 3.5 kB | Add your description here |
+| 2026-11-18 03:49:38 | [cc-mcp-demo](https://pypi.org/project/cc-mcp-demo/) | 0.1.0 |  | 3.6 kB | Add your description here |
+| 2026-11-18 03:49:42 | [zhangying2026-mcp-demo](https://pypi.org/project/zhangying2026-mcp-demo/) | 0.1.0 | zy | 3.6 kB | Add your description here |
+| 2026-11-18 03:49:46 | [vcti-usd-schema-model-catalog](https://pypi.org/project/vcti-usd-schema-model-catalog/) | 0.2.0 | Visual Collaboration Technolo… | 84.4 kB | Codeless OpenUSD schema for the catalog of a VCollab model, the trees and lists… |
+| 2026-11-18 03:51:50 | [studymaster](https://pypi.org/project/studymaster/) | 0.1.0 | StudyMaster Team | 11.3 kB | Academic productivity toolkit for students |
+| 2026-11-18 03:53:20 | [topomark](https://pypi.org/project/topomark/) | 0.4.0 | "Li, ching yu" <tipo5890Li@gm… | 435.9 kB | A zero-dependency code map for AI coding agents: progressive-disclosure docs, p… |
+| 2026-11-18 03:53:58 | [codex-usage-limits](https://pypi.org/project/codex-usage-limits/) | 0.1.0 | codex-usage contributors | 37.4 kB | CLI for Codex plan usage and rate limits, with session-log fallback and warning… |
+| 2026-11-18 03:55:56 | [satsgate-mcp](https://pypi.org/project/satsgate-mcp/) | 0.13.0 |  | 105.1 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
+| 2026-11-18 03:56:22 | [pyhj212](https://pypi.org/project/pyhj212/) | 0.1.0 | tinychen <weinanmay@gmail.com> | 26.5 kB | A Python library for HJ212 protocol encoding, decoding, validation, and communi… |
+| 2026-11-18 04:00:47 | [waveweave](https://pypi.org/project/waveweave/) | 0.1.0 |  | 8.3 kB | Local and remote matrix computation examples |
+| 2026-11-18 04:02:35 | [pebblous-dataclinic-gw-databricks](https://pypi.org/project/pebblous-dataclinic-gw-databricks/) | 0.1.0 | Pebblous <dev@pebblous.ai> | 48.7 kB | Run Pebblous DataClinic image-data quality analysis from a Databricks notebook… |
+| 2026-11-18 04:03:04 | [loxia](https://pypi.org/project/loxia/) | 1.1.0 | Cassio Dalla | 841.6 kB | Loxia: a small, statically checked language descended from Lox, with a tree-wal… |
+| 2026-11-18 04:06:18 | [llm-agent-budget](https://pypi.org/project/llm-agent-budget/) | 0.1.3 | Matthew Charles Busel <mattbu… | 82.2 kB | Hard USD budgets for agents that delegate: reserve/settle child scopes for para… |
+| 2026-11-18 04:07:52 | [satsgate](https://pypi.org/project/satsgate/) | 0.1.1 |  | 53.7 kB | Charge AI agents in Lightning and USDC on the same 402. 500 free unlocks per UT… |
+| 2026-11-18 04:10:30 | [pyrake-survey](https://pypi.org/project/pyrake-survey/) | 0.2.0 | Bob Wilson <bob.wilson@convex… | 264.3 kB | Survey calibration and balancing weights, with estimators for means and treatme… |
+| 2026-11-18 04:12:24 | [langchain-agent-budget](https://pypi.org/project/langchain-agent-budget/) | 0.1.0 | Matthew Busel | 24.0 kB | Hard dollar budgets for LangChain agents: reserve each model call's worst-case… |
+| 2026-11-18 04:14:16 | [progressor-mcp](https://pypi.org/project/progressor-mcp/) | 1.4.0 | Rachit Asthana | 10.2 MB | Your AI's plan, saved in your project and shown live on a dashboard: an MCP ser… |
+| 2026-11-18 04:14:57 | [xtick-skill](https://pypi.org/project/xtick-skill/) | 0.1.4 |  | 123.1 kB | XTick提供完整的金融市场数据解决方案，通过HTTP API接口获取实时行情数据，具有高效稳定的特点。 |
+| 2026-11-18 04:18:10 | [testledger](https://pypi.org/project/testledger/) | 0.1.0 | Suresh Babu <sureshbabu.santh… | 78.7 kB | Test Estate Balance Sheet: turn CI results and git history into per-test P&L an… |
+| 2026-11-18 04:19:11 | [mcpguard-adk](https://pypi.org/project/mcpguard-adk/) | 0.3.1 | MCPGuard-ADK Contributors | 178.2 kB | Multi-agent MCP supply-chain, >200K token cost-cliff, and tool-trajectory audit… |
