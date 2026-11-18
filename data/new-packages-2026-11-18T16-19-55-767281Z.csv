@@ -1,0 +1,68 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T15:19:56Z,shopware-admin-scaffold,0.1.0a1,"""Henrik D."" <henrik.brokkoli@mailbox.org>",MIT,69410,Generate typed Shopware Admin API models and contexts
+2026-11-18T15:21:24Z,pensunet,0.1.1,Laura Isabel Nieto Parroyo,MIT,209608,Simulador de la red de prerrequisitos de los pensum FCMN.
+2026-11-18T15:23:04Z,pdfzi,0.1.0,pdfzi contributors,MIT,241392,"Local-only PDF toolkit with a red-themed TUI and a scriptable CLI: compress, merge, split, and more."
+2026-11-18T15:23:39Z,motrixsim-gpu,1.0.0a2,Motphys <developers@motphys.com>,Apache-2.0,543286077,MotrixSim GPU is a GPU-accelerated multibody physics simulation package built on NVIDIA Warp
+2026-11-18T15:26:02Z,trimrig,0.1.0,Nyvix,LicenseRef-Proprietary,38103,"The Trimrig command line: workstreams, Blueprints, runs and shipping, from your terminal or CI."
+2026-11-18T15:33:55Z,satuasummarization,0.1.1,I Made Satria Bimantara,BSD-3-Clause,170989,Balinese extractive summarisation with metaheuristic-optimised sentence feature weights
+2026-11-18T15:34:07Z,typo-guard,0.2.1,"Chun Wan CHENG, Sharlene Sum Yin HUI, Ka Hei KAN, Cheuk Hang TSE, Man Yee TSENG, Sze Ying WONG",MIT,2320963,A Python package from my GitHub repository
+2026-11-18T15:34:39Z,agenttrust-kye,1.0.0,Edmund Hu <edmundhu@helloyunivia.com>,MIT,64972,"AgentTrust KYE — Runtime Canary Uptime, Anti-Rug-Pull & x402 Firewall Oracle for MCP Servers and AI Agent APIs"
+2026-11-18T15:37:37Z,hvac-network-scanner,2.14.1,James Cupps,MIT,637141,"Multi-protocol HVAC / building automation network scanner (BACnet/IP, MSTP, Modbus TCP, Niagara Fox, OPC UA, SNMP, and more)"
+2026-11-18T15:38:30Z,pingerplot,1.6.0,James Cupps,MIT,628073,"A continuous-traceroute network path monitor (MTR-style) with a Tkinter GUI: per-hop latency, loss, jitter and MOS over time."
+2026-11-18T15:39:16Z,dwabi,0.1.1.post2,,MIT,55071,Walk-forward quantile ensembles of user-supplied forecasters
+2026-11-18T15:40:24Z,sigmund-mcp-relay,0.1.0,Sebastiaan Mathôt,COPYING,181171,Lets local MCP servers connect to a cloud MCP client (e.g. LibreChat)
+2026-11-18T15:41:19Z,protonpass,0.0.1,,,665,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-18T15:41:20Z,protonpass-sdk,0.0.1,,,672,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-18T15:41:22Z,protonpass-python,0.0.1,,,675,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-18T15:41:23Z,python-protonpass,0.0.1,,,675,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-18T15:42:15Z,triplify,0.1.0,Jacobus Geluk <jacobus.geluk@ekgf.org>,MIT,41686899,"Turn any tabular data dump (CSV, XLSX, Parquet, ...) into raw RDF with the EKGF Raw Data Ontology, without mapping"
+2026-11-18T15:42:43Z,cutienator,0.0.1.dev0,Asger Jon Vistisen <asgerjon2@gmail.com>,Apache-2.0,185484,A vastly superior binding of Qt C++ to Python
+2026-11-18T15:43:12Z,openbooks-core,0.1.0,,Apache-2.0,62274,"Open Books core: the openbooks.v1 contract, Decimal normalisation, balance gates and the layout registry"
+2026-11-18T15:43:48Z,openbooks-gateways,0.1.0,,Apache-2.0,16410,"Open Books providers for payment gateway exports: Stripe, Razorpay, PayPal, Wise"
+2026-11-18T15:43:52Z,johpaz-hive-sdk-rust,0.1.0,,MIT,83597031,Hive agent SDK powered by Rust (development preview)
+2026-11-18T15:43:54Z,openbooks-statements,0.1.0,,Apache-2.0,36398572,"Open Books providers for bank statements: bank CSV, OFX, MT940, PDF and scans (OCR), optional typed-head cross-check"
+2026-11-18T15:44:04Z,agentygg,0.7.23,,MIT,173964,"Connect an agent (Claude Code or any harness) to an Agent'Ygg workspace: the wake relay, an MCP server and the protocol skill."
+2026-11-18T15:46:19Z,karpoland-sdk,1.0.1,MachinePulse,Apache-2.0,212163,"Official Python SDK for Karpo Land mini apps: the app framework, the platform client, manifests and a test kit."
+2026-11-18T15:46:51Z,pytspredit,0.1.0,Eduardo Ogasawara <eogasawara@ieee.org>,MIT,47444,Time series prediction with tunable preprocessing (Python port of the R tspredit framework)
+2026-11-18T15:47:46Z,openbooks-tax,0.1.0,,Apache-2.0,18206,"Open Books providers for tax and ledger documents: Form 26AS, AIS, FIRA, Form 1099-B, trial balance"
+2026-11-18T15:47:48Z,openbooks-doctor,0.1.0,,Apache-2.0,23675,"Open Books doctor: checks an installation, its providers and model assets, and runs a built-in proven-or-refused self-test"
+2026-11-18T15:48:30Z,openbooks,0.1.0,,Apache-2.0,14055,"Open Books: financial documents in, one proven JSON per file out (or a typed refusal). Meta package."
+2026-11-18T15:52:36Z,vulnhound,0.1.0,,MIT,172308,"Token-thrifty vulnerability finder for Python projects: finds, proves, fixes."
+2026-11-18T15:52:43Z,unienv-rlbench,0.0.1a1,,Apache-2.0,33599,"RLBench tasks as UniEnv environments, with space metadata"
+2026-11-18T15:52:46Z,unienv-libero,0.0.1a1,,Apache-2.0,36811,LIBERO for UniEnv: the demonstration datasets and the simulated tasks in one observation layout
+2026-11-18T15:53:25Z,moselpy-core,10.0.0,,LicenseRef-FICO-Shrinkwrap-License,2215587,Python bindings for FICO Xpress Mosel
+2026-11-18T15:55:36Z,drcurves,0.1.0,Ryan O'Sullivan,MIT,96319,"Doubly robust, partially pooled dose-response curves for continuous treatments"
+2026-11-18T15:56:29Z,ofempy,0.1.0,Myromax,MIT,186964,Python port of the oFEM finite element package
+2026-11-18T15:56:35Z,lightsolc,0.0.1,Jacky <jacky@gmail.com>,MIT,94402166,package
+2026-11-18T15:59:43Z,lightsolb,0.0.1,Jacky <jacky@gmail.com>,MIT,94401802,package
+2026-11-18T16:00:04Z,google-ai-mode-py,1.0.0,,MIT,123554,"Request-based Python client, FastAPI server, and animated terminal UI for Google AI Mode"
+2026-11-18T16:00:13Z,nd-prepare,0.9.0,Alberto P <alberto743@tutamail.com>,MPL-2.0,126317,Download and repackage external nuclear data libraries into nd_manager's local-repository format
+2026-11-18T16:00:47Z,phiward,0.2.0b1,Ronak Shah,AGPL-3.0-only,1009012,Guards that keep protected data out of what an AI coding agent (Claude Code) sends to its model provider
+2026-11-18T16:01:03Z,open-machine,0.1.0,,MIT,3040,Alias package for open-terminal
+2026-11-18T16:02:45Z,sipl-interpreter,0.2.0,,,45498,SIPL interpreter
+2026-11-18T16:04:51Z,armadura-2d-andresdperezc,0.1.0,Andrés David Pérez Criollo <adperezc@udistrital.edu.co>,MIT,46353,"Analizador de armaduras 2D isostáticas: fuerzas internas, reacciones, tensión/compresión y gráficos."
+2026-11-18T16:04:59Z,drawland,0.2.0,,AGPL-3.0-only,41809951,"OpenStreetMap drawn as layered pen-plotter SVGs, styled by a short JavaScript profile"
+2026-11-18T16:05:27Z,auryn-compose,0.8.2,Roi Lipman <roi.lipman@falkordb.com>,MIT,13671,"Docker Compose plugin for Auryn (deployment & infrastructure tier, ADR 0007). Parses docker-compose files into Service nodes (RUNS_IMAGE the shared Image hub, DEPENDS_ON other services). A `deploy-co…"
+2026-11-18T16:05:36Z,auryn-docker,0.8.2,Roi Lipman <roi.lipman@falkordb.com>,MIT,19408,"Dockerfile plugin for Auryn and the first producer of the deployment & infrastructure tier (ADR 0007). A dependency-free Dockerfile parser emits BuildStage nodes, the shared image-keyed `Image` hub (…"
+2026-11-18T16:06:06Z,passkit-proteus,0.0.1,,GPL-3.0-or-later,1811,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-18T16:06:13Z,passkit-themis,0.0.1,,GPL-3.0-or-later,1801,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-18T16:06:20Z,passkit-pygmalion,0.0.1,,GPL-3.0-or-later,1838,"Name reservation for passkit, a speech research toolkit. This release contains no code."
+2026-11-18T16:07:03Z,samdei-type,0.1.0,The Samdei Type Authors,Apache-2.0,57865,Samdei Type: convert romanized Khmer (Latin chat spelling) to Khmer script
+2026-11-18T16:08:24Z,lumic,0.1.0rc1,Lumic contributors,MIT,172217,Spectral unmixing tools for fluorescence microscopy
+2026-11-18T16:09:14Z,loupmd,0.0.1,Fabian Zwingel,MIT AND BSD-3-Clause AND LGPL-2.1-or-later,11306507,Molecular dynamics with MACE potentials on a C++/CUDA engine
+2026-11-18T16:09:19Z,litho-orm,0.0.1b1,Amrit,UNLICENTISED - NOT FOR DISTRIBUTION YET,56657,"A small, fast ORM for SQLite, libSQL and Turso with local-first sync."
+2026-11-18T16:11:56Z,dify-kb-port,0.1.0,,MIT,83010,"Export, import and verify Dify knowledge bases chunk-for-chunk using only the public Knowledge API"
+2026-11-18T16:12:00Z,test-example-cfl,0.1.0,,,2421,一句话说明这个包的用途
+2026-11-18T16:13:08Z,tkinter-devtools,0.0.1b0,Chris Del <chrisdel.tech9@email.com>,MIT,107860,Your Tkinter devtools package
+2026-11-18T16:13:16Z,prefcheck,0.1.1,LeeGyeongPil,MIT,96878,"Lint DPO/ORPO preference datasets with your trainer's tokenizer and truncation settings, before you spend GPU hours."
+2026-11-18T16:14:08Z,egfr40,0.0.1a1,Leonid Shpaner <lshpaner@ucla.edu>,MIT,18815,"CKD-PC risk equation for a >=40% eGFR decline or kidney failure over 2-3 years (Grams et al., Diabetes Care 2022)"
+2026-11-18T16:14:10Z,revsec-sdk,0.3.0,"""RevSec / RevUp AI, Inc."" <hello@revupai.com>",LicenseRef-Proprietary,46752,RevSec governance SDK — check your agent's tool calls before they run and record what happened.
+2026-11-18T16:14:18Z,kube-llm-lint,0.2.0,LeeGyeongPil,MIT,438123,"Offline linter that cross-checks vLLM, SGLang and TGI server arguments against the Kubernetes pod spec (GPU count, /dev/shm, probe budget, HF cache, token)."
+2026-11-18T16:14:21Z,enrichednow,0.1.0,EnrichedNow,MIT,58305,The official Python library for the EnrichedNow API
+2026-11-18T16:14:33Z,auryn-k8s,0.8.2,Roi Lipman <roi.lipman@falkordb.com>,MIT,14931,"Kubernetes-manifest plugin for Auryn (deployment & infrastructure tier, ADR 0007). Parses k8s manifests into Service (workload) nodes that RUNS_IMAGE the shared Image hub, and Ingress route nodes. A…"
+2026-11-18T16:17:36Z,ssw-aligner-na,1.0.0,"NaturalAntibody, scikit-bio development team, Boston College (SSW C library)",BSD-3-Clause AND MIT,2878320,Standalone StripedSmithWaterman (SSW) aligner extracted from scikit-bio
+2026-11-18T16:18:22Z,aws_sdk_xray,0.0.0,,Apache-2.0,1927,Placeholder reserving the aws_sdk_xray name. Not yet functional.
+2026-11-18T16:18:26Z,shared-pre-deployment,0.1.0,Film Review Platform Engineering <dev@example.com>,MIT,65632,A modular pre-deployment verification gate and orchestration runner for services.
+2026-11-18T16:19:15Z,odoo-addon-payment-cielo,16.0.1.0.0.5,"KMEE INFORMATICA LTDA,Odoo Community Association (OCA)",AGPL-3,78804,Payment Provider: Cielo Implementation
+2026-11-18T16:19:23Z,aws_sdk_kinesis_video_media,0.0.0,,Apache-2.0,2089,Placeholder reserving the aws_sdk_kinesis_video_media name. Not yet functional.
+2026-11-18T16:19:54Z,aws_sdk_verifiedpermissions,0.0.0,,Apache-2.0,2078,Placeholder reserving the aws_sdk_verifiedpermissions name. Not yet functional.
