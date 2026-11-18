@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T11:16:34Z,ensembl-vep,0.1.1a1,Ensembl <dev@ensembl.org>,Apache-2.0,33937190,Ensembl VEP (Variant Effect Predictor) predicts the functional effects of genomic variants.
+2026-11-18T11:19:52Z,huaweicloud-mcp-core,1.0.0,,MIT,18346,"Shared core library for Huawei Cloud MCP servers (config, credentials, guardrails, output)"
+2026-11-18T11:20:59Z,dust-sctoolbox,0.0.1,,MIT,45787,DUST stability and control analysis tools
+2026-11-18T11:21:17Z,browser-relay,0.1.10,,,33843,Development relay between Playwright and a WXT Chrome extension
+2026-11-18T11:23:14Z,kllm-gateway,0.3.0,SANTHAN-KUMAR,"MIT License Copyright (c) 2026 SANTHAN-KUMAR Permission is hereby granted, free of charge, to any p…",7989322,"Open-weight LLMs on free Kaggle GPUs, served as a local OpenAI/Anthropic API for coding agents"
+2026-11-18T11:23:44Z,outerlimit-governance-langchain,0.0.0rc3,Outerlimit,Apache-2.0,11838,Outerlimit agent governance for LangChain. Placeholder.
+2026-11-18T11:23:53Z,morphogen,1.0.0,Justin Dirrenberger,GPL-3.0-or-later,11797882,Morphological modelling and generation of virtual microstructures for RVE studies
+2026-11-18T11:24:32Z,dataapp-crawler-browser,0.1.0,,,19898,DataApp browser providers for DataApp Crawler
+2026-11-18T11:24:35Z,minimindslab-record-key-scan,0.1.0,MiniMindsLab,MIT,8089,"Scan a records object for missing or extra keys relative to an expected field set, returning deterministic per-record findings and key coverage counts."
+2026-11-18T11:24:49Z,pengcut-models-1,0.1.0,,CC-BY-4.0,18738038,"Free low-poly 3D models (GLB, CC BY 4.0) for Pengcut clips, part 1: install only the part tools/models.mjs of pengcut-kit names."
+2026-11-18T11:25:02Z,pengcut-models-2,0.1.0,,CC-BY-4.0,17928731,"Free low-poly 3D models (GLB, CC BY 4.0) for Pengcut clips, part 2: install only the part tools/models.mjs of pengcut-kit names."
+2026-11-18T11:25:17Z,pengcut-models-3,0.1.0,,CC-BY-4.0,19894018,"Free low-poly 3D models (GLB, CC BY 4.0) for Pengcut clips, part 3: install only the part tools/models.mjs of pengcut-kit names."
+2026-11-18T11:25:32Z,pengcut-models-4,0.1.0,,CC-BY-4.0,21167038,"Free low-poly 3D models (GLB, CC BY 4.0) for Pengcut clips, part 4: install only the part tools/models.mjs of pengcut-kit names."
+2026-11-18T11:26:21Z,grm-cli,0.1.0,Evan Dempsey,,95269,"The command line for Generational Run Machine (GRM): upload, wait, review and export from a terminal or a script."
+2026-11-18T11:27:04Z,pulumi-delivery,0.1.0a1795002903,,Apache-2.0,83901,"Define Delivery pipelines, stages, jobs and sources in a Pulumi program."
+2026-11-18T11:27:28Z,telegram-channels-cleaner,1.2.0,,MIT,923567,"Tinder-like cleanup of your Telegram channel subscriptions, running locally"
+2026-11-18T11:27:42Z,zeru-z402,0.1.0,Zeru AI,Apache-2.0,33760,"Before an x402 agent pays a wallet, ask zScreen: PAY or DON'T PAY. Buyer and seller guards for x402."
+2026-11-18T11:28:44Z,strop-cli,0.1.1,Baran Yalcin,MIT,288064,Command-line tool that improves LLM prompts by testing them against your own data.
+2026-11-18T11:29:01Z,tollhouse,0.0.1,Sigrix,Apache-2.0,38976,"Check an MCP server's tools before you install or publish it. This first release reads a tools/list answer for prompt-injection phrases, string by string, the way a model reads it."
+2026-11-18T11:30:17Z,omicslog,0.1.0,Stefano Mangiola,BSD-3-Clause,19263,AnnData subclass that automatically logs mutations to .uns['_omicslog']
+2026-11-18T11:30:29Z,nvidia-bcm-nico-sdk,0.0.0a0,NVIDIA,,1062,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-18T11:30:31Z,agentpostmortem-bench,0.1.0,Royal Simpson Pinto <work@royalpinto007.com>,Apache-2.0,241422,Find out how your AI agent fails before your customers do. Open reliability benchmark and fault-injection runner for AI agents.
+2026-11-18T11:31:07Z,modelvend,0.1.0,Modelvend,MIT,11580,Modelvend's SDK. This first release verifies webhook signatures (Standard Webhooks).
+2026-11-18T11:32:37Z,fovea-synthdata,0.1.0,Fovea Lab,Apache-2.0,816923,"Generate reproducible microscopy datasets with images, instance labels and quantitative ground truth."
+2026-11-18T11:35:47Z,saesV2,0.2.0,SAES Team,,538769,Stochastic Algorithm Evaluation Suite - Scientific Python library for statistical benchmarking
+2026-11-18T11:38:44Z,vizdom,0.2.1,Nguyen Huynh Tri Cuong,MIT,613752,Visual DOM Generator and Robot Framework GUI Automation Library
+2026-11-18T11:45:39Z,forktex-fsd,1.0.0,FORKTEX,AGPL-3.0-or-later OR LicenseRef-ForkTex-Commercial,265022,"A general-purpose software compliance standard: technology-agnostic atoms in tracks, bound per repository in fsd.toml, checked and run by one small tool."
+2026-11-18T11:46:31Z,verifypr,0.0.1,Lysarq Solutions,MIT,2546,"Check that an AI agent's PR changed only what was asked, what behavior changed, and what to verify before approving."
+2026-11-18T11:48:03Z,doc8-inline-markup,2026.11.18.3,Adam Dangoor <adamdangoor@gmail.com>,MIT,15216,A doc8 plugin for inline literals inside reStructuredText emphasis.
+2026-11-18T11:53:38Z,lupaxa-dead-drop,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",845675,"Offline laboratory for concealing, encrypting, distributing, analysing, and recovering data in ordinary carrier files, including a carrier-backed encrypted filesystem."
+2026-11-18T11:54:07Z,aws-arch-agent,0.3.1,Mathias Gutehall,MIT,2029902,"Local-first AWS Well-Architected review for CDK, CloudFormation, and Terraform code."
+2026-11-18T11:55:08Z,DushuoServer,0.1.0,Eilles <W-YI_DoctorYI@outlook.com>,,54904,度朔系统之服务端，提供度朔中心调度功能
+2026-11-18T11:55:15Z,jsql-neo,6.7.7,vexify,Apache-2.0,26952,Python client and CLI for JSQL-NEO (Node.js backend)
+2026-11-18T11:59:43Z,crontinel,0.2.1,Harun R Rayhan,MIT,28554,Crontinel monitoring SDK for Python applications
+2026-11-18T12:00:49Z,agentconfig-audit-lite,0.1.0,Alessio Auretto,MIT,22323,Audit MCP config for secrets: plaintext tokens and unpinned npx/uvx servers in .mcp.json and CLAUDE.md.
+2026-11-18T12:04:54Z,innernet,0.1.0,innernet,MIT,38179,python client for innernet: memory for the agents you keep. no dependencies.
+2026-11-18T12:06:53Z,timecs,2.0.0,,MIT,941554,"Deterministic AST Security Scanner, Proof Graph Engine & Automated Remediation Framework"
+2026-11-18T12:07:23Z,eet-client,0.1.0,furstma,MIT,55328,Unofficial Python client for the Czech EET 2.0 sales registration service
+2026-11-18T12:09:58Z,scidatasim,0.7.0rc2,Daniel Sandner,Apache-2.0,635958,"Reproducible, provenance-first generation of simulated scientific reference data."
+2026-11-18T12:11:21Z,odoo-addon-purchase-order-accrual-accounting-date,18.0.1.0.0.2,"Moduon, Odoo Community Association (OCA)",LGPL-3,32043,Use the bill accounting date when computing purchase accruals
+2026-11-18T12:13:07Z,emberlens-sdk,0.2.0,,BSD-3-Clause,46182,"Open Emberlens exports (COCO, YOLO, Pascal VOC) and use them for training."
+2026-11-18T12:13:47Z,scidatasim-ui,0.7.0rc2,Daniel Sandner,Apache-2.0,28674,"Streamlit UI for Scientific Data Simulator: examples, runs, results, installation check"
+2026-11-18T12:14:00Z,pulumi-labs-openai,0.1.0,,Apache-2.0,64674,A Pulumi provider for managing resources in OpenAI.
+2026-11-18T12:15:49Z,tencentdb-agent-memory-sdk-python-v2,1.0.1b1,TencentDB Agent Memory Team,MIT,82514,Python SDK for TencentDB Agent Memory v2/v3 API (incl. /v3/skill/*)
