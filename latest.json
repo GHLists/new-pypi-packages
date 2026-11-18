@@ -1,41 +1,41 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-11-18T04:19:50.44268Z",
-    "path": "data/new-packages-2026-11-18T05-20-00-715706Z.csv",
-    "to": "2026-11-18T05:20:00.715706Z"
+    "count": 27,
+    "from": "2026-11-18T05:20:00.715706Z",
+    "path": "data/new-packages-2026-11-18T06-22-05-829336Z.csv",
+    "to": "2026-11-18T06:22:05.829336Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T04:31:05Z",
       "package": "inworld-sava",
       "since": "2026-11-18T04:19:50.44268Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-18T04:31:14Z",
       "package": "inworld-voice-isolation",
       "since": "2026-11-18T04:19:50.44268Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-18T06:14:44Z",
+      "package": "livekit-plugins-vlmrun",
+      "since": "2026-11-18T05:20:00.715706Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-18T02:23:41Z",
       "package": "toki-time-companion",
       "since": "2026-11-18T02:19:03.492327Z",
       "version": "0.1.1"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-18T05:19:59Z",
-      "package": "unpdf-tool",
-      "since": "2026-11-18T04:19:50.44268Z",
-      "version": null
     }
   ],
-  "serial": 43818005,
+  "serial": 43819410,
   "source_truncated": false,
-  "window": "2026-11-18T05:20:00.715706Z"
+  "window": "2026-11-18T06:22:05.829336Z"
 }

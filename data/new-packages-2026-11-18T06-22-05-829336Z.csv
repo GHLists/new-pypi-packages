@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T05:19:59Z,unpdf-tool,1.0.0,Mohammed,"Copyright (c) 2026 Mohammed. All rights reserved. unpdf is proprietary software. You may not copy,…",468943,Read PDFs into a SQLite database using profiles drawn in a local browser editor.
+2026-11-18T05:25:34Z,hanconv-cli,0.6.0,fhluo <20843637+fhluo@users.noreply.github.com>,MIT,6183991,Convert between Chinese character variants.
+2026-11-18T05:26:40Z,yifan-mcp-demo,0.1.0,,,3320,Add your description here
+2026-11-18T05:27:08Z,crosswire,0.4.0,The crosswire authors,Apache-2.0,182487,Detect semantic conflicts between parallel Git branches before they are merged
+2026-11-18T05:27:23Z,corpus-kb,0.1.0,Michael Oliver <63178353+moliver28@users.noreply.github.com>,MIT,6128945,Local end-to-end RAG system with MCP interface for agentic code editors
+2026-11-18T05:28:10Z,a2a-robots,0.1.1,HYBRO AI <info@hybro.ai>,Apache-2.0,127476,Expose robots as A2A agents with task-level skills and adapter-enforced safety limits
+2026-11-18T05:32:11Z,ifc2xml-ply,0.1.0,,MIT,1730211,Convert IFC building models to Sionna-native Mitsuba XML and PLY meshes
+2026-11-18T05:32:37Z,sufficiency-engine,1.0.0,S MUNI HARISH,Apache-2.0,1118592,Provider-independent task readiness assessment for Python applications.
+2026-11-18T05:38:15Z,AlchemyReflection,0.1.2,MI77-LAB,MIT,17345,"An object-oriented interface for SQLAlchemy, designed for database reflection, query execution, and result retrieval, built around method chaining and native interoperability."
+2026-11-18T05:39:47Z,htmlexport,0.1.0,Sunil Shrimali,MIT,66057,"Convert HTML to Word (.docx), Excel (.xlsx) and PDF with one consistent API."
+2026-11-18T05:39:58Z,mobius-shell,0.1.0,José Joabio Bezerra Paiva <astralintelligencesoftwareengine@gmail.com>,,275277,Secure Enterprise 5D Vector Database Engine with Perimeter Defense and AES-GCM Encryption
+2026-11-18T05:42:51Z,a2a-robots-lerobot,0.1.1,HYBRO AI <info@hybro.ai>,Apache-2.0,198423,Hugging Face LeRobot backend for a2a-robots
+2026-11-18T05:45:21Z,eval-uate-me,1.0.0,,"MIT License Copyright (c) 2026 Chuanhui-Zheng Permission is hereby granted, free of charge, to any…",256456,"A small, plugin-based eval harness"
+2026-11-18T05:45:37Z,openai-agents-maritime,0.1.0,Maritime <contact@maritime.sh>,MIT,31499,Maritime sandboxes for the OpenAI Agents SDK: give every agent its own cloud computer.
+2026-11-18T05:45:44Z,langchain-maritime,0.1.0,Maritime <contact@maritime.sh>,MIT,25844,Maritime sandboxes for Deep Agents: run every tool on a real cloud computer.
+2026-11-18T05:46:00Z,counterstrat-demoparser,0.1.0,,,86170706,
+2026-11-18T05:46:40Z,gptc-hubble-sdk,0.10.0,"""GPT::C0MPUTΞR"" <info@khulnasoft.com>",Apache 2.0,122509,SDK for Hubble API at GPT::C0MPUTΞR.
+2026-11-18T05:49:48Z,a2a-robots-pollen,0.1.1,HYBRO AI <info@hybro.ai>,Apache-2.0,111905,Pollen Robotics Reachy 2 backend for a2a-robots
+2026-11-18T05:52:36Z,crashtape,0.0.1,,,1548,Placeholder for the Crashtape runner. Not yet released.
+2026-11-18T05:55:00Z,a2a-robots-ros2,0.1.1,HYBRO AI <info@hybro.ai>,Apache-2.0,101842,"An allowlisted ROS 2 bridge over A2A, for robot bring-up and debugging"
+2026-11-18T06:01:33Z,a2a-robots-sharpa,0.1.1,HYBRO AI <info@hybro.ai>,Apache-2.0,126496,"Sharpa Wave hands for a2a-robots, simulated in MuJoCo"
+2026-11-18T06:09:39Z,streamlit-a2ui,0.1.0rc1,jose chu <jose.chu.dev@gmail.com>,Apache-2.0,551344,Render A2UI 1.0 agent-generated user interfaces inside Streamlit apps
+2026-11-18T06:11:29Z,multimodal-preprocess-kit,0.2.0,multimodal-preprocess-kit contributors,MIT,25185,"A framework-agnostic policy kit for chatbot multimodal preprocessing: caption retry, pending-message deferral, caption-mode selection, caption quality checks, and safe fallback."
+2026-11-18T06:11:37Z,agent-memory-hygiene,0.1.0,agent-memory-hygiene contributors,MIT,21904,"Pure-policy write-time hygiene for agent memory: what to store, what to drop, and whose fact it is."
+2026-11-18T06:14:06Z,memoryintelligence-mcp,0.2.15,,Proprietary,3974,RETIRED. This package is no longer maintained and installs nothing that works. Use the MemoryIntelligence desktop app's MCP or the claude.ai connector.
+2026-11-18T06:16:10Z,uledocd,1.0.0b4,Stephen Jonke <sjonke@gmail.com>,GPL-3.0,193502,Cross-platform GUI and CLI for the Comet Pinball LED OCD board for pinball machines
+2026-11-18T06:20:29Z,netinfra-network-telemetry-au-ms4x7,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5755,Technical network verification and high-availability endpoint registry for Network Telemetry Audit
