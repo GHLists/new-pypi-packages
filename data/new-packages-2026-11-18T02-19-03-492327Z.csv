@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T01:19:17Z,projectbudget,0.1.0,Sean Deery,Apache-2.0,681557,"One honest shopping backlog across all your projects, scheduled against your budget."
+2026-11-18T01:20:14Z,slimtree,0.1.0a1,,Apache-2.0,14547882,Disk-light git worktrees from APFS clones
+2026-11-18T01:23:44Z,shacl-py,0.4.0,,MIT,131474,Minimal Python viewer for DataLad Concepts metadata
+2026-11-18T01:28:42Z,deadline-conflict-solver-merged-demo,0.1.0,,,24187,"Assignment scheduling, conflict analysis, and extra-time scenarios with interactive input"
+2026-11-18T01:29:50Z,agent-tuner,1.0.0,Tuner contributors,MIT,468882,Understand your AI usage. Tune your agent workflows.
+2026-11-18T01:30:46Z,pinesandbox,0.3.6,Pine AI,Apache-2.0,392998,"Server SDK for Pine Computer: create and start Computers, run Pine's agent or your own, use the shell and files, and hand a browser-safe connection to your web app."
+2026-11-18T01:31:15Z,pure-schema-regimes,0.1.0,guilhermegor,MIT,35865,Per-regime schema adapters for series that change columns mid-series (zero-dependency)
+2026-11-18T01:34:26Z,tradespace,0.1.0,Michael Zargham,MIT,797745,"Learns the shape of a design trade space from evaluated designs, with estimators that work in scikit-learn pipelines."
+2026-11-18T01:35:09Z,tdgl-solver,0.1.1,Luder Espitia Guzmán,MIT,64822,Simulador numérico TDGL (2D 2-Bandas y 3D) con motor Octave e interfaces gráficas en Python.
+2026-11-18T01:35:24Z,design-once,0.0.0,,MIT OR Apache-2.0,2873,"Placeholder: golf, a CAD kernel for agents, from Design Once"
+2026-11-18T01:35:26Z,design-once-linux-x86-64-gnu,0.0.0,,MIT OR Apache-2.0,2611,Placeholder: the Linux x86_64 build of design-once
+2026-11-18T01:35:29Z,design-once-win32-x64-msvc,0.0.0,,MIT OR Apache-2.0,2595,Placeholder: the Windows x64 build of design-once
+2026-11-18T01:38:48Z,trae-installer-creator,3.0.0,Trae <yangdw2021@gmail.com>,MIT,1412812,Native Rust single-file Windows installer builder compatible with Inno Setup (.iss) scripts
+2026-11-18T01:39:58Z,uehara-agentic-kernel-provider-openai,0.71.1rc1,,Apache-2.0,9494,UAK provider-openai component; contracts and limits are documented in the UAK repository.
+2026-11-18T01:40:00Z,uehara-agentic-kernel-runtime,0.71.1rc1,,Apache-2.0,1022032,UAK runtime component; contracts and limits are documented in the UAK repository.
+2026-11-18T01:40:02Z,uehara-agentic-kernel-cli,0.71.1rc1,,Apache-2.0,55678,UAK cli component; contracts and limits are documented in the UAK repository.
+2026-11-18T01:40:03Z,uehara-agentic-kernel-mcp,0.71.1rc1,,Apache-2.0,45423,UAK mcp component; contracts and limits are documented in the UAK repository.
+2026-11-18T01:41:28Z,texel-importer,0.1.0,GT6 Modern contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",149808,"Convert PNG images to deterministic, diff-friendly PXL source files"
+2026-11-18T01:41:30Z,texel-compiler,0.1.0,GT6 Modern contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",127539,Deterministic PXL compiler implemented with the Python standard library
+2026-11-18T01:42:31Z,kv-cli,0.9.0,,MIT,10097957,"Contract guardrails for data pipelines: missing parameters, hardcoded secrets and pinned infrastructure, caught before code leaves the workstation."
+2026-11-18T01:43:01Z,forgepack,3.0.0,ForgePack <yangdw2021@gmail.com>,MIT,1988934,ForgePack - Native Rust single-file Windows installer builder compatible with Inno Setup (.iss) scripts
+2026-11-18T01:44:44Z,geosquare-engine,0.1.0,,Apache-2.0,1383771,"GeoSquare V2 grid engine: GID codec, Int64 packing, topology, and column detection (spec 2.0)."
+2026-11-18T01:47:27Z,segger,1.0.0rc1,"Elyas Heidari <elyas.heidari@dkfz-heidelberg.de>, Andrew Moorman <moormana@mskcc.org>",MIT,198055,Segmentation of spatial transcriptomics data
+2026-11-18T01:47:29Z,pymupdf4llm-rs,0.4.0,,Apache-2.0 OR MIT,921128,"100% pure-Rust pymupdf4llm PDF-to-Markdown library for Python with reusable engine resources, bounded concurrency, and CJK/table extraction."
+2026-11-18T01:52:06Z,yyc-transit-mcp,0.1.0,Abiola Raji,MIT,295375,"MCP server for Calgary Transit: live arrivals, alerts, and historical route reliability from GTFS + GTFS-Realtime."
+2026-11-18T01:52:15Z,bitting,1.2.0,Muhammad Anas Mahmood,MIT,156714,"API key lifecycle management for Python: generation, memory-hard hashing, prefix-indexed storage, rotation with grace periods, scopes, TTL, and audit events."
+2026-11-18T01:52:22Z,wavecraft-gui,4.0.0,WaveCraft Team <yangdw2021@gmail.com>,MIT,4772214,WaveCraft v4.0: High-performance Rust + React/Three.js WebGL quantum chemistry wavefunction analysis workbench for Multiwfn 3.8
+2026-11-18T01:53:36Z,python-beam,0.1.0a1,,,53701338,Python-first tools for BEAM services
+2026-11-18T01:54:43Z,webinar-cloud-audit-helper,0.1.0,,,6053,Helper utilities for the quarterly cloud access review
+2026-11-18T01:55:25Z,ddgai,1.1.2,frat,MIT,25445,High-performance reverse-engineered Duck.ai (DuckDuckGo AI Chat) client
+2026-11-18T01:58:17Z,aws_sdk_kinesis_video,0.0.0,,Apache-2.0,2025,Placeholder reserving the aws_sdk_kinesis_video name. Not yet functional.
+2026-11-18T01:58:18Z,omninode-onex,0.0.1,OmniNode,Proprietary,2212,The OmniNode onex CLI: installs the onex command and the packages it runs.
+2026-11-18T01:58:45Z,aws_sdk_device_farm,0.0.0,,Apache-2.0,2008,Placeholder reserving the aws_sdk_device_farm name. Not yet functional.
+2026-11-18T01:59:08Z,aws_sdk_marketplace_entitlement_service,0.0.0,,Apache-2.0,2248,Placeholder reserving the aws_sdk_marketplace_entitlement_service name. Not yet functional.
+2026-11-18T01:59:25Z,aws_sdk_fsx,0.0.0,,Apache-2.0,1913,Placeholder reserving the aws_sdk_fsx name. Not yet functional.
+2026-11-18T01:59:27Z,smart-image-splitter,0.2.0,SliceCraft Contributors,Apache-2.0,766371,"High-performance hybrid Rust (PyO3 + Rayon) and OpenCV image splitter with XY-Cut BSP, gutter collapsing, bleed decontamination, and contour extraction."
+2026-11-18T02:00:04Z,aws_sdk_quicksight,0.0.0,,Apache-2.0,2134,Placeholder reserving the aws_sdk_quicksight name. Not yet functional.
+2026-11-18T02:00:23Z,aws_sdk_mwaa,0.0.0,,Apache-2.0,2065,Placeholder reserving the aws_sdk_mwaa name. Not yet functional.
+2026-11-18T02:00:40Z,aws_sdk_s3tables,0.0.0,,Apache-2.0,2114,Placeholder reserving the aws_sdk_s3tables name. Not yet functional.
+2026-11-18T02:00:44Z,itops-rag,0.1.0,Chamudith Amarasinghe,MIT,152453,"Retrieval-augmented answers for IT operations: hybrid search, local reranking, cited answers from Claude, an MCP server and a reusable RAG engine."
+2026-11-18T02:00:55Z,aws_sdk_ebs,0.0.0,,Apache-2.0,2052,Placeholder reserving the aws_sdk_ebs name. Not yet functional.
+2026-11-18T02:02:21Z,aws_sdk_redshift_serverless,0.0.0,,Apache-2.0,2097,Placeholder reserving the aws_sdk_redshift_serverless name. Not yet functional.
+2026-11-18T02:02:39Z,aws_sdk_database_migration_service,0.0.0,,Apache-2.0,2165,Placeholder reserving the aws_sdk_database_migration_service name. Not yet functional.
+2026-11-18T02:03:02Z,aws_sdk_pi,0.0.0,,Apache-2.0,1911,Placeholder reserving the aws_sdk_pi name. Not yet functional.
+2026-11-18T02:03:17Z,aws_sdk_codedeploy,0.0.0,,Apache-2.0,2002,Placeholder reserving the aws_sdk_codedeploy name. Not yet functional.
+2026-11-18T02:08:45Z,mcschemora,0.1.0,MCSchemora contributors,MIT AND MPL-2.0 AND LicenseRef-Minecraft-Assets,10436605,"Minecraft schematic authoring, editing, conversion, and rendering"

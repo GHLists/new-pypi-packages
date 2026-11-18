@@ -8,44 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 01:19 UTC
+## Latest list — 2026-11-18 02:19 UTC
 
-New packages created between 2026-11-18 00:20 UTC and 2026-11-18 01:19 UTC.
+New packages created between 2026-11-18 01:19 UTC and 2026-11-18 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-18T01-19-02-268352Z.csv)
+[Full CSV](data/new-packages-2026-11-18T02-19-03-492327Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-18 00:20:36 | [gavel-connector](https://pypi.org/project/gavel-connector/) | 0.1.0 | GremlinLabs | 43.5 kB | Connect Gavel to models and chatbots on your own computer or network: one outbo… |
-| 2026-11-18 00:20:40 | [btmc](https://pypi.org/project/btmc/) | 0.0.0 | sneakers-the-rat <sneakers-th… | 172.3 kB | btmc - bittorrent microclient: a super small asyncio bittorrent client |
-| 2026-11-18 00:22:29 | [deed-page](https://pypi.org/project/deed-page/) | 0.1.0 | Avatar 8 LLC <ops@avatar33.co… | 18.1 kB | Official deed.page CLI and client: publish a file or folder to a permanent http… |
-| 2026-11-18 00:24:23 | [parcel-id](https://pypi.org/project/parcel-id/) | 0.0.1 |  | 7.6 kB | Validate US Assessor's Parcel Numbers (APNs) against officially stated county f… |
-| 2026-11-18 00:27:38 | [agentkoin-core](https://pypi.org/project/agentkoin-core/) | 0.1.1 | STOS Technologies LLC | 50.0 kB | AgentKoin (formerly AgentCoin) router client (find, order, pay, verify). Base S… |
-| 2026-11-18 00:27:40 | [crewai-agentkoin](https://pypi.org/project/crewai-agentkoin/) | 0.1.0 | STOS Technologies LLC | 6.9 kB | AgentKoin (formerly AgentCoin) tools for CrewAI. Base Sepolia testnet only. |
-| 2026-11-18 00:27:42 | [langchain-agentkoin](https://pypi.org/project/langchain-agentkoin/) | 0.1.0 | STOS Technologies LLC | 7.1 kB | AgentKoin (formerly AgentCoin) tools for LangChain and LangGraph. Base Sepolia… |
-| 2026-11-18 00:27:44 | [openai-agents-agentkoin](https://pypi.org/project/openai-agents-agentkoin/) | 0.1.0 | STOS Technologies LLC | 7.3 kB | AgentKoin (formerly AgentCoin) tools for the OpenAI Agents SDK (Python). Base S… |
-| 2026-11-18 00:28:16 | [commitron](https://pypi.org/project/commitron/) | 1.0.0rc4 | Error404-uv | 94.1 kB | A safer AI-powered Git assistant for the command line |
-| 2026-11-18 00:28:18 | [architecture-extractor](https://pypi.org/project/architecture-extractor/) | 0.27.0 | AE contributors | 331.2 kB | Static Python/PyTorch architecture extraction and vector diagrams |
-| 2026-11-18 00:29:45 | [coherion-mipcode](https://pypi.org/project/coherion-mipcode/) | 0.6.4 | Brian Gansz | 300.0 kB | Static Python call-contract checks and Solidity structural analysis with mip-de… |
-| 2026-11-18 00:30:02 | [jetbrains-pulumi-aws-rds-proxy](https://pypi.org/project/jetbrains-pulumi-aws-rds-proxy/) | 999.9.9 |  | 979 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-18 00:30:36 | [sowwic-nyx-usd](https://pypi.org/project/sowwic-nyx-usd/) | 1.0.0 | Dima Shevchenko | 27.7 kB | Description |
-| 2026-11-18 00:34:48 | [harbor-framework-client](https://pypi.org/project/harbor-framework-client/) | 0.1.0 |  | 637.2 kB | Typed synchronous and asynchronous clients for the Harbor API. |
-| 2026-11-18 00:35:55 | [slogo](https://pypi.org/project/slogo/) | 15 | Beasteren | 13.3 kB | Logo |
-| 2026-11-18 00:46:04 | [litesuite-rust-sidecar](https://pypi.org/project/litesuite-rust-sidecar/) | 0.1.0 |  | 283.8 kB | The Python engines the Rust Lite apps start beside themselves. This version hol… |
-| 2026-11-18 00:46:12 | [winrt-Microsoft.UI.Xaml.Media.DXInterop](https://pypi.org/project/winrt-Microsoft.UI.Xaml.Media.DXInterop/) | 4.0.0 |  | 104.6 kB | Sets the DXGI swap chain that a WinUI 3 SwapChainPanel shows, through the panel… |
-| 2026-11-18 00:47:04 | [cr1000a-mcp](https://pypi.org/project/cr1000a-mcp/) | 0.2.1 | Soham Patwardhan | 32.6 kB | MCP server for the Verizon CR1000A (Fios) router |
-| 2026-11-18 00:53:14 | [palisec](https://pypi.org/project/palisec/) | 0.4.0 | Palisec | 33.5 kB | Python client for Palisec: ask before every agent transaction, send only on ALL… |
-| 2026-11-18 00:53:14 | [sgl-router](https://pypi.org/project/sgl-router/) | 0.1.0 |  | 32.2 MB | Slim KV-aware OpenAI-compatible router for SGLang workers |
-| 2026-11-18 00:53:34 | [opengwasdb](https://pypi.org/project/opengwasdb/) | 0.12.0 | OpenGWASDB contributors | 2.0 MB | Standalone storage and query engine for OpenGWAS-scale summary statistic stores |
-| 2026-11-18 00:53:43 | [mailko](https://pypi.org/project/mailko/) | 0.1.0 | Bithaus SAS | 64.7 kB | Librería oficial de Mailko para Python: la API /v1, la verificación de webhooks… |
-| 2026-11-18 00:55:40 | [bucli](https://pypi.org/project/bucli/) | 0.6.0 | Bithaus SAS | 160.1 kB | Librería oficial de Bucli para Python: cliente de la API /v1, verificación de w… |
-| 2026-11-18 00:56:01 | [embedxray](https://pypi.org/project/embedxray/) | 0.1.1 |  | 60.2 kB | Read-only diagnostic and evaluation library for sentence-transformers embedding… |
-| 2026-11-18 00:57:52 | [acumatica-api](https://pypi.org/project/acumatica-api/) | 0.1.0 |  | 53.2 kB | A lightweight Python SDK for the Acumatica contract-based REST API, built with… |
-| 2026-11-18 00:59:21 | [subsumes](https://pypi.org/project/subsumes/) | 0.2.0 |  | 7.5 MB | JSON Schema inclusion: does one schema accept every instance that is valid unde… |
-| 2026-11-18 01:00:16 | [nodetect](https://pypi.org/project/nodetect/) | 1.0.1 | Mitul Islam | 75.6 kB | High-performance stealth browser automation & persistent profile engine |
-| 2026-11-18 01:00:26 | [sketch-tastic](https://pypi.org/project/sketch-tastic/) | 0.2.0 | drusifer | 101.5 kB | Mergeable sketches of JSONL event streams for regression testing and flow analy… |
-| 2026-11-18 01:01:31 | [orsel](https://pypi.org/project/orsel/) | 0.1.0 |  | 138.0 kB | Python SDK for orsel: the web action layer for AI agents. find, read, act, watc… |
-| 2026-11-18 01:04:22 | [openconstruction-tools](https://pypi.org/project/openconstruction-tools/) | 0.1.0 | OpenConstruction | 210.7 kB | OpenConstruction MCP server, command-line interface, and shared catalog service… |
-| 2026-11-18 01:05:29 | [fxyz](https://pypi.org/project/fxyz/) | 0.1.0 |  | 21.2 kB | Fxyz是专业的金融数据API平台，为量化交易与投资研究提供可靠的全市场行情数据API。 |
-| 2026-11-18 01:11:55 | [testscope](https://pypi.org/project/testscope/) | 0.1.0 |  | 137.3 kB | Run only the tests a change can affect. Built for AI coding agents and CI. |
-| 2026-11-18 01:13:08 | [aind-atlas-terminology](https://pypi.org/project/aind-atlas-terminology/) | 0.2.0 | Allen Institute for Neural Dy… | 700.9 kB | Resolve and select brain structures in Allen atlas-assets terminologies |
+| 2026-11-18 01:19:17 | [projectbudget](https://pypi.org/project/projectbudget/) | 0.1.0 | Sean Deery | 681.6 kB | One honest shopping backlog across all your projects, scheduled against your bu… |
+| 2026-11-18 01:20:14 | [slimtree](https://pypi.org/project/slimtree/) | 0.1.0a1 |  | 14.5 MB | Disk-light git worktrees from APFS clones |
+| 2026-11-18 01:23:44 | [shacl-py](https://pypi.org/project/shacl-py/) | 0.4.0 |  | 131.5 kB | Minimal Python viewer for DataLad Concepts metadata |
+| 2026-11-18 01:28:42 | [deadline-conflict-solver-merged-demo](https://pypi.org/project/deadline-conflict-solver-merged-demo/) | 0.1.0 |  | 24.2 kB | Assignment scheduling, conflict analysis, and extra-time scenarios with interac… |
+| 2026-11-18 01:29:50 | [agent-tuner](https://pypi.org/project/agent-tuner/) | 1.0.0 | Tuner contributors | 468.9 kB | Understand your AI usage. Tune your agent workflows. |
+| 2026-11-18 01:30:46 | [pinesandbox](https://pypi.org/project/pinesandbox/) | 0.3.6 | Pine AI | 393.0 kB | Server SDK for Pine Computer: create and start Computers, run Pine's agent or y… |
+| 2026-11-18 01:31:15 | [pure-schema-regimes](https://pypi.org/project/pure-schema-regimes/) | 0.1.0 | guilhermegor | 35.9 kB | Per-regime schema adapters for series that change columns mid-series (zero-depe… |
+| 2026-11-18 01:34:26 | [tradespace](https://pypi.org/project/tradespace/) | 0.1.0 | Michael Zargham | 797.7 kB | Learns the shape of a design trade space from evaluated designs, with estimator… |
+| 2026-11-18 01:35:09 | [tdgl-solver](https://pypi.org/project/tdgl-solver/) | 0.1.1 | Luder Espitia Guzmán | 64.8 kB | Simulador numérico TDGL (2D 2-Bandas y 3D) con motor Octave e interfaces gráfic… |
+| 2026-11-18 01:35:24 | [design-once](https://pypi.org/project/design-once/) | 0.0.0 |  | 2.9 kB | Placeholder: golf, a CAD kernel for agents, from Design Once |
+| 2026-11-18 01:35:26 | [design-once-linux-x86-64-gnu](https://pypi.org/project/design-once-linux-x86-64-gnu/) | 0.0.0 |  | 2.6 kB | Placeholder: the Linux x86_64 build of design-once |
+| 2026-11-18 01:35:29 | [design-once-win32-x64-msvc](https://pypi.org/project/design-once-win32-x64-msvc/) | 0.0.0 |  | 2.6 kB | Placeholder: the Windows x64 build of design-once |
+| 2026-11-18 01:38:48 | [trae-installer-creator](https://pypi.org/project/trae-installer-creator/) | 3.0.0 | Trae <yangdw2021@gmail.com> | 1.4 MB | Native Rust single-file Windows installer builder compatible with Inno Setup (.… |
+| 2026-11-18 01:39:58 | [uehara-agentic-kernel-provider-openai](https://pypi.org/project/uehara-agentic-kernel-provider-openai/) | 0.71.1rc1 |  | 9.5 kB | UAK provider-openai component; contracts and limits are documented in the UAK r… |
+| 2026-11-18 01:40:00 | [uehara-agentic-kernel-runtime](https://pypi.org/project/uehara-agentic-kernel-runtime/) | 0.71.1rc1 |  | 1.0 MB | UAK runtime component; contracts and limits are documented in the UAK repositor… |
+| 2026-11-18 01:40:02 | [uehara-agentic-kernel-cli](https://pypi.org/project/uehara-agentic-kernel-cli/) | 0.71.1rc1 |  | 55.7 kB | UAK cli component; contracts and limits are documented in the UAK repository. |
+| 2026-11-18 01:40:03 | [uehara-agentic-kernel-mcp](https://pypi.org/project/uehara-agentic-kernel-mcp/) | 0.71.1rc1 |  | 45.4 kB | UAK mcp component; contracts and limits are documented in the UAK repository. |
+| 2026-11-18 01:41:28 | [texel-importer](https://pypi.org/project/texel-importer/) | 0.1.0 | GT6 Modern contributors | 149.8 kB | Convert PNG images to deterministic, diff-friendly PXL source files |
+| 2026-11-18 01:41:30 | [texel-compiler](https://pypi.org/project/texel-compiler/) | 0.1.0 | GT6 Modern contributors | 127.5 kB | Deterministic PXL compiler implemented with the Python standard library |
+| 2026-11-18 01:42:31 | [kv-cli](https://pypi.org/project/kv-cli/) | 0.9.0 |  | 10.1 MB | Contract guardrails for data pipelines: missing parameters, hardcoded secrets a… |
+| 2026-11-18 01:43:01 | [forgepack](https://pypi.org/project/forgepack/) | 3.0.0 | ForgePack <yangdw2021@gmail.c… | 2.0 MB | ForgePack - Native Rust single-file Windows installer builder compatible with I… |
+| 2026-11-18 01:44:44 | [geosquare-engine](https://pypi.org/project/geosquare-engine/) | 0.1.0 |  | 1.4 MB | GeoSquare V2 grid engine: GID codec, Int64 packing, topology, and column detect… |
+| 2026-11-18 01:47:27 | [segger](https://pypi.org/project/segger/) | 1.0.0rc1 | Elyas Heidari <elyas.heidari@… | 198.1 kB | Segmentation of spatial transcriptomics data |
+| 2026-11-18 01:47:29 | [pymupdf4llm-rs](https://pypi.org/project/pymupdf4llm-rs/) | 0.4.0 |  | 921.1 kB | 100% pure-Rust pymupdf4llm PDF-to-Markdown library for Python with reusable eng… |
+| 2026-11-18 01:52:06 | [yyc-transit-mcp](https://pypi.org/project/yyc-transit-mcp/) | 0.1.0 | Abiola Raji | 295.4 kB | MCP server for Calgary Transit: live arrivals, alerts, and historical route rel… |
+| 2026-11-18 01:52:15 | [bitting](https://pypi.org/project/bitting/) | 1.2.0 | Muhammad Anas Mahmood | 156.7 kB | API key lifecycle management for Python: generation, memory-hard hashing, prefi… |
+| 2026-11-18 01:52:22 | [wavecraft-gui](https://pypi.org/project/wavecraft-gui/) | 4.0.0 | WaveCraft Team <yangdw2021@gm… | 4.8 MB | WaveCraft v4.0: High-performance Rust + React/Three.js WebGL quantum chemistry… |
+| 2026-11-18 01:53:36 | [python-beam](https://pypi.org/project/python-beam/) | 0.1.0a1 |  | 53.7 MB | Python-first tools for BEAM services |
+| 2026-11-18 01:54:43 | [webinar-cloud-audit-helper](https://pypi.org/project/webinar-cloud-audit-helper/) | 0.1.0 |  | 6.1 kB | Helper utilities for the quarterly cloud access review |
+| 2026-11-18 01:55:25 | [ddgai](https://pypi.org/project/ddgai/) | 1.1.2 | frat | 25.4 kB | High-performance reverse-engineered Duck.ai (DuckDuckGo AI Chat) client |
+| 2026-11-18 01:58:17 | [aws_sdk_kinesis_video](https://pypi.org/project/aws_sdk_kinesis_video/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_kinesis_video name. Not yet functional. |
+| 2026-11-18 01:58:18 | [omninode-onex](https://pypi.org/project/omninode-onex/) | 0.0.1 | OmniNode | 2.2 kB | The OmniNode onex CLI: installs the onex command and the packages it runs. |
+| 2026-11-18 01:58:45 | [aws_sdk_device_farm](https://pypi.org/project/aws_sdk_device_farm/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_device_farm name. Not yet functional. |
+| 2026-11-18 01:59:08 | [aws_sdk_marketplace_entitlement_service](https://pypi.org/project/aws_sdk_marketplace_entitlement_service/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_marketplace_entitlement_service name. Not yet… |
+| 2026-11-18 01:59:25 | [aws_sdk_fsx](https://pypi.org/project/aws_sdk_fsx/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_fsx name. Not yet functional. |
+| 2026-11-18 01:59:27 | [smart-image-splitter](https://pypi.org/project/smart-image-splitter/) | 0.2.0 | SliceCraft Contributors | 766.4 kB | High-performance hybrid Rust (PyO3 + Rayon) and OpenCV image splitter with XY-C… |
+| 2026-11-18 02:00:04 | [aws_sdk_quicksight](https://pypi.org/project/aws_sdk_quicksight/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_quicksight name. Not yet functional. |
+| 2026-11-18 02:00:23 | [aws_sdk_mwaa](https://pypi.org/project/aws_sdk_mwaa/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_mwaa name. Not yet functional. |
+| 2026-11-18 02:00:40 | [aws_sdk_s3tables](https://pypi.org/project/aws_sdk_s3tables/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_s3tables name. Not yet functional. |
+| 2026-11-18 02:00:44 | [itops-rag](https://pypi.org/project/itops-rag/) | 0.1.0 | Chamudith Amarasinghe | 152.5 kB | Retrieval-augmented answers for IT operations: hybrid search, local reranking,… |
+| 2026-11-18 02:00:55 | [aws_sdk_ebs](https://pypi.org/project/aws_sdk_ebs/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_ebs name. Not yet functional. |
+| 2026-11-18 02:02:21 | [aws_sdk_redshift_serverless](https://pypi.org/project/aws_sdk_redshift_serverless/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_redshift_serverless name. Not yet functional. |
+| 2026-11-18 02:02:39 | [aws_sdk_database_migration_service](https://pypi.org/project/aws_sdk_database_migration_service/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_database_migration_service name. Not yet func… |
+| 2026-11-18 02:03:02 | [aws_sdk_pi](https://pypi.org/project/aws_sdk_pi/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_pi name. Not yet functional. |
+| 2026-11-18 02:03:17 | [aws_sdk_codedeploy](https://pypi.org/project/aws_sdk_codedeploy/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_codedeploy name. Not yet functional. |
+| 2026-11-18 02:08:45 | [mcschemora](https://pypi.org/project/mcschemora/) | 0.1.0 | MCSchemora contributors | 10.4 MB | Minecraft schematic authoring, editing, conversion, and rendering |
