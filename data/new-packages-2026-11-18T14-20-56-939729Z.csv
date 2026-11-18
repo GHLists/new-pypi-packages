@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T13:20:12Z,hrstudio,2.7.0.post5,yyyyy-9,GPL-3.0-or-later,7143137,Local Markdown report editor with offline HTML assets
+2026-11-18T13:21:16Z,previty-cli,0.1.2,Previty GmbH,LicenseRef-Proprietary,67453,Command-line interface for the Previty public API
+2026-11-18T13:28:04Z,samarth,0.2.0,Samarth <creatorpc@proton.me>,MIT,28967,"Multi-platform Python protection pipeline — PyArmor, Nuitka, and pure-Python modes"
+2026-11-18T13:32:32Z,bidictnmf,0.2.1,BiDictionaryNMF Contributors,MIT,20649,Differentiable Bi-Dictionary Non-negative Matrix Factorization for cross-batch gene-program integration.
+2026-11-18T13:34:22Z,md2ui,0.1.0a1,alexrvarela,MIT AND Apache-2.0,3850274,"Experimental: turns an ordinary Markdown document, such as an LLM's answer, into a rendered UI"
+2026-11-18T13:35:09Z,desp-sdk,0.5.7,AI by DNA <contact@aibydna.com>,Apache-2.0,63701,Python SDK for reporting Deltas to DESP and requesting Trigger Plans.
+2026-11-18T13:35:58Z,dfont,0.0.1,TakWolf,MIT,42107,A library for handling Macintosh Font Formats (DFont)
+2026-11-18T13:36:30Z,jlanda-vault-poc,0.0.10,,,923,PoC package proving PyPI Trusted Publishing works
+2026-11-18T13:40:02Z,akeyless-cloudrun-rta,0.1.0,Akeyless Community,Apache-2.0,57130,Akeyless Agentic Runtime Authority (RTA/ARA) for Google Cloud Run — secretless DB and cloud actions
+2026-11-18T13:40:02Z,polars-database,0.1.0,,MIT,60630039,Native database scan plugin for Polars (dependency of the polars package)
+2026-11-18T13:41:04Z,wk-agents,0.1.0,wk,,2542,Add your description here
+2026-11-18T13:41:05Z,wk-shared,0.1.0,wk,,2409,Add your description here
+2026-11-18T13:41:16Z,argoshot,0.1.0,Argoshot,MIT,14383,"Official client for the Argoshot screenshot API: screenshots, PDFs and signed og:image URLs of any web page or HTML."
+2026-11-18T13:42:46Z,reportnet-api,0.1.0,Nikos Paximadakis <nikos.paximadakis@gmail.com>,MIT,506679,Python library for the EEA Reportnet 3 REST API
+2026-11-18T13:42:48Z,screen-controller-ai,0.1.3,,MIT,6062,"A safe, dual-model agentic desktop controller with human-in-the-loop safety features."
+2026-11-18T13:43:42Z,keska-agent-kit,0.1.0,,,78752,Agent messaging kit. Same API as @keska/agent-kit.
+2026-11-18T13:45:00Z,scraperack-turnstile,0.1.0a1,,LicenseRef-Proprietary,12940,"Pools of live Cloudflare bundles (proxy, User-Agent, cf_clearance or Turnstile token) from a self-hosted Scraperack cluster's turnstile-solver plugin"
+2026-11-18T13:46:21Z,test-base,0.1.1,Test Base contributors,Apache-2.0,3803203,"One live dashboard for every test run — any team, any framework, any CI."
+2026-11-18T13:47:14Z,dali-drivers,0.1,Stephen Early,LGPL-3.0-or-later,134500,Drivers for interfacing to DALI lighting systems
+2026-11-18T13:47:22Z,razorwire,0.1.0,Razorwire,MIT,54636,"Python SDK for Razorwire, the action firewall for AI agents"
+2026-11-18T13:47:39Z,anihmm,0.1.1,Leighton Payne,MIT,59716,Rich terminal HMM animation library for embedded loading and progress displays.
+2026-11-18T13:49:21Z,sdo-client,0.1.0,"""Scrape.do"" <support@scrape.do>",Apache-2.0,283197,Official Python SDK for the Scrape.do web-scraping API
+2026-11-18T13:55:12Z,blitzy-vm-utils,0.0.0,Blitzy,,2209,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-18T14:03:36Z,deep-dossier,0.1.0,Shubhransh Gupta,MIT,38534,"Autonomous multi-step research agent using Gemini for recursive web discovery, synthesis, and verified intelligence dossiers."
+2026-11-18T14:04:16Z,patch-pilot-ai,0.1.0,Shubhransh Gupta,MIT,28162,Autonomous code healing and bug patching agent powered by Google Gemini.
+2026-11-18T14:04:28Z,nodeshift-ai,0.1.0,,Apache-2.0,133734,"Official Python client for the NodeShift AI API: chat completions and the Responses API with streaming and tool calls, files, projects, Agent Skills, prompts, agents, workflows and document recogniti…"
+2026-11-18T14:07:02Z,pseudonym,0.1.0,Mike Overkamp,MIT,72585,"Reversible pseudonymisation of text before it goes to a language model, with language packs"
+2026-11-18T14:08:44Z,codeatlas-viz,0.2.2,kutyfuty,MIT,106940,Zero-config local codebase architecture & call-graph visualizer with an interactive Svelte UI.
+2026-11-18T14:11:40Z,laria-mcp,0.1.0,group27 (cs1302a),MIT,77427,Serve a Jupyter notebook's functions as MCP tools for AI agents such as Hermes and Claude.
+2026-11-18T14:12:09Z,metdecode,1.0.0,Antoine Passemiers,,24764,Reference-based Deconvolution of Whole-Genome Methylation Sequencing data
+2026-11-18T14:12:52Z,mouter-cli,0.1.0,,,48350,Discover and call Mouter tools from a terminal or AI client
+2026-11-18T14:12:57Z,llm-strata,0.1.0,heberlein <heberlein@proton.me>,MIT,86671,llm plugin for models served by the Strata local model runtime
+2026-11-18T14:14:19Z,bytx-trader,0.1.0,,MIT,224170,"Crypto trading steps for AI assistants on bytx: scanner, funding/OI, entry, exit, time machine, risk-based size, risk gate, paper/demo broker. MCP server + CLI."
+2026-11-18T14:14:22Z,blitzy-quart-utils,0.0.0,Blitzy,,2247,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-18T14:15:03Z,rpg-battle-11213161,0.1.0,yong32255 <n0938725392@gmail.com>,MIT,7958,一個基於物件導向設計的回合制 RPG 角色與戰鬥模擬引擎
+2026-11-18T14:15:06Z,raw2isa,0.1.0,raw2isa contributors,GPL-3.0-or-later,518171,Thermo RAW file parser and converter to ISA-Tab
+2026-11-18T14:18:17Z,cli-watch-kit,0.1.0,Filip Procházka <dev@fprochazka.cz>,MIT,196960,"Build a `watch` command for a CLI: poll a source, report changes as JSON events, share one rate-limited daemon between all watchers"
+2026-11-18T14:18:31Z,pankid-mcp-demo,0.1.0,pankid,,2613,Add your description here
+2026-11-18T14:19:22Z,cuvslam-cu12,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1069,Zero version placeholder for cuvslam_cu12
+2026-11-18T14:19:24Z,cuvslam-cu13,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1050,Zero version placeholder for cuvslam_cu13
+2026-11-18T14:19:25Z,cuvslam,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1061,Zero version placeholder for cuvslam
