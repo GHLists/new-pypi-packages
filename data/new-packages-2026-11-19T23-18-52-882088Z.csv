@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T22:22:34Z,meteorlens,0.0.0,MeteorLens contributors,MIT,512801,Local-first meteor detection from IP cameras
+2026-11-19T22:23:29Z,SPISEA,3.1.0,"Samantha Rose, Casey Lam, Natasha Abrams, Michael Medford, Lingfeng Wei, Mace Huston, Abhimat Gauta…",GPL-3.0-or-later,13984272,"SPISEA (Stellar Population Interface for Synthetic Evolution and Atmospheres) is a package that generates single-age, single-metallicity populations (i.e. star clusters)"
+2026-11-19T22:24:01Z,pynucleo,0.0.1,John Amodeo <120539773+jmamodeo@users.noreply.github.com>,Apache-2.0,11088,Python bridge to the Nucleo Java agent framework (pre-alpha placeholder)
+2026-11-19T22:30:22Z,sibyl-memory,0.7.0,"""Sibyl Labs, LLC"" <sibyl@sibyllabs.org>",MIT,4746,"Sibyl Memory: durable, file-based memory for AI agents. Installs sibyl-memory-cli with the MCP server."
+2026-11-19T22:30:23Z,sibyl-memory-plugin,0.7.0,"""Sibyl Labs, LLC"" <sibyl@sibyllabs.org>",MIT,4832,"Sibyl Memory: durable, file-based memory for AI agents. Installs sibyl-memory-cli with the MCP server."
+2026-11-19T22:33:38Z,bouture,2026.11.19.1,,MIT,26746,"Crée un nouveau site à partir de Sites Conformes, comme on bouture une plante."
+2026-11-19T22:35:41Z,anix-ctx,0.1.0,ANIX Team,MIT,25772,Interactive context packager for LLMs with dark neon TUI (ANIX ecosystem)
+2026-11-19T22:39:59Z,fancysets,0.1a0,Danny Collinson <danny@dannycollinson.com>,,13120,Sets made fancy.
+2026-11-19T22:40:59Z,blossim,0.0.1,,,4803,BLOSSIM is an Open Semantic Simulations Materials Environment
+2026-11-19T22:44:06Z,wsr,0.1.0,Ayush,MIT,1212651,"Weight-Space Repair: find out why an open-weight model failed, and fix it at the right level, from a setting to a verified weight edit."
+2026-11-19T22:47:34Z,afh-linus-cuda13,0.1.0,Atoms for Humanity,MIT AND LGPL-3.0-or-later AND MPL-2.0 AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND ECL-2.0,24115917,"Hartree-Fock and Kohn-Sham DFT energies, analytic gradients, Hessians and frequencies, in-process, on the CPU or an NVIDIA GPU (CUDA 13)"
+2026-11-19T22:47:34Z,tame-tasks,0.1.0,Skitourer,MIT,221644,TAME Arranges My Errands: a lightweight Taskwarrior-like CLI task manager.
+2026-11-19T22:47:35Z,afh-linus,0.1.0,Atoms for Humanity,MIT AND LGPL-3.0-or-later AND MPL-2.0 AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND ECL-2.0,21858917,"Hartree-Fock and Kohn-Sham DFT energies, analytic gradients, Hessians and frequencies, in-process"
+2026-11-19T22:51:29Z,litecalib,0.1.0,"Viktor Kocur, Lukas Bujnak",Apache-2.0,275427,Lightweight single-image camera calibration from a sparse field-of-view field
+2026-11-19T23:00:03Z,platoconstants,1.1.0,Jean-Christophe Malapert,Apache-2.0,58204,PLATO Constants is a Python package providing values defined by the PLATO consortium for physical constants and mission parameters. PLATO Constants is intended to be consistently used by other pieces…
+2026-11-19T23:03:57Z,orion-gate,0.4.0,Orion Gate Maintainers <osenmuntu761@gmail.com>,Apache-2.0,227755,Open-source deterministic SQL AST and MCP firewall between AI agents and production SQL databases.
+2026-11-19T23:04:11Z,energy-mcp-belgium,0.1.0,,MIT,77005,MCP server for structured access to Belgian electricity-system data from Elia Open Data
+2026-11-19T23:06:56Z,camouwolf,0.0.1,,MIT,1801,"Name reserved for Camouwolf, the CamouBrowser Chromium build. The first real release will replace this placeholder."
+2026-11-19T23:12:17Z,cja-audit-log-monitor,0.1.0,Brian Au,MIT,326664,Terminal UI and CLI for monitoring and analyzing Adobe Customer Journey Analytics (CJA) audit logs
+2026-11-19T23:12:34Z,owl-wireless,0.1.0,OWL maintainers,Apache-2.0,101859,"Python client for OWL (Open Wireless Learning): telecom ML datasets, verified releases, paper reproductions and hidden-label scoring."
+2026-11-19T23:12:39Z,und-mcp,0.1.0,Up Next Data,MIT,45763,A small local MCP wrapper exposing the und public API (/api/v1) as Claude tools.
+2026-11-19T23:13:38Z,nulldull,0.1.0,NullDull,MIT,47723,"Official NullDull SDK for Python: Grid published content, read-only Memory and Locale export with workspace API keys."
+2026-11-19T23:14:10Z,pulzr,0.1.0,Pulzar <joseph@pulzr.net>,MIT,132285,Python client for the Pulzar API
+2026-11-19T23:17:42Z,flashattn-amx,0.1.0,,MIT,23937,"FlashAttention forward pass for Apple Silicon CPUs - no CUDA, runs on the AMX matrix coprocessor via Accelerate"
