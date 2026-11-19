@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-18T22:55:26Z,op-hello,0.2.3,,,23326,Portable 1Password op:// secret reader with Windows Hello support
+2026-11-18T23:20:17Z,payhip-mcp,1.1.0,Cotlet.dev <contact@cotlet.dev>,Elastic-2.0,15569,"Connect Payhip to ChatGPT, Claude and other AI agents through Cotlet.dev. Includes a local stdio MCP bridge."
+2026-11-18T23:24:30Z,uivanti,2.4.0,,,13775,"A small pygame-ce library that simplifies building user interfaces: buttons, menus, drop-downs, text boxes and tables."
+2026-11-18T23:28:39Z,netherframe.protocol.tfplugin,0.3.0,,MIT AND MPL-2.0,147601,Terraform/OpenTofu tfplugin protocol bindings for Netherframe
+2026-11-18T23:28:41Z,netherframe.codec.autoid,0.3.0,,MIT,16531,Auto-ID codec and preprocessor for Netherframe
+2026-11-18T23:28:43Z,netherframe.core,0.9.1,Sourabh Cheedella,MIT,1731190,Netherframe - Infrastructure as Code framework using Python
+2026-11-18T23:28:46Z,netherframe.lint.hashicorp.aws,0.2.0,,MIT,1176250,Netherframe lint rules and schemas for the HashiCorp AWS provider
+2026-11-18T23:37:02Z,clipwatcher,0.3.0,Yash Soni,MIT,675869,"Live-stream clipping for Twitch, driven by chat: when chat explodes, the moment becomes a captioned vertical clip."
+2026-11-18T23:42:29Z,firewall-v1,1.0.0,,,5971,A general-purpose Python utility library
+2026-11-18T23:43:50Z,canyonos-api-interface,1.0.1,,AGPL-3.0-only,11600,Typed client for the CanyonOS REST API
+2026-11-18T23:45:23Z,withonward,0.0.1,,,606,Placeholder for an upcoming release.
+2026-11-18T23:45:24Z,onward-cli,0.0.1,,,607,Placeholder for an upcoming release.
+2026-11-18T23:50:32Z,pyharbinger,0.1.0,Eduardo Ogasawara <eogasawara@ieee.org>,MIT,174516,A unified time series event detection framework (Python port of the R harbinger framework)
+2026-11-18T23:53:47Z,source-survey,0.1.0,,,58593,"Discover Python import cycles, check boundaries, and query source and Git evidence in SQLite."
+2026-11-18T23:54:07Z,canturia,0.1.0,Michael Borck <michael.borck@curtin.edu.au>,MIT,169232,"A small, privacy-first text-to-song tool: lyrics or a topic plus a genre, rendered by your own ACE-Step server."
+2026-11-18T23:56:58Z,thinkument-cli,0.1.0,Thinkument Team,MIT,48452,"Thinkument CLI & Developer SDK: Offline Studio, Local Daemon, and Sovereign Cloud Client"
+2026-11-18T23:57:32Z,bimtester,1.0.0,Dion Moult <dion@thinkmoult.com>,,223719,Gherkin based tests for BIM data
+2026-11-19T00:02:07Z,kicad-splitplane,0.5.0,Aleksandar Tuzlak,MIT,51524,Split a KiCad power layer into one continuous copper zone per net
+2026-11-19T00:03:31Z,ovos-network-log,0.1.0a1,Andreas Lorensen,Apache-2.0,23750,"A network log for OpenVoiceOS: every request OVOS and its skills make – when, where, who asked – for ovos-skill-guardian and you to read"
+2026-11-19T00:04:34Z,arsalan-fresh-pkg-8899,0.1.0,bughunter8123-png,,2251,A fresh Python package for testing OIDC publishing
+2026-11-19T00:05:00Z,fhir-inspector-mcp,0.0.6,,MIT,50873,"Zero-cost MCP server to inspect, validate, summarize, and generate FHIR R4/R5 resources from CytoCync"
+2026-11-19T00:05:01Z,whatferry,1.0.0,Edward Arghiroiu,GPL-3.0-or-later,1240811,"Move WhatsApp chats between Android and iPhone, in either direction, without erasing the iPhone"
+2026-11-19T00:11:43Z,pvade,1.1.0,"Ethan Young, Walid Arsalane, Brooke Stanislawski, Xin He, Chris Ivanov, Scott Dana, Michael Deceglie",BSD-3-Clause,223701,Fluid-structure interaction modeling of wind loads on solar-tracking photovoltaic arrays
+2026-11-19T00:14:03Z,tau2-faults,0.1.0,Ankit Goel,MIT,20640,"Tool-fault injection for tau2-bench (lost responses, transient errors, stale reads) with replay-exact grading"
+2026-11-19T00:15:14Z,warm-integrations,0.1.0,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,196635,Agent and RAG framework adapters for WARM
+2026-11-19T00:15:19Z,warm-claude-tool,0.1.0,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,32978,Backend for Anthropic's client-side memory tool (memory_20250818) on WARM: a /memories virtual filesystem with semantic recall.
+2026-11-19T00:18:32Z,fastskins-mcp,1.0.0,Fast Skins <contato@fastskins.gg>,MIT,10632,Official MCP Server for Fast Skins (fastskins.gg) - real-time CS2 skin prices in Brazil (Pix) and global markets.

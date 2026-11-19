@@ -1,41 +1,27 @@
 {
   "list": {
     "count": 27,
-    "from": "2026-11-18T22:20:46.55145Z",
-    "path": "data/new-packages-2026-11-18T23-20-59-49572Z.csv",
-    "to": "2026-11-18T23:20:59.49572Z"
+    "from": "2026-11-18T23:20:59.49572Z",
+    "path": "data/new-packages-2026-11-19T00-20-32-151925Z.csv",
+    "to": "2026-11-19T00:20:32.151925Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-18T22:55:26Z",
-      "package": "op-hello",
-      "since": "2026-11-18T22:20:46.55145Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-18T23:20:17Z",
-      "package": "payhip-mcp",
-      "since": "2026-11-18T22:20:46.55145Z",
-      "version": "1.1.0"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-18T20:45:34Z",
       "package": "pyagent-dns",
       "since": "2026-11-18T20:20:22.785702Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-18T20:29:15Z",
       "package": "relevan-python",
       "since": "2026-11-18T20:20:22.785702Z",
       "version": null
     }
   ],
-  "serial": 43856946,
+  "serial": 43858401,
   "source_truncated": false,
-  "window": "2026-11-18T23:20:59.49572Z"
+  "window": "2026-11-19T00:20:32.151925Z"
 }
