@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T16:56:39Z,onewolf-mcp-guard-http,0.15.0,OneWolf Team,MIT,216590,OneWolf AI Security - MCP HTTP/SSE reverse proxy (enforced security for remote MCP servers)
+2026-11-19T18:04:32Z,tezca,0.3.0,Tezca Contributors,Apache-2.0,58540,"Zero-dependency, hash-chained forensic ledger for AI agents."
+2026-11-19T18:20:21Z,podpack-lablog,0.1.0,Steve Holden,MIT,44469,"A testing history for each project, as a podpack app: expectation, observations, conclusion"
+2026-11-19T18:21:24Z,pheon,0.3.0,Jan Petykiewicz <jan@mpxd.net>,GPL-3.0-only,861286,"Native GDSII parsing, Arrow interchange, and structural layout review"
+2026-11-19T18:24:42Z,lakis-logging,0.1.0,Lukas Grünwald,MIT,33302,Reusable logging configuration and utilities for Python applications
+2026-11-19T18:25:58Z,numtrace,0.1.1,Lakshmi Chakradhar Vijayarao,Apache-2.0,64177,"Tie every number in an evaluation report to the Inspect / lm-evaluation-harness log it came from, and check it in CI."
+2026-11-19T18:26:25Z,speechset-lint,0.2.1,LeeGyeongPil,MIT,1149828,"Pre-flight lint for speech fine-tuning manifests (Whisper, wav2vec2 CTC, TTS): NeMo JSONL, HF audiofolder, LJSpeech."
+2026-11-19T18:27:27Z,transformers-v5-migrate,0.2.0,,MIT,102004,"Codemod and risk report for moving Hugging Face Transformers v4 training and inference code (scripts, notebooks, dependency files) to v5."
+2026-11-19T18:28:29Z,langchain-v1-migrate,0.1.2,,MIT,1595084,"Unofficial codemod that moves LangChain 0.x imports to langchain 1.x / langchain-classic, using a move table computed from the real packages."
+2026-11-19T18:28:51Z,lupaxa-relay,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",94269,Exchange messages between independent programs without extra infrastructure.
+2026-11-19T18:30:09Z,jetbrains-pulumi-gcp-workload-identity,999.9.9,,,984,Stub package that mitigates Dependency Confusion attacks
+2026-11-19T18:31:49Z,phantomcohort,0.0.1,"""Michael P. J. Camilleri"" <michael.p.camilleri@ed.ac.uk>",GPL-3.0-or-later,32382,Event-driven simulator for longitudinal data
+2026-11-19T18:34:30Z,jourtempo,0.1.0,Jour Tempo,MIT,9935,"Couleur Tempo EDF du jour et de demain, jours EJP et jours PP, depuis l'API gratuite et sans clé de Jour Tempo"
+2026-11-19T18:34:40Z,streamtime-cli,1.1.22,,,171364,Streamtime CLI - command-line interface for the Streamtime platform
+2026-11-19T18:37:33Z,rssize,0.1.0,Joachim Folz <joachim.folz@dfki.de>,MIT,19061,"Current resident set size (RSS) of the process, standard library only."
+2026-11-19T18:38:40Z,pdemagic,0.1.0,,LicenseRef-Proprietary,12207887,Solve partial differential equations from a symbolic problem statement.
+2026-11-19T18:39:25Z,knarr,0.1.0,Ron Hermansen,Apache-2.0,276912,"An MCP server that lets an AI agent work through a website toward a goal with guarded browser tools: writes blocked, origin pinned, destructive clicks refused."
+2026-11-19T18:40:21Z,agent-plex,0.9.0,Ilia Petrov-Komotskii <ilia@inkedkettle.games>,MIT,107149,Chat with Perplexity from your terminal (Agent API).
+2026-11-19T18:41:00Z,mcp-google-ads-safe,2.0.0,Alex Murtha <wvuhskr@users.noreply.github.com>,MIT,601339,"Safety-first MCP server for the Google Ads API: opt-in writes, two-phase draft/confirm, spend rails, Smart Bidding guards, audit log."
+2026-11-19T18:41:46Z,galrax,0.2.0,Kirill Terskii,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",295179,"Exact solvers for differential equations over the p-adic numbers and on finite groups, in JAX: p-adic flows, return sets, formal groups and Chabauty, invertible p-adic layers, ultrametric diffusion."
+2026-11-19T18:43:35Z,alibabacloud-qwenb2bchat20261105,1.0.0,Alibaba Cloud SDK,Apache License 2.0,58425,Alibaba Cloud QwenB2BChat (20261105) SDK Library for Python
+2026-11-19T18:43:37Z,pixel-editing-lab,1.0.1,karan.rf,Apache-2.0,25238,PIXEL - Professional Image eXploration & Editing Lab
+2026-11-19T18:44:28Z,helve-mcp,2.0.4,Helve <daniel.foster@helve.dev>,MIT,14314,"Zero-dependency stdio-to-Streamable-HTTP MCP bridge and Python client for Helve (313 tools, 255 providers, spend_limit_usd caps, $0 failed-call escrow)."
+2026-11-19T18:47:39Z,ass-cv-tl,0.1.0,Siva Narayana Surya Chandra,,17924,"Check a YOLO-style image dataset: count train/valid images and labels, and list images without a .txt label and labels without an image"
+2026-11-19T18:48:19Z,uppercut-beat-grid,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,39270,"Detect beats, downbeats and tempo into a JSON beat grid, align cut times to it, and render a beat-synced music bed."
+2026-11-19T18:48:21Z,uppercut-contact-sheet,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,22924,Build labelled contact-sheet grids from images and video frames with Pillow.
+2026-11-19T18:48:23Z,uppercut-ffmpeg-loudness,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,19668,"Measure integrated loudness and true peak with ffmpeg, then apply gain or normalize to a target."
+2026-11-19T18:48:25Z,uppercut-pixel-art-sheets,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,18444,"Pillow helpers for indexed pixel-art sheets: palettes, pattern fills, a bitmap font and sheet packing."
+2026-11-19T18:50:49Z,macropulse-mcp,0.2.0,MacroPulse <support@macropulse.live>,MIT,48271,MCP server for MacroPulse: the daily macro regime (Statistical Jump Model) as tools for AI agents
+2026-11-19T18:52:06Z,showntell,0.2.7,Rahim Nathwani,MIT,5779816,"Narrated slide walkthroughs for coding agents, voiced on your machine"
+2026-11-19T18:55:40Z,langchain-helve,0.1.0,Helve <daniel.foster@helve.dev>,MIT,11816,"LangChain toolkit for Helve — pay-per-call AI tool gateway (313 tools, 255 providers) with spend_limit_usd caps and zero-cost failed-call escrow."
+2026-11-19T18:58:28Z,collective.certificates,1.0.0a1,Érico Andrei <ericof@plone.org>,GPL-2.0-only,2420187,Generate and store participation certificates for events.
+2026-11-19T18:58:57Z,priorities,0.1.0,Corey Spohn <corey.a.spohn@nasa.gov>,"MIT License Copyright (c) 2026 Corey Spohn Permission is hereby granted, free of charge, to any per…",40293,"Probability distributions as Equinox records: densities, draws, inverse CDFs and default transforms in JAX"
+2026-11-19T18:59:22Z,pydantic-ai-helve,0.1.0,Helve <daniel.foster@helve.dev>,MIT,8110,"PydanticAI Capability and MCP helper for Helve — pay-per-call AI tool gateway (313 tools, 255 providers) with spend_limit_usd caps."
+2026-11-19T18:59:23Z,llama-index-tools-helve,0.1.0,Helve <daniel.foster@helve.dev>,MIT,7675,"LlamaIndex ToolSpec for Helve — pay-per-call AI tool gateway (313 tools, 255 providers) with spend_limit_usd caps."
+2026-11-19T19:00:23Z,tapherd,0.1.0,,MIT,822131,"Your AI can now use Android apps: an MCP server and CLI that let Codex, Claude, or Cursor control your Android phones and emulators."
+2026-11-19T19:02:06Z,gtmharness,0.5.0,,MIT,54737,"CI/CD discipline for GTM pipelines: declared-as-code workflows with contract tests, dry-run diffs, and audit logs."
+2026-11-19T19:09:34Z,simready-foundation-tier-newton,2026.10.0,NVIDIA,Apache-2.0,488563,"SimReady Foundation Newton tier: Newton physics features, validators, and solver-owned Evaluate tests with local runtime helpers."
+2026-11-19T19:10:29Z,pygments-plugin-ap-pseudocode,0.5.0,Elly Dameki <elly@dameki.me>,GPL-3.0-or-later,36956,
+2026-11-19T19:10:41Z,securegent,0.1.0,Pratix005,Apache-2.0,728239,"A firewall for AI agents: identity, permissions, approvals and audit between your agent and its tools."
+2026-11-19T19:10:43Z,pyreaction,0.1.0,jeomon,MIT,265336,"React-style UI components in pure Python, rendered on the server and patched into the browser over a WebSocket."
+2026-11-19T19:11:55Z,bleepy,0.1.0,,TBD,4160,A simple foul language filter for Python
+2026-11-19T19:18:05Z,git-surface,0.1.0,,Apache-2.0,57469,A git subcommand that reports which branches change what runs or is trusted.
+2026-11-19T19:20:49Z,llmbenchmark-mcp,1.0.0,"""LLMBenchmark.ai"" <hello@llmbenchmark.ai>",MIT,12833,"Which LLM for which task: benchmark scores and API prices for 400+ models as an MCP server. Free, no API key."
+2026-11-19T19:21:43Z,gamai-plugins,0.2.2,gamAI,MIT,80536,"Portable trust, sandbox and team plugins for AI agents (MCP + CLI)."
