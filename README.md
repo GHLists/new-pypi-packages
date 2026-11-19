@@ -8,38 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 00:20 UTC
+## Latest list — 2026-11-19 01:21 UTC
 
-New packages created between 2026-11-18 23:20 UTC and 2026-11-19 00:20 UTC.
+New packages created between 2026-11-19 00:20 UTC and 2026-11-19 01:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-19T00-20-32-151925Z.csv)
+[Full CSV](data/new-packages-2026-11-19T01-21-43-412969Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-18 22:55:26 | [op-hello](https://pypi.org/project/op-hello/) | 0.2.3 |  | 23.3 kB | Portable 1Password op:// secret reader with Windows Hello support |
-| 2026-11-18 23:20:17 | [payhip-mcp](https://pypi.org/project/payhip-mcp/) | 1.1.0 | Cotlet.dev <contact@cotlet.de… | 15.6 kB | Connect Payhip to ChatGPT, Claude and other AI agents through Cotlet.dev. Inclu… |
-| 2026-11-18 23:24:30 | [uivanti](https://pypi.org/project/uivanti/) | 2.4.0 |  | 13.8 kB | A small pygame-ce library that simplifies building user interfaces: buttons, me… |
-| 2026-11-18 23:28:39 | [netherframe.protocol.tfplugin](https://pypi.org/project/netherframe.protocol.tfplugin/) | 0.3.0 |  | 147.6 kB | Terraform/OpenTofu tfplugin protocol bindings for Netherframe |
-| 2026-11-18 23:28:41 | [netherframe.codec.autoid](https://pypi.org/project/netherframe.codec.autoid/) | 0.3.0 |  | 16.5 kB | Auto-ID codec and preprocessor for Netherframe |
-| 2026-11-18 23:28:43 | [netherframe.core](https://pypi.org/project/netherframe.core/) | 0.9.1 | Sourabh Cheedella | 1.7 MB | Netherframe - Infrastructure as Code framework using Python |
-| 2026-11-18 23:28:46 | [netherframe.lint.hashicorp.aws](https://pypi.org/project/netherframe.lint.hashicorp.aws/) | 0.2.0 |  | 1.2 MB | Netherframe lint rules and schemas for the HashiCorp AWS provider |
-| 2026-11-18 23:37:02 | [clipwatcher](https://pypi.org/project/clipwatcher/) | 0.3.0 | Yash Soni | 675.9 kB | Live-stream clipping for Twitch, driven by chat: when chat explodes, the moment… |
-| 2026-11-18 23:42:29 | [firewall-v1](https://pypi.org/project/firewall-v1/) | 1.0.0 |  | 6.0 kB | A general-purpose Python utility library |
-| 2026-11-18 23:43:50 | [canyonos-api-interface](https://pypi.org/project/canyonos-api-interface/) | 1.0.1 |  | 11.6 kB | Typed client for the CanyonOS REST API |
-| 2026-11-18 23:45:23 | [withonward](https://pypi.org/project/withonward/) | 0.0.1 |  | 606 B | Placeholder for an upcoming release. |
-| 2026-11-18 23:45:24 | [onward-cli](https://pypi.org/project/onward-cli/) | 0.0.1 |  | 607 B | Placeholder for an upcoming release. |
-| 2026-11-18 23:50:32 | [pyharbinger](https://pypi.org/project/pyharbinger/) | 0.1.0 | Eduardo Ogasawara <eogasawara… | 174.5 kB | A unified time series event detection framework (Python port of the R harbinger… |
-| 2026-11-18 23:53:47 | [source-survey](https://pypi.org/project/source-survey/) | 0.1.0 |  | 58.6 kB | Discover Python import cycles, check boundaries, and query source and Git evide… |
-| 2026-11-18 23:54:07 | [canturia](https://pypi.org/project/canturia/) | 0.1.0 | Michael Borck <michael.borck@… | 169.2 kB | A small, privacy-first text-to-song tool: lyrics or a topic plus a genre, rende… |
-| 2026-11-18 23:56:58 | [thinkument-cli](https://pypi.org/project/thinkument-cli/) | 0.1.0 | Thinkument Team | 48.5 kB | Thinkument CLI & Developer SDK: Offline Studio, Local Daemon, and Sovereign Clo… |
-| 2026-11-18 23:57:32 | [bimtester](https://pypi.org/project/bimtester/) | 1.0.0 | Dion Moult <dion@thinkmoult.c… | 223.7 kB | Gherkin based tests for BIM data |
-| 2026-11-19 00:02:07 | [kicad-splitplane](https://pypi.org/project/kicad-splitplane/) | 0.5.0 | Aleksandar Tuzlak | 51.5 kB | Split a KiCad power layer into one continuous copper zone per net |
-| 2026-11-19 00:03:31 | [ovos-network-log](https://pypi.org/project/ovos-network-log/) | 0.1.0a1 | Andreas Lorensen | 23.8 kB | A network log for OpenVoiceOS: every request OVOS and its skills make – when, w… |
-| 2026-11-19 00:04:34 | [arsalan-fresh-pkg-8899](https://pypi.org/project/arsalan-fresh-pkg-8899/) | 0.1.0 | bughunter8123-png | 2.3 kB | A fresh Python package for testing OIDC publishing |
-| 2026-11-19 00:05:00 | [fhir-inspector-mcp](https://pypi.org/project/fhir-inspector-mcp/) | 0.0.6 |  | 50.9 kB | Zero-cost MCP server to inspect, validate, summarize, and generate FHIR R4/R5 r… |
-| 2026-11-19 00:05:01 | [whatferry](https://pypi.org/project/whatferry/) | 1.0.0 | Edward Arghiroiu | 1.2 MB | Move WhatsApp chats between Android and iPhone, in either direction, without er… |
-| 2026-11-19 00:11:43 | [pvade](https://pypi.org/project/pvade/) | 1.1.0 | Ethan Young, Walid Arsalane,… | 223.7 kB | Fluid-structure interaction modeling of wind loads on solar-tracking photovolta… |
-| 2026-11-19 00:14:03 | [tau2-faults](https://pypi.org/project/tau2-faults/) | 0.1.0 | Ankit Goel | 20.6 kB | Tool-fault injection for tau2-bench (lost responses, transient errors, stale re… |
-| 2026-11-19 00:15:14 | [warm-integrations](https://pypi.org/project/warm-integrations/) | 0.1.0 | "WritersLogic, Inc." <david@w… | 196.6 kB | Agent and RAG framework adapters for WARM |
-| 2026-11-19 00:15:19 | [warm-claude-tool](https://pypi.org/project/warm-claude-tool/) | 0.1.0 | "WritersLogic, Inc." <david@w… | 33.0 kB | Backend for Anthropic's client-side memory tool (memory_20250818) on WARM: a /m… |
-| 2026-11-19 00:18:32 | [fastskins-mcp](https://pypi.org/project/fastskins-mcp/) | 1.0.0 | Fast Skins <contato@fastskins… | 10.6 kB | Official MCP Server for Fast Skins (fastskins.gg) - real-time CS2 skin prices i… |
+| 2026-11-19 00:22:32 | [tsurara-plugin](https://pypi.org/project/tsurara-plugin/) | 0.1.0 |  | 112.3 kB | Write tsurara plugins in Python |
+| 2026-11-19 00:22:33 | [tsurara-client](https://pypi.org/project/tsurara-client/) | 0.1.0 |  | 68.0 kB | Runtime library for Python code generated by tsurara |
+| 2026-11-19 00:23:59 | [godotkit](https://pypi.org/project/godotkit/) | 0.8.1 | KROSSEYE | 51.7 kB | Python utilities and classes for working with Godot engine releases and project… |
+| 2026-11-19 00:24:23 | [agent-palm](https://pypi.org/project/agent-palm/) | 1.3.1 | Sebastian <sebastian@blackbir… | 144.6 kB | AI PalmPilot - Agent-native memory layer (serverless, in-process) |
+| 2026-11-19 00:25:36 | [hegemony-steps-netcli](https://pypi.org/project/hegemony-steps-netcli/) | 0.46.1 |  | 42.1 kB | Network-device CLI step handlers for Hegemony |
+| 2026-11-19 00:25:38 | [hegemony-steps-http](https://pypi.org/project/hegemony-steps-http/) | 0.46.1 |  | 43.2 kB | HTTP(S) request step handler for Hegemony (http.request) |
+| 2026-11-19 00:25:41 | [hegemony-steps-container](https://pypi.org/project/hegemony-steps-container/) | 0.46.1 |  | 122.2 kB | Docker container execution step handler for Hegemony |
+| 2026-11-19 00:25:44 | [hegemony-steps-flow](https://pypi.org/project/hegemony-steps-flow/) | 0.46.1 |  | 25.1 kB | Flow orchestration step handlers for Hegemony |
+| 2026-11-19 00:27:00 | [kicad-splitplane-mcp](https://pypi.org/project/kicad-splitplane-mcp/) | 0.5.0 | Aleksandar Tuzlak | 4.3 kB | MCP server for kicad-splitplane: lets AI agents split KiCad power planes |
+| 2026-11-19 00:27:21 | [factoid](https://pypi.org/project/factoid/) | 0.1.3 | Endgame Labs, Inc. | 301.7 kB | Turn documents into facts and entities. |
+| 2026-11-19 00:28:28 | [hpflow](https://pypi.org/project/hpflow/) | 0.3.0 | Cary Palmer | 122.6 kB | A proof gate for one Python function (Lean 4), and an audit ladder that takes r… |
+| 2026-11-19 00:28:58 | [omnisnap](https://pypi.org/project/omnisnap/) | 0.0.1 |  | 2.3 kB | Name reservation. The v1 release lands later: https://omnisnap.org |
+| 2026-11-19 00:29:15 | [iphone-mcp](https://pypi.org/project/iphone-mcp/) | 0.2.0 | Damien Frigewski | 237.1 kB | MCP server that lets AI agents (Claude Code, Codex, …) see and control a real i… |
+| 2026-11-19 00:29:36 | [fluidp](https://pypi.org/project/fluidp/) | 1.0.0 | Sbtias | 7.2 kB | Una librería moderna de Tkinter con componentes personalizados y diseño fluido. |
+| 2026-11-19 00:29:47 | [wolfdocx-docx](https://pypi.org/project/wolfdocx-docx/) | 0.1.0 | Wolfgang Schoenberger | 49.4 kB | Opt-in python-docx import alias over the MIT WolfDocx engine for agent-style ed… |
+| 2026-11-19 00:30:04 | [jetbrains-pulumi-docker](https://pypi.org/project/jetbrains-pulumi-docker/) | 999.9.9 |  | 969 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-19 00:35:24 | [sprawl-guard](https://pypi.org/project/sprawl-guard/) | 0.6.0b1 |  | 14.7 MB | Repository sprawl checker CLI. |
+| 2026-11-19 00:35:55 | [nexiel-sdk](https://pypi.org/project/nexiel-sdk/) | 0.1.0 | Nexiel Ltd | 3.1 MB | Official Python client for the Nexiel APIs: EUDI wallet verification, screening… |
+| 2026-11-19 00:36:45 | [ddma](https://pypi.org/project/ddma/) | 0.12.1 | Anas Makdesi, Antoine Girard,… | 16.1 MB | Data-driven models and abstractions with guarantees: models of monotone systems… |
+| 2026-11-19 00:38:39 | [dex-connector-microsoft-outlook-mail](https://pypi.org/project/dex-connector-microsoft-outlook-mail/) | 0.1.0 |  | 145.6 kB | Microsoft Outlook Mail connector for Dex Flows |
+| 2026-11-19 00:42:06 | [qfeval-model](https://pypi.org/project/qfeval-model/) | 0.1.0 | Preferred Networks, Inc. | 343.7 kB | Write prediction models over timestamp x symbol panel data as plain decorated P… |
+| 2026-11-19 00:42:38 | [mypy-boto3-abuse-signal](https://pypi.org/project/mypy-boto3-abuse-signal/) | 1.44.6 | Vlad Emelianov <vlad.emeliano… | 40.5 kB | Type annotations for boto3 AbuseSignal 1.44.6 service generated with mypy-boto3… |
+| 2026-11-19 00:45:35 | [netinfra-auto-reblast-special-7dog3](https://pypi.org/project/netinfra-auto-reblast-special-7dog3/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.4 kB | Technical network verification and high-availability endpoint registry for Auto… |
+| 2026-11-19 00:49:00 | [pawk-ng](https://pypi.org/project/pawk-ng/) | 2.0.1 | Vicente Adolfo Bolea Sanchez | 103.3 kB | An awk-style stream editor whose pattern/action code is Python 3 |
+| 2026-11-19 00:50:13 | [netinfra-auto-reblast-special-yyvtc](https://pypi.org/project/netinfra-auto-reblast-special-yyvtc/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.2 kB | Technical network verification and high-availability endpoint registry for Auto… |
+| 2026-11-19 00:51:59 | [stellar-horizon](https://pypi.org/project/stellar-horizon/) | 0.1.0 | overcat | 561.8 kB | A typed Python client for the Stellar Horizon API. |
+| 2026-11-19 00:53:52 | [nfs-db](https://pypi.org/project/nfs-db/) | 1.0.0 | Carson O'Ffill | 19.7 kB | A database-like interface for your NFS |
+| 2026-11-19 00:54:01 | [netinfra-auto-reblast-special-qrj4c](https://pypi.org/project/netinfra-auto-reblast-special-qrj4c/) | 1.0.0 | Autonomous Infrastructure Lab… | 8.0 kB | Technical network verification and high-availability endpoint registry for Auto… |
+| 2026-11-19 00:54:04 | [mcp-server-everesteer](https://pypi.org/project/mcp-server-everesteer/) | 0.1.0 | Marcell Tukora | 185.9 kB | Agent-first MCP server and LangGraph tools for the Everesteer prediction tourna… |
+| 2026-11-19 00:56:40 | [imagetovideoai-tools](https://pypi.org/project/imagetovideoai-tools/) | 0.1.0 |  | 6.9 kB | Inspect local images before using them in image-to-video workflows |
+| 2026-11-19 00:56:55 | [python-airselangor](https://pypi.org/project/python-airselangor/) | 0.1.0 | Zubir Jamal | 26.5 kB | Asynchronous Python client for Air Selangor customer portal API |
+| 2026-11-19 01:00:35 | [ajaflow-sdk](https://pypi.org/project/ajaflow-sdk/) | 1.0.0 |  | 28.0 kB | Python client for the AJA order API: the shop sends its orders and polls the me… |
+| 2026-11-19 01:00:41 | [registration1d](https://pypi.org/project/registration1d/) | 0.0.2 | Todd Pataky <spm1d.mail@gmail… | 131.8 kB | Linear and nonlinear registration of one-dimensional data |
+| 2026-11-19 01:02:11 | [ai_shell_history](https://pypi.org/project/ai_shell_history/) | 0.0.1 |  | 21.9 kB | Shell history, enhanced with AI. |
+| 2026-11-19 01:03:46 | [nano-settlement-verify](https://pypi.org/project/nano-settlement-verify/) | 2.0.0 |  | 550.8 kB | Verify that a Nano (XNO) send block really settled, without running a node clie… |
+| 2026-11-19 01:06:21 | [mcp-server-rc](https://pypi.org/project/mcp-server-rc/) | 0.1.0 |  | 16.5 kB | MCP Server for Huawei Cloud RC (Resource Center) |
+| 2026-11-19 01:08:40 | [fastapi-ip2proxy](https://pypi.org/project/fastapi-ip2proxy/) | 1.0.0 | IP2Location <support@ip2locat… | 15.2 kB | A FastAPI middleware SDK for the IP2Proxy Python library. |
+| 2026-11-19 01:11:29 | [python-iwk](https://pypi.org/project/python-iwk/) | 0.1.0 | Zubir Jamal | 23.6 kB | Asynchronous Python client for Indah Water Konsortium (IWK) customer portal API |
+| 2026-11-19 01:14:21 | [types-boto3-abuse-signal](https://pypi.org/project/types-boto3-abuse-signal/) | 1.44.6 | Vlad Emelianov <vlad.emeliano… | 40.7 kB | Type annotations for boto3 AbuseSignal 1.44.6 service generated with mypy-boto3… |
+| 2026-11-19 01:15:28 | [b4n1-net](https://pypi.org/project/b4n1-net/) | 0.4.0 | Bani Montoya <banimontoya@gma… | 378.7 kB | b4n1-net — Sovereign Network Layer SDK. Thin Python wrapper around the b4n1-net… |
+| 2026-11-19 01:16:54 | [framepipe](https://pypi.org/project/framepipe/) | 0.4.2.dev4 |  | 73.0 MB |  |
+| 2026-11-19 01:19:57 | [gauge-sc](https://pypi.org/project/gauge-sc/) | 0.1.0a2 |  | 4.2 MB | View-specific evaluation and audit of biological groupings |
