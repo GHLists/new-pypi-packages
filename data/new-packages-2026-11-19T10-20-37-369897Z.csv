@@ -1,0 +1,71 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T08:42:38Z,odoo-addon-edi-payload-tracking-oca,19.0.1.0.0.3,"Camptocamp, Odoo Community Association (OCA)",LGPL-3,30712,Keep track of the payload exported for each record
+2026-11-19T08:43:47Z,odoo-addon-edi-payload-tracking-queue-oca,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",LGPL-3,24926,Retry the job when a payload is stored concurrently
+2026-11-19T09:00:00Z,m365,0.1.0a3,DOYDL Technologies,MIT,610963,Independent Microsoft Graph toolkit for Microsoft 365
+2026-11-19T09:18:14Z,gemini-on-python,0.1.2,Leaftify,MIT,6019,A lightweight Python client for the Google Gemini API
+2026-11-19T09:21:38Z,skillbridge-ai,0.1.0,SkillBridge contributors,MIT,20516,Discover and safely invoke application capabilities through portable manifests
+2026-11-19T09:22:10Z,bounded-execution,0.1.0a1,,MIT,30252,Bounded admission control for Python thread and process executors
+2026-11-19T09:22:58Z,postcrm-plugin-cli,0.1.0,PostCRM,PostCRM Plugin CLI License Copyright (c) 2026 PostLTD. All rights reserved. This license applies to…,18194,PostCRM plugin packaging CLI
+2026-11-19T09:24:12Z,weft-ui,0.1.0,Ankit Tripathi,MIT,1978782,"Animated React UI components for Streamlit, rendered without iframes."
+2026-11-19T09:27:42Z,team-hermes.core,1.0.1,,,13025,Shared application exceptions for Team Hermes projects
+2026-11-19T09:27:46Z,promptli-rakazo,0.1.1,Promptli,MIT,179734,"Promptli Comms for Rakazo: inbound email, texts and voicemail reach a Rakazo bot over Agent Link"
+2026-11-19T09:34:31Z,civil-qto-mcp,0.6.1,András Sándor Laczi,MIT,438565,"Deterministic Model Context Protocol (MCP) server for Civil Engineering, Roadworks, Paving & Utilities Quantity Take-Off (DXF) and Bill of Quantities (XLSX/XLSM) Auditing."
+2026-11-19T09:36:52Z,web-capture-python-examples,0.1.0,,Unlicense,15740,Python HTTP client examples for the web-capture service
+2026-11-19T09:37:38Z,napari-th3-server,0.1.1.dev0,,,7141,Persistent napari display server and one-shot clients for ROOT TH3 histograms
+2026-11-19T09:37:40Z,fmu-sumo-explorer,3.0.0,Equinor,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",155566,Python package for interacting with Sumo in an FMU setting
+2026-11-19T09:38:09Z,ekl-cli,0.10.0,"""EuKreate, Inc."" <support@eukollab.ai>",LicenseRef-EuKreate-Proprietary,237433,ekl: the EuKollab command line for agent owners and developers (view and configure)
+2026-11-19T09:38:46Z,remote-jobs-api-mcp,1.0.0,,MIT,11327,"MCP server: live, normalized remote-job data across 5 boards via the keyless Remote Jobs API."
+2026-11-19T09:38:49Z,browsermem,0.1.0,BinaryBreaker,MIT,216156,"Real-time browser tab URLs and titles for Python on Windows: get the active tab, react to tab changes, track browsing activity. Chrome, Edge, Brave, Opera, Vivaldi."
+2026-11-19T09:39:00Z,ekl-provider-adapter,0.11.0,"""EuKreate, Inc."" <support@eukollab.ai>",Apache-2.0,155042,Provider adapter for EuKollab: put an existing MCP server on the network
+2026-11-19T09:39:34Z,ekl-desktop,0.1.0,"""EuKreate, Inc."" <support@eukollab.ai>",LicenseRef-EuKreate-Proprietary,6194,Opens the EuKollab console in its own desktop window
+2026-11-19T09:40:17Z,sinapsis_cli,1.0.0,"Ariel Ruiz-Garcia <ariel@sinapsis.tech>, Nimesh Patel <nimesh@sinapsis.tech>",MIT OR Apache-2.0,229189,"Sinapsis CLI for interaction with sinapsis services locally through a venv, docker or remotely with the sinapsis cloud api"
+2026-11-19T09:40:27Z,sinapsis_deserialization,1.0.0,"Ariel Ruiz-Garcia <ariel@sinapsis.tech>, Nimesh Patel <nimesh@sinapsis.tech>",MIT OR Apache-2.0,167420,Deserialization utilities for Sinapsis pipelines.
+2026-11-19T09:40:32Z,markdown2word,0.1.0,Raphaël Jolivet,MIT,146066,Markdown + YAML front matter + a Word/ODT template -> styled document
+2026-11-19T09:41:33Z,txt2epub-cli,0.1.0,ak1ra <git@ak1ra.xyz>,GPL-3.0-only,201978,Auditable Chinese TXT to EPUB 3 converter with multi-level TOC
+2026-11-19T09:42:07Z,sinapsis-api,1.0.0,"Ariel Ruiz-Garcia <ariel@sinapsis.tech>, Nimesh Patel <nimesh@sinapsis.tech>",MIT OR Apache-2.0,120988,Sinapsis Agent API to run and mange Agent runs locally.
+2026-11-19T09:43:14Z,mutagroup,0.0.1,Evgeniy Blinov <zheni-b@yandex.ru>,,22383,
+2026-11-19T09:44:30Z,team-hermes.fastapi-error-handling,1.0.1,,,39497,FastAPI error handling for Team Hermes projects
+2026-11-19T09:44:40Z,authtracker,0.0.1,Phosphene AI,Apache-2.0,200736,"Backend-independent, variable-configured experiment tracking and model versioning on top of MLflow."
+2026-11-19T09:46:34Z,polars-online-compat,1.6.0,Hans Gilde,Apache-2.0,177100097,"Streaming / online regression models for Polars: the build for x86-64 CPUs without AVX2, with the same import name as polars-online"
+2026-11-19T09:46:50Z,inventree-part-pricing-update,0.4.19,Simone Amadori <simone@amadori.bs.it>,MIT,309182,"InvenTree plugin: keeps the supplier part prices up to date from Mouser, DigiKey and Farnell, with price history"
+2026-11-19T09:47:21Z,korail-py-SDK,0.1.1,sontheo,Apache-2.0,993550,Synchronous KORAIL protocol client
+2026-11-19T09:49:14Z,aa-ticket,1.0.3,yilifaer,MIT,391713,Ticket system for Alliance Auth: route requests to departments with Discord notifications.
+2026-11-19T09:49:26Z,agentest-ai,3.5.0,Dr Srinivas Padmanabhuni,Apache-2.0,2260785,"Deterministic, offline checks for tool-using LLM agents (130 default checks and 30 opt-in New tests)"
+2026-11-19T09:49:48Z,akef,0.3.0,SORA <shresthvaibhav13@gmail.com>,MIT,102622,"Async Python wrapper for Arknights: Endfield, SKPORT accounts, Enka profiles and final stats"
+2026-11-19T09:50:05Z,akef-cards,0.3.1,SORA <shresthvaibhav13@gmail.com>,MIT,62861548,"Image cards for Arknights: Endfield, from an Enka UID or a SKPORT account"
+2026-11-19T09:50:42Z,ai-math-duc,0.1.0,Ngo Duc,,2766,
+2026-11-19T09:51:17Z,markocto-v2-backend,0.1.0,MarkOcto Team,,5893585,MarkOcto v2 Backend API
+2026-11-19T09:51:49Z,inventree-supplier-part-import,0.1.22,Simone Amadori <simone@amadori.bs.it>,GPL-3.0-or-later,322538,"Cerca i componenti su Mouser, DigiKey e Farnell e li crea in InvenTree con le regole di Ki-nTree"
+2026-11-19T09:52:36Z,phronesis,0.1.1,,,121213,"A chest of skills: list them, install them into an agent harness (vibe, ...)"
+2026-11-19T09:53:58Z,setuav-neuralfoil,0.3.3.1,Setuav,MIT,15148875,Setuav's fork of NeuralFoil that runs on NumPy alone: airfoil aerodynamics with physics-informed machine learning.
+2026-11-19T09:54:16Z,textclust,0.1.0,Lea-Marie Sussek <sussekl@mail.uni-paderborn.de>,,82877,Implementation and extention of textClust
+2026-11-19T09:54:28Z,uzwiki,0.1.0,Abror Kushshiyev <abrorkushshiyev@gmail.com>,MIT,45054,"Wikipedia and Wikidata lookups with Uzbek defaults, English fallback and an optional Gemini translation layer."
+2026-11-19T09:59:11Z,spikecraft,0.1.0,Sanaullah,MIT,30474,"Write spiking-neuron equations, get trainable PyTorch layers. Includes a model zoo (LIF, ALIF, Izhikevich, AdEx, Hodgkin-Huxley, ...)."
+2026-11-19T09:59:23Z,conll-to-grew,1.0.0,Niklas Deworetzki,MPL-2.0,23360,Translate underspecified CoNLL-U sentences into Grew-match queries.
+2026-11-19T10:00:54Z,python-gjanga,0.1.0,,,67063,A portable bundle containing the full gjanga project
+2026-11-19T10:02:12Z,daedalus-tools,0.13.1,,,131265,"Template for daedalus: loose scripts in one repo, run with: daedalus <name> [args...]"
+2026-11-19T10:04:41Z,moi-product-sdk,0.1.0.dev20261119093303,Matrixflow,Proprietary,610499,MOI product-level SDK
+2026-11-19T10:04:55Z,dai-media-sdk,0.8.0,,MIT,91115,"Python SDK for D.AI image, video, and audio generation"
+2026-11-19T10:05:01Z,mailveri,1.0.0,MailVeri <support@mailveri.com>,MIT,19418,"Official zero-dependency Python SDK (sync & async) for MailVeri email verification ($59/100K, $299/1M, non-expiring credits)."
+2026-11-19T10:05:07Z,pyhuy,0.0.1,,MIT,3223,"Alias of pyhyi, the repository hygiene checker. Installs pyhyi."
+2026-11-19T10:05:09Z,pyhyi,0.0.1,,MIT,59125,Repository hygiene checker: catches the mess autonomous coding agents leave behind.
+2026-11-19T10:05:14Z,pyhui,0.0.1,,MIT,3223,"Alias of pyhyi, the repository hygiene checker. Installs pyhyi."
+2026-11-19T10:05:45Z,uzdublyaj,0.1.0,Abror Kushshiyev <abrorkushshiyev@gmail.com>,MIT,72851,"Translate English, Russian and Korean video tutorials (YouTube or local files) into Uzbek: subtitles and AI voice-over dubbing with Google Gemini."
+2026-11-19T10:07:11Z,ftptech-x402-canton,0.1.0,FTP Tech LLC,Apache-2.0,235688,"Canton x402 merchant plugin for the official x402 Python SDK (FastAPI, Flask)"
+2026-11-19T10:10:15Z,wingbox-http,0.13.0,Aileron Technologies,MIT,24803,Streamable HTTP transport for the Wingbox MCP server: call the code graph of a repository from another machine.
+2026-11-19T10:10:54Z,tribulnation-risex,0.1.0,,MIT,49315,Tribulnation SDK implementation for RISEx perpetuals.
+2026-11-19T10:12:08Z,certified-corruption-budget,0.1.0,HEKPYTO,MIT,39647,Anytime-valid leaderboard claims with a certified corruption budget
+2026-11-19T10:13:14Z,ts-second-opinion,0.3.0,TS Second Opinion contributors,MIT,477300,"Check, repair and triage machine-learned transition-state guesses before spending DFT, from three .xyz files, with LLM-written rules tested on real data"
+2026-11-19T10:13:31Z,tyle,0.1.0,,,23154,TYLE (Tiled Inference Layout Encoding): a CPU-native single-file model format for local LLM inference.
+2026-11-19T10:14:00Z,touchstone-llm,0.1.0,Harshita Sharma,Apache-2.0,1526418,"A touchstone for LLMs in Hindi and Hinglish: run small, reproducible evals from the command line."
+2026-11-19T10:14:40Z,pyhuj,0.0.1,,MIT,3224,"Alias of pyhyi, the repository hygiene checker. Installs pyhyi."
+2026-11-19T10:14:41Z,pihui,0.0.1,,MIT,3222,"Alias of pyhyi, the repository hygiene checker. Installs pyhyi."
+2026-11-19T10:14:43Z,pihuy,0.0.1,,MIT,3225,"Alias of pyhyi, the repository hygiene checker. Installs pyhyi."
+2026-11-19T10:15:15Z,quiet-factory,0.0.0,,Apache-2.0,1865,"Name reserved for Quiet Factory, a lights-out software factory. Nothing is released here yet."
+2026-11-19T10:15:59Z,langchain-obscate,0.1.0,Skycast,MIT,36576,"Reversible PII redaction for LangChain: redact before the LLM, restore after (Obscate API)"
+2026-11-19T10:16:00Z,llama-index-postprocessor-obscate,0.1.0,Skycast,MIT,30635,"Reversible PII redaction for LlamaIndex: redact retrieved nodes and queries before the LLM, restore the answer (Obscate API)"
+2026-11-19T10:16:02Z,obscate-mcp,0.1.0,Skycast,MIT,29780,"MCP server for Obscate: reversible PII redaction (redact, restore, detect, JSON) for AI agents"
+2026-11-19T10:16:30Z,pohuj,0.0.1,,MIT,3225,"Alias of pyhyi, the repository hygiene checker. Installs pyhyi."
+2026-11-19T10:17:24Z,pydantic-ai-viz,0.1.0,pydantic-ai-viz contributors,MIT,1010895,"See what your Pydantic AI agents are and what they do: blueprints, live runs and shareable replays. Unofficial, not affiliated with Pydantic."
+2026-11-19T10:17:28Z,tov,0.1.0,Tom Dyson,MIT,9912,"Rewrite text in a given tone of voice using Gemini, from the command line"
+2026-11-19T10:19:58Z,narra,0.0.1,Michael Borck <michael.borck@curtin.edu.au>,MIT,306784,"A small, privacy-first source-to-podcast tool: a PDF or text file in, a multi-speaker episode out. Bring your own writer and voice."
