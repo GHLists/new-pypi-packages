@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-11-19T19:22:02.194995Z",
-    "path": "data/new-packages-2026-11-19T20-20-10-101129Z.csv",
-    "to": "2026-11-19T20:20:10.101129Z"
+    "count": 55,
+    "from": "2026-11-19T20:20:10.101129Z",
+    "path": "data/new-packages-2026-11-19T21-19-47-386418Z.csv",
+    "to": "2026-11-19T21:19:47.386418Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-19T19:52:54Z",
       "package": "18n-mirror",
       "since": "2026-11-19T19:22:02.194995Z",
@@ -15,34 +15,20 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-19T16:53:59Z",
-      "package": "comodel",
-      "since": "2026-11-19T16:21:26.90971Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-19T17:37:16Z",
       "package": "opportune",
       "since": "2026-11-19T17:21:16.505318Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-19T17:28:15Z",
       "package": "piggy_bank",
       "since": "2026-11-19T17:21:16.505318Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-19T16:37:18Z",
-      "package": "tribulnation-evedex",
-      "since": "2026-11-19T16:21:26.90971Z",
-      "version": null
     }
   ],
-  "serial": 43903230,
+  "serial": 43905653,
   "source_truncated": false,
-  "window": "2026-11-19T20:20:10.101129Z"
+  "window": "2026-11-19T21:19:47.386418Z"
 }

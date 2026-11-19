@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T20:23:40Z,linearjeph,1.2.0,LINEARJEPH <support@linearjeph.cc>,MIT,98144,"Revenue forecasting and growth analytics (Prophecy: MRR/ARR projection, churn, feature impact) plus error tracking, performance, logs and cron monitoring for Python apps. Zero dependencies."
+2026-11-19T20:24:47Z,fuzzybits,0.17.0,fuzzybit-org,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright © 2007 Free Software Founda…",105354364,Monte Carlo probability engine for OpenPSA MEF fault trees (AdaptiveCpp/SYCL)
+2026-11-19T20:25:05Z,robot-structural-mcp,0.1.0,brdz4,Apache-2.0,160674,"MCP server for Autodesk Robot Structural Analysis: model, results, NEC-15 checks and ACI 318 reinforcement"
+2026-11-19T20:26:02Z,fuzzybits-server,0.17.0,fuzzybit-org,AGPL-3.0-or-later,2054540,FastAPI server: compile OpenPSA/MEF fault trees to .pcfb and sample the top event.
+2026-11-19T20:26:10Z,poland-transit-mcp,0.5.5,alexratmanpl,MIT,643076,"MCP server for Polish cities: places, walking routes, public transport timetables and trip planning from OpenStreetMap and official GTFS feeds. One SQLite file per city."
+2026-11-19T20:26:13Z,poland-transit-mcp-engine,0.2.0,,MIT,7353,"Optional Rust search engine for poland-transit-mcp: same answers as the built-in Python search; search ~20x faster, a whole plan_trip 2.3–3.4x faster"
+2026-11-19T20:28:55Z,mathema-ci,0.1.0,Tetrion Ltd <contact@tetrion.co>,Apache-2.0,215469,"mathema in CI: run the tests, measure implementation, intent and clarity, and keep the triangle in your README, from one command."
+2026-11-19T20:29:59Z,django-omb-regions,0.0.1.dev1,Geoffrey Eisenbarth,MIT,52114,"Versioned US states, counties, and OMB regions for GeoDjango."
+2026-11-19T20:30:49Z,aa-recruitment,0.2.0,Maddog Broekman <maddogbroekman@gmail.com>,MIT,601710,Recruitment and Application Management Plugin for Alliance Auth
+2026-11-19T20:33:24Z,sdb-reader,0.9.0,"""Förde-Baumarkt Holger Claussen GmbH & Co. KG"" <service@foerde-baumarkt.de>",AGPL-3.0-or-later,406839,"Reads German safety data sheets (Sicherheitsdatenblätter) under REACH and CLP, without a language model"
+2026-11-19T20:33:54Z,m2radiology,0.0.0,"Boring Radiology, Inc.",Apache-2.0,2399,Python client for m2 by Boring Radiology. See m2rad.
+2026-11-19T20:34:17Z,cronplane-actions,0.1.1,,Apache-2.0,59153,"Write Cronplane actions in Python: typed inputs, outputs, secrets, masked values and an HTTP client that guards against SSRF."
+2026-11-19T20:35:09Z,fde-tax-engine,0.0.1,,,2452,Reserved name - not for use. This project holds no code.
+2026-11-19T20:35:10Z,fde-v3,0.0.1,,,2302,Reserved name - not for use. This project holds no code.
+2026-11-19T20:40:23Z,gasp-ossie-validator,0.1.0,Gareth O'Shea,Apache-2.0,22776,"Checks the GASP payloads in an Apache Ossie document against the GASP extension schema, as a vendor validator for validation/validate.py --vendor GASP"
+2026-11-19T20:42:34Z,certify-web,0.1.3,certify-web contributors,MIT,34141,HTTPS mTLS client/CLI with mandatory NinjaOne agent deployment on Linux install
+2026-11-19T20:44:39Z,llama-index-tools-treza,0.1.0,"""Treza Labs, Inc."" <hello@trezalabs.com>",MIT,22702,"Treza tools for LlamaIndex: generate AI pictures and videos and run Treza pipelines, with a price cap on every render."
+2026-11-19T20:44:56Z,crewai-treza,0.1.0,"""Treza Labs, Inc."" <hello@trezalabs.com>",MIT,24182,"Treza tools for CrewAI: generate AI pictures and videos and run Treza pipelines, with a price cap on every render."
+2026-11-19T20:45:40Z,nebi-cli,0.2.0,The nebi authors,Apache-2.0,235068,"Unofficial agent-friendly `nebi` CLI compatible with the Beni robot (LZ110/LZ100): JSON command client, agent runtime, local robot tools. Not affiliated with the manufacturer."
+2026-11-19T20:45:42Z,nebi-cockpit,0.3.0,The nebi authors,Apache-2.0,268857,"Unofficial web cockpit compatible with the Beni robot (LZ110/LZ100): FastAPI control server, live H.265 FPV video, intercom, extensions. Not affiliated with the manufacturer."
+2026-11-19T20:45:42Z,nebi-lib,0.2.0,The nebi authors,Apache-2.0,751298,"Unofficial async Python SDK and simulator compatible with the Beni robot (LZ110/LZ100). Not affiliated with the manufacturer; moves the robot, use with supervision."
+2026-11-19T20:46:11Z,release-drift,0.1.0,,Apache-2.0,49151,"Report what a package release adds: changed files, new install and startup code, files not in the tagged source."
+2026-11-19T20:46:26Z,trust-path,0.1.0,,Apache-2.0,52603,List the paths by which untrusted input can reach secrets and publishing credentials in GitHub Actions workflows.
+2026-11-19T20:46:53Z,antsibull-docs-loader,0.1.0,Felix Fontein <felix@fontein.de>,GPL-3.0-or-later AND BSD-2-Clause AND MIT AND PSF-2.0,93328,Library for loading Ansible documentation
+2026-11-19T20:47:13Z,dst-test-vectors,0.1.1,Plainfold <plainfoldhq@proton.me>,MIT,25002,"DST test vectors for nonexistent (gap) and ambiguous (overlap) local times, with helpers to test your timezone code. Standard library only."
+2026-11-19T20:47:26Z,nebi-voice,0.2.0,The nebi authors,Apache-2.0,236452,Small-robot text-to-speech on the tiny-voca ONNX model; a nebi TTS extension for robots compatible with Beni. Not affiliated with the manufacturer.
+2026-11-19T20:47:29Z,nebi-patch,0.1.0,The nebi authors,Apache-2.0,95155,"Unofficial firmware patcher, integrity verifier, and OTA uploader compatible with the Beni robot (LZ110/LZ100). Not affiliated with the manufacturer."
+2026-11-19T20:47:58Z,odoo-addon-l10n-us-sales-tax-engine-origin-sourcing,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",LGPL-3,616413,Rate US sales tax with the address of the selling company.
+2026-11-19T20:50:06Z,hproxy-cli,0.4.9,HProxy,MIT,23793939,"The hproxy command-line tool: check proxies, run a rotating proxy over your own list, and switch it to a new IP from any script."
+2026-11-19T20:52:05Z,lupaxa-number-oddities,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",49900,Offline command-line inspector of recreational mathematical properties of integers.
+2026-11-19T20:52:14Z,symcrys,0.5.0,Thomas Lottermoser,MIT,45125,"Crystallographic symmetry calculations: point groups, their settings, symbols, site symmetry and Wyckoff positions, and the forms of property tensors. The TypeScript library symcrys of the same versi…"
+2026-11-19T20:53:59Z,topodesia-lidar,7.5.4,Topodesia,Distribucion de prueba con vencimiento 20-11-2026,240890,Visor LiDAR para Windows con motor C++ y Vulkan 1.4 (DLL nativa)
+2026-11-19T20:55:39Z,superscalar,0.0.0,,Apache-2.0,1662,Placeholder: this name is reserved for the superscalar scalar types library. The first release is not out yet.
+2026-11-19T20:55:41Z,superschematic,0.0.0,,Apache-2.0,1717,Placeholder: this name is reserved for the superschematic schema compiler and its runtime libraries. The first release is not out yet.
+2026-11-19T20:55:43Z,superschematic-schema-runtime,0.0.0,,Apache-2.0,1837,Placeholder: this name is reserved for the superschematic schema compiler and its runtime libraries. The first release is not out yet.
+2026-11-19T20:57:18Z,mapbiomas-gif-factory,0.2.0,Wallace Vieira da Silva,MIT,323180,"Animated GIFs, collages and yearly maps of MapBiomas products for any territory, from Google Colab, without programming."
+2026-11-19T20:59:17Z,cnlab,0.1.0,,,18638,Write standalone Python computer networks lab programs by ID.
+2026-11-19T20:59:18Z,doku2d,0.1.0,Metehan Özbek,"MIT License Copyright (c) 2026 Metehan Özbek Permission is hereby granted, free of charge, to any p…",2671427,Python için kod odaklı 2D oyun framework'ü
+2026-11-19T21:00:04Z,nos-tlplot,3.0.1,Vihaan Sahu <pteroisvolitans12@gmail.com>,Apache-2.0,57225,Visualization Tool for Newcastle–Ottawa Scale Risk-of-Bias Assessments
+2026-11-19T21:00:55Z,oracle.oci-postgresql-runtime-mcp-server,1.0.0,Oracle MCP <237432095+oracle-mcp@users.noreply.github.com>,UPL-1.0,115611,PostgreSQL runtime MCP server
+2026-11-19T21:02:01Z,opinion-cumplimiento-sat-scraper-python,0.1.0,PJMP4826,"MIT License Copyright (c) 2026 PJMP4826 Permission is hereby granted, free of charge, to any person…",42323,Descarga de la Opinion de Cumplimiento del SAT (32-D) usando e.firma / FIEL.
+2026-11-19T21:06:09Z,reqmachine,0.1.0,aligeromachine,MIT,15843,"A small requests-based HTTP client with retries, JSON parsing and file upload/download helpers."
+2026-11-19T21:07:25Z,ultracalcpal-nutrition,1.0.0,UltraCalcPal <contact@ultracalcpal.com>,MIT,23109,"Ultra-marathon fuelling maths with no dependencies: carbs, fluids and sodium per hour, fuel ideas, carb loading and recovery, aid-station segments and drop bags, heat index and WBGT, risk flags."
+2026-11-19T21:08:26Z,seshi,0.11.0,Dosu,MIT,46943,"The typed Python client for a seshi server: store, read, search and tail coding-agent sessions."
+2026-11-19T21:08:44Z,runneroutpost-tools,1.0.0,RunnerOutpost <contact@runneroutpost.com>,MIT,33267,"Small tools for running groups: schedule text to a calendar file, a GPX privacy trimmer, a meeting-time planner, a group pace calculator, GPX route stats and a daylight check. No server, no tracking."
+2026-11-19T21:09:59Z,scim2-sqlalchemy,0.1.2,Éloi Rivard,Apache-2.0,79391,Painless SCIM integration for SQLAlchemy
+2026-11-19T21:10:17Z,dataone-auth,0.1.1,"Rushiraj Nenuji <nenuji@nceas.ucsb.edu>, Jeanette Clark <jclark@nceas.ucsb.edu>, ""Matthew B. Jones""…",,108744,DataONE OIDC Auth package
+2026-11-19T21:10:25Z,norcaster-litellm,0.2.1,"""Norcaster (Navego AB)"" <security@norcaster.com>",Apache-2.0,124615,"Norcaster check for LiteLLM: your LiteLLM proxy asks Norcaster for a decision (allow, hide or block) before it calls the AI provider, on chat completions, the Responses API and Anthropic messages, an…"
+2026-11-19T21:10:54Z,mslesions,0.1.0,Cedric Conday,MIT,38413,"Lesion measures for multiple sclerosis MRI: McDonald 2024 topography of every lesion, optic nerve by OCT/VEP and the five-location count, T1 black holes, and brain parenchymal fraction, all behind a…"
+2026-11-19T21:11:08Z,norcaster-envoy,0.2.1,"""Norcaster (Navego AB)"" <security@norcaster.com>",Apache-2.0,101263,"Norcaster check for Envoy: your Envoy asks Norcaster for a decision (allow, hide or block) before it calls the AI provider, and Norcaster keeps a record of every answer."
+2026-11-19T21:13:44Z,catastro-enrich,0.1.0,arielgiamportone,MIT,125608,"Enrich Spanish property inventories with cadastral data (DGC and foral cadastres), fallback geocoding and licence-aware imagery."
+2026-11-19T21:14:10Z,roman-snpit-snappl-ou2024,0.1.0,Roman Supernova Project Infrastructure Team,,1464172,OU2024 extensions to snappl
+2026-11-19T21:14:20Z,tensorpackai-community,0.1.0,TensorPackAI Team <dev@tensorpackai.com>,Apache-2.0,14232,Silicon & Node-Level LLM Runtime Energy Optimizer for vLLM & Triton Inference Server
+2026-11-19T21:14:26Z,tensorpackai,0.1.0,TensorPackAI Team <dev@tensorpackai.com>,Apache-2.0,2686,Silicon & Node-Level LLM Runtime Energy Optimizer (Redirect to tensorpackai-community)
+2026-11-19T21:15:12Z,roman-snpit-snappl-imagesimulator,0.1.0,Roman Supernova Project Infrastructure Team,,1225372,Developed by the Roman Supernova PIT
