@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T04:21:31Z,murmur-asr,0.2.0,uw-syfi,Apache-2.0,78835,Efficient long-context ASR inference with hierarchical chunking (target chunks + draft windows on vLLM).
+2026-11-19T04:27:27Z,fastapi-verified-permissions,0.1.1,,Apache-2.0,214282,Route authorization for FastAPI with Amazon Verified Permissions
+2026-11-19T04:30:38Z,toolcall-unleak,0.1.0,CloudsDocker,Apache-2.0,35307,"Recover LLM tool calls from any text dialect — detect, parse, nudge. Zero dependencies."
+2026-11-19T04:31:21Z,ohos-devloop,0.1.2,guozejun <guozejun@huawei.com>,Apache-2.0,231500,面向 OpenHarmony 的 Agent 驱动设备开发与验证闭环
+2026-11-19T04:34:21Z,prase,1.0.0,Zhiyuan Qi,MIT,5098958,Probabilistic reasoning and semantic embedding for knowledge graph alignment
+2026-11-19T04:37:01Z,opensandbox-deepagents,0.1.0,,MIT,25407,OpenSandbox sandbox backend and provider for Deep Agents and Deep Agents Code
+2026-11-19T04:37:03Z,opensandbox-openai-agents,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",45152,OpenSandbox sandbox provider for the OpenAI Agents SDK
+2026-11-19T04:37:17Z,sqlfluff-templater-sqlsource,0.2.0b3,,MIT,86011,A sqlfluff templater for SqlSource queries
+2026-11-19T04:37:59Z,discord-message-cli,0.1.0,,MIT,36871,Read-only Discord channel message aggregation CLI for humans and AI agents
+2026-11-19T04:40:43Z,mcp-server-polymarket,0.1.0,Marcell Tukora,MIT,335295,"MCP server and LangGraph tools for the Polymarket API: prediction markets and perps, market data, accounts and gated trading. Unofficial, not affiliated with Polymarket."
+2026-11-19T04:43:26Z,gomami-mcp,0.1.1,,MIT,30576,"Unofficial MCP server for managing GoMami servers, read-only by default"
+2026-11-19T04:46:19Z,obok-metaphysics,5.5.90,,,5907,"Official Python SDK for MooSim K-Metaphysics API (Saju, Da Liu Ren 720 Gwa, Compatibility, Taekil, White-Label PDF)"
+2026-11-19T04:49:17Z,harmonize-python,0.1.0,"Braxton Cuneo <bcuneo@seattleu.edu>, Joanna Morgan <morgajoa@oregonstate.edu>",BSD-3-Clause,232566,"Harmonize, an async GPU scheduler"
+2026-11-19T04:49:18Z,topology-builders,0.1.0,"""Andrew H. Bond"" <andrew.bond@sjsu.edu>",MIT,53840,"Network topologies whose density can be stepped at a fixed number of routers, and FRR IS-IS labs for containerlab"
+2026-11-19T04:51:46Z,scientific-data-mcp,0.6.2,eli <shark_xc@hotmail.com>,MIT,146559,"Scientific entity data MCP: PubChem, ChEMBL, UniProt, RCSB PDB, PubMed, WHO, STRING, openFDA, ClinicalTrials.gov, plus key-gated Materials Project and BioGRID."
+2026-11-19T04:53:31Z,git-xray-tool,0.1.1,,MIT,34111,"X-ray any git repo in one command: hotspots, bus factor, hidden coupling, stale code. Zero dependencies."
+2026-11-19T04:58:30Z,mjboost,0.1.0,Minjong Cheon,MIT,97976,"Gradient boosting with Kolmogorov-Arnold units: interpretable regression and binary classification beyond pairwise interactions, with an exact functional ANOVA of the fitted model"
+2026-11-19T05:01:58Z,python-paip,0.1.0,Zubir Jamal,MIT,20840,Asynchronous Python client for Pengurusan Air Pahang (PAIP) water accounts
+2026-11-19T05:03:34Z,nonebot-plugin-aawfcore,0.23.1,nekox41 <aameow@outlook.com>,MIT,52408517,aa 的 Warframe 助手
+2026-11-19T05:03:37Z,nonebot-plugin-aawfonebot,0.23.1,,,9744,OneBot V11 adapter entrypoint for the shared AAWarframe core
+2026-11-19T05:03:37Z,nonebot-plugin-aawfqq,0.23.1,,,9746,QQ official adapter entrypoint for the shared AAWarframe core
+2026-11-19T05:06:40Z,climt-fortran,1.0.0,Rodrigo Caballero,BSD license,33298725,Compiled Fortran extensions for climt
+2026-11-19T05:08:02Z,lawkeep,0.0.1,,Apache-2.0,10101,Human-owned laws for AI-written code (early development placeholder)
+2026-11-19T05:15:53Z,decascan,0.1.0,Srinivas Chippagiri,Apache-2.0,659252,"OWASP Top 10 scanner (MCP, LLM applications, web) for Python and TypeScript"
+2026-11-19T05:20:35Z,traceAI-sagemaker,0.1.0,Future AGI,Apache-2.0,23176,OpenTelemetry instrumentation for Amazon SageMaker Runtime endpoints
+2026-11-19T05:20:37Z,traceAI-watsonx,0.1.0,Future AGI,Apache-2.0,17570,OpenTelemetry instrumentation for IBM watsonx.ai (ibm-watsonx-ai) Python SDK
+2026-11-19T05:20:38Z,traceAI-writer,0.1.0,Future AGI,Apache-2.0,12868,OpenTelemetry instrumentation for the Writer Python SDK
+2026-11-19T05:20:40Z,traceAI-marqo,0.1.0,Future AGI,Apache-2.0,11276,OpenTelemetry instrumentation for Marqo vector search (marqo) Python SDK
