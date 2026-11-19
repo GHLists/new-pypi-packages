@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T10:08:24Z,odoo-addon-contract-sale-generation-payment-mode,16.0.1.0.0.3,"Coop IT Easy SC, Odoo Community Association (OCA)",AGPL-3,22430,Set contract payment mode on contract-generated sales orders
+2026-11-19T10:16:20Z,frowse,0.1.1,,Apache-2.0,69603,Drop-in replacement for agent-browser powered by Folate local DOM grounding and ultra-lightweight DOM summaries
+2026-11-19T10:21:24Z,odoo-addon-contract-invoice-force-date-queue,18.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,23992,Bridge between contract_invoice_force_date and contract_queue_job
+2026-11-19T10:29:37Z,kernelvet,0.1.1,KernelVet contributors,Apache-2.0,273353,Unofficial open-source diagnostics and CUDA-to-HIP migration toolkit for AMD GPUs. Not affiliated with AMD.
+2026-11-19T10:33:53Z,reqtable,0.1.0,Patrick Norman,MIT,390410,Offline requirements table and diff report generator.
+2026-11-19T10:35:46Z,bayesline,0.1.0,"Neil Cornish, Tyson Littenberg, Toral Gupta",GPL-2.0-or-later,202284,Bayesian power spectral density estimation for gravitational-wave strain data
+2026-11-19T10:39:02Z,biomed-parity,0.1.1,xiangjiawei1234-prog,MIT,301988,Native Python implementations and R reference checks for biomedical statistics
+2026-11-19T10:40:05Z,pilotfish-ai,0.1.0,gAI Ventures,MIT,69858,"Run browser tasks in pilotfish's cloud from Python, or drive Chrome on your own machine."
+2026-11-19T10:53:03Z,mbi-data-platform-mcp,2.0.0,,LicenseRef-Proprietary,71435,"MCP server for Miaoce BI V2: query datasets, data sources, sync jobs and data APIs with one injected access token."
+2026-11-19T10:59:09Z,paged-collections,0.1.0,Hoang-Nhat Tran,MIT OR Apache-2.0,24636689,"Paged sparse sets, maps and stable-address containers, implemented in Rust"
+2026-11-19T11:00:25Z,infotrie,2.0.0,InfoTrie,MIT,1307196,"InfoTrie API client for Python: news, sentiment and market data, generated from the public OpenAPI contract, with cursor pagination, 429 retries and pandas frames."
+2026-11-19T11:01:04Z,turkce-harf,0.1.0,Evren Erten,MIT,8880,"Türkçe harfler için büyük/küçük harf dönüşümü, sıralama ve arama anahtarı yardımcıları"
+2026-11-19T11:05:04Z,steam-review-analysis,0.1.0,AML APP Steam Reviews contributors,MIT,140159,"Scrape, clean and analyse Steam community reviews."
+2026-11-19T11:08:24Z,primapy-priceless-isolated-models,0.1.0,Prima Assicurazioni,,1978,primapy-priceless-isolated-models package
+2026-11-19T11:08:54Z,ng-flood,0.2.1,Kayode Adeniyi,MIT,1085992,"Google's flood forecast for a Nigerian coordinate, labelled with its NIPOST postcode area."
+2026-11-19T11:14:44Z,dromeus-axl,0.1.0,Dromeus contributors,,26152464,"Gensyn's AXL network node, prebuilt for Dromeus"
+2026-11-19T11:15:15Z,purifier-stats,0.1.0,,MIT,16555,Read Xiaomi Smart Air Purifier 4 Lite sensors over Wi-Fi.
+2026-11-19T11:18:08Z,mistralai-agentic-security,0.1.0a6,Mistral,Apache-2.0,436994,Typed Python client for the Mistral Agentic Safety service.
