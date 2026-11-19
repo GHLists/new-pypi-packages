@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T08:25:14Z,codetta,0.8.1,Gavin Griggs,AGPL-3.0-or-later,927567,"A private, self-hosted music library manager: tags, MusicBrainz matching, batch editing and organizing, in your browser"
+2026-11-19T08:29:04Z,cmpserver,0.1.0,odele,MIT,51989,A field-level mocking CMP (RFC 4210) CA simulator for negative-testing certificate protocols.
+2026-11-19T08:29:43Z,decisionbound,0.13.0a1,"Ahmed Jawed, DecisionBound contributors",Apache-2.0,355909,Evidence-grounded context and decision transfer for engineering agents
+2026-11-19T08:31:27Z,agent-auto-approve,0.1.1,,MIT,35595,"Manage approval hooks for Codex, Claude Code, and Antigravity CLI."
+2026-11-19T08:32:23Z,szl-inference-gateway,0.1.0,Stephen Lutar <stephen@szlholdings.com>,Apache-2.0,23116,"SZL Inference Gateway: the x402-metered SaladCloud inference gateway behind inference.a-11-oy.com - boot recipe, supervision, and a fail-closed posture probe."
+2026-11-19T08:34:02Z,scnmf,0.1.0,SCNMF Developers,Apache-2.0,62560,"Sparse conditional joint NMF for single-cell RNA-seq integration, dimensionality reduction, and interpretable metagene discovery."
+2026-11-19T08:37:00Z,autoshiploads-logging,1.0.0,,LicenseRef-Proprietary,41971,"JSONL logging for Shiploads Python apps: the logging spec's line (ECS names), weekly files named by the Monday in Hobart, retention, event catalogue, trace ids, Django request logging."
+2026-11-19T08:38:53Z,lavx-ai-subtitle-translator,2.2.0rc2,LavX,MIT,561672,"LLM subtitle translation: an importable core with pluggable back ends, and an optional standalone service, by LavX"
+2026-11-19T08:39:47Z,ifpen.allotrope-models,2026.9.0b1,OpenAPI Generator community,,202297,ASM Commons
+2026-11-19T08:39:47Z,ifpen.allotrope-models.dsc,2026.9.0b1,OpenAPI Generator community,,120760,ASM Differential Scanning Calorimetry Schemas
+2026-11-19T08:40:00Z,ifpen.allotrope-models.gc,2026.9.0b1,OpenAPI Generator community,,107877,ASM Gas-Chromatography Schemas
+2026-11-19T08:41:39Z,odoo-addon-mrp-subcontracting-resupply-status,19.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",LGPL-3,28214,MRP Subcontracting Resupply Status
+2026-11-19T08:43:50Z,gatekeep-mcp,0.2.0,Gatekeep Contributors,MIT OR Apache-2.0,306966,Zero-dependency sub-millisecond firewall and automatic Saga undo proxy for MCP AI agents
+2026-11-19T08:46:36Z,netcad-ncz,1.0.0,Samet Hüseyin Can,MIT,16623,"Netcad NCZ (8.x) dosya okuyucu: katmanlar, nokta, çizgi, poligon, yazı; GeoJSON çıktısı."
+2026-11-19T08:50:10Z,ichiran,0.1.0,"Utkarsh Kamat <work.utkarshkamat@gmail.com>, Hruday <mscids2024.hruday@unigoa.ac.in>",MIT,74778,"AI-powered README generator — interview your project, scan your codebase, generate a complete README"
+2026-11-19T08:52:09Z,xblick-azure-kinect,0.4.1,David Schneider,Apache-2.0,9774151,"An Azure Kinect's colour, depth, IR and IMU as Durchblick streams. After the install, run xblick-azure-kinect-setup once: it fetches Microsoft's depth engine once you accept Microsoft's terms."
+2026-11-19T08:53:23Z,fitbrowser,0.0.1,,GPL-3.0-or-later,145976,Fit Browser
+2026-11-19T08:53:55Z,spacy-redefiner,0.1.0,"Sethuraman T A, Jungroo AI Labs",Apache-2.0,23849,"A spaCy component that finds the entities you define in a plain-English rulebook, using ReDefiNER."
+2026-11-19T08:54:17Z,community-wingman,0.1.0,Kamran Zafar,Apache-2.0,210162,A human-in-the-loop copilot for online communities: finds conversations you can add to and drafts replies in your voice. You approve every post.
+2026-11-19T08:55:53Z,pyside6-storybook,0.1.0rc1,Youth Research Center,MIT,815347,"Storybook-style component explorer for PySide6: browse widgets in isolation, edit their properties live and switch themes."
+2026-11-19T08:57:03Z,team-hermes.elasticsearch,1.0.0,,,88163,Typed Elasticsearch search utilities for Team Hermes projects
+2026-11-19T08:57:11Z,chunkify-analytics-sdk,0.9.0,Chunkify Analytics <support@chunkify.dev>,Apache-2.0,426611,The official Python library for the Chunkify Analytics API
+2026-11-19T08:58:08Z,lipservice,0.1.0,,AGPL-3.0-only,4728992,Talk is cheap. Singing is free. Sixteen voices that sing and speak on your own CPU
+2026-11-19T08:58:47Z,host-guard,0.3.0,Prince Kumar,MIT,163243,"Hardening, monitoring, encrypted backups with restore tests and mail alerts for one Linux server, with versioned installs and manifest-based rollback."
+2026-11-19T08:59:30Z,hivemind-memory,2.31.0,,MIT,34009,"Async client for Hivemind, the shared memory service for AI agents."
+2026-11-19T09:01:16Z,ifpen.allotrope-models.hplc,2026.9.0b1,OpenAPI Generator community,,150244,ASM Liquid Chromatography Schemas
+2026-11-19T09:04:19Z,quspike,0.1.0,cliffyang,,3786944,SARS-CoV-2 Spike lineage classification with Spike-PQK (projected quantum kernel expert model)
+2026-11-19T09:06:10Z,datanuggets,0.1.0a3,Ronil Basu,GPL-2.0-only,4502969,Native Python port of the R packages datanugget and WCluster (data nuggets for large-data reduction).
+2026-11-19T09:06:29Z,synapse-knowledge,0.1.0,King <548635581@qq.com>,Apache-2.0,671619,"Local-first MCP service for code knowledge graphs, project context and persistent project memory"
+2026-11-19T09:06:39Z,dasviz,0.0.1,Derrick Chambers,MIT,229528,"Advanced visualizations for distributed acoustic sensing (DAS) data, as DASCore namespaces."
+2026-11-19T09:06:58Z,pubcheck,0.0.2,Thor Whalen,MIT,52771,"One publication check for every writer: is this text fit for a public repository? Personal names, the owner's own matters, private references, credentials and @mentions, failing closed when nobody is…"
+2026-11-19T09:10:42Z,pgsql-loupe,0.1.0,ManvGit17,Apache-2.0,249624,"Debug panel for Python web apps on PostgreSQL: statements, plans, triggers and N+1 warnings per request."
+2026-11-19T09:11:39Z,TESSify-GUI,0.6.7,Arpit Bishnoi <bishnoiarpit29@gmail.com>,,44817,PySide6 desktop GUI for TESSify
+2026-11-19T09:13:23Z,vllm-npu-top,0.1.0,npu-top contributors,MIT,46644,Tiny zero-dependency terminal dashboard for vLLM metrics and Ascend NPU.
+2026-11-19T09:13:36Z,lino-objects-codec,0.3.3,Link Foundation,Unlicense,74599,A library to encode/decode objects to/from links notation
+2026-11-19T09:14:49Z,corvid-solver,0.5.3,Robert Fennis,AGPL-3.0-or-later,10817536,CORVID: Coarse Operators by Recursive Volume Interpolation of De Rham complexes
