@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T12:20:41Z,predisclose,0.1.1,predisclose contributors,Apache-2.0,89259,"Before you disclose a vulnerability: check public records, public fixes, and the project's official reporting channel."
+2026-11-19T12:21:14Z,splent-feature-dataset,0.17.1,,LGPL-3.0-or-later,753423,
+2026-11-19T12:21:26Z,geoguide,0.1.0,WaiLeung Ng,Apache-2.0,42295,"Simple, documented geotechnical engineering calculations"
+2026-11-19T12:23:40Z,coreidml,1.0.0,Eduard Paul,MIT,45119478,"Create, read, edit and print Adobe InDesign IDML files without InDesign: templates, stories, links, XML, PDF export and import."
+2026-11-19T12:25:18Z,rt-imaging-mcp,0.1.0,Mahdy Firmansyah,Apache-2.0,232419,"Local, file-based MCP server for medical images and radiotherapy objects with PHI-safe output."
+2026-11-19T12:27:55Z,grdl-eo,0.1.0,"Steven Siebert, geoint.org",MIT,22466,GEOINT Rapid Development Library EO/MSI/HSI/IR Component Catalog
+2026-11-19T12:28:00Z,old-rag,0.1.0,OldRAG Team,Proprietary,447905,Zero-admin sovereign local Outlook and filesystem hybrid RAG engine
+2026-11-19T12:28:01Z,grdl-sar,0.1.0,"Steven Siebert, geoint.org",MIT,474852,"GEOINT Rapid Development Library SAR, PolSAR & Image Formation Component Catalog"
+2026-11-19T12:28:48Z,polaris-security-cli,0.1.0,Polaris Security,Elastic-2.0,60602,Drive a Polaris instance from a shell — for developers and their coding agents.
+2026-11-19T12:30:04Z,jetbrains-pulumi-gcp-project-management,999.9.9,,,983,Stub package that mitigates Dependency Confusion attacks
+2026-11-19T12:30:24Z,sistat,0.1.0,,MIT,32911,"Python client for SiStat, the database of the Statistical Office of Slovenia (SURS), via its PxWeb API"
+2026-11-19T12:31:54Z,jamframe,0.1.0,Alphacloud Technologies Pte Ltd <hello@jamframe.com>,MIT,172030,"Python client for the JamFrame API: render templates to images, carousels, PDFs and videos, design templates with AI, run workflows and post to social accounts."
+2026-11-19T12:33:18Z,hashi-app,1.1.1,Hashi contributors,MIT,595087,"Plan in ChatGPT, build with your local agents: a safe MCP bridge to your workspace and Claude Code, Codex, OpenCode v2, or Pi"
+2026-11-19T12:34:08Z,multimetricdiagram,0.1.0,"""Daniel L. Codiga"" <dcodiga@uri.edu>",BSD-3-Clause,157816,"Multimetric diagram: 5-metric (total/bias/pattern/amplitude/phase) alternative, that rewards realistic variance, to Taylor diagram"
+2026-11-19T12:34:09Z,hermes-oxylabs-web-api,0.1.0,Oxylabs <giedrius.stankauskas@oxylabs.io>,MIT,25584,Oxylabs Web API search and page extraction provider for Hermes Agent
+2026-11-19T12:34:43Z,oxocr,0.1.1,luckycucu,MIT,3275016,"Lightweight Python OCR library on ONNX Runtime with 45 built-in models (PaddleOCR, DuGuang, Indra, formula recognition), no OpenCV dependency / 基于 ONNX Runtime 的轻量级 Python OCR 库，内置 PaddleOCR、读光、Indra…"
+2026-11-19T12:35:13Z,simalleles,0.9.0,Asurix <contact@asurix.fr>,AGPL-3.0-only,77540,"Bibliothèque Python de simulation d'évolution d'allèles au fil des générations, avec interface web NiceGUI facultative (local, LAN ou site public)."
+2026-11-19T12:35:33Z,deapi-sdk,0.6.1,deAPI Team,MIT,210489,Official Python SDK for deAPI — distributed AI inference platform
+2026-11-19T12:38:34Z,svetoviz,1.0.0,Piotr Gryko <piogryko@gmail.com>,LicenseRef-Proprietary,177385208,Compiled Svetoviz WebGPU Renderer
+2026-11-19T12:38:36Z,gpu-fit,0.1.1,Kiran Tallapragada,MIT,23877,"Will this LLM fit on this GPU? vLLM memory maths: weights, KV cache, context and concurrency."
+2026-11-19T12:44:20Z,gpuNUFFT-cu12,0.11.0,,,6711914,gpuNUFFT - An open source GPU Library for 3D Gridding and NUFFT
+2026-11-19T12:44:37Z,langwatch-ksuid,1.0.1,LangWatch <support@langwatch.com>,MIT,34379,"Generate prefixed, k-sorted globally unique identifiers with Python support"
+2026-11-19T12:47:16Z,edwh-mcp-plugin,0.1.1,Robin van der Noord,MIT,32733,"Expose a small, safe set of `edwh` tasks to coding agents over MCP (stdio)"
+2026-11-19T12:48:03Z,tmcode,0.2.0,Abdullah Al Mamun,MIT,124163,"TmCode: a lightweight terminal code editor with run, find/replace, format-on-save and a real-terminal mode"
+2026-11-19T12:49:52Z,superbased,0.0.1,superbased <contact@superbased.app>,Apache-2.0,2095,Reserved by superbased. The superbased SDK for LLM-app observability is coming soon; see https://superbased.app/.
+2026-11-19T12:49:53Z,superbased-observer-sdk,0.0.1,superbased <contact@superbased.app>,Apache-2.0,2237,Reserved by superbased. The superbased SDK for LLM-app observability is coming soon; see https://superbased.app/.
+2026-11-19T12:49:54Z,superbased-sdk,0.0.1,superbased <contact@superbased.app>,Apache-2.0,2140,Reserved by superbased. The superbased SDK for LLM-app observability is coming soon; see https://superbased.app/.
+2026-11-19T12:50:22Z,openjiuwen-computeruse,0.1.0b1,,,26933234,Programmatic desktop interaction for agents
+2026-11-19T12:51:47Z,oxylabs-web-api-mcp,0.3.0,,,146890,"Self-hostable MCP server for the Oxylabs Web API (/v1/search, /v1/search/companies, /v1/scrape)"
+2026-11-19T12:54:45Z,facebook-scraper-api,0.1.0,SocialAPIs <pypi@socialapis.io>,MIT,22317,"Facebook scraper API for Python: public Pages, posts, groups, reels, comments and search, with no login, cookies or browser. facebook-scraper style functions."
+2026-11-19T12:55:41Z,publictransport,0.1.0,,MIT OR Apache-2.0,7176550,"Client for public transport APIs: EFA, MOTIS, TRIAS, OJP, HAFAS and OpenTripPlanner"
+2026-11-19T12:55:54Z,facebook-ads-library-api,0.1.0,SocialAPIs <pypi@socialapis.io>,MIT,22458,"Meta (Facebook) Ads Library API for Python: search ads by keyword or advertiser, paginate, export to CSV. No Meta app review."
+2026-11-19T12:56:52Z,patchbay-client,0.3.0,,,15255,"Python client for the Patchbay API: read, steer and edit Qwen3.5 models per request"
+2026-11-19T12:57:14Z,kairntech-chainlit,2.12.3,"Willy Douhard, Dan Andre Constantini",Apache-2.0,22622873,Build Conversational AI.
+2026-11-19T12:58:49Z,grow-openbao,0.1.0,Grow Codes <opensource@grow.codes>,Apache-2.0,269404,"Grow Codes SDK for OpenBao (unofficial, community maintained)"
+2026-11-19T12:59:29Z,axross-headless-mcp,0.15.179,,Apache-2.0,3983497,"axross's headless MCP server: file tools on the local disk and on SFTP, SMB, WebDAV, S3 and more for any MCP client, over stdio or HTTP - without Qt"
+2026-11-19T12:59:36Z,axross-markdown,0.16.0,,Apache-2.0,1167639,"axross's Markdown viewer on its own: GitHub Markdown with an outline, footnotes, highlighted code and local images - shown, never run"
+2026-11-19T12:59:36Z,haru-kit,0.1.0,yung algorithm,Apache-2.0,2991612,"Run Haru-4B, the open full-duplex voice model, with one command on Mac, NVIDIA, or Modal"
+2026-11-19T13:02:32Z,tgturbo,1.0.0,YOUR NAME <YOU@EMAIL.COM>,MIT,39232,"Fast Telegram media downloader: PDFs, videos, audio, photos. Channel browser, post-link and range mode, rich terminal UI."
+2026-11-19T13:03:06Z,raxtik-source-faers,0.1.0.dev1,Raxtik Team,AGPL-3.0-or-later,113216,"Official FDA FAERS/AEMS data connector, parser, and extractor for raxtik-etl"
+2026-11-19T13:03:24Z,seramys-skillguard,0.1.0,SkillGuard contributors,MIT,600803,Supply-chain security scanner for AI agent skills
+2026-11-19T13:03:50Z,tracerset,1.2.4,,,66792,Execution-Centric Program Comprehension Environment for Python
+2026-11-19T13:06:02Z,pdfluent-dlt,0.1.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",AGPL-3.0-only OR LicenseRef-PDFluent-Commercial,43054,"A dlt resource over PDFluent: PDFs to structure-aware rows that dlt loads into DuckDB, Postgres, Snowflake, BigQuery, Databricks, Qdrant, Weaviate and the other dlt destinations."
+2026-11-19T13:06:55Z,vllm-ascend-a8w4-compact,0.1.0,cholely <1427850140k@gmail.com>,Apache-2.0,1920056,"Install the A8W4 MSD compact active-expert descriptor kernel for vllm-ascend (Ascend 910B, CANN 9.1)"
+2026-11-19T13:07:29Z,gyldan,0.0.0a1,,,41663859,GyldanDB Python API and native file-backed database provider
+2026-11-19T13:07:37Z,ecfr-md,0.2.0,,MIT,2355361,Code of Federal Regulations text from the eCFR API as navigable Python objects and Markdown.
+2026-11-19T13:07:43Z,grow-hashicorp-vault,0.1.0,Grow Codes <opensource@grow.codes>,Apache-2.0,278173,"Grow Codes SDK for HashiCorp Vault (unofficial, community maintained)"
+2026-11-19T13:09:53Z,heraldesk,1.16.3,Abeng,MIT,565529,"Your autonomous social media department. Self-hosted, open source, single-user."
+2026-11-19T13:09:58Z,agentgrade-mcp,0.1.0,Tanishq Mohod,MIT,289602,"Measure whether AI agents can actually use an MCP server: repeated runs, checked answers, traces, and A/B tests of tool descriptions and server builds."
+2026-11-19T13:19:37Z,odoo-addon-product-supplierinfo-multi-code,19.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",AGPL-3,23711,Allows to retrieve all supplier product code on product level
