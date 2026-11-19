@@ -1,0 +1,73 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T15:13:38Z,zelyr-core,1.4.1,Zelyr Contributors,,4660505,A Local-First AI Operating System for Linux.
+2026-11-19T16:23:43Z,pyvulnreach,0.1.0,Security Research Team,,172103,Vulnerability Reachability Analyzer for Python Dependencies
+2026-11-19T16:25:12Z,isaacswim,0.1.1,Danyi Chen,Apache-2.0,282430,"Underwater robotics for NVIDIA Isaac Sim and Isaac Lab: hydrodynamics, buoyancy, currents, thrusters, sensors, an example vehicle"
+2026-11-19T16:25:13Z,isaacswim-bench,0.1.1,Danyi Chen,Apache-2.0,120812,"Build underwater robot tasks and scenes on IsaacSwim: scripted experts, evaluation and demonstrations"
+2026-11-19T16:26:00Z,s0ma-lang-core,0.22.0,kn0wthyself <support@kn0wthyself.ai>,Apache-2.0,863645,A Python framework for software self-knowledge — where the self-model is load-bearing.
+2026-11-19T16:26:02Z,benodb,0.16.1,Beno Labs,,1378,BenoDB - Serverless Index-Streaming Database with Overlay Indexing
+2026-11-19T16:26:03Z,benodb-flight,0.16.1,Beno Labs,,1456,Arrow Flight SQL Server for BenoDB
+2026-11-19T16:26:04Z,benodb-mcp,0.16.1,Beno Labs,,1420,Model Context Protocol (MCP) server for BenoDB
+2026-11-19T16:26:05Z,benodb-search,0.16.1,Beno Labs,,1461,OpenSearch & Qdrant Search Gateway for BenoDB
+2026-11-19T16:27:53Z,ribonet,0.1.0,Xavier Hernandez-Alias <xa.he.al@gmail.com>,MIT,903400,Deep learning analysis toolkit for ribosome profiling
+2026-11-19T16:29:23Z,s0ma-lang-dsl,0.22.0,kn0wthyself <support@kn0wthyself.ai>,Apache-2.0,4443793,The s0ma DSL transpiler — compiles .s0ma source files into self-describing Python for software self-knowledge.
+2026-11-19T16:29:39Z,minitcl,9.1.0,Mohamed Gaber,,67066063,Python wrapper around Yosys' libparse module
+2026-11-19T16:31:42Z,mcanvil-kit,0.1.1,Yasser A. Benfoughal,MIT,164312,"Ready-made content for Anvil, the Minecraft Bedrock content development framework."
+2026-11-19T16:31:43Z,s0ma-lang-mcp,0.22.0,kn0wthyself <support@kn0wthyself.ai>,Apache-2.0,1332156,The s0ma authoring MCP server — exposes the s0ma DSL self-knowledge toolchain and agent guides to coding agents over the Model Context Protocol.
+2026-11-19T16:32:31Z,urbanweave,0.1.0a1,"Claudio Silva, New York University",MIT,199543,"Spatial integration for urban analysis: match sources to targets and aggregate their values, vector and grid."
+2026-11-19T16:33:37Z,s0ma-lang-studi0,0.22.0,kn0wthyself <support@kn0wthyself.ai>,Apache-2.0,304271,"s0ma studi0 — the local viewer that renders a s0ma project's canonical component graph from its build artifacts, truthfully and read-only."
+2026-11-19T16:33:46Z,ereen,0.1.0,,,17559,"Practical programs, one call away: import ereen as e; e.show(1)"
+2026-11-19T16:34:03Z,loopscale,0.0.1,paulohenriquevn,MIT,3382,Name reservation for the LoopScale CLI and SDK. No functionality yet.
+2026-11-19T16:34:26Z,minqlx-stubs,0.8.0,,,13621,Type stubs for the minqlx module of shinqlx
+2026-11-19T16:34:28Z,shinqlx-stubs,0.8.0,,,47392,Type stubs for shinqlx
+2026-11-19T16:35:12Z,tr2en,0.1.5,,MIT,266769,"Local Turkish to English translation for Windows: select text, press a hotkey. Gemini, any OpenAI-compatible API, or an offline model. Yerel Türkçe → İngilizce çeviri."
+2026-11-19T16:35:29Z,edge-signals-langchain,0.1.0,,MIT,6869,LangChain tools for Edge Signals Token Verdict (x402)
+2026-11-19T16:35:34Z,s0ma-lang,0.22.0,kn0wthyself <support@kn0wthyself.ai>,Apache-2.0,14610,"All of s0ma, the software self-knowledge platform, as one install: the runtime, the .s0ma language and its command line, the authoring server and the studi0 viewer, at one version."
+2026-11-19T16:38:45Z,bugx-cli,0.1.1,,BUSL-1.1,10880194,Host-neutral adversarial white-box and black-box auditing agent
+2026-11-19T16:41:36Z,apple-symbols,0.0.1,doronz88 <doron88@gmail.com>,MIT,32032,Symbolicate addresses of Apple devices using Xcode DeviceSupport symbols and kernelcaches
+2026-11-19T16:41:39Z,swarmauri_taskmanager_default,0.1.0,Jacob Stewart,Apache-2.0,16342,Coordinate admitted tasks and execution lifecycle.
+2026-11-19T16:42:54Z,po-apiv2,0.1.0,,,23426,Resilient PocketOption API client
+2026-11-19T16:43:00Z,arc56-generated-kvran-a8e1f410,1.2.2026072010,kvrancic,,11789,Generated ARC-56 Algorand smart-contract clients for kvrancic/DeFacto.
+2026-11-19T16:44:04Z,arc56-generated-lacht-1626cc67,1.2.2026072010,LachTTT,,19540,Generated ARC-56 Algorand smart-contract clients for LachTTT/ClaimCap.
+2026-11-19T16:44:18Z,crosswalk-codec,0.12.1,ExaDev,MIT,15383062,Bidirectional crosswalk codec: one rule document derives both encode and decode between two JSON shapes
+2026-11-19T16:44:49Z,swarmauri_taskstore_sqlite,0.1.0,Jacob Stewart,Apache-2.0,14833,Persist versioned task records in SQLite.
+2026-11-19T16:45:09Z,arc56-generated-laksh-597f77e8,1.2.2026072010,LakshmiHasini,,28757,Generated ARC-56 Algorand smart-contract clients for LakshmiHasini/sai_ram.
+2026-11-19T16:45:22Z,kitora,1.0.0,wangmu,MIT,13599,A personal toolkit for everyday Python
+2026-11-19T16:46:01Z,onewolf-mcp-guard,0.15.0,OneWolf Team,MIT,691981,OneWolf AI Security - MCP stdio proxy (enforced security for any MCP server)
+2026-11-19T16:46:13Z,arc56-generated-lathi-b130bf6d,1.2.2026072010,lathi-aayush,,14013,Generated ARC-56 Algorand smart-contract clients for lathi-aayush/pay-per-usage-ai-api-access-system-using-algorand.
+2026-11-19T16:47:52Z,swarmauri_permission_explicit,0.1.0,Jacob Stewart,Apache-2.0,14813,Evaluate exact action resource and tenant permissions.
+2026-11-19T16:48:16Z,lupaxa-sandbox,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",108117,Run commands in disposable workspaces and inspect what they change.
+2026-11-19T16:50:48Z,repomix-unmixer,0.1.0,darizae,MIT,51607,Reconstruct static file trees from Repomix exports without running recovered code
+2026-11-19T16:50:57Z,swarmauri_delegation_attenuating,0.1.0,Jacob Stewart,Apache-2.0,18068,Delegate task authority with live ancestry checks.
+2026-11-19T16:51:37Z,zhuyin-converter,0.1.0,linlin56,AGPL-3.0-or-later,2390749,"Pinyin <-> zhuyin (bopomofo) conversion, Taiwan conventions"
+2026-11-19T16:53:37Z,voxchain,0.1.0,,MIT,130047,A python library for building voice agents
+2026-11-19T16:53:54Z,benethos-mailbox-agents,0.1.0,Benedikt Oswald,MIT,1079944,"Agents that read and sort a mailbox: one narrow question each, one reversible action, measured against labelled mail."
+2026-11-19T16:54:53Z,swarmauri_grantstore_sqlite,0.1.0,Jacob Stewart,Apache-2.0,14781,Persist revocable authority grants in SQLite.
+2026-11-19T16:55:09Z,tattlescan,0.1.0,,MIT,21426,Inspect Scout scanners that flag when an AI agent's words and its tool actions disagree
+2026-11-19T16:56:36Z,rigkit,0.0.1a1,,,3333,A Python package.
+2026-11-19T16:57:30Z,nemobi,2.0.0,Lucas Javaudin <lucas@lucasjavaudin.com>,MIT,332648,"Nemobi (Normalisation des enquêtes mobilités): a tool to standardize French mobility survey datasets (EMC², EGT, EMP, etc.) into a unified format."
+2026-11-19T16:57:33Z,library-fine-calculator,0.1.1,,,4726,A Python package for calculating library fines
+2026-11-19T16:57:34Z,evalforge-maestro,0.1.0,,MIT,1045989,Independent LLM evaluation and regression verification engine
+2026-11-19T16:57:50Z,sv-query,0.3.0,sv_query contributors,MIT OR Apache-2.0,1256892,SystemVerilog 信号追踪查询引擎 - 让验证工程师直接问'这个信号谁驱动的'
+2026-11-19T16:57:59Z,chdev,1.3.0,chdev <contact@chdev.co.uk>,,16681,"Official Python client library for chdev Authentication (SSO for Google, Discord, Microsoft)"
+2026-11-19T16:58:13Z,aws_sdk_shield,0.0.0,,Apache-2.0,1945,Placeholder reserving the aws_sdk_shield name. Not yet functional.
+2026-11-19T16:58:27Z,aws_sdk_savingsplans,0.0.0,,Apache-2.0,2011,Placeholder reserving the aws_sdk_savingsplans name. Not yet functional.
+2026-11-19T16:58:47Z,aws_sdk_global_accelerator,0.0.0,,Apache-2.0,2076,Placeholder reserving the aws_sdk_global_accelerator name. Not yet functional.
+2026-11-19T16:59:14Z,aws_sdk_ivs,0.0.0,,Apache-2.0,1913,Placeholder reserving the aws_sdk_ivs name. Not yet functional.
+2026-11-19T17:00:14Z,swarmauri_invoker_default,0.1.0,Jacob Stewart,Apache-2.0,23834,Invoke services over existing Swarmauri transports.
+2026-11-19T17:00:23Z,bern,2026.11.19.1,,MIT,26996,"Swap a Django swappable model mid-project: the hermit crab changes shells, the crab stays the same."
+2026-11-19T17:00:35Z,eyas,0.1.0rc1,ChaoSong,Apache-2.0,467205,"Train sharp-eyed prompts for multimodal models. A performance-first APO (automatic prompt optimization) framework for text, image and video tasks."
+2026-11-19T17:01:47Z,cityvistion-mcp,0.1.0,CityVistion <support@cgajs.com>,MIT,21537,"Unified MCP server for CityEngine / CGA.js / NL2CGA — generate CGA rules from natural language, compile CGA to 3D models (GLB), official engine parsing and demo library."
+2026-11-19T17:02:14Z,aws_sdk_lambda_web,0.0.0,,Apache-2.0,1995,Placeholder reserving the aws_sdk_lambda_web name. Not yet functional.
+2026-11-19T17:03:17Z,aws_sdk_opensearchserverless,0.0.0,,Apache-2.0,2090,Placeholder reserving the aws_sdk_opensearchserverless name. Not yet functional.
+2026-11-19T17:03:36Z,aws_sdk_wellarchitected,0.0.0,,Apache-2.0,2042,Placeholder reserving the aws_sdk_wellarchitected name. Not yet functional.
+2026-11-19T17:03:46Z,aws_sdk_support,0.0.0,,Apache-2.0,1956,Placeholder reserving the aws_sdk_support name. Not yet functional.
+2026-11-19T17:03:56Z,swarmauri_workflow_documentassistant,0.1.0,Jacob Stewart,Apache-2.0,28665,Compose an authenticated document assistant.
+2026-11-19T17:04:18Z,agent-doorbell,0.1.0,,MIT,79327,Agent Doorbell for Slack: a token-free watcher that wakes your AI agents only when a Slack message needs them.
+2026-11-19T17:07:04Z,swarmauri_workflow_delegatedresearch,0.1.0,Jacob Stewart,Apache-2.0,20762,Compose multi-hop delegated research agents.
+2026-11-19T17:10:06Z,astrogwb,0.8.0,Bernardo Veronese,MIT,1150553,Bayesian inference for compact-binary stochastic gravitational-wave backgrounds
+2026-11-19T17:12:29Z,ppfm-prisma-browser,0.0.1,Cedric Wishiya <cedricwishiya@gmail.com>,,2736,Placeholder for ppfm-prisma-browser. Real package coming soon.
+2026-11-19T17:12:37Z,ppfm-hubspot,0.0.1,Cedric Wishiya <cedricwishiya@gmail.com>,,2600,Placeholder for ppfm-hubspot. Real package coming soon.
+2026-11-19T17:14:41Z,cloudview-ss,0.1.0,,,15227,"Python client for Cloudview storage (like boto3, for your own cloud)"
+2026-11-19T17:15:37Z,soot,0.1.0,,"MIT License Copyright (c) 2026 The Vulnerability History Project Permission is hereby granted, free…",6072,Facilitating knowledge transfer with mutant releases
+2026-11-19T17:19:10Z,vcenter-event-assistant-plugin-api,1.5.1,Takeyuki Moriyama,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",108684,Stable collector contracts for vCenter Event Assistant plugins
+2026-11-19T17:21:03Z,afperf,0.7.0,,Apache-2.0,152495,"MCP, API, agent and LLM HTTP performance testing plus K8s capacity forecasting"
