@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T01:21:48Z,balaio,0.0.1,Cooperativa EITA <coletivo@eita.org.br>,GPL-3.0-or-later,91191,Balaio de Dados — shared master data (MDM) for the EITA systems (integration package).
+2026-11-19T01:25:33Z,kollguard,0.1.0,Kollitech Corp,MIT,46757,"KollGuard Agent Watch gate for Python agents: authorize tool calls before they run (LangGraph, OpenAI Agents SDK)."
+2026-11-19T01:29:47Z,picvane-image-tools,0.1.0,,MIT,8160,Show a compact palette of common image colors for a photo editing workflow.
+2026-11-19T01:29:51Z,vidfomo-video-tools,0.1.0,,MIT,7818,Read local video stream and duration information with ffprobe.
+2026-11-19T01:29:55Z,aih3image-tools,0.1.0,,MIT,7833,Summarize image brightness and tonal range to help compare image assets.
+2026-11-19T01:30:47Z,chromapi,1.0.0,Mowibox <ousmane.thiongane@outlook.com>,Apache-2.0 AND CC-BY-NC-SA-4.0,21226768,High-level software for the Chromapi 12-DOF quadruped robot
+2026-11-19T01:35:51Z,boulder-opal-scale-up-chi,0.1.1,,,60434,
+2026-11-19T01:38:26Z,oxap,0.1.0a35,Open Agent Protocol contributors,ISC,2312,"OXAP for Python: installs oxap-sdk, the Python SDK for the oxap runtime"
+2026-11-19T01:38:54Z,ludus-markify,0.1.0,,MIT,916307,Local-first document to Markdown converter with a simple browser UI.
+2026-11-19T01:39:16Z,navigator-mcp,0.3.1,,Apache-2.0,717784,"NAVIGATOR: MCP servers for network engineers: inventory and credentials (ATLAS), device reads and approved changes (RUDDER), projects, roles and QC (NAVIGATOR)"
+2026-11-19T01:40:12Z,aclientp,0.1.1,Philipp Temminghoff,MIT,365832,"Agent Client Protocol (ACP) for Python: typed v1 and draft v2, checked against the upstream schema"
+2026-11-19T01:41:37Z,lexis-i18n,1.0.0,Edgar Masagué,MIT,26526,"Lightweight, dependency-free internationalization library"
+2026-11-19T01:41:48Z,qubrics-management,3.0.0,,MIT,366198,Generated Python client for the Qubrics Management API.
+2026-11-19T01:42:01Z,predeploy-runner-abhishek,1.0.0,,,5416,"A lightweight, reusable pre-deployment gate runner for Python services"
+2026-11-19T01:49:21Z,fast-taylor-verifier,0.1.0,,MIT,83277,"Taylor-model bounds on batches of boxes in PyTorch and CUDA, and a branch and bound over boxes"
+2026-11-19T01:50:03Z,alioune,0.1.0,Alioune,MIT,73440,"Générateur de projets et de code pour FastAPI : l'équivalent d'Angular CLI ou d'Artisan (Laravel), en français."
+2026-11-19T02:01:20Z,on-a-pip,0.3.0,Ryan Cotten <hello@ghostdeveloperstudio.com>,MIT,43884,"PIP: your AI puts YOU on a Performance Improvement Plan. A local, private review of the programmer, generated from their own git history."
+2026-11-19T02:03:25Z,pml_utilities,4.0.0,,BSD-3-Clause,8859636,"Readers, pipelines and viewers for imaging data; the beta channel of mbo_utilities"
+2026-11-19T02:06:28Z,punt-oo-ratchet,0.1.0,Punt Labs,MIT,171408,"Must-improve OO quality ratchet for Python repos: OO metrics, coupling/cohesion, and lint-suppression count gates."
+2026-11-19T02:06:29Z,khipu-null,0.1.0,Crafter Research,MIT,55810,"Rank khipus against a reference pattern and test whether the match is chance, with structure-preserving permutation nulls."
+2026-11-19T02:06:31Z,felupe-studio,0.6.0,Andreas Dutzler,GPL-3.0-or-later,1230826,"The Python side of FElupe Studio: the commands of a model, its FElupe script, its results and an MCP server for AI agents"
+2026-11-19T02:07:17Z,gkm-bundle-parquet,2.0.0,ClinGen Data Model WG,CC0-1.0,678672,"Build Parquet tables from GKM JSON bundles, rebuild the bundle from them, and validate bundles"
+2026-11-19T02:17:37Z,virtual-extruders,0.1.0,stygian-violet <stygianviol3t@proton.me>,MIT,30074,A CLI tool to convert multi-extruder 3D printer G-code to single extruder.
+2026-11-19T02:19:41Z,cowmrp,0.1.0,"Sumit Sharma, Edward Hansen, Miel Hostens",MIT,2464321,Markov reward process (MRP) models of dairy cattle: a domain-free MRP engine with cow and youngstock domains
