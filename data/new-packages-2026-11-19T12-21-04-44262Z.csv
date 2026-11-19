@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T08:51:02Z,team-hermes.authorization,1.0.1,,,11411,Framework-independent role and attribute-based authorization for Team Hermes projects
+2026-11-19T11:19:53Z,answerstyle,0.1.2,,Apache-2.0,765603,Shared styles and browser behavior for semantic HTML
+2026-11-19T11:20:23Z,whensaid,0.1.0,VishnupiriyanV,MIT,648107,"Local, offline search over your video and audio recordings, exposed to AI agents over MCP."
+2026-11-19T11:24:21Z,libnexapy-test,0.6.0,,MIT,604532,A pure and powerful Python Nexa SDK library (TEST).
+2026-11-19T11:24:49Z,citewatch,0.1.1,Biplob Chakraborty,MIT,513977,"Measure which websites AI answers with web search cite, and how fresh those pages are."
+2026-11-19T11:25:26Z,naymark,0.1.0,,MIT,20596,"Remove an authorized, known watermark from images"
+2026-11-19T11:26:24Z,pysuto,0.1.0rc1,Florian Huber <florian.huber1@wu.ac.at>,MIT,10845876,Python-based Supply-Use Table Optimiser: sigma-weighted reconciliation of supply-use tables from conflicting sources
+2026-11-19T11:28:29Z,rcdebug,1.0.0,Revan,MIT,7566361,Revan Cool Debugger - macOS CLI developer and security-auditing tool for Roblox Studio (Runtime Bridge & MCP Inspector)
+2026-11-19T11:30:41Z,purecalendars,3.0.1,guilhermegor,MIT,85342,"Holiday calendars and business-day arithmetic for Brazilian and US markets, computed offline."
+2026-11-19T11:31:00Z,delinea-mcp,2.0.0rc1,Delinea,MIT,179639,MCP server for the Delinea Secret Server and Platform APIs
+2026-11-19T11:33:47Z,commypanel,0.1.0,CommyPanel contributors,MIT,43060,"A small, dependency-free client for the CommyPanel HTTP API."
+2026-11-19T11:34:19Z,turkce-seo-slug,0.1.2,Evren Erten,MIT,8768,Türkçe başlıklardan SEO uyumlu URL slug'ı üretir. / Generates SEO-friendly URL slugs from Turkish titles.
+2026-11-19T11:35:39Z,targetzero,0.3.2,Wire Security,Apache-2.0,139347,"Tooling for the Target 0 campaign: count, fix and report seven security zeros."
+2026-11-19T11:36:03Z,coloopx,0.0.0,,,1827,Coloopx. This name is reserved; there is nothing to install yet.
+2026-11-19T11:39:31Z,keelflow,0.1.0a1,Dat Giang,MIT,102437,Reusable Postgres-backed durable workflow engine
+2026-11-19T11:39:44Z,reliagate,0.2.0,Youssef Ouhaghi,MIT,80104,Your agent passed CI once. That proves nothing. Reliability metrics and statistically sound CI gates for AI agents.
+2026-11-19T11:40:08Z,kernable-sdk,0.1.0,kernable,MIT,210000,kernable SDK for Python: event-sourced business logic in Python on the kernable kernel
+2026-11-19T11:40:14Z,node2vec-rs,0.1.0,Gregor Lueg <gregorlueg@me.com>,MIT,1367525,"node2vec and metapath2vec graph embeddings, in Rust."
+2026-11-19T11:44:12Z,django-admin-api-mcp,0.1.0a2,Ramez Ashraf,MIT,281319,"MCP-ready Django admin: a REST API and an MCP server for AI agents from your existing ModelAdmins, driven by api_ twins."
+2026-11-19T11:45:48Z,everfit-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,16567,"Connect Everfit to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No Everfit API key needed."
+2026-11-19T11:46:50Z,WaliGame,2026.11.9,WaliGame Project <waligame@example.com>,MIT,504467,WaliGame - a Python game engine designed for educational purposes
+2026-11-19T11:48:24Z,release-rehearsal,0.1.0,,MIT,123436,Deterministic offline release-readiness auditor for Python packages and distribution artifacts.
+2026-11-19T11:48:49Z,cargoscope,0.9.1,,MIT,36394354,"Understand every dependency in your Rust project: advisories, unused dependencies, licenses, versions and why each one is there"
+2026-11-19T11:50:38Z,reaterm,0.0.0,Praneeth Vadlapati,MIT,2761,A new package under development
+2026-11-19T11:52:30Z,odoo-addon-contract-invoice-force-date,18.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,91666,Choose invoicing date when manually invoicing contracts
+2026-11-19T11:53:25Z,cortex-bus,0.4.1,,Apache-2.0,194980,Reference implementation of the Cortex Bus spec: semantic pub/sub with tiered (topic / embedding / LLM) routing
+2026-11-19T11:55:13Z,team-hermes.fastapi-query,1.0.1,,,19922,"FastAPI filtering, selection, ordering, and pagination helpers for Team Hermes projects"
+2026-11-19T11:57:34Z,langchain-redefiner,0.1.0,"Sethuraman T A, Jungroo AI Labs",Apache-2.0,29403,"PII redaction and entity extraction for LangChain, using ReDefiNER and a plain-English rulebook."
+2026-11-19T11:58:43Z,team-hermes.odata-query,1.0.1,,,13215,"Shared filter, sorting, and selection contracts for Team Hermes projects"
+2026-11-19T12:01:19Z,splent-feature-local-publication,0.2.1,,LGPL-3.0-or-later,40702,"Publishing on the hub itself, under an identifier of its own: the publication provider of a hub without Zenodo"
+2026-11-19T12:01:28Z,team-hermes.sqlalchemy-core,1.0.1,,,12045,SQLAlchemy filter compilation for Team Hermes query contracts
+2026-11-19T12:03:00Z,sqlverdict,0.1.0,songwookun,MIT,121085,Rule-based scorer for Text-to-SQL results that catches silent_wrong SQL
+2026-11-19T12:04:08Z,team-hermes.sqlalchemy-faceted-search,1.0.1,,,15485,SQLAlchemy facet queries and cross-filtered counts for Team Hermes projects
+2026-11-19T12:07:20Z,team-hermes.sqlalchemy-repository,1.0.1,,,15668,Generic SQLAlchemy CRUD repository for Team Hermes projects
+2026-11-19T12:07:23Z,infx,1.2.0,My AI Knowledge Library,MIT,268823,infx：会猜、会死、会留下记忆的推理力模块；内含 look 子模块（看图并指出下一个点）
+2026-11-19T12:08:21Z,pulseapi-toolkit,0.1.0,Pranav Khatavkar,MIT,31559,"A lightweight Python toolkit for API monitoring, testing, validation, and reporting"
+2026-11-19T12:08:38Z,llama-index-redefiner,0.1.0,"Sethuraman T A, Jungroo AI Labs",Apache-2.0,23593,"LlamaIndex components that mask personal data or extract entities defined in a plain-English rulebook, using ReDefiNER."
+2026-11-19T12:08:51Z,team-hermes.validation,1.0.1,,,23104,Framework-independent validation rules and reports for Team Hermes projects
+2026-11-19T12:09:50Z,offlinestreetview,0.1.0,Kuldeep Dixit <dixitkuldeep252@gmail.com>,MIT,36526,"Offline street-level image dashboard: synced images, OpenStreetMap tiles, bar chart and image-shift export."
+2026-11-19T12:12:32Z,hivegate-swarm,0.2.0,Granth <granthx@users.noreply.github.com>,"MIT License Copyright (c) 2026 Granth (HiveGate) Permission is hereby granted, free of charge, to a…",525088,"HiveGate — Goal-aware control plane, hidden-agent auto-fingerprinter, policy replay diff & chaos harness for multi-agent swarms"
+2026-11-19T12:13:17Z,agg-search,0.1.2,TsukimioRinka,MIT,61575,"Multi-engine web search with RRF fusion, Jina reranking, query expansion and a tiered fetcher — CLI + MCP server, stdlib only."
+2026-11-19T12:13:29Z,learnbywire-trainerplus,1.1.1,Qluon Inc,Apache-2.0,23549,Experimental CPT/SFT orchestration with HF Trainer and optional OptimizerPlus control
+2026-11-19T12:14:49Z,dvd-to-plex,0.1.0,Agustin Gonzalez Nicolini,MIT,145555,"Remuxes unscrambled DVD-Video to MKV losslessly, with Plex names and verified subtitles."
+2026-11-19T12:14:55Z,django-xprez-mcp,0.1.0,,BSD-3-Clause,65265,"Admin-style MCP servers for Django: register providers, models, admin classes and functions as MCP tools, resources and prompts."
+2026-11-19T12:16:52Z,cpex-lasso,0.1.0,Lasso Security <support@lasso.security>,LicenseRef-Proprietary,25749,Lasso Security guardrail plugin for ContextForge
