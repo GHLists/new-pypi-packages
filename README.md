@@ -8,61 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 13:20 UTC
+## Latest list — 2026-11-19 14:20 UTC
 
-New packages created between 2026-11-19 12:21 UTC and 2026-11-19 13:20 UTC.
+New packages created between 2026-11-19 13:20 UTC and 2026-11-19 14:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-19T13-20-39-414479Z.csv)
+[Full CSV](data/new-packages-2026-11-19T14-20-24-882004Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-19 12:20:41 | [predisclose](https://pypi.org/project/predisclose/) | 0.1.1 | predisclose contributors | 89.3 kB | Before you disclose a vulnerability: check public records, public fixes, and th… |
-| 2026-11-19 12:21:14 | [splent-feature-dataset](https://pypi.org/project/splent-feature-dataset/) | 0.17.1 |  | 753.4 kB |  |
-| 2026-11-19 12:21:26 | [geoguide](https://pypi.org/project/geoguide/) | 0.1.0 | WaiLeung Ng | 42.3 kB | Simple, documented geotechnical engineering calculations |
-| 2026-11-19 12:23:40 | [coreidml](https://pypi.org/project/coreidml/) | 1.0.0 | Eduard Paul | 45.1 MB | Create, read, edit and print Adobe InDesign IDML files without InDesign: templa… |
-| 2026-11-19 12:25:18 | [rt-imaging-mcp](https://pypi.org/project/rt-imaging-mcp/) | 0.1.0 | Mahdy Firmansyah | 232.4 kB | Local, file-based MCP server for medical images and radiotherapy objects with P… |
-| 2026-11-19 12:27:55 | [grdl-eo](https://pypi.org/project/grdl-eo/) | 0.1.0 | Steven Siebert, geoint.org | 22.5 kB | GEOINT Rapid Development Library EO/MSI/HSI/IR Component Catalog |
-| 2026-11-19 12:28:00 | [old-rag](https://pypi.org/project/old-rag/) | 0.1.0 | OldRAG Team | 447.9 kB | Zero-admin sovereign local Outlook and filesystem hybrid RAG engine |
-| 2026-11-19 12:28:01 | [grdl-sar](https://pypi.org/project/grdl-sar/) | 0.1.0 | Steven Siebert, geoint.org | 474.9 kB | GEOINT Rapid Development Library SAR, PolSAR & Image Formation Component Catalog |
-| 2026-11-19 12:28:48 | [polaris-security-cli](https://pypi.org/project/polaris-security-cli/) | 0.1.0 | Polaris Security | 60.6 kB | Drive a Polaris instance from a shell — for developers and their coding agents. |
-| 2026-11-19 12:30:04 | [jetbrains-pulumi-gcp-project-management](https://pypi.org/project/jetbrains-pulumi-gcp-project-management/) | 999.9.9 |  | 983 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-19 12:30:24 | [sistat](https://pypi.org/project/sistat/) | 0.1.0 |  | 32.9 kB | Python client for SiStat, the database of the Statistical Office of Slovenia (S… |
-| 2026-11-19 12:31:54 | [jamframe](https://pypi.org/project/jamframe/) | 0.1.0 | Alphacloud Technologies Pte L… | 172.0 kB | Python client for the JamFrame API: render templates to images, carousels, PDFs… |
-| 2026-11-19 12:33:18 | [hashi-app](https://pypi.org/project/hashi-app/) | 1.1.1 | Hashi contributors | 595.1 kB | Plan in ChatGPT, build with your local agents: a safe MCP bridge to your worksp… |
-| 2026-11-19 12:34:08 | [multimetricdiagram](https://pypi.org/project/multimetricdiagram/) | 0.1.0 | "Daniel L. Codiga" <dcodiga@u… | 157.8 kB | Multimetric diagram: 5-metric (total/bias/pattern/amplitude/phase) alternative,… |
-| 2026-11-19 12:34:09 | [hermes-oxylabs-web-api](https://pypi.org/project/hermes-oxylabs-web-api/) | 0.1.0 | Oxylabs <giedrius.stankauskas… | 25.6 kB | Oxylabs Web API search and page extraction provider for Hermes Agent |
-| 2026-11-19 12:34:43 | [oxocr](https://pypi.org/project/oxocr/) | 0.1.1 | luckycucu | 3.3 MB | Lightweight Python OCR library on ONNX Runtime with 45 built-in models (PaddleO… |
-| 2026-11-19 12:35:13 | [simalleles](https://pypi.org/project/simalleles/) | 0.9.0 | Asurix <contact@asurix.fr> | 77.5 kB | Bibliothèque Python de simulation d'évolution d'allèles au fil des générations,… |
-| 2026-11-19 12:35:33 | [deapi-sdk](https://pypi.org/project/deapi-sdk/) | 0.6.1 | deAPI Team | 210.5 kB | Official Python SDK for deAPI — distributed AI inference platform |
-| 2026-11-19 12:38:34 | [svetoviz](https://pypi.org/project/svetoviz/) | 1.0.0 | Piotr Gryko <piogryko@gmail.c… | 177.4 MB | Compiled Svetoviz WebGPU Renderer |
-| 2026-11-19 12:38:36 | [gpu-fit](https://pypi.org/project/gpu-fit/) | 0.1.1 | Kiran Tallapragada | 23.9 kB | Will this LLM fit on this GPU? vLLM memory maths: weights, KV cache, context an… |
-| 2026-11-19 12:44:20 | [gpuNUFFT-cu12](https://pypi.org/project/gpuNUFFT-cu12/) | 0.11.0 |  | 6.7 MB | gpuNUFFT - An open source GPU Library for 3D Gridding and NUFFT |
-| 2026-11-19 12:44:37 | [langwatch-ksuid](https://pypi.org/project/langwatch-ksuid/) | 1.0.1 | LangWatch <support@langwatch.… | 34.4 kB | Generate prefixed, k-sorted globally unique identifiers with Python support |
-| 2026-11-19 12:47:16 | [edwh-mcp-plugin](https://pypi.org/project/edwh-mcp-plugin/) | 0.1.1 | Robin van der Noord | 32.7 kB | Expose a small, safe set of `edwh` tasks to coding agents over MCP (stdio) |
-| 2026-11-19 12:48:03 | [tmcode](https://pypi.org/project/tmcode/) | 0.2.0 | Abdullah Al Mamun | 124.2 kB | TmCode: a lightweight terminal code editor with run, find/replace, format-on-sa… |
-| 2026-11-19 12:49:52 | [superbased](https://pypi.org/project/superbased/) | 0.0.1 | superbased <contact@superbase… | 2.1 kB | Reserved by superbased. The superbased SDK for LLM-app observability is coming… |
-| 2026-11-19 12:49:53 | [superbased-observer-sdk](https://pypi.org/project/superbased-observer-sdk/) | 0.0.1 | superbased <contact@superbase… | 2.2 kB | Reserved by superbased. The superbased SDK for LLM-app observability is coming… |
-| 2026-11-19 12:49:54 | [superbased-sdk](https://pypi.org/project/superbased-sdk/) | 0.0.1 | superbased <contact@superbase… | 2.1 kB | Reserved by superbased. The superbased SDK for LLM-app observability is coming… |
-| 2026-11-19 12:50:22 | [openjiuwen-computeruse](https://pypi.org/project/openjiuwen-computeruse/) | 0.1.0b1 |  | 26.9 MB | Programmatic desktop interaction for agents |
-| 2026-11-19 12:51:47 | [oxylabs-web-api-mcp](https://pypi.org/project/oxylabs-web-api-mcp/) | 0.3.0 |  | 146.9 kB | Self-hostable MCP server for the Oxylabs Web API (/v1/search, /v1/search/compan… |
-| 2026-11-19 12:54:45 | [facebook-scraper-api](https://pypi.org/project/facebook-scraper-api/) | 0.1.0 | SocialAPIs <pypi@socialapis.i… | 22.3 kB | Facebook scraper API for Python: public Pages, posts, groups, reels, comments a… |
-| 2026-11-19 12:55:41 | [publictransport](https://pypi.org/project/publictransport/) | 0.1.0 |  | 7.2 MB | Client for public transport APIs: EFA, MOTIS, TRIAS, OJP, HAFAS and OpenTripPla… |
-| 2026-11-19 12:55:54 | [facebook-ads-library-api](https://pypi.org/project/facebook-ads-library-api/) | 0.1.0 | SocialAPIs <pypi@socialapis.i… | 22.5 kB | Meta (Facebook) Ads Library API for Python: search ads by keyword or advertiser… |
-| 2026-11-19 12:56:52 | [patchbay-client](https://pypi.org/project/patchbay-client/) | 0.3.0 |  | 15.3 kB | Python client for the Patchbay API: read, steer and edit Qwen3.5 models per req… |
-| 2026-11-19 12:57:14 | [kairntech-chainlit](https://pypi.org/project/kairntech-chainlit/) | 2.12.3 | Willy Douhard, Dan Andre Cons… | 22.6 MB | Build Conversational AI. |
-| 2026-11-19 12:58:49 | [grow-openbao](https://pypi.org/project/grow-openbao/) | 0.1.0 | Grow Codes <opensource@grow.c… | 269.4 kB | Grow Codes SDK for OpenBao (unofficial, community maintained) |
-| 2026-11-19 12:59:29 | [axross-headless-mcp](https://pypi.org/project/axross-headless-mcp/) | 0.15.179 |  | 4.0 MB | axross's headless MCP server: file tools on the local disk and on SFTP, SMB, We… |
-| 2026-11-19 12:59:36 | [axross-markdown](https://pypi.org/project/axross-markdown/) | 0.16.0 |  | 1.2 MB | axross's Markdown viewer on its own: GitHub Markdown with an outline, footnotes… |
-| 2026-11-19 12:59:36 | [haru-kit](https://pypi.org/project/haru-kit/) | 0.1.0 | yung algorithm | 3.0 MB | Run Haru-4B, the open full-duplex voice model, with one command on Mac, NVIDIA,… |
-| 2026-11-19 13:02:32 | [tgturbo](https://pypi.org/project/tgturbo/) | 1.0.0 | YOUR NAME <YOU@EMAIL.COM> | 39.2 kB | Fast Telegram media downloader: PDFs, videos, audio, photos. Channel browser, p… |
-| 2026-11-19 13:03:06 | [raxtik-source-faers](https://pypi.org/project/raxtik-source-faers/) | 0.1.0.dev1 | Raxtik Team | 113.2 kB | Official FDA FAERS/AEMS data connector, parser, and extractor for raxtik-etl |
-| 2026-11-19 13:03:24 | [seramys-skillguard](https://pypi.org/project/seramys-skillguard/) | 0.1.0 | SkillGuard contributors | 600.8 kB | Supply-chain security scanner for AI agent skills |
-| 2026-11-19 13:03:50 | [tracerset](https://pypi.org/project/tracerset/) | 1.2.4 |  | 66.8 kB | Execution-Centric Program Comprehension Environment for Python |
-| 2026-11-19 13:06:02 | [pdfluent-dlt](https://pypi.org/project/pdfluent-dlt/) | 0.1.0 | "Innovation Trigger B.V." <te… | 43.1 kB | A dlt resource over PDFluent: PDFs to structure-aware rows that dlt loads into… |
-| 2026-11-19 13:06:55 | [vllm-ascend-a8w4-compact](https://pypi.org/project/vllm-ascend-a8w4-compact/) | 0.1.0 | cholely <1427850140k@gmail.co… | 1.9 MB | Install the A8W4 MSD compact active-expert descriptor kernel for vllm-ascend (A… |
-| 2026-11-19 13:07:29 | [gyldan](https://pypi.org/project/gyldan/) | 0.0.0a1 |  | 41.7 MB | GyldanDB Python API and native file-backed database provider |
-| 2026-11-19 13:07:37 | [ecfr-md](https://pypi.org/project/ecfr-md/) | 0.2.0 |  | 2.4 MB | Code of Federal Regulations text from the eCFR API as navigable Python objects… |
-| 2026-11-19 13:07:43 | [grow-hashicorp-vault](https://pypi.org/project/grow-hashicorp-vault/) | 0.1.0 | Grow Codes <opensource@grow.c… | 278.2 kB | Grow Codes SDK for HashiCorp Vault (unofficial, community maintained) |
-| 2026-11-19 13:09:53 | [heraldesk](https://pypi.org/project/heraldesk/) | 1.16.3 | Abeng | 565.5 kB | Your autonomous social media department. Self-hosted, open source, single-user. |
-| 2026-11-19 13:09:58 | [agentgrade-mcp](https://pypi.org/project/agentgrade-mcp/) | 0.1.0 | Tanishq Mohod | 289.6 kB | Measure whether AI agents can actually use an MCP server: repeated runs, checke… |
-| 2026-11-19 13:19:37 | [odoo-addon-product-supplierinfo-multi-code](https://pypi.org/project/odoo-addon-product-supplierinfo-multi-code/) | 19.0.1.0.0.2 | Akretion, Odoo Community Asso… | 23.7 kB | Allows to retrieve all supplier product code on product level |
+| 2026-11-19 13:00:41 | [aetos-verify](https://pypi.org/project/aetos-verify/) | 0.3.3 | AETOS Team | 564.5 kB | Tamper-evident, offline-verifiable receipts for AI-assisted decisions. |
+| 2026-11-19 13:20:22 | [heocr](https://pypi.org/project/heocr/) | 0.1.2 | HeOCR maintainers | 458.1 kB | The best open pipeline for getting Hebrew text out of any document |
+| 2026-11-19 13:23:56 | [mobly-bluetooth](https://pypi.org/project/mobly-bluetooth/) | 0.1.0 | Google LLC | 215.7 kB | Mobly Bluetooth controller module for operating Bluetooth reference devices and… |
+| 2026-11-19 13:24:27 | [grow-infisical](https://pypi.org/project/grow-infisical/) | 0.1.0 | Grow Codes <opensource@grow.c… | 225.0 kB | Grow Codes SDK for Infisical (unofficial, community maintained) |
+| 2026-11-19 13:25:00 | [rb-keys](https://pypi.org/project/rb-keys/) | 0.2.4 | Roman Bolandau | 119.4 kB | Shared normalization keys (query, domain, URL) for linking records across tools. |
+| 2026-11-19 13:25:03 | [0x1-log](https://pypi.org/project/0x1-log/) | 1.1.0 | Raihan Hidayatullah Djunaedi | 5.3 kB | 0x1LOG: embedded observability for FastAPI |
+| 2026-11-19 13:25:03 | [0x1-nlp](https://pypi.org/project/0x1-nlp/) | 1.1.0 | Raihan Hidayatullah Djunaedi | 4.9 kB | 0x1NLP: Indonesian natural language preprocessing |
+| 2026-11-19 13:25:11 | [synctwin-client](https://pypi.org/project/synctwin-client/) | 0.0.0 | SyncTwin GmbH | 2.8 kB | Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not f… |
+| 2026-11-19 13:25:24 | [synctwin](https://pypi.org/project/synctwin/) | 0.0.0 | SyncTwin GmbH | 2.7 kB | Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not f… |
+| 2026-11-19 13:25:52 | [rowgate](https://pypi.org/project/rowgate/) | 0.1.0 | Dei'Marlon Scisney <info@thed… | 107.6 kB | Data contracts and quality gates for Polars: quarantine bad rows with reasons,… |
+| 2026-11-19 13:26:07 | [synctwin-asset-resolver](https://pypi.org/project/synctwin-asset-resolver/) | 0.0.0 | SyncTwin GmbH | 2.9 kB | Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not f… |
+| 2026-11-19 13:26:09 | [synctwin-ar](https://pypi.org/project/synctwin-ar/) | 0.0.0 | SyncTwin GmbH | 2.7 kB | Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not f… |
+| 2026-11-19 13:29:20 | [rb-dataio](https://pypi.org/project/rb-dataio/) | 0.1.35 | net.paradox | 362.5 kB | Read any table into a pandas DataFrame and write it anywhere: csv, tsv, xlsx, j… |
+| 2026-11-19 13:29:34 | [typed-evedex](https://pypi.org/project/typed-evedex/) | 0.1.0 | Marcel Claramunt <marcel@trib… | 222.5 kB | A fully typed, validated async client for the Evedex API. |
+| 2026-11-19 13:29:45 | [rb-google-oauth](https://pypi.org/project/rb-google-oauth/) | 0.2.3 | bolandau | 58.0 kB | Shared Google authorization for CLI tools: a service account and API keys in on… |
+| 2026-11-19 13:29:47 | [lupaxa-github-intel](https://pypi.org/project/lupaxa-github-intel/) | 0.1.0 | The Lupaxa Project | 124.9 kB | Monitor an explicit collection of GitHub repositories from the local machine. |
+| 2026-11-19 13:29:55 | [rb-yandex-oauth](https://pypi.org/project/rb-yandex-oauth/) | 0.4.2 | bolandau | 57.7 kB | Shared Yandex OAuth for CLI tools: keychain storage, token refresh, auth status. |
+| 2026-11-19 13:31:50 | [yandex-monium-client-broinf](https://pypi.org/project/yandex-monium-client-broinf/) | 66.0.3 | Yandex | 1.2 kB | A package to prevent Dependency Confusion attacks against Yandex. |
+| 2026-11-19 13:34:06 | [tenet-tools-ai-repobot](https://pypi.org/project/tenet-tools-ai-repobot/) | 0.0.0 |  | 2.0 kB | Name reserved for the Tenet platform's tenet-tools-ai-repobot distribution. Not… |
+| 2026-11-19 13:34:19 | [tenet-tools-ai-sandbox](https://pypi.org/project/tenet-tools-ai-sandbox/) | 0.0.0 |  | 2.0 kB | Name reserved for the Tenet platform's tenet-tools-ai-sandbox distribution. Not… |
+| 2026-11-19 13:34:32 | [tenet-tools-ai-skills](https://pypi.org/project/tenet-tools-ai-skills/) | 0.0.0 |  | 2.0 kB | Name reserved for the Tenet platform's tenet-tools-ai-skills distribution. Not… |
+| 2026-11-19 13:34:48 | [awxkit-async](https://pypi.org/project/awxkit-async/) | 1.0 | Gluschenko Daniil | 13.7 kB | Библиотека для взаимодействия с awx посредством родительской библотеки awxkit |
+| 2026-11-19 13:38:20 | [grow-datadog-logs](https://pypi.org/project/grow-datadog-logs/) | 0.1.0 | Grow Codes <opensource@grow.c… | 220.4 kB | Grow Codes SDK for Datadog Log Management (unofficial, community maintained) |
+| 2026-11-19 13:39:06 | [sabermath](https://pypi.org/project/sabermath/) | 1.0.0 | Nikolay Georgiev, Maria Drenc… | 52.5 kB | SABER-Math: Benchmark for Information Retrieval Evaluation in Mathematics |
+| 2026-11-19 13:40:05 | [fitrofy-mcp](https://pypi.org/project/fitrofy-mcp/) | 0.1.0 |  | 23.1 kB | Fitrofy food data and diet brain for Claude, ChatGPT, Gemini and other AI assis… |
+| 2026-11-19 13:41:20 | [djest](https://pypi.org/project/djest/) | 1.3.6 | "Christian Joyce G. Garcia" <… | 2.5 MB | Zero-code automated test generator and direct pytest runner for Django & Django… |
+| 2026-11-19 13:41:37 | [archwire](https://pypi.org/project/archwire/) | 0.1.0 |  | 5.0 MB | Turns a short definition of how services connect into a draw.io diagram, for AWS |
+| 2026-11-19 13:42:25 | [printplus-vn](https://pypi.org/project/printplus-vn/) | 0.1.0 | Nguyễn An Phước | 6.1 kB | Print text with a typewriter effect \| In chữ theo hiệu ứng máy đánh chữ |
+| 2026-11-19 13:43:28 | [sipl-toolkit-zekorfk](https://pypi.org/project/sipl-toolkit-zekorfk/) | 0.1.0 | Твоє Ім'я | 46.0 kB | SIPL Language Toolkit: parser, AST, interpreter, trace, CLI, and visualization |
+| 2026-11-19 13:44:35 | [psycopg2-loio](https://pypi.org/project/psycopg2-loio/) | 1.0 | James Howe | 7.1 kB | Wrap psycopg2 lobjects as Python IO |
+| 2026-11-19 13:50:26 | [ncloud-mcp-server](https://pypi.org/project/ncloud-mcp-server/) | 0.7.0 |  | 139.1 kB | Lightweight MCP server for NAVER Cloud Platform (Ncloud): a few signed generic… |
+| 2026-11-19 13:50:34 | [v2e](https://pypi.org/project/v2e/) | 1.8.3 | Zhe He | 995.3 kB | Generates synthetic DVS events from conventional video |
+| 2026-11-19 13:51:09 | [pretix-vetting](https://pypi.org/project/pretix-vetting/) | 0.1.0 | "Christiaan de Die le Clercq… | 97.7 kB | Let attendees vouch for applicants before their orders are approved |
+| 2026-11-19 13:57:15 | [alfarouqai](https://pypi.org/project/alfarouqai/) | 0.3.0a1 | Khalid Salman <khalidsalman71… | 419.3 kB | Local-first, lightweight unified AI tools and bounded agent workflows |
+| 2026-11-19 13:58:03 | [appium-connect-agent](https://pypi.org/project/appium-connect-agent/) | 0.1.0 | Microsoft Corporation | 424.7 kB | Local Appium readiness and automation for AI agent integrations. |
+| 2026-11-19 13:58:49 | [uncomfortable](https://pypi.org/project/uncomfortable/) | 0.0.1 | antimeme-ai <hiya@antimeme.ai> | 2.1 kB | Placeholder reserving the uncomfortable name for antimeme-ai |
+| 2026-11-19 13:58:56 | [agent-skill-audit](https://pypi.org/project/agent-skill-audit/) | 0.1.2 |  | 25.4 kB | Security audit for AI agent skills (SKILL.md). Like npm audit, for skills. |
+| 2026-11-19 14:00:16 | [slim-okf-generator](https://pypi.org/project/slim-okf-generator/) | 0.1.53 | Umair Baig | 6.0 MB | Generate OKF knowledge bundles from codebases — Claude skill + OpenCode integra… |
+| 2026-11-19 14:01:26 | [flo-pro-adk](https://pypi.org/project/flo-pro-adk/) | 1.0.0 | Your Name | 1.6 kB | POC package (beacon-only) |
+| 2026-11-19 14:02:18 | [quality-profiles](https://pypi.org/project/quality-profiles/) | 1.0.0 | Christian Piermarini <piermar… | 1.6 MB | Quality profiles for benchmarking optimization algorithms by the quality of the… |
+| 2026-11-19 14:05:24 | [hifay](https://pypi.org/project/hifay/) | 1.0.1 | HiFay / Vestral | 12.3 kB | Oficiálna Python knižnica pre HiFay AI (chat.hifay.co aj firemné on-premise ser… |
+| 2026-11-19 14:06:41 | [snakeeats](https://pypi.org/project/snakeeats/) | 0.1.0 | MAX AI OS <max@aios.dev> | 1.1 MB | SnakeEats unified service: single-process single-port WS JSON-RPC (text streams… |
+| 2026-11-19 14:10:30 | [zorsch](https://pypi.org/project/zorsch/) | 0.2.2 | wheatfox | 103.1 kB | A research copilot CLI (zr) built on a local Zotero library. |
+| 2026-11-19 14:11:08 | [ag2kit](https://pypi.org/project/ag2kit/) | 0.1.0 | Peter Yao | 108.8 kB | Reproducible AlphaGenome 2 variant-effect analysis: VCF/Parquet input, resumabl… |
+| 2026-11-19 14:11:28 | [indico-plugin-mcp](https://pypi.org/project/indico-plugin-mcp/) | 0.1.0 |  | 129.0 kB | Permission-aware Model Context Protocol tools for Indico and STSA plugins |
+| 2026-11-19 14:13:10 | [euler-connector](https://pypi.org/project/euler-connector/) | 0.1.0 |  | 55.6 kB | How the euler-* packages talk to euler-view: the launch environment, records, t… |
+| 2026-11-19 14:14:38 | [sysmote](https://pypi.org/project/sysmote/) | 0.1.0 | Alexxio | 124.5 kB | Agente de Sysmote: administra tu PC Linux desde el móvil, con API protegida por… |
+| 2026-11-19 14:14:47 | [ai-coder-sandbox](https://pypi.org/project/ai-coder-sandbox/) | 0.1.0 |  | 99.4 kB | Autonomous Coding Agent — Terminal CLI & Web Studio Device Bridge |
+| 2026-11-19 14:16:11 | [xpay-client](https://pypi.org/project/xpay-client/) | 0.1.0 | HeartBix | 5.8 kB | Zero-dependency XPay client: intercept HTTP 402 and pay with an API key. |
+| 2026-11-19 14:18:01 | [oxspec](https://pypi.org/project/oxspec/) | 0.3.0rc1 | Joel Gil <joel.gil@proton.me> | 980.3 kB | An independent Rust implementation of Xspec with a PyXspec-compatible Python API |
+| 2026-11-19 14:19:12 | [rqark-sandbox](https://pypi.org/project/rqark-sandbox/) | 0.1.0 | RedQueenArk | 140.9 kB | Red Queen Ark Sandbox - docker workspace, file and shell tools, git tools and s… |
+| 2026-11-19 14:19:59 | [llm-exp-gateway](https://pypi.org/project/llm-exp-gateway/) | 1.0.0 |  | 26.7 kB | Modelos de um gateway LiteLLM compatível com OpenAI para o CLI llm |

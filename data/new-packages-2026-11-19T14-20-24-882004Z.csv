@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T13:00:41Z,aetos-verify,0.3.3,AETOS Team,Apache-2.0,564550,"Tamper-evident, offline-verifiable receipts for AI-assisted decisions."
+2026-11-19T13:20:22Z,heocr,0.1.2,HeOCR maintainers,Apache-2.0,458149,The best open pipeline for getting Hebrew text out of any document
+2026-11-19T13:23:56Z,mobly-bluetooth,0.1.0,Google LLC,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",215736,Mobly Bluetooth controller module for operating Bluetooth reference devices and development boards in Mobly tests.
+2026-11-19T13:24:27Z,grow-infisical,0.1.0,Grow Codes <opensource@grow.codes>,Apache-2.0,224973,"Grow Codes SDK for Infisical (unofficial, community maintained)"
+2026-11-19T13:25:00Z,rb-keys,0.2.4,Roman Bolandau,MIT,119443,"Shared normalization keys (query, domain, URL) for linking records across tools."
+2026-11-19T13:25:03Z,0x1-log,1.1.0,Raihan Hidayatullah Djunaedi,MIT,5258,0x1LOG: embedded observability for FastAPI
+2026-11-19T13:25:03Z,0x1-nlp,1.1.0,Raihan Hidayatullah Djunaedi,MIT,4897,0x1NLP: Indonesian natural language preprocessing
+2026-11-19T13:25:11Z,synctwin-client,0.0.0,SyncTwin GmbH,LicenseRef-SyncTwin-Proprietary,2766,"Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not from PyPI."
+2026-11-19T13:25:24Z,synctwin,0.0.0,SyncTwin GmbH,LicenseRef-SyncTwin-Proprietary,2686,"Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not from PyPI."
+2026-11-19T13:25:52Z,rowgate,0.1.0,Dei'Marlon Scisney <info@thedataguys.org>,MIT,107609,"Data contracts and quality gates for Polars: quarantine bad rows with reasons, block bad batches, and write reports people can read."
+2026-11-19T13:26:07Z,synctwin-asset-resolver,0.0.0,SyncTwin GmbH,LicenseRef-SyncTwin-Proprietary,2899,"Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not from PyPI."
+2026-11-19T13:26:09Z,synctwin-ar,0.0.0,SyncTwin GmbH,LicenseRef-SyncTwin-Proprietary,2726,"Placeholder. SyncTwin's Python packages are distributed by your SyncTwin, not from PyPI."
+2026-11-19T13:29:20Z,rb-dataio,0.1.35,net.paradox,MIT,362494,"Read any table into a pandas DataFrame and write it anywhere: csv, tsv, xlsx, json, jsonl, parquet, Google Sheets, stdin."
+2026-11-19T13:29:34Z,typed-evedex,0.1.0,Marcel Claramunt <marcel@tribulnation.com>,MIT,222500,"A fully typed, validated async client for the Evedex API."
+2026-11-19T13:29:45Z,rb-google-oauth,0.2.3,bolandau,MIT,58022,Shared Google authorization for CLI tools: a service account and API keys in one keychain slot.
+2026-11-19T13:29:47Z,lupaxa-github-intel,0.1.0,The Lupaxa Project,MIT,124922,Monitor an explicit collection of GitHub repositories from the local machine.
+2026-11-19T13:29:55Z,rb-yandex-oauth,0.4.2,bolandau,,57680,"Shared Yandex OAuth for CLI tools: keychain storage, token refresh, auth status."
+2026-11-19T13:31:50Z,yandex-monium-client-broinf,66.0.3,Yandex,,1179,A package to prevent Dependency Confusion attacks against Yandex.
+2026-11-19T13:34:06Z,tenet-tools-ai-repobot,0.0.0,,Apache-2.0,2025,Name reserved for the Tenet platform's tenet-tools-ai-repobot distribution. Not yet published.
+2026-11-19T13:34:19Z,tenet-tools-ai-sandbox,0.0.0,,Apache-2.0,2028,Name reserved for the Tenet platform's tenet-tools-ai-sandbox distribution. Not yet published.
+2026-11-19T13:34:32Z,tenet-tools-ai-skills,0.0.0,,Apache-2.0,2013,Name reserved for the Tenet platform's tenet-tools-ai-skills distribution. Not yet published.
+2026-11-19T13:34:48Z,awxkit-async,1.0,Gluschenko Daniil,SCB,13738,Библиотека для взаимодействия с awx посредством родительской библотеки awxkit
+2026-11-19T13:38:20Z,grow-datadog-logs,0.1.0,Grow Codes <opensource@grow.codes>,Apache-2.0,220372,"Grow Codes SDK for Datadog Log Management (unofficial, community maintained)"
+2026-11-19T13:39:06Z,sabermath,1.0.0,"Nikolay Georgiev, Maria Drencheva, Kseniia Ibragimova, Ivo Petrov, Dimitar I. Dimitrov, Martin Vech…",CC-BY-SA-4.0,52491,SABER-Math: Benchmark for Information Retrieval Evaluation in Mathematics
+2026-11-19T13:40:05Z,fitrofy-mcp,0.1.0,,MIT,23118,"Fitrofy food data and diet brain for Claude, ChatGPT, Gemini and other AI assistants (MCP)"
+2026-11-19T13:41:20Z,djest,1.3.6,"""Christian Joyce G. Garcia"" <cjggarcia.dev@gmail.com>",,2478570,"Zero-code automated test generator and direct pytest runner for Django & Django REST Framework (DRF), built in Rust."
+2026-11-19T13:41:37Z,archwire,0.1.0,,Apache-2.0,4967079,"Turns a short definition of how services connect into a draw.io diagram, for AWS"
+2026-11-19T13:42:25Z,printplus-vn,0.1.0,Nguyễn An Phước,MIT,6080,Print text with a typewriter effect | In chữ theo hiệu ứng máy đánh chữ
+2026-11-19T13:43:28Z,sipl-toolkit-zekorfk,0.1.0,Твоє Ім'я,MIT,45950,"SIPL Language Toolkit: parser, AST, interpreter, trace, CLI, and visualization"
+2026-11-19T13:44:35Z,psycopg2-loio,1.0,James Howe,MIT,7113,Wrap psycopg2 lobjects as Python IO
+2026-11-19T13:50:26Z,ncloud-mcp-server,0.7.0,,MIT,139119,Lightweight MCP server for NAVER Cloud Platform (Ncloud): a few signed generic tools instead of one tool per API.
+2026-11-19T13:50:34Z,v2e,1.8.3,Zhe He,"MIT License Copyright (c) 2019 SensorsINI Permission is hereby granted, free of charge, to any pers…",995295,Generates synthetic DVS events from conventional video
+2026-11-19T13:51:09Z,pretix-vetting,0.1.0,"""Christiaan de Die le Clercq (techwolf12)"" <contact@techwolf12.nl>",Apache-2.0,97709,Let attendees vouch for applicants before their orders are approved
+2026-11-19T13:57:15Z,alfarouqai,0.3.0a1,Khalid Salman <khalidsalman7140@gmail.com>,Apache-2.0,419312,"Local-first, lightweight unified AI tools and bounded agent workflows"
+2026-11-19T13:58:03Z,appium-connect-agent,0.1.0,Microsoft Corporation,MIT,424706,Local Appium readiness and automation for AI agent integrations.
+2026-11-19T13:58:49Z,uncomfortable,0.0.1,antimeme-ai <hiya@antimeme.ai>,MIT,2133,Placeholder reserving the uncomfortable name for antimeme-ai
+2026-11-19T13:58:56Z,agent-skill-audit,0.1.2,,MIT,25387,"Security audit for AI agent skills (SKILL.md). Like npm audit, for skills."
+2026-11-19T14:00:16Z,slim-okf-generator,0.1.53,Umair Baig,MIT,6049418,Generate OKF knowledge bundles from codebases — Claude skill + OpenCode integration
+2026-11-19T14:01:26Z,flo-pro-adk,1.0.0,Your Name,,1556,POC package (beacon-only)
+2026-11-19T14:02:18Z,quality-profiles,1.0.0,Christian Piermarini <piermarini@diag.uniroma1.it>,MIT,1589421,Quality profiles for benchmarking optimization algorithms by the quality of the solutions they find.
+2026-11-19T14:05:24Z,hifay,1.0.1,HiFay / Vestral,Proprietary,12297,Oficiálna Python knižnica pre HiFay AI (chat.hifay.co aj firemné on-premise servery)
+2026-11-19T14:06:41Z,snakeeats,0.1.0,MAX AI OS <max@aios.dev>,MIT,1100321,SnakeEats unified service: single-process single-port WS JSON-RPC (text streams x tool registry)
+2026-11-19T14:10:30Z,zorsch,0.2.2,wheatfox,MIT,103075,A research copilot CLI (zr) built on a local Zotero library.
+2026-11-19T14:11:08Z,ag2kit,0.1.0,Peter Yao,MIT,108797,"Reproducible AlphaGenome 2 variant-effect analysis: VCF/Parquet input, resumable cached scoring, GTEx eQTL evaluation"
+2026-11-19T14:11:28Z,indico-plugin-mcp,0.1.0,,,129015,Permission-aware Model Context Protocol tools for Indico and STSA plugins
+2026-11-19T14:13:10Z,euler-connector,0.1.0,,MIT,55601,"How the euler-* packages talk to euler-view: the launch environment, records, transports and structured progress"
+2026-11-19T14:14:38Z,sysmote,0.1.0,Alexxio,GPL-3.0-only,124488,"Agente de Sysmote: administra tu PC Linux desde el móvil, con API protegida por login, TUI y túnel iroh"
+2026-11-19T14:14:47Z,ai-coder-sandbox,0.1.0,,,99357,Autonomous Coding Agent — Terminal CLI & Web Studio Device Bridge
+2026-11-19T14:16:11Z,xpay-client,0.1.0,HeartBix,MIT,5755,Zero-dependency XPay client: intercept HTTP 402 and pay with an API key.
+2026-11-19T14:18:01Z,oxspec,0.3.0rc1,Joel Gil <joel.gil@proton.me>,BSD-3-Clause,980256,An independent Rust implementation of Xspec with a PyXspec-compatible Python API
+2026-11-19T14:19:12Z,rqark-sandbox,0.1.0,RedQueenArk,MIT,140918,"Red Queen Ark Sandbox - docker workspace, file and shell tools, git tools and sandbox prompts for rqark agents"
+2026-11-19T14:19:59Z,llm-exp-gateway,1.0.0,,,26703,Modelos de um gateway LiteLLM compatível com OpenAI para o CLI llm
