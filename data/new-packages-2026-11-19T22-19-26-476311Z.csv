@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T21:20:08Z,benchling-toolkit,0.4.0,John Amodeo <120539773+jmamodeo@users.noreply.github.com>,MIT,300047,"Safe, auditable tools for AI agents working in Benchling"
+2026-11-19T21:24:09Z,framewise-cull,0.2.0,alexander-carrels,MIT,169540,Cull a photo Session: scan Frames and review them locally.
+2026-11-19T21:25:22Z,tiny-voca-ru,0.1.0,Evgeniy Chetvertkov,Apache-2.0,4033580,A lightweight 4.5M-parameter Russian text-to-speech model
+2026-11-19T21:27:04Z,aipm-project-memory,0.0.1,Vladyslav Kotko,,3196,
+2026-11-19T21:31:19Z,sitemon,0.1.0,Londopy,MIT,166023,"Power, environment, door, AllStar and AREDN monitoring for repeater sites."
+2026-11-19T21:31:37Z,smolagents-groundbox,0.1.0,Groundbox <kurtis@groundbox.dev>,MIT,25430,A Groundbox sandbox executor for smolagents' CodeAgent: run agent code in a Firecracker microVM.
+2026-11-19T21:32:36Z,arraylake-apps-gateway,0.1.0,,,26503051,"Arraylake Apps gateway: runs Arraylake apps locally (preview, dev) and deployed"
+2026-11-19T21:32:48Z,undervoice,0.1.0,Londopy,MIT,59593,Slow data channel hidden under FM voice for amateur radio
+2026-11-19T21:33:44Z,ovos-skill-wikidata,0.1.0a2,Andreas Lorensen,Apache-2.0,184087,"Short, current facts from Wikidata through common query - who leads a country, capitals, population, birthdays, where places are. No keys, works in a browser."
+2026-11-19T21:34:48Z,anix-vault,0.1.0,ANIX Team,MIT,32583,Lightweight local secrets and environment manager for ANIX ecosystem
+2026-11-19T21:35:49Z,open-memory-lab-sdk,0.8.3,e8kor,Apache-2.0,792484,Python client for the Open Memory Lab HTTP API: a client generated from openapi.yaml and a thin hand-written wrapper.
+2026-11-19T21:37:57Z,kirocrew,1.0.1,,,2639,KiroCrew Python package
+2026-11-19T21:37:58Z,trimlynk,1.0.1,"Vivek Gaur, Ashish Kumar Dwivedi, TrimLynk",LicenseRef-Proprietary,95906,Official Python SDK for the TrimLynk Developer API v1
+2026-11-19T21:38:59Z,slsa-linkml,0.11.6,Noel McLoughlin <noel.mcloughlin@gmail.com>,Apache-2.0,7551835,Supply-chain Levels for Software Artifacts (LinkML)
+2026-11-19T21:39:23Z,py-mir-toolbox,0.1.0,Juan Sebastián Gómez-Cañón,BSD-3-Clause,619270,"A Python port of MIRtoolbox for music feature extraction, designed as a bridge from music psychology to the Python MIR ecosystem."
+2026-11-19T21:39:47Z,rabbit-sim,0.1.0,Ville Vainio <vivainio@gmail.com>,MIT,5789589,"Single-binary, in-memory AMQP 0-9-1 broker (RabbitMQ-compatible) for local development, with optional SQLite persistence and a tiny web UI"
+2026-11-19T21:40:16Z,gravity-constant,0.1.4,,,2896,Standard gravitational acceleration
+2026-11-19T21:42:32Z,trapyze,0.17.4,traPYze contributors,MIT,610348,Run your Python tools without the technical bits.
+2026-11-19T21:46:35Z,owpp,0.1.0,,MIT,965461,"Write, test and deploy Open-WebUI plugins (a function plus its tool and skills) from a git repository."
+2026-11-19T21:46:39Z,tirkit,0.1.0,St. Mark Adebayo,Apache-2.0,1266383,"LLM eval and observability platform: tracing, test sets mined from production logs, CI regression gates, and an LLM judge you can actually trust."
+2026-11-19T21:47:45Z,frame2text4llm,0.2.1,"Alban NYANTUDRE, Salif SAWADOGO",MIT,80798,"Read the subtitles burned into a video with OCR, and cut the audio under each one, to build speech and text datasets."
+2026-11-19T21:50:02Z,langchain-groundbox,0.1.0,Groundbox <kurtis@groundbox.dev>,MIT,31187,Groundbox sandbox integration for Deep Agents (dcode)
+2026-11-19T21:50:39Z,compatpower,0.1.0,"Allan Lincoln Rodrigues Siriani, Susi Meire Maximino Leite",MIT,21517,"Power, equivalence and design of in vitro compatibility assays between biological control agents and pesticides"
+2026-11-19T21:51:27Z,openai-agents-groundbox,0.1.0,Groundbox <contact@groundbox.dev>,MIT,43758,Groundbox sandboxes for the OpenAI Agents SDK: a SandboxClient for SandboxRunConfig
+2026-11-19T21:54:27Z,pymeep,1.36.0,Simpetus and the Meep contributors,GPL-2.0-or-later,163745459,Free finite-difference time-domain (FDTD) software for electromagnetic simulations
+2026-11-19T21:54:41Z,inspect-groundbox-sandbox,0.1.0,Groundbox <kurtis@groundbox.dev>,MIT,49386,"Groundbox sandboxes for Inspect AI: sandbox=""groundbox"""
+2026-11-19T21:55:34Z,jamly-audio-sep,0.1.1,Kurt Galiatsatos,MIT,379768,"Split media URLs or local audio into drums/drumless, karaoke, or multi-stem tracks locally with Demucs."
+2026-11-19T22:01:36Z,elench,0.1.0,Elench,MIT,23930,"Design, quote and order 3D-printed parts at Elench's print factory, from a shell"
+2026-11-19T22:02:35Z,pandalens,0.1.0,Eric Nelson,MIT,65163,"See what pandas does to your data, step by step, in a live browser tab. A teaching aid for beginners."
+2026-11-19T22:02:53Z,aiagentblocklist,1.0.0,Alpha Quantum,MIT,57312,"Python feed client for the AI agent blocklist: download the daily files with ETag caching and match AI agent domains, browser extensions, processes and packages locally."
+2026-11-19T22:03:49Z,coding-language-library,0.3.1,,,1443058,Source-linked union of programming-language and tooling catalogues
+2026-11-19T22:04:02Z,gaphack,0.7.1,Josh Walker <joshowalker@yahoo.com>,BSD-2-Clause,278790,Gap-Optimized Hierarchical Agglomerative Clustering for DNA barcoding
+2026-11-19T22:04:14Z,hl-guard,0.1.0,Ihor Solopii,Apache-2.0,218710,A self-hosted MCP server that guards Hyperliquid orders with a user policy.
+2026-11-19T22:10:53Z,pushpress-mcp,1.1.0,Cotlet.dev <contact@cotlet.dev>,Elastic-2.0,15640,"Connect PushPress to ChatGPT, Claude and other AI agents through Cotlet.dev. Includes a local stdio MCP bridge."
+2026-11-19T22:10:55Z,semantic-versions,1.0.0,,Apache-2.0,30920,"Parse, compare and match versions per the Semantic Versions specification (semver.xyz)"
+2026-11-19T22:12:15Z,wxcloud-gateway-sdk,1.0.0,RYF5584 <1043695584@qq.com>,MIT,73130,WeChat cloud gateway V3 and cloud run (callContainer) request client and packet codec
+2026-11-19T22:12:31Z,lightspeed-ai-sdk,0.12.0,,Apache-2.0,412473,Async Python SDK for the Lightspeed HTTP API
+2026-11-19T22:12:36Z,kaname,0.1.0,yusuke14tanaka,MIT,64749,Kaname 記法で書いた要求文書を、MkDocs でブラウザに表示する CLI
+2026-11-19T22:14:03Z,positnp-kv260-ml,0.20.0,,Apache-2.0,2285031,posit16 / posit8 engines with gemm x8 and correctly rounded function tables - Kria KV260 bitstream for positnp
+2026-11-19T22:15:24Z,syraio-ai-connect,0.1.0,,,26878,Create and package Python AI Tools for AI Connect.
+2026-11-19T22:18:11Z,tracemind-regression,0.1.1,,,23214,Python SDK for tracking function execution and detecting behavioural regressions
