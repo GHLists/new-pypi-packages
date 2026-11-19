@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T15:19:19Z,smcai,0.0.1,JohnYan,,23444,Smartchart 引导安装器：安装后执行 smartchart 即从自建源获取主包 (Bootstrap installer that fetches the smartchart wheel from a self-hosted source)
+2026-11-19T15:19:33Z,RustMCP,0.1.1,boxq69,MIT,15903,MCP server that lets AI agents manage a Rust game server over WebRCON.
+2026-11-19T15:20:14Z,registry-app-test,0.0.0,Roseman Labs <info@rosemanlabs.com>,LicenseRef-Proprietary,1200,Placeholder for the Roseman Labs private registry application test suite
+2026-11-19T15:20:15Z,registry-cli,0.0.0,Roseman Labs <info@rosemanlabs.com>,LicenseRef-Proprietary,1152,Placeholder for the Roseman Labs private registry development CLI
+2026-11-19T15:20:16Z,registry-core-test,0.0.0,Roseman Labs <info@rosemanlabs.com>,LicenseRef-Proprietary,1207,Placeholder for the Roseman Labs private registry core test suite
+2026-11-19T15:20:50Z,groupdocs-shared-net,26.11.0,GroupDocs <support@groupdocs.com>,LicenseRef-Proprietary,12337,"Shared modules of the GroupDocs for Python via .NET packages: groupdocs.pydrawing (Color, Point, Size, Rectangle) and groupdocs.pycore (cast, is_assignable)"
+2026-11-19T15:23:54Z,datacircle,0.1.0,,MIT,5366,Python client for the Datacircle API: find the best GTM APIs
+2026-11-19T15:25:07Z,siwah,1.0.1,,MIT,249036,Self-improving coding agent harness CLI
+2026-11-19T15:26:22Z,tempo-ins,0.2.0,Bogdan Oancea <bogdan.oancea@gmail.com>,GPL-3.0-or-later OR EUPL-1.1,150855,"Find, inspect and download statistical tables from Romania's National Institute of Statistics TEMPO Online database"
+2026-11-19T15:27:19Z,cs-image-system-docker-plugin,0.1.11,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,160153,"The docker provider: the runtime type for a durable host's container daemon, and the OpenTofu roots for containers and volumes on it"
+2026-11-19T15:30:23Z,cuaderna,0.0.2,Maximiliano Zeballos,Apache-2.0,17830,"Durable, replayable execution engine for AI agents."
+2026-11-19T15:30:32Z,cutover-mcp,1.8.0,Cutover <bot@cutover.com>,MIT,204401,"An MCP server for interacting with the Cutover API, powered by FastMCP."
+2026-11-19T15:31:11Z,yapin-sdk,1.8.0,,Proprietary,75690,"Official bot SDK for Yapin': one file, standard library only."
+2026-11-19T15:33:05Z,mintorian,0.1.0,Bilal Ahmad <mailboxforbilal@gmail.com>,MIT,16694,A Python framework for power system optimisation.
+2026-11-19T15:33:18Z,citeparse,0.2.1,,Apache-2.0,50582,"Parse reference strings into CSL-JSON or BibTeX with a small local model, and flag citations that point to no real work."
+2026-11-19T15:33:40Z,poemcard,0.1.1,Group66,,13527,Poem card generator
+2026-11-19T15:34:31Z,evidra,0.1.1,,,2523707,Evidra: local-first research synthesis with an optional cloud bridge
+2026-11-19T15:35:05Z,onewolf,4.1.0,OneWolf Team,MIT,83940,"OneWolf AI Security SDK - Guard, Document Shield, Output Filter, RAG Protection"
+2026-11-19T15:38:57Z,cytir,0.0.1,impactIA Foundation,Apache-2.0,3104,Cytir: an open web search engine and open web search index whose primary user is an AI agent (name reservation; first release follows)
+2026-11-19T15:43:12Z,cosmol-hydrogeo-mcp,2.0.0,COSMOL HydroGeo Studio <support@cosmolsesc.com>,MIT,22820,Zero-dependency MCP server & CLI for COSMOL HydroGeo Studio (M00-M04 Multi-Physics Cloud Engine)
+2026-11-19T15:43:17Z,percolator-cpp,4.0.0,,Apache-2.0,5253124,Percolator and qvality: semi-supervised learning for peptide identification from shotgun proteomics data (command line programs)
+2026-11-19T15:43:28Z,debug-doctor-mcp,0.1.0,Ajitha G,MIT,19994,Interactive diagnostic MCP server for debugging Agentic AI problems
+2026-11-19T15:44:11Z,lupaxa-ghostport,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",69817,Simulate HTTP APIs from declarative YAML projects.
+2026-11-19T15:46:12Z,facecheck,1.0.0,Saeed Rohani,MIT,83431,"Register face with a camera, then check who is in front of it and verify their identity. Also measures faces and estimates face shape. Needs only OpenCV and NumPy."
+2026-11-19T15:47:32Z,edu-ai-suite,0.0.1,,MIT,453461,"Teaching material for image features, tiny language models and LoRA fine-tuning: plain Python, no GUI."
+2026-11-19T15:47:56Z,thonny-se,1.0.0,Sebastian Ladhoff,GPL-3.0-only AND ISC AND MIT,1297111,"Visual software modelling in Thonny with structured flowcharts, UML class diagrams and interactive object inspection"
+2026-11-19T15:49:04Z,dazdiff,0.1.0,pedrobtz <pedrobtz@gmail.com>,MIT,84168,"Compare two tables value by value, from Python or the command line."
+2026-11-19T15:50:28Z,loom-chat,2.0.22,Denis Lamard,Apache-2.0,73411,Console de chat Textual pour essayer loom-ia en quelques minutes.
+2026-11-19T15:50:44Z,napari-lumic-cci,0.1.0rc2,Lumic contributors,MIT,37862,A napari interface for LUMIC spectral unmixing
+2026-11-19T15:52:04Z,ultrazohm-dataviewer,0.1.84.dev0,UltraZohm,BSD-3-Clause,225637,UltraZohm log data viewer built with Dear ImGui (imgui_bundle / ImPlot)
+2026-11-19T15:54:02Z,heimdall-sqlalchemy-connector,0.0.1a0,Jean-Baptiste Ghoul <jean-baptiste.ghoul@huma-num.fr>,BSD-3-Clause,4950,Heimdall connector to create database with SQLAlchemy
+2026-11-19T15:54:42Z,science-factory,0.0.1,Khyentse Vision Project,Apache-2.0,2163,Guided empirical studies with rigour enforced in code. Placeholder: the first release is in development.
+2026-11-19T15:54:51Z,briefling,0.0.1,,MIT,1851,Name reserved by the briefling project. Nothing to install yet: run npx briefling.
+2026-11-19T15:54:53Z,briefling-acp-bridge,0.0.1,,MIT,1970,Name reserved by the briefling project. Nothing to install yet: run npx briefling.
+2026-11-19T15:54:54Z,briefling-agent,0.0.1,,MIT,1915,Name reserved by the briefling project. Nothing to install yet: run npx briefling.
+2026-11-19T15:54:55Z,briefling-hermes-plugin,0.0.1,,MIT,2003,Name reserved by the briefling project. Nothing to install yet: run npx briefling.
+2026-11-19T15:55:08Z,langchain-datacircle,0.1.0,,MIT,15011,LangChain tools for the Datacircle API: find the best GTM APIs
+2026-11-19T15:56:21Z,lightstone,0.1.0,,MIT OR Apache-2.0,6695534,Optical Link Simulator: 850 nm VCSEL / OM4 multimode PAM-4 links
+2026-11-19T15:57:02Z,iitmm,0.1.0,,,60550,Invariant Imbedding T-Matrix Method python codes
+2026-11-19T16:01:48Z,pyprotonpass,0.0.1,,,665,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-19T16:01:51Z,silentcatch,0.1.0,Muhammad Ikram Ul Mustafa,MIT,19309,Find exception handlers that swallow failures. Built for codebases where agents write code faster than humans review it.
+2026-11-19T16:02:00Z,protonpas,0.0.1,,,666,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-19T16:02:12Z,protnpass,0.0.1,,,667,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-19T16:02:24Z,protonpasss,0.0.1,,,667,This is not the official package for Proton Pass. Please visit https://proton.me/pass for news
+2026-11-19T16:08:22Z,gnome3d,0.1.1,,,358323,3D chromatin structure modeling from ChIA-PET loops and Hi-C contacts
+2026-11-19T16:08:28Z,misar,1.0.0,Muneer Jarab Matrak Al-Theeb,MIT,95070,Misar (مِسار): Adaptive context-aware Arabic NLP preprocessing router for optimizing Transformer language models.
+2026-11-19T16:09:23Z,netark-mcp,3.2.0,joinblue <joinblue42@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2462138,NetArk (N.E.T.A.R.K.) — Zero-Dependency Deterministic AI Coding Harness & Portable Markdown Governance MCP
+2026-11-19T16:11:05Z,netbox-opennebula-sync,0.3.0,NetBox OpenNebula Sync contributors,Apache-2.0,85182,NetBox plugin to discover and synchronize OpenNebula infrastructure
+2026-11-19T16:11:37Z,aiopulse-py,0.0.5,GrehBan <maximfeedback19@gmail.com>,MIT,109172,A lightweight asynchronous callback invocation and execution library for Python.
+2026-11-19T16:13:08Z,fraud-review-bedrock,0.2.0,Biplob Chakraborty,MIT,300916,"A fraud-review agent on Amazon Bedrock that triages card alerts, explains each decision against a written policy and sends uncertain cases to a person."
+2026-11-19T16:13:29Z,esp-bsasm,0.1.0,"""Espressif Systems (Shanghai) CO LTD"" <espressif@espressif.com>",Apache-2.0,101714,BitScrambler program assembler for ESP-IDF
+2026-11-19T16:14:15Z,orange3-ai-suite,0.0.1,,MIT,282922,"Teaching neural networks and LLMs inside Orange: ten widgets over edu-ai-suite's image features, tiny Keras language models and MLX LoRA fine-tuning."
+2026-11-19T16:18:04Z,fake-email-pro,0.1.0,fake-email.pro,MIT,65224,"Official client for the fake-email.pro API: disposable mailboxes for testing signup, OTP and magic-link emails."
+2026-11-19T16:18:22Z,rizamo,1.0.0,,MIT,621008,
+2026-11-19T16:18:30Z,shellless-ops,0.1.0,,MIT,12961,Repeatable file and process operations without shell command strings
+2026-11-19T16:19:57Z,onewolf-mcp,0.2.0,OneWolf Team,MIT,24852,OneWolf AI Security - MCP Server (Model Context Protocol)
+2026-11-19T16:20:04Z,gatedtrain,0.3.0,The gatedtrain Authors,Apache-2.0,489003,"Composable post-training framework: launch, consumption ledger, paired gates and impact for external training runs (prototype)."
