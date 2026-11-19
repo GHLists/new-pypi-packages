@@ -8,39 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 05:21 UTC
+## Latest list — 2026-11-19 06:18 UTC
 
-New packages created between 2026-11-19 04:21 UTC and 2026-11-19 05:21 UTC.
+New packages created between 2026-11-19 05:21 UTC and 2026-11-19 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-19T05-21-27-103376Z.csv)
+[Full CSV](data/new-packages-2026-11-19T06-18-46-862372Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-19 04:21:31 | [murmur-asr](https://pypi.org/project/murmur-asr/) | 0.2.0 | uw-syfi | 78.8 kB | Efficient long-context ASR inference with hierarchical chunking (target chunks… |
-| 2026-11-19 04:27:27 | [fastapi-verified-permissions](https://pypi.org/project/fastapi-verified-permissions/) | 0.1.1 |  | 214.3 kB | Route authorization for FastAPI with Amazon Verified Permissions |
-| 2026-11-19 04:30:38 | [toolcall-unleak](https://pypi.org/project/toolcall-unleak/) | 0.1.0 | CloudsDocker | 35.3 kB | Recover LLM tool calls from any text dialect — detect, parse, nudge. Zero depen… |
-| 2026-11-19 04:31:21 | [ohos-devloop](https://pypi.org/project/ohos-devloop/) | 0.1.2 | guozejun <guozejun@huawei.com> | 231.5 kB | 面向 OpenHarmony 的 Agent 驱动设备开发与验证闭环 |
-| 2026-11-19 04:34:21 | [prase](https://pypi.org/project/prase/) | 1.0.0 | Zhiyuan Qi | 5.1 MB | Probabilistic reasoning and semantic embedding for knowledge graph alignment |
-| 2026-11-19 04:37:01 | [opensandbox-deepagents](https://pypi.org/project/opensandbox-deepagents/) | 0.1.0 |  | 25.4 kB | OpenSandbox sandbox backend and provider for Deep Agents and Deep Agents Code |
-| 2026-11-19 04:37:03 | [opensandbox-openai-agents](https://pypi.org/project/opensandbox-openai-agents/) | 0.1.0 |  | 45.2 kB | OpenSandbox sandbox provider for the OpenAI Agents SDK |
-| 2026-11-19 04:37:17 | [sqlfluff-templater-sqlsource](https://pypi.org/project/sqlfluff-templater-sqlsource/) | 0.2.0b3 |  | 86.0 kB | A sqlfluff templater for SqlSource queries |
-| 2026-11-19 04:37:59 | [discord-message-cli](https://pypi.org/project/discord-message-cli/) | 0.1.0 |  | 36.9 kB | Read-only Discord channel message aggregation CLI for humans and AI agents |
-| 2026-11-19 04:40:43 | [mcp-server-polymarket](https://pypi.org/project/mcp-server-polymarket/) | 0.1.0 | Marcell Tukora | 335.3 kB | MCP server and LangGraph tools for the Polymarket API: prediction markets and p… |
-| 2026-11-19 04:43:26 | [gomami-mcp](https://pypi.org/project/gomami-mcp/) | 0.1.1 |  | 30.6 kB | Unofficial MCP server for managing GoMami servers, read-only by default |
-| 2026-11-19 04:46:19 | [obok-metaphysics](https://pypi.org/project/obok-metaphysics/) | 5.5.90 |  | 5.9 kB | Official Python SDK for MooSim K-Metaphysics API (Saju, Da Liu Ren 720 Gwa, Com… |
-| 2026-11-19 04:49:17 | [harmonize-python](https://pypi.org/project/harmonize-python/) | 0.1.0 | Braxton Cuneo <bcuneo@seattle… | 232.6 kB | Harmonize, an async GPU scheduler |
-| 2026-11-19 04:49:18 | [topology-builders](https://pypi.org/project/topology-builders/) | 0.1.0 | "Andrew H. Bond" <andrew.bond… | 53.8 kB | Network topologies whose density can be stepped at a fixed number of routers, a… |
-| 2026-11-19 04:51:46 | [scientific-data-mcp](https://pypi.org/project/scientific-data-mcp/) | 0.6.2 | eli <shark_xc@hotmail.com> | 146.6 kB | Scientific entity data MCP: PubChem, ChEMBL, UniProt, RCSB PDB, PubMed, WHO, ST… |
-| 2026-11-19 04:53:31 | [git-xray-tool](https://pypi.org/project/git-xray-tool/) | 0.1.1 |  | 34.1 kB | X-ray any git repo in one command: hotspots, bus factor, hidden coupling, stale… |
-| 2026-11-19 04:58:30 | [mjboost](https://pypi.org/project/mjboost/) | 0.1.0 | Minjong Cheon | 98.0 kB | Gradient boosting with Kolmogorov-Arnold units: interpretable regression and bi… |
-| 2026-11-19 05:01:58 | [python-paip](https://pypi.org/project/python-paip/) | 0.1.0 | Zubir Jamal | 20.8 kB | Asynchronous Python client for Pengurusan Air Pahang (PAIP) water accounts |
-| 2026-11-19 05:03:34 | [nonebot-plugin-aawfcore](https://pypi.org/project/nonebot-plugin-aawfcore/) | 0.23.1 | nekox41 <aameow@outlook.com> | 52.4 MB | aa 的 Warframe 助手 |
-| 2026-11-19 05:03:37 | [nonebot-plugin-aawfonebot](https://pypi.org/project/nonebot-plugin-aawfonebot/) | 0.23.1 |  | 9.7 kB | OneBot V11 adapter entrypoint for the shared AAWarframe core |
-| 2026-11-19 05:03:37 | [nonebot-plugin-aawfqq](https://pypi.org/project/nonebot-plugin-aawfqq/) | 0.23.1 |  | 9.7 kB | QQ official adapter entrypoint for the shared AAWarframe core |
-| 2026-11-19 05:06:40 | [climt-fortran](https://pypi.org/project/climt-fortran/) | 1.0.0 | Rodrigo Caballero | 33.3 MB | Compiled Fortran extensions for climt |
-| 2026-11-19 05:08:02 | [lawkeep](https://pypi.org/project/lawkeep/) | 0.0.1 |  | 10.1 kB | Human-owned laws for AI-written code (early development placeholder) |
-| 2026-11-19 05:15:53 | [decascan](https://pypi.org/project/decascan/) | 0.1.0 | Srinivas Chippagiri | 659.3 kB | OWASP Top 10 scanner (MCP, LLM applications, web) for Python and TypeScript |
-| 2026-11-19 05:20:35 | [traceAI-sagemaker](https://pypi.org/project/traceAI-sagemaker/) | 0.1.0 | Future AGI | 23.2 kB | OpenTelemetry instrumentation for Amazon SageMaker Runtime endpoints |
-| 2026-11-19 05:20:37 | [traceAI-watsonx](https://pypi.org/project/traceAI-watsonx/) | 0.1.0 | Future AGI | 17.6 kB | OpenTelemetry instrumentation for IBM watsonx.ai (ibm-watsonx-ai) Python SDK |
-| 2026-11-19 05:20:38 | [traceAI-writer](https://pypi.org/project/traceAI-writer/) | 0.1.0 | Future AGI | 12.9 kB | OpenTelemetry instrumentation for the Writer Python SDK |
-| 2026-11-19 05:20:40 | [traceAI-marqo](https://pypi.org/project/traceAI-marqo/) | 0.1.0 | Future AGI | 11.3 kB | OpenTelemetry instrumentation for Marqo vector search (marqo) Python SDK |
+| 2026-11-19 05:15:38 | [bizhub365-mcp](https://pypi.org/project/bizhub365-mcp/) | 0.1.0 | Tweed Tyne Technologies Ltd | 165.7 kB | Lets an AI assistant work in BizHub365 for you, for one business you choose, th… |
+| 2026-11-19 05:22:30 | [hepyy-fastjet](https://pypi.org/project/hepyy-fastjet/) | 3.5.3.5 | hepyy contributors; upstream… | 19.0 MB | Native C++ payload for hepyy/cppyy |
+| 2026-11-19 05:25:02 | [hepyy-hepmc3](https://pypi.org/project/hepyy-hepmc3/) | 3.3.1.5 | hepyy contributors; upstream… | 29.3 MB | Native C++ payload for hepyy/cppyy |
+| 2026-11-19 05:28:16 | [hepyy-lhapdf](https://pypi.org/project/hepyy-lhapdf/) | 6.5.5.5 | hepyy contributors; upstream… | 5.2 MB | Native C++ payload for hepyy/cppyy |
+| 2026-11-19 05:28:38 | [webp-tui](https://pypi.org/project/webp-tui/) | 2.0.1 | RenX86 | 46.7 kB | Batch image-to-WebP converter with an interactive terminal UI (TUI) and CLI for… |
+| 2026-11-19 05:28:48 | [slide-anki-mcp](https://pypi.org/project/slide-anki-mcp/) | 0.2.0 |  | 25.0 kB | MCP server that turns lecture PDFs into Anki cards, rejecting any answer the ci… |
+| 2026-11-19 05:29:13 | [hepyy-fjcontrib](https://pypi.org/project/hepyy-fjcontrib/) | 1.105.5 | hepyy contributors; upstream… | 6.4 MB | Native C++ payload for hepyy/cppyy |
+| 2026-11-19 05:29:18 | [hepyy-pythia8](https://pypi.org/project/hepyy-pythia8/) | 8.317.6 | hepyy contributors; upstream… | 191.7 MB | Native C++ payload for hepyy/cppyy |
+| 2026-11-19 05:31:59 | [pyluma](https://pypi.org/project/pyluma/) | 0.1.2 |  | 13.8 MB | Lazy GPU arrays for Python on wgpu (Vulkan, Metal, DX12): fused elementwise ker… |
+| 2026-11-19 05:32:30 | [synthschema](https://pypi.org/project/synthschema/) | 0.1.0 | TechSQL Consulting Services | 113.0 kB | Open-source, schema-driven synthetic data generation for tabular and relational… |
+| 2026-11-19 05:33:58 | [huaweicloud-mcp-ecs-common](https://pypi.org/project/huaweicloud-mcp-ecs-common/) | 0.1.0 |  | 13.2 kB | Shared utilities for Huawei Cloud ECS MCP servers (ecs & ecs-lifecycle) |
+| 2026-11-19 05:35:48 | [laya-weights-part-08](https://pypi.org/project/laya-weights-part-08/) | 0.1.0 | Aleeza Noor | 80.7 MB | Part 8 of laya's offline English weights. Install laya-weights instead of this. |
+| 2026-11-19 05:35:52 | [laya-weights](https://pypi.org/project/laya-weights/) | 0.1.0 | Aleeza Noor | 667.6 kB | Offline English weights for laya: pip install and laya.load() works without the… |
+| 2026-11-19 05:36:34 | [tokenstats](https://pypi.org/project/tokenstats/) | 1.0.0 | ehharris | 70.2 kB | Permanent local record of OpenCode AI token usage. |
+| 2026-11-19 05:39:36 | [meaningai](https://pypi.org/project/meaningai/) | 0.1.10 | meaningAI Contributors | 40.4 kB | Python client for the meaningAI local data intelligence API |
+| 2026-11-19 05:40:19 | [wtf-perf](https://pypi.org/project/wtf-perf/) | 0.2.1 | Dustin Darcy <6962246+djdarcy… | 185.4 kB | Why is my Windows PC busy? Accounts for every point of CPU: processes, short-li… |
+| 2026-11-19 05:44:45 | [mcp-huaweicloud-ecs-lifecycle](https://pypi.org/project/mcp-huaweicloud-ecs-lifecycle/) | 0.1.0 |  | 24.4 kB | MCP Server for Huawei Cloud ECS lifecycle operations (create/delete/update serv… |
+| 2026-11-19 05:46:57 | [mcp-huaweicloud-ecs-readonly](https://pypi.org/project/mcp-huaweicloud-ecs-readonly/) | 0.1.0 |  | 11.4 kB | MCP Server for Huawei Cloud ecs |
+| 2026-11-19 05:48:09 | [cmp-mock-tester](https://pypi.org/project/cmp-mock-tester/) | 0.1.1 | odele | 52.3 kB | A field-level mocking CMP (RFC 4210) CA simulator for negative-testing certific… |
+| 2026-11-19 05:48:26 | [mcp-huaweicloud-gaussdb](https://pypi.org/project/mcp-huaweicloud-gaussdb/) | 0.1.0 |  | 70.1 kB | Huawei Cloud GaussDB management MCP Server |
+| 2026-11-19 05:50:03 | [mcp-huaweicloud-rc](https://pypi.org/project/mcp-huaweicloud-rc/) | 0.1.0 |  | 16.8 kB | MCP Server for Huawei Cloud RC (Resource Center) |
+| 2026-11-19 05:51:42 | [mcp-huaweicloud-rfs](https://pypi.org/project/mcp-huaweicloud-rfs/) | 0.1.0 |  | 15.3 kB | MCP Server for Huawei Cloud RFS (Resource Formation Service) |
+| 2026-11-19 05:52:29 | [hpcmon](https://pypi.org/project/hpcmon/) | 0.1.0 | Dimitrios Karageorgiou | 225.8 kB | Monitor compute budgets, storage quotas and jobs on EuroHPC clusters (LUMI, JUP… |
+| 2026-11-19 05:54:18 | [midea-iot](https://pypi.org/project/midea-iot/) | 0.0.1 | midea-iot | 2.9 kB | A minimal Hello World package for the midea-iot project. |
+| 2026-11-19 05:55:52 | [wsms](https://pypi.org/project/wsms/) | 0.1.0 | World Snapshot | 5.3 MB | World Snapshot Models pipelines for unified visual generation, estimation, cont… |
+| 2026-11-19 05:58:48 | [agentsla](https://pypi.org/project/agentsla/) | 0.1.0 | AgentSLA | 14.4 kB | Check an API before your agent pays it: an x402 guard for the official x402 Pyt… |
+| 2026-11-19 06:01:30 | [deplatch](https://pypi.org/project/deplatch/) | 0.2.0 | Abdul Hadi | 43.4 kB | Check dependencies before you trust them. Blocks AI-hallucinated and look-alike… |
+| 2026-11-19 06:02:26 | [tracespan](https://pypi.org/project/tracespan/) | 0.2.0 |  | 83.8 kB | 无侵入的 Agent 行为追踪库：Trace/Span 两级模型、可插拔存储、查询与排错接口 |
+| 2026-11-19 06:05:47 | [tickpipe](https://pypi.org/project/tickpipe/) | 0.2.0 | marketcalls | 498.2 kB | Record live ticks from any broker or data vendor, keep them in the store you al… |
+| 2026-11-19 06:15:33 | [zcf](https://pypi.org/project/zcf/) | 0.1.0 |  | 15.0 MB | z-clang-format with a reviewed custom C++ policy |
+| 2026-11-19 06:16:16 | [media-context](https://pypi.org/project/media-context/) | 0.1.0 |  | 56.6 kB | Keep images, video, and audio out of your coding agent's context window — local… |
+| 2026-11-19 06:17:15 | [polypad-agent](https://pypi.org/project/polypad-agent/) | 2.0.0 |  | 54.5 kB | Thin typed client for the Polypad agent API (MCP) on Robinhood Chain: prepare →… |

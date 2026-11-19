@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T05:15:38Z,bizhub365-mcp,0.1.0,Tweed Tyne Technologies Ltd,MIT,165686,"Lets an AI assistant work in BizHub365 for you, for one business you choose, through the BizHub365 API (MCP). Works with Claude and other MCP clients. Not made or endorsed by Anthropic."
+2026-11-19T05:22:30Z,hepyy-fastjet,3.5.3.5,hepyy contributors; upstream authors credited in bundled sources,See bundled upstream COPYING/LICENSE notices; individual fjcontrib components retain their own term…,19021759,Native C++ payload for hepyy/cppyy
+2026-11-19T05:25:02Z,hepyy-hepmc3,3.3.1.5,hepyy contributors; upstream authors credited in bundled sources,See bundled upstream COPYING/LICENSE notices; individual fjcontrib components retain their own term…,29344355,Native C++ payload for hepyy/cppyy
+2026-11-19T05:28:16Z,hepyy-lhapdf,6.5.5.5,hepyy contributors; upstream authors credited in bundled sources,See bundled upstream COPYING/LICENSE notices; individual fjcontrib components retain their own term…,5160367,Native C++ payload for hepyy/cppyy
+2026-11-19T05:28:38Z,webp-tui,2.0.1,RenX86,"MIT License Copyright (c) 2024 RenX86 Permission is hereby granted, free of charge, to any person o…",46664,Batch image-to-WebP converter with an interactive terminal UI (TUI) and CLI for Windows
+2026-11-19T05:28:48Z,slide-anki-mcp,0.2.0,,MIT,24963,"MCP server that turns lecture PDFs into Anki cards, rejecting any answer the cited slide does not support."
+2026-11-19T05:29:13Z,hepyy-fjcontrib,1.105.5,hepyy contributors; upstream authors credited in bundled sources,See bundled upstream COPYING/LICENSE notices; individual fjcontrib components retain their own term…,6439938,Native C++ payload for hepyy/cppyy
+2026-11-19T05:29:18Z,hepyy-pythia8,8.317.6,hepyy contributors; upstream authors credited in bundled sources,See bundled upstream COPYING/LICENSE notices; individual fjcontrib components retain their own term…,191730610,Native C++ payload for hepyy/cppyy
+2026-11-19T05:31:59Z,pyluma,0.1.2,,MIT OR Apache-2.0,13750803,"Lazy GPU arrays for Python on wgpu (Vulkan, Metal, DX12): fused elementwise kernels, reductions, sorting, group-by, custom WGSL kernels"
+2026-11-19T05:32:30Z,synthschema,0.1.0,TechSQL Consulting Services,Apache-2.0,112959,"Open-source, schema-driven synthetic data generation for tabular and relational data."
+2026-11-19T05:33:58Z,huaweicloud-mcp-ecs-common,0.1.0,,MIT,13222,Shared utilities for Huawei Cloud ECS MCP servers (ecs & ecs-lifecycle)
+2026-11-19T05:35:48Z,laya-weights-part-08,0.1.0,Aleeza Noor,Apache-2.0,80675119,Part 8 of laya's offline English weights. Install laya-weights instead of this.
+2026-11-19T05:35:52Z,laya-weights,0.1.0,Aleeza Noor,Apache-2.0,667640,Offline English weights for laya: pip install and laya.load() works without the Hugging Face Hub
+2026-11-19T05:36:34Z,tokenstats,1.0.0,ehharris,MIT,70195,Permanent local record of OpenCode AI token usage.
+2026-11-19T05:39:36Z,meaningai,0.1.10,meaningAI Contributors,"MIT License Copyright (c) 2026 meaningAI Contributors Permission is hereby granted, free of charge,…",40446,Python client for the meaningAI local data intelligence API
+2026-11-19T05:40:19Z,wtf-perf,0.2.1,Dustin Darcy <6962246+djdarcy@users.noreply.github.com>,GPL-3.0-or-later,185401,"Why is my Windows PC busy? Accounts for every point of CPU: processes, short-lived processes, interrupts and speed scaling"
+2026-11-19T05:44:45Z,mcp-huaweicloud-ecs-lifecycle,0.1.0,,MIT,24374,MCP Server for Huawei Cloud ECS lifecycle operations (create/delete/update servers)
+2026-11-19T05:46:57Z,mcp-huaweicloud-ecs-readonly,0.1.0,,MIT,11389,MCP Server for Huawei Cloud ecs
+2026-11-19T05:48:09Z,cmp-mock-tester,0.1.1,odele,MIT,52273,A field-level mocking CMP (RFC 4210) CA simulator for negative-testing certificate protocols on base stations (EE).
+2026-11-19T05:48:26Z,mcp-huaweicloud-gaussdb,0.1.0,,MIT,70052,Huawei Cloud GaussDB management MCP Server
+2026-11-19T05:50:03Z,mcp-huaweicloud-rc,0.1.0,,MIT,16807,MCP Server for Huawei Cloud RC (Resource Center)
+2026-11-19T05:51:42Z,mcp-huaweicloud-rfs,0.1.0,,MIT,15252,MCP Server for Huawei Cloud RFS (Resource Formation Service)
+2026-11-19T05:52:29Z,hpcmon,0.1.0,Dimitrios Karageorgiou,MIT,225805,"Monitor compute budgets, storage quotas and jobs on EuroHPC clusters (LUMI, JUPITER, Leonardo, MeluXina) from your terminal."
+2026-11-19T05:54:18Z,midea-iot,0.0.1,midea-iot,MIT,2918,A minimal Hello World package for the midea-iot project.
+2026-11-19T05:55:52Z,wsms,0.1.0,World Snapshot,"WSM Non-commercial Research License © 2026–2027 Rutgers, The State University of New Jersey. The ac…",5306850,"World Snapshot Models pipelines for unified visual generation, estimation, control, and reconstruction"
+2026-11-19T05:58:48Z,agentsla,0.1.0,AgentSLA,MIT,14445,"Check an API before your agent pays it: an x402 guard for the official x402 Python client, live and oracle-signed endpoint checks, and trust lookups (payTo verification) from agentsla.io."
+2026-11-19T06:01:30Z,deplatch,0.2.0,Abdul Hadi,MIT,43359,"Check dependencies before you trust them. Blocks AI-hallucinated and look-alike PyPI/npm packages before install, in your terminal, your AI agent, and CI."
+2026-11-19T06:02:26Z,tracespan,0.2.0,,Apache-2.0,83767,无侵入的 Agent 行为追踪库：Trace/Span 两级模型、可插拔存储、查询与排错接口
+2026-11-19T06:05:47Z,tickpipe,0.2.0,marketcalls,Apache-2.0,498249,"Record live ticks from any broker or data vendor, keep them in the store you already use, replay them as a market simulator, and prove a signal gives the same numbers live and in backtest"
+2026-11-19T06:15:33Z,zcf,0.1.0,,Apache-2.0 WITH LLVM-exception,15022722,z-clang-format with a reviewed custom C++ policy
+2026-11-19T06:16:16Z,media-context,0.1.0,,MIT,56634,"Keep images, video, and audio out of your coding agent's context window — local-first, zero extra API cost, works across Antigravity, Claude Code, Codex, OpenCode, and any CLI."
+2026-11-19T06:17:15Z,polypad-agent,2.0.0,,MIT,54531,"Thin typed client for the Polypad agent API (MCP) on Robinhood Chain: prepare → sign → confirm, persistent wallet binding, and x402 pay-per-call."
