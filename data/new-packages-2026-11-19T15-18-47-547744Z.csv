@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T14:20:41Z,yuncang-sdk,1.1.0,xiao yue,Apache-2.0,22369,云仓（YunCang）开放接口 Python SDK
+2026-11-19T14:21:21Z,pyinternetbox,0.1.1,Timothy Pillow <oregonpillow@gmail.com>,MIT,100610,Internet Box API client and exporter for Swisscom and Wingo routers.
+2026-11-19T14:26:24Z,ecocodes,1.0.0,EcoCode Authors,AGPL-3.0-only,17303399,"Python SDK for EcoCode, energy and carbon tracking for ML training and inference."
+2026-11-19T14:27:25Z,pagemint,0.1.1,Harsha,MIT,200096,"Free, open-source MCP server that turns web pages into clean Markdown for AI agents."
+2026-11-19T14:27:27Z,pacelab,0.1.0,,Apache-2.0,31273,Parse sports-watch activity files and compute running metrics.
+2026-11-19T14:27:36Z,runbook-py,1.0.0,Emmanuel Bocquet <manu@unixdev.ca>,MIT,66315,"Run a JSON plan of shell commands and get a complete JSON report back (rc, stdout, stderr, duration). Built for humans and AI assistants working together on servers."
+2026-11-19T14:29:11Z,wezterm-theme,1.0.0,Marcus Vinícius Soares,MIT,146526,"Cross-platform interactive Tab Bar Theme Picker (60 themes), Symbol Customizer, and Live Font & Appearance Studio for WezTerm."
+2026-11-19T14:32:41Z,furima-mcp,0.1.0,fxia0018,MIT,126315,"MCP server for Japanese second-hand marketplaces: search Mercari, Yahoo! Auctions, Yahoo! Flea Market and Rakuma, and check what things actually sell for."
+2026-11-19T14:33:50Z,edns,1.0.2,Aimen Achraff,MIT,72974,"EDN-S: Enhanced Deep Network for Satellite Super-Resolution — Lightweight EDSR-small implementation for Sentinel-2/ALSAT-2B imagery with built-in hallucination detection (spectral, structural, textur…"
+2026-11-19T14:36:10Z,vulpfest,1.0.2,Febri Osht (Vulpfest),MIT,125703,"Vulpfest Lab tools in one place: a web security scanner and a scam-link checker, from your terminal."
+2026-11-19T14:38:46Z,npistat,0.2.0,"""M. Theodor Loots"" <theo.loots@gmail.com>",GPL-3.0-or-later,521155,Nonparametric predictive inference for censored and Bernoulli data
+2026-11-19T14:39:31Z,xtr-stopwatch,7.0.0,Xterr,MIT,29723,"Times what code does, in named events grouped by category and nested in sections, kept apart for every concurrent unit of work."
+2026-11-19T14:39:45Z,xtr-web-profiler,7.0.0,Xterr,MIT,152164,"A development toolbar on every page and a profile of every request: timing, logs, events, routing, the request and the response."
+2026-11-19T14:40:42Z,best-driver,0.1.1,,MIT,296405972,High-performance undetected Chromium CDP driver written in Rust with Python bindings
+2026-11-19T14:40:54Z,vkserve,0.1.12,Jorge Cardona <jorgeecardona@gmail.com>,MIT,97025,"An OpenAI-compatible LLM server that runs several models on any Vulkan GPU, built on compute-ml"
+2026-11-19T14:42:56Z,tracerset,1.2.5,,,66531,Execution-Centric Program Comprehension Environment for Python
+2026-11-19T14:44:44Z,chemfit-dashboard,0.1.0,Moritz Sallermann,MIT,352786,Native viewer for serialized ChemFit evaluation contexts
+2026-11-19T14:44:56Z,artl-memory,0.3.0,ARTL family,Apache-2.0,84118,"The multi-person memory layer for agents: verbatim utterances, per-person isolation, evidence chain, confidence. It remembers everyone in the room — separately."
+2026-11-19T14:46:15Z,sqlfluff-templater-dbtoss,0.1.0,Onur Taşhan,Apache-2.0,27403,"sqlfluff templater that lints dbt models from dbt-oss (dbt v2) compiled output, without dbt-core"
+2026-11-19T14:46:45Z,authless,0.1,Florin Ciurcanu,BSD-3-Clause,12384,A Zen OAuth2 helper for requests
+2026-11-19T14:47:00Z,deapi-mcp,0.7.0,deAPI Team,MIT,251956,Production-ready MCP server for the deAPI REST API
+2026-11-19T14:49:11Z,dir-shuffle,0.2.1,,MIT,24887651,Faceted terminal browser for parameter-sweep output trees
+2026-11-19T14:49:13Z,pretix-dragon-plugin-bundle,0.1.0,"""Christiaan de Die le Clercq (techwolf12)"" <contact@techwolf12.nl>",Apache-2.0,5145,Installs all of techwolf12's pretix plugins in one go
+2026-11-19T14:51:22Z,kgxport,0.1.0,"Multi-omics Network Analytics (MoNA) group, DTU Health Tech",Apache-2.0,190748,"Build KGX knowledge graphs, validate them against Biolink (soft enforcement), and bulk-load them into Neo4j, Memgraph or FalkorDB"
+2026-11-19T14:59:52Z,uc-preview,0.1.0,Sumanjeet <sumanjeet0012@gmail.com>,,433951,Universal Connectivity Python peer preview - multi-transport P2P networking & chat
+2026-11-19T15:00:57Z,lokahi,0.1.4.post1,"Salik Shah, Sabin Ranjit",Apache-2.0,4463427,"Checks what an AI agent is about to do against rules its community wrote, before it runs. Silence means no."
+2026-11-19T15:01:53Z,lupaxa-dockerhub-intel,0.1.0,The Lupaxa Project,MIT,104534,Monitor an explicit collection of Docker Hub repositories from the local machine.
+2026-11-19T15:02:19Z,openfold3-accel,0.1.0,Eachan Johnson,Apache-2.0,61804,"Drop-in, reversible inference acceleration for OpenFold3 (CPU-focused): `import openfold3_accel`."
+2026-11-19T15:02:43Z,stalzone-api,0.1.0,stalzone-api contributors,MIT,112851,Python client for the Stalzone API (Stalcraft) and the official items database
+2026-11-19T15:04:32Z,sequana-nanocap,0.6.0,Sequana Team,BSD-3,71468,Cleaning and control pipeline for adaptive sampling sequencing
+2026-11-19T15:11:21Z,spikinggamma,0.1.0,"Roel Koopman <roel.koopman@cwi.nl>, Sebastian Otte <sebastian.otte@uni-luebeck.de>, Sander Bohte <s…",MIT,36636,Use SpikingGamma with PyTorch
+2026-11-19T15:14:47Z,xpt,0.1.1,Isaiah Harville,MIT,85805,"Inline expect tests for Python, built for coding agents and the people reviewing their work."
+2026-11-19T15:15:54Z,decision-gem,0.1.0,tumi,MIT,62276,"Jev-style decision model (noul / choice / score) on a local Gemma, MLX; prompts too"
+2026-11-19T15:17:53Z,roseman-registry,0.0.0,Roseman Labs <info@rosemanlabs.com>,LicenseRef-Proprietary,1239,Placeholder for the Roseman Labs private registry client
+2026-11-19T15:18:26Z,ckpt-doctor,0.1.1,,MIT,88319,"Offline diagnosis for safetensors model folders: which file is broken, why, and the command that fixes it."
