@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T19:22:24Z,mcp-microsoft-ads,1.1.0,Alex Murtha <wvuhskr@users.noreply.github.com>,MIT,211219,"Safety-first MCP server for the Microsoft Advertising API: opt-in writes, two-phase draft/confirm, spend rails, Smart Bidding guards, audit log."
+2026-11-19T19:23:38Z,jump-cut,1.0.0,Fuad Laguda,Copyright 2026 Fuad Laguda This work is licensed under the Creative Commons Attribution 4.0 Interna…,26040,"Cut a raw talking-head take into a finished video: keeps the clean take of each line, cuts retakes, false starts and dead air, optional captions. Used by the Jump Cut Editor skill."
+2026-11-19T19:24:03Z,origami-engine,0.1.0,ihsan <ihsanmuhammadkhoirul@students.unnes.ac.id>,,2245668,MuJoCo origami folding simulator
+2026-11-19T19:25:36Z,doc2x,0.1.1,,,5162,"doc2x is a companion tool of OmniDoc, the powerful AI document suite: layout-preserving translation, any-format conversion and structure extraction. Official site: https://omnidoc.top/"
+2026-11-19T19:27:27Z,sageroad,1.0.0,Craig A. Hobbs,MIT,224734,SageRoad engineers low-volume roads on USGS lidar terrain and views the resulting road plans
+2026-11-19T19:29:48Z,agno-datacircle,0.1.0,,MIT,15451,Agno tools for the Datacircle API: find the best GTM APIs
+2026-11-19T19:33:43Z,zeromatter,0.0.1,,,1466,"Name reserved by Zeromatter (0m.dev). Placeholder, no functionality yet."
+2026-11-19T19:33:45Z,zeromatter-diplomat,0.0.1,,,1568,"Name reserved by Zeromatter (0m.dev). Placeholder, no functionality yet."
+2026-11-19T19:42:18Z,cheta,0.1.0,Eze Ransom,Apache-2.0,455430,"On-device face and voice recognition, memory and forgetting for Reachy Mini apps."
+2026-11-19T19:42:33Z,trace-device,0.1.0,,MIT,22259,"Server SDK for Trace: verify events, webhooks and sealed results."
+2026-11-19T19:43:39Z,loopmem,0.0.1,paulohenriquevn,MIT,3486,"Name reservation for LoopMem, part of LoopScale. No functionality yet."
+2026-11-19T19:43:43Z,looprag,0.0.1,paulohenriquevn,MIT,3535,"Name reservation for LoopRag, part of LoopScale. No functionality yet."
+2026-11-19T19:43:48Z,loopcontext,0.0.1,paulohenriquevn,MIT,3575,"Name reservation for LoopContext, part of LoopScale. No functionality yet."
+2026-11-19T19:44:27Z,aethelvision,1.0.0,Aethel AI Team,Apache-2.0,590396,Aethel Vision: Enterprise Edge AI Intelligence Platform
+2026-11-19T19:49:24Z,ocrmypdf-hebrew,0.1.0,Rivok Labs <ronen@rivoklabs.com>,Apache-2.0,489718,OCRmyPDF plugin: Hebrew OCR (with embedded English and numbers) using the paddleocr-hebrew models
+2026-11-19T19:56:32Z,play-console-mcp,0.2.0,denshinji,MIT,46237,"MCP server for Google Play Console: store listings, graphics, releases and reviews, with staged edits and safety guards."
+2026-11-19T19:56:56Z,ready-agent,0.0.1a2,,,3444,A Python package.
+2026-11-19T19:56:59Z,phonematcher,0.0.0a2,JarbasAi <jarbasai@mailfence.com>,MIT,115368,"Distinctive-feature distances between IPA phones, and phonetic fuzzy search over IPA"
+2026-11-19T20:00:05Z,i18n-mirror,0.1.0,,,2503508,Extract gettext calls from modern JS/TS/JSX (React) sources into xgettext-safe dummy files with exact line numbers — built for Django makemessages.
+2026-11-19T20:01:39Z,langchain-treza,0.1.0,"""Treza Labs, Inc."" <hello@trezalabs.com>",MIT,25431,"Treza tools for LangChain: generate AI pictures and videos and run Treza pipelines, with a price cap on every render."
+2026-11-19T20:02:30Z,inject-probe,0.1.0,Jesusw0w,Apache-2.0,119853,Adversarial test harness for prompt injection in LLM applications.
+2026-11-19T20:02:55Z,smlm-view3d,0.1.0,"Lenny Reinkensmeier, Mark Bates",BSD-3-Clause,175469,"The 3D view of SMLM localizations without napari: napari-storm's localization table, render planner and instanced VisPy billboards."
+2026-11-19T20:03:40Z,vercel-schedules-bundle,0.1.0,,MIT,64934,Python SDK for Vercel Schedules
+2026-11-19T20:03:49Z,ke-data-clean,0.1.1,ke-data-clean contributors,MIT,60290,"Clean Kenyan data: phone numbers, KRA PINs, counties, KES amounts, M-Pesa details."
+2026-11-19T20:04:13Z,dmxc-protobuf,1.0.3,Samuel Hufen,MIT,655512,gRPC client library for DMXControl 3
+2026-11-19T20:06:04Z,dendron-mesh,1.0.0,tastenkasperle,MIT,17815,Hierarchical Git-Native Knowledge Base & Agent Memory (Zero-Dependency CLI & Stdio MCP Server)
+2026-11-19T20:10:09Z,jscdocs,0.2.0,,MIT,108017,"Search and read the JSC supercomputer user documentation from AI agents: an MCP server and CLI for JURECA, JUWELS, JUSUF, JUPITER, JEDI and JUDAC"
+2026-11-19T20:12:37Z,oi-kit,0.1.0a15,AAIF <ai-oss-tools@block.xyz>,Apache-2.0,20309539,Python bindings for the Open Intelligence Kit (oi-kit)
+2026-11-19T20:13:19Z,lupaxa-switchboard,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",110500,Connect applications that use different protocols without extra infrastructure.
+2026-11-19T20:16:23Z,sezam,0.0.1,,AGPL-3.0-only,2562,Name reservation for the Sezam project. Contains no code; build Sezam from source.
+2026-11-19T20:16:24Z,sezam-sync-core,0.0.1,,AGPL-3.0-only,2654,Name reservation for the Sezam project. Contains no code; build Sezam from source.
+2026-11-19T20:17:32Z,groundline-core,0.1.0,"Shannon Mulloy, Avinash Darshan, Nathalia Gibson, Deborah (YY) Chang",Apache-2.0,280920,Check AI-written summaries against their source: the facts they leave out and the claims the source doesn't support.
