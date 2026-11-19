@@ -8,56 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 03:19 UTC
+## Latest list — 2026-11-19 04:21 UTC
 
-New packages created between 2026-11-19 02:20 UTC and 2026-11-19 03:19 UTC.
+New packages created between 2026-11-19 03:19 UTC and 2026-11-19 04:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-19T03-19-23-809003Z.csv)
+[Full CSV](data/new-packages-2026-11-19T04-21-08-109697Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-19 02:23:34 | [pdfcwm](https://pypi.org/project/pdfcwm/) | 0.0.5 |  | 8.6 MB | Add diagonal text watermarks to PDF files |
-| 2026-11-19 02:24:23 | [flask-alpine](https://pypi.org/project/flask-alpine/) | 0.2.2 |  | 196.1 kB | Offline-ready Alpine.js integration for Flask: zero JavaScript setup, no CDN. |
-| 2026-11-19 02:25:39 | [stackloom](https://pypi.org/project/stackloom/) | 1.0.1 | Nafees Mansoor | 647.6 kB | Local control centre for a development workspace: projects, services, ports, Do… |
-| 2026-11-19 02:26:33 | [systeme-io-mcp](https://pypi.org/project/systeme-io-mcp/) | 1.1.0 | Cotlet.dev <contact@cotlet.de… | 14.8 kB | Connect Systeme.io to ChatGPT, Claude and other AI agents through Cotlet.dev. I… |
-| 2026-11-19 02:28:46 | [stat-api-client](https://pypi.org/project/stat-api-client/) | 0.3.1 | stat-api | 328.9 kB | Official Python client for the stat-api sports data API |
-| 2026-11-19 02:29:04 | [handprint-vinbox-sdk](https://pypi.org/project/handprint-vinbox-sdk/) | 1.53.0 |  | 920.7 kB | HandPrint Vinbox SDK - agent core tailored to the Vinbox machine (CDP browser,… |
-| 2026-11-19 02:29:06 | [handprint-vinbox-tools](https://pypi.org/project/handprint-vinbox-tools/) | 1.53.0 |  | 201.6 kB | HandPrint Vinbox Tools - eyes and hands inside Vinbox (browser_use over CDP, pw… |
-| 2026-11-19 02:29:08 | [handprint-vinbox-workspace](https://pypi.org/project/handprint-vinbox-workspace/) | 1.53.0 |  | 37.2 kB | HandPrint Vinbox Workspace - local workspace bound to the Vinbox tree |
-| 2026-11-19 02:29:11 | [handprint-vinbox-agent-server](https://pypi.org/project/handprint-vinbox-agent-server/) | 1.53.0 |  | 375.0 kB | HandPrint Vinbox Agent Server - REST/WebSocket agent server running inside Vinb… |
-| 2026-11-19 02:30:51 | [rail-loading](https://pypi.org/project/rail-loading/) | 0.2.1 | Dillon Rose <dillonrose0@iclo… | 85.0 kB | Read UK train operators' passenger loading and crowding data (Rail Data Marketp… |
-| 2026-11-19 02:30:51 | [track-distance](https://pypi.org/project/track-distance/) | 0.2.1 | Dillon Rose <dillonrose0@iclo… | 64.2 kB | Measure distances between UK railway stations along the track (Network Rail tra… |
-| 2026-11-19 02:30:56 | [rsp-fares-feed](https://pypi.org/project/rsp-fares-feed/) | 0.2.1 | Dillon Rose <dillonrose0@iclo… | 70.3 kB | Parse the National Rail fares feed (RSP/RDG, RSPS5045) in Python and look up GB… |
-| 2026-11-19 02:32:03 | [robolint](https://pypi.org/project/robolint/) | 0.1.0 | Max McCutcheon <MaxMcCutcheon… | 72.7 kB | Quality checks for robot learning datasets (LeRobot format): dropped frames, de… |
-| 2026-11-19 02:32:24 | [grvt](https://pypi.org/project/grvt/) | 0.1.0 |  | 308.4 kB | Grvt exchange SDK (preview) |
-| 2026-11-19 02:32:36 | [cif-timetable](https://pypi.org/project/cif-timetable/) | 0.1.1 | Dillon Rose <dillonrose0@iclo… | 71.3 kB | Parse the Network Rail CIF timetable (SCHEDULE feed) into a table of GB train c… |
-| 2026-11-19 02:32:37 | [bplan-geography](https://pypi.org/project/bplan-geography/) | 0.2.1 | Dillon Rose <dillonrose0@iclo… | 65.6 kB | Parse Network Rail's BPLAN Geography extract in Python: the UK rail network, TI… |
-| 2026-11-19 02:32:40 | [hsp-client](https://pypi.org/project/hsp-client/) | 0.1.1 | Dillon Rose <dillonrose0@iclo… | 56.6 kB | Python client for the National Rail Historic Service Performance (HSP) API: pas… |
-| 2026-11-19 02:34:16 | [orr-station-usage](https://pypi.org/project/orr-station-usage/) | 0.1.1 | Dillon Rose <dillonrose0@iclo… | 47.5 kB | Read ORR estimates of station usage in Python: entries, exits and interchanges… |
-| 2026-11-19 02:34:17 | [rail-codes](https://pypi.org/project/rail-codes/) | 0.1.1 | Dillon Rose <dillonrose0@iclo… | 1.4 MB | Convert UK railway station codes in Python: TIPLOC, CRS (three-letter code), NL… |
-| 2026-11-19 02:34:18 | [tag-databook](https://pypi.org/project/tag-databook/) | 0.1.1 | Dillon Rose <dillonrose0@iclo… | 66.2 kB | Read DfT TAG Data Book (WebTAG) values in Python: values of time, discount rate… |
-| 2026-11-19 02:46:12 | [rigcode](https://pypi.org/project/rigcode/) | 0.1.0 | Sarthak | 313.1 kB | A terminal coding agent for models you run yourself: llama.cpp, Ollama, LM Stud… |
-| 2026-11-19 02:51:08 | [chenhm-mytool](https://pypi.org/project/chenhm-mytool/) | 3.0.0 | chen <30675722@qq.com> | 64.1 kB | 桌面助手命令行：整理文件与查询天气 |
-| 2026-11-19 02:57:34 | [aws_sdk_service_catalog](https://pypi.org/project/aws_sdk_service_catalog/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_service_catalog name. Not yet functional. |
-| 2026-11-19 02:57:53 | [aws_sdk_memorydb](https://pypi.org/project/aws_sdk_memorydb/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_memorydb name. Not yet functional. |
-| 2026-11-19 02:58:14 | [aws_sdk_resource_explorer_2](https://pypi.org/project/aws_sdk_resource_explorer_2/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_resource_explorer_2 name. Not yet functional. |
-| 2026-11-19 02:58:35 | [aws_sdk_elastic_beanstalk](https://pypi.org/project/aws_sdk_elastic_beanstalk/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_elastic_beanstalk name. Not yet functional. |
-| 2026-11-19 02:59:21 | [unlam-mcp](https://pypi.org/project/unlam-mcp/) | 0.1.0 | Blas | 75.0 kB | Servidor MCP para la UNLaM: MIeL e Intraconsulta desde cualquier asistente con… |
-| 2026-11-19 02:59:24 | [aws_sdk_cloudwatch_events](https://pypi.org/project/aws_sdk_cloudwatch_events/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_cloudwatch_events name. Not yet functional. |
-| 2026-11-19 02:59:41 | [aws_sdk_timestream_write](https://pypi.org/project/aws_sdk_timestream_write/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_timestream_write name. Not yet functional. |
-| 2026-11-19 03:00:00 | [aws_sdk_timestream_query](https://pypi.org/project/aws_sdk_timestream_query/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_timestream_query name. Not yet functional. |
-| 2026-11-19 03:00:15 | [aws_sdk_ram](https://pypi.org/project/aws_sdk_ram/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_ram name. Not yet functional. |
-| 2026-11-19 03:01:20 | [nhatnguyet](https://pypi.org/project/nhatnguyet/) | 0.1.0 | Nhat Nguyet | 267.8 kB | Tử Vi, Bát Tự, Thần số học, âm lịch Việt Nam và Trung Quốc, lễ hội: Zi Wei Dou… |
-| 2026-11-19 03:01:32 | [spidercob-sentinel](https://pypi.org/project/spidercob-sentinel/) | 0.2.0 |  | 143.2 kB | Open-source security triage & autofix agent for startups — cuts a pile of scan… |
-| 2026-11-19 03:02:12 | [aws_sdk_kinesis_video_signaling](https://pypi.org/project/aws_sdk_kinesis_video_signaling/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_kinesis_video_signaling name. Not yet functio… |
-| 2026-11-19 03:02:33 | [aws_sdk_lakeformation](https://pypi.org/project/aws_sdk_lakeformation/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_lakeformation name. Not yet functional. |
-| 2026-11-19 03:02:46 | [aws_sdk_macie2](https://pypi.org/project/aws_sdk_macie2/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_macie2 name. Not yet functional. |
-| 2026-11-19 03:02:52 | [reliable-masked-tabular-imputation](https://pypi.org/project/reliable-masked-tabular-imputation/) | 0.1.0 |  | 23.0 kB | Reproducible MCAR masking and masked-cell evaluation for pandas tabular data |
-| 2026-11-19 03:02:58 | [aws_sdk_elasticsearch_service](https://pypi.org/project/aws_sdk_elasticsearch_service/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_elasticsearch_service name. Not yet functiona… |
-| 2026-11-19 03:05:14 | [olivine](https://pypi.org/project/olivine/) | 0.0.1 | Sarah C. Shi | 57.3 kB | olivine |
-| 2026-11-19 03:06:04 | [piggyback-design](https://pypi.org/project/piggyback-design/) | 0.1.0rc1 |  | 2.2 MB | Measure a page's design fingerprint and keep reference files in spec v1. |
-| 2026-11-19 03:07:11 | [cellcanvas-core](https://pypi.org/project/cellcanvas-core/) | 0.1.0 | CellCanvas team <kevin.yamauc… | 106.1 kB | Core components for CellCanvas |
-| 2026-11-19 03:15:39 | [raftcorr](https://pypi.org/project/raftcorr/) | 2.0.0 | Zixiang (Zach) Tong | 2.2 MB | RAFTcorr: learned digital image correlation (desktop application, command line… |
-| 2026-11-19 03:16:17 | [appn-logging](https://pypi.org/project/appn-logging/) | 0.1.0 | Australian Plant Phenomics Ne… | 62.6 kB | Structured logging for Australian Plant Phenomics Network software: JSON for ma… |
-| 2026-11-19 03:16:55 | [sharemytokens-sdk](https://pypi.org/project/sharemytokens-sdk/) | 0.1.0 |  | 3.1 kB | Python client for the ShareMyTokens Account and Share Link APIs |
-| 2026-11-19 03:17:15 | [mcaligner](https://pypi.org/project/mcaligner/) | 0.2.0a1 | Robert Turnbull <robert.turnb… | 404.7 kB | Word alignment of parallel texts with LLM agents, built on MCParser's corpus st… |
+| 2026-11-19 03:17:10 | [release-starport-9](https://pypi.org/project/release-starport-9/) | 0.1.0 | Samuel Leighton Lair <sam.lai… | 381.4 kB | Release Starport 9 offline contract validation and publication intent tools |
+| 2026-11-19 03:22:42 | [jupyter-cons](https://pypi.org/project/jupyter-cons/) | 0.1.0 |  | 12.3 kB | Python practical code library for Jupyter Notebook |
+| 2026-11-19 03:25:56 | [qig-graph](https://pypi.org/project/qig-graph/) | 0.1.0 | Braden Lang <braden.lang77@gm… | 32.0 kB | QIG Graph — geometric agent runtime: consciousness-gated reasoning chains, simp… |
+| 2026-11-19 03:26:28 | [lss-sync](https://pypi.org/project/lss-sync/) | 0.1.0 | Safi Ullah Mirzai | 47.3 kB | Encrypted offline outbox and bounded adaptive synchronization |
+| 2026-11-19 03:27:32 | [gtm-sdk-modal](https://pypi.org/project/gtm-sdk-modal/) | 0.0.0.dev0 |  | 2.3 kB | Name reservation placeholder for the gtm-sdk modal client. |
+| 2026-11-19 03:27:33 | [gtm-sdk-vercel](https://pypi.org/project/gtm-sdk-vercel/) | 0.0.0.dev0 |  | 2.3 kB | Name reservation placeholder for the gtm-sdk vercel client. |
+| 2026-11-19 03:32:55 | [phonem-contracts](https://pypi.org/project/phonem-contracts/) | 2.0.0 | Phonem Team <phonem-official@… | 42.1 kB | Shared JSON Schemas and OpenAPI specs for Phonem Voiceprint |
+| 2026-11-19 03:34:29 | [moolah-poynt](https://pypi.org/project/moolah-poynt/) | 0.1.0 | Moolah | 37.5 kB | Official Python client for the Moolah Poynt API |
+| 2026-11-19 03:35:31 | [fast-agents-py](https://pypi.org/project/fast-agents-py/) | 0.0.1 | LittleSheepy | 761.8 kB | 简单、灵活、可扩展的多智能体框架 |
+| 2026-11-19 03:40:26 | [hexapla](https://pypi.org/project/hexapla/) | 0.1.0 | Robert Turnbull <robert.turnb… | 722.0 kB | Static websites for reading and exploring word-aligned manuscript texts |
+| 2026-11-19 03:42:37 | [talkviz](https://pypi.org/project/talkviz/) | 0.1.0 | Jake Van Slyke | 37.5 kB | Talk to your data and see it charted. |
+| 2026-11-19 03:42:46 | [fractal-io-server](https://pypi.org/project/fractal-io-server/) | 0.1.0 |  | 120.7 kB | Fractal IO server SDK: resolve templates into screens, read action messages and… |
+| 2026-11-19 03:45:56 | [mcp-server-ecs-common](https://pypi.org/project/mcp-server-ecs-common/) | 0.1.0 |  | 13.1 kB | Shared utilities for Huawei Cloud ECS MCP servers (ecs & ecs-lifecycle) |
+| 2026-11-19 03:45:57 | [mcp-server-ecs-lifecycle](https://pypi.org/project/mcp-server-ecs-lifecycle/) | 0.1.0 |  | 23.9 kB | MCP Server for Huawei Cloud ECS lifecycle operations (create/delete/update serv… |
+| 2026-11-19 03:46:15 | [heph-forge](https://pypi.org/project/heph-forge/) | 0.1.0b0 | HEPH Protocol | 59.9 kB | HEPH Forge Python SDK — Hardware & autonomous machine finance protocol on Robin… |
+| 2026-11-19 03:47:54 | [edidgen](https://pypi.org/project/edidgen/) | 0.1.0 |  | 39.7 kB | Generate EDID binaries (base block + CTA-861 extension) from a validated TOML c… |
+| 2026-11-19 03:49:18 | [causal-toolkit-urman](https://pypi.org/project/causal-toolkit-urman/) | 0.1.0 | Max Urman <maxwell.urman@gmai… | 10.9 kB | A Python package for causal inference methods including ATE estimation, propens… |
+| 2026-11-19 03:50:20 | [dannce-density](https://pypi.org/project/dannce-density/) | 0.1.0 | Chenghao Li | 22.8 kB | Data-augmented nonparametric noise contrastive density estimation |
+| 2026-11-19 03:54:44 | [rulestamp-notebook-share-gate](https://pypi.org/project/rulestamp-notebook-share-gate/) | 1.0.5 | Rulestamp <support@getreadyst… | 35.7 kB | 18 rules that read saved .ipynb outputs — 23 findings in the 6-cell sample note… |
+| 2026-11-19 03:55:09 | [rulestamp-otel-collector-drift-lint](https://pypi.org/project/rulestamp-otel-collector-drift-lint/) | 1.0.7 | Rulestamp <support@getreadyst… | 34.5 kB | Finds the removed components and renamed attributes in an OpenTelemetry Collect… |
+| 2026-11-19 03:55:26 | [rulestamp-privacidad-chile-21719-lint](https://pypi.org/project/rulestamp-privacidad-chile-21719-lint/) | 1.0.3 | Rulestamp <support@getreadyst… | 34.9 kB | Revisa la política de privacidad de un sitio chileno contra el art. 14 ter de l… |
+| 2026-11-19 03:55:43 | [rulestamp-rechnung-pflichtangaben-lint-de](https://pypi.org/project/rulestamp-rechnung-pflichtangaben-lint-de/) | 1.0.6 | Rulestamp <support@getreadyst… | 36.4 kB | Prüft PHP-Rechnungstemplates von WooCommerce- und WordPress-Shops gegen alle ze… |
+| 2026-11-19 03:57:56 | [esim-intellimanager](https://pypi.org/project/esim-intellimanager/) | 0.1.0 | eSim IntelliManager contribut… | 75.4 kB | A modular external EDA tool manager prototype for eSim |
+| 2026-11-19 03:59:38 | [spinnerz](https://pypi.org/project/spinnerz/) | 0.1.0 | QuickMash (Tanner Curr) | 18.6 kB | A collection of terminal spinners for Python |
+| 2026-11-19 04:04:51 | [b4n1-secrets](https://pypi.org/project/b4n1-secrets/) | 0.1.0 | Bani Montoya <banimontoya@gma… | 461.3 kB | Sovereign offline vault — committable encrypted secrets |
+| 2026-11-19 04:05:32 | [intelligence-cloud](https://pypi.org/project/intelligence-cloud/) | 0.1.0 | Tresic | 169.2 kB | Python client for the Intelligence Cloud partner API: customer lifecycle and co… |
+| 2026-11-19 04:07:36 | [django-admin-branding-fdg](https://pypi.org/project/django-admin-branding-fdg/) | 0.1.0 | Hua Chen <huachenlihx@gmail.c… | 23.9 kB | Brand the Django admin: custom header/title, a logo on the login page, and a fa… |
+| 2026-11-19 04:11:24 | [fontpkg-bai-jamjuree](https://pypi.org/project/fontpkg-bai-jamjuree/) | 1.0 |  | 518.6 kB | Bai Jamjuree font family, packaged for Python by fontpkg |
+| 2026-11-19 04:11:26 | [fontpkg-sofia-sans-condensed](https://pypi.org/project/fontpkg-sofia-sans-condensed/) | 4.101 |  | 292.3 kB | Sofia Sans Condensed font family, packaged for Python by fontpkg |
+| 2026-11-19 04:11:29 | [fontpkg-actor](https://pypi.org/project/fontpkg-actor/) | 1.1 |  | 39.7 kB | Actor font family, packaged for Python by fontpkg |
+| 2026-11-19 04:11:31 | [fontpkg-audiowide](https://pypi.org/project/fontpkg-audiowide/) | 1.3 |  | 40.1 kB | Audiowide font family, packaged for Python by fontpkg |
+| 2026-11-19 04:11:47 | [DimSpin](https://pypi.org/project/DimSpin/) | 0.1.0 | Jia-Xin Chen | 130.8 kB | EPR/ESR spectrum simulator for spin Hamiltonians and spin-electric coupling (SE… |
+| 2026-11-19 04:12:59 | [offline-tex-editor](https://pypi.org/project/offline-tex-editor/) | 0.2.0 | KSMubasshir | 659.3 kB | A local, Overleaf-style LaTeX editor: browser editing, latexmk, PDF preview wit… |
+| 2026-11-19 04:15:46 | [predeploy-checker](https://pypi.org/project/predeploy-checker/) | 0.1.0 | Durgaprasad Dumpala <dumpala1… | 85.4 kB | Reusable pre-deployment validation gate and readiness checker for Python applic… |
+| 2026-11-19 04:16:36 | [meridian-sync](https://pypi.org/project/meridian-sync/) | 0.23.11 |  | 675.2 kB | Keeps Meridian's git contexts in sync with their remotes |
+| 2026-11-19 04:20:55 | [tidelet](https://pypi.org/project/tidelet/) | 0.1.0 |  | 26.9 MB | A sandbox daemon for AI agents: containers you can fork in milliseconds, with a… |

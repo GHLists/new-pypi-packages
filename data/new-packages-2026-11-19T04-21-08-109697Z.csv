@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T03:17:10Z,release-starport-9,0.1.0,Samuel Leighton Lair <sam.lair@knowledge-forge.ai>,AGPL-3.0-or-later,381447,Release Starport 9 offline contract validation and publication intent tools
+2026-11-19T03:22:42Z,jupyter-cons,0.1.0,,,12314,Python practical code library for Jupyter Notebook
+2026-11-19T03:25:56Z,qig-graph,0.1.0,Braden Lang <braden.lang77@gmail.com>,MIT,32011,"QIG Graph — geometric agent runtime: consciousness-gated reasoning chains, simplex attractor routing, identity crystallization. Canon 2.60F, Fisher-Rao only, single-sourced on qig-core."
+2026-11-19T03:26:28Z,lss-sync,0.1.0,Safi Ullah Mirzai,MIT,47337,Encrypted offline outbox and bounded adaptive synchronization
+2026-11-19T03:27:32Z,gtm-sdk-modal,0.0.0.dev0,,MIT,2297,Name reservation placeholder for the gtm-sdk modal client.
+2026-11-19T03:27:33Z,gtm-sdk-vercel,0.0.0.dev0,,MIT,2302,Name reservation placeholder for the gtm-sdk vercel client.
+2026-11-19T03:32:55Z,phonem-contracts,2.0.0,Phonem Team <phonem-official@phonem.io>,,42107,Shared JSON Schemas and OpenAPI specs for Phonem Voiceprint
+2026-11-19T03:34:29Z,moolah-poynt,0.1.0,Moolah,MIT,37550,Official Python client for the Moolah Poynt API
+2026-11-19T03:35:31Z,fast-agents-py,0.0.1,LittleSheepy,MIT,761821,简单、灵活、可扩展的多智能体框架
+2026-11-19T03:40:26Z,hexapla,0.1.0,Robert Turnbull <robert.turnbull@unimelb.edu.au>,Apache-2.0,722034,Static websites for reading and exploring word-aligned manuscript texts
+2026-11-19T03:42:37Z,talkviz,0.1.0,Jake Van Slyke,MIT,37541,Talk to your data and see it charted.
+2026-11-19T03:42:46Z,fractal-io-server,0.1.0,,Apache-2.0,120687,"Fractal IO server SDK: resolve templates into screens, read action messages and build responses."
+2026-11-19T03:45:56Z,mcp-server-ecs-common,0.1.0,,MIT,13117,Shared utilities for Huawei Cloud ECS MCP servers (ecs & ecs-lifecycle)
+2026-11-19T03:45:57Z,mcp-server-ecs-lifecycle,0.1.0,,MIT,23905,MCP Server for Huawei Cloud ECS lifecycle operations (create/delete/update servers)
+2026-11-19T03:46:15Z,heph-forge,0.1.0b0,HEPH Protocol,MIT,59909,HEPH Forge Python SDK — Hardware & autonomous machine finance protocol on Robinhood Chain
+2026-11-19T03:47:54Z,edidgen,0.1.0,,MIT,39665,Generate EDID binaries (base block + CTA-861 extension) from a validated TOML config
+2026-11-19T03:49:18Z,causal-toolkit-urman,0.1.0,Max Urman <maxwell.urman@gmail.com>,MIT,10862,"A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
+2026-11-19T03:50:20Z,dannce-density,0.1.0,Chenghao Li,MIT,22834,Data-augmented nonparametric noise contrastive density estimation
+2026-11-19T03:54:44Z,rulestamp-notebook-share-gate,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35667,"18 rules that read saved .ipynb outputs — 23 findings in the 6-cell sample notebook, 0 in the cleared one (bundled Node.js runtime)"
+2026-11-19T03:55:09Z,rulestamp-otel-collector-drift-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34515,Finds the removed components and renamed attributes in an OpenTelemetry Collector config before the upgrade does (bundled Node.js runtime)
+2026-11-19T03:55:26Z,rulestamp-privacidad-chile-21719-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34917,Revisa la política de privacidad de un sitio chileno contra el art. 14 ter de la Ley 21.719 (rige el 2026-12-01) (bundled Node.js runtime)
+2026-11-19T03:55:43Z,rulestamp-rechnung-pflichtangaben-lint-de,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36426,"Prüft PHP-Rechnungstemplates von WooCommerce- und WordPress-Shops gegen alle zehn Pflichtangaben des § 14 Abs. 4 UStG — 17 Regeln, Befunde mit Zeilennummer. (bundled Node.js runtime)"
+2026-11-19T03:57:56Z,esim-intellimanager,0.1.0,eSim IntelliManager contributors,MIT,75351,A modular external EDA tool manager prototype for eSim
+2026-11-19T03:59:38Z,spinnerz,0.1.0,QuickMash (Tanner Curr),MIT,18565,A collection of terminal spinners for Python
+2026-11-19T04:04:51Z,b4n1-secrets,0.1.0,Bani Montoya <banimontoya@gmail.com>,"Business Source License 1.1 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Rese…",461309,Sovereign offline vault — committable encrypted secrets
+2026-11-19T04:05:32Z,intelligence-cloud,0.1.0,Tresic,"Intelligence Cloud SDK Licence Copyright (c) 2026 Creo Solutions, Inc. d/b/a Tresic Permission is g…",169195,Python client for the Intelligence Cloud partner API: customer lifecycle and conversation intelligence.
+2026-11-19T04:07:36Z,django-admin-branding-fdg,0.1.0,Hua Chen <huachenlihx@gmail.com>,MIT,23946,"Brand the Django admin: custom header/title, a logo on the login page, and a favicon, all from one setting."
+2026-11-19T04:11:24Z,fontpkg-bai-jamjuree,1.0,,OFL-1.1,518646,"Bai Jamjuree font family, packaged for Python by fontpkg"
+2026-11-19T04:11:26Z,fontpkg-sofia-sans-condensed,4.101,,OFL-1.1,292289,"Sofia Sans Condensed font family, packaged for Python by fontpkg"
+2026-11-19T04:11:29Z,fontpkg-actor,1.1,,OFL-1.1,39667,"Actor font family, packaged for Python by fontpkg"
+2026-11-19T04:11:31Z,fontpkg-audiowide,1.3,,OFL-1.1,40110,"Audiowide font family, packaged for Python by fontpkg"
+2026-11-19T04:11:47Z,DimSpin,0.1.0,Jia-Xin Chen,MIT,130837,"EPR/ESR spectrum simulator for spin Hamiltonians and spin-electric coupling (SEC) tensors, featuring EFM, MFM and 2D angle-dependent single-crystal analysis"
+2026-11-19T04:12:59Z,offline-tex-editor,0.2.0,KSMubasshir,MIT,659267,"A local, Overleaf-style LaTeX editor: browser editing, latexmk, PDF preview with two-way SyncTeX, search and git. Standard library only."
+2026-11-19T04:15:46Z,predeploy-checker,0.1.0,Durgaprasad Dumpala <dumpala1512@gmail.com>,MIT,85362,Reusable pre-deployment validation gate and readiness checker for Python applications
+2026-11-19T04:16:36Z,meridian-sync,0.23.11,,MIT,675220,Keeps Meridian's git contexts in sync with their remotes
+2026-11-19T04:20:55Z,tidelet,0.1.0,,Apache-2.0,26897135,"A sandbox daemon for AI agents: containers you can fork in milliseconds, with a Python client"
