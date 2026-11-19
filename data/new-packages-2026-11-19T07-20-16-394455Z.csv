@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T05:55:52Z,enkhjile-srw-pypi-core,0.1.0a1,,MIT,194538,Disposable semantic-release-workspace PyPI acceptance fixture
+2026-11-19T06:19:42Z,pyxis-harness-ask-user,0.1.0rc1,Onenightcarnival,MIT,6587,PyxisHarness plugin: ask_user_question tool — the agent pauses for the user's answer
+2026-11-19T06:19:44Z,pyxis-harness-auto-review,0.1.0rc1,Onenightcarnival,MIT,14266,PyxisHarness plugin: Auto review permission mode — a model reviews each gated tool call before it runs
+2026-11-19T06:19:46Z,pyxis-harness-bundle-base,0.1.0rc1,Onenightcarnival,MIT,5360,PyxisHarness bundle: base plugin set
+2026-11-19T06:19:47Z,pyxis-harness-bundle-creator,0.1.0rc1,Onenightcarnival,MIT,4322,PyxisHarness bundle: creator mode (plugin-authoring skills for the agent)
+2026-11-19T06:20:38Z,multiplicity-fp,0.1.0,Anthony Tong,MIT,193962,"Multiplicity fingerprints: count-aware, interpretable binary molecular fingerprints (from MARINA)"
+2026-11-19T06:21:52Z,sapwebguimcp,0.20.2,Hochfrequenz Unternehmensberatung GmbH <info+pip@hochfrequenz.de>,MIT,2774410,MCP server for SAP Web GUI browser automation
+2026-11-19T06:22:50Z,masknmf,0.1.0,Amol Pasarkar,,1246725,"masknmf pipeline for motion correction, denoising, compression, and demixing of functional neuroimaging data"
+2026-11-19T06:28:57Z,plain-todo-mcp,0.5.0,Plain Text Office LLC,MIT,31600,Export agent conversations to a repo-local AGENT_TODO.md
+2026-11-19T06:29:19Z,compliance-core,1.0.1,DevSecOps Team,Apache-2.0,83052,"Universal multi-stack codebase compliance and security auditing engine mapping to ISO 27001, ISO 42001, GDPR, DPDP, and SOX"
+2026-11-19T06:30:10Z,jetbrains-pulumi-gcp-monitoring,999.9.9,,,976,Stub package that mitigates Dependency Confusion attacks
+2026-11-19T06:31:40Z,rspd,0.0.1,,,702206,Representation Space-aware Parameter Decomposition (RSPD): localize features within the parameter space.
+2026-11-19T06:31:50Z,python-spfm,0.1.0,Zubir Jamal,MIT,33887,Asynchronous Python client for the Sunway Property Facility Management (SPFM) Selfcare portal
+2026-11-19T06:37:33Z,verlato-core,0.2.0b1,,Apache-2.0,137849889,"Semantic release notes powered by IntentumDiff, with conventional commit and intent inference"
+2026-11-19T06:43:29Z,sapguimcp,1.0.1,Hochfrequenz Unternehmensberatung GmbH <info+pip@hochfrequenz.de>,MIT,2766606,MCP server for SAP GUI for Windows automation
+2026-11-19T06:46:03Z,pair-scanner-bot,1.0.0,Adz1DoubleD,MIT,134739,"Self-hosted Telegram bot that watches new token pairs, audits them and can trade them from your own wallet."
+2026-11-19T06:47:20Z,auto-mas-win-process-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,39160,Windows game process adapter
+2026-11-19T06:47:30Z,auto-mas-general-emulator-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,45230,General emulator adapter
+2026-11-19T06:47:45Z,auto-mas-mumu-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,122761,MuMu emulator adapter
+2026-11-19T06:50:05Z,sudoo-plugin-sdk,0.1.0,Sudoo.sh,Apache-2.0,142320,"Build, check, test, pack and publish plugins for the Sudoo.sh panel: manifest types, plugin interfaces, a test harness and the sudoo-plugin command."
+2026-11-19T06:50:18Z,auto-mas-ldplayer-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,144921,LDPlayer emulator adapter
+2026-11-19T06:50:20Z,auto-mas-mod-avd-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,164970,ModAVD emulator adapter
+2026-11-19T06:51:00Z,poselib-gpu,0.1.0,,Apache-2.0 AND BSD-3-Clause,835566,"Batched robust relative and absolute pose (PnP) for calibrated cameras, ported from PoseLib, with Metal and CUDA kernels"
+2026-11-19T06:51:05Z,just-keypoints,0.1.0,,Apache-2.0 AND BSD-3-Clause,18352061,"ALIKED and RaCo keypoints with minimal dependencies: CPU, Metal and CUDA backends, no PyTorch"
+2026-11-19T06:52:58Z,just-matching,0.1.0,,Apache-2.0,1291477,"FlexGlue and LightGlue image matching with minimal dependencies: CPU, Metal and CUDA backends"
+2026-11-19T06:53:57Z,openapi-mcpforge,0.1.0,MCPForge Contributors,Apache-2.0,154455,Turn any REST API into an AI-ready MCP server.
+2026-11-19T06:54:29Z,dromeus,0.4.0.dev1,Dromeus contributors,MIT,292665,Decentralized federated learning over AXL
+2026-11-19T06:57:22Z,trainhorn-calc,1.0.0,Train Horn <editorial@train-horn.com>,MIT,38315,"Dependency-free calculators for train horn setups: SPL vs distance, air tank runtime, compressor recovery and copper wire gauge."
+2026-11-19T06:58:49Z,openai-agents-wbxsandbox,0.1.0,"""KXCOMM s.r.o."" <info@wbx.cz>",MIT,49575,WBX Sandbox for OpenAI Agents SDK sandbox agents – run agent work in isolated Linux microVMs
+2026-11-19T07:01:23Z,just-keypoints-cu12,0.1.0,,Apache-2.0 AND BSD-3-Clause,15823130,"ALIKED and RaCo keypoints with minimal dependencies: CPU, Metal and CUDA backends, no PyTorch (CUDA 12 package)"
+2026-11-19T07:01:25Z,just-matching-cu12,0.1.0,,Apache-2.0,12987513,"FlexGlue and LightGlue image matching with minimal dependencies: CPU, Metal and CUDA backends (CUDA 12 package)"
+2026-11-19T07:01:25Z,poselib-gpu-cu12,0.1.0,,Apache-2.0 AND BSD-3-Clause,2568869,"Batched robust relative and absolute pose (PnP) for calibrated cameras, ported from PoseLib, with Metal and CUDA kernels (CUDA 12 package)"
+2026-11-19T07:02:22Z,qig-routing,0.1.0,Braden Lang <braden.lang77@gmail.com>,MIT,23730,"QIG Routing — Fisher-Rao model dispatch for LLM routing: capability simplex manifolds, P30 exp-free proximity dispatch, P28 geodesic cache, and iterative simplex refinement. Canon 2.60F, single-sourc…"
+2026-11-19T07:07:14Z,poselib-gpu-cu13,0.1.0,,Apache-2.0 AND BSD-3-Clause,2312786,"Batched robust relative and absolute pose (PnP) for calibrated cameras, ported from PoseLib, with Metal and CUDA kernels (CUDA 13 package)"
+2026-11-19T07:07:18Z,just-keypoints-cu13,0.1.0,,Apache-2.0 AND BSD-3-Clause,14342036,"ALIKED and RaCo keypoints with minimal dependencies: CPU, Metal and CUDA backends, no PyTorch (CUDA 13 package)"
+2026-11-19T07:07:18Z,just-matching-cu13,0.1.0,,Apache-2.0,11927852,"FlexGlue and LightGlue image matching with minimal dependencies: CPU, Metal and CUDA backends (CUDA 13 package)"
+2026-11-19T07:12:13Z,alch-dc,0.1.0,minhdenthedev,,8074,Add your description here
+2026-11-19T07:12:19Z,concrete-contractors-estimator,1.0.0,Phoenix Concrete Contractors,MIT,16438,"Concrete contractors estimator: slab, driveway, footing, column and steps volume, bag counts, rebar, cost range and hot-weather pour advice."
+2026-11-19T07:14:03Z,drytonic,0.1.0,,,37309,
+2026-11-19T07:14:33Z,tgtpriority,1.0.0,Randy <reaston@my365.bellevue.edu>,MIT,17457,Priority Pulls Calculator and Labor Forecasting tool built for Target Team Members
+2026-11-19T07:15:02Z,clankit,0.1.0,,,1202372,"A coding agent that grows a task tree. Terminal and web UIs, any model."
+2026-11-19T07:16:11Z,qmpass-test-cli,0.1.0,Qmpass,LicenseRef-Proprietary,37153,Run Qmpass release gate evaluations from your CI/CD pipeline.
+2026-11-19T07:16:20Z,qckui,0.1.0,山泥若叶睦,,8627,Add your description here
+2026-11-19T07:16:47Z,kitchen-remodeling-cost,1.0.0,Bellevue Kitchen Pros,MIT,16190,"Kitchen remodeling cost planner: split a kitchen remodel budget by line item, add sales tax, a contingency reserve and permits. Cost vs Value presets. Library + CLI, zero dependencies."
+2026-11-19T07:17:08Z,divio-sso,0.0.0.dev0,Divio AG,,749,Not currently available on PyPI. Placeholder registered by Divio AG.
