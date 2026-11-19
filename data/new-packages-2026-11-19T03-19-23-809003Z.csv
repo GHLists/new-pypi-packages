@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T02:23:34Z,pdfcwm,0.0.5,,,8595624,Add diagonal text watermarks to PDF files
+2026-11-19T02:24:23Z,flask-alpine,0.2.2,,MIT,196133,"Offline-ready Alpine.js integration for Flask: zero JavaScript setup, no CDN."
+2026-11-19T02:25:39Z,stackloom,1.0.1,Nafees Mansoor,MIT,647582,"Local control centre for a development workspace: projects, services, ports, Docker, databases and CodeCortex maps."
+2026-11-19T02:26:33Z,systeme-io-mcp,1.1.0,Cotlet.dev <contact@cotlet.dev>,Elastic-2.0,14844,"Connect Systeme.io to ChatGPT, Claude and other AI agents through Cotlet.dev. Includes a local stdio MCP bridge."
+2026-11-19T02:28:46Z,stat-api-client,0.3.1,stat-api,MIT,328867,Official Python client for the stat-api sports data API
+2026-11-19T02:29:04Z,handprint-vinbox-sdk,1.53.0,,,920747,"HandPrint Vinbox SDK - agent core tailored to the Vinbox machine (CDP browser, pwsh, Vinbox model lane)"
+2026-11-19T02:29:06Z,handprint-vinbox-tools,1.53.0,,,201589,"HandPrint Vinbox Tools - eyes and hands inside Vinbox (browser_use over CDP, pwsh terminal, file tools)"
+2026-11-19T02:29:08Z,handprint-vinbox-workspace,1.53.0,,,37189,HandPrint Vinbox Workspace - local workspace bound to the Vinbox tree
+2026-11-19T02:29:11Z,handprint-vinbox-agent-server,1.53.0,,,374996,HandPrint Vinbox Agent Server - REST/WebSocket agent server running inside Vinbox (loopback 18000)
+2026-11-19T02:30:51Z,rail-loading,0.2.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,84958,Read UK train operators' passenger loading and crowding data (Rail Data Marketplace) into one table in Python.
+2026-11-19T02:30:51Z,track-distance,0.2.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,64171,"Measure distances between UK railway stations along the track (Network Rail track model), not as the crow flies."
+2026-11-19T02:30:56Z,rsp-fares-feed,0.2.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,70282,"Parse the National Rail fares feed (RSP/RDG, RSPS5045) in Python and look up GB train fares between stations."
+2026-11-19T02:32:03Z,robolint,0.1.0,Max McCutcheon <MaxMcCutcheon1@outlook.com>,MIT,72721,"Quality checks for robot learning datasets (LeRobot format): dropped frames, dead episodes, teleop glitches, frozen cameras, duplicates."
+2026-11-19T02:32:24Z,grvt,0.1.0,,MIT,308431,Grvt exchange SDK (preview)
+2026-11-19T02:32:36Z,cif-timetable,0.1.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,71282,Parse the Network Rail CIF timetable (SCHEDULE feed) into a table of GB train calling points in Python.
+2026-11-19T02:32:37Z,bplan-geography,0.2.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,65636,"Parse Network Rail's BPLAN Geography extract in Python: the UK rail network, TIPLOCs and sectional running times."
+2026-11-19T02:32:40Z,hsp-client,0.1.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,56584,Python client for the National Rail Historic Service Performance (HSP) API: past UK train punctuality and delays.
+2026-11-19T02:34:16Z,orr-station-usage,0.1.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,47488,"Read ORR estimates of station usage in Python: entries, exits and interchanges at every GB railway station since 1997."
+2026-11-19T02:34:17Z,rail-codes,0.1.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,1352577,"Convert UK railway station codes in Python: TIPLOC, CRS (three-letter code), NLC and STANOX, from Network Rail CORPUS."
+2026-11-19T02:34:18Z,tag-databook,0.1.1,Dillon Rose <dillonrose0@icloud.com>,GPL-3.0-only,66154,"Read DfT TAG Data Book (WebTAG) values in Python: values of time, discount rates, carbon values and the GDP deflator."
+2026-11-19T02:46:12Z,rigcode,0.1.0,Sarthak,MIT,313129,"A terminal coding agent for models you run yourself: llama.cpp, Ollama, LM Studio, vLLM. Built to stay fast on slow hardware."
+2026-11-19T02:51:08Z,chenhm-mytool,3.0.0,chen <30675722@qq.com>,MIT,64129,桌面助手命令行：整理文件与查询天气
+2026-11-19T02:57:34Z,aws_sdk_service_catalog,0.0.0,,Apache-2.0,2186,Placeholder reserving the aws_sdk_service_catalog name. Not yet functional.
+2026-11-19T02:57:53Z,aws_sdk_memorydb,0.0.0,,Apache-2.0,2111,Placeholder reserving the aws_sdk_memorydb name. Not yet functional.
+2026-11-19T02:58:14Z,aws_sdk_resource_explorer_2,0.0.0,,Apache-2.0,2235,Placeholder reserving the aws_sdk_resource_explorer_2 name. Not yet functional.
+2026-11-19T02:58:35Z,aws_sdk_elastic_beanstalk,0.0.0,,Apache-2.0,2206,Placeholder reserving the aws_sdk_elastic_beanstalk name. Not yet functional.
+2026-11-19T02:59:21Z,unlam-mcp,0.1.0,Blas,MIT,74954,"Servidor MCP para la UNLaM: MIeL e Intraconsulta desde cualquier asistente con MCP (Claude, Cursor, VS Code, Codex, Gemini CLI...)."
+2026-11-19T02:59:24Z,aws_sdk_cloudwatch_events,0.0.0,,Apache-2.0,2067,Placeholder reserving the aws_sdk_cloudwatch_events name. Not yet functional.
+2026-11-19T02:59:41Z,aws_sdk_timestream_write,0.0.0,,Apache-2.0,2060,Placeholder reserving the aws_sdk_timestream_write name. Not yet functional.
+2026-11-19T03:00:00Z,aws_sdk_timestream_query,0.0.0,,Apache-2.0,2059,Placeholder reserving the aws_sdk_timestream_query name. Not yet functional.
+2026-11-19T03:00:15Z,aws_sdk_ram,0.0.0,,Apache-2.0,1913,Placeholder reserving the aws_sdk_ram name. Not yet functional.
+2026-11-19T03:01:20Z,nhatnguyet,0.1.0,Nhat Nguyet,MIT,267753,"Tử Vi, Bát Tự, Thần số học, âm lịch Việt Nam và Trung Quốc, lễ hội: Zi Wei Dou Shu, BaZi, numerology, lunar calendar. Nhật Nguyệt (nhatnguyet.org)"
+2026-11-19T03:01:32Z,spidercob-sentinel,0.2.0,,Apache-2.0,143249,"Open-source security triage & autofix agent for startups — cuts a pile of scan findings down to the 3 that matter, in plain English"
+2026-11-19T03:02:12Z,aws_sdk_kinesis_video_signaling,0.0.0,,Apache-2.0,2139,Placeholder reserving the aws_sdk_kinesis_video_signaling name. Not yet functional.
+2026-11-19T03:02:33Z,aws_sdk_lakeformation,0.0.0,,Apache-2.0,2031,Placeholder reserving the aws_sdk_lakeformation name. Not yet functional.
+2026-11-19T03:02:46Z,aws_sdk_macie2,0.0.0,,Apache-2.0,1953,Placeholder reserving the aws_sdk_macie2 name. Not yet functional.
+2026-11-19T03:02:52Z,reliable-masked-tabular-imputation,0.1.0,,MIT,23023,Reproducible MCAR masking and masked-cell evaluation for pandas tabular data
+2026-11-19T03:02:58Z,aws_sdk_elasticsearch_service,0.0.0,,Apache-2.0,2114,Placeholder reserving the aws_sdk_elasticsearch_service name. Not yet functional.
+2026-11-19T03:05:14Z,olivine,0.0.1,Sarah C. Shi,,57310,olivine
+2026-11-19T03:06:04Z,piggyback-design,0.1.0rc1,,MIT,2249650,Measure a page's design fingerprint and keep reference files in spec v1.
+2026-11-19T03:07:11Z,cellcanvas-core,0.1.0,CellCanvas team <kevin.yamauchi@gmail.com>,MIT,106127,Core components for CellCanvas
+2026-11-19T03:15:39Z,raftcorr,2.0.0,Zixiang (Zach) Tong,"# THE UNIVERSITY OF TEXAS AT AUSTIN RESEARCH LICENSE **VERSION 1.0, APRIL 2026** The University of…",2167233,"RAFTcorr: learned digital image correlation (desktop application, command line and Python library)"
+2026-11-19T03:16:17Z,appn-logging,0.1.0,Australian Plant Phenomics Network <alisha.aneja@adelaide.edu.au>,Apache-2.0,62645,"Structured logging for Australian Plant Phenomics Network software: JSON for machines, text for people."
+2026-11-19T03:16:55Z,sharemytokens-sdk,0.1.0,,,3140,Python client for the ShareMyTokens Account and Share Link APIs
+2026-11-19T03:17:15Z,mcaligner,0.2.0a1,Robert Turnbull <robert.turnbull@unimelb.edu.au>,Apache-2.0,404710,"Word alignment of parallel texts with LLM agents, built on MCParser's corpus store and MCP server."
