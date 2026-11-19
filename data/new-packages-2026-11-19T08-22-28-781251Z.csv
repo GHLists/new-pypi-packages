@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-19T06:42:59Z,webex-bot-core,3.1.2,Lei Zhang <liozza@163.com>,Apache-2.0,150275,"Webex bot framework with RBAC, an interactive scheduler and Adaptive Card support"
+2026-11-19T07:21:00Z,latentport-vllm,0.1.1,,Apache-2.0,65558,LatentPort attention KV compaction for vLLM
+2026-11-19T07:22:42Z,aldryn-geoip,0.0.0.dev0,Divio AG,,755,Not currently available on PyPI. Placeholder registered by Divio AG.
+2026-11-19T07:22:55Z,aldryn-services,0.0.0.dev0,Divio AG,,755,Not currently available on PyPI. Placeholder registered by Divio AG.
+2026-11-19T07:23:05Z,divio-styleguide,0.0.0.dev0,Divio AG,,758,Not currently available on PyPI. Placeholder registered by Divio AG.
+2026-11-19T07:24:47Z,enkhjile-srw-pypi-app,0.1.0a1,,MIT,2599,Disposable semantic-release-workspace PyPI acceptance fixture
+2026-11-19T07:29:03Z,pylekto,0.1.0,,MIT,205486,Async Python client for the Lekto DMS REST API
+2026-11-19T07:30:41Z,devready-doctor,1.0.0,DevReady Contributors,MIT,29657,"Readiness check for developer laptops: tools, config, and connectivity."
+2026-11-19T07:35:19Z,showmac-pay,1.0.0,ShowMac,,24472,ShowMac 支付网关 Python 客户端（零第三方依赖）
+2026-11-19T07:35:35Z,flask-artisan,0.1.0,,MIT,114812,"Les conventions de Laravel pour Flask : conteneur, routage, ORM façon Eloquent, auth et commandes make:*."
+2026-11-19T07:36:11Z,kranto,0.0.1,Ian de Villiers,Apache-2.0,2028,"Kranto reads the sources you choose, turns them into cited ideas, and drafts posts you approve. This is a placeholder; the first real release follows."
+2026-11-19T07:36:33Z,trigrams-toolkit,0.1.0,LINEBARRELS,MIT,224105,"Agent skills, project resources and command-line tools for Trigrams toolkit"
+2026-11-19T07:38:03Z,m97,0.1.0,Juha Jeronen <juha.jeronen@jamk.fi>,BSD-2-Clause,92001,A web dashboard and control panel for a gufo LLM server on AMD Strix Halo.
+2026-11-19T07:38:14Z,inflexa-mdvtools,1.3.0.post1,"Martin Sergeant, PeterTodd",GPL-3.0-only,8199911,Multi Dimensional Viewer (MDV) is web based application for analyzing data
+2026-11-19T07:42:02Z,py-wisharetec-sdk,0.1.0,guolei <174000902@qq.com>,"MIT License Copyright (c) 2026 郭磊 Permission is hereby granted, free of charge, to any person obtai…",40058,善数（Wisharetec）物业平台开放接口 Python SDK — 基于 httpx + pydantic v2。
+2026-11-19T07:45:09Z,apipod-cli,0.1.0,,MIT,21513709,Generate images and video with APIPod from the terminal
+2026-11-19T07:48:04Z,vault-approle-toolkit,0.2.1,liozzazhang <liozza@163.com>,Apache-2.0,152428,"Obtain short-lived, least-privilege credentials from Vault via AppRole without ever passing a Vault token across a process boundary"
+2026-11-19T07:52:38Z,presidio-redefiner,0.1.0,"Sethuraman T A, Jungroo AI Labs",Apache-2.0,33849,"Unofficial community plugin: use ReDefiNER, a rule-following span extractor, as a Presidio recognizer."
+2026-11-19T07:54:09Z,langchain-pandastack,0.1.0,PandaStack,Apache-2.0,325869,PandaStack sandbox integration for Deep Agents
+2026-11-19T07:55:08Z,olas-ocb-agent,0.1.0,Valory,Apache-2.0,170056,A minimal agent harness for on-chain work with Pearl Connect
+2026-11-19T07:59:40Z,cmp-mock-server,0.2.0,odele,MIT,52505,A field-level mocking CMP (RFC 4210) CA simulator for negative-testing certificate protocols.
+2026-11-19T08:02:48Z,pq-cp-abe,6.0.1,,,17490235,Python bindings for the Hybrid-PQ-CP-ABE native cryptography library
+2026-11-19T08:09:40Z,nimm-repos,0.1.0,,,6819120,NIMM meteorological algorithms in independent Python packages
+2026-11-19T08:10:49Z,openbyd,0.0.1,,MIT,6176023,"Unofficial client for the BYD overseas app API, with a Rust core"
+2026-11-19T08:11:15Z,luxdatareader,0.1.1,luxdev-hq <luxtinc@gmail.com>,MIT,11486,"Read any data file into a pandas DataFrame with one call, without specifying its type"
+2026-11-19T08:13:51Z,traceground,0.1.0,Animesh Sinha Roy,MIT,142237,"Checks an AI answer against its sources or its tool-call trace: every number, quote, value and argument the evidence doesn't support. No model needed."
+2026-11-19T08:17:53Z,predeployment-runner,0.1.0,Monish,,38420,A lightweight pre-deployment connectivity check runner for databases and Redis.
+2026-11-19T08:20:58Z,palpearlcrypto,0.0.2,Tiny Twist <tiny.mahua@gmail.com>,,5619,A crypto lib for py lib
