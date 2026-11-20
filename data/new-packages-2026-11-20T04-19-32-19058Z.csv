@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T03:19:16Z,cafeteria-sim,0.1.1,cafeteria-sim contributors,MIT,59787,Discrete-event simulation and staffing optimization for school cafeteria queues
+2026-11-20T03:20:10Z,aioescea,0.1.0,Oliver Maller,MIT,54901,Async local-network client for Escea gas fireplaces
+2026-11-20T03:21:27Z,odoo-addon-l10n-py-edi-sifende,18.0.1.0.0.1,"ITH, Odoo Community Association (OCA)",LGPL-3,246561,Electronic invoicing for Paraguay through Sifende
+2026-11-20T03:23:42Z,pysideshadcn,0.2.1,QtShadcn,MIT,339583,PySide6 pure-Python adapter for the QtShadcn QML component library.
+2026-11-20T03:26:17Z,scfpublic,1.0.3,Payton Crawford <paytonscrawford@outlook.com>,MIT,77423,A package for downloading the public files for the Federal Reserve's Survey of Consumers Finances (SCF) 1989-2025 and properly apply multiple imputation and sampling variance calculations.
+2026-11-20T03:26:24Z,llmbot-cli,0.1.0,Lei <caol64@gmail.com>,Apache-2.0,119821,"Command-line multi-model assistant for chat, translation, vision, media generation, and web tools."
+2026-11-20T03:28:41Z,langchain-instabox,0.1.0,instabox,Apache-2.0,18711,instabox sandbox integration for Deep Agents
+2026-11-20T03:30:49Z,slackwright,0.1.0,"""Gavin M. Roy"" <gavinmroy@gmail.com>",BSD-3-Clause,210588,Building blocks for AI agents that live in Slack
+2026-11-20T03:31:31Z,shdwsdk,0.1.0,SHDWsdk,MIT,18336,"Non-blocking Scope 3 AI carbon telemetry and AI-BOM discovery for OpenAI, Anthropic, Gemini and LiteLLM."
+2026-11-20T03:34:24Z,qxide,0.4.1,,MIT OR Apache-2.0,1146009,"Early Qxide experiment: Rust-like quantum/classical language CLI (OpenQASM 3 output, state-vector/stabilizer simulators)"
+2026-11-20T03:42:47Z,increment-metrics,0.1.0a1,,Apache-2.0,42586,Portable definitions for analytical measures and metrics.
+2026-11-20T03:43:06Z,neuplex,0.0.1,Erik Schomburg,Apache-2.0,1989,"Connectome analysis: neurons, their synapses, and the graph between them. Placeholder; first release to follow."
+2026-11-20T03:43:51Z,dmosopt,0.9.5,"Ivan Raikov <ivan.g.raikov@gmail.com>, Frithjof Gressmann <mail@frthjf.com>",GPL-3.0-or-later,1169599,Distributed multi-objective surrogate optimization algorithm.
+2026-11-20T03:44:15Z,beancount-guard,0.1.0,,MIT,159198,"Write guard and reconciliation core for Beancount ledgers: alias metadata, periods, reviewed drafts, validated atomic writes"
+2026-11-20T03:45:43Z,kubed-mcp,0.0.2,,MIT,34852,"An opinionated platform on top of FastMCP: how an MCP server serves plugins (skills, agents, commands), the protocol details that come with it, and extension points loaded through Python entry points."
+2026-11-20T03:49:38Z,amagi-deck,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,583832,"Turn a .pptx, .key or slide PDF into one markdown file: a PNG render of every slide plus its text, speaker notes, tables and chart data, so Claude can review a deck it can't open."
+2026-11-20T03:49:50Z,amagi-benchy-archive,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,81421,"Keep every llama-benchy run from every machine in one archive, with GPU watts joined in: leaderboard, tokens per joule, regressions, and one static HTML page."
+2026-11-20T03:49:53Z,amagi-cachelens,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,28944,"Shows where the Claude Code prompt cache missed, why, and what each miss cost"
+2026-11-20T03:53:06Z,html-table-to-json-extractor,0.1.0,Anonymous Developer <anonymous@example.com>,MIT,18345,Extract HTML tables as clean JSON records
+2026-11-20T03:55:51Z,cerebras-execution-context,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1403,Name reservation only. cerebras-execution-context is distributed from Cerebras's internal package index.
+2026-11-20T03:55:52Z,cerebras-inference-interface,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1425,Name reservation only. cerebras-inference-interface is distributed from Cerebras's internal package index.
+2026-11-20T03:55:53Z,cerebras-inference-router,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1396,Name reservation only. cerebras-inference-router is distributed from Cerebras's internal package index.
+2026-11-20T03:55:54Z,cerebras-inference-workload,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1419,Name reservation only. cerebras-inference-workload is distributed from Cerebras's internal package index.
+2026-11-20T03:56:38Z,camoucore,0.1.2,JWriter20,MIT,99467,The browser-independent core of the Camoufox and Camouwolf launchers
+2026-11-20T03:57:33Z,once-cli,0.9.0,Tanay Bhardwaj,BUSL-1.1,2379179,"Your coding agent makes each mistake once: rules learned from Claude Code, Codex and Antigravity sessions."
+2026-11-20T03:57:57Z,memvine-sdk,0.1.0,Vishal Gupta,MIT,16644,"Python client for the Memvine memory API: send conversations, recall memory, keep a live session's state."
+2026-11-20T03:59:39Z,dj-file-browser-panel,0.1.0,Taufan Budiman,MIT,44539,A read-only Django Admin file browser panel for Django Control Room
+2026-11-20T04:05:30Z,py-wsgi-redstar,0.1.15,Heo Yongseon,,115053,The Modern Synchronous Python Web Application Framework
+2026-11-20T04:06:28Z,cloves,2.0.0,,MIT,48948,Cleft-Overstep Optimization for Deep Neural Networks & LLMs
+2026-11-20T04:18:55Z,ComplexHeatmap-py,0.1.0,Xiaowei Zhan <zhanxw@gmail.com>,MIT,2836857,"Python port of the ComplexHeatmap R/Bioconductor package for making complex heatmaps, annotations, oncoPrints, UpSet plots, and density heatmaps."

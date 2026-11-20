@@ -8,34 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:18 UTC
+## Latest list — 2026-11-20 04:19 UTC
 
-New packages created between 2026-11-20 02:18 UTC and 2026-11-20 03:18 UTC.
+New packages created between 2026-11-20 03:18 UTC and 2026-11-20 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-20T03-18-51-894007Z.csv)
+[Full CSV](data/new-packages-2026-11-20T04-19-32-19058Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-20 02:22:26 | [py-momo-api](https://pypi.org/project/py-momo-api/) | 1.0.3 | Wesley Kambale | 106.8 kB | Python client for the MTN Mobile Money (MoMo) and Airtel Money APIs |
-| 2026-11-20 02:30:22 | [devguard-python-guard](https://pypi.org/project/devguard-python-guard/) | 1.0.0 | DevGuard Security Team | 22.3 kB | DevGuard zero-dependency anti-theft, domain authorization, and milestone autolo… |
-| 2026-11-20 02:32:02 | [readme-standards](https://pypi.org/project/readme-standards/) | 0.1.1 | Groupsum | 138.7 kB | Versioned package README generation, authoring checks, and pytest gates. |
-| 2026-11-20 02:34:20 | [bgsmap](https://pypi.org/project/bgsmap/) | 1.0.0 | gsMap-burden contributors | 74.4 kB | Spatial rare-variant burden enrichment using gsMap gene specificity scores |
-| 2026-11-20 02:37:15 | [tree-sitter-ruby-magikdidi24](https://pypi.org/project/tree-sitter-ruby-magikdidi24/) | 0.25.0 | Max Brunsfeld <maxbrunsfeld@g… | 2.8 MB | Ruby grammar for tree-sitter |
-| 2026-11-20 02:42:33 | [calibrated-agent-evaluation](https://pypi.org/project/calibrated-agent-evaluation/) | 0.1.0 | Amazon Web Services | 3.6 MB | Error analysis and judge calibration for AI agents: certify an LLM judge agains… |
-| 2026-11-20 02:42:54 | [levisim](https://pypi.org/project/levisim/) | 0.1.0 | Julian Iacoponi <julian.iacop… | 596.9 kB | Quantum linear theory and stochastic simulation of optically levitated nanopart… |
-| 2026-11-20 02:47:15 | [dsh-ptforge](https://pypi.org/project/dsh-ptforge/) | 0.1.0 | chiyan11 | 844.0 kB | Declarative Cisco Packet Tracer automation: offline .pkt codec, topology builde… |
-| 2026-11-20 02:51:03 | [gossipmesh](https://pypi.org/project/gossipmesh/) | 0.1.0 | Londopy | 93.4 kB | Network-coded gossip for amateur packet radio, with a simulator and a KISS TNC… |
-| 2026-11-20 02:53:16 | [wspx](https://pypi.org/project/wspx/) | 0.1.0.dev0 | Ritik Bompilwar | 630.5 kB | Grep, edit, check, test and version-control model weights. A sandboxed harness… |
-| 2026-11-20 02:53:57 | [quotemem](https://pypi.org/project/quotemem/) | 0.0.1 | Quei | 4.5 kB | QuoteMem: auditable long-term memory for LLM agents (name reservation; the serv… |
-| 2026-11-20 02:58:40 | [maldoctrace](https://pypi.org/project/maldoctrace/) | 0.6.0 | debugactiveprocess | 19.4 MB | Analyzer for malicious Office, RTF and OneNote documents that emulates macros a… |
-| 2026-11-20 03:03:17 | [obskitpy](https://pypi.org/project/obskitpy/) | 0.1.0 | Pedro França | 30.9 kB | Observabilidade (OpenTelemetry + Elasticsearch + Kibana) para qualquer projeto… |
-| 2026-11-20 03:09:42 | [molly-lang](https://pypi.org/project/molly-lang/) | 0.8.0 | Eyner Andres Diaz | 61.4 kB | A small language for AI-agent plans where permissions follow the data |
-| 2026-11-20 03:10:27 | [mimikyu](https://pypi.org/project/mimikyu/) | 0.1.0 | Saengil (YXZYS) | 7.6 kB | Fast dual-engine (Chromium CDP & Firefox WebDriver BiDi) browser automation, se… |
-| 2026-11-20 03:11:34 | [curlgen-mcp](https://pypi.org/project/curlgen-mcp/) | 1.0.0 | xiaobinger | 98.1 kB | HTTP requests, signed code generation, GateShell/SSH execution and file transfe… |
-| 2026-11-20 03:13:22 | [johnjoners-skills](https://pypi.org/project/johnjoners-skills/) | 0.1.1 |  | 67.0 kB | Read-only MCP server over the johnjoners/skills catalogue; consumers never clon… |
-| 2026-11-20 03:14:31 | [jsonbit](https://pypi.org/project/jsonbit/) | 1.1.1 | Prathik Murugan | 2.7 MB | Pure-Rust Auto-3NF Bit-Packed Columnar & BitVec64 Analytical Engine for LLMs an… |
-| 2026-11-20 03:14:51 | [spring-nbt-library](https://pypi.org/project/spring-nbt-library/) | 3.0.1 |  | 182.8 kB | Minecraft Java EditionのNBT / Anvilワールドデータを読み書きするライブラリ |
-| 2026-11-20 03:15:36 | [wsprpool](https://pypi.org/project/wsprpool/) | 0.1.0 | Londopy | 70.5 kB | Decode WSPR by adding the soft decisions of several KiwiSDRs |
-| 2026-11-20 03:16:45 | [weio-ai](https://pypi.org/project/weio-ai/) | 1.0.3 | Weio, Inc. | 102.5 kB | Weio — an agentic coding assistant that routes inference through your Weio acco… |
-| 2026-11-20 03:16:49 | [libscanner-mcp](https://pypi.org/project/libscanner-mcp/) | 0.1.0 | libscanner <libscanner@yandex… | 42.7 kB | MCP server for libscanner: read and generate DataMatrix, QR and barcodes, parse… |
-| 2026-11-20 03:18:23 | [WinHacks](https://pypi.org/project/WinHacks/) | 1.0.1 | Paras | 15.0 kB | A complete Python module to learn hacking, APIs, utilities, and AI assistance |
+| 2026-11-20 03:19:16 | [cafeteria-sim](https://pypi.org/project/cafeteria-sim/) | 0.1.1 | cafeteria-sim contributors | 59.8 kB | Discrete-event simulation and staffing optimization for school cafeteria queues |
+| 2026-11-20 03:20:10 | [aioescea](https://pypi.org/project/aioescea/) | 0.1.0 | Oliver Maller | 54.9 kB | Async local-network client for Escea gas fireplaces |
+| 2026-11-20 03:21:27 | [odoo-addon-l10n-py-edi-sifende](https://pypi.org/project/odoo-addon-l10n-py-edi-sifende/) | 18.0.1.0.0.1 | ITH, Odoo Community Associati… | 246.6 kB | Electronic invoicing for Paraguay through Sifende |
+| 2026-11-20 03:23:42 | [pysideshadcn](https://pypi.org/project/pysideshadcn/) | 0.2.1 | QtShadcn | 339.6 kB | PySide6 pure-Python adapter for the QtShadcn QML component library. |
+| 2026-11-20 03:26:17 | [scfpublic](https://pypi.org/project/scfpublic/) | 1.0.3 | Payton Crawford <paytonscrawf… | 77.4 kB | A package for downloading the public files for the Federal Reserve's Survey of… |
+| 2026-11-20 03:26:24 | [llmbot-cli](https://pypi.org/project/llmbot-cli/) | 0.1.0 | Lei <caol64@gmail.com> | 119.8 kB | Command-line multi-model assistant for chat, translation, vision, media generat… |
+| 2026-11-20 03:28:41 | [langchain-instabox](https://pypi.org/project/langchain-instabox/) | 0.1.0 | instabox | 18.7 kB | instabox sandbox integration for Deep Agents |
+| 2026-11-20 03:30:49 | [slackwright](https://pypi.org/project/slackwright/) | 0.1.0 | "Gavin M. Roy" <gavinmroy@gma… | 210.6 kB | Building blocks for AI agents that live in Slack |
+| 2026-11-20 03:31:31 | [shdwsdk](https://pypi.org/project/shdwsdk/) | 0.1.0 | SHDWsdk | 18.3 kB | Non-blocking Scope 3 AI carbon telemetry and AI-BOM discovery for OpenAI, Anthr… |
+| 2026-11-20 03:34:24 | [qxide](https://pypi.org/project/qxide/) | 0.4.1 |  | 1.1 MB | Early Qxide experiment: Rust-like quantum/classical language CLI (OpenQASM 3 ou… |
+| 2026-11-20 03:42:47 | [increment-metrics](https://pypi.org/project/increment-metrics/) | 0.1.0a1 |  | 42.6 kB | Portable definitions for analytical measures and metrics. |
+| 2026-11-20 03:43:06 | [neuplex](https://pypi.org/project/neuplex/) | 0.0.1 | Erik Schomburg | 2.0 kB | Connectome analysis: neurons, their synapses, and the graph between them. Place… |
+| 2026-11-20 03:43:51 | [dmosopt](https://pypi.org/project/dmosopt/) | 0.9.5 | Ivan Raikov <ivan.g.raikov@gm… | 1.2 MB | Distributed multi-objective surrogate optimization algorithm. |
+| 2026-11-20 03:44:15 | [beancount-guard](https://pypi.org/project/beancount-guard/) | 0.1.0 |  | 159.2 kB | Write guard and reconciliation core for Beancount ledgers: alias metadata, peri… |
+| 2026-11-20 03:45:43 | [kubed-mcp](https://pypi.org/project/kubed-mcp/) | 0.0.2 |  | 34.9 kB | An opinionated platform on top of FastMCP: how an MCP server serves plugins (sk… |
+| 2026-11-20 03:49:38 | [amagi-deck](https://pypi.org/project/amagi-deck/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 583.8 kB | Turn a .pptx, .key or slide PDF into one markdown file: a PNG render of every s… |
+| 2026-11-20 03:49:50 | [amagi-benchy-archive](https://pypi.org/project/amagi-benchy-archive/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 81.4 kB | Keep every llama-benchy run from every machine in one archive, with GPU watts j… |
+| 2026-11-20 03:49:53 | [amagi-cachelens](https://pypi.org/project/amagi-cachelens/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 28.9 kB | Shows where the Claude Code prompt cache missed, why, and what each miss cost |
+| 2026-11-20 03:53:06 | [html-table-to-json-extractor](https://pypi.org/project/html-table-to-json-extractor/) | 0.1.0 | Anonymous Developer <anonymou… | 18.3 kB | Extract HTML tables as clean JSON records |
+| 2026-11-20 03:55:51 | [cerebras-execution-context](https://pypi.org/project/cerebras-execution-context/) | 0.0.0.dev0 | Cerebras Systems <support@cer… | 1.4 kB | Name reservation only. cerebras-execution-context is distributed from Cerebras'… |
+| 2026-11-20 03:55:52 | [cerebras-inference-interface](https://pypi.org/project/cerebras-inference-interface/) | 0.0.0.dev0 | Cerebras Systems <support@cer… | 1.4 kB | Name reservation only. cerebras-inference-interface is distributed from Cerebra… |
+| 2026-11-20 03:55:53 | [cerebras-inference-router](https://pypi.org/project/cerebras-inference-router/) | 0.0.0.dev0 | Cerebras Systems <support@cer… | 1.4 kB | Name reservation only. cerebras-inference-router is distributed from Cerebras's… |
+| 2026-11-20 03:55:54 | [cerebras-inference-workload](https://pypi.org/project/cerebras-inference-workload/) | 0.0.0.dev0 | Cerebras Systems <support@cer… | 1.4 kB | Name reservation only. cerebras-inference-workload is distributed from Cerebras… |
+| 2026-11-20 03:56:38 | [camoucore](https://pypi.org/project/camoucore/) | 0.1.2 | JWriter20 | 99.5 kB | The browser-independent core of the Camoufox and Camouwolf launchers |
+| 2026-11-20 03:57:33 | [once-cli](https://pypi.org/project/once-cli/) | 0.9.0 | Tanay Bhardwaj | 2.4 MB | Your coding agent makes each mistake once: rules learned from Claude Code, Code… |
+| 2026-11-20 03:57:57 | [memvine-sdk](https://pypi.org/project/memvine-sdk/) | 0.1.0 | Vishal Gupta | 16.6 kB | Python client for the Memvine memory API: send conversations, recall memory, ke… |
+| 2026-11-20 03:59:39 | [dj-file-browser-panel](https://pypi.org/project/dj-file-browser-panel/) | 0.1.0 | Taufan Budiman | 44.5 kB | A read-only Django Admin file browser panel for Django Control Room |
+| 2026-11-20 04:05:30 | [py-wsgi-redstar](https://pypi.org/project/py-wsgi-redstar/) | 0.1.15 | Heo Yongseon | 115.1 kB | The Modern Synchronous Python Web Application Framework |
+| 2026-11-20 04:06:28 | [cloves](https://pypi.org/project/cloves/) | 2.0.0 |  | 48.9 kB | Cleft-Overstep Optimization for Deep Neural Networks & LLMs |
+| 2026-11-20 04:18:55 | [ComplexHeatmap-py](https://pypi.org/project/ComplexHeatmap-py/) | 0.1.0 | Xiaowei Zhan <zhanxw@gmail.co… | 2.8 MB | Python port of the ComplexHeatmap R/Bioconductor package for making complex hea… |
