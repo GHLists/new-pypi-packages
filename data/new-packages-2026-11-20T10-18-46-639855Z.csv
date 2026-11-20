@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T09:22:14Z,proofreel,1.0.0,,MIT,308105,"Record an agent driving a screen as a review video and page: a gliding pointer, click rings, auto zoom, captions, and checks."
+2026-11-20T09:23:39Z,paloverde,0.0.2,,,632061,A JIT-compiling geospatial processing engine.
+2026-11-20T09:23:41Z,ocx-integrity,0.3.0,,,53810,Canonical salted per-aspect hashes + Merkle manifest for OCX models (ocx-hash/1)
+2026-11-20T09:26:41Z,fastleaves,0.1.0,,MIT,411449,"Fast batch prediction for LightGBM models, bit-identical to LightGBM"
+2026-11-20T09:26:50Z,sequana-superin,0.1.1,Sequana Team,BSD-3,173806,A simple pipeline to study super integron insertions and deletions
+2026-11-20T09:27:08Z,sim86,0.1.1,Simulator86,Proprietary,106249,"Run firmware on simulated boards in the Simulator86 cloud: CLI, pytest plugin, fault injection."
+2026-11-20T09:27:12Z,epidsl,0.1.0,Yvan Guifo,MIT,155657,A domain-specific language for compositional epidemiological modelling
+2026-11-20T09:27:13Z,typespark,1.1.0,Elias Ågeby <elias.ageby@gmail.com>,MIT,138341,Static typing for PySpark DataFrames
+2026-11-20T09:27:23Z,etuki-cost-gate,1.0.0,Rain Lobet <support@etuki.com>,MIT,5730,Open-source CLI to prevent LLM API token cost regressions in CI/CD and audit prompt-cache savings (powered by Etuki.com)
+2026-11-20T09:27:46Z,trellis-sdk,0.1.0,Sentivium Team <info@sentivium.org>,Apache-2.0,19596,Trellis Embedded Python DSL: Governed Business Operating System for Agentic Fleets
+2026-11-20T09:28:16Z,lamcp-archicad,0.1.0,"Gramazio Kohler Research, ETH Zürich","MIT License Copyright (c) 2026 Gramazio Kohler Research, ETH Zürich Permission is hereby granted, f…",153148,"Lambda MCP for Archicad: teach your LLM to do Archicad tricks, via the Tapir Add-On."
+2026-11-20T09:28:40Z,kaggle-dataset-lint,0.3.0,,MIT,31806,Lint Kaggle dataset metadata (dataset-metadata.json) before you upload
+2026-11-20T09:37:08Z,django-gobeat,0.1.0,,MIT,59249,"cron.py periodic jobs for Django + the companion app of gobeat, a small Go replacement for the celery beat process"
+2026-11-20T09:41:39Z,oxirinth,0.1.0,Henrique Moreira <78804989+henrique-coder@users.noreply.github.com>,MIT,296592951,"High-performance Python SDK for the Modrinth API v3, powered by Rust."
+2026-11-20T09:42:31Z,heatit-wifi,0.1.0,Heatit Controls AS,MIT,8394,Async client for the local HTTP API of Heatit WiFi devices
+2026-11-20T09:42:36Z,epimodelstudio,0.11.0,,,387558,"Epidemic Model Studio: define SIR-family compartmental models, get equations, stability analysis with trust labels, simulations and a reproducible run record."
+2026-11-20T09:43:04Z,purrkey,0.1.0,Purrkey <support@purrkey.app>,MIT,116452,"Official Python SDK for Purrkey: find, price and run 1,100+ pay-per-call data tools for AI agents."
+2026-11-20T09:45:12Z,epub2m4b,0.1.0,soundbook authors,Apache-2.0,102967,Chinese EPUB → chaptered M4B audiobook generator (CLI)
+2026-11-20T09:50:34Z,netriage,0.52.0,netriage contributors,MIT,1039825,"Field network triage: tells you what is wrong with a wired or wireless link, not just what is measurable."
+2026-11-20T09:52:07Z,netpeek,1.0.1,dskil <claudedskil@gmail.com>,MIT,91499,"NetPeek / fsociety: a legal, read-only look at your own network - who is connected, your IP/MAC/DNS, listening ports and a security report."
+2026-11-20T09:55:02Z,photosvi,1.0.0,"Zinnera Tariq, Amelie Essmann, Zelai M. Garçon-Poca, David Garcia Ortiz, Caitlin Crook, Jordi Bonav…",MIT,513596,"Transient detection and drug-response rate estimation for fiber photometry, from one generative model"
+2026-11-20T09:57:28Z,ncmd,0.9.2,CSWAST <cswastacc@gmail.com>,,11753,this is a python package that lets you easily use tkinter and more with a unique command prompt system.
+2026-11-20T09:58:03Z,openjiuwen-e2a,0.3.0,,Apache-2.0,85725,Shared data structures (dataclasses / enums / constants) between jiuwenswarm and jiuwenswarm-gateway
+2026-11-20T09:59:55Z,afxx,1.0,,Apache-2.0,263875,AFX Extensions: development and repair toolkit for AFX
+2026-11-20T09:59:59Z,pyfcirt,0.1.0b1,qipengchen,MIT AND Apache-2.0,4206756,Bayesian forced-choice IRT modeling with PyMC and ArviZ
+2026-11-20T10:02:19Z,spf-lookups,1.0.1,Inbox Guard Switzerland <media@igs.ch>,MIT,17320,Count the DNS lookups of an SPF record including all nested includes (RFC 7208 limit of 10).
+2026-11-20T10:03:10Z,rheon-compat,2.0.0,Hans Gilde,Apache-2.0,177119860,"Streaming / online regression models for Polars: the build for x86-64 CPUs without AVX2, with the same import name as rheon"
+2026-11-20T10:05:00Z,balinese-ner,0.1.0,Dramaniako,MIT,79200,"Hybrid Balinese Named Entity Recognition (BaliNER) package with Hugging Face Hub, Inference API, local/VPS caching, mirror fallback, and grammar-constrained Viterbi decoding."
+2026-11-20T10:05:55Z,decryptre,0.1.0,Jason Marvello,MIT,187169,"Offline, open-source CLI that decrypts text with or without a passphrase and re-encrypts it with the same methods."
+2026-11-20T10:06:11Z,aliasgate,0.1.0,Juan Carlos Jiménez,Apache-2.0,512807,"Reversible pseudonymization gateway for LLM APIs: the model never sees real customer data, the user never sees placeholders."
+2026-11-20T10:09:14Z,imio.map.wallonia,1.0.0a1,Antoine Duchêne <antoine.duchene@imio.be>,GPL-2.0-only,13709088,"Map of Wallonia for Plone 6 Classic UI, shipped as a patternslib pattern (pat-wallonia-map)"
+2026-11-20T10:09:46Z,mcp-papra,0.1.0,,MIT,19652,"MCP server for Papra: search, read and tag your documents from Claude. Read-only by default."
+2026-11-20T10:15:31Z,ax-engine-sglang,0.2.0,,Apache-2.0,196513,AX Engine for SGLang: speculative decoding and inference acceleration on Linux NVIDIA CUDA
+2026-11-20T10:17:21Z,bitino,0.1.0,Federico Fontana,Apache-2.0,12663355,"Binary neural networks on CPUs: native runtime (ARM NEON, x86 AVX2), model zoo, converters and validation tools"
