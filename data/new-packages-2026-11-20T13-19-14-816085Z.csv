@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T12:21:09Z,pyconformal,0.0.1,Valery Manokhin <val@valeriy.ai>,MIT,12891,Conformal prediction for Python: distribution-free prediction intervals and prediction sets with finite-sample coverage guarantees.
+2026-11-20T12:21:45Z,setlistash,0.1.0,Leonardo Pintus (sutnip),MIT,35722,Cross-platform CLI tool to create complete local CSV and Markdown backups of attended concerts from Setlist.fm.
+2026-11-20T12:21:48Z,tiny-init,0.8,Rolf Krahl,Apache-2.0,8463,Minimal implementation of an init process
+2026-11-20T12:24:04Z,pygifconvt-seoseo,1.0.3,Eunki7,,6725,Test package for distribution
+2026-11-20T12:24:13Z,b2filter,1.0.1,Abdelhafedh BEN DAHMANE,MIT,28583,"A reproducible, command-line and Python toolkit for variant prioritization in non-obstructive azoospermia research."
+2026-11-20T12:25:45Z,contashare,0.1.1,,MIT,14119,"Sign in with ContaShare and read the details your customers share, plus a checker for ContaShare webhook signatures."
+2026-11-20T12:27:44Z,msadpcm,0.1.1,Y-Dr. Now,MIT,48787,Microsoft ADPCM (WAVE_FORMAT_ADPCM) encoder and decoder in pure Python + NumPy
+2026-11-20T12:28:18Z,hf-msft-foundry,0.1.0,Alvaro Bartolome,MIT,33598,Deploy open models from the Hugging Face collection on Microsoft Foundry
+2026-11-20T12:30:00Z,jetbrains-pulumi-kubernetes-components,999.9.9,,,978,Stub package that mitigates Dependency Confusion attacks
+2026-11-20T12:34:14Z,boxtrail,0.2.0,Eduardo J. Barrios,AGPL-3.0-only,43122,"Dependency-free, inspectable geometry for letterboxed bounding boxes"
+2026-11-20T12:35:22Z,matnpala,1.0.0,Mohammad Latifi <mohammad@latifipor.ir>,MatnPala Source-Open and API-Restricted License Copyright (c) 2026 Mohammad Latifi (mohammadlatifi)…,22296,A Python client for Latifi-Su text processing and PDF generation APIs.
+2026-11-20T12:37:03Z,dusk-security,0.3.0rc2,Dusk contributors,Apache-2.0,237049,Vendor-neutral behavioral detection and policy gating for autonomous AI agent actions.
+2026-11-20T12:37:59Z,smtv,0.0.1,StreamMoment,MIT,4695,One command to install and run StreamMoment tools: stream clippers you pick and combine (early development)
+2026-11-20T12:38:00Z,smtv-core,0.0.1,StreamMoment,MIT,4548,"Shared core of StreamMoment tools: speech recognition, model access, prompts and 9:16 rendering (early development)"
+2026-11-20T12:38:01Z,livecut,0.0.1,StreamMoment,MIT,4727,Open-source live stream clipper: watches a stream and cuts clips as they happen (early development)
+2026-11-20T12:41:07Z,imio.pdfviewer,1.0.0,Antoine Duchêne <antoine.duchene@imio.be>,GPL-2.0-only,6376972,"PDF viewer for Plone 6 Classic UI, shipped as a patternslib pattern (pat-pdf-viewer)"
+2026-11-20T12:41:40Z,tuneview,0.7.0,Flávio Codeço Coelho <fccoelho@gmail.com>,GPL-3.0-only,730111,"A leadsheet viewer for musicians: melody, chords and lyrics on the music stand"
+2026-11-20T12:44:21Z,holoizer,0.1.2,,ISC,216008,Turn images into looping holographic card GIFs
+2026-11-20T12:46:26Z,tawjih,0.13.1,Mohammed Khalid Almodiny,CC-BY-NC-SA-4.0,363296,"Direct a language model from trees of multi-sided knowledge files, with traceable paths, evaluation and human-approved AI assistance (English and Arabic)."
+2026-11-20T12:52:02Z,mqtts-demo-helper,1.0.0,Avnet,Apache-2.0,56192,Offline mutual-TLS MQTT broker demonstration and test helpers
+2026-11-20T12:52:48Z,spms,1.2.1,Michael Helmy,Proprietary,870611,"SPMS (Super Property Management System) — local-first property management with FastAPI/HTMX web UI (shared core, SQLite-safe single-worker web)."
+2026-11-20T12:53:20Z,lessormq,0.1.0,,Apache-2.0,41709,"Python client and worker for LessorMQ, the message queue over HTTP where the server decides and clients only claim, run, ack or fail"
+2026-11-20T12:57:36Z,dataform-github-actions,0.0.2,,,2526,Dataform tools
+2026-11-20T12:59:11Z,recursa,0.1.0,Neel Kamal,Apache-2.0,115847,"Agents that get better every run: eval-gated, human-approved self-improvement for LLM agents."
+2026-11-20T13:01:01Z,mero-py,1.0.0rc32,Calimero Network <support@calimero.network>,,25587995,Python client for Calimero 1.0
+2026-11-20T13:01:22Z,data-contract-service-client,0.0.1,,,2619,Data contract client tools
+2026-11-20T13:01:24Z,dataform-auditor,0.0.1,,,2422,Dataform auditing tools
+2026-11-20T13:01:29Z,dataform-incremental-wiper,0.0.1,,,2592,Dataform incremental table tools
+2026-11-20T13:05:45Z,grow-aws-secrets-manager,0.2.0,Grow Codes <opensource@grow.codes>,Apache-2.0,243122,"Grow Codes SDK for AWS Secrets Manager (unofficial, community maintained)"
+2026-11-20T13:06:15Z,remarkable-annotations,0.1.0,Benjamin Piwowarski <benjamin@piwowarski.fr>,MIT OR Apache-2.0,4808571,Read and write reMarkable annotations (.rm v6 scenes): strokes and highlights on PDF pages
+2026-11-20T13:06:58Z,orangehack,0.1.0,OrangeHack,,95941,"Hand in, follow attempts and the leaderboard of OrangeHack competitions from a terminal."
+2026-11-20T13:07:32Z,typetrace,0.3.2,Atrix21,MIT,8862,"Local code search plus call graph for AI coding agents, served over MCP (Claude Code, Cursor, Codex, Copilot and more). Runs the typetrace-cli npm package with a bundled Node.js."
+2026-11-20T13:07:34Z,typetrace-cli,0.3.2,Atrix21,MIT,4427,"TypeTrace (alias of the 'typetrace' package): local code search plus call graph for AI coding agents, served over MCP. Provides the 'typetrace-cli' command."
+2026-11-20T13:07:37Z,typetrace-mcp,0.3.2,Atrix21,MIT,4427,"TypeTrace (alias of the 'typetrace' package): local code search plus call graph for AI coding agents, served over MCP. Provides the 'typetrace-mcp' command."
+2026-11-20T13:13:35Z,mmar-indexer,0.2.0,,,12156,Persistent Tantivy indexes for MMAR document chunks
+2026-11-20T13:13:39Z,rasket,0.4.0,Rasket,MIT,133153,The Rasket Python client. Generated from the API's own OpenAPI document; retries only what is safe to repeat.
+2026-11-20T13:13:49Z,unidroid-cli,0.3.0,,MIT,142320,"udcli - the Unidroid command line: auth, account, challenge, submission, bench, dataset and validator"
+2026-11-20T13:15:15Z,tracemark,0.1.0,,,191529,Hide bytes in images or text and read them back (CS1302A group project)
+2026-11-20T13:15:59Z,rosettix,0.0.1,The rosettix authors,Apache-2.0,20534,Detect and decode 1D and 2D codes in difficult real-world images (pre-alpha placeholder).
+2026-11-20T13:16:16Z,gpuproof,1.0.0,,,2023,GPU environment probe utility
