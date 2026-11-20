@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T16:20:31Z,sen-romanizer,0.1.0,RainySen,MIT AND CC-BY-SA-4.0,9815330,"Lightweight lyrics romanizer: Japanese (kanji/kana), Chinese, Korean, Cyrillic and Greek, no dependencies"
+2026-11-20T16:21:49Z,jarfull_mcp,0.1.4,habib-rehman-dev,,3099,This is habib personal mcp server that you can use to contact him and get help in your mcp server.
+2026-11-20T16:22:45Z,knowledgator-mcp,1.0.3,Knowledgator,Apache-2.0,42178,Python MCP server for the Knowledgator API
+2026-11-20T16:22:53Z,olas-connect,0.1.20,Valory AG <info@valory.xyz>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1182459,Pearl BYOA agent server: hosts an MCP + HTTP signing service so any agent harness session can act as an Olas Pearl agent without key access
+2026-11-20T16:23:18Z,agsrv,0.3.0,dceoy <dceoy@users.noreply.github.com>,AGPL-3.0-only,81698,Stateless HTTP API for remote multi-agent execution
+2026-11-20T16:26:34Z,bench-framework,0.1.0,"Filip Říha <riha.fina@gmail.com>, Filip Křikava <krikava@gmail.com>",MIT,288820,A Python benchmarking framework and command-line tool
+2026-11-20T16:28:59Z,psyclone-client,2.3.1,"""CMLabs (Communicative Machines)"" <support@cmlabs.com>","EXTENDED BSD License Redistribution and use in source and binary forms, with or without modificatio…",48568,"Client for Psyclone systems: post messages by post name and receive triggers over UDP, TCP or WebSocket (CMSDK DataMessage, pure Python)"
+2026-11-20T16:29:06Z,vivian-net,0.0.1,Changkai Zhang <c.zhang@ideogenesis.ai>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",5319026,Vivian: collection of 2D tensor network algorithms (placeholder release)
+2026-11-20T16:29:20Z,plutovizu,0.1.0,,MIT,56340504,API chaînable autour de matplotlib pour visualiser des DataFrames pandas
+2026-11-20T16:29:57Z,emscan,1.0.0,Lorenzo Gaifas <brisvag@gmail.com>,GPLv3,388110,package description.
+2026-11-20T16:31:12Z,seminer,0.1.0,,,1769,Automated software testing tool
+2026-11-20T16:32:57Z,odd-tool,0.5.0,,MIT,328380,Outcome-Driven Development: an outcome counts as delivered only when its proof fails without the change.
+2026-11-20T16:33:20Z,qwenpaw-data-auth,0.4.0,QwenPaw-Data Contributors,Apache-2.0,168253,"QwenPaw-Data authentication, local identity, RBAC and control plane"
+2026-11-20T16:33:22Z,qwenpaw-data-tracing,0.4.0,QwenPaw-Data Contributors,Apache-2.0,120989,Shared OpenTelemetry-on-Langfuse tracing for QwenPaw-Data.
+2026-11-20T16:34:30Z,indenture,0.1.1,Sylvain Cartier,MIT OR Apache-2.0,61354,"Chain of custody for multi-agent systems: who was allowed to hand off to whom, what they passed, and how to replay it."
+2026-11-20T16:34:50Z,heliopuddle,0.1.0,,Apache-2.0,4964913,A multi-location datastore manager built on Prefect
+2026-11-20T16:34:59Z,ai-agent-evaluation,0.2.0,Dhruv Parmar,MIT,350959,"Should your AI agent switch models? Compare two models on your own test cases and get pass, regressed or not enough data, with cost and speed."
+2026-11-20T16:37:12Z,equireduce,0.1.0,,MIT,244734,Exact symbolic equation reduction with independently checked certificates
+2026-11-20T16:37:52Z,aiprojman,0.1.0,Momo Sophie Eissenhauer,MIT,3695,Project management tool for working with coding agents.
+2026-11-20T16:38:56Z,openai-agents-datacircle,0.1.0,,MIT,18249,OpenAI Agents SDK tools for the Datacircle API: find the best GTM APIs
+2026-11-20T16:39:37Z,recarted,0.3.0,Christopher Patti,MIT,45517,"Convert Atari 8-bit tape, disk and standard cartridge ROM images for A8PicoCart"
+2026-11-20T16:41:57Z,mcflayer,0.5.0,PyFlayer contributors,MIT,302184,"asyncio Minecraft Java Edition bot library - transport, data, codecs, login and events"
+2026-11-20T16:48:34Z,llm-handover,0.1.0,Volans Aquilae,Apache-2.0 AND CC-BY-4.0,208385,"Find the AI models your code uses, see when each one retires, and test the replacement before you switch."
+2026-11-20T16:50:37Z,rb-bukvarix,0.6.6,net.paradox,MIT,189845,Keyword frequencies offline: a local Wordstat-alike over Bukvarix dumps.
+2026-11-20T16:50:46Z,rb-clidocs,0.1.6,Roman Bolandau,MIT,126412,Human-readable CLI help in the browser: renders a tool's docs with InSpectra.
+2026-11-20T16:50:55Z,rb-context,0.4.5,bolandeu,MIT,208380,"Web context for LLMs through search providers (Exa, Tavily, Brave)."
+2026-11-20T16:51:04Z,rb-credentials,0.7.2,Roman Bolandau,MIT,24210,"Resolve named credentials without storing or printing secrets: the environment knows addresses, the package knows names."
+2026-11-20T16:51:24Z,paper-librarian,0.1.0,,,356622,"MCP server for a local, searchable library of research papers"
+2026-11-20T16:56:04Z,blueskyagent-ai-client,1.46.0,,,946325,Typed client for the BlueSky API. Generated from its OpenAPI document.
+2026-11-20T17:00:13Z,ctao-dpps-data-products,0.1.0rc1,CTAO Computing Department,BSD-3-Clause,61720,Tools for DPPS data product structures and metadata
+2026-11-20T17:01:30Z,nuvyx-cards,0.1.0,diegorys,MIT,27663,"A domain system for managing structured information through Cards, Actions, Relationships and Domains."
+2026-11-20T17:02:40Z,django-activecampaign-connector,0.1.0,Lotrèk <dimmitutto@lotrek.it>,MIT,75700,"Send the leads of your Django forms to ActiveCampaign, mapped from the Django admin."
+2026-11-20T17:06:39Z,dataspector,1.0.0,Aaron Berndsen <aaron.berndsen@gmail.com>,MIT,312669,"Data-format-agnostic data-integrity checker with comprehensive COBOL copybook, binary data, and Pandera schema validation support. Convert your COBOL mainframe extracts to a modern format with ease!"
+2026-11-20T17:07:02Z,lupaxa-ghcr-intel,0.1.0,The Lupaxa Project,MIT,113354,Monitor an explicit list of ghcr.io container images from the local machine.
+2026-11-20T17:08:19Z,cleanedweb,0.1.0,CleanedWeb,MIT,51169,Python client for CleanedWeb: maintained REST APIs that return structured records from public websites.
+2026-11-20T17:10:40Z,cleanedweb-mcp,1.0.0,CleanedWeb,MIT,17860,"Local stdio MCP server for CleanedWeb: forwards every request to the hosted server, so an agent can find and run maintained REST APIs that return structured records from public websites."
+2026-11-20T17:10:45Z,langchain-cleanedweb,0.1.0,CleanedWeb,MIT,25578,"LangChain tools and toolkit for CleanedWeb: find, read and run maintained REST APIs that return structured records from public websites."
+2026-11-20T17:10:46Z,llama-index-tools-cleanedweb,0.1.0,CleanedWeb,MIT,20294,"LlamaIndex tool spec for CleanedWeb: find, read and run maintained REST APIs that return structured records from public websites."
+2026-11-20T17:11:33Z,whippyflight,0.1.0,Oblarg,MIT OR Apache-2.0,82559,"Gain generation for whippyflight-control: DARE over a motor-speed grid, packed into .wfg blobs"
+2026-11-20T17:11:34Z,whippyflight-betaflight,0.1.0,Oblarg,MIT OR Apache-2.0,89940,"Betaflight tools for whippyflight: blackbox decoding, the plant fit, and sensor noise extraction"
+2026-11-20T17:14:50Z,anaella,0.1.0,,MIT,27334,"Python client for Anaella, one API for agents: find, explain and run tools, connect accounts, publish posts."
+2026-11-20T17:16:10Z,ffwf-tau-tokens,0.16.0,"Fight Fire with Fire Robotics, LLC",MIT,48730730,"Local tokenizers for τ: tiktoken encodings, Hugging Face tokenizers and chat templates, for exact token counts before a request is sent."
+2026-11-20T17:17:10Z,tidaleddy,0.1.0,Vortex authors (Tidal Cyclists),GPL-3.0-or-later,149357,"The TidalCycles pattern engine from Vortex, without the GUI or OSC. Plus a marimo playground."
+2026-11-20T17:18:17Z,zentria-flow,0.1.0,"""Zentria Flow, Inc."" <support@zentriaflow.com>",MIT,21820,"Free US import duty lookups by HTS code and country of origin: every tariff layer (MFN, Section 301, forced-labor tariff, Section 232, Section 338), dated changes, HTS search."
+2026-11-20T17:19:23Z,pyoptionpricing,0.1.0,Maadhini Narayanakumar,MIT,49319,"Object-oriented option pricing: Black-Scholes, binomial tree and Monte Carlo behind one interface, with Asian and barrier options and implied volatility."
