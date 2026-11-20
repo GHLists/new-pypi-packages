@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T09:41:56Z,auto-mas-src-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,202424,SRC specialized script adapter for AUTO-MAS
+2026-11-20T10:30:05Z,qdash-sdk,1.10.5b1287,OQTOPUS Team <oqtopus-team@googlegroups.com>,,36931,Python SDK for defining and running QDash calibrations
+2026-11-20T11:18:43Z,opendaemon-comfyui-mcp,0.1.0,OpenDaemon,MIT,203112,"Local AI video for any MCP client: render with ComfyUI on your own graphics card, check the clips, fix them, edit and export finished videos."
+2026-11-20T11:19:03Z,nemo-astro,1.4.1,"Arun Mathew, Jonathan Mackey, Maggie Celeste Goulden","BSD 3-Clause License Copyright (c) 2026, Arun Mathew, Jonathan Mackey et al. Redistribution and use…",32787392,"Python interface to NEMO, a non-equilibrium multi-ion solver for the ionisation and thermal state of astrophysical plasmas"
+2026-11-20T11:19:35Z,minibrain,0.1.1,,Apache-2.0,15931462,"Private AI platform: train, evaluate and serve models of any size on your own data, fully offline"
+2026-11-20T11:22:16Z,octodns-nameocean,0.1.0,NameOcean <support@nameocean.net>,MIT,17872,octoDNS provider for NameOcean DNS
+2026-11-20T11:22:32Z,hereyougo,0.0.2,KiShmakov,MIT,6112,Send a Telegram notification from your Python code
+2026-11-20T11:22:33Z,turkactuary-mcp,0.1.3,,Apache-2.0,14807651,Türkiye sigortacılık mevzuatı araması ve aktüeryal hesap araçları için MCP sunucusu
+2026-11-20T11:23:20Z,mindmap-fascicle,0.1.0,Herve Nino <herve.nino@gmail.com>,MIT,60271,"Read and write BIDS neuroimaging datasets, with extensions for FreeSurfer, SimNIBS charm and MNE-Python derivatives."
+2026-11-20T11:24:47Z,astsight,0.1.0,AstSight contributors,Apache-2.0,1472845,需求与代码变更驱动的 API 自动化测试引擎
+2026-11-20T11:26:25Z,minimindslab-path-join-normalize,0.1.0,MiniMindsLab,MIT,7513,"Normalize local filesystem path joins by collapsing redundant separators, resolving . segments, and preserving leading/trailing semantics without touching the filesystem."
+2026-11-20T11:28:11Z,chnet-xrf-raw-data-converter,0.1.0,Alessandro Bombini,MIT,148521,"raw MA-XRF (Fi MA-XRF, INFN-CHNet) to NPZ/HDF5 converter: faithful event cube (y, x, channel), energy calibration as attachment, acquisition mask"
+2026-11-20T11:29:49Z,draft-grn,0.1.0,Zehua Zhang <zehua.zhang@cos.uni-heidelberg.de>,MIT,7735953,Dynamic gene regulatory networks from paired or unpaired single-cell RNA and ATAC data along lineage trees.
+2026-11-20T11:33:22Z,ozzyyaml,0.1.0,Peter Murphy <peterkmurphy@gmail.com>,BSD-3-Clause,5368916,YAML 1.2.2 parser and emitter with Unicode anchor support
+2026-11-20T11:34:16Z,ultrafastmov,0.0.1,,Apache-2.0 OR MIT,12234,The GPU video engine for agents (not released yet; see https://ultrafast.mov)
+2026-11-20T11:35:29Z,boundarycheck,0.2.0,Mohammed Orunsolu,Apache-2.0,113926,"Check that an API enforces the authorization boundaries you declare: tenant isolation, roles, hidden objects and field exposure, compared against an independent policy."
+2026-11-20T11:36:20Z,argus-iris,0.1.0,smk762,MIT,196361,"VRAM-aware GPU lease broker for the Argus suite: priorities, schedules, keepalive and idle-kill across GPU nodes"
+2026-11-20T11:43:10Z,vodcut,0.0.1,StreamMoment,MIT,4917,Open-source VOD clipper for long streams: clips and a recap from multi-hour Twitch and YouTube recordings (early development)
+2026-11-20T11:44:25Z,asyncmatch,0.2.2,David Dunn,MIT,80052,"Hamcrest compatible assertions for testing asynchronous code, by polling or by listening for notifications"
+2026-11-20T11:45:54Z,little-hotelier-mcp,1.1.0,Cotlet.dev <contact@cotlet.dev>,Elastic-2.0,15138,"Connect Little Hotelier to ChatGPT, Claude and other AI agents through Cotlet.dev. Includes a local stdio MCP bridge."
+2026-11-20T11:45:56Z,kernelax,0.1.0,Tobias Bode,MIT,627055,"Fused, vectorized and multithreaded C and CUDA kernels from JAX"
+2026-11-20T11:46:16Z,lubanlock,1.0.0,CaoJay8267,MIT,278220,"Luban Lock: declarative, portable agent definitions built from AGENTS.md + .agents/"
+2026-11-20T11:50:08Z,pixabay-client,0.1.0,Les Green,MIT,26415,"A typed Pixabay API client (sync and async) that follows Pixabay's API rules for you: caching, rate limits, downloads and credit."
+2026-11-20T11:52:01Z,mittena,0.1.0,,MIT,20914,Official Python SDK for the Mittena email API
+2026-11-20T11:53:49Z,napari-movoa,1.0.0,Movoa <support@movoa.ai>,MIT,9010,Generate AI video frame stacks with sound using Movoa directly as a napari image layer.
+2026-11-20T12:01:28Z,rsarray,1.2.10,YJ-Niu,MIT,83665538,A high-performance array library powered by Rust.
+2026-11-20T12:01:38Z,popsub,0.1.0,PopSub contributors,Apache-2.0,100045,Asyncio client for the PopSub WebSocket publish/subscribe broker.
+2026-11-20T12:01:41Z,ascii-matrixbox,0.1.0,ProjectFS,MIT,15253,Tiny cmatrix-like ASCII rain window for your terminal. Runs in the background; use it as a decorator or context manager.
+2026-11-20T12:04:04Z,nimstatus,0.1.0,,MIT,6645,Resolve NVIDIA model aliases and fail over using a public health directory
+2026-11-20T12:06:01Z,wagtail-table,0.1.0a1,Coen van der Kamp <coen@fourdigits.nl>,BSD-3-Clause,324444,A native Tiptap table editor for Wagtail StreamField.
+2026-11-20T12:06:40Z,tivelo-contracts,0.1.0a1,,PolyForm-Noncommercial-1.0.0 AND MIT,62195,"Versioned data, research and execution contracts for Tivelo engines"
+2026-11-20T12:10:34Z,tivelo-backtest,0.1.0a2,,PolyForm-Noncommercial-1.0.0 AND MIT,5685771,Independent backtest simulation and shared matrix research kernels
+2026-11-20T12:11:36Z,darehouse,0.1.0,mhaxanali,MIT,11943,Game engine collection
+2026-11-20T12:11:36Z,hiramedbc,0.1.1,,MIT,104900,A CLI for switching between MySQL client versions using the official MySQL Docker image
+2026-11-20T12:12:47Z,napari-emaki,1.0.0,Emaki <support@emaki.ai>,MIT,9776,Generate Seedance 2.5 & 2.0 AI video frame stacks with Emaki (emaki.ai) directly as a napari image layer.
+2026-11-20T12:19:17Z,immundapter,0.2.0a1,Vadim Nazarov <support@immunomind.com>,Apache-2.0,17641,tcrdist3 distances and clustering for Polars receptor tables.
