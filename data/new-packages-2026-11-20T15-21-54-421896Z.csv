@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T14:21:11Z,aas-package3,1.0.0rc1,Marko Ristin <marko@ristin.ch>,MIT,33361,Read and write the packaged file format (AASX) of an Asset Administration Shell V3.
+2026-11-20T14:21:53Z,pretix-authentik-prefill,1.0.0,JuKi Schömberg e.V.,Apache-2.0,59945,Prefill attendee and invoice addresses in the pretix checkout from Authentik for SSO customer accounts
+2026-11-20T14:23:18Z,flagtestdeeppkg,0.0.1,Vladyslav Kotko,,3182,
+2026-11-20T14:23:43Z,arm-probe-cli,0.1.2,uv-builder Reference Maintainers,MIT,81060,Reference multi-arch ARM application with native C-extension ELF/zlib/ISA probe and PEP 508 Python 3.6-3.15 markers
+2026-11-20T14:24:55Z,coinolive,1.0.0,,MIT,19066,Python library for the Coino Live crypto payment API
+2026-11-20T14:26:23Z,makker,0.3.0rc1,Jakob Torben <jakob.torben@sintef.no>,MIT,3077160,"An AI agent for computational science: it plans, runs and analyses simulation studies, on its own or alongside you."
+2026-11-20T14:26:44Z,slims,0.0.1,Rabbit Slims,FSL-1.1-ALv2,6727,"Run coding agents on any machine, steered from one hub. The CLI for Slims."
+2026-11-20T14:27:39Z,hcd-priya-models,1.0.0,Ming-Feng Ho <mfho@umich.edu>,CC-BY-4.0 AND MIT,79348620,Trained models of the hcd_priya Lyman-alpha forest P1D emulator (data only)
+2026-11-20T14:30:16Z,pm-ledger,0.1.1,Margin & Moss <marginandmoss@mail.grokbot.com>,MIT,123335,"Local-first, offline ledger for Kalshi and Polymarket US event-contract trade exports."
+2026-11-20T14:32:10Z,python-jejakmasjid,0.1.0,Zubir Jamal,MIT,20275,Asynchronous Python client for the Jejak Masjid API
+2026-11-20T14:32:30Z,openff-forcefields,2026.11.0.post1,The Open Force Field Initiative <info@openforcefield.org>,CC-BY-4.0,1328225,Force fields released by the Open Force Field Initiative
+2026-11-20T14:34:02Z,korbase,0.1.0a2,Maxime Lefevre,MIT,265749,"Async ORM for Postgres, built the Korvex way."
+2026-11-20T14:35:29Z,chargefw-ccd,2026.11.13,ChargeFW contributors,CC0-1.0,8261081,Atoms and bonds of the wwPDB Chemical Component Dictionary for ChargeFW
+2026-11-20T14:37:59Z,hcd-priya,1.0.0,Ming-Feng Ho <mfho@umich.edu>,MIT,1353005,"Lyman-alpha forest P1D emulator with high-column-density absorber classes, built on PRIYA simulations"
+2026-11-20T14:43:24Z,tivelo-data,0.1.0a1,,PolyForm-Noncommercial-1.0.0 AND MIT,152841,Independent versioned market data engine and immutable snapshot storage
+2026-11-20T14:43:25Z,blender-automation-skill,0.1.1,LUgABeEEE <LUgABeEEE@users.noreply.github.com>,MIT,71415,"AI Skill + MCP toolkit for agent-driven headless Blender modelling: parameter search, quantified scoring and self-iteration loops"
+2026-11-20T14:43:57Z,modular-rag,0.1.0,ragkit contributors,MIT,239226,可扩展、可替换抽象的 RAG 库：多格式读取、结构化切分、RRF 混合召回、主表+附表多版本、回调与中间件
+2026-11-20T14:45:45Z,hpfem,0.5.0,KF,"MIT License Copyright (c) 2026 KF Permission is hereby granted, free of charge, to any person obtai…",118187614,Adaptive hp-FEM suite for nano-optics (time-harmonic Maxwell)
+2026-11-20T14:48:57Z,ledgerfm,0.1.2,Shaswata Tripathy,Apache-2.0,42092,Open foundation model for transaction sequences (fraud / anti-money-laundering)
+2026-11-20T14:49:48Z,course-assistant,0.1.0,Biplob Chakraborty,MIT,574639,"A course assistant that answers only from approved session materials, cites every slide, and hands the rest to the teaching team."
+2026-11-20T14:52:16Z,optopro,0.1.0,OptoHive,BSD-3-Clause AND MIT,711027,"fNIRS and EEG analysis for OptoHive recordings: responses, statistics and brain maps."
+2026-11-20T14:54:09Z,unpetrify,0.1.0,James Wilson,GPL-3.0-or-later,415726,"Get the text out of a PDF -- scans included -- as Markdown that keeps paragraphs, headings, footnotes and page numbers, and says what it could not do."
+2026-11-20T14:54:21Z,inmanta-nfv-test-api,2.8.0,Inmanta,Apache-2.0,127046,API for testing network functions.
+2026-11-20T14:54:56Z,housing-star,0.1.0,JGGaskell,MIT,1589328,Spatial-temporal autoregression (STAR) for UK house price time series
+2026-11-20T14:57:14Z,bizmap,0.3.10,BizMap contributors,MIT,544939,"Deterministic business-rule and data-lineage mapper for codebases. No AI, no tokens, no accounts."
+2026-11-20T14:59:25Z,termforge,0.1.0,Rony <ronnjhost@gmail.com>,MIT,380594,"CLI para diagnosticar, respaldar y configurar tu terminal de Windows (Windows Terminal, PowerShell 7, Oh My Posh)."
+2026-11-20T15:02:49Z,parsec-html,0.1.0,,Apache-2.0,76092536,"A fast, spec-following HTML parser with CSS selectors and an editable tree, with a selectolax-style API."
+2026-11-20T15:03:01Z,pk-cnic,0.1.0,Ali Ahmed,MIT,9813,"Validate, normalise and read Pakistani CNIC numbers (13-digit format, region and gender digits, Urdu digits)"
+2026-11-20T15:05:31Z,arcanist-inference,0.2,,,12490,Workflow inference through Arcanist
+2026-11-20T15:08:44Z,proteccion-agent-kit,0.1.0,,,1903,Una libreria simple de python
+2026-11-20T15:09:20Z,inboundr,0.1.0,Inboundr <dev@inboundr.net>,MIT,36050,"Python SDK for the Inboundr API: receive email over signed webhooks, read and reply to it."
+2026-11-20T15:10:31Z,astrometry-net-engine,1.0.0,Vladimir Kouprianov <v.kouprianov@gmail.com>,GPL-3.0-only,26244866,"Independent, cross-platform Python bindings to the Astrometry.net plate-solving engine, producing WCS solutions from pre-extracted source coordinates."
+2026-11-20T15:11:11Z,automata-rs,0.1.0,,MIT,7658950,Transition systems and automata over finite and infinite words.
+2026-11-20T15:12:24Z,inworldvoice,0.1.0,,Apache-2.0,18120427,"Remove noise from the voice in any audio or video file (Inworld Voice Isolator, standalone Rust CLI with CPU and GPU backends)"
+2026-11-20T15:12:41Z,mastyf-authority,0.1.0,,AGPL-3.0-or-later,1085545,"Mastyf Authority: every break-in gets a ceiling. Pre-execution authority with signed grants, key budgets and a behavioural risk model."
+2026-11-20T15:13:16Z,aws_sdk_signer,0.0.0,,Apache-2.0,2085,Placeholder reserving the aws_sdk_signer name. Not yet functional.
+2026-11-20T15:13:36Z,aws_sdk_dsql,0.0.0,,Apache-2.0,2064,Placeholder reserving the aws_sdk_dsql name. Not yet functional.
+2026-11-20T15:13:56Z,aws_sdk_freetier,0.0.0,,Apache-2.0,2111,Placeholder reserving the aws_sdk_freetier name. Not yet functional.
+2026-11-20T15:14:14Z,aws_sdk_lightsail,0.0.0,,Apache-2.0,2117,Placeholder reserving the aws_sdk_lightsail name. Not yet functional.
+2026-11-20T15:15:04Z,pvsyst-cli-mcp,0.5.0,,MIT,1184892,"Workspace-scoped MCP server and Python engineering adapter for installed PVsyst 8 software (PV/BESS sizing, TOU & two-part demand economics, zero-template components, 3D shading, and Plotly reports)"
+2026-11-20T15:15:10Z,aws_sdk_kinesis_video_archived_media,0.0.0,,Apache-2.0,2187,Placeholder reserving the aws_sdk_kinesis_video_archived_media name. Not yet functional.
+2026-11-20T15:15:32Z,aws_sdk_health,0.0.0,,Apache-2.0,1946,Placeholder reserving the aws_sdk_health name. Not yet functional.
+2026-11-20T15:15:51Z,aws_sdk_workspaces,0.0.0,,Apache-2.0,1988,Placeholder reserving the aws_sdk_workspaces name. Not yet functional.
+2026-11-20T15:16:23Z,aws_sdk_route53resolver,0.0.0,,Apache-2.0,2044,Placeholder reserving the aws_sdk_route53resolver name. Not yet functional.
+2026-11-20T15:16:30Z,requipso,0.2.2,,,3270438,Add your description here
+2026-11-20T15:17:17Z,openff-amber-ff-ports,2025.9.0.post1,The Open Force Field Initiative,CC-BY-4.0,1524524,
+2026-11-20T15:17:49Z,landcheckup-mcp,0.1.0,,MIT,46316,MCP server for Land Checkup (landcheckup.com) public parcel and town land-record API
+2026-11-20T15:18:12Z,aws_sdk_datasync,0.0.0,,Apache-2.0,1979,Placeholder reserving the aws_sdk_datasync name. Not yet functional.
+2026-11-20T15:18:12Z,orbit-sdk,1.0.0,JuriCloud,Apache-2.0,102950,Orbit SDK by JuriCloud: runtime DPDP Act compliance tracking for Python back ends. No personal data leaves the process.
+2026-11-20T15:18:31Z,aws_sdk_ecr_public,0.0.0,,Apache-2.0,1999,Placeholder reserving the aws_sdk_ecr_public name. Not yet functional.
+2026-11-20T15:18:52Z,aws_sdk_compute_optimizer,0.0.0,,Apache-2.0,2077,Placeholder reserving the aws_sdk_compute_optimizer name. Not yet functional.
+2026-11-20T15:19:08Z,aws_sdk_marketplace_agreement,0.0.0,,Apache-2.0,2109,Placeholder reserving the aws_sdk_marketplace_agreement name. Not yet functional.
+2026-11-20T15:19:34Z,qkrun,2.0.0,Adrian Martinez Rodriguez <adrianmrit@gmail.com>,The MIT License Copyright 2024 Adrian Martinez Rodriguez <adrianmrit@gmail.com> Permission is hereb…,300188,A CLI tool for quick tasks.
+2026-11-20T15:20:23Z,hl7bridge,0.5.0,Tom O'Sullivan,Apache-2.0,590822,"HL7 v2, DICOM and FHIR integration toolkit: MLLP listener with explicit ACKs, order-to-image reconciliation, report ACK tracking, TAT reporting, message linting and a v2-to-FHIR bridge. Synthetic dat…"
