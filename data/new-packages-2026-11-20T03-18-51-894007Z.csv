@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T02:22:26Z,py-momo-api,1.0.3,Wesley Kambale,Apache-2.0,106785,Python client for the MTN Mobile Money (MoMo) and Airtel Money APIs
+2026-11-20T02:30:22Z,devguard-python-guard,1.0.0,DevGuard Security Team,MIT,22307,"DevGuard zero-dependency anti-theft, domain authorization, and milestone autolock guard for FastAPI, Django, and Flask."
+2026-11-20T02:32:02Z,readme-standards,0.1.1,Groupsum,Apache-2.0,138664,"Versioned package README generation, authoring checks, and pytest gates."
+2026-11-20T02:34:20Z,bgsmap,1.0.0,gsMap-burden contributors,MIT,74445,Spatial rare-variant burden enrichment using gsMap gene specificity scores
+2026-11-20T02:37:15Z,tree-sitter-ruby-magikdidi24,0.25.0,"Max Brunsfeld <maxbrunsfeld@gmail.com>, Amaan Qureshi <amaanq12@gmail.com>",MIT,2782149,Ruby grammar for tree-sitter
+2026-11-20T02:42:33Z,calibrated-agent-evaluation,0.1.0,Amazon Web Services,Apache-2.0,3630356,"Error analysis and judge calibration for AI agents: certify an LLM judge against human labels, then gate CI on failure rates corrected for its error."
+2026-11-20T02:42:54Z,levisim,0.1.0,Julian Iacoponi <julian.iacoponi@gmail.com>,GPL-3.0-or-later,596859,"Quantum linear theory and stochastic simulation of optically levitated nanoparticles: multi-particle coherent-scattering cavity spectra, free-space tweezer dynamics and Gaussian-state entanglement"
+2026-11-20T02:47:15Z,dsh-ptforge,0.1.0,chiyan11,MIT,844030,"Declarative Cisco Packet Tracer automation: offline .pkt codec, topology builder, state assertions, and a minimal Win32 runtime."
+2026-11-20T02:51:03Z,gossipmesh,0.1.0,Londopy,Apache-2.0,93404,"Network-coded gossip for amateur packet radio, with a simulator and a KISS TNC node"
+2026-11-20T02:53:16Z,wspx,0.1.0.dev0,Ritik Bompilwar,Apache-2.0,630493,"Grep, edit, check, test and version-control model weights. A sandboxed harness for AI agents."
+2026-11-20T02:53:57Z,quotemem,0.0.1,Quei,MIT,4486,QuoteMem: auditable long-term memory for LLM agents (name reservation; the service is published from the repository soon).
+2026-11-20T02:58:40Z,maldoctrace,0.6.0,debugactiveprocess,Apache-2.0,19448590,"Analyzer for malicious Office, RTF and OneNote documents that emulates macros and scripts to recover the commands they would run, without executing them"
+2026-11-20T03:03:17Z,obskitpy,0.1.0,Pedro França,MIT,30881,"Observabilidade (OpenTelemetry + Elasticsearch + Kibana) para qualquer projeto Python, via CLI."
+2026-11-20T03:09:42Z,molly-lang,0.8.0,Eyner Andres Diaz,Apache-2.0,61426,A small language for AI-agent plans where permissions follow the data
+2026-11-20T03:10:27Z,mimikyu,0.1.0,Saengil (YXZYS),MIT OR Apache-2.0,7606,"Fast dual-engine (Chromium CDP & Firefox WebDriver BiDi) browser automation, session isolation, and 31-tool MCP server for AI agents."
+2026-11-20T03:11:34Z,curlgen-mcp,1.0.0,xiaobinger,MIT,98084,"HTTP requests, signed code generation, GateShell/SSH execution and file transfer."
+2026-11-20T03:13:22Z,johnjoners-skills,0.1.1,,,67021,Read-only MCP server over the johnjoners/skills catalogue; consumers never clone the skills repo
+2026-11-20T03:14:31Z,jsonbit,1.1.1,Prathik Murugan,,2707511,Pure-Rust Auto-3NF Bit-Packed Columnar & BitVec64 Analytical Engine for LLMs and AI Agents
+2026-11-20T03:14:51Z,spring-nbt-library,3.0.1,,MIT,182768,Minecraft Java EditionのNBT / Anvilワールドデータを読み書きするライブラリ
+2026-11-20T03:15:36Z,wsprpool,0.1.0,Londopy,MIT,70455,Decode WSPR by adding the soft decisions of several KiwiSDRs
+2026-11-20T03:16:45Z,weio-ai,1.0.3,"Weio, Inc.",MIT,102450,Weio — an agentic coding assistant that routes inference through your Weio account.
+2026-11-20T03:16:49Z,libscanner-mcp,0.1.0,libscanner <libscanner@yandex.com>,MIT,42745,"MCP server for libscanner: read and generate DataMatrix, QR and barcodes, parse GS1 and Chestny ZNAK marking codes"
+2026-11-20T03:18:23Z,WinHacks,1.0.1,Paras,MIT,15049,"A complete Python module to learn hacking, APIs, utilities, and AI assistance"
