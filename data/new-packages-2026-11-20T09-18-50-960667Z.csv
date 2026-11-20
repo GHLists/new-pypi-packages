@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T08:22:02Z,receiverdotemail,2.0.0,"""Receiver.email"" <support@receiver.email>",MIT,57467,"Official Python SDK for Receiver.email: programmable email inboxes for tests and AI agents, with OTP and link extraction"
+2026-11-20T08:26:46Z,crawlutron-extract,0.5.0,,MIT,193257,"Content extraction: HTML, office containers, text formats, PDF tier 1, bounded and deterministic"
+2026-11-20T08:26:48Z,crawlutron-safe-url,0.5.0,,MIT,38965,"SSRF-safe URL admission: NormalizedUrl, HostPolicy, IDNA canonicalization, registrable domain, private-target guard, credential-safe redaction"
+2026-11-20T08:26:51Z,crawlutron-sdk,0.5.0,,MIT,21314,Python client for the Crawlutron execution service
+2026-11-20T08:27:21Z,flare-redact,1.10.2,Umud Hasanli <uh.hesenli81015@gmail.com>,MIT,139732,"Zero-dependency secret and PII redaction for Python — logs, prompts, HTTP, and any data structure."
+2026-11-20T08:27:37Z,swerepo,0.0.1,,Apache-2.0,11831,"Name reserved for SWERepo, which isn't released yet. See the project page."
+2026-11-20T08:29:46Z,ants-platform-sdk,3.7.0,,MIT,683600,A client library for accessing ants-platform
+2026-11-20T08:31:46Z,aas-smt-lint,1.0.0rc1,Marko Ristin <rist@zhaw.ch>,,34616,Assess automatically the quality of AAS Submodel Templates.
+2026-11-20T08:32:56Z,zadig-workflow-mcp,0.1.4,,,14557,"A local MCP server for browsing, building and releasing Zadig product workflows"
+2026-11-20T08:33:05Z,prajvaltools,0.1.0,Prajval Balte,,10579,My personal Python library
+2026-11-20T08:33:39Z,aiida-jqmc,0.1.0a1,Kosuke Nakano,BSD-3-Clause,3346797,AiiDA plugin for jQMC
+2026-11-20T08:34:00Z,kdho,0.1.1,Nur Yağmur Tuncer,Apache-2.0,30139,KDHO: a root- and affix-aware word error rate for Turkish speech recognition
+2026-11-20T08:35:35Z,pass1-lite,0.2.0,wangsenning <2873329570@qq.com>,Apache-2.0,371839,Training-free geometric and frequency-gated Pass-1 crop refinement for two-stage document OCR
+2026-11-20T08:36:02Z,circumstances,0.2.0,Aenima Labs <hello@aenimalabs.com>,Apache-2.0,211337,Open-source situational testing framework for AI agents
+2026-11-20T08:36:29Z,circs,0.2.0,Aenima Labs <hello@aenimalabs.com>,Apache-2.0,3206,"Short name for Circumstances, open-source situational testing for AI agents"
+2026-11-20T08:41:57Z,aas-smt-verification-with-llms,1.0.0rc1,Ina Steinmetz <ina.steinmetz@iosb.fraunhofer.de>,,27103,Verify AAS Submodel Templates using Large Language Models.
+2026-11-20T08:44:26Z,imgcolor,0.5.2,岳士太,MIT,317227,基于 OpenCV 的 Python 图色库：多点找色、找图、边缘检测、点阵字库、RapidOCR 文字识别便捷方法（支持图片路径与 Pillow Image）
+2026-11-20T08:44:29Z,wazobia-jwt-auth,2.0.0,Dev Wazobia,,72119,"Authentication middleware for Python services with platform, project, and service token authentication."
+2026-11-20T08:45:15Z,gribify,0.1.0,Noritada Kobayashi <noritada.kobayashi@gmail.com>,Apache-2.0,12328227,GRIB2 format writer
+2026-11-20T08:48:26Z,ocx-rules,0.1.0,,,93461,Configurable best-practice rule engine for OCX .3docx models
+2026-11-20T08:48:27Z,ocx-geometry,0.3.1,,,41789,"Geometry evaluation kernel for the OCX IR — curves, surfaces, lengths, areas, closure (no tessellation)"
+2026-11-20T08:48:28Z,ocx-model-core,0.6.1,,,611212,"Parse OCX .3docx ship model files into a schema-neutral IR, with offline XSD validation"
+2026-11-20T08:49:02Z,orbit-agent-chat,0.1.0,,,18283,Python SDK for the Orbit Agent Chat API: hand an AI Agent conversation to human support staff.
+2026-11-20T08:49:38Z,spezl,0.1.1,,MIT,30274,Bot SDK for griasdi: talks JSON-RPC to the `spezl serve` sidecar
+2026-11-20T08:49:55Z,ragpick,0.2.0,Kavishka Kalhara,Apache-2.0,186982,"Choose, build, evaluate, and run the right RAG architecture — architecture as code."
+2026-11-20T08:50:23Z,fyrr-connectors,0.1.0,,Apache-2.0,143343,fyrr connector SDK and bundled connector providers
+2026-11-20T08:50:24Z,fyrr,0.0.1,,Apache-2.0,1900,"Name reserved for fyrr, the serverless context layer for AI agents. The fyrr binary is distributed through GitHub releases for now."
+2026-11-20T08:51:01Z,seldon-runtime,0.1.1.dev0,,Apache-2.0,159657,Standalone Seldon Functions interpreter and local execution client
+2026-11-20T08:51:46Z,liwenjson,1.5.2,LIWENJSON contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3175328,"The local execution gate for LLM output: an MCP server and streaming JSON repair, powered by the MoonBit engine."
+2026-11-20T08:53:49Z,biblo,0.1.0,Nick Nissen,MIT,106249,"Unofficial async client and CLI for Biblo, the Danish public libraries' app."
+2026-11-20T09:03:36Z,i18n-claim-audit,0.1.0,i18n-claim-audit contributors,MIT,15692,Offline static audit of documented language-support promises
+2026-11-20T09:03:44Z,webhook-claim-audit,0.1.0,,MIT,14547,Static audit of documentation against outbound subscriber delivery code
+2026-11-20T09:03:52Z,email-claim-audit,0.1.0,,MIT,16890,Static audit of documented outbound-mail promises
+2026-11-20T09:04:00Z,scheduled-claim-audit,0.1.0,scheduled-claim-audit contributors,MIT,19164,Static audit of time-triggered execution claims
+2026-11-20T09:06:10Z,unistore,0.0.1,,Apache-2.0,242730,"Python API, tensor, file, and observability layer for Mooncake shared persistence"
+2026-11-20T09:10:42Z,skgp,0.0.1,Thomas Pinder,,2727,Easy fitting of Gaussian process models.
+2026-11-20T09:12:51Z,h5rs,0.1.0,,MIT,51914604,"Parallel, read-only access to chunked HDF5 datasets on disk and S3"
+2026-11-20T09:13:53Z,guplet-sdk,1.0.0,YA Systems,Apache-2.0,88879,Spawn and drive guplet gups from Python
+2026-11-20T09:14:58Z,mangono-addon-report_carbone_portal_sale,18.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,26294,
+2026-11-20T09:15:25Z,scrapecore-sdk,0.1.0,,MIT,21693,Official Python client for the ScrapeCore web scraping API
+2026-11-20T09:15:53Z,orbi2d,0.1.0,PiRK,,29918,2D orbital mechanics game: steer a rocket onto a target orbit
+2026-11-20T09:16:01Z,checkpoint-transfer,0.5.0,luoyuedong,,183767,High-performance transfer checkpoint
