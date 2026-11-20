@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-11-20T16:18:41.992648Z",
-    "path": "data/new-packages-2026-11-20T17-20-13-524129Z.csv",
-    "to": "2026-11-20T17:20:13.524129Z"
+    "count": 49,
+    "from": "2026-11-20T17:20:13.524129Z",
+    "path": "data/new-packages-2026-11-20T18-18-49-941185Z.csv",
+    "to": "2026-11-20T18:18:49.941185Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-11-20T17:55:51Z",
+      "package": "dcert-mcp",
+      "since": "2026-11-20T17:20:13.524129Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-20T17:14:06Z",
       "package": "jitxlib-pdfexport",
       "since": "2026-11-20T16:18:41.992648Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-20T16:53:01Z",
-      "package": "sealform",
-      "since": "2026-11-20T16:18:41.992648Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-20T13:31:03Z",
-      "package": "tricentis-automation-sdk",
-      "since": "2026-11-20T13:19:14.816085Z",
-      "version": null
     }
   ],
-  "serial": 43944256,
+  "serial": 43946335,
   "source_truncated": false,
-  "window": "2026-11-20T17:20:13.524129Z"
+  "window": "2026-11-20T18:18:49.941185Z"
 }

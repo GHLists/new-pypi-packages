@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T16:53:01Z,sealform,0.1.0,Eclipse Foundation,EPL-2.0,286243,"Manage SignPath.io organizations (projects, signing policies, artifact configurations, CI users) as code."
+2026-11-20T17:20:18Z,gabarito-duckdb,0.3.0,Ricardo Franco,MIT,65301,"YAML layouts for fixed-width, CSV and Excel files. DuckDB gives you typed tables."
+2026-11-20T17:21:08Z,quizprobe,0.1.0,,,42406,Reviews students' Jupyter quiz answers with any Google Gemini model and gives a short post-quiz on their misconceptions
+2026-11-20T17:23:26Z,attitudedyn,0.1.0,Gabriel Mihalache <mihalache.2@osu.edu>,MIT,5283003,The Nepaul-Stern Model of Attitude Stability and Constraint for Likert-scale panel attitudes.
+2026-11-20T17:23:54Z,captionless,0.2.0,moatezLita,MIT,82241,"Transcribe any YouTube video, playlist, or media file, even with no captions. Bring your own speech-to-text key or run offline."
+2026-11-20T17:25:07Z,fazah-arsenal,6.5.0,FAZAH <mhamadabdalla150150@gmail.com>,MIT,1771318,"FAZAH AI Arsenal v6.5 — 20,078+ Curated GitHub Tools, 17-Tool Native MCP Server (+ Prompts & Resources), 1-Call Tool Broker, Deep Security Scanner, Local Web UI & Project Advisor"
+2026-11-20T17:25:19Z,clearer-trade,0.1.0,,MIT,36172,Open-source post-trade execution auditing and zero-leakage telemetry primitives for clearer.trade.
+2026-11-20T17:29:34Z,ats-resume-tailor,0.1.0,Akshay Swaminathan,MIT,459339,A resume tailor that can't make things up: every line traces to evidence you verified.
+2026-11-20T17:29:40Z,oppwa-guard,0.1.0,Andile Mbele <andilembele020@gmail.com>,MIT,82383,Server-side payment verification for merchants integrating OPPWA (Open Payment Platform) checkouts
+2026-11-20T17:29:42Z,spoofscore,0.1.0,Andile Mbele <andilembele020@gmail.com>,MIT,71780,Can someone send email pretending to be your domain? SPF and DMARC posture check
+2026-11-20T17:29:47Z,dmarc-ready,0.1.0,Andile Mbele <andilembele020@gmail.com>,MIT,61384,Is this domain ready for DMARC p=reject? Reads aggregate reports and lists every sender that would break
+2026-11-20T17:30:34Z,skarmory,0.0.1,,MIT,8105101,"Fast Python code analysis, powered by Rust. Phase 0 dead-code prototype."
+2026-11-20T17:31:53Z,metamend,0.1.0,,"MIT License Copyright (c) 2026 Preston Raab Permission is hereby granted, free of charge, to any pe…",2122495,"Combine GEO, ArrayExpress and local metadata tables, review suggested variable mappings, and export data with source and review history"
+2026-11-20T17:32:25Z,robotframework-locust,1.0.3,Abdulwahab Isam <abdoi94.iq@gmail.com>,MIT,1860328,Robot Framework library for authoring and running Locust load tests in RF syntax
+2026-11-20T17:33:04Z,rolloutdiff,0.1.0,,Apache-2.0 AND MIT AND OFL-1.1,4492393,Deterministic analysis of behavioral changes in RL rollouts
+2026-11-20T17:33:31Z,scigantic-alphafold,0.1.0,Scigantic,MIT-0,150052,"Read single AlphaFold DB v6 structures with one HTTP range request against EBI's public bulk tars, using a prebuilt byte-offset index. No mirror, no account, no key, no runtime dependencies."
+2026-11-20T17:33:32Z,arc56-generated-lempi-55c9a928,1.2.2026072010,lempira,,16374,Generated ARC-56 Algorand smart-contract clients for lempira/utils-ts-371.
+2026-11-20T17:34:36Z,arc56-generated-logiq-193957cb,1.2.2026072010,LogiqueClergyman,,23263,Generated ARC-56 Algorand smart-contract clients for LogiqueClergyman/uwu-contracts.
+2026-11-20T17:35:40Z,arc56-generated-loicd-56d82344,1.2.2026072010,loicdrbx,,11764,Generated ARC-56 Algorand smart-contract clients for loicdrbx/eclair.
+2026-11-20T17:36:31Z,izayoi,0.5.2,sh-sunfaded,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",83193,"Compare multiple snapshots of a process memory dump: triage (PE detection, page census, readable-asset location), page entropy, diff runs, page classification (static/flip/settled/volatile), and ciph…"
+2026-11-20T17:36:44Z,arc56-generated-lokoa-aa79ae04,1.2.2026072010,LokoAnas,,57634,Generated ARC-56 Algorand smart-contract clients for LokoAnas/Algorand.
+2026-11-20T17:38:30Z,bydev,0.1.0,한비트 주식회사,MIT OR Apache-2.0,157832,데브 라이선스 API 공식 Python SDK — 디바이스 로그인 · 토큰 회전 · 세션 리스 · licenseToken 검증 · 업데이트 확인 · 판매자 서버 도우미
+2026-11-20T17:41:57Z,aka-kg,0.1.0,Vanthony Laster <support@tyrantsole.com>,OpenSource,40773,Autonomous Knowledge Acquisition: a frozen LLM outer-loop library with graph-driven question selection
+2026-11-20T17:42:18Z,emasp,1.0.0,"Emma Crisci <emma.crisci@inria.fr>, Francois Gindraud <francois.gindraud@inria.fr>",AGPL-3.0-or-later,11678853,Elementary modes of metabolic network (like EFM) using Clingo/ASP
+2026-11-20T17:44:07Z,proteingym-base,0.1.0,ProteinGym team <proteingym@googlegroups.com>,,5031925,Infrastructure for protein variant effect prediction. Dataset class and tools to facilitate benchmarking.
+2026-11-20T17:44:20Z,bendit,0.3.0,,MIT,18276,"Enforced rules for coding agents: fail-closed guard hooks, a verification gate, practice skills, and /adopt for any project."
+2026-11-20T17:47:46Z,kernodb,1.0.0a1,,MIT OR Apache-2.0,5693952,"Kerno: an embedded database of units, revisions and relations, for AI memory"
+2026-11-20T17:49:13Z,tsp-mcp-for-ableton-live,0.1.3,,Apache-2.0,104394,TSP MCP for Ableton Live: control Ableton Live from Claude and other MCP clients
+2026-11-20T17:49:36Z,qtiming,0.1.0,Pratul Deshpande,Apache-2.0,417307,A static timing checker for dynamic quantum circuits
+2026-11-20T17:52:07Z,modelcheck-ru,1.0.0,Lideim,MIT,95461,"Проверка: настоящая ли нейросеть за API-ключом — Claude, GPT, Gemini, DeepSeek и ещё 14 производителей"
+2026-11-20T17:54:30Z,scope-token-fetch-vector,1.0.0.post1,,,798,Generated package for scope-token-fetch-vector
+2026-11-20T17:54:32Z,polika-jiklop,1.0.0,,,437,Generated package for polika-jiklop
+2026-11-20T17:55:38Z,gitpicker-zhcn,0.0.1,GitPicker <admin@gitpicker.cn>,MIT,1436,Official name placeholder for GitPicker (gitpicker.cn) — Chinese-facing GitHub repository search & batch download. Not a library.
+2026-11-20T17:57:57Z,test-tiagoplays,1.0.1,TiagoPlays,MIT,3156,test
+2026-11-20T17:58:24Z,jointfm-inference,0.9.0,Stefan Hackmann <stefan.hackmann@datarobot.com>,Apache-2.0,354673,Inference runner that serves JointFM checkpoints over HTTP
+2026-11-20T18:00:22Z,cadeft,0.2.0,,Apache-2.0,42208,Python library for reading and writing Payments Canada Standard 005 EFT files
+2026-11-20T18:01:05Z,g3w-admin-authjwt,0.0.3,Gis3w snc <info@gis3w.it>,Mozilla Public License 2.0 (MPL 2.0),34318,Proof of concept authentication module through JSON Web Tokens for G3W-SUITE
+2026-11-20T18:01:08Z,postgres-schema-mcp,0.1.0,Akshay Swaminathan,MIT,343908,"An MCP server that retrieves the relevant slice of a wide Postgres schema instead of dumping all of it, with read-only enforced in three layers."
+2026-11-20T18:02:12Z,richdem-rs,0.1.0,"Richard Barnes <rbarnes@umn.edu>, Qiusheng Wu <giswqs@gmail.com>",GPL-3.0-only,78673442,High-performance DEM hydrologic and terrain analysis in pure Rust (port of Richard Barnes's RichDEM)
+2026-11-20T18:02:36Z,coding-harness-tracing,0.1.0rc1,Arize AI <support@arize.com>,Apache-2.0,1014577,"Tracing for AI coding harnesses, exported to Arize AX or Phoenix"
+2026-11-20T18:04:37Z,paperless-cf-ocr,0.1.0,,GPL-3.0-only,93045,Paperless-ngx parser plugin: OCR with vision LLMs on Cloudflare Workers AI via AI Gateway
+2026-11-20T18:07:55Z,tutu-cli,0.1.0,tutu contributors,MIT,117120,tutu — 多源漏洞与威胁情报聚合搜索 CLI（NVD / CISA KEV / NSFOCUS / 微步 / 360 / 勒索软件情报等）
+2026-11-20T18:07:58Z,controlarmour,0.1.0,Coqui Consulting LLC,Apache-2.0,40893,Report what your Python agent does to ControlArmour on this computer and ask it before risky actions. Standard library only.
+2026-11-20T18:10:33Z,aa-intelpulse,0.5.0,Maddog Broekman <maddogbroekman@gmail.com>,"MIT License Copyright (c) 2026 Maddog Broekman Permission is hereby granted, free of charge, to any…",600178,IntelPulse AI - Autonomous Intelligence & Fleet Briefing Service for Alliance Auth
+2026-11-20T18:11:58Z,semantic-kernel-datacircle,0.1.0,,MIT,18715,A Semantic Kernel plugin for the Datacircle API: find the best GTM APIs
+2026-11-20T18:12:04Z,voyager-ogm,0.4.0,Tanishq Kumar,MIT OR Apache-2.0,11927182,"Multi-dialect, vendor-neutral Object-Graph Mapper (OGM) with zero-copy Polars Arrow streaming"
+2026-11-20T18:13:06Z,ndx-facemap-motionsvd,0.2.0,Alessandra Trapani <alessandra.trapani@catalystneuro.com>,BSD-3-Clause,22605,extension to store the motion SVD output from FaceMap software
+2026-11-20T18:13:47Z,prose-audit,0.1.0,Yassine Abdelouadoud,MIT,173295,"Find LLM writing tics and numeric over-density in reports (Markdown, LaTeX, text); export findings as JSON/YAML for an LLM to correct."
+2026-11-20T18:15:31Z,g3w-admin-sentry-monitor,0.0.2,Gis3w snc <info@gis3w.it>,Mozilla Public License 2.0 (MPL 2.0),24833,G3W-SUITE module for application performance monitoring and error tracking via sentry.io
