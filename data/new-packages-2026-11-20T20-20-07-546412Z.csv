@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T19:17:56Z,reqmint,0.2.0,Kevin Stanley,Apache-2.0,302066,"Requirements tool for OpenSpec projects: stable IDs, provenance, linting and analysis."
+2026-11-20T19:22:05Z,vfred-gate,1.0.0,,MIT,175860,"Numerical compatibility gate for llama.cpp builds: verdict, first differing op, offline evidence"
+2026-11-20T19:22:08Z,caddix,1.0.0,Marcus Gros <marcus-gros@freenet.de>,"MIT License Copyright (c) 2026 Marcus Gros Permission is hereby granted, free of charge, to any per…",87918,"Caddix is a helper library for Python designed to make working with PostgreSQL databases easier, faster, and safer."
+2026-11-20T19:22:13Z,oryksa-alexa,1.2.82,ORYKSA AI Employees,MIT,43511,"Put your ORYKSA AI employee inside your own Alexa skill: one catch-all handler, SSML replies, progressive response and an Echo Show card."
+2026-11-20T19:23:40Z,fitle,0.1.0,Trey Warner <warnertrey07@gmail.com>,MIT,103826,"A tiny, fast library for building statistical models, compiling them to Numba, and fitting with iminuit."
+2026-11-20T19:26:49Z,py-momo-sdk,1.0.6,Wesley Kambale,MIT,101215,Py MoMo SDK: Python client for the MTN Mobile Money (MoMo) and Airtel Money APIs
+2026-11-20T19:28:08Z,spikemask-rs,0.1.0,Nabil Freij <nabil.freij@gmail.com>,BSD-3-Clause,3130166,Detect candidate cosmic-ray spikes in two-dimensional detector exposures
+2026-11-20T19:29:28Z,kvkernels,0.1.0,,Apache-2.0,124327,Triton kernels for paged KV-cache movement and shared-prefix decode attention
+2026-11-20T19:30:37Z,pubdeploy,0.8.0,David Schryer <schryer@gmail.com>,Apache-2.0,135819,"The deploy walk: what a service needs before it deploys, whether it has it, and making it; and the checks a deploy to Kubernetes runs."
+2026-11-20T19:32:35Z,Pyrophone,0.1.0,,Apache-2.0,103855,Python message routing DSL environment
+2026-11-20T19:32:36Z,pubrules,0.48.0,David Schryer <schryer@gmail.com>,Apache-2.0,216150,"The setup every package shares: managed files, reusable CI, the Rust crate standard and the Gherkin rule."
+2026-11-20T19:34:34Z,qodalis-cli-server-plugin-docs,1.0.0b29,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,14245,"Docs plugin for Qodalis CLI servers — markdown guides from folders or code, with front matter and variables, served as JSON for the portal"
+2026-11-20T19:34:36Z,qodalis-cli-server-plugin-public-api,1.0.0b29,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,1020771,"Public API plugin for Qodalis CLI servers — routes guarded by host API tokens with per-account quotas, token usage, the public OpenAPI document and Swagger UI"
+2026-11-20T19:34:58Z,pubfleet,0.2.1,David Schryer <schryer@gmail.com>,Apache-2.0,51786,"What a control plane runs across many repositories: the board, the state file, their GitHub variables, freshness, and the nightly's loop."
+2026-11-20T19:35:03Z,qodalis-cli-server-plugin-portal,1.0.0b29,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,437444,"Portal plugin for Qodalis CLI servers — the prebuilt portal site (guides and API reference) at one mount, with portal.json"
+2026-11-20T19:35:19Z,aiomoulinex,0.1.0,Paul Bottein <paul.bottein@gmail.com>,MIT,57537,Asynchronous Python client for the Moulinex Cookeo and Companion connected through the Groupe SEB cloud
+2026-11-20T19:36:12Z,l3binbandshift,1.5.1,Maxwell Beal <maxwell.r.beal@nasa.gov>,,51715,Generates a bandshifted L3 bin Rrs file for the OCR-VC (virtual constellation)
+2026-11-20T19:37:37Z,langchain-revsec,0.1.0,"""RevSec / RevUp AI, Inc."" <hello@revupai.com>",LicenseRef-Proprietary,30441,"RevSec for LangChain agents: check each tool call before it runs (MCP tools against their MCP server), each prompt and tool result, and register the agent."
+2026-11-20T19:39:44Z,pubhost,0.2.0,David Schryer <schryer@gmail.com>,Apache-2.0,28792,"A repository's hosting: Terraform modules for its zones and sites, the live DNS check, the apply workflow, and the image-build and static-deploy actions."
+2026-11-20T19:39:57Z,avarole-mcp,0.2.0,Avarole <support@avarole.com>,Apache-2.0,37545,"MCP server for Avarole: let Claude, ChatGPT and Cursor look up agents, call history and support tickets, and work the queue"
+2026-11-20T19:43:07Z,pubdocrules,0.5.0,David Schryer <schryer@gmail.com>,Apache-2.0,2093354,"Build, preview and approve MyST documents as Typst PDFs, with a shared template library and publet links."
+2026-11-20T19:45:27Z,pubsec,0.3.1,David Schryer <schryer@gmail.com>,Apache-2.0,64684,"The commands and deploy need types that hold a secret value, a write token or a private key, apart from pubrules."
+2026-11-20T19:49:48Z,obpg-orm,1.1.5,Sean Bailey <sean.w.bailey@nasa.gov>,,3193460,ORM generates hyperspectral (1nm) or sensor-specific Rrs (or Lwn) spectra using an ocean reflectance model described in:
+2026-11-20T19:50:56Z,pubtestrules,0.4.0,David Schryer <schryer@gmail.com>,Apache-2.0,50097,"The Gherkin steps every Sustenaut suite shares, as a pytest-bdd plugin (and, from the same grammar, an npm package)."
+2026-11-20T19:51:01Z,oleander-kedro,0.0.1,,,71349,Declare Oleander metadata on ordinary Kedro pipelines
+2026-11-20T19:53:04Z,hitl-handoff,0.2.0,hitl-handoff contributors,MIT,90636,Deterministic approval gate for sensitive AI-agent actions and agent-to-agent handoffs
+2026-11-20T19:53:06Z,robustcov,0.2.1,Shohruh Miryusupov <shohruh@miryusupov.com>,Apache-2.0,17491423,"Robust covariance, anomaly scoring, PCA, and monitoring for contaminated and heavy-tailed data."
+2026-11-20T19:53:17Z,metafour-pack-sdk,1.0.0rc1,,Apache-2.0,652388,"Build, test and package Metafour data-source packs outside the Metafour repository."
+2026-11-20T19:54:05Z,whowhen,0.1.1,Andrew Hendel,Apache-2.0,82036,Audit panel data for identity and timing signals a model can exploit without predicting anything
+2026-11-20T19:54:30Z,logwarp,0.1.0,Lukasz Tuz <lukasz@bitsandpixels.io>,,338980,"Logwarp, log processor and analyzer."
+2026-11-20T19:55:44Z,bigbrain-memory,1.1.1,BigBrain Contributors,MIT,87309,"Deterministic, filesystem-first memory and context-management engine for LLM coding agents."
+2026-11-20T19:56:32Z,verifyinboxes,0.1.0,VerifyInboxes <developers@verifyinboxes.com>,MIT,135208,The official Python library for the VerifyInboxes API
+2026-11-20T19:56:56Z,jaxforge,0.2.0,Wesley Kambale <spartanwk@gmail.com>,"MIT License Copyright (c) 2026 Wesley Kambale Permission is hereby granted, free of charge, to any…",131953,Model-agnostic natural language engineering workbench for JAX and Flax
+2026-11-20T19:59:56Z,openvbspp,0.9.28,Marf Chen (MarfChen),Apache-2.0,760056,OpenVBS++: a VBScript-flavoured language that compiles to Python AST
+2026-11-20T19:59:59Z,qkrun-mcp,0.1.0,,MIT,121665,MCP stdio server for qkrun tasks.
+2026-11-20T20:00:11Z,obpg-writel2,1.0.2,"Gwyn Fireman <Gwyn.F.Fireman@nasa.gov>, Claude Sonnet 5 <noreply@anthropic.com>",,20791,Helpers for reading L2 metadata and writing derived L2 NetCDF4 products
+2026-11-20T20:00:19Z,searxng-server,2026.11.20,SearXNG,AGPL-3.0-or-later,6815602,SearXNG is a metasearch engine. Users are neither tracked nor profiled.
+2026-11-20T20:01:01Z,periodic-report-kit,0.1.0,arielgiamportone,MIT,149475,"Declarative periodic reports: tabular data to branded Word/PDF/PPTX with full-bleed cover, TOC field and visual blocks."
+2026-11-20T20:03:34Z,cardsafe,0.1.1,cardsafe contributors,MIT,49972,"Verified, resumable offload of camera cards to multiple destinations, with checksum manifests."
+2026-11-20T20:04:49Z,zephyrforge,0.0.3,Ji Dong,BSD-3-Clause,112610,"ZephyrForge USB HID control, diagnostics, and local dashboard"
+2026-11-20T20:05:45Z,trailbeam,0.3.0,,Apache-2.0,940658,"Message-level timelines for Amazon SQS: OpenTelemetry hooks for boto3 and AWS Lambda, and, with the server extra, Trailbeam itself."
+2026-11-20T20:08:48Z,searxng-engine,2026.11.20,SearXNG,AGPL-3.0-or-later,6815601,SearXNG is a metasearch engine. Users are neither tracked nor profiled.
+2026-11-20T20:09:14Z,amessage-sdk,0.2.0,AMessage <contact@amessage.sh>,MIT,26635,"aMessage for Python. Give an agent a chat address, manage its inbox, and discover Open for beacons."
+2026-11-20T20:09:15Z,langchain-amessage,0.2.0,AMessage <contact@amessage.sh>,MIT,19714,"LangChain tools for AMessage. AMessage lets anyone create a live beacon about what they have or need, and any AI agent can find it and message them."
+2026-11-20T20:09:47Z,estudafacil-skill,3,,Proprietary,48704,Ferramentas de montagem (scripts e templates) da skill Estuda Fácil para o Claude.
+2026-11-20T20:13:22Z,hicoL1B,2.1.1,Richard Healy <richard.healy@nasa.gov>,,127282,HICO L1B processor
+2026-11-20T20:13:49Z,gloci,0.1.0,,MIT,60237995,"Fast genomic interval and VCF toolkit: the gloci commands as lazy, streaming Python pipelines, run in-process."
+2026-11-20T20:14:11Z,wells-agent,0.3.0,,,2448051,"Wells — a model-agnostic, self-improving agentic coding harness (planner/architect/coder/tester/reviewer) with deterministic test-gate verification, Code Mode, SEACS evolution, ACP + MCP."
+2026-11-20T20:15:22Z,earwarden,1.0.1,rehaan,Apache-2.0,641687,"Answer Claude Code permission prompts by voice, with confirmation strength set by risk."
+2026-11-20T20:16:04Z,ewstui,0.1.0,Leif Denby,MIT,664171,"A terminal (TUI) email + calendar client for Microsoft Exchange, talking EWS directly"
