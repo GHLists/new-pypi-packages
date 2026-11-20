@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-20T00:19:49.709315Z",
-    "path": "data/new-packages-2026-11-20T01-19-29-228478Z.csv",
-    "to": "2026-11-20T01:19:29.228478Z"
+    "count": 41,
+    "from": "2026-11-20T01:19:29.228478Z",
+    "path": "data/new-packages-2026-11-20T02-18-58-261879Z.csv",
+    "to": "2026-11-20T02:18:58.261879Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-20T00:53:55Z",
       "package": "maf-sandbox-mxc",
       "since": "2026-11-20T00:19:49.709315Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-20T01:07:25Z",
-      "package": "mcp-wizard-generators",
-      "since": "2026-11-20T00:19:49.709315Z",
-      "version": null
     }
   ],
-  "serial": 43913860,
+  "serial": 43915530,
   "source_truncated": false,
-  "window": "2026-11-20T01:19:29.228478Z"
+  "window": "2026-11-20T02:18:58.261879Z"
 }

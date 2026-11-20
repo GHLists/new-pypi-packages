@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T01:07:25Z,mcp-wizard-generators,0.5.0,agentic-ai-tools,MIT,269492,Pluggable OpenAPI → MCP generators for MCP Wizard (local Python MCP + AgentCore).
+2026-11-20T01:22:03Z,smartcheck-cli,0.1.0,,,29017,SmartCheck 账号授权与通话管理命令行
+2026-11-20T01:23:19Z,nudi-cli,0.5.2,,MIT,422999,Pre-hack and simulate Harbor RL environments
+2026-11-20T01:26:25Z,netherframe.generation,0.3.0,,MIT,241909,Code generation utilities for Netherframe
+2026-11-20T01:26:27Z,netherframe.legacy_functions.hashicorp.terraform,1.15.9,,MIT,26042,Netherframe legacy function catalog for HashiCorp Terraform
+2026-11-20T01:26:29Z,netherframe.cli,0.2.1,Sourabh Cheedella,MIT,224948,Netherframe CLI - Command-line interface for Netherframe
+2026-11-20T01:26:32Z,netherframe.providers.hashicorp.kubernetes,3.5.0,,MIT,1620166,NF provider for hashicorp/kubernetes
+2026-11-20T01:28:51Z,dikt-cli,0.1.0,,,8071373,"Decisions, ideas, knowledge and tasks as validated local Markdown, for people and AI agents"
+2026-11-20T01:28:55Z,setrya,0.12.1,,Apache-2.0,402301,"Test search results and cached answers after document updates, access revocation, and tenant deletion"
+2026-11-20T01:29:25Z,agentinel,0.1.0,Markus Weldon,MIT,304780,"Audit MCP servers and agent fleets for the lethal trifecta, tool poisoning, and leaked secrets, mapped to the OWASP Agentic Top 10 (2026)."
+2026-11-20T01:31:06Z,rusyntax,0.1.0,Шкарин Сергей <kouki.sergey@gmail.com>,MIT AND CC-BY-SA-4.0,77513014,Fast Russian dependency parser written in Rust with a Python API
+2026-11-20T01:31:36Z,enigma-turbo-model,0.2.2,Enigma Technologies <info@enigma.com>,Apache-2.0 AND MIT,26601720,"Model files for enigma-api-client's experimental TurboStrategy, which writes GraphQL queries without an LLM call"
+2026-11-20T01:31:47Z,cavi-character-animator-mcp,0.1.0,CAVI AI,MIT,183879,"MCP server for Adobe Character Animator: project copies, session ownership, native evidence and export intake"
+2026-11-20T01:32:30Z,vetvise-vms-client,0.1.0,VetVise GmbH,Apache-2.0,71287,Python client for the VetVise VMS REST API
+2026-11-20T01:34:04Z,bongo-build,0.0.1,Horse Arms <josh@horsearms.com>,Apache-2.0,2549,"Reserved for Bongo, a build tool for Godot games. Not released yet."
+2026-11-20T01:34:09Z,bazaar-contrib-server-magpie,0.3.0rc1,,,130724,"Magpie routing, usage and gateway administration in Bazaar Server"
+2026-11-20T01:35:54Z,newton-neural,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1051,Zero version placeholder for newton_neural
+2026-11-20T01:37:46Z,bpyfilter,0.8.0.1,Alvaro Leiva Geisse <aleivag@gmail.com>,GPL-2.0-only,19518690,"Python bindings for bpfilter 0.8: BPF-based packet filtering, from Python"
+2026-11-20T01:40:51Z,juuri,0.0.2,,,5874,juuri placeholder package
+2026-11-20T01:46:11Z,seedream-5-5-png-checker,0.1.0,,MIT,7381,Check transparency in a locally saved PNG from Seedream 5.5 or another image tool.
+2026-11-20T01:46:31Z,truecoach-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15462,"Connect TrueCoach to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No TrueCoach API key needed."
+2026-11-20T01:46:33Z,runtraj,0.1.0a1,James Mineau <jameskmineau@gmail.com>,MIT,1253201,Run particle dispersion models at scale.
+2026-11-20T01:48:02Z,QQPyBot,0.1.0,,,26327,FastAPI Webhook SDK for the QQ Bot Open Platform
+2026-11-20T01:48:59Z,techtide-botkit,0.3.0,Ahmed,MIT,114029,"A chatbot/agent loop in a few lines, with optional tools, skills, memory (SQLite/Supabase/your own) and MCP."
+2026-11-20T01:51:05Z,fkdc,0.1.1,Gonzalo Barrera Borla <gonzalobb@gmail.com>,MIT,18896,Distancia de Fermat en Clasificadores de Densidad por Núcleos
+2026-11-20T01:55:59Z,gcen2,2.0.0,Wen Harold Chen <chenwen@biochen.org>,GPL-3.0-or-later,38271132,A Python Toolkit for Gene Co-Expression Network Analysis with Single-Cell Resolution and Interactive Visualization
+2026-11-20T01:56:41Z,cellink-tools,0.1.0,"Jan Engelmann, Lucas Arnoldt, Eva Holtkamp","Apache License Version 2.0 Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND COND…",4935644,cellink enables genetic analyses on single-cell data
+2026-11-20T01:57:57Z,abusezero,0.1.0,AbuseZero,LicenseRef-AbuseZero-SDK,165247,The official AbuseZero Python SDK: abuse prevention API for SaaS.
+2026-11-20T01:59:54Z,colink-memory,1.0.3.post1,orcakit,MIT,1010967,"Pluggable memory system with hierarchical recall, FTS search, and multiple backend support."
+2026-11-20T02:03:36Z,git-vidi,0.1.0,affaan-git <216245812+affaan-git@users.noreply.github.com>,GPL-3.0-or-later,181896,A read-only terminal viewer for a local Git repository.
+2026-11-20T02:04:41Z,shadowsim,1.0.0,Aidan Sims <simsaidan@gmail.com>,MIT,470805,Tools for shadow Hamiltonian research and quantum simulation benchmarking.
+2026-11-20T02:04:48Z,weirnote,0.1.0,,,5877950,Python SDK for Weirnote libraries on macOS
+2026-11-20T02:07:26Z,devzero-sandbox,0.1.0,,Apache-2.0,245071,DevZero self-hosted sandboxes SDK (control plane + data plane clients) and MCP server
+2026-11-20T02:09:18Z,pyeconomics-app,1.0.0rc1,"Nathan Ramos, CFA",Apache-2.0,22131233,"The pyeconomics web app, built, for pyeconomics serve: install pyeconomics[app]."
+2026-11-20T02:09:33Z,colink-harness,1.0.7.post1,octop contributors,MIT,2212375,Production-grade Harness Agent built on top of LangChain Deep Agents.
+2026-11-20T02:10:01Z,gotmap-benchmark,0.2.0,gotmap developers,MIT,26278,Benchmark pipeline for gotmap (query-to-reference atlas mapping) vs baselines.
+2026-11-20T02:15:14Z,pyvision-bot,0.1.0,邱祺峰,MIT,37340,OpenCV image automation for desktop and Android (ADB) with template matching.
+2026-11-20T02:15:44Z,ontoreview,0.0.1,,MIT,3180,Ontology documentation and evaluation tool
+2026-11-20T02:16:57Z,pyomof,0.1.0,,,22556,Encode/decode Pyomo models to/from MathOptFormat
+2026-11-20T02:17:16Z,k8s-st8,0.0.0,,,41691,A declarative language for describing cluster state transitions and recovery
+2026-11-20T02:17:36Z,mcp-cage,0.4.0,Nagarajulu Aerakoni <nagarajulu.a@gmail.com>,MIT,123825,"Zero-Code Wire & Native-Hook Security Firewall for Claude Code, Cursor, Codex, Gemini CLI & MCP (Gitleaks + Little Snitch for AI Coding Agents)"
