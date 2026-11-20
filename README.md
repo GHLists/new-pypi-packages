@@ -8,45 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 07:22 UTC
+## Latest list — 2026-11-20 08:20 UTC
 
-New packages created between 2026-11-20 06:20 UTC and 2026-11-20 07:22 UTC.
+New packages created between 2026-11-20 07:22 UTC and 2026-11-20 08:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-20T07-22-03-195963Z.csv)
+[Full CSV](data/new-packages-2026-11-20T08-20-24-113998Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-20 06:22:43 | [code-retriever](https://pypi.org/project/code-retriever/) | 0.1.1 |  | 109.6 kB |  |
-| 2026-11-20 06:24:01 | [aircompkit](https://pypi.org/project/aircompkit/) | 1.0.0 | M. A. Moyeen, Kuljeet Kaur, A… | 130.7 kB | Security-aware simulator for over-the-air computation and over-the-air federate… |
-| 2026-11-20 06:30:09 | [pyeryx-runtime-shell](https://pypi.org/project/pyeryx-runtime-shell/) | 0.16.0 |  | 80.6 MB | The precompiled shell runtime and its coreutils for pyeryx, for one platform |
-| 2026-11-20 06:32:40 | [traceAI-alephalpha](https://pypi.org/project/traceAI-alephalpha/) | 0.1.0 | Future AGI | 14.8 kB | OpenTelemetry instrumentation for the Aleph Alpha Python SDK |
-| 2026-11-20 06:32:43 | [traceAI-google-generativeai](https://pypi.org/project/traceAI-google-generativeai/) | 0.1.0 | Future AGI | 20.5 kB | OpenTelemetry instrumentation for the legacy Google Generative AI SDK (google-g… |
-| 2026-11-20 06:32:44 | [traceAI-elasticsearch](https://pypi.org/project/traceAI-elasticsearch/) | 0.1.0 | Future AGI | 15.5 kB | OpenTelemetry instrumentation for Elasticsearch search and kNN (elasticsearch-p… |
-| 2026-11-20 06:32:46 | [traceAI-promptflow](https://pypi.org/project/traceAI-promptflow/) | 0.1.0 | Future AGI | 17.0 kB | OpenTelemetry instrumentation for Microsoft Prompt flow (promptflow-tracing) |
-| 2026-11-20 06:34:48 | [healthcare-escalation-bench](https://pypi.org/project/healthcare-escalation-bench/) | 0.1.0 | Zihao Zheng, Junyi Yao, Baich… | 235.6 kB | Perturbation-controlled benchmark of when healthcare LLM agents should answer,… |
-| 2026-11-20 06:36:33 | [pyxis-harness-bundle-toolkit](https://pypi.org/project/pyxis-harness-bundle-toolkit/) | 0.1.0rc1 | Onenightcarnival | 5.3 kB | PyxisHarness bundle: the toolkit (memory, databases, S3, skills, MCP page, subs… |
-| 2026-11-20 06:36:40 | [pyxis-harness-bundle-web](https://pypi.org/project/pyxis-harness-bundle-web/) | 0.1.0rc1 | Onenightcarnival | 4.3 kB | PyxisHarness bundle: web_search (DeepSeek native search) and web_fetch tools; o… |
-| 2026-11-20 06:36:44 | [pyxis-harness-checkpoint-postgres](https://pypi.org/project/pyxis-harness-checkpoint-postgres/) | 0.1.0rc1 | Onenightcarnival | 5.0 kB | PyxisHarness plugin: PostgreSQL checkpointer and store |
-| 2026-11-20 06:36:46 | [pyxis-harness-checkpoint-sqlite](https://pypi.org/project/pyxis-harness-checkpoint-sqlite/) | 0.1.0rc1 | Onenightcarnival | 4.7 kB | PyxisHarness plugin: SQLite checkpointer and store |
-| 2026-11-20 06:42:00 | [codasift](https://pypi.org/project/codasift/) | 0.1.0 |  | 1.2 MB | A persistent context layer for AI users. |
-| 2026-11-20 06:43:04 | [dm-imu](https://pypi.org/project/dm-imu/) | 1.0.0 | 达妙科技 | 80.1 kB | 达妙 DM-IMU-L1 六轴 IMU 的 USB CDC Python 驱动：读取姿态数据、配置模块、执行校准 |
-| 2026-11-20 06:47:51 | [circlize-py](https://pypi.org/project/circlize-py/) | 0.4.16 | Xiaowei Zhan <zhanxw@gmail.co… | 3.4 MB | Circular visualization in Python (port of the R circlize package) |
-| 2026-11-20 06:48:15 | [magic-hour-litellm](https://pypi.org/project/magic-hour-litellm/) | 0.1.1 | Magic Hour | 17.0 kB | Magic Hour image generation through LiteLLM's CustomLLM interface |
-| 2026-11-20 06:49:28 | [magic-hour-haystack](https://pypi.org/project/magic-hour-haystack/) | 0.1.1 | Magic Hour | 14.3 kB | Recoverable Magic Hour image generation components for Haystack pipelines |
-| 2026-11-20 06:52:14 | [pulzr-pkg](https://pypi.org/project/pulzr-pkg/) | 0.2.0 |  | 53.6 kB | Pulzr extension modules: the host that runs them in wasmtime's sandbox (pulzr_h… |
-| 2026-11-20 06:54:47 | [srigen-mcp-402](https://pypi.org/project/srigen-mcp-402/) | 0.1.0 |  | 9.0 kB | 402-in-a-Box Python SDK for metered MCP tools (HTTP 402 + Idempotency + 2PC Res… |
-| 2026-11-20 06:54:49 | [linesman-bench](https://pypi.org/project/linesman-bench/) | 0.2.1 |  | 716.9 kB | Linesman by Archee Studio: a benchmark for generated 2D drafting sheets |
-| 2026-11-20 07:00:34 | [dash-faithkit](https://pypi.org/project/dash-faithkit/) | 0.0.0 | Bohee Lee | 5.9 kB | DASH (Deletion with Abstention over Split Halves): held-out deletion audits of… |
-| 2026-11-20 07:07:00 | [vintar](https://pypi.org/project/vintar/) | 0.1.0 | natori | 251.9 kB | Run authorized web security regression checks in CI with JSON reports and exit… |
-| 2026-11-20 07:07:55 | [macbot](https://pypi.org/project/macbot/) | 0.1.0 | MuQY1818 | 342.9 kB | Real-robot learning on a MacBook: teleoperate, record, export to LeRobot and ru… |
-| 2026-11-20 07:09:59 | [bursakit](https://pypi.org/project/bursakit/) | 0.1.1 |  | 150.7 kB | Bursa Malaysia stock data and Malaysian macro series as pandas DataFrames, cach… |
-| 2026-11-20 07:10:18 | [langgraph-dbos](https://pypi.org/project/langgraph-dbos/) | 0.1.0 | Lakshit Mathur | 46.6 kB | Durable LangGraph agents on DBOS: crash recovery, durable human-in-the-loop and… |
-| 2026-11-20 07:10:42 | [serpscraper-dev](https://pypi.org/project/serpscraper-dev/) | 1.2.0 | "SerpScraper.Dev" <support@se… | 24.0 kB | Python SERP API client: real-time Google search results, AI Overviews, Google T… |
-| 2026-11-20 07:10:57 | [tencentcloud-agentobs-opentelemetry-api](https://pypi.org/project/tencentcloud-agentobs-opentelemetry-api/) | 0.1.0b1 | Tencent Cloud CLS Team | 71.8 kB | OpenTelemetry Python API |
-| 2026-11-20 07:11:15 | [tencentcloud-agentobs-opentelemetry-semantic-conventions](https://pypi.org/project/tencentcloud-agentobs-opentelemetry-semantic-conventions/) | 0.1.0b1 | Tencent Cloud CLS Team | 237.8 kB | OpenTelemetry Semantic Conventions |
-| 2026-11-20 07:11:34 | [tencentcloud-agentobs-opentelemetry-proto](https://pypi.org/project/tencentcloud-agentobs-opentelemetry-proto/) | 0.1.0b1 | Tencent Cloud CLS Team | 25.1 kB | OpenTelemetry Python Proto |
-| 2026-11-20 07:12:12 | [tencentcloud-agentobs-opentelemetry-sdk](https://pypi.org/project/tencentcloud-agentobs-opentelemetry-sdk/) | 0.1.0b1 | Tencent Cloud CLS Team | 185.3 kB | OpenTelemetry Python SDK |
-| 2026-11-20 07:13:55 | [axioapi](https://pypi.org/project/axioapi/) | 1.0.0 |  | 39.2 kB | Official Python SDK for the AxioAPI REST API: temp mail API, receive SMS and OT… |
-| 2026-11-20 07:16:57 | [cc-safety-check](https://pypi.org/project/cc-safety-check/) | 0.2.0 | AI가드레일 | 18.4 kB | Claude Code 설정 파일을 읽어 사고 나기 쉬운 빈칸 8문항을 보여 주는 읽기 전용 점검기 |
-| 2026-11-20 07:17:09 | [file-split-kit](https://pypi.org/project/file-split-kit/) | 0.1.0 | fishyy119 <fishyy109@foxmail.… | 7.8 kB | Split, verify, and restore large files using JSON manifests and SHA-256. |
-| 2026-11-20 07:17:40 | [quantcore-circuits](https://pypi.org/project/quantcore-circuits/) | 0.0.1 | Quantcore | 6.5 MB | Quantcore circuits: KQCircuits-native superconducting-qubit layout, routing, si… |
+| 2026-11-20 06:54:17 | [eggpass-auth](https://pypi.org/project/eggpass-auth/) | 0.1.1 |  | 11.8 MB | Async Python bindings for the eggpass-auth OAuth client |
+| 2026-11-20 07:22:25 | [omni-reason-client](https://pypi.org/project/omni-reason-client/) | 1.0.2 |  | 31.7 kB | Omni-Reason hosted API client with optional local model, data and benchmark com… |
+| 2026-11-20 07:23:38 | [meldfabric](https://pypi.org/project/meldfabric/) | 0.1.0b1 | MeldFabric Contributors | 821.1 kB | Configuration-driven runtime and control plane for Strands Agents |
+| 2026-11-20 07:23:53 | [mcp-server-huaweicloud-rds-supabase](https://pypi.org/project/mcp-server-huaweicloud-rds-supabase/) | 0.4.1 |  | 88.9 kB | Huawei Cloud RDS Supabase (self-hosted) management MCP Server |
+| 2026-11-20 07:23:59 | [omni-reason-tools](https://pypi.org/project/omni-reason-tools/) | 1.0.0 | Omni-Reason Team | 172.3 kB | CPU tools for Omni-Reason data downloads and fixed benchmark evaluation |
+| 2026-11-20 07:24:06 | [gridproj](https://pypi.org/project/gridproj/) | 0.0.1a1 | jiangnanquan | 2.5 kB | Declarative 1D-to-2D Grid & Spreadsheet Formula Projection Compiler (Pre-releas… |
+| 2026-11-20 07:24:09 | [teaching-over-solving](https://pypi.org/project/teaching-over-solving/) | 0.1.1 | Junyi Yao, Zihao Zheng, Baich… | 33.9 kB | Teaching-over-solving diagnostic: separate how well an LLM tutor solves from ho… |
+| 2026-11-20 07:26:19 | [omni-reason](https://pypi.org/project/omni-reason/) | 1.0.1 | Omni-Reason Team | 436.7 kB | Omni-Reason video task inference |
+| 2026-11-20 07:27:53 | [omni-reason-training](https://pypi.org/project/omni-reason-training/) | 1.0.1 | Omni-Reason Team | 285.2 kB | Trainium training and complete recovery for Omni-Reason |
+| 2026-11-20 07:29:09 | [lingrep](https://pypi.org/project/lingrep/) | 0.9.0 |  | 11.4 MB | Japanese tokenization with Vibrato and corpus search with lingrep |
+| 2026-11-20 07:31:58 | [pktbin](https://pypi.org/project/pktbin/) | 0.1.0 | Pktbin | 192.6 kB | Python client for pktbin: capture the traffic your code sends, and query its pa… |
+| 2026-11-20 07:32:01 | [pytest-pktbin](https://pypi.org/project/pytest-pktbin/) | 0.1.0 | Pktbin | 13.3 kB | pytest fixtures for pktbin: a new capture for each test, to check the traffic i… |
+| 2026-11-20 07:32:07 | [runara](https://pypi.org/project/runara/) | 0.1.0 | Runara | 42.4 kB | Fine-tune open models on Runara. You write the training loop. |
+| 2026-11-20 07:36:27 | [wmshare-qlib](https://pypi.org/project/wmshare-qlib/) | 0.5.0 | open-winmale contributors | 181.0 kB | Qlib-native data layer powered by wmshare: A-share history panels, score CSVs a… |
+| 2026-11-20 07:38:09 | [scriber-core](https://pypi.org/project/scriber-core/) | 1.0.0 | Scriber Labs & Eigenscribe In… | 1.3 MB | Deterministic workspace baseline, styling tokens, and visualization rules for s… |
+| 2026-11-20 07:39:24 | [theoc-agentgrid-protocol](https://pypi.org/project/theoc-agentgrid-protocol/) | 0.1.0 |  | 21.8 kB | Signed agent identity, handoffs, and receipts for AgentGrid |
+| 2026-11-20 07:39:36 | [ventulix](https://pypi.org/project/ventulix/) | 0.0.1 |  | 1.3 kB |  |
+| 2026-11-20 07:42:22 | [noun-probe](https://pypi.org/project/noun-probe/) | 1 | Westfield Innovations LLC | 19.5 kB | Reader for the Noun Probe. The words are read from https://azus.ai/tools/noun-p… |
+| 2026-11-20 07:45:30 | [proxymail-qa](https://pypi.org/project/proxymail-qa/) | 1.0.0 | Sidequest Explorers Inc | 45.2 kB | Test inboxes for sign-up, login and password-reset tests in Python: make a test… |
+| 2026-11-20 07:50:17 | [jalali-calendar-mcp](https://pypi.org/project/jalali-calendar-mcp/) | 0.2.1 | Saeed Noshadi | 25.1 kB | MCP server and library for the Iranian (Jalali) calendar: date conversion, mont… |
+| 2026-11-20 07:55:02 | [telegram-channels-mcp](https://pypi.org/project/telegram-channels-mcp/) | 0.1.0 | Kochurin | 797.5 kB | MCP server that lets Claude read, search, analyze and post to your Telegram cha… |
+| 2026-11-20 07:58:01 | [html-visual-compare](https://pypi.org/project/html-visual-compare/) | 0.2.0 | El Fenomeno | 36.0 kB | A command-line tool and Python library that screenshot a reference and a candid… |
+| 2026-11-20 07:58:08 | [skill-exposure-manifest](https://pypi.org/project/skill-exposure-manifest/) | 0.2.0 | El Fenomeno | 31.5 kB | A Python library that binds skill names and aliases to their SKILL.md source by… |
+| 2026-11-20 07:58:14 | [generalforecast](https://pypi.org/project/generalforecast/) | 0.2.0 | General Forecast, Inc. | 629.9 kB | Python SDK and gf CLI for General Forecast: hosted predictors on structured dat… |
+| 2026-11-20 08:03:01 | [stagesat](https://pypi.org/project/stagesat/) | 0.1.0 |  | 148.8 kB | A floating-point constraint solver via staged optimization |
+| 2026-11-20 08:06:19 | [zaphalo-whatsapp-api](https://pypi.org/project/zaphalo-whatsapp-api/) | 0.1.1 |  | 35.7 kB | Python SDK for ZapHalo Whatsapp API |
+| 2026-11-20 08:10:01 | [brg_framework](https://pypi.org/project/brg_framework/) | 0.1.1 | Block Research Group - ETH Zu… | 6.0 MB | The Block Research Group packages, with the skill and MCP server for coding age… |
+| 2026-11-20 08:12:27 | [numbunch](https://pypi.org/project/numbunch/) | 0.1.0 | Numbunch contributors | 54.5 kB | Numbunch Python SDK: batched capture, local flag evaluation (sha1_v1 and murmur… |
+| 2026-11-20 08:13:35 | [nai-cli](https://pypi.org/project/nai-cli/) | 0.1.0 |  | 537.9 kB | Command-line client for NovelAI image generation |
+| 2026-11-20 08:14:50 | [askap-patchwork](https://pypi.org/project/askap-patchwork/) | 0.1.0 | Tim Galvin <tim.galvin@csiro.… | 486.7 kB | The pirate quilt. |
+| 2026-11-20 08:14:51 | [mi-fitness-sync](https://pypi.org/project/mi-fitness-sync/) | 0.1.0 | kevinkwee | 287.7 kB | Unofficial Python CLI for accessing Mi Fitness workout data and manually syncin… |
+| 2026-11-20 08:15:05 | [papra-mcp](https://pypi.org/project/papra-mcp/) | 0.2.0 |  | 65.5 kB | MCP server for the Papra document management API |
+| 2026-11-20 08:16:32 | [fasttext-wheel-woa](https://pypi.org/project/fasttext-wheel-woa/) | 0.9.2 | kirinekoneko | 327.5 kB | fasttext Python bindings - Windows on ARM (ARM64) fork with native build fixes |
+| 2026-11-20 08:17:27 | [agentprobe-evals](https://pypi.org/project/agentprobe-evals/) | 0.2.0 | Amit Ginzberg | 140.1 kB | Evaluation and regression-testing platform for LLM agents |
+| 2026-11-20 08:20:13 | [ensurv](https://pypi.org/project/ensurv/) | 0.1.0 |  | 484.0 kB | Generative survival modeling for right-censored time-to-event data |

@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T06:54:17Z,eggpass-auth,0.1.1,,MIT,11776447,Async Python bindings for the eggpass-auth OAuth client
+2026-11-20T07:22:25Z,omni-reason-client,1.0.2,,Apache-2.0,31731,"Omni-Reason hosted API client with optional local model, data and benchmark commands"
+2026-11-20T07:23:38Z,meldfabric,0.1.0b1,MeldFabric Contributors,Apache-2.0,821112,Configuration-driven runtime and control plane for Strands Agents
+2026-11-20T07:23:53Z,mcp-server-huaweicloud-rds-supabase,0.4.1,,Apache-2.0,88922,Huawei Cloud RDS Supabase (self-hosted) management MCP Server
+2026-11-20T07:23:59Z,omni-reason-tools,1.0.0,Omni-Reason Team,Apache-2.0; separately obtained resources retain their component terms,172279,CPU tools for Omni-Reason data downloads and fixed benchmark evaluation
+2026-11-20T07:24:06Z,gridproj,0.0.1a1,jiangnanquan,LicenseRef-Proprietary-Preview,2478,Declarative 1D-to-2D Grid & Spreadsheet Formula Projection Compiler (Pre-release)
+2026-11-20T07:24:09Z,teaching-over-solving,0.1.1,"Junyi Yao, Zihao Zheng, Baichuan Li",MIT,33938,Teaching-over-solving diagnostic: separate how well an LLM tutor solves from how well it teaches.
+2026-11-20T07:26:19Z,omni-reason,1.0.1,Omni-Reason Team,Original contributions: Apache-2.0; inherited LTX components: LTX-2 Community License,436737,Omni-Reason video task inference
+2026-11-20T07:27:53Z,omni-reason-training,1.0.1,Omni-Reason Team,Original contributions: Apache-2.0; inherited components retain their terms,285237,Trainium training and complete recovery for Omni-Reason
+2026-11-20T07:29:09Z,lingrep,0.9.0,,MIT,11392925,Japanese tokenization with Vibrato and corpus search with lingrep
+2026-11-20T07:31:58Z,pktbin,0.1.0,Pktbin,MIT,192557,"Python client for pktbin: capture the traffic your code sends, and query its packets and requests."
+2026-11-20T07:32:01Z,pytest-pktbin,0.1.0,Pktbin,MIT,13273,"pytest fixtures for pktbin: a new capture for each test, to check the traffic it sends."
+2026-11-20T07:32:07Z,runara,0.1.0,Runara,Apache-2.0,42417,Fine-tune open models on Runara. You write the training loop.
+2026-11-20T07:36:27Z,wmshare-qlib,0.5.0,open-winmale contributors,BSD-3-Clause,181010,"Qlib-native data layer powered by wmshare: A-share history panels, score CSVs and instrument universes in Microsoft Qlib format"
+2026-11-20T07:38:09Z,scriber-core,1.0.0,Scriber Labs & Eigenscribe Inc.,MIT,1346300,"Deterministic workspace baseline, styling tokens, and visualization rules for scientific and development agents."
+2026-11-20T07:39:24Z,theoc-agentgrid-protocol,0.1.0,,,21784,"Signed agent identity, handoffs, and receipts for AgentGrid"
+2026-11-20T07:39:36Z,ventulix,0.0.1,,,1322,
+2026-11-20T07:42:22Z,noun-probe,1,Westfield Innovations LLC,LicenseRef-Westfield-Noun-Probe-Terms,19501,Reader for the Noun Probe. The words are read from https://azus.ai/tools/noun-probe/ each time; none ship in this package.
+2026-11-20T07:45:30Z,proxymail-qa,1.0.0,Sidequest Explorers Inc,MIT,45194,"Test inboxes for sign-up, login and password-reset tests in Python: make a test address, then wait for the code or link from the email."
+2026-11-20T07:50:17Z,jalali-calendar-mcp,0.2.1,Saeed Noshadi,MIT,25088,"MCP server and library for the Iranian (Jalali) calendar: date conversion, months, official holidays and workdays. Offline, no account."
+2026-11-20T07:55:02Z,telegram-channels-mcp,0.1.0,Kochurin,MIT,797524,"MCP server that lets Claude read, search, analyze and post to your Telegram channels through your own account"
+2026-11-20T07:58:01Z,html-visual-compare,0.2.0,El Fenomeno,MIT,36050,"A command-line tool and Python library that screenshot a reference and a candidate page, then score and report the visual difference."
+2026-11-20T07:58:08Z,skill-exposure-manifest,0.2.0,El Fenomeno,MIT,31543,"A Python library that binds skill names and aliases to their SKILL.md source bytes, so a runtime resolves only exact, verified names."
+2026-11-20T07:58:14Z,generalforecast,0.2.0,"General Forecast, Inc.",MIT,629941,Python SDK and gf CLI for General Forecast: hosted predictors on structured data foundation models
+2026-11-20T08:03:01Z,stagesat,0.1.0,,MIT,148762,A floating-point constraint solver via staged optimization
+2026-11-20T08:06:19Z,zaphalo-whatsapp-api,0.1.1,,AGPL-3.0-only,35668,Python SDK for ZapHalo Whatsapp API
+2026-11-20T08:10:01Z,brg_framework,0.1.1,Block Research Group - ETH Zurich,MIT,5951607,"The Block Research Group packages, with the skill and MCP server for coding agents"
+2026-11-20T08:12:27Z,numbunch,0.1.0,Numbunch contributors,MIT,54474,"Numbunch Python SDK: batched capture, local flag evaluation (sha1_v1 and murmur3_v1), exceptions, OpenTelemetry"
+2026-11-20T08:13:35Z,nai-cli,0.1.0,,MIT,537852,Command-line client for NovelAI image generation
+2026-11-20T08:14:50Z,askap-patchwork,0.1.0,Tim Galvin <tim.galvin@csiro.au>,BSD-3-Clause,486697,The pirate quilt.
+2026-11-20T08:14:51Z,mi-fitness-sync,0.1.0,kevinkwee,MIT,287671,Unofficial Python CLI for accessing Mi Fitness workout data and manually syncing activities that failed to reach Strava
+2026-11-20T08:15:05Z,papra-mcp,0.2.0,,Apache-2.0,65468,MCP server for the Papra document management API
+2026-11-20T08:16:32Z,fasttext-wheel-woa,0.9.2,kirinekoneko,MIT,327497,fasttext Python bindings - Windows on ARM (ARM64) fork with native build fixes
+2026-11-20T08:17:27Z,agentprobe-evals,0.2.0,Amit Ginzberg,MIT,140140,Evaluation and regression-testing platform for LLM agents
+2026-11-20T08:20:13Z,ensurv,0.1.0,,,484017,Generative survival modeling for right-censored time-to-event data
