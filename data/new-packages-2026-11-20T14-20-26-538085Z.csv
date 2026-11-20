@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T12:57:26Z,freefield,1.1.1,"Ole Bialas <ole.bialas@ukbonn.de>, Paul Friedrich <paul.friedrich@uni-leipzig.de>, Lukas Lange <luk…",MIT,19051108,A Toolbox for Psychoacoustic Experiments
+2026-11-20T13:20:10Z,whape,1.0.0,,,22465,Official Python SDK for Whape WhatsApp Developer API Gateway
+2026-11-20T13:20:56Z,grow-openobserve,0.2.0,Grow Codes <opensource@grow.codes>,Apache-2.0,324458,"Grow Codes SDK for OpenObserve (unofficial, community maintained)"
+2026-11-20T13:22:11Z,turing-engine,2.0.0,Ishan Gupta,,6864951,Turing Engine: Subspace-Compressed High-Performance LLM Inference & Serving Runtime for 70B+ LLMs on single consumer GPUs
+2026-11-20T13:22:18Z,langchain-turing,0.1.0,,Apache-2.0,18856,LangChain chat model for a Turing Engine server (turing serve)
+2026-11-20T13:22:18Z,llama-index-llms-turing,0.1.0,,Apache-2.0,15079,LlamaIndex LLM for a Turing Engine server (turing serve)
+2026-11-20T13:22:38Z,correlated-hops,0.1.0,Stuart Flannigan,MIT,18229087,Local hierarchies of pure states for communicating Gaussian environments
+2026-11-20T13:23:09Z,simpledocbuilder,0.1.0,Guillaume GUGUIN <guillaume.guguin@gmail.com>,MIT,57521,"A modular and simple Python library to build Microsoft Word (.docx) documents programmatically, block by block."
+2026-11-20T13:23:22Z,cmcr,0.1.0,LetsGoDada,MIT,11266,Chess Move Calculation Return: lightweight candidate-move selector returning diverse legal moves for external chess engines
+2026-11-20T13:24:43Z,fitpick,0.1.1,group05,MIT,19971,"A zero-dependency CLI that scores foods for fitness-conscious buyers: value-for-money, suggested use, and a 0-100 recommendation score."
+2026-11-20T13:24:49Z,franscor,0.2.0,Lamstra Labs,Apache-2.0,182767,"FRANSCOR — secure interoperability layer for AI agents (identity, discovery, delegation, signed evidence)"
+2026-11-20T13:25:11Z,warmpass,0.1.0,Emre Kurşun,MIT,63608,Run and schedule coding agent warmups to start usage windows early.
+2026-11-20T13:25:25Z,summa-propisyu,0.1.0,Alexei Kolev,MIT,19426,"Amounts in words for invoices and contracts: Russian, Ukrainian, Lithuanian, English, French. Сумма прописью."
+2026-11-20T13:26:23Z,zoubiskel3d,1.0.1,,BSD-3-Clause,10167282,3D skeletonization with a C++ backend
+2026-11-20T13:28:46Z,solana-launch-forensics,0.2.1,tdkrHuang,MIT,50183,Read-only forensics for pump.fun style token launches
+2026-11-20T13:29:58Z,pagespool,1.0.0,,,304473,A client library for accessing pagespool
+2026-11-20T13:30:25Z,enigmoss,1.0.0,,MIT,181078,"Official Python client of the Enigmoss Project API v4: payments, wallets, payouts, refunds, transfers and signed webhooks."
+2026-11-20T13:31:15Z,rrss-sdk-wrapper,0.2.0,Ferran Suils,MIT,89585,"Unified social media data client (Instagram, Threads, TikTok)"
+2026-11-20T13:31:36Z,helixvault,0.1.0,Nitish Pattar <nitishpattar7@gmail.com>,MIT,22063,Python library for digital data encoding into DNA sequences
+2026-11-20T13:33:33Z,openjiuwen-agent-gateway,0.1.0,,Apache-2.0,1727009,Agent Gateway - channel/protocol front for AgentServer
+2026-11-20T13:35:28Z,agentic-analytics,0.1.0,Biplob Chakraborty,MIT,1482473,"A benchmark harness for text-to-SQL agents: scores analytics agents against gold SQL over dataset packs, without an LLM judge, with a bundled UK house-price pack."
+2026-11-20T13:36:17Z,grow-signoz,0.2.0,Grow Codes <opensource@grow.codes>,Apache-2.0,321676,"Grow Codes SDK for SigNoz (unofficial, community maintained)"
+2026-11-20T13:38:11Z,giao-integrals,0.9.0,,"BSD 3-Clause License Copyright (c) 2026, giao-integrals contributors All rights reserved. Redistrib…",10466127,Cartesian integrals for complex GIAO/London Gaussians
+2026-11-20T13:40:36Z,kiln-webgpu,0.3.0,Erdem Ozkan,MIT,680430,"Kiln for Python: AI models on any GPU (WebGPU) or the CPU, from their original safetensors or GGUF files, with transformers-style pipelines"
+2026-11-20T13:41:00Z,sfdfont,0.0.1,TakWolf,MIT,241402,A pure Python library for FontForge Spline Font Database (SFD) files
+2026-11-20T13:41:38Z,mcpbooster,0.0.1,,MIT,2135,MCP Booster — curated MCP gateway and context optimizer
+2026-11-20T13:49:11Z,sites-conformes-faq,0.1.0,,MIT,22803,Questions / réponses managed once as Wagtail snippets and reusable across pages.
+2026-11-20T13:50:12Z,staticvet,0.1.0a9,Wu Jiaxuan <a3176345609@163.com>,MIT,319617,AI-assisted Python source code security audit toolkit
+2026-11-20T13:50:29Z,pycoastkit,0.1.0,Salika Thilakarathne,MIT,103803,"A toolkit for sandy coasts: storms and storm clusters, beach profiles, shorelines, sandbars, storm erosion, beach recovery and vulnerability, with Hasaki (Japan) data tools."
+2026-11-20T13:51:08Z,edpay,1.6.2,EDPay Engineering <dev@edutecka.com>,MIT,33134,Official EDPay SDK for Python - multi-gateway payment orchestration platform
+2026-11-20T13:51:37Z,pkg-peiwen-stat,0.1.0,Peiwen Xu <pwshyu@gmail.com>,MIT,16792,小型统计包：演示真实项目的结构（子包、随包数据、命令行入口、运行时依赖）
+2026-11-20T13:51:39Z,edgemetry,0.3.0,Ilker Halil Turer,MIT,37092,Span-level latency store for OpenTelemetry traces
+2026-11-20T13:51:57Z,sites-conformes-footer-partners,0.1.0,,MIT,22768,Sitewide DSFR footer partner logos (fr-footer__partners) for sites-conformes.
+2026-11-20T13:52:33Z,grow-graylog,0.2.0,Grow Codes <opensource@grow.codes>,Apache-2.0,286221,"Grow Codes SDK for Graylog Open (unofficial, community maintained)"
+2026-11-20T13:53:02Z,beancount-india,0.1.0,Arpan Kapoor,GPL-2.0-only,30692,Beancount importers for Indian financial institutions
+2026-11-20T13:54:35Z,sites-conformes-header-logo,0.1.0,,MIT,17403,Replace the sites-conformes header service title text with a logo image.
+2026-11-20T13:56:18Z,sites-conformes-posthog,0.1.0,,MIT,10838,Identify authenticated CMS users to PostHog so team activity can be excluded from insights.
+2026-11-20T13:57:57Z,sites-conformes-rgaa,0.1.0,,MIT,19062,RGAA accessibility helpers for sites-conformes: wrap decorative emoji so screen readers skip them.
+2026-11-20T13:58:46Z,hegemony-steps-probe,0.48.0,,AGPL-3.0-or-later,84258,"Unauthenticated probe step handlers (reachability, DNS, HTTP, TLS) for Hegemony"
+2026-11-20T13:58:48Z,hegemony-steps-evidence,0.48.0,,AGPL-3.0-or-later,37716,Evidence assertion and comparison step handlers for Hegemony
+2026-11-20T13:58:50Z,hegemony-steps-shell,0.48.0,,AGPL-3.0-or-later,41407,Remote shell execution step handlers for Hegemony (Linux/Unix hosts; WinRM planned)
+2026-11-20T13:58:52Z,hegemony-steps-monitor,0.48.0,,AGPL-3.0-or-later,22690,Background connectivity-monitor step handlers for Hegemony
+2026-11-20T13:59:34Z,ducta-server,0.3.0,Faustino Lopez Ramos,Apache-2.0,6194591,Ducta's web server: the REST API and the web app for Ducta data pipelines.
+2026-11-20T14:00:23Z,wagtail-notion-form,0.1.0,,MIT,15718,Sync a sites-conformes contact FormPage's submissions into a Notion database.
+2026-11-20T14:02:12Z,5mghost-yonder,0.4.0,,,164964,Standalone Yonder CLI and bundled agent skill
+2026-11-20T14:04:36Z,wagtail-block-clipboard,0.1.0,,MIT,28071,Copy StreamField blocks and paste them in other fields and pages of the Wagtail admin.
+2026-11-20T14:10:35Z,frienden,0.10.0,FRIENDEN,,143204,FRIENDEN CLI and browser-based OAuth SDK for other command-line apps
+2026-11-20T14:11:19Z,enzo-agent,0.1.0,Atishay Jain,Apache-2.0,385979,"Enzo: a private, local-first personal AI agent that runs on your own model accounts"
+2026-11-20T14:13:02Z,toppkg,0.0.1,Vladyslav Kotko,,3139,
+2026-11-20T14:13:48Z,livekit-plugins-avarole,0.1.0,Avarole <support@avarole.com>,Apache-2.0,38582,"Avarole plugin for LiveKit Agents: a live avatar that talks, listens and acts inside your LiveKit room"
+2026-11-20T14:18:36Z,bq-cost-guard,0.1.0,Mehdi Leqsiouer,MIT,77665,Estimate BigQuery query cost and lint FinOps anti-patterns before merge.
+2026-11-20T14:19:21Z,builditomi,0.1.0,SahooTek,MIT,11632,"Official BuildItOmi API client: build, publish and run full-stack apps from one prompt."
+2026-11-20T14:20:10Z,bigmorph,0.0.0,Mazlum TOSUN,Apache-2.0,11847,"Schema and data migrations for BigQuery: plan, cost, backfill, rollback. Same table, new shape."
