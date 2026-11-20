@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T20:20:11Z,bazaar-contrib-antigravity,0.3.0rc1,,Apache-2.0,45722,Antigravity ACP harness provider for Bazaar Compute Node
+2026-11-20T20:20:34Z,mdpeek,0.0.1,Jon Grace-Cox <30441316+jongracecox@users.noreply.github.com>,MIT,46863,Progressive exposure for markdown: navigate large documents by section and query their tables
+2026-11-20T20:22:08Z,adk-datacircle,0.1.0,,MIT,21144,Agent Development Kit (ADK) tools for the Datacircle API: find the best GTM APIs
+2026-11-20T20:24:32Z,easy-searxng-mcp-server,2026.11.20,Sheldon Robinson,MIT,54338,"Open-source MCP server for SearXNG metasearch with VectorRAG reranking, audio transcription (FasterWhisper), and multi-format document support"
+2026-11-20T20:25:20Z,aiopvpc-ng,5.1.1,Eugenio Panadero <eugenio.panadero@gmail.com>,MIT,171047,Next-generation async library to retrieve Spanish Electricity hourly prices (PVPC)
+2026-11-20T20:29:04Z,safescope-scanner,0.2.1,Karim,MIT,118099,"Safe, non-intrusive web security posture scanner: HTTPS, TLS, security headers, cookies and more."
+2026-11-20T20:29:27Z,fleetgym,0.1.0a1,Mohsen Dastpak,MIT,588635,Gymnasium and PettingZoo environments for reinforcement learning on stochastic and dynamic vehicle routing problems.
+2026-11-20T20:30:25Z,openff-nagl,0.6.1.post3,Lily Wang <lily.wang@openforcefield.org>,MIT,89631474,A playground for applying graph convolutional networks to molecules.
+2026-11-20T20:30:40Z,vice-ai,0.1.1,Niklas Jacobsen,MIT,146249,"Zero-UI ambient memory for your notes. Jev makes judgments, code makes decisions."
+2026-11-20T20:30:58Z,amr-class-count,1.1.0,Bharat Arora,MIT,27896,"Training-free class-matched count of AMRFinderPlus determinants, a baseline for annotation-based resistance models"
+2026-11-20T20:33:18Z,netbox-netscaler,0.1.0,sieteunoseis <jeremy.worden@gmail.com>,Apache-2.0,65935,"Read-only NetBox plugin showing Citrix NetScaler VIPs, service group members and GSLB names on VMs and devices"
+2026-11-20T20:34:02Z,scitex-rich-pdf,0.1.1,Yusuke Watanabe <noreply@scitex.ai>,AGPL-3.0-only,15321397,Reusable SciTeX PDF viewer with region overlays and a synchronized feed
+2026-11-20T20:34:23Z,git-repo-guard,1.0.0,repo-guard contributors,MIT,107806,Scan every git clone for hidden malware before any of its code can run.
+2026-11-20T20:34:33Z,pydistlock,0.2.0,,MIT,4715864,"Distributed locks (mutex, read/write, semaphore) with leases, on top of a Rust client"
+2026-11-20T20:36:52Z,flagsmith-mcp,0.1.2,FlagForge Team,,20811,Model Context Protocol (MCP) server for Flagsmith feature flags and Bayesian experimentation
+2026-11-20T20:38:38Z,adfontes,0.1.0,,MIT,15368172,Full-text academic and technical literature reader CLI and stdio MCP server for coding agents
+2026-11-20T20:40:38Z,meds-algorithm-retain,0.1.0,Florent Pollet <flo1.raymond@gmail.com>,MIT,162483,"RETAIN (Choi et al., NeurIPS 2016) reverse-time attention model for MEDS, a supervised classifier behind the MEDS algorithm contract."
+2026-11-20T20:42:48Z,strands-revsec,0.1.1,"""RevSec / RevUp AI, Inc."" <hello@revupai.com>",Apache-2.0,42284,"RevSec for Strands Agents: check each tool call before it runs (MCP tools against their MCP server), each prompt and tool result, and register the agent."
+2026-11-20T20:45:51Z,polars-umap,0.1.0,Jeroen Janssens,MIT,53790534,"UMAP dimensionality reduction as a Polars plugin, powered by Apple's embedding-atlas Rust implementation"
+2026-11-20T20:46:31Z,besslib,0.1.0,Islam Ghonaiem <ghonaiem@vgtai.com>,BSD-3-Clause,13355046,"State of health from battery storage operating data, with confidence bands, in the fields of EU Regulation 2023/1542 Annex VII."
+2026-11-20T20:53:13Z,simcert,1.7.0,Andrés Monreal-Hernández <andres.monreal@ues.mx>,MIT,43049,"Unified Quality-Control, Structure Validation, and Reproducibility Meta-Framework for Molecular Simulations & AI Models (MD, Docking, QM, Adsorption, AlphaFold, FEP, QSAR, Catalysis, NEB/Kinetics, Sp…"
+2026-11-20T20:55:40Z,lidar-rs,0.2.0,Qiusheng Wu <giswqs@gmail.com>,MIT,92668421,Pure-Rust port of opengeos/lidar for delineating nested surface depressions and mounts in DEMs (powered by terrio and richdem)
+2026-11-20T20:56:41Z,aegis-runtime,0.2.0,,MIT,11048,"Zero-trust deterministic flight controller for AI agents: circuit breakers, state locks, atomic rollbacks, and SHA-256 audit logs."
+2026-11-20T20:56:54Z,americanbible-api-bible-sdk,1.5.0,American Bible Society,Apache-2.0,248895,Python SDK for the api.bible REST API
+2026-11-20T20:57:49Z,rdiffmount,0.0.1,Patrik Dufresne <patrik@ikus-soft.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",104027,FUSE mount for cloud services for rdiff-backup.
+2026-11-20T21:07:47Z,codearcheo,0.2.0,,MIT,379467,"Interroge n'importe quel projet, comprends ses décisions techniques, améliore-les."
+2026-11-20T21:09:17Z,openst133,0.1.0,,MIT,8371328,"Open driver, ost command and Python bindings for Princeton Instruments ST-133 USB camera controllers"
+2026-11-20T21:11:57Z,runlab-client,0.1.0,omer-nachman,MIT,24865,"Python client for the RunLab research API: pre-registered A/B comparisons over seeds, verdicts with confidence intervals. Standard library only."
+2026-11-20T21:12:19Z,runlab,0.0.1,omer-nachman,MIT,4117,RunLab's Python client. This package has no code: it installs runlab-client.
+2026-11-20T21:12:22Z,aws-durable-execution-sdk-python-extensions,0.1.0a1,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,279196,"Custom durable operations for the AWS Durable Execution SDK for Python, such as running a job in an AWS Lambda MicroVM"
+2026-11-20T21:13:42Z,fdia-analysis,0.22.0,Benjamin Myers,MIT,229669,"State estimation, attack localization, federated training and trusted-meter selection on fdia-graph timelines."
+2026-11-20T21:16:50Z,netbox-mcp-server,1.3.0,NetBox Labs,Apache-2.0,85350,A read-only MCP server for NetBox
+2026-11-20T21:21:06Z,miragem,0.12.0,Cyril Jacquet,GPL-3.0-only,23670948,"Ubuntu Touch device emulator for Linux x86_64: UBports PDK images under QEMU/KVM, in a device frame"

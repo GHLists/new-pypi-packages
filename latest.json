@@ -1,55 +1,48 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-11-20T19:18:49.547674Z",
-    "path": "data/new-packages-2026-11-20T20-20-07-546412Z.csv",
-    "to": "2026-11-20T20:20:07.546412Z"
+    "count": 33,
+    "from": "2026-11-20T20:20:07.546412Z",
+    "path": "data/new-packages-2026-11-20T21-21-13-629917Z.csv",
+    "to": "2026-11-20T21:21:13.629917Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-20T19:24:07Z",
       "package": "Sustenaut",
       "since": "2026-11-20T19:18:49.547674Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-20T19:32:27Z",
       "package": "cijukop",
       "since": "2026-11-20T19:18:49.547674Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-20T17:55:51Z",
       "package": "dcert-mcp",
       "since": "2026-11-20T17:20:13.524129Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-20T18:32:41Z",
       "package": "delta-nested-filter-tracer",
       "since": "2026-11-20T18:18:49.941185Z",
       "version": "1.0.0.post1"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-20T17:14:06Z",
-      "package": "jitxlib-pdfexport",
-      "since": "2026-11-20T16:18:41.992648Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-20T18:32:43Z",
       "package": "nolipopop",
       "since": "2026-11-20T18:18:49.941185Z",
       "version": "1.0.0"
     }
   ],
-  "serial": 43950705,
+  "serial": 43952902,
   "source_truncated": false,
-  "window": "2026-11-20T20:20:07.546412Z"
+  "window": "2026-11-20T21:21:13.629917Z"
 }
