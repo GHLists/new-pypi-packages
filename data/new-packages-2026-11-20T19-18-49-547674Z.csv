@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T18:19:55Z,g3w-admin-panoramax,0.0.1,Gis3w snc <info@gis3w.it>,Mozilla Public License 2.0 (MPL 2.0),26181,G3W-ADMIN plugin that enables Panoramax controls on all maps.
+2026-11-20T18:20:54Z,django-shopify-kit,0.2.0,Santiago Fernandez,MIT,64420,"Event bus, shop lifecycle events, staff login, dashboard shell and settings for Django apps built on django_shopify_app"
+2026-11-20T18:22:47Z,kafbit,0.0.1,,AGPL-3.0-only,1901,"Name reserved by Kafbit for irsim. Not a Python package, see github.com/kafbit/irsim."
+2026-11-20T18:22:50Z,irsim-cli,0.0.1,,AGPL-3.0-only,1930,"Name reserved by Kafbit for irsim. Not a Python package, see github.com/kafbit/irsim."
+2026-11-20T18:22:53Z,kafbit-irsim,0.0.1,,AGPL-3.0-only,1960,"Name reserved by Kafbit for irsim. Not a Python package, see github.com/kafbit/irsim."
+2026-11-20T18:23:34Z,lookup-inline-thread-script,1.0.0,,,404,Generated package for lookup-inline-thread-script
+2026-11-20T18:23:37Z,jikulo-polki,1.0.0,,,433,Generated package for jikulo-polki
+2026-11-20T18:23:43Z,trottamail,0.1.1,"Trotta Technologies, Inc.",MIT,45868,"Trotta Mail: the secure pre-delivery inbox for AI agents and humans. Give an AI agent its own email inbox in one call, with every message screened before it is delivered. Python SDK and CLI."
+2026-11-20T18:26:39Z,g3w-admin-ps-timeseries,0.0.1,Gis3w snc <info@gis3w.it>,Mozilla Public License 2.0 (MPL 2.0),824122,G3W-ADMIN integration of the QGIS Time Series plugin
+2026-11-20T18:26:49Z,watsonx-gov-toolkit,0.1.0,Leonardo Furnielis <leonardofurnielis@outlook.com>,Apache-2.0,42655,watsonx-gov-toolkit integrated capabilities to IBM watsonx.governance suite.
+2026-11-20T18:29:15Z,g3w-admin-pdnd,2.0.2,Gis3w snc <info@gis3w.it>,Mozilla Public License 2.0 (MPL 2.0),925971,G3W-ADMIN plugin for Italy PDND service
+2026-11-20T18:30:00Z,jetbrains-pulumi-utils,999.9.9,,,968,Stub package that mitigates Dependency Confusion attacks
+2026-11-20T18:31:03Z,adafruit-circuitpython-vl53l5cx,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,MIT,181737,CircuitPython driver for the Adafruit VL53L5CX Time-of-Flight Distance 8x8 Pixel Camera - STEMMA QT / Qwiic
+2026-11-20T18:31:51Z,ocp-viewer-smlibpy,0.1.0,Bernhard Walter <b_walter@arcor.de>,Apache-2.0,64795,Show smlibpy (SMLib) objects in the OCP CAD Viewer: the smlib kernel plugin for ocp-tessellate
+2026-11-20T18:32:16Z,kairos-video-clipper,0.2.4,,"MIT License Copyright (c) 2026 Gempur Bayu Permission is hereby granted, free of charge, to any per…",28911,"Kairos: AI-assisted short-form video clipping with face tracking, captions, MCP, and agent skill"
+2026-11-20T18:33:02Z,mojave-sdk,0.1.0,,MIT,30309,"Run Mojave jobs from your code: start a job, follow its progress, read its results."
+2026-11-20T18:33:44Z,g3w-admin-portal,5.0.1,Gis3w snc <info@gis3w.it>,Mozilla Public License 2.0 (MPL 2.0),48756204,G3W-ADMIN fronted portal for G3W-SUITE.
+2026-11-20T18:35:04Z,heki,0.1.0,,MIT,37771605,Experimental static checker for Python that tracks side effects and mutations across function calls
+2026-11-20T18:37:50Z,runweave,0.1.0,RunWeave contributors,Apache-2.0,818309,"Test AI agents locally: evaluations, load tests with injected provider faults, and version comparison"
+2026-11-20T18:40:47Z,ui-markdown,1.0.1,UI-Markdown Team,,125212,UI-Markdown — Interactive Notion-style visual documents in pure plain text
+2026-11-20T18:42:01Z,gfem,0.1.0,Benjamin Vial,MIT,1549827,"Differentiable finite-element electromagnetics for RF, microwave, mm-wave and superconducting quantum devices."
+2026-11-20T18:44:04Z,modelcheck,1.0.1,Lideim,MIT,95423,"Проверка: настоящая ли нейросеть за API-ключом — Claude, GPT, Gemini, DeepSeek и ещё 14 производителей"
+2026-11-20T18:46:59Z,pkgreg-buildprobe-16c409218045,0.0.2,,,493,
+2026-11-20T18:49:44Z,spendgate,0.1.0,jmmfcoutinho,Apache-2.0,532846,"A small, auditable LLM spend guard: SDK and proxy with hard budgets"
+2026-11-20T18:50:18Z,android-renef-mcp,0.1.0,android-renef-mcp contributors,Apache-2.0,240299,MCP server for Renef - dynamic instrumentation toolkit for Android ARM64
+2026-11-20T18:53:44Z,bowen,0.78,,,1289,
+2026-11-20T18:53:47Z,testing1345py,0.1.4,testing1345 contributors,MIT,28259,Signed-manifest updater for a self-hosted game or app.
+2026-11-20T18:54:37Z,uppercut-presentmon-measure,0.1.1,Uppercut Labs <packages@uppercut-labs.com>,MIT,28166,"Run startup, idle and workload scenarios against a desktop app, record frame timing with Intel PresentMon and summarize it to JSON."
+2026-11-20T18:54:41Z,uppercut-windows-window-capture,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,34401,"Capture one window on Windows with PrintWindow, as a Python module and a command line tool, to PNG or BMP."
+2026-11-20T18:54:45Z,uppercut-subprocess-runner,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,19531,"Run a subprocess with a timeout, an output cap and cancellation, and kill its whole process tree."
+2026-11-20T18:54:49Z,uppercut-sound-effect-synth,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,25308,"Deterministic procedural sound effects: envelopes, filtered noise, sweeps, seeded variation and WAV output."
+2026-11-20T18:57:46Z,featherweight,0.1.0,Aadhithya,Apache-2.0,372725,"An opinionated agent harness where Pydantic is the specification: typed agents, sub-agents and skills, with retries, failures as values, and a trace of every attempt."
+2026-11-20T18:58:32Z,modelblock,0.1.0,Research MiniModel <radmirryan@icloud.com>,MIT,3690,"ModelBlock - библиотека, созданная для использования готовых слоев и функций."
+2026-11-20T18:59:56Z,aws_sdk_cloudsearch_domain,0.0.0,,Apache-2.0,2076,Placeholder reserving the aws_sdk_cloudsearch_domain name. Not yet functional.
+2026-11-20T19:00:13Z,aws_sdk_lex_model_building_service,0.0.0,,Apache-2.0,2165,Placeholder reserving the aws_sdk_lex_model_building_service name. Not yet functional.
+2026-11-20T19:00:34Z,aws_sdk_emr,0.0.0,,Apache-2.0,1912,Placeholder reserving the aws_sdk_emr name. Not yet functional.
+2026-11-20T19:00:57Z,aws_sdk_personalize_runtime,0.0.0,,Apache-2.0,2088,Placeholder reserving the aws_sdk_personalize_runtime name. Not yet functional.
+2026-11-20T19:01:09Z,g711xz,0.0.0,Aleksandr Pimenov <167337375+wachawo@users.noreply.github.com>,MIT,70593,"Read, decode and encode callrec .g711.xz call recordings (G.711 + xz)"
+2026-11-20T19:05:58Z,aws_sdk_imagebuilder,0.0.0,,Apache-2.0,2010,Placeholder reserving the aws_sdk_imagebuilder name. Not yet functional.
+2026-11-20T19:06:12Z,aws_sdk_synthetics,0.0.0,,Apache-2.0,1989,Placeholder reserving the aws_sdk_synthetics name. Not yet functional.
+2026-11-20T19:06:23Z,aws_sdk_neptune,0.0.0,,Apache-2.0,1953,Placeholder reserving the aws_sdk_neptune name. Not yet functional.
+2026-11-20T19:06:25Z,snapodoo,0.3.0,,LGPL-3.0-only,119810,"Odoo 19 hot reload, XML/XPath linting and editor integration (sabkd language server + sabk_agent)"
+2026-11-20T19:06:54Z,aws_sdk_mq,0.0.0,,Apache-2.0,1903,Placeholder reserving the aws_sdk_mq name. Not yet functional.
+2026-11-20T19:07:55Z,wouki-lipok,1.0.0,,,483,Generated package for wouki-lipok
+2026-11-20T19:12:08Z,alibabacloud-qwenb2bmed20261116,1.0.0,Alibaba Cloud SDK,Apache License 2.0,40151,Alibaba Cloud QwenB2BMed (20261116) SDK Library for Python
+2026-11-20T19:14:11Z,lurkapi,0.1.0,"""Mesmer s.r.o."" <support@lurkapi.com>",MIT,46840,"The official LurkAPI client: public social media data as JSON from TikTok, Instagram, YouTube, Reddit, X (Twitter), LinkedIn, the Facebook Ad Library and more. No dependencies."
+2026-11-20T19:14:47Z,mcp-frappe,0.3.0,"Dennis Fiallo, Danny Fiallo",MIT,209298,"Standalone MCP server for Frappe developers: DocTypes, customizations, and app sync over HTTP"
+2026-11-20T19:16:57Z,btforest,0.25.1,Alex Paton,MIT,153473,Branching Trajectory Forests: probabilistic multi-horizon forecasting that re-serves whole historical futures on a linear spine
+2026-11-20T19:17:33Z,homelab-doctor,0.1.0,Alessio Auretto,MIT,49978,"Read-only health check for a homelab box: stale images, exposed ports, expiring certs, silent cron, disk."
