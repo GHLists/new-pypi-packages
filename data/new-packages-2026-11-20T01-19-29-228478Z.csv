@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T00:20:45Z,ludex-cli,0.60.0,,GPL-3.0-or-later,55666,Command-line frontend of ludex
+2026-11-20T00:21:28Z,ludex-tui,0.60.0,,GPL-3.0-or-later,63698,Terminal UI frontend of ludex
+2026-11-20T00:25:51Z,mtrs-sdibca-toolkit,1.4.2,,MIT,45477,Reference implementation of transport scenario ranking stability (MTRS) and staged-delay benefit-cost analysis (SDI-BCA)
+2026-11-20T00:28:19Z,virtio-accel,0.1.0a1,,MIT OR Apache-2.0,4831880,"NumPy-style tracing, TOSA export and explicit native execution for virtio-accel"
+2026-11-20T00:28:56Z,logicboole,1.1.0,Michael Walker,GPL-3.0-or-later AND CERN-OHL-S-2.0 AND MIT AND LicenseRef-Infineon-FX3-SDK,631059,"Host software for the Logic Boole 16, a 16-channel logic analyzer on USB 3"
+2026-11-20T00:29:02Z,feno-atomic-write,0.1.0,,MIT,25619,"Replace a file with complete bytes, or leave the previous bytes in place."
+2026-11-20T00:30:08Z,jetbrains-pulumi-k8s-job-runner,999.9.9,,,979,Stub package that mitigates Dependency Confusion attacks
+2026-11-20T00:32:10Z,swarmauri_tts_elevenlabs,0.1.0a1,Jacob Stewart,Apache-2.0,17570,"Alpha Swarmauri ElevenLabs text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-20T00:34:02Z,harddaysengine,0.1.1,Senior Systems Architect,MIT,1377991,An unofficial Python engine for playing Moonstone: A Hard Days Knight (1991) from your original Amiga disk images.
+2026-11-20T00:34:41Z,swarmauri_tts_elevenlabs_dialogue,0.1.0a1,Jacob Stewart,Apache-2.0,19023,"Alpha Swarmauri Elevenlabs Dialogue text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-20T00:36:12Z,ouroboroscollective-softwaregpu,1.2.0,OuroborosCollective,PolyForm-Noncommercial-1.0.0,732152,"Software GPU Processor on Multi-Core CPU (SIMT, DirectX 11, Gaming AA, VPS Governor, Android IPC)"
+2026-11-20T00:37:02Z,swarmauri_tts_gemini_dialogue,0.1.0a1,Jacob Stewart,Apache-2.0,19256,"Alpha Swarmauri Gemini Interactions dialogue text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-20T00:39:25Z,swarmauri_tts_polly,0.1.0a1,Jacob Stewart,Apache-2.0,19321,"Alpha Swarmauri Amazon Polly SigV4 text-to-speech provider with file synthesis, async execution, streaming and bounded batches; live API verification pending."
+2026-11-20T00:53:22Z,amagi-democast,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,36366,"Turn the shell blocks in your README into a demo GIF from a real run, and fail CI when the tool's output no longer matches the GIF. Pillow only: no ffmpeg, ttyd, Go or Node."
+2026-11-20T00:54:48Z,strandfolio,0.1.0,Luis Aguilera,BSD-3-Clause AND CC-BY-4.0 AND CC0-1.0 AND MIT,2402605,"A desktop workbench for DNA, RNA and protein sequence analysis"
+2026-11-20T00:56:19Z,hypercall-rfq-example,0.1.0,Hypercall,MIT,42182,"Demo helpers for the Hypercall RFQ v2 maker tutorial: EIP-712 signing, read grants, quoting, executions."
+2026-11-20T00:56:38Z,pulumi-labs-anthropic,0.1.0,,Apache-2.0,197285,"Manage the Anthropic platform as code: Claude Managed Agents, skills, workspaces, members, service accounts, workload identity federation, and more."
+2026-11-20T00:57:07Z,heliofleet-mcp,0.1.0,Soumyaranjan Dash,MIT,75897,MCP server for heliophysics spacecraft geometry from HelioFleet's published ephemerides
+2026-11-20T00:57:24Z,b53,0.1.0,1orgar,MIT,26327,"Reversible 53-bit cryptographic packing of 1-50 booleans with hidden length and random nonce into an IEEE 754 double in [0.0, 1.0)"
+2026-11-20T01:01:29Z,vsl-ros2,0.1.1,Super Semantics,MIT,161174,"ROS 2 (rclpy) adapter for VSL (VERBA Specification Language) -- reads ROS 2's own verdicts (Nav2 collision monitor, diagnostics, lifecycle, e-stop) as vsl-core Invariants and adds what ROS 2 lacks: g…"
+2026-11-20T01:04:41Z,dex-connector-monday,0.1.0,,MIT,130554,monday.com connector for Dex Flows
+2026-11-20T01:04:58Z,crogram-pythub,0.1.0,CROGRAM,MIT,152469,开源的 Python 应用打包工具：一条命令把 Python 应用打包成免装 Python、可直接运行的产物（跨平台、多 Python 版本、多架构），并支持发布到 PyPI
+2026-11-20T01:05:35Z,zenform,0.1.0,Cathal Killeen,MIT,43360,"Zen browser as code: keep your pins, essentials and folders in readable files, then plan and apply them."
+2026-11-20T01:10:17Z,multipolePDM,0.1.0,,MIT,127762,Probability density mapping for nuclear gamma-ray multipole mixing
+2026-11-20T01:11:10Z,neco-dq-framework,1.4.1,Claudio Basilico,Apache-2.0,424697,YAML-driven Data Quality framework for Databricks
+2026-11-20T01:16:42Z,gotmap,0.1.0,GOTMap Developers,MIT,35864,Query-to-Reference Atlas Mapping for Single-Cell Data via Grassmann Optimal Transport
