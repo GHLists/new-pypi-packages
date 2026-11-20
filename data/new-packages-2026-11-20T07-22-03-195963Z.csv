@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T06:22:43Z,code-retriever,0.1.1,,,109579,
+2026-11-20T06:24:01Z,aircompkit,1.0.0,"M. A. Moyeen, Kuljeet Kaur, Anjali Agarwal",MIT,130674,Security-aware simulator for over-the-air computation and over-the-air federated learning.
+2026-11-20T06:30:09Z,pyeryx-runtime-shell,0.16.0,,MIT OR Apache-2.0,80640325,"The precompiled shell runtime and its coreutils for pyeryx, for one platform"
+2026-11-20T06:32:40Z,traceAI-alephalpha,0.1.0,Future AGI,Apache-2.0,14832,OpenTelemetry instrumentation for the Aleph Alpha Python SDK
+2026-11-20T06:32:43Z,traceAI-google-generativeai,0.1.0,Future AGI,Apache-2.0,20462,OpenTelemetry instrumentation for the legacy Google Generative AI SDK (google-generativeai)
+2026-11-20T06:32:44Z,traceAI-elasticsearch,0.1.0,Future AGI,Apache-2.0,15476,OpenTelemetry instrumentation for Elasticsearch search and kNN (elasticsearch-py)
+2026-11-20T06:32:46Z,traceAI-promptflow,0.1.0,Future AGI,Apache-2.0,16971,OpenTelemetry instrumentation for Microsoft Prompt flow (promptflow-tracing)
+2026-11-20T06:34:48Z,healthcare-escalation-bench,0.1.0,"Zihao Zheng, Junyi Yao, Baichuan Li, Jiayu Long",MIT AND CC-BY-4.0,235635,"Perturbation-controlled benchmark of when healthcare LLM agents should answer, ask, abstain, or escalate."
+2026-11-20T06:36:33Z,pyxis-harness-bundle-toolkit,0.1.0rc1,Onenightcarnival,MIT,5303,"PyxisHarness bundle: the toolkit (memory, databases, S3, skills, MCP page, subscriptions, OpenTelemetry, API gateway, HTTP client); built in"
+2026-11-20T06:36:40Z,pyxis-harness-bundle-web,0.1.0rc1,Onenightcarnival,MIT,4332,PyxisHarness bundle: web_search (DeepSeek native search) and web_fetch tools; optional
+2026-11-20T06:36:44Z,pyxis-harness-checkpoint-postgres,0.1.0rc1,Onenightcarnival,MIT,4999,PyxisHarness plugin: PostgreSQL checkpointer and store
+2026-11-20T06:36:46Z,pyxis-harness-checkpoint-sqlite,0.1.0rc1,Onenightcarnival,MIT,4655,PyxisHarness plugin: SQLite checkpointer and store
+2026-11-20T06:42:00Z,codasift,0.1.0,,,1199997,A persistent context layer for AI users.
+2026-11-20T06:43:04Z,dm-imu,1.0.0,达妙科技,,80073,达妙 DM-IMU-L1 六轴 IMU 的 USB CDC Python 驱动：读取姿态数据、配置模块、执行校准
+2026-11-20T06:47:51Z,circlize-py,0.4.16,Xiaowei Zhan <zhanxw@gmail.com>,MIT,3437486,Circular visualization in Python (port of the R circlize package)
+2026-11-20T06:48:15Z,magic-hour-litellm,0.1.1,Magic Hour,MIT,16979,Magic Hour image generation through LiteLLM's CustomLLM interface
+2026-11-20T06:49:28Z,magic-hour-haystack,0.1.1,Magic Hour,MIT,14304,Recoverable Magic Hour image generation components for Haystack pipelines
+2026-11-20T06:52:14Z,pulzr-pkg,0.2.0,,MIT,53625,"Pulzr extension modules: the host that runs them in wasmtime's sandbox (pulzr_host) and the pulzr-pkg CLI that builds, validates and tests them"
+2026-11-20T06:54:47Z,srigen-mcp-402,0.1.0,,,8984,402-in-a-Box Python SDK for metered MCP tools (HTTP 402 + Idempotency + 2PC Reserve/Commit/Rollback).
+2026-11-20T06:54:49Z,linesman-bench,0.2.1,,Apache-2.0,716858,Linesman by Archee Studio: a benchmark for generated 2D drafting sheets
+2026-11-20T07:00:34Z,dash-faithkit,0.0.0,Bohee Lee,BSD-3-Clause,5895,DASH (Deletion with Abstention over Split Halves): held-out deletion audits of feature-importance claims for EEG foundation models. Name reservation; first functional release pending.
+2026-11-20T07:07:00Z,vintar,0.1.0,natori,Apache-2.0,251878,Run authorized web security regression checks in CI with JSON reports and exit codes.
+2026-11-20T07:07:55Z,macbot,0.1.0,MuQY1818,Apache-2.0,342862,"Real-robot learning on a MacBook: teleoperate, record, export to LeRobot and run ACT / pi0.5 on Apple silicon."
+2026-11-20T07:09:59Z,bursakit,0.1.1,,MIT,150713,"Bursa Malaysia stock data and Malaysian macro series as pandas DataFrames, cached locally."
+2026-11-20T07:10:18Z,langgraph-dbos,0.1.0,Lakshit Mathur,MIT,46552,"Durable LangGraph agents on DBOS: crash recovery, durable human-in-the-loop and streaming on your own Postgres"
+2026-11-20T07:10:42Z,serpscraper-dev,1.2.0,"""SerpScraper.Dev"" <support@serpscraper.dev>",MIT,24044,"Python SERP API client: real-time Google search results, AI Overviews, Google Trends, news, images, maps and SEO data as JSON. 5,000 free credits on signup."
+2026-11-20T07:10:57Z,tencentcloud-agentobs-opentelemetry-api,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,71771,OpenTelemetry Python API
+2026-11-20T07:11:15Z,tencentcloud-agentobs-opentelemetry-semantic-conventions,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,237793,OpenTelemetry Semantic Conventions
+2026-11-20T07:11:34Z,tencentcloud-agentobs-opentelemetry-proto,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,25149,OpenTelemetry Python Proto
+2026-11-20T07:12:12Z,tencentcloud-agentobs-opentelemetry-sdk,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,185320,OpenTelemetry Python SDK
+2026-11-20T07:13:55Z,axioapi,1.0.0,,MIT,39175,"Official Python SDK for the AxioAPI REST API: temp mail API, receive SMS and OTP API, email validation API, proxy API, SEO API (keyword data and backlink API), search API and social scraper APIs. One…"
+2026-11-20T07:16:57Z,cc-safety-check,0.2.0,AI가드레일,MIT,18433,Claude Code 설정 파일을 읽어 사고 나기 쉬운 빈칸 8문항을 보여 주는 읽기 전용 점검기
+2026-11-20T07:17:09Z,file-split-kit,0.1.0,fishyy119 <fishyy109@foxmail.com>,MIT,7795,"Split, verify, and restore large files using JSON manifests and SHA-256."
+2026-11-20T07:17:40Z,quantcore-circuits,0.0.1,Quantcore,GPL-3.0-or-later,6520092,"Quantcore circuits: KQCircuits-native superconducting-qubit layout, routing, simulation and analysis loop"
