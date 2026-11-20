@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T15:21:56Z,alfen-modbus,0.1.0a1,alfen-modbus contributors,Apache-2.0,70212,Read and control Alfen EV charging stations over Modbus TCP as typed Python objects.
+2026-11-20T15:24:13Z,knowledgator,1.0.3,Knowledgator,Apache-2.0,102127,Python client SDK for the Knowledgator API
+2026-11-20T15:24:21Z,pytrat-core,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,93738,"Transaction Token models, verification, scopes, context binding and audit events."
+2026-11-20T15:24:28Z,pytrat-policy,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,55618,"Policy-as-code for PyTraT: YAML policy model, compiler and evaluator."
+2026-11-20T15:24:29Z,pytrat-fastapi,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,59633,FastAPI integration for PyTraT Transaction Tokens.
+2026-11-20T15:24:31Z,pytrat-server,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,119993,Reference Transaction Token Service (TTS) for PyTraT.
+2026-11-20T15:25:26Z,code-art-studio,0.2.0,Code Art Studio team (CS1302 group08),MIT,380288,"Arrange a complete C program as a circle, a cat or hollow CODE, and prove it still compiles and means the same."
+2026-11-20T15:25:41Z,dev-isolator,0.1.0,,GPL-3.0-or-later,67241,Podman-based per-project development environment manager
+2026-11-20T15:26:47Z,pdc-api,0.4.1,Philanthropy Data Commons,AGPL-3.0-only,132669,Python client for the Philanthropy Data Commons (PDC) API
+2026-11-20T15:27:33Z,m2n2,0.0.2,"Alexandre Marchal, Daniele Raimondi",GPL-3.0-or-later,45533,Mixed effect neural networks: REML linear mixed model with a neural network embedding as random design.
+2026-11-20T15:28:40Z,punt-observe,0.1.0,Punt Labs,MIT,81739,Private diagnostics and privacy-safe telemetry for Punt Labs
+2026-11-20T15:29:06Z,tensi-shapes,0.3.0,Tristan Farran,MIT,160736,"Named tensor shapes for unannotated PyTorch: hovers, shape errors and a CLI, built on Pyrefly."
+2026-11-20T15:33:32Z,6g-dali-mlops,0.1.0,,,52288,Data Space retrieval and model publication steps for 6G-DALI
+2026-11-20T15:34:00Z,wsidicom-kernels,0.1.0,Erik O Gabrielsson <erik.o.gabrielsson@sectra.com>,Apache-2.0,2332496,"Fast, accurate SIMD resizing and pyramid downscaling for numpy arrays."
+2026-11-20T15:34:35Z,itd-chatbot-sdk,1.0.0,,BSL-1.0,417541,Unofficial Python SDK for the ITD messenger
+2026-11-20T15:37:05Z,workspace-recover,1.1.9,,,112933,Declarative workspace backup and recovery
+2026-11-20T15:39:02Z,codemix-nlu,1.0.0,,Apache-2.0,228928,"Romanized, code-mixed Hinglish intent and slot NLU on MASSIVE: how much accuracy code-mixing costs versus Devanagari, measured, and what recovers it."
+2026-11-20T15:39:11Z,zpx,0.0.1,Zynplex,,5702,CLI de ZPX Forge: conecta tu Claude Code o Codex con tu fábrica de software
+2026-11-20T15:39:57Z,adi-doctools-gui,0.5.3,Jorge Marques <jorge.marques@analog.com>,,730392,"Edit reStructuredText in the browser, as the document"
+2026-11-20T15:41:20Z,pyaddic7,0.1.0,PyAddic7 developers,MIT License Copyright (c) 2025 PyAddic7 developers Python port of two upstream MIT projects: - matc…,60472,PyAddic7 (formerly pyaddic7ed) - Python API to search and download subtitles from addic7ed.com - port of matcornic/addic7ed (Go) and same31/addic7ed-api (JavaScript)
+2026-11-20T15:41:30Z,pyaddic7ed,0.1.0,PyAddic7 developers,MIT,3318,Compatibility alias for PyAddic7 - the addic7ed.com subtitle API for Python is now published as 'pyaddic7'
+2026-11-20T15:41:37Z,live-vector-space,0.1.0,,AGPL-3.0-or-later,107532,"A whole codebase in a few KB, every byte one lookup away: a small map plus exact, numbered pieces for LLMs."
+2026-11-20T15:42:47Z,llm-wiki-engine,5.0.0,Denis Sivagin <denissvgn@gmail.com>,MIT,969011,"Standard-library-only core of the LLM Wiki engine: canonical encodings, host boundary and format validators."
+2026-11-20T15:46:14Z,safety-gymnasium2,2.0.0,Safety Gymnasium 2 Contributors,Apache-2.0 AND MIT,790379,MuJoCo environments for safe reinforcement learning.
+2026-11-20T15:49:39Z,dspy-datacircle,0.1.0,,MIT,16321,DSPy tools for the Datacircle API: find the best GTM APIs
+2026-11-20T15:52:04Z,bitlocker-dbx-rollback,1.0.0,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,256641,"Get a BitLocker drive to unlock by itself again after a Secure Boot dbx change, without the recovery key."
+2026-11-20T15:54:03Z,oenb,0.1.0,Franz X. Mohr,MIT,41921,Tools for the data web service of the Oesterreichische Nationalbank (OeNB)
+2026-11-20T15:57:05Z,jobtriage,0.3.0,Niyi Adeosun,MIT,549063,"Scrape remote job boards, keep the relevant roles, remember them in SQLite, triage them from the keyboard."
+2026-11-20T15:57:39Z,fieldsmith,0.1.4,,,228496,Fast dipole-field based magnet optimization utilities.
+2026-11-20T16:00:41Z,bevyra-hosted,0.1.0,,,3008,BeVyra hosted avatar API client
+2026-11-20T16:01:55Z,evals-promptdb,1.2.0,,MIT,141977,"A local, embedded SQLite database for versioned LLM prompts"
+2026-11-20T16:06:37Z,pqscan,0.4.1,Nayef Alharbi,Apache-2.0,452941,"Post-quantum readiness scanner for TLS, SSH, IPsec and email, scored against the Australian ASD ISM"
+2026-11-20T16:09:17Z,certgen-core,0.1.0,,,11902,Generate self-signed TLS certificates from a YAML file.
+2026-11-20T16:09:45Z,dotdoc,0.1.0rc1,Joe Marsh Rossney,MIT,28002,"Make Graphviz drawings a navigable part of your documentation: nodes link to their API entries, with previews on hover."
+2026-11-20T16:11:26Z,dflimit,0.4.0,"Yong Bao, Raymond Kan",MIT,15578100,Exact limiting distribution of the Dickey-Fuller t-ratio
+2026-11-20T16:11:33Z,dvm-planner,0.1.0,,,37183,Extract Microsoft Planner plans and tasks as JSON via an Edge browser (CDP)
+2026-11-20T16:15:01Z,wccs,1.0.0,Yuanyuan5510,Apache-2.0,29304,Python binding for WCCS (Weighted Credit-Cooldown Sampler)
+2026-11-20T16:15:53Z,openforma,0.4.0,"""CAID TECHNOLOGIES, INC."" <team@caid-technologies.com>",,1498773,"Reusable generation, validation, provider, and project-object core for Forma OSS."
+2026-11-20T16:17:49Z,free-crypto-trading-bot,1.0.0,BYTtrade,LicenseRef-BYTtrade-Source-Available-1.3,185942,"Free crypto trading bot by BYTtrade: four backtested 4h trend-following strategies, open backtest, web panel, 11 exchanges"
+2026-11-20T16:18:20Z,signal8,0.1.0,Signal8 <business@signal8.ai>,MIT,16257,"Python client for the Signal8 API: SEC filings, insider and Congress trades, 13F holdings and dilution data for US stocks."
+2026-11-20T16:18:28Z,pylamda,0.1.0,Christian Rab,MIT,201612,Work with and work on molecular Line data in the LAMDA format.

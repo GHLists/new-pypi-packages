@@ -8,65 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 15:21 UTC
+## Latest list — 2026-11-20 16:18 UTC
 
-New packages created between 2026-11-20 14:20 UTC and 2026-11-20 15:21 UTC.
+New packages created between 2026-11-20 15:21 UTC and 2026-11-20 16:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-20T15-21-54-421896Z.csv)
+[Full CSV](data/new-packages-2026-11-20T16-18-41-992648Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-20 14:21:11 | [aas-package3](https://pypi.org/project/aas-package3/) | 1.0.0rc1 | Marko Ristin <marko@ristin.ch> | 33.4 kB | Read and write the packaged file format (AASX) of an Asset Administration Shell… |
-| 2026-11-20 14:21:53 | [pretix-authentik-prefill](https://pypi.org/project/pretix-authentik-prefill/) | 1.0.0 | JuKi Schömberg e.V. | 59.9 kB | Prefill attendee and invoice addresses in the pretix checkout from Authentik fo… |
-| 2026-11-20 14:23:18 | [flagtestdeeppkg](https://pypi.org/project/flagtestdeeppkg/) | 0.0.1 | Vladyslav Kotko | 3.2 kB |  |
-| 2026-11-20 14:23:43 | [arm-probe-cli](https://pypi.org/project/arm-probe-cli/) | 0.1.2 | uv-builder Reference Maintain… | 81.1 kB | Reference multi-arch ARM application with native C-extension ELF/zlib/ISA probe… |
-| 2026-11-20 14:24:55 | [coinolive](https://pypi.org/project/coinolive/) | 1.0.0 |  | 19.1 kB | Python library for the Coino Live crypto payment API |
-| 2026-11-20 14:26:23 | [makker](https://pypi.org/project/makker/) | 0.3.0rc1 | Jakob Torben <jakob.torben@si… | 3.1 MB | An AI agent for computational science: it plans, runs and analyses simulation s… |
-| 2026-11-20 14:26:44 | [slims](https://pypi.org/project/slims/) | 0.0.1 | Rabbit Slims | 6.7 kB | Run coding agents on any machine, steered from one hub. The CLI for Slims. |
-| 2026-11-20 14:27:39 | [hcd-priya-models](https://pypi.org/project/hcd-priya-models/) | 1.0.0 | Ming-Feng Ho <mfho@umich.edu> | 79.3 MB | Trained models of the hcd_priya Lyman-alpha forest P1D emulator (data only) |
-| 2026-11-20 14:30:16 | [pm-ledger](https://pypi.org/project/pm-ledger/) | 0.1.1 | Margin & Moss <marginandmoss@… | 123.3 kB | Local-first, offline ledger for Kalshi and Polymarket US event-contract trade e… |
-| 2026-11-20 14:32:10 | [python-jejakmasjid](https://pypi.org/project/python-jejakmasjid/) | 0.1.0 | Zubir Jamal | 20.3 kB | Asynchronous Python client for the Jejak Masjid API |
-| 2026-11-20 14:32:30 | [openff-forcefields](https://pypi.org/project/openff-forcefields/) | 2026.11.0.post1 | The Open Force Field Initiati… | 1.3 MB | Force fields released by the Open Force Field Initiative |
-| 2026-11-20 14:34:02 | [korbase](https://pypi.org/project/korbase/) | 0.1.0a2 | Maxime Lefevre | 265.7 kB | Async ORM for Postgres, built the Korvex way. |
-| 2026-11-20 14:35:29 | [chargefw-ccd](https://pypi.org/project/chargefw-ccd/) | 2026.11.13 | ChargeFW contributors | 8.3 MB | Atoms and bonds of the wwPDB Chemical Component Dictionary for ChargeFW |
-| 2026-11-20 14:37:59 | [hcd-priya](https://pypi.org/project/hcd-priya/) | 1.0.0 | Ming-Feng Ho <mfho@umich.edu> | 1.4 MB | Lyman-alpha forest P1D emulator with high-column-density absorber classes, buil… |
-| 2026-11-20 14:43:24 | [tivelo-data](https://pypi.org/project/tivelo-data/) | 0.1.0a1 |  | 152.8 kB | Independent versioned market data engine and immutable snapshot storage |
-| 2026-11-20 14:43:25 | [blender-automation-skill](https://pypi.org/project/blender-automation-skill/) | 0.1.1 | LUgABeEEE <LUgABeEEE@users.no… | 71.4 kB | AI Skill + MCP toolkit for agent-driven headless Blender modelling: parameter s… |
-| 2026-11-20 14:43:57 | [modular-rag](https://pypi.org/project/modular-rag/) | 0.1.0 | ragkit contributors | 239.2 kB | 可扩展、可替换抽象的 RAG 库：多格式读取、结构化切分、RRF 混合召回、主表+附表多版本、回调与中间件 |
-| 2026-11-20 14:45:45 | [hpfem](https://pypi.org/project/hpfem/) | 0.5.0 | KF | 118.2 MB | Adaptive hp-FEM suite for nano-optics (time-harmonic Maxwell) |
-| 2026-11-20 14:48:57 | [ledgerfm](https://pypi.org/project/ledgerfm/) | 0.1.2 | Shaswata Tripathy | 42.1 kB | Open foundation model for transaction sequences (fraud / anti-money-laundering) |
-| 2026-11-20 14:49:48 | [course-assistant](https://pypi.org/project/course-assistant/) | 0.1.0 | Biplob Chakraborty | 574.6 kB | A course assistant that answers only from approved session materials, cites eve… |
-| 2026-11-20 14:52:16 | [optopro](https://pypi.org/project/optopro/) | 0.1.0 | OptoHive | 711.0 kB | fNIRS and EEG analysis for OptoHive recordings: responses, statistics and brain… |
-| 2026-11-20 14:54:09 | [unpetrify](https://pypi.org/project/unpetrify/) | 0.1.0 | James Wilson | 415.7 kB | Get the text out of a PDF -- scans included -- as Markdown that keeps paragraph… |
-| 2026-11-20 14:54:21 | [inmanta-nfv-test-api](https://pypi.org/project/inmanta-nfv-test-api/) | 2.8.0 | Inmanta | 127.0 kB | API for testing network functions. |
-| 2026-11-20 14:54:56 | [housing-star](https://pypi.org/project/housing-star/) | 0.1.0 | JGGaskell | 1.6 MB | Spatial-temporal autoregression (STAR) for UK house price time series |
-| 2026-11-20 14:57:14 | [bizmap](https://pypi.org/project/bizmap/) | 0.3.10 | BizMap contributors | 544.9 kB | Deterministic business-rule and data-lineage mapper for codebases. No AI, no to… |
-| 2026-11-20 14:59:25 | [termforge](https://pypi.org/project/termforge/) | 0.1.0 | Rony <ronnjhost@gmail.com> | 380.6 kB | CLI para diagnosticar, respaldar y configurar tu terminal de Windows (Windows T… |
-| 2026-11-20 15:02:49 | [parsec-html](https://pypi.org/project/parsec-html/) | 0.1.0 |  | 76.1 MB | A fast, spec-following HTML parser with CSS selectors and an editable tree, wit… |
-| 2026-11-20 15:03:01 | [pk-cnic](https://pypi.org/project/pk-cnic/) | 0.1.0 | Ali Ahmed | 9.8 kB | Validate, normalise and read Pakistani CNIC numbers (13-digit format, region an… |
-| 2026-11-20 15:05:31 | [arcanist-inference](https://pypi.org/project/arcanist-inference/) | 0.2 |  | 12.5 kB | Workflow inference through Arcanist |
-| 2026-11-20 15:08:44 | [proteccion-agent-kit](https://pypi.org/project/proteccion-agent-kit/) | 0.1.0 |  | 1.9 kB | Una libreria simple de python |
-| 2026-11-20 15:09:20 | [inboundr](https://pypi.org/project/inboundr/) | 0.1.0 | Inboundr <dev@inboundr.net> | 36.0 kB | Python SDK for the Inboundr API: receive email over signed webhooks, read and r… |
-| 2026-11-20 15:10:31 | [astrometry-net-engine](https://pypi.org/project/astrometry-net-engine/) | 1.0.0 | Vladimir Kouprianov <v.koupri… | 26.2 MB | Independent, cross-platform Python bindings to the Astrometry.net plate-solving… |
-| 2026-11-20 15:11:11 | [automata-rs](https://pypi.org/project/automata-rs/) | 0.1.0 |  | 7.7 MB | Transition systems and automata over finite and infinite words. |
-| 2026-11-20 15:12:24 | [inworldvoice](https://pypi.org/project/inworldvoice/) | 0.1.0 |  | 18.1 MB | Remove noise from the voice in any audio or video file (Inworld Voice Isolator,… |
-| 2026-11-20 15:12:41 | [mastyf-authority](https://pypi.org/project/mastyf-authority/) | 0.1.0 |  | 1.1 MB | Mastyf Authority: every break-in gets a ceiling. Pre-execution authority with s… |
-| 2026-11-20 15:13:16 | [aws_sdk_signer](https://pypi.org/project/aws_sdk_signer/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_signer name. Not yet functional. |
-| 2026-11-20 15:13:36 | [aws_sdk_dsql](https://pypi.org/project/aws_sdk_dsql/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_dsql name. Not yet functional. |
-| 2026-11-20 15:13:56 | [aws_sdk_freetier](https://pypi.org/project/aws_sdk_freetier/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_freetier name. Not yet functional. |
-| 2026-11-20 15:14:14 | [aws_sdk_lightsail](https://pypi.org/project/aws_sdk_lightsail/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_lightsail name. Not yet functional. |
-| 2026-11-20 15:15:04 | [pvsyst-cli-mcp](https://pypi.org/project/pvsyst-cli-mcp/) | 0.5.0 |  | 1.2 MB | Workspace-scoped MCP server and Python engineering adapter for installed PVsyst… |
-| 2026-11-20 15:15:10 | [aws_sdk_kinesis_video_archived_media](https://pypi.org/project/aws_sdk_kinesis_video_archived_media/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_kinesis_video_archived_media name. Not yet fu… |
-| 2026-11-20 15:15:32 | [aws_sdk_health](https://pypi.org/project/aws_sdk_health/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_health name. Not yet functional. |
-| 2026-11-20 15:15:51 | [aws_sdk_workspaces](https://pypi.org/project/aws_sdk_workspaces/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_workspaces name. Not yet functional. |
-| 2026-11-20 15:16:23 | [aws_sdk_route53resolver](https://pypi.org/project/aws_sdk_route53resolver/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_route53resolver name. Not yet functional. |
-| 2026-11-20 15:16:30 | [requipso](https://pypi.org/project/requipso/) | 0.2.2 |  | 3.3 MB | Add your description here |
-| 2026-11-20 15:17:17 | [openff-amber-ff-ports](https://pypi.org/project/openff-amber-ff-ports/) | 2025.9.0.post1 | The Open Force Field Initiati… | 1.5 MB |  |
-| 2026-11-20 15:17:49 | [landcheckup-mcp](https://pypi.org/project/landcheckup-mcp/) | 0.1.0 |  | 46.3 kB | MCP server for Land Checkup (landcheckup.com) public parcel and town land-recor… |
-| 2026-11-20 15:18:12 | [aws_sdk_datasync](https://pypi.org/project/aws_sdk_datasync/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_datasync name. Not yet functional. |
-| 2026-11-20 15:18:12 | [orbit-sdk](https://pypi.org/project/orbit-sdk/) | 1.0.0 | JuriCloud | 103.0 kB | Orbit SDK by JuriCloud: runtime DPDP Act compliance tracking for Python back en… |
-| 2026-11-20 15:18:31 | [aws_sdk_ecr_public](https://pypi.org/project/aws_sdk_ecr_public/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_ecr_public name. Not yet functional. |
-| 2026-11-20 15:18:52 | [aws_sdk_compute_optimizer](https://pypi.org/project/aws_sdk_compute_optimizer/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_compute_optimizer name. Not yet functional. |
-| 2026-11-20 15:19:08 | [aws_sdk_marketplace_agreement](https://pypi.org/project/aws_sdk_marketplace_agreement/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_marketplace_agreement name. Not yet functiona… |
-| 2026-11-20 15:19:34 | [qkrun](https://pypi.org/project/qkrun/) | 2.0.0 | Adrian Martinez Rodriguez <ad… | 300.2 kB | A CLI tool for quick tasks. |
-| 2026-11-20 15:20:23 | [hl7bridge](https://pypi.org/project/hl7bridge/) | 0.5.0 | Tom O'Sullivan | 590.8 kB | HL7 v2, DICOM and FHIR integration toolkit: MLLP listener with explicit ACKs, o… |
+| 2026-11-20 15:21:56 | [alfen-modbus](https://pypi.org/project/alfen-modbus/) | 0.1.0a1 | alfen-modbus contributors | 70.2 kB | Read and control Alfen EV charging stations over Modbus TCP as typed Python obj… |
+| 2026-11-20 15:24:13 | [knowledgator](https://pypi.org/project/knowledgator/) | 1.0.3 | Knowledgator | 102.1 kB | Python client SDK for the Knowledgator API |
+| 2026-11-20 15:24:21 | [pytrat-core](https://pypi.org/project/pytrat-core/) | 0.1.0 | Roshan Lamichhane <roshanlami… | 93.7 kB | Transaction Token models, verification, scopes, context binding and audit event… |
+| 2026-11-20 15:24:28 | [pytrat-policy](https://pypi.org/project/pytrat-policy/) | 0.1.0 | Roshan Lamichhane <roshanlami… | 55.6 kB | Policy-as-code for PyTraT: YAML policy model, compiler and evaluator. |
+| 2026-11-20 15:24:29 | [pytrat-fastapi](https://pypi.org/project/pytrat-fastapi/) | 0.1.0 | Roshan Lamichhane <roshanlami… | 59.6 kB | FastAPI integration for PyTraT Transaction Tokens. |
+| 2026-11-20 15:24:31 | [pytrat-server](https://pypi.org/project/pytrat-server/) | 0.1.0 | Roshan Lamichhane <roshanlami… | 120.0 kB | Reference Transaction Token Service (TTS) for PyTraT. |
+| 2026-11-20 15:25:26 | [code-art-studio](https://pypi.org/project/code-art-studio/) | 0.2.0 | Code Art Studio team (CS1302… | 380.3 kB | Arrange a complete C program as a circle, a cat or hollow CODE, and prove it st… |
+| 2026-11-20 15:25:41 | [dev-isolator](https://pypi.org/project/dev-isolator/) | 0.1.0 |  | 67.2 kB | Podman-based per-project development environment manager |
+| 2026-11-20 15:26:47 | [pdc-api](https://pypi.org/project/pdc-api/) | 0.4.1 | Philanthropy Data Commons | 132.7 kB | Python client for the Philanthropy Data Commons (PDC) API |
+| 2026-11-20 15:27:33 | [m2n2](https://pypi.org/project/m2n2/) | 0.0.2 | Alexandre Marchal, Daniele Ra… | 45.5 kB | Mixed effect neural networks: REML linear mixed model with a neural network emb… |
+| 2026-11-20 15:28:40 | [punt-observe](https://pypi.org/project/punt-observe/) | 0.1.0 | Punt Labs | 81.7 kB | Private diagnostics and privacy-safe telemetry for Punt Labs |
+| 2026-11-20 15:29:06 | [tensi-shapes](https://pypi.org/project/tensi-shapes/) | 0.3.0 | Tristan Farran | 160.7 kB | Named tensor shapes for unannotated PyTorch: hovers, shape errors and a CLI, bu… |
+| 2026-11-20 15:33:32 | [6g-dali-mlops](https://pypi.org/project/6g-dali-mlops/) | 0.1.0 |  | 52.3 kB | Data Space retrieval and model publication steps for 6G-DALI |
+| 2026-11-20 15:34:00 | [wsidicom-kernels](https://pypi.org/project/wsidicom-kernels/) | 0.1.0 | Erik O Gabrielsson <erik.o.ga… | 2.3 MB | Fast, accurate SIMD resizing and pyramid downscaling for numpy arrays. |
+| 2026-11-20 15:34:35 | [itd-chatbot-sdk](https://pypi.org/project/itd-chatbot-sdk/) | 1.0.0 |  | 417.5 kB | Unofficial Python SDK for the ITD messenger |
+| 2026-11-20 15:37:05 | [workspace-recover](https://pypi.org/project/workspace-recover/) | 1.1.9 |  | 112.9 kB | Declarative workspace backup and recovery |
+| 2026-11-20 15:39:02 | [codemix-nlu](https://pypi.org/project/codemix-nlu/) | 1.0.0 |  | 228.9 kB | Romanized, code-mixed Hinglish intent and slot NLU on MASSIVE: how much accurac… |
+| 2026-11-20 15:39:11 | [zpx](https://pypi.org/project/zpx/) | 0.0.1 | Zynplex | 5.7 kB | CLI de ZPX Forge: conecta tu Claude Code o Codex con tu fábrica de software |
+| 2026-11-20 15:39:57 | [adi-doctools-gui](https://pypi.org/project/adi-doctools-gui/) | 0.5.3 | Jorge Marques <jorge.marques@… | 730.4 kB | Edit reStructuredText in the browser, as the document |
+| 2026-11-20 15:41:20 | [pyaddic7](https://pypi.org/project/pyaddic7/) | 0.1.0 | PyAddic7 developers | 60.5 kB | PyAddic7 (formerly pyaddic7ed) - Python API to search and download subtitles fr… |
+| 2026-11-20 15:41:30 | [pyaddic7ed](https://pypi.org/project/pyaddic7ed/) | 0.1.0 | PyAddic7 developers | 3.3 kB | Compatibility alias for PyAddic7 - the addic7ed.com subtitle API for Python is… |
+| 2026-11-20 15:41:37 | [live-vector-space](https://pypi.org/project/live-vector-space/) | 0.1.0 |  | 107.5 kB | A whole codebase in a few KB, every byte one lookup away: a small map plus exac… |
+| 2026-11-20 15:42:47 | [llm-wiki-engine](https://pypi.org/project/llm-wiki-engine/) | 5.0.0 | Denis Sivagin <denissvgn@gmai… | 969.0 kB | Standard-library-only core of the LLM Wiki engine: canonical encodings, host bo… |
+| 2026-11-20 15:46:14 | [safety-gymnasium2](https://pypi.org/project/safety-gymnasium2/) | 2.0.0 | Safety Gymnasium 2 Contributo… | 790.4 kB | MuJoCo environments for safe reinforcement learning. |
+| 2026-11-20 15:49:39 | [dspy-datacircle](https://pypi.org/project/dspy-datacircle/) | 0.1.0 |  | 16.3 kB | DSPy tools for the Datacircle API: find the best GTM APIs |
+| 2026-11-20 15:52:04 | [bitlocker-dbx-rollback](https://pypi.org/project/bitlocker-dbx-rollback/) | 1.0.0 | James Phillip Sanders <hello@… | 256.6 kB | Get a BitLocker drive to unlock by itself again after a Secure Boot dbx change,… |
+| 2026-11-20 15:54:03 | [oenb](https://pypi.org/project/oenb/) | 0.1.0 | Franz X. Mohr | 41.9 kB | Tools for the data web service of the Oesterreichische Nationalbank (OeNB) |
+| 2026-11-20 15:57:05 | [jobtriage](https://pypi.org/project/jobtriage/) | 0.3.0 | Niyi Adeosun | 549.1 kB | Scrape remote job boards, keep the relevant roles, remember them in SQLite, tri… |
+| 2026-11-20 15:57:39 | [fieldsmith](https://pypi.org/project/fieldsmith/) | 0.1.4 |  | 228.5 kB | Fast dipole-field based magnet optimization utilities. |
+| 2026-11-20 16:00:41 | [bevyra-hosted](https://pypi.org/project/bevyra-hosted/) | 0.1.0 |  | 3.0 kB | BeVyra hosted avatar API client |
+| 2026-11-20 16:01:55 | [evals-promptdb](https://pypi.org/project/evals-promptdb/) | 1.2.0 |  | 142.0 kB | A local, embedded SQLite database for versioned LLM prompts |
+| 2026-11-20 16:06:37 | [pqscan](https://pypi.org/project/pqscan/) | 0.4.1 | Nayef Alharbi | 452.9 kB | Post-quantum readiness scanner for TLS, SSH, IPsec and email, scored against th… |
+| 2026-11-20 16:09:17 | [certgen-core](https://pypi.org/project/certgen-core/) | 0.1.0 |  | 11.9 kB | Generate self-signed TLS certificates from a YAML file. |
+| 2026-11-20 16:09:45 | [dotdoc](https://pypi.org/project/dotdoc/) | 0.1.0rc1 | Joe Marsh Rossney | 28.0 kB | Make Graphviz drawings a navigable part of your documentation: nodes link to th… |
+| 2026-11-20 16:11:26 | [dflimit](https://pypi.org/project/dflimit/) | 0.4.0 | Yong Bao, Raymond Kan | 15.6 MB | Exact limiting distribution of the Dickey-Fuller t-ratio |
+| 2026-11-20 16:11:33 | [dvm-planner](https://pypi.org/project/dvm-planner/) | 0.1.0 |  | 37.2 kB | Extract Microsoft Planner plans and tasks as JSON via an Edge browser (CDP) |
+| 2026-11-20 16:15:01 | [wccs](https://pypi.org/project/wccs/) | 1.0.0 | Yuanyuan5510 | 29.3 kB | Python binding for WCCS (Weighted Credit-Cooldown Sampler) |
+| 2026-11-20 16:15:53 | [openforma](https://pypi.org/project/openforma/) | 0.4.0 | "CAID TECHNOLOGIES, INC." <te… | 1.5 MB | Reusable generation, validation, provider, and project-object core for Forma OS… |
+| 2026-11-20 16:17:49 | [free-crypto-trading-bot](https://pypi.org/project/free-crypto-trading-bot/) | 1.0.0 | BYTtrade | 185.9 kB | Free crypto trading bot by BYTtrade: four backtested 4h trend-following strateg… |
+| 2026-11-20 16:18:20 | [signal8](https://pypi.org/project/signal8/) | 0.1.0 | Signal8 <business@signal8.ai> | 16.3 kB | Python client for the Signal8 API: SEC filings, insider and Congress trades, 13… |
+| 2026-11-20 16:18:28 | [pylamda](https://pypi.org/project/pylamda/) | 0.1.0 | Christian Rab | 201.6 kB | Work with and work on molecular Line data in the LAMDA format. |
