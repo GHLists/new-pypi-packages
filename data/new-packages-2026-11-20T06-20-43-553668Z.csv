@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T05:20:45Z,fast-croniter,0.1.0,Akash Priyadarshi <272530059+AkashPriyadarshii@users.noreply.github.com>,MIT OR Apache-2.0,6262849,"Fast, memory-safe, drop-in Rust replacement for Python croniter with PyO3 bindings"
+2026-11-20T05:22:36Z,memoraos,0.2.0,MemoraOS contributors,Apache-2.0,333252,"Local-first adaptive memory engine for AI agents: hybrid retrieval, temporal facts, evidence-grounded answers, and a reproducible benchmark lab."
+2026-11-20T05:24:39Z,omniline,0.1,Greg Chao-Kuei Hung,MIT,34427,"User-friendly CLI and terminal UI for LINE Messenger, powered by OkLine."
+2026-11-20T05:25:39Z,peachtrees,1.0.0,Daglar Dragomirov,MIT,22402,"An optimizer-agnostic, never-worse inference layer on top of an optimized DSPy program (GEPA, MIPROv2, SIMBA, ...)."
+2026-11-20T05:28:03Z,simmynet,2.2.0,,MIT,30769942,SimmyNet: a symbolic DSL compiler for group-theoretic classifiers with an exact finite-field (Lefschetz / zeta / Weil) engine
+2026-11-20T05:32:27Z,makersquad-sphinx-theme,3.4.0,,MIT AND OFL-1.1,118716,"Sphinx theme of the Makersquad charte, on the PyData Sphinx Theme"
+2026-11-20T05:34:51Z,moncash-natcash,0.1.0,GuyBastien,MIT,21267,"SDK Python simple pour MonCash et NatCash (Haïti) : paiements, vérification, transferts"
+2026-11-20T05:36:03Z,dji-geo,0.1.0,Jensen Chan,,95106,Python client for DJI GEO / FlySafe airspace data
+2026-11-20T05:37:07Z,tio_duckdb,0.1.0,Fabricio D'Morison <fabricio.dmorison@gmail.com>,MPL-2.0,52969,"DuckDB family for Tiozin, your friendly ETL framework"
+2026-11-20T05:40:03Z,tio_spark,0.1.0,Fabricio D'Morison <fabricio.dmorison@gmail.com>,MPL-2.0,72092,"Spark family for Tiozin, your friendly ETL framework"
+2026-11-20T05:45:23Z,filiation-core,0.0.1,Steven Rocca,AGPL-3.0-only,3038,"Name reserved for Filiation, the open, versioned FDA 510(k) predicate graph. Not usable yet."
+2026-11-20T05:45:24Z,filiation-models,0.0.1,Steven Rocca,AGPL-3.0-only,3070,"Name reserved for Filiation, the open, versioned FDA 510(k) predicate graph. Not usable yet."
+2026-11-20T05:45:24Z,filiation-pipeline,0.0.1,Steven Rocca,AGPL-3.0-only,3093,"Name reserved for Filiation, the open, versioned FDA 510(k) predicate graph. Not usable yet."
+2026-11-20T05:49:11Z,postgresql-mcp-pro,1.0.0,poiig <poiigzhao@126.com>,MIT,346473,"PostgreSQL MCP Pro: index tuning, explain plans, health checks, and safe SQL"
+2026-11-20T05:52:01Z,nextreq,0.1.1,chetanxrathore,MIT OR Apache-2.0,25717003,"A next-generation, Rust-powered, batteries-included HTTP client for Python"
+2026-11-20T05:55:21Z,phlo-transform,0.2.0,Phlo Team <team@phlo.dev>,MIT,91079,"SQL transformation capability provider for Phlo, backed by the Phlo Transform engine"
+2026-11-20T05:59:45Z,niblick,1.0.0,Mike Abbott,GPL-3.0-only,397982,A C-like compiler for the Hackaday Supercon.6 (Voja4) 4-bit badge
+2026-11-20T06:00:45Z,leto-domain-api,1.0.0,Feather IT Inc.,MIT,279619,"Python client for the LETO Domain API (domain registration, DNS, transfers and more for LETO partners)."
+2026-11-20T06:01:18Z,jokodm,0.1.0,Joko Suntoro <jokosuntoro@gmail.com>,LicenseRef-Jokodm,35988,"Algoritma data mining yang ditulis dari nol (SVM, Decision Tree) lengkap dengan visualisasi, bergaya scikit-learn."
+2026-11-20T06:07:08Z,forktex-mail,1.0.0,FORKTEX,AGPL-3.0-or-later OR LicenseRef-ForkTex-Commercial,301044,"Send and receive e-mail from any Python process: SMTP to send, IMAP to file and read, errors classified by the protocol."
+2026-11-20T06:10:11Z,zenx-lite,0.2.0,,,115011,An explicitly composed asyncio scraping runtime
