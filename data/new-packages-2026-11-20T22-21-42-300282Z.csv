@@ -1,0 +1,65 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T21:23:55Z,yhatmodels,0.1.0,YHat Labs,Apache-2.0,1784571,"YHatModels: open models from YHat Labs, run locally (time-series forecasting with ChakraTS first)"
+2026-11-20T21:28:16Z,maple-esign,0.1.0,Stalwart Insurance Group,Apache-2.0,141234,Python client for the Maple eSign REST API
+2026-11-20T21:30:25Z,dbt-benodb,0.17.0,Richard Albright <rla3rd@gmail.com>,Apache-2.0,36607,The BenoDB adapter plugin for dbt
+2026-11-20T21:31:39Z,ipro-agent,0.1.0,Supantha Dey,MIT,558938,"Agent-drivable Iterative Protein Redesign and Optimization (IPRO), generalized to an arbitrary protein and a stated design goal"
+2026-11-20T21:32:29Z,SPHShore,0.1.1,SPHShore contributors,MIT,1568585,C++ accelerated three-dimensional SPH wave tank with sloping shore and vertical pillars
+2026-11-20T21:34:30Z,labga,0.1.0,Gal Levy,MIT,200799,Accessible genetic algorithms with island populations and shared batched inference.
+2026-11-20T21:34:56Z,spatialbatch,0.0.1rc1,Rushin Gindra,"MIT License Copyright (c) 2026, Rushin Gindra Permission is hereby granted, free of charge, to any…",51306,A minibatch loader for SpatialData stores
+2026-11-20T21:35:15Z,my-dynamic-gui,0.1.0,Your Name <you@example.com>,MIT,9216,A simple GUI package with login and data management.
+2026-11-20T21:35:45Z,jiuwen-migraine-diary,0.2.0,,Apache-2.0,26660,MCP headache diary tools backed by the published Chroma MCP server.
+2026-11-20T21:36:02Z,pheromill,0.0.1,Pheromill contributors,MIT,6243,An autonomous software factory where every claim is measured and says whether it is proven. Pre-alpha placeholder.
+2026-11-20T21:36:04Z,alltradingapi,1.0.1,All Trading API <admin@alltradingapi.com>,MIT,101638,"Quotex candles, assets, saved candles, candle history, chart images and trade result checks - zero dependencies, sync + async."
+2026-11-20T21:38:01Z,karni-commerce,0.6.0,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,199940,"Commerce for Karni: one cart, checkout, orders, order numbers, payment settlement and refunds for anything a project sells, through a sellable adapter per kind. Karni is an open-source Django + React…"
+2026-11-20T21:38:06Z,karni-game,0.6.0,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,307446,"Games for Karni: guest players, cloud saves, leaderboards, a soft-currency wallet, daily content and achievements, with a realtime server contract. Karni is an open-source Django + React framework fo…"
+2026-11-20T21:38:23Z,mypy-boto3-agent-discovery,1.44.8,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,37641,Type annotations for boto3 AgentDiscovery 1.44.8 service generated with mypy-boto3-builder 8.12.0
+2026-11-20T21:38:25Z,mypy-boto3-apiportal,1.44.8,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,66447,Type annotations for boto3 APIPortal 1.44.8 service generated with mypy-boto3-builder 8.12.0
+2026-11-20T21:41:12Z,cuju-grf-media,0.3.0,André Koraleski,Apache-2.0 AND Unlicense AND OFL-1.1,9123515,"The media of Google Research Football that cuju's software renderer draws, unchanged"
+2026-11-20T21:42:25Z,GHIElectronics.Endpoint.Pins,0.5.4,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,21252,"Pin constants, bus tables, and board support for every GHI Electronics Endpoint board (mirrors .NET GHIElectronics.Endpoint.Pins)."
+2026-11-20T21:43:11Z,nopa,0.1.0,Morten Perriard <morten@perriard.dk>,MIT,256837,a 6502/Python hybrid cross assembler for Commodore computers
+2026-11-20T21:43:39Z,GHIElectronics.Endpoint.Drivers.RaspberryPi,0.5.4,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,2773216,Raspberry Pi board support for Endpoint. One package covers every Pi model this library knows (Zero 2 W today; more added in later versions). Mirrors the .NET driver API.
+2026-11-20T21:43:44Z,inkemu,0.1.1,,MIT,200189,Desktop emulator of the Xteink X4 Pro InkApp (XTOS Licorice) Lua host
+2026-11-20T21:43:48Z,indie-metrics-mcp,0.1.0,Inzention,MIT,22952,"Read-only MCP server: App Store Connect, RevenueCat and PostHog numbers for your own apps, asked in Claude."
+2026-11-20T21:51:53Z,signafaide-verify,0.0.1,,Apache-2.0,2399,Name reserved for the standalone signafAIde verifier. First release coming; no code in this version.
+2026-11-20T21:52:38Z,gluonkit,0.0.0,,Proprietary,3636,Name reserved. gluonkit is proprietary software that is not distributed on PyPI; this placeholder has no functionality.
+2026-11-20T21:52:41Z,nomos-cli,4.28.0,Mark Gantlett,Apache-2.0,10885,"Zero-dependency launcher for Nomos: Apache-2.0 static Go AST & Git execution substrate for AI coding agents (nomos xray, nomos init, nomos verify, nomos mcp)."
+2026-11-20T21:52:48Z,mimic-agent,0.3.0,Samy Baouche,MIT,489805,"A local AI agent that learns a web task from one demonstration, repeats it, and repairs itself when the interface changes."
+2026-11-20T21:53:41Z,walspro-cockpit,0.0.1,Wals Professional Services GmbH,Apache-2.0,11039,"Name reserved by Wals Professional Services GmbH. Placeholder, no functionality."
+2026-11-20T21:55:02Z,omrkit,2.1.0,Duhan Guler,MIT,326873,"Modern Optical Mark Recognition engine with PDF/ArUco alignment, confidence-scored hybrid bubble detection, printable sheet generation, exam psychometrics, REST API, and Visual Web Studio."
+2026-11-20T21:55:28Z,rd0-trellis,0.1.0,Harshul Jain,MIT,67830,"Trellis: stop reviewing the same mistake twice. Turns AGENTS.md rules and agent-PR slop into CI checks. Part of rd0, a toolkit for review debt."
+2026-11-20T21:56:01Z,image-review,0.5.0,Judd Storrs,MIT,407583,A command-line tool for reviewing medical (DICOM) and general images for burned-in Protected Health Information (PHI).
+2026-11-20T21:56:02Z,forge-os-check,0.4.0,,Apache-2.0,72289,Compare agent results in CI and govern explicitly bound provider operations.
+2026-11-20T21:56:12Z,lmcache-nixl,0.5.8rc2,,Apache-2.0,2911086,LMCache's native NIXL connector for the nixl_native L2 adapter
+2026-11-20T21:56:26Z,lgprune,0.1.1,LeeGyeongPil,MIT,125310,"Report, plan, apply and reclaim retention for LangGraph checkpoint databases (SQLite and Postgres) without breaking resume, interrupts or DeltaChannel threads."
+2026-11-20T21:57:35Z,parserpick,0.1.2,,MIT,160996,"Pick vLLM/SGLang tool-call and reasoning parser flags from a model's chat template, and replay captured raw output offline to see why a tool call leaked."
+2026-11-20T21:58:06Z,oddssea,0.1.0,oddssea <hello@oddssea.dev>,MIT,36044,"Python client for the oddssea API: Pinnacle odds, prematch and live, over REST and WebSocket."
+2026-11-20T21:58:38Z,semsplit,0.1.0,LeeGyeongPil,MIT,95707,"Drop-in successor of langchain-experimental's SemanticChunker: embedding-distance RAG chunking with a parity check, opt-in max chunk size, exact start_index and CJK sentence splitting."
+2026-11-20T21:58:53Z,proprioceptive-swarm,0.1.3,Proprioceptive AI,Proprietary,10292,Client SDK for the Proprioceptive AI lens-swarm: CPU consensus answering with confidence gates and receipted audit trail. Requires account signup; inert without an API key.
+2026-11-20T21:59:44Z,genai-py-codemod,0.1.0,,MIT,130868,"Format-preserving codemod that moves google-generativeai and vertexai.generative_models code to google-genai, with a keyless request-equivalence check."
+2026-11-20T22:00:32Z,nemesis-cli,1.0.2,,,89261,Client terminal NEMESIS — agents IA depuis le terminal
+2026-11-20T22:00:53Z,instatus-otel,0.1.0,Instatus,MIT,50464,Instatus error tracking for Python servers: an OpenTelemetry distro with a Sentry-compatible API
+2026-11-20T22:04:26Z,aiollm-core,0.15.0,GrehBan <maximfeedback19@gmail.com>,MIT,1314497,"Async-first toolkit for building typed HTTP API clients, the core of aiollm"
+2026-11-20T22:09:34Z,llm-stream-check,0.1.0,Matthew Busel <mattbusel@tensorust.com>,MIT,700707,"Your agent didn't forget the tool call. Your stream parser threw it away. Replays 243 recorded OpenAI, Anthropic and Gemini streams through your framework and fails on every dropped or merged tool ca…"
+2026-11-20T22:09:36Z,remoteid,0.3.2,Matt Busel <matt@busel.dev>,MIT,3840858,"Drone Remote ID (ASTM F3411, EN 4709-002) decoding and trust verdicts: spoof and plausibility checks, DRIP (RFC 9575) signature verification, tar1090 aircraft.json"
+2026-11-20T22:09:42Z,godzilla-stomp,0.1.0,Roger Allen <roger.allen795@gmail.com>,"MIT License Copyright (c) 2026 rallen Permission is hereby granted, free of charge, to any person o…",572952,"A CLI tool like sl (Steam Locomotive), where Godzilla uses his atomic breath to blow up a building when you mistype a command."
+2026-11-20T22:10:16Z,us-restricted-parties,0.7.0,Tensorust LLC,MIT,61351,"Fail a sanctions screen that is missing a US restricted list, runs on stale data or loaded empty names; and load the lists most screens skip (DoD 1260H, Section 889, FCC Covered List, UFLPA, BIOSECUR…"
+2026-11-20T22:11:51Z,cirrusnetworks-signet,0.0.1,,,3573,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-11-20T22:12:33Z,cirrus-signet,0.0.1,,,3455,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-11-20T22:12:42Z,aiollm-openai,0.15.0,GrehBan <maximfeedback19@gmail.com>,MIT,563764,OpenAI's Responses and Files APIs for aiollm
+2026-11-20T22:12:58Z,aiollm-anthropic,0.15.0,GrehBan <maximfeedback19@gmail.com>,MIT,341436,Anthropic's Messages and Files APIs for aiollm
+2026-11-20T22:13:21Z,cannonball-eos,0.1.0,,MIT,77081,Saves the photos a Canon EOS camera sends with Auto send images to computer
+2026-11-20T22:15:48Z,idealista-mcp,1.1.0,Cotlet.dev <contact@cotlet.dev>,Elastic-2.0,15028,"Connect Idealista to ChatGPT, Claude and other AI agents through Cotlet.dev. Includes a local stdio MCP bridge."
+2026-11-20T22:15:56Z,exopython,1.0.0,,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",45593,"Programmatic level builder, decompiler, and obfuscator for Exoracer (.exolvl)"
+2026-11-20T22:16:24Z,eda-agent-route,0.2.1,George Saliba <george.saliba@salitronic.com>,Apache-2.0,683794,Grid path search for eda-agent's board router
+2026-11-20T22:17:22Z,hobees,0.1.0a1,Hessam Moussavinik,Apache-2.0,467889,"A CLI for creating and running teams of AI agents, with interactive shell, TUI, and repeatable headless workflows."
+2026-11-20T22:17:25Z,flightlog,0.1.2,Matt Busel <matt@busel.dev>,MIT,28092614,"ArduPilot DataFlash (.bin) and MAVLink .tlog flight logs as Arrow tables, flight-facts checks with ArduPilot wiki thresholds, and a read-only MCP server"
+2026-11-20T22:17:28Z,usorg-bench,0.1.1,Tensorust LLC,MIT,1372772,"US organization matching benchmark labelled by government identifiers (UEI, SEC CIK, CMS CCN, FCC FRN, USAC BEN/SPIN, state filing numbers)"
+2026-11-20T22:17:29Z,desiccant-props,0.1.0,,BSD-3-Clause,1458520,Thermophysical properties of aqueous liquid desiccants for HVAC simulation
+2026-11-20T22:17:41Z,cuju-engine,0.3.0,André Koraleski,Apache-2.0 AND LGPL-2.1-or-later AND MIT AND SunPro AND BSL-1.0 AND BSD-3-Clause AND Zlib,30617726,"A bit-exact, batched reimplementation of Google Research Football, for CUDA and CPU"
+2026-11-20T22:17:42Z,ownership-gap,0.1.0,Tensorust LLC,Apache-2.0,68999,"A clean name screen is not a clean vendor. Shows, side by side, what a name-only OFAC/CSL screen clears and what OFAC 50%, BIS Affiliates, 1260H, 889, FCC Covered List, UFLPA and BIOSECURE catch, wit…"
+2026-11-20T22:18:11Z,olign,1.2.0,"""Olewave, LLC"" <info@olewave.com>",Apache-2.0,163294,"Word and phone timestamps for English speech, from the Olign forced alignment API"
+2026-11-20T22:18:18Z,cuju-gfootball,0.1.0,André Koraleski,Apache-2.0,20659,"Imports cuju's port of Google Research Football under GRF's own names, gfootball and gfootball_engine"
+2026-11-20T22:20:07Z,llpro,0.1.0,LLPRO LLC <support@llpro.ai>,,7934,"Tiny stdlib client for LLPRO's agent tools: cited public facts, signed checks of agent work, public agent records, free agent key."
+2026-11-20T22:20:09Z,langchain-llpro,0.1.0,LLPRO LLC <support@llpro.ai>,,11906,"LangChain tools for LLPRO: cited public facts, signed checks of agent work and public agent records. Free daily allowance, no sign-up."
+2026-11-20T22:20:11Z,llama-index-tools-llpro,0.1.0,LLPRO LLC <support@llpro.ai>,,9447,"LlamaIndex tool spec for LLPRO: cited public facts, signed checks of agent work and public agent records. Free daily allowance, no sign-up."
+2026-11-20T22:20:13Z,crewai-llpro,0.1.0,LLPRO LLC <support@llpro.ai>,,9710,"CrewAI tools for LLPRO: cited public facts, signed checks of agent work and public agent records. Free daily allowance, no sign-up."

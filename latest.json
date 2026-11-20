@@ -1,20 +1,34 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-11-20T20:20:07.546412Z",
-    "path": "data/new-packages-2026-11-20T21-21-13-629917Z.csv",
-    "to": "2026-11-20T21:21:13.629917Z"
+    "count": 64,
+    "from": "2026-11-20T21:21:13.629917Z",
+    "path": "data/new-packages-2026-11-20T22-21-42-300282Z.csv",
+    "to": "2026-11-20T22:21:42.300282Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-20T22:02:16Z",
+      "package": "GodzillaStomp",
+      "since": "2026-11-20T21:21:13.629917Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-20T21:21:38Z",
+      "package": "RiaGraph",
+      "since": "2026-11-20T21:21:13.629917Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-20T19:24:07Z",
       "package": "Sustenaut",
       "since": "2026-11-20T19:18:49.547674Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-20T19:32:27Z",
       "package": "cijukop",
       "since": "2026-11-20T19:18:49.547674Z",
@@ -22,27 +36,27 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-20T17:55:51Z",
-      "package": "dcert-mcp",
-      "since": "2026-11-20T17:20:13.524129Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-20T18:32:41Z",
       "package": "delta-nested-filter-tracer",
       "since": "2026-11-20T18:18:49.941185Z",
       "version": "1.0.0.post1"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-20T18:32:43Z",
       "package": "nolipopop",
       "since": "2026-11-20T18:18:49.941185Z",
       "version": "1.0.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-20T21:29:18Z",
+      "package": "signed-manifest-updater",
+      "since": "2026-11-20T21:21:13.629917Z",
+      "version": "0.1.5"
     }
   ],
-  "serial": 43952902,
+  "serial": 43955608,
   "source_truncated": false,
-  "window": "2026-11-20T21:21:13.629917Z"
+  "window": "2026-11-20T22:21:42.300282Z"
 }
