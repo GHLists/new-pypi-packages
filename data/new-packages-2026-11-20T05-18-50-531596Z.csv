@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T04:23:18Z,blindsbazaar-mcp,0.1.0,BlindsBazaar,MIT,73017,"Read-only MCP server for the BlindsBazaar storefront: live catalog, authoritative window-price quotes, FAQs, buying guides and delivery info."
+2026-11-20T04:33:25Z,adsync-cli,0.1.0,,,21727,"Command line client for AdSync: run Meta Ads, Google Ads, GA4 and Search Console tools from a shell."
+2026-11-20T04:38:41Z,nomi-sdk,0.0.2,bodi,Apache-2.0,11022,Python SDK for nomi: local records of what your AI agent's runs did. Not yet released.
+2026-11-20T04:38:47Z,brash,0.1.0,eddieland,MIT,101369,"Codemods that hold a Python codebase to its conventions: applied by your formatter step, checked by lint."
+2026-11-20T04:41:00Z,polash,0.1.0,,,610963,"Deterministic, offline SHA-256 transformation of text into plausible Polish names"
+2026-11-20T04:44:54Z,flag-capturer,0.1.6,Alex Min,PolyForm-Strict-1.0.0,31478,Point it at a file or a string and it digs out CTF flags through layers of encoding.
+2026-11-20T04:45:03Z,rulestamp-red-doc-en18031-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33711,Checks an EU declaration of conformity for radio equipment against Delegated Regulation (EU) 2022/30 and the EN 18031:2024 citations (bundled Node.js runtime)
+2026-11-20T04:45:22Z,rulestamp-resilience-plan-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34549,"Checks EU critical entity risk assessment and resilience plans against CER Directive 2022/2557 Art. 12-15: 24-hour notice, one-month report, nine-month first assessment, four-year review, all hazards…"
+2026-11-20T04:45:38Z,rulestamp-romu-hozon-kikan-lint-jp,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36066,法定帳簿の保存期間を文書保存期間表で検査 — 労基法109条・安衛則51条・石綿則41条・雇用保険法施行規則143条・健保則34条（20 rules） (bundled Node.js runtime)
+2026-11-20T04:45:55Z,rulestamp-sepa-pain001-reject-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36760,Find the lines your bank will refuse before you send the batch (bundled Node.js runtime)
+2026-11-20T04:46:07Z,sidescope,0.1.1,,Apache-2.0,724186,Sidescope Wayland status column launcher and runtime doctor
+2026-11-20T04:47:34Z,qsolve-sdk,1.0.0,Santhosh Reddy <santhosh@omlabs.co>,Apache-2.0,186710,SDK for building reusable quantum and hybrid workflows on the Qsolve platform
+2026-11-20T04:48:51Z,probity-records,0.2.0,Sankalp Gilda,Apache-2.0,185060,"Signed, offline-verifiable records of agent tool calls: single-use permits, approval binding and lost-reply outcomes"
+2026-11-20T04:50:31Z,fethr,1.4.0,Fethr Health,Apache-2.0,14042,"Helpers for Python scripts run by Fethr flows: outputs, metrics, logging and starting flows."
+2026-11-20T04:50:56Z,polarsteps-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,14836,"Connect Polarsteps to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No Polarsteps API key needed."
+2026-11-20T04:53:18Z,pyigc,0.0.1,,,2636,Not a real package: reserved by slopsq.com to prevent slopsquatting abuse.
+2026-11-20T04:53:47Z,process-birth,0.2.0,El Fenomeno,MIT,21690,"A Python module that turns a process start time into one UTC second value, so a reused PID is never mistaken for the same process."
+2026-11-20T04:54:27Z,mcp-crashtest,0.2.1,SnowyLumiere,"MIT License Copyright (c) 2026 SnowyLumiere Permission is hereby granted, free of charge, to any pe…",121769,MCP Multi-step Deadlock & Vulnerability Crash Tester via State-Aware Random Walks with Rollback
+2026-11-20T04:55:36Z,iso20022,0.0.1,,,2665,Not a real package: reserved by slopsq.com to prevent slopsquatting abuse.
+2026-11-20T04:55:38Z,streamlit-livekit,0.1.1,Chanin Nantasenamat <dataprofessorofficial@gmail.com>,MIT,30525,Talk to a LiveKit voice agent from a Streamlit app
+2026-11-20T04:55:49Z,fae-plugin-py,0.1.0,Teshin <1443965173@qq.com>,Apache-2.0,78083,Typed Python plugins for the FAE agent engine
+2026-11-20T04:56:42Z,aionecpbx,0.2.0,Oliver Maller,MIT,39571,Async clients for NEC SL2100 and SV9100 call logs (SMDR) and FreePBX live calls (AMI)
+2026-11-20T04:57:53Z,audioclient,0.0.1,,,2691,Not a real package: reserved by slopsq.com to prevent slopsquatting abuse.
+2026-11-20T04:59:06Z,nonebot-plugin-hoyo-events,0.1.1,Tony <plia0974@uni.sydney.edu.au>,MIT,88075,原神 / 崩坏：星穹铁道 / 绝区零 活动日历与未完成提醒 NoneBot2 插件
+2026-11-20T04:59:26Z,datanuggets-flow,0.1.0a3,Ronil Basu,GPL-2.0-only AND CC-BY-4.0,2279825,Clusters flow cytometry events across FCS files with data nuggets.
+2026-11-20T04:59:27Z,nselite,0.1.0,PriceCatch,GPL-3.0-or-later,89721,"Lean, async-first Python client for NSE India end-of-day reports and market data"
+2026-11-20T05:00:03Z,aioprotegewx,0.1.0,Oliver Maller,MIT,50306,Async client for ICT Protege WX alarm and access controllers through their web interface
+2026-11-20T05:00:18Z,freshdesk-api,0.0.1,,,2771,Not a real package: reserved by slopsq.com to prevent slopsquatting abuse.
+2026-11-20T05:08:39Z,snap-judgment,0.11.0,Ryan Cotten <hello@ghostdeveloperstudio.com>,MIT,156250,"Snap Judgment issues a courtroom-style verdict on your screenshot habits, computed from file metadata only. It never decodes image pixels and never uploads anything."
+2026-11-20T05:10:29Z,constile-gate,0.6.0,"""CCC2C Inc."" <hello@constile.app>",MIT,80467,"The Constile gate for Python sites: WSGI and ASGI middleware, with Django, Flask, and FastAPI wiring."
+2026-11-20T05:14:22Z,mcp-project-m,0.1.2,Aditya Debnath,MIT,68908,"Local-first context engine & verified blackboard synchronizing state across Claude, Codex, and Antigravity"
+2026-11-20T05:14:23Z,jev-interaction,0.3.0,,Apache-2.0,385060,"A full-duplex voice framework whose turn-taking is a set of plain-language decisions judged by Jev, not a trained model."
+2026-11-20T05:15:15Z,umanaged-agents-py,0.1.0a1,,Proprietary,359364,Python SDK for the MVPP public protocol mvpp-public-v1-draft.1 (Session + events)
