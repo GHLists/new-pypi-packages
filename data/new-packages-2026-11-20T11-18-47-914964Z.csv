@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-20T10:19:21Z,seldon-sdk,0.1.0.dev0,,Apache-2.0,105994,Explicit Seldon Functions tooling and Python client
+2026-11-20T10:19:36Z,tradeoff,0.1.0,,Apache-2.0,14974,Choose between options when none is best on every count: Pareto front and weighted ranking
+2026-11-20T10:19:56Z,harbor-expense-agent,0.1.0,,MIT,43616,"Harbor Mutual expense task agent (fictitious demo system under test): event-driven, MCP tools, SQLite, notices."
+2026-11-20T10:20:46Z,repackdeck,1.0.0,RepackDeck Team <team@repackdeck.com>,MIT,9935,"Official CLI for RepackDeck — lossless PC game repacks, FLiNG trainers, Steam Deck presets, and QuickSFV integrity verification."
+2026-11-20T10:21:11Z,witnis,1.11.0,Witnis contributors,Apache-2.0,248252,"witnis-dev: PR-gate evidence for coding agents (blast-radius, gated verify). Not affiliated with Witnis AB."
+2026-11-20T10:21:56Z,callscope-ai,0.1.0,,MIT,18156,"Local call-center call analysis: transcript, speakers, sentiment, contact reasons and key moments in one JSON."
+2026-11-20T10:22:11Z,vdm10-python,0.1.1,lodzen,GPL-3.0-only,161714,Python library and indoor-station simulator for Metzler/Hikvision VDM10 SIP intercoms
+2026-11-20T10:24:47Z,open-agent-docs-server,0.3.0,,MIT OR Apache-2.0,64939968,"Open Agent Docs 服务器（Rust，PyO3）：在 Python 进程里起。一般经 pip install ""open-agent-docs[server]"" 装，用 open_agent_docs.start()"
+2026-11-20T10:24:59Z,open-agent-docs,0.3.0,,MIT,118229,Open Agent Docs 的 Python SDK：同步 / 异步客户端、事件流、webhook 验签、JWT、本地起服务器
+2026-11-20T10:25:42Z,Frontend-And-Backend,0.1.2,Nehan <muhammednehanpt@gmail.com>,MIT,14867,A collection of useful Python utilities.
+2026-11-20T10:30:02Z,unfragile,0.1.0,Unfragile <hello@unfragile.ai>,MIT,12772,"The Unfragile API in a few calls (find, search, verify, resolve, passport, stats), with offline checks of signed receipts and passports."
+2026-11-20T10:31:23Z,larrot,1.1.0,Larbi Ishak (larbizyo),Apache-2.0,352108,"Larrot repeats Huawei Cloud. A local Huawei Cloud API simulator (like LocalStack, but for Huawei Cloud)"
+2026-11-20T10:31:28Z,lazy-kafka,0.1.0,Timon Viola <44016238+timonviola@users.noreply.github.com>,MIT,320119,A TUI application to enhance the Kafka eco-system devX.
+2026-11-20T10:31:37Z,complexmd,0.1.0,COMPLEXmd contributors,MIT,38847,A Markdown agent contract for simulators and libraries of complex systems.
+2026-11-20T10:32:38Z,glowtrace,0.3.0,Eman Khadim,MIT,81143,"Watch your AI agents think, live. A zero-config OpenTelemetry receiver that turns agent traces into a live, clickable graph."
+2026-11-20T10:32:41Z,ckanext-ai-connector,0.1.0,Bjorn Hagstrom,MIT,183381,"One AI connection (model, key, time limits) that CKAN extensions share, set up by a sysadmin"
+2026-11-20T10:33:16Z,checkpoint-transfer,0.0.1,PaddlePaddle Authors,Apache-2.0,124056,High-performance transfer checkpoint
+2026-11-20T10:33:33Z,reamer-research-mcp,0.1.0,Reamer Labs <support@reamerlabs.com>,MIT,29664,"MCP server for Reamer Research: run backtests, Monte Carlo and visual trade diagnostics from Claude, Cursor and other MCP clients."
+2026-11-20T10:34:38Z,plum-sbm,0.1.0,,,25901,An offline stateful model for tracking structured evidence in a stream
+2026-11-20T10:36:02Z,predeploy-runner,1.0.0,,,19427,"A lightweight, reusable pre-deployment gate runner for Python services"
+2026-11-20T10:37:28Z,godam-sdk,0.3.0,rtCamp <contact@rtcamp.com>,GPL-2.0-or-later,105758,"Upload videos to GoDAM and get their embed URLs, with only an organization licence key."
+2026-11-20T10:37:51Z,custovox-calls,0.1.0,Jérémie Muselet,MIT,26143,"Customer-service call analysis MCP: sentiment, contact reasons, churn threats, follow-up actions. Runs locally. By custovox.ai"
+2026-11-20T10:38:07Z,surslide-ml,0.1.0,,MIT,26333,Numerical computing and AI algorithms built from scratch in Python
+2026-11-20T10:39:16Z,aibirthday,0.1.0,AI Birthday Video Generator,MIT,8567,"AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window."
+2026-11-20T10:39:34Z,franklinwh-direct-connect-bridge,0.5.55,david2069 <david2069@users.noreply.github.com>,MIT,3017373,Home Assistant add-on / REST + MQTT bridge for the FranklinWH aGate local (sendMqtt) API
+2026-11-20T10:39:58Z,slapstick,0.0.1,,Apache-2.0,2579,Reserved for Slapstick. Not released yet.
+2026-11-20T10:40:39Z,lunaspace,0.12.0,Luna Space,Apache-2.0,36935,The Python client of Luna Space's orbit determination service
+2026-11-20T10:40:39Z,pool-segmentation,0.2.0,Paul Yudkin,MIT,127181,"Find a swimming pool's water in video frames, and make the training data for it"
+2026-11-20T10:43:26Z,econlab,1.1.0,EconLab contributors,MIT,2073793,"c-ABM compliant, pluggable LLM-agent economic experiment sandbox"
+2026-11-20T10:45:37Z,theirstack,0.1.0,,,41653,"TheirStack CLI — query TheirStack's job, company and technographic data from the terminal, scripts and cron, over the TheirStack MCP server."
+2026-11-20T10:49:49Z,vesin-jax,0.7.0rc1,Guillaume Fraux <guillaume.fraux@epfl.ch>,BSD-3-Clause,1131027,"Computing neighbor lists for atomistic system, with JAX"
+2026-11-20T10:50:12Z,numpylab,0.1.0,,,2755,Add your description here
+2026-11-20T10:56:13Z,thermia-genesis-modbus,1.0.0,Johan Isaksson,MIT,36481,Python wrapper for getting data from Thermia Mega and Inverter heat pumps via Modbus TCP.
+2026-11-20T10:57:05Z,ckanext-metadata-assistant,0.1.0,Bjorn Hagstrom,MIT,771705,"Metadata review in the CKAN dataset form: a rule check, and AI suggestions and translations that an editor approves"
+2026-11-20T10:57:34Z,dual-rail,1.3.0,,MIT,259516,"Add XNO beside USDC/x402, never instead of it: one appended accepts[] entry, and a verifier that proves both rails still work."
+2026-11-20T10:58:54Z,odoo-addon-edi-lock-output-oca,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",LGPL-3,31160,Lock fields of records once their EDI output was sent
+2026-11-20T11:00:02Z,gridlens,0.2.0,,MIT,45374,Open-source power quality analysis toolkit
+2026-11-20T11:04:57Z,annotate-bio,0.1.0,,MIT,14293,"Python client for annotate.bio: find, download and load perturbation datasets."
+2026-11-20T11:08:53Z,tieback,0.2.0,Actuarial Labs,Apache-2.0,106457,"Reconcile insurance extracts: join any number of files, correct mistyped keys, find what is wrong, and prove the result ties back to the totals."
+2026-11-20T11:09:57Z,astsight-codegraph-bin,1.6.2,,MIT,303646748,AstSight bundled CodeGraph runtime and Node executable
+2026-11-20T11:10:01Z,imagenudge-lite,0.1.0,Alessio Auretto,MIT,26849,"Check running Docker containers for newer images: digest changes and newer version tags. Read-only, no pulls."
+2026-11-20T11:10:26Z,dhis2-fetch-core,0.0.1,"Elijah Filip, Valérian Turbé",MIT,14090,"Read-only core for DHIS2 Web API clients: connection, error codes, version differences and query builders"
+2026-11-20T11:11:30Z,ifseen,0.1.0,Krish Joshi,MIT,9569239,"If seen (or heard), then do. Plain-English triggers for your screen, camera and mic, powered by decision models."
+2026-11-20T11:14:09Z,pysvgwriter,1.0.0,Josue N Rivera,MIT,970990,"SVG 1.1 as Python objects: draw, transform, combine, render and convert vector graphics."
+2026-11-20T11:14:10Z,evokai-client,0.1.0,Giordano Pescetelli,Apache-2.0,105398,"Python client for Evokai: session tokens, server runs, admin API and streamed session chats"
+2026-11-20T11:14:35Z,evokai,0.1.0,Giordano Pescetelli <giordano.pescetelli@gmail.com>,Apache-2.0,11278,"Evokai: summon AI agents into any app. This package installs the Python client, evokai-client."
+2026-11-20T11:15:52Z,nemoguardrails-redefiner,0.1.0,"Sethuraman T A, Jungroo AI Labs",Apache-2.0,35380,"PII detection and masking rails for NVIDIA NeMo Guardrails, using ReDefiNER and a plain-English rulebook."
+2026-11-20T11:17:03Z,ere-sdk,0.1.0a1,The Elixirs Lab Ltd <info@theelixirslab.com>,,25408,"Python client for the Èrè developer API (API keys, idempotency, retries, webhook verification)"
+2026-11-20T11:17:43Z,make-mate,0.1.15,make-mate contributors,MIT,454102,An easier make wrapper for task-style Makefiles
