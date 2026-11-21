@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T17:19:56Z,geotiger,0.1.0,Andrew Wheeler <andrew.wheeler@crimede-coder.com>,MIT,105851,Local-first US address geocoding from TIGER/Line address ranges
+2026-11-21T17:23:57Z,zebracat,0.1.0,Zebracat,MIT,183087,Official Python client for the Zebracat video API
+2026-11-21T17:26:38Z,crimepy-cdc,0.1.0,Andrew Wheeler <andrew.wheeler@crimede-coder.com>,MIT,11616144,Crime analysis in Python
+2026-11-21T17:28:49Z,ovos-skill-1001-nights,0.1.0,Andreas Lorensen,Apache-2.0,124013,Tales from the Thousand and One Nights (Wikisource) provider for ovos-common-reading-pipeline-plugin. No standalone voice interface.
+2026-11-21T17:28:56Z,clickhouse-sqlalchemy-ng,0.4.0,Konstantin Lebedev,MIT,102804,Simple ClickHouse SQLAlchemy Dialect
+2026-11-21T17:29:28Z,devbrains,0.1.0.dev0,,,2612,Project memory for work that spans devices (early preview)
+2026-11-21T17:30:18Z,f-ksa,1.0.0,Fida <your_email@example.com>,,14320,مكتبة عربية ذكية لتنظيف البيانات ومعالجة النصوص والأرقام السعودية
+2026-11-21T17:30:47Z,sycl-nl,0.3.0,,BSD-3-Clause,32684,A minimal periodic SYCL neighbor list for PyTorch XPU
+2026-11-21T17:32:45Z,pi-minimal,0.1.0,,MIT,195316,Start pi with only the extensions and skills you pick
+2026-11-21T17:33:19Z,pyskins,0.1.0,Alex and Isabela Girlea,MIT,73966,"Python files written in emoji that really run. Dress your code in a skin, and take it off again."
+2026-11-21T17:36:28Z,selfright-mcp,0.4.7,Pierroons <contact@my-self.fr>,AGPL-3.0-or-later,132157,"Serveur MCP de consultation du droit français (LEGI), de conventionnalité (UE, CEDH, RGPD, règlement IA), de jurisprudence (Judilibre, JADE) et des ressources administratives officielles"
+2026-11-21T17:37:53Z,aelix-analytics,0.32.1,handochan,Apache-2.0,2041641,"Agent-native analytics projects with durable context, metrics, evidence, and reports"
+2026-11-21T17:38:59Z,alembic-status,1.0.0,,GPL-3.0-or-later,78635,"Show alembic branches status and upgrade outdated branches, standalone or as Flask-Migrate sub-commands."
+2026-11-21T17:42:17Z,lirk,1.1.0,Shawn Faulkingham Jr,MIT,117997,"A minimal, Bazel/Please-inspired build tool for Python monorepos."
+2026-11-21T17:43:43Z,postpilot,0.1.0,DevFiend,,112941,Personal AI-powered content management and publishing assistant for X (Twitter)
+2026-11-21T17:47:24Z,tabulith,0.0.1,,,1287,
+2026-11-21T17:47:40Z,pylosisi,0.1.0,sdgrgreerr <maxim.fry.a@gmail.com>,,19592,Audio modem protocol implementation for LoSiSi (Low-Signal Simple Interface)
+2026-11-21T17:50:58Z,setmore-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,16600,"Connect Setmore to ChatGPT, Claude and any AI agent through Cotlet.dev, a hosted MCP server. No Setmore API key needed."
+2026-11-21T17:52:33Z,scrapereviews-mcp,0.1.0,ScrapeReviews,MIT,109672,"MCP server for the ScrapeReviews API: Trustpilot companies, reviews and categories"
+2026-11-21T17:52:45Z,colonycount,0.1.0,rafaliazz,Apache-2.0,38053,Offline bacterial colony counter for agar plate photos
+2026-11-21T17:53:05Z,scrapeadlibrary,0.1.0,ScrapeAdLibrary,MIT,39033,Official Python SDK for the ScrapeAdLibrary API (Meta Ad Library data)
+2026-11-21T17:53:08Z,scrapeadlibrary-mcp,0.1.0,ScrapeAdLibrary,MIT,143725,MCP server for the ScrapeAdLibrary API: search the Meta Ad Library from AI assistants
+2026-11-21T17:53:25Z,scrapereviews-sdk,0.1.0,ScrapeReviews,MIT,34276,"Official Python SDK for the ScrapeReviews API: Trustpilot companies, reviews and categories"
+2026-11-21T17:53:43Z,hostel-room-allocation-siya,0.1.0,Siya Sood <siya.25004583@jainuniversity.ac.in>,,8401,A Python package for hostel room allocation and occupancy management
+2026-11-21T17:59:26Z,mcp-workers-bridge,0.5.0,,MIT,85227,"A stdio MCP server for authenticated YouTube, X, and Reddit reads"
+2026-11-21T17:59:56Z,interactive-video-labs-fastapi,0.2.0,Taj,MIT,8756,FastAPI adapter for interactive-video-labs-core
+2026-11-21T18:03:00Z,tether-agents,0.3.0,,Apache-2.0,24694,Python client for Tether: run agents you don't trust on infrastructure you do.
+2026-11-21T18:04:45Z,mcp-shieldwall,0.3.1,,MIT,54639,"Zero-dependency security firewall, tool-poisoning scanner & secret redactor for MCP (Model Context Protocol) servers."
+2026-11-21T18:04:53Z,hyperliquid-starter-bots,0.2.1,,MIT,77858,Starter trading bots for Hyperliquid plus a read-only MCP server for coding agents
+2026-11-21T18:05:07Z,ai-pr-cost-guard,0.2.1,Carl <andreyy.2200223@gmail.com>,MIT,61436,"Diff-aware Python AST and JS/TS static FinOps gate for unbounded LLM retry loops, missing output token caps, missing timeouts, and exposed AI API keys."
+2026-11-21T18:07:04Z,ansik,0.1.0,tjf1dev,,4603,a lightweight library for ANSI escape codes
+2026-11-21T18:07:19Z,video2md,0.2.0,video2md,MIT,39050,MCP server that turns video/audio files into transcripts and metadata for report generation.
+2026-11-21T18:08:16Z,keeptabs,0.0.2,Thor Whalen,mit,86852,"Technology watch for people who work with AI agents: say what to follow, let a scheduled run collect what is new, ask what changed"
+2026-11-21T18:12:37Z,kerbtap,0.0.1,,Apache-2.0,2692,Guardrails for AI coding agents. Placeholder release; the first real release follows.
+2026-11-21T18:13:01Z,git-insight-tool,0.1.0,,MIT,51315,"Terminal, HTML and JSON statistics for local Git repositories: authors, activity heatmap, bug-fix hotspots, bus factor."
+2026-11-21T18:16:20Z,vinewright,0.5.0,Sentivium Team <info@sentivium.org>,Apache-2.0,19722,Vinewright Embedded Python DSL: Governed Business Operating System for Agentic Fleets
