@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T13:21:08Z,rowsift,0.1.1,Marcelo Santino,Apache-2.0,252450,"Read spreadsheets written by people: find the table, infer what each column holds, clean the values and map them to the fields you declare."
+2026-11-21T13:24:18Z,control-expert-mcp,0.9.1,,MIT,341537,MCP server exposing EcoStruxure Control Expert (Unity Pro) to AI agents via the UDE COM automation API
+2026-11-21T13:25:25Z,bca-student-record-system-srihari,0.1.0,srihari25004693-sudo,MIT,7266,A simple student record system built with Python and SQLite
+2026-11-21T13:27:18Z,speedtest-ng,3.0.1,"Marco Sousa <marcomsousa@gmail.com>, Matt Martz <matt@sivel.net>",Apache-2.0,190949,Modern async & raw-TCP command line interface and Python library for testing internet bandwidth using speedtest.net
+2026-11-21T13:27:22Z,lupaxa-password-strength-checker,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",49718,Python library and command-line tool that scores password strength and can check Have I Been Pwned.
+2026-11-21T13:28:10Z,codejourney,0.1.0,CS1302 Group 09,MIT,33845,Educational Python execution visualization for Jupyter notebooks
+2026-11-21T13:30:32Z,jackedin,1.2.0,JackedIN,LicenseRef-JackedIN-EULA,13868,Python client for the JackedIN command line
+2026-11-21T13:30:54Z,nornir-jackedin,1.2.0,JackedIN,LicenseRef-JackedIN-EULA,4133,Nornir connection plugin and tasks for JackedIN
+2026-11-21T13:31:48Z,lupaxa-github-extractor,0.1.0,The Lupaxa Project,MIT,67696,"List GitHub organisations, repositories, and related data."
+2026-11-21T13:31:56Z,yandex-unitednn-arcadia-cpp-debug,66.0.3,Yandex,,1235,A package to prevent Dependency Confusion attacks against Yandex.
+2026-11-21T13:32:50Z,cruma-tron-runner,0.1.0,Umbra-Yurei,MIT,49462,Run Tron jobs on your own machines: an async runner SDK for Tron's runner protocol
+2026-11-21T13:34:16Z,woundscan,0.1.0,"Muhammad Allam Rafi, Cindy Rizky Afrilia",MIT,23031,Composable calibrated wound-mask measurement and optional ONNX segmentation for research
+2026-11-21T13:34:18Z,facial-plastic-surgery-planner,0.1.0,"Muhammad Allam Rafi, Cindy Rizky Afrilia",MIT,127132,"Composable facial wound geometry, suture marking and research planning tools"
+2026-11-21T13:35:36Z,nmbackend,0.4.0,"R. O'Shaughnessy, RIT CCRG nuclear-matter group",MIT License Copyright (c) 2026 R. O'Shaughnessy and the RIT CCRG nuclear-matter group Permission is…,526442,"NuclearMatter-Backend: differentiable EOS + TOV tools for neutron-star EOS inference, interfacing RIFT and gwkokab."
+2026-11-21T13:36:04Z,litechat-py,0.3.0,,MIT,45690246,"Lightweight self-hosted chat UI for local and cloud LLMs: one binary, plus a Python API."
+2026-11-21T13:42:18Z,lgd-skillgate,0.1.0,LGD-Eval,"MIT License Copyright (c) 2026 LGD-Eval Permission is hereby granted, free of charge, to any person…",35718,"Offline static scanner for AI agent skills (SKILL.md / scripts), with stable rule IDs and JSON/SARIF output."
+2026-11-21T13:43:03Z,antinet,0.1.0,,Apache-2.0,32155,"The local Antinet service from Python: the OpenAI SDK and LangChain over its socket or pipe, the decision loop and typed decisions"
+2026-11-21T13:50:05Z,pydeako-community,0.6.1,pydeako-community contributors,MIT,43338,Connect and interact with deako devices over the network locally
+2026-11-21T13:50:52Z,sparetokens,0.0.1,SpareTokens <hello@sparetokens.ai>,Apache-2.0,3783,Placeholder for the SpareTokens worker. The real release is coming; see https://sparetokens.ai
+2026-11-21T13:51:00Z,django-lokconfig,1.0.0,Loknus Labs LLC <loknuslabs@gmail.com>,GPL-3.0-or-later,93439,"Reusable Django runtime configuration: persistent YAML settings, setup, migrations, and restart requests"
+2026-11-21T13:55:19Z,xprobe,0.6.2,itdevwu,Apache-2.0,2713093,"Find out why your CPU, Python, or CUDA process is slow in two commands: a bounded Linux profiler for AI coding agents."
+2026-11-21T13:57:14Z,paper-animator-kit,1.0.0,Paper Animator,MIT,7673,Zero-dependency paper color palettes and stop-motion timing utilities for paper-craft animations and UI styling.
+2026-11-21T13:58:09Z,mareforma-pro,0.1.0,,MIT,101059,"Rootless, no-sudo observation transports for Mareforma"
+2026-11-21T14:05:11Z,scnmf-gpu,0.4.0,SCNMF Developers,MIT,90565,"Sparse conditional joint NMF for single-cell RNA-seq integration, dimensionality reduction, and interpretable metagene discovery. PyTorch GPU backend."
+2026-11-21T14:08:41Z,evalogy,0.3.0,Rinaldo Festa,Apache-2.0,2558687,"Open methodology and generator for enterprise AI-agent reliability evals, built on inspect_ai."
+2026-11-21T14:15:51Z,ru-corpus-kit,0.1.0,ru-corpus contributors,Apache-2.0,146401,"Русский поиск и проверяемая аналитика по корпусу документов: индексация, поиск BM25 по леммам, таблицы, числа"
