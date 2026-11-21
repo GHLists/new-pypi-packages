@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T07:58:35Z,ppbt-cross-aarch64-linux-gnu,0.2.0,Daniel A. Wozniak,Apache License 2.0,43255045,Portable Python Build Toolchain - aarch64-linux-gnu cross toolchain
+2026-11-21T08:28:11Z,tohsaka,1.0.0,,MIT,251757,Graceful time management utility that always triggers 60 minutes ahead of target deadlines.
+2026-11-21T08:29:19Z,genlab-ndk-ffmpeg-source,1.0.0,,"LGPL-2.1-or-later (FFmpeg); every library keeps its own licence (BUILD_INFO.txt, LICENSE)",54864464,The corresponding source (LGPL) of the FFmpeg build in genlab-ndk 1.0.0
+2026-11-21T08:29:28Z,genlab-ndk,1.0.0,,Proprietary - all rights reserved (GenLab NDK). Bundles FFmpeg (LGPL-2.1-or-later): genlab_ndk/app/…,52421200,GenLab NDK - Generation Engineering Laboratory | Next-generation Development Kit. One Platform. From Software to System.
+2026-11-21T08:34:27Z,pico-vllm,0.1.0,pico-vLLM contributors,Apache-2.0,323485,"A small, test-driven vLLM-inspired inference engine for Qwen3 models"
+2026-11-21T08:34:55Z,ppbt-cross-x86-64-linux-gnu,0.2.0,Daniel A. Wozniak,Apache License 2.0,45949899,Portable Python Build Toolchain - x86_64-linux-gnu cross toolchain
+2026-11-21T08:36:06Z,tilelang-attnres,0.1.0,Index4NekoMeteor,Apache-2.0,27472,"Attention Residual architecture from Kimi K3 using TileLang, with fused forward and backward kernels."
+2026-11-21T08:36:11Z,questio,0.1.2,Nomada Software LLC,MIT,51530,"Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Local-first, no cloud, no uploads."
+2026-11-21T08:38:34Z,catemc,1.0.0,Shuang Han <hanshuangshiren@gmail.com>,GPL-3.0-only,148401,Evolutionary Monte Carlo for simulating catalysts under reaction conditions
+2026-11-21T08:44:39Z,bellpress,0.1.0,,,1060865,Markdown -> static site generator with an extensible block-syntax registry.
+2026-11-21T08:45:47Z,agent2mesh,0.1.0,,,49743757,"MCP server that lets an agent turn airborne LiDAR (ALS) building points into a visual mesh and a LoD2 model, one building at a time"
+2026-11-21T08:46:57Z,group14-secret-room,0.1.0,"zekaipeng14-netizen, Fenice723, guiyifei1014-boop, guosonglin999-hue",MIT,21987,A text-based secret room puzzle adventure game in Python.
+2026-11-21T08:47:17Z,telethon-redis,0.1.0,M4hbod,MIT,21626,Redis session storage for Telethon
+2026-11-21T08:50:49Z,baekpy,0.1.1,,,2381,파이썬 연습용
+2026-11-21T08:56:00Z,vipeak-api,0.2.0,Vipeak AI <zzxcpl@sina.com>,MIT,17210,Async client and MCP server for the Vipeak AI (123vip.fans / 123vips.com) Seedance Spicy & Wan NSFW video generation API
+2026-11-21T08:56:14Z,winlnk,0.1.0,winlnk contributors,MIT,17677,"Create and read Windows .lnk shortcuts from Python, with zero dependencies."
+2026-11-21T09:01:35Z,agent-usage-tracker,0.1.0,,MIT,1290544,"Passive, subscription-safe tracker of coding-agent work (Claude Code, Codex, Cursor, Pi): usage, sessions, activity, active time, outcomes and local labels. Reads local logs, normalizes, pushes to a…"
+2026-11-21T09:02:50Z,vietlen,0.4.0,glm-bot,MIT,17495,Bộ lệnh dòng lệnh tiếng Việt — đọc tên là hiểu nó làm gì (Vietnamese command-line tools whose names say what they do)
+2026-11-21T09:04:58Z,infinocular,0.0.1,The Infinocular Authors,MIT,5728,"AI-powered discovery, classification and remediation of threats and vulnerabilities across human and non-human identities."
+2026-11-21T09:05:16Z,cryptocular,0.0.1,The Cryptocular Authors,MIT,5711,"AI-powered discovery of hidden secrets, keys and non-human identities, with guided remediation."
+2026-11-21T09:07:45Z,oracle-db-agent-sdk,1.0.0,Oracle,UPL-1.0,160329,Build and execute AI agent workflows in Oracle Database
+2026-11-21T09:10:39Z,sml-hive402,0.1.0,Script Master Labs LLC <tim@scriptmasterlabs.com>,MIT,20129,Python SDK for HIVE402 catalog search and SML Authority Engine x402 tools.
+2026-11-21T09:12:28Z,neurocular,0.0.1,The Neurocular Authors,MIT,5699,AI engine that classifies identity threats and vulnerabilities and recommends remediation steps.
+2026-11-21T09:15:45Z,3dm-mod-mcp,1.1.0,小莫 <xiaomo1433675239@outlook.com>,MIT,16240,MCP 服务器 - 3DM Mod API 集成
+2026-11-21T09:17:09Z,LFSDC,0.1.2,niktifin47,BSD-3-Clause,36744,"Extract, restyle, and convert text across common document formats."
+2026-11-21T09:17:57Z,infinity-db-contracts,0.0.1,,,2238,"placeholder, do not use"

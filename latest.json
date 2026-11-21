@@ -1,41 +1,34 @@
 {
   "list": {
-    "count": 14,
-    "from": "2026-11-21T07:18:42.632117Z",
-    "path": "data/new-packages-2026-11-21T08-21-25-757295Z.csv",
-    "to": "2026-11-21T08:21:25.757295Z"
+    "count": 26,
+    "from": "2026-11-21T08:21:25.757295Z",
+    "path": "data/new-packages-2026-11-21T09-18-45-908423Z.csv",
+    "to": "2026-11-21T09:18:45.908423Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-21T08:18:15Z",
       "package": "cleancheck",
       "since": "2026-11-21T07:18:42.632117Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-21T04:26:24Z",
-      "package": "labslo",
-      "since": "2026-11-21T04:21:21.241673Z",
-      "version": null
+      "attempts": 1,
+      "created_at": "2026-11-21T08:22:12Z",
+      "package": "cleancheck001",
+      "since": "2026-11-21T08:21:25.757295Z",
+      "version": "0.1.0"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-21T07:58:35Z",
-      "package": "ppbt-cross-aarch64-linux-gnu",
-      "since": "2026-11-21T07:18:42.632117Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-21T07:40:04Z",
       "package": "testnsodescriptor",
       "since": "2026-11-21T07:18:42.632117Z",
       "version": "0.0.0"
     }
   ],
-  "serial": 43968933,
+  "serial": 43970269,
   "source_truncated": false,
-  "window": "2026-11-21T08:21:25.757295Z"
+  "window": "2026-11-21T09:18:45.908423Z"
 }
