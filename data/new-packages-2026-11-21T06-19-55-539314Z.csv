@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T05:24:04Z,evo8-linux,0.1.1,wh01s17,MIT,143646,"Control del Audient EVO 8 en Linux: mezcla de monitoreo interna, loop-back, preamps, mezclador para PipeWire y micrófono virtual."
+2026-11-21T05:24:45Z,evcloud,0.1.0,,,742152,
+2026-11-21T05:26:19Z,lxx-jsq,0.0.3,,,1790,一个简单计算器
+2026-11-21T05:27:00Z,keragi,1.1.6,Keragi <showdom@keragi.com>,KERAGI PROPRIETARY SOFTWARE LICENSE Version 1.1 — 2026-11-06 Copyright (c) 2026 Keragi. All rights…,41461,"Keragi Linux server installer and client downloader. Host, WASM resources and client packages come from the official site. 私有化 AI 协作与私有即时通讯安装与客户端下载工具。"
+2026-11-21T05:39:01Z,multi-agent-swarm,3.0.1,Multi-Agent Swarm contributors,MIT,167146,"Deep research with a multi-agent swarm on Claude: free web search, parallel cited workers, every quote checked against its source"
+2026-11-21T05:43:48Z,agent-invariant-eval,0.3.1,Sankaranainar Paramasivan,"MIT License Copyright (c) 2026 Sankaranainar Paramasivan Permission is hereby granted, free of char…",133022,"Deterministic, fail-closed governance and evaluation engine for multi-agent workflows."
+2026-11-21T05:45:05Z,rulestamp-sfdx-retirement-lint,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33312,Finds retired API versions and removed sfdx force:* commands in your DX repo before a deploy or a CI run fails with 410 GONE. (bundled Node.js runtime)
+2026-11-21T05:45:28Z,rulestamp-spdx-license-field-lint,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34336,"Reads the licence field in the open manifest and names every deprecated SPDX id, invalid string, PEP 639 leftover and copyleft obligation - with the exact replacement text. (bundled Node.js runtime)"
+2026-11-21T05:45:47Z,rulestamp-spirituosen-shop-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36428,"Produkt-CSV prüfen: VO (EU) 2019/787, Flaschengrößen, % vol, Alkopopsteuer, Alkoholsteuer je Flasche (bundled Node.js runtime)"
+2026-11-21T05:46:05Z,rulestamp-spl-registration-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33977,"Finds the lines the FDA gateway rejects in an SPL establishment registration, and how many days are left in the October 1 - December 31 window. (bundled Node.js runtime)"
+2026-11-21T05:47:58Z,codewidget,0.1.0,,"MIT License Copyright (c) 2026 CodeWidget contributors Permission is hereby granted, free of charge…",13867,"Create polished, resolution-independent code widgets for video and design."
+2026-11-21T05:48:52Z,use-robot,0.0.1,Dheeraj Pai,MIT,4753,use-robot: let AI agents use robots. Early preview; APIs coming soon.
+2026-11-21T05:51:05Z,holdfast-finance,0.0.0a0,Holdfast contributors,AGPL-3.0-only,274956,Holdfast API and worker: self-hosted personal finance.
+2026-11-21T05:51:44Z,open-hilt,1.0.1,,Apache-2.0,1052296,"Python HIL testing with a pit of success: composable tests, guardrails that make a bad test hard to write, and an engine that won't let an unhandled failure pass silently."
+2026-11-21T05:55:34Z,datahose,0.0.0,,MIT OR Apache-2.0,11613,The datahose command line for Datahose market data streams. Placeholder: install datahose-hyperliquid for now.
+2026-11-21T06:00:33Z,napari-veida,1.0.0,Veida AI <support@veida.ai>,MIT,10279,Unlimited free AI image generator. Generate an AI image from a prompt with Veida AI and load it into napari as an RGB image layer.
+2026-11-21T06:09:06Z,mixdyn,0.1.0,Ilia Gradina,Apache-2.0,3008483,"Media-mix modelling engine: dynamic linear models, geo hierarchies and budget plans."
+2026-11-21T06:11:09Z,amctl-template-ambot-plugin,0.1.2,,,30543,amctl template: AmritaBot plugin with a WebUI page and frontend build pipeline
+2026-11-21T06:12:02Z,cudist,0.1.0,Enrico Shippole,,2137,Add your description here
+2026-11-21T06:12:54Z,cufuzz,0.1.0,Enrico Shippole,,2142,Add your description here
+2026-11-21T06:13:17Z,cubloom,0.1.0,Enrico Shippole,,2162,Add your description here
+2026-11-21T06:13:46Z,cuhash,0.1.0,Enrico Shippole,,2140,Add your description here
+2026-11-21T06:15:02Z,benchlingtk,0.6.0,John Amodeo <120539773+jmamodeo@users.noreply.github.com>,Apache-2.0,460394,"Safe, auditable tools for AI agents working in Benchling"
+2026-11-21T06:16:38Z,tack-harness,0.1.1,Mohidkz05,MIT,151356,"A stack-agnostic harness for AI-assisted development: standard skills, guardrails, verification and automation for Claude Code (and any AGENTS.md-aware agent)."
+2026-11-21T06:17:05Z,pyreportkit,0.1.0,Abdullah Alaidrous,MIT,211794,"Build bilingual (Arabic/English, RTL/LTR) reports from reusable components and export them to HTML, PDF, Excel and Word."

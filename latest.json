@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 24,
-    "from": "2026-11-21T04:21:21.241673Z",
-    "path": "data/new-packages-2026-11-21T05-19-20-601745Z.csv",
-    "to": "2026-11-21T05:19:20.601745Z"
+    "count": 25,
+    "from": "2026-11-21T05:19:20.601745Z",
+    "path": "data/new-packages-2026-11-21T06-19-55-539314Z.csv",
+    "to": "2026-11-21T06:19:55.539314Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-21T04:26:24Z",
       "package": "labslo",
       "since": "2026-11-21T04:21:21.241673Z",
       "version": null
     }
   ],
-  "serial": 43965517,
+  "serial": 43966703,
   "source_truncated": false,
-  "window": "2026-11-21T05:19:20.601745Z"
+  "window": "2026-11-21T06:19:55.539314Z"
 }
