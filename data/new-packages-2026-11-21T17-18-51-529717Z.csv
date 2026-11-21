@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T16:19:44Z,ovos-skill-music-teacher,0.1.0a1,Andreas Lorensen,Apache-2.0,521161,"OVOS music teacher for piano, guitar and bass: scales, chords, simple songs and jamming - shown on the screen, played for you, then it listens to you play and says what was right; a tuner, and a cour…"
+2026-11-21T16:20:06Z,pygeoapi-yaml,0.1.0,Alexandre Leroux <alexandreleroux@icloud.com>,MIT,36039,A pygeoapi provider for YAML files
+2026-11-21T16:23:58Z,croft-signals,0.4.0,Daniel Pepuho,Apache-2.0,24903,croft signals for notebooks: Prometheus metrics and collector datasets as pandas frames
+2026-11-21T16:27:16Z,aipm-pm,0.3.12,Rui Kong <rui.kong@gmail.com>,Apache-2.0,160355,"AI Project Memory — local-first, Git-backed context for project work, knowledge, and handoffs."
+2026-11-21T16:30:42Z,stucktrace,0.1.0,"Ulykbek, Alisher, Azat, Alisher, Insar",MIT,81169,Learning-trajectory telemetry & reflection reports for Jupyter: detects where students get stuck (Moodle + OPT_Mentor + Hermes).
+2026-11-21T16:31:55Z,mcp-sdk-audit,0.1.2,Murat Bekgi,MIT,56457,"Find MCP SDK versions with known advisories, and the code that stays exposed after you upgrade."
+2026-11-21T16:33:51Z,wavesimfem,0.5.1,Ductho Le,MIT,524443,A GPU-accelerated finite element framework for acoustic and elastic wave propagation in layered media
+2026-11-21T16:37:11Z,interactive-video-labs-core,0.2.0,Taj,MIT,14176,Framework-agnostic Python backend core and storage adapters for syncing interactive video state and decision ledgers
+2026-11-21T16:37:58Z,acggr-py,0.2.0b0,jsoneri <jsoneri@outlook.com>,,1589971,Acggr - a standalone script toolset (danbooru / pawchive / cbg / jsoneri / aria2)
+2026-11-21T16:42:03Z,oqllm-api,0.2.0,,CLONERD / WELLMANIFEST PROPRIETARY SOURCE CODE LICENSE & STRICT ANTI-AI / ANTI-MINING RESERVATION O…,592920,"API specifications, schemas, and gateway adapters for oqllm and POA"
+2026-11-21T16:42:05Z,oqllm-user,0.2.0,Softreck <info@softreck.dev>,CLONERD / WELLMANIFEST PROPRIETARY SOURCE CODE LICENSE & STRICT ANTI-AI / ANTI-MINING RESERVATION O…,19285,"User portal, email authentication, and API key quota manager for oqllm"
+2026-11-21T16:42:08Z,oqllm-brand,1.0.0,Softreck,CLONERD / WELLMANIFEST PROPRIETARY SOURCE CODE LICENSE & STRICT ANTI-AI / ANTI-MINING RESERVATION O…,219250,"Visual identity, vector assets, and design tokens for the oqllm ecosystem"
+2026-11-21T16:44:12Z,task-scheduler-mcp,0.1.0,,,148668,"A cross-platform job scheduler MCP server for Linux, Mac and Windows"
+2026-11-21T16:44:20Z,skewsplit,0.1.0,The skewsplit authors,Apache-2.0,80777,"Balanced, index-friendly JDBC partition predicates for Spark, planned from the column's real distribution."
+2026-11-21T16:47:56Z,wl-cli-core,0.12.1,,MIT,851736,Rust sidecar for the wl CLI
+2026-11-21T16:48:11Z,worktrunk,0.83.0,,MIT OR Apache-2.0,91661588,"A CLI for Git worktree management, designed for parallel AI agent workflows"
+2026-11-21T16:48:25Z,drawbook-lp,0.1.0,Stargira,Apache-2.0,57076,"Capital call and distribution PDFs to an ILPA-format ledger, every figure linked to its page."
+2026-11-21T16:48:44Z,ray-tracing-shapely,0.3.1,ray-tracing-shapely authors and contributors,Apache-2.0,1863105,Python ray tracing library using Shapely for computational geometry
+2026-11-21T16:50:16Z,ray-tracing-shapely-optiland,0.1.1,ray-tracing-shapely authors and contributors,Apache-2.0,289329,"3D verification of ray_tracing_shapely nonimaging-optics designs via Optiland's non-sequential ray tracer -- scene assembly, notebook-embedded visualization, and ray/run persistence"
+2026-11-21T16:50:19Z,optiland-sms,0.1.1,ray-tracing-shapely authors and contributors,Apache-2.0,32944,Miñano-Benítez SMS nonimaging profiles as an Optiland entry-point surface-geometry plugin
+2026-11-21T16:51:43Z,xfea,0.0.1,,,1622,xfea: AI in your finite element workflow. First release coming soon.
+2026-11-21T16:51:53Z,xfea-mcp,0.0.1,,,1671,"xfea for your AI assistant: an MCP server that builds, solves and shows finite element models. First release coming soon."
+2026-11-21T16:52:06Z,nextfake,0.1.0,,MIT OR Apache-2.0,15728969,"Rust-powered, multi-core synthetic data & schema generator for Python (Faker-compatible API, Arrow/Polars/Parquet native)."
+2026-11-21T16:53:51Z,scene-streamer,0.1.0,The Menpo Team <hello@menpo.org>,BSD-3-Clause,218695,"Stream frames from an OpenGL scene renderer to a browser, a notebook widget or an app window"
+2026-11-21T16:53:58Z,oort-lang,0.4.0,fyabc,MIT,371653,A toy programming language
+2026-11-21T16:55:16Z,sosmonitor,0.3.1,,MIT,64410,"Simple server monitor: CPU, memory, disk and load alerts by webhook or email. One file, no root, no dependencies."
+2026-11-21T16:55:40Z,llama-index-tools-vericto,0.1.0,vericto,Apache-2.0,53887,An integration package connecting Vericto (database guardrails for AI agents) and LlamaIndex: check every SQL statement against Vericto's rules before it runs.
+2026-11-21T16:57:01Z,compliance-engine,0.0.0,,,2110,Name reserved. This is not the software of this name; that is distributed privately.
+2026-11-21T16:57:03Z,peppol-pack,0.0.0,,,2041,Name reserved. This is not the software of this name; that is distributed privately.
+2026-11-21T17:00:33Z,pydantic-ai-datacircle,0.1.0,,MIT,18525,A Pydantic AI toolset for the Datacircle API: find the best GTM APIs
+2026-11-21T17:01:31Z,radrub,1.1.1,RadRub Contributors,MIT,41789,"Professional Async/Sync Python framework for the Rubika Bot API v3 – complete method coverage, polling, webhook, keypads, filters, storage."
+2026-11-21T17:03:30Z,cli-contracts-runtime,0.36.0,,MIT,30398,"Python runtime for the programs and command wrappers cli-contracts generates from a CLI contract: commander-compatible argument parsing, help, policy derivation and the built-in extract command."
+2026-11-21T17:05:00Z,odoo-addon-l10n-br-website-sale-oca,16.0.2.1.0.2,"KMEE, Odoo Community Association (OCA)",AGPL-3,32865,=?utf-8?q?Website_sale_localiza=C3=A7=C3=A3o_brasileira=2E?=
+2026-11-21T17:06:08Z,garnison-core,0.0.1,,AGPL-3.0-or-later,26497,Modèle de ressources et plan de contrôle de Garnison
+2026-11-21T17:06:09Z,garnison,0.0.1,,AGPL-3.0-or-later,27316,CLI de Garnison — le plan de contrôle souverain pour agents IA
+2026-11-21T17:10:41Z,siguiente-partida,0.1.0,FLopez26,MIT,23341,Utilidades genéricas del recomendador de juegos de mesa Siguiente Partida
+2026-11-21T17:12:05Z,kaggle-fleet,0.1.0,KaggleFleet contributors,MIT,144451,"Run local Jupyter notebooks on Kaggle GPUs across a team of Kaggle accounts - from a CLI, a local web panel, or an AI agent."
+2026-11-21T17:12:07Z,naholos,0.1.0,Mykhailo Mulesa,MIT,49119,Ukrainian word stress (наголос): dictionary + fast neural tagger
+2026-11-21T17:15:26Z,daster,0.1.0,DASTER <social@daster.io>,MIT,5317,"DASTER CLI for Python users: runs the official DASTER CLI (@dasterhq/daster) to connect IDEs, AI agents and scripts to your DASTER project."
+2026-11-21T17:16:03Z,lame-project-cli,1.1.0,,,24534,Python client library and local-first CLI for Lame cloud projects
+2026-11-21T17:17:34Z,lambelan,0.1.0,Mitchell Davis Burns / EVERPLAY,MIT,27213,"Transliterate Latin text into the Everplay house script (Lambelan, a Tengwar mode) — encoded strings, gematria, and the entered lexicon."
