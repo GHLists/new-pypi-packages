@@ -8,50 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 10:20 UTC
+## Latest list — 2026-11-21 11:19 UTC
 
-New packages created between 2026-11-21 09:18 UTC and 2026-11-21 10:20 UTC.
+New packages created between 2026-11-21 10:20 UTC and 2026-11-21 11:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-21T10-20-34-982218Z.csv)
+[Full CSV](data/new-packages-2026-11-21T11-19-28-779357Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-21 09:19:42 | [open-semantic-agent](https://pypi.org/project/open-semantic-agent/) | 0.2.1 |  | 70.8 kB | Open Semantic Agent (OSA) spec as an MCP server: read the spec, get the JSON Sc… |
-| 2026-11-21 09:22:35 | [wxexport](https://pypi.org/project/wxexport/) | 0.1.0 | axiao-boy | 83.1 kB | 本地导出微信 3.x 聊天记录为 JSON/JSONL |
-| 2026-11-21 09:22:37 | [memini](https://pypi.org/project/memini/) | 0.1.0rc1 |  | 1.7 MB | Self-hosted knowledge service: code, messages and meeting notes in; MCP and HTT… |
-| 2026-11-21 09:23:27 | [mfq-replication](https://pypi.org/project/mfq-replication/) | 1.0.0 | Yichao Jin <jyc20220303@gmail… | 11.6 kB | MFQ-30 Moral Foundation Questionnaire replication package |
-| 2026-11-21 09:24:44 | [apps-script-mcp](https://pypi.org/project/apps-script-mcp/) | 0.1.0 |  | 144.5 kB | MCP server for Google Apps Script that needs no Google Cloud Console setup |
-| 2026-11-21 09:25:15 | [satz](https://pypi.org/project/satz/) | 0.1.0 | waidring | 58.5 kB | A LaTeX-like markup language with a Python backend that compiles documents to P… |
-| 2026-11-21 09:33:16 | [akurdyukov-target-clickhouse](https://pypi.org/project/akurdyukov-target-clickhouse/) | 0.3.0 | Ben Theunissen | 39.3 kB | `target-clickhouse` is a Singer target for clickhouse, built with the Meltano S… |
-| 2026-11-21 09:34:35 | [basin-sr](https://pypi.org/project/basin-sr/) | 0.1.0 | pUrGe12 | 62.3 kB | Law finder for tables of measurements: BACON proposes terms, sparse regression… |
-| 2026-11-21 09:34:44 | [agent-workspace-desktop](https://pypi.org/project/agent-workspace-desktop/) | 0.1.0 | Agent Workspace contributors | 272.2 kB | 桌面 Agent 工作区内核：一个目录约定、一条 dispatch、一条事件流、一份能力面 |
-| 2026-11-21 09:36:13 | [streepjes](https://pypi.org/project/streepjes/) | 0.0.0 |  | 2.1 kB | Placeholder for the Streepjes barcode reader (Python bindings). The first relea… |
-| 2026-11-21 09:36:45 | [cachebind](https://pypi.org/project/cachebind/) | 1.0.2 | goroba | 131.7 kB | Python library for building clean caching pipelines with support for common cac… |
-| 2026-11-21 09:37:55 | [pixelgpu](https://pypi.org/project/pixelgpu/) | 0.1.0 |  | 21.8 kB | Cross backend image and pixel analysis with Python, CUDA, C++ and SYCL adapters |
-| 2026-11-21 09:42:11 | [peen](https://pypi.org/project/peen/) | 1.0.0 | Sobhit Singh | 192.2 kB | Compact, workshop-forged terminal agent built to shape and refine code with zer… |
-| 2026-11-21 09:43:12 | [jiyutool](https://pypi.org/project/jiyutool/) | 0.1.0 |  | 1.2 MB | 用 -y -no-window 静默启动 JiYuGuard 保护（仅 Windows） |
-| 2026-11-21 09:44:32 | [webcam-micro](https://pypi.org/project/webcam-micro/) | 0.2.0 |  | 7.5 MB | Cross-platform microscope camera application distributed as a Python package on… |
-| 2026-11-21 09:45:30 | [sheraz-assistant-stt](https://pypi.org/project/sheraz-assistant-stt/) | 0.1 | Sheraz Khalid | 3.9 kB | This is a speech to text package created by Sheraz Khalid |
-| 2026-11-21 09:47:10 | [buddy-agent-auth](https://pypi.org/project/buddy-agent-auth/) | 0.1.0.dev1 |  | 122.4 kB | Brand-separated agent account authentication |
-| 2026-11-21 09:47:39 | [noetix](https://pypi.org/project/noetix/) | 0.1.0 | Noetix | 65.9 kB | The Noetix SDK for Python: your company brain, from code. |
-| 2026-11-21 09:48:34 | [buddy-agent-checkin](https://pypi.org/project/buddy-agent-checkin/) | 0.1.1.dev2 |  | 59.7 kB | Account-aware activity check-in library for Trae CN |
-| 2026-11-21 09:49:41 | [template1234567890](https://pypi.org/project/template1234567890/) | 1.0 | x | 2.0 kB | x |
-| 2026-11-21 09:50:57 | [fdmnes-util](https://pypi.org/project/fdmnes-util/) | 0.0.0 |  | 205.2 kB | FDMNES per-output-file Python analysis and visualization |
-| 2026-11-21 09:54:51 | [faTok](https://pypi.org/project/faTok/) | 0.1.0 | faTok contributors | 33.1 kB | A Persian-first BPE tokenizer with built-in Persian normalization (Yeh/Kaf, dia… |
-| 2026-11-21 09:57:49 | [django-login512](https://pypi.org/project/django-login512/) | 2.1.1 | Login512 Team | 11.1 kB | Django authentication backend and login view for Login512 face scan and passkeys |
-| 2026-11-21 09:57:51 | [Flask-Login512](https://pypi.org/project/Flask-Login512/) | 2.1.1 | Login512 Team | 5.1 kB | Flask extension for Login512 Post-Quantum Biometrics and Passkeys |
-| 2026-11-21 09:57:53 | [login512-fastapi](https://pypi.org/project/login512-fastapi/) | 2.1.1 | Login512 Team | 5.2 kB | FastAPI Security Dependency for Login512 Post-Quantum Biometrics and Passkeys |
-| 2026-11-21 09:57:54 | [login512-server](https://pypi.org/project/login512-server/) | 1.0.0 | login512.com | 10.6 kB | Official Login512 Server SDK for Python (Post-Quantum Passwordless Face Authent… |
-| 2026-11-21 10:01:02 | [image-workflow](https://pypi.org/project/image-workflow/) | 0.1.0 | image-workflow contributors | 34.7 kB | Import, organize, and de-duplicate photo collections. |
-| 2026-11-21 10:03:44 | [open-agent-router](https://pypi.org/project/open-agent-router/) | 0.1.0 | kdenischenko | 813.4 kB | Local gateway that routes coding-agent jobs between AI subscriptions by remaini… |
-| 2026-11-21 10:05:45 | [mcp-vet-scanner](https://pypi.org/project/mcp-vet-scanner/) | 0.2.1 | sonuoffsec | 92.2 kB | Static security scanner for MCP (Model Context Protocol) servers. Zero dependen… |
-| 2026-11-21 10:08:07 | [feedmcp-sdk](https://pypi.org/project/feedmcp-sdk/) | 0.1.0 | FeedMCP <support@feedmcp.com> | 15.3 kB | Official Python SDK and CLI for FeedMCP — unified social media, creator marketi… |
-| 2026-11-21 10:08:49 | [minemos](https://pypi.org/project/minemos/) | 0.1.0 | MINEMOS Research | 701.7 kB | Persistent memory intelligence for AI applications |
-| 2026-11-21 10:10:18 | [ganjoor-mcp](https://pypi.org/project/ganjoor-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 177.2 kB | Unofficial read-only MCP server for Ganjoor (ganjoor.net), the Persian classica… |
-| 2026-11-21 10:14:10 | [cbcrypto](https://pypi.org/project/cbcrypto/) | 0.5.0 |  | 485.5 kB | Rust core for cbgram: MTProto crypto and the file download/upload engine |
-| 2026-11-21 10:15:36 | [golded](https://pypi.org/project/golded/) | 1.0.0 | GoldED.dev contributors | 98.6 kB | GoldED message reader for FTN areas in SQLite, in the terminal |
-| 2026-11-21 10:16:47 | [litestar-mcp-server](https://pypi.org/project/litestar-mcp-server/) | 0.0.1 | Jorge Cardona <jorgeecardona@… | 29.0 kB | A small MCP server for Litestar, with no SDK: tools with titles, read or destru… |
-| 2026-11-21 10:16:48 | [reibosub](https://pypi.org/project/reibosub/) | 0.1.0 |  | 789.3 kB | Human-in-the-loop OCR, ASR, glossary, translation, and subtitle refinement for… |
-| 2026-11-21 10:19:22 | [prop-pred](https://pypi.org/project/prop-pred/) | 0.1.0 |  | 5.0 kB | A Python package for residential property valuation |
-| 2026-11-21 10:19:50 | [curseforge-mcp](https://pypi.org/project/curseforge-mcp/) | 1.0.0 |  | 35.3 kB | Unofficial local stdio MCP server for the CurseForge Core API |
-| 2026-11-21 10:20:14 | [aemulus](https://pypi.org/project/aemulus/) | 0.0.1 | Artur Galstyan | 331.0 kB | A digital twin for lab automation (early work in progress) |
+| 2026-11-21 10:20:15 | [gamebanana-mcp](https://pypi.org/project/gamebanana-mcp/) | 1.0.0 |  | 27.3 kB | Unofficial GameBanana API v11 MCP server for local stdio clients |
+| 2026-11-21 10:20:40 | [modio-mcp](https://pypi.org/project/modio-mcp/) | 1.0.0 |  | 88.0 kB | Read-only mod.io REST API server for the Model Context Protocol |
+| 2026-11-21 10:22:34 | [secuditor](https://pypi.org/project/secuditor/) | 0.5.0 | Menahem Levinski | 64.5 kB | Cross-platform security diagnostics and auditing toolkit. |
+| 2026-11-21 10:25:09 | [nexus-fetch](https://pypi.org/project/nexus-fetch/) | 0.1.0 |  | 69.8 MB | Zero-server-compute Rust CLI for streaming and locally compiling Nexus-H3 urban… |
+| 2026-11-21 10:26:19 | [ingot-starlette](https://pypi.org/project/ingot-starlette/) | 0.1.0 | Aliaksandr Karotki | 37.9 kB | Integration of Starlette, the ASGI framework, into Ingots. |
+| 2026-11-21 10:26:26 | [arfigyelo-api](https://pypi.org/project/arfigyelo-api/) | 0.1.0 | Aron <aronheredi346@gmail.com> | 50.7 kB | Python client for the Árfigyelő (arfigyelo.gvh.hu) price-comparison API. |
+| 2026-11-21 10:30:57 | [agent2drive](https://pypi.org/project/agent2drive/) | 0.4.1 | Ansari Bilal <ansaribilal0709… | 36.5 kB | One command connects an agent to Google Drive; one command per verified, review… |
+| 2026-11-21 10:31:05 | [failure-scenarios](https://pypi.org/project/failure-scenarios/) | 0.1.0 | Bsrat Mulugeta <bsratmulugeta… | 58.2 kB | Deterministic, reproducible dependency-failure scenarios for testing retries, f… |
+| 2026-11-21 10:31:18 | [lingofuse](https://pypi.org/project/lingofuse/) | 1.0.0 | passbyyou888 / Team | 251.5 kB | Python bindings for the LingoFuse RPC framework |
+| 2026-11-21 10:33:04 | [robottraderslab-core](https://pypi.org/project/robottraderslab-core/) | 0.0.1 | Robot Traders OÜ | 2.6 kB | Placeholder: robottraderslab-core is released from https://github.com/RobotTrad… |
+| 2026-11-21 10:34:21 | [parsica-recall](https://pypi.org/project/parsica-recall/) | 1.0.0b1 | Antaris Analytics LLC <Info@P… | 4.7 MB | A deterministic, LLM agnostic benchmark for agentic memory systems. |
+| 2026-11-21 10:38:16 | [alignsurvey](https://pypi.org/project/alignsurvey/) | 0.2.0a5 |  | 54.2 kB | Run, fine-tune, and evaluate language models for social surveys |
+| 2026-11-21 10:38:25 | [text-plistlib](https://pypi.org/project/text-plistlib/) | 0.1.0 | Mingye Wang | 26.4 kB | Parser and dumper for ASCII plists from GNUStep and OpenStep |
+| 2026-11-21 10:40:47 | [do0p-sdk](https://pypi.org/project/do0p-sdk/) | 1.1.0 | Do0p <support@do0p.com> | 26.8 kB | Official Do0p AI Media Generation SDK — generate 2K images and HD videos with a… |
+| 2026-11-21 10:41:06 | [capo-abuse-signal](https://pypi.org/project/capo-abuse-signal/) | 0.1.0 |  | 156.6 kB | Typed, async Python SDK for AWS Abuse Signal. |
+| 2026-11-21 10:42:34 | [scholarmesh](https://pypi.org/project/scholarmesh/) | 0.5.5 | DranxX | 176.2 kB | ScholarMesh — federated academic research retrieval MCP: 40 sources (OpenAlex,… |
+| 2026-11-21 10:42:41 | [capo-account-access-runtime](https://pypi.org/project/capo-account-access-runtime/) | 0.1.0 |  | 123.5 kB | Typed, async Python SDK for AWS Account Access Runtime. |
+| 2026-11-21 10:42:41 | [jax-diagnostics](https://pypi.org/project/jax-diagnostics/) | 0.1.0 |  | 22.9 kB | Repair guides for JAX errors and accelerator failures |
+| 2026-11-21 10:43:49 | [studyplan-group78](https://pypi.org/project/studyplan-group78/) | 0.1.0 | ccmen78 | 17.9 kB | Local CLI app and Python API for AI Agents to help students organize assignment… |
+| 2026-11-21 10:44:23 | [capo-connectscheduling](https://pypi.org/project/capo-connectscheduling/) | 0.1.0 |  | 188.5 kB | Typed, async Python SDK for AWS Connectscheduling. |
+| 2026-11-21 10:46:06 | [capo-opensearchmemory](https://pypi.org/project/capo-opensearchmemory/) | 0.1.0 |  | 393.7 kB | Typed, async Python SDK for AWS Opensearchmemory. |
+| 2026-11-21 10:47:49 | [capo-partnercentral-marketing](https://pypi.org/project/capo-partnercentral-marketing/) | 0.1.0 |  | 565.8 kB | Typed, async Python SDK for AWS Partnercentral Marketing. |
+| 2026-11-21 10:47:58 | [g3w-admin-plugins](https://pypi.org/project/g3w-admin-plugins/) | 0.0.1 |  | 76.6 kB | On-demand manager for public G3W-ADMIN plugins |
+| 2026-11-21 10:50:49 | [capo-sagemaker-inference-router-runtime](https://pypi.org/project/capo-sagemaker-inference-router-runtime/) | 0.1.0 |  | 149.3 kB | Typed, async Python SDK for AWS Sagemaker Inference Router Runtime. |
+| 2026-11-21 10:51:09 | [adaptirate](https://pypi.org/project/adaptirate/) | 0.1.0 |  | 45.8 kB | Python SDK for AdaptiRate, the adaptive distributed rate limiter |
+| 2026-11-21 10:58:34 | [codeshave](https://pypi.org/project/codeshave/) | 0.1.0 | Jaideep Krishna A <jaideepkri… | 30.5 kB | Deterministic AST code context compressor for AI coding assistants and local mo… |
+| 2026-11-21 10:58:38 | [supercomputer-console](https://pypi.org/project/supercomputer-console/) | 1.3.1 | Roger Dubar | 58.6 kB | A retro mainframe operator console for your terminal: blinkenlights driven by r… |
+| 2026-11-21 11:02:05 | [proot-distro-i18n](https://pypi.org/project/proot-distro-i18n/) | 5.10.4 |  | 1.1 MB | PRoot-Distro 的中文汉化版（基于官方 v5.10.3，含 v5.10.4 安全与竞态修复），附带容器内软件源一键切国内镜像、Docker 镜像源管… |
+| 2026-11-21 11:02:45 | [pipecat-echo-tts](https://pypi.org/project/pipecat-echo-tts/) | 0.1.1 | Daniel Garcia Peña <info@iamd… | 20.9 kB | Your TTS bill, cached — a Pipecat TTS wrapper that caches phrase-level audio on… |
+| 2026-11-21 11:03:44 | [rumblex](https://pypi.org/project/rumblex/) | 0.1.0 | Edward Glockner | 121.4 kB | Transcription with word timestamps, speaker labels and subtitles on Reson8/Rumb… |
+| 2026-11-21 11:08:33 | [mopidy-invidious](https://pypi.org/project/mopidy-invidious/) | 0.1.0 | Lukas Heinz <94646007+lukashe… | 40.5 kB | Mopidy extension for playing music from a self-hosted Invidious instance |
+| 2026-11-21 11:08:42 | [mopidy-melody](https://pypi.org/project/mopidy-melody/) | 0.1.0 | Lukas Heinz <94646007+lukashe… | 194.7 kB | Modern, responsive Mopidy web client with smart cover art |
+| 2026-11-21 11:11:37 | [faker-rs](https://pypi.org/project/faker-rs/) | 0.2.0 |  | 1.4 MB | A high-performance, drop-in replacement for Python's Faker library, backed by R… |
+| 2026-11-21 11:13:00 | [rh-preflight-mcp](https://pypi.org/project/rh-preflight-mcp/) | 0.5.16 | quotum and HEY Research Lab | 545.2 kB | read-only Robinhood Chain checks by quotum with HEY Research Lab |
+| 2026-11-21 11:17:13 | [media-workflow](https://pypi.org/project/media-workflow/) | 0.2.0 | media-workflow contributors | 56.1 kB | Import, organize, and de-duplicate photo collections. |

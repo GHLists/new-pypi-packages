@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T10:20:15Z,gamebanana-mcp,1.0.0,,,27293,Unofficial GameBanana API v11 MCP server for local stdio clients
+2026-11-21T10:20:40Z,modio-mcp,1.0.0,,,87952,Read-only mod.io REST API server for the Model Context Protocol
+2026-11-21T10:22:34Z,secuditor,0.5.0,Menahem Levinski,MIT,64540,Cross-platform security diagnostics and auditing toolkit.
+2026-11-21T10:25:09Z,nexus-fetch,0.1.0,,MIT,69767507,Zero-server-compute Rust CLI for streaming and locally compiling Nexus-H3 urban mobility datasets using embedded DuckDB.
+2026-11-21T10:26:19Z,ingot-starlette,0.1.0,Aliaksandr Karotki,Apache-2.0,37910,"Integration of Starlette, the ASGI framework, into Ingots."
+2026-11-21T10:26:26Z,arfigyelo-api,0.1.0,Aron <aronheredi346@gmail.com>,MIT,50708,Python client for the Árfigyelő (arfigyelo.gvh.hu) price-comparison API.
+2026-11-21T10:30:57Z,agent2drive,0.4.1,Ansari Bilal <ansaribilal0709@gmail.com>,"MIT License Copyright (c) 2026 Ansari Bilal Permission is hereby granted, free of charge, to any pe…",36507,"One command connects an agent to Google Drive; one command per verified, reviewable upload (optional MCP server)."
+2026-11-21T10:31:05Z,failure-scenarios,0.1.0,Bsrat Mulugeta <bsratmulugetasergawie@gmail.com>,Apache-2.0,58232,"Deterministic, reproducible dependency-failure scenarios for testing retries, fallbacks, timeouts and recovery."
+2026-11-21T10:31:18Z,lingofuse,1.0.0,passbyyou888 / Team,,251513,Python bindings for the LingoFuse RPC framework
+2026-11-21T10:33:04Z,robottraderslab-core,0.0.1,Robot Traders OÜ,Apache-2.0,2636,Placeholder: robottraderslab-core is released from https://github.com/RobotTraders/RobotTradersLab
+2026-11-21T10:34:21Z,parsica-recall,1.0.0b1,Antaris Analytics LLC <Info@Parsica.ai>,MIT,4707189,"A deterministic, LLM agnostic benchmark for agentic memory systems."
+2026-11-21T10:38:16Z,alignsurvey,0.2.0a5,,,54153,"Run, fine-tune, and evaluate language models for social surveys"
+2026-11-21T10:38:25Z,text-plistlib,0.1.0,Mingye Wang,MIT,26419,Parser and dumper for ASCII plists from GNUStep and OpenStep
+2026-11-21T10:40:47Z,do0p-sdk,1.1.0,Do0p <support@do0p.com>,MIT,26814,Official Do0p AI Media Generation SDK — generate 2K images and HD videos with a single line of code
+2026-11-21T10:41:06Z,capo-abuse-signal,0.1.0,,,156646,"Typed, async Python SDK for AWS Abuse Signal."
+2026-11-21T10:42:34Z,scholarmesh,0.5.5,DranxX,MIT,176159,"ScholarMesh — federated academic research retrieval MCP: 40 sources (OpenAlex, Crossref, arXiv, Europe PMC, PubMed, OpenAIRE, Zenodo, DataCite, OSF, zbMATH, ProofWiki, Indonesia & China platforms, pr…"
+2026-11-21T10:42:41Z,capo-account-access-runtime,0.1.0,,,123473,"Typed, async Python SDK for AWS Account Access Runtime."
+2026-11-21T10:42:41Z,jax-diagnostics,0.1.0,,MIT,22884,Repair guides for JAX errors and accelerator failures
+2026-11-21T10:43:49Z,studyplan-group78,0.1.0,ccmen78,MIT,17947,"Local CLI app and Python API for AI Agents to help students organize assignment deadlines, plan study time, track courses, and estimate GPA."
+2026-11-21T10:44:23Z,capo-connectscheduling,0.1.0,,,188470,"Typed, async Python SDK for AWS Connectscheduling."
+2026-11-21T10:46:06Z,capo-opensearchmemory,0.1.0,,,393742,"Typed, async Python SDK for AWS Opensearchmemory."
+2026-11-21T10:47:49Z,capo-partnercentral-marketing,0.1.0,,,565843,"Typed, async Python SDK for AWS Partnercentral Marketing."
+2026-11-21T10:47:58Z,g3w-admin-plugins,0.0.1,,,76636,On-demand manager for public G3W-ADMIN plugins
+2026-11-21T10:50:49Z,capo-sagemaker-inference-router-runtime,0.1.0,,,149252,"Typed, async Python SDK for AWS Sagemaker Inference Router Runtime."
+2026-11-21T10:51:09Z,adaptirate,0.1.0,,MIT,45758,"Python SDK for AdaptiRate, the adaptive distributed rate limiter"
+2026-11-21T10:58:34Z,codeshave,0.1.0,Jaideep Krishna A <jaideepkrishna2008@gmail.com>,,30523,Deterministic AST code context compressor for AI coding assistants and local models
+2026-11-21T10:58:38Z,supercomputer-console,1.3.1,Roger Dubar,MIT,58591,A retro mainframe operator console for your terminal: blinkenlights driven by real system load.
+2026-11-21T11:02:05Z,proot-distro-i18n,5.10.4,,GPL-3.0-only,1128893,PRoot-Distro 的中文汉化版（基于官方 v5.10.3，含 v5.10.4 安全与竞态修复），附带容器内软件源一键切国内镜像、Docker 镜像源管理与下载提速。
+2026-11-21T11:02:45Z,pipecat-echo-tts,0.1.1,Daniel Garcia Peña <info@iamdgarcia.com>,BSD-2-Clause,20870,"Your TTS bill, cached — a Pipecat TTS wrapper that caches phrase-level audio on live calls and replays it instantly on repetition."
+2026-11-21T11:03:44Z,rumblex,0.1.0,Edward Glockner,Apache-2.0,121425,"Transcription with word timestamps, speaker labels and subtitles on Reson8/Rumble-2-Flash"
+2026-11-21T11:08:33Z,mopidy-invidious,0.1.0,Lukas Heinz <94646007+lukasheinz92@users.noreply.github.com>,Apache-2.0,40492,Mopidy extension for playing music from a self-hosted Invidious instance
+2026-11-21T11:08:42Z,mopidy-melody,0.1.0,Lukas Heinz <94646007+lukasheinz92@users.noreply.github.com>,Apache-2.0,194670,"Modern, responsive Mopidy web client with smart cover art"
+2026-11-21T11:11:37Z,faker-rs,0.2.0,,MIT OR Apache-2.0,1404461,"A high-performance, drop-in replacement for Python's Faker library, backed by Rust and PyO3."
+2026-11-21T11:13:00Z,rh-preflight-mcp,0.5.16,quotum and HEY Research Lab,MIT,545192,read-only Robinhood Chain checks by quotum with HEY Research Lab
+2026-11-21T11:17:13Z,media-workflow,0.2.0,media-workflow contributors,Apache-2.0,56107,"Import, organize, and de-duplicate photo collections."
