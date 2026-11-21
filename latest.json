@@ -1,13 +1,20 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-11-21T06:19:55.539314Z",
-    "path": "data/new-packages-2026-11-21T07-18-42-632117Z.csv",
-    "to": "2026-11-21T07:18:42.632117Z"
+    "count": 14,
+    "from": "2026-11-21T07:18:42.632117Z",
+    "path": "data/new-packages-2026-11-21T08-21-25-757295Z.csv",
+    "to": "2026-11-21T08:21:25.757295Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-21T08:18:15Z",
+      "package": "cleancheck",
+      "since": "2026-11-21T07:18:42.632117Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-21T04:26:24Z",
       "package": "labslo",
       "since": "2026-11-21T04:21:21.241673Z",
@@ -15,13 +22,20 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-21T07:18:35Z",
-      "package": "mongory",
-      "since": "2026-11-21T06:19:55.539314Z",
+      "created_at": "2026-11-21T07:58:35Z",
+      "package": "ppbt-cross-aarch64-linux-gnu",
+      "since": "2026-11-21T07:18:42.632117Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-21T07:40:04Z",
+      "package": "testnsodescriptor",
+      "since": "2026-11-21T07:18:42.632117Z",
+      "version": "0.0.0"
     }
   ],
-  "serial": 43967704,
+  "serial": 43968933,
   "source_truncated": false,
-  "window": "2026-11-21T07:18:42.632117Z"
+  "window": "2026-11-21T08:21:25.757295Z"
 }
