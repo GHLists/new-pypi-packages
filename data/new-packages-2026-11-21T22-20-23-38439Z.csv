@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T21:21:45Z,dealmonitor-mcp,1.0.0,Robert-William Kaspar <info@dealmonitor.app>,MIT,46268,Track a product's price in any online shop and get notified when it drops to your target.
+2026-11-21T21:22:05Z,strands-datacircle,0.1.0,,MIT,17275,Strands Agents tools for the Datacircle API: find the best GTM APIs
+2026-11-21T21:25:47Z,kestrel-kernel,0.1.0,,MIT,216476,A Jupyter kernel for the Kestrel language
+2026-11-21T21:29:06Z,langchain-tickerlayer,0.1.0,TickerLayer <info@tickerlayer.com>,MIT,20058,"LangChain tools for the TickerLayer market data API: quotes, snapshots, historical bars, symbols, market hours and bond yields."
+2026-11-21T21:29:39Z,tabledoc,0.3.0,flo8s,MIT,247357,"Describe the tables of a dataset in YAML and Markdown (or dbt), check it, and read it from Python"
+2026-11-21T21:31:14Z,llmdyno,0.3.1,speak2jerome <speak2jerome@gmail.com>,MIT,7981372,"Benchmark local and cloud LLMs as coding agents: VRAM fit checks, sandboxed harnesses, hidden tests, LLM judges and a results dashboard."
+2026-11-21T21:33:20Z,gtfs2emis-py,0.1.0,gtfs2emis-py contributors,MIT,1980690,Estimate emissions of public transport systems based on GTFS data (Python port of the R gtfs2emis package).
+2026-11-21T21:33:20Z,minchin.scripts.qbw-to-sqlite,0.1.0,William Minchin,MIT,111733,Convert QuickBooks Desktop .QBW and .QBB company files to SQLite.
+2026-11-21T21:33:39Z,envcert,0.2.0,EnvCert contributors,Apache-2.0,127135,"Independent, extensible integrity verification and evidence generation for AI training and evaluation environments"
+2026-11-21T21:34:34Z,standard-version,0.0.1a0,Lex Darlog (Lex-DRL),LGPL-3.0-only,13694,Standardize version string for releases.
+2026-11-21T21:41:27Z,xfea-calculix-results,0.0.1,Francesco Ranaudo <info@rnd.dev>,Elastic-2.0,5354,Reads CalculiX's results into xfea's results database. First release coming soon.
+2026-11-21T21:41:43Z,mahrem,0.0.1,,Apache-2.0,2288613,"Privacy layer for LLMs, built for Turkish: finds personal data (TCKN, VKN, IBAN, cards, phones, e-mail) in Turkish text"
+2026-11-21T21:41:49Z,turkmen-translit,0.1.1,Murat Bekgi,MIT,29364,Transliterate Turkmen text between the legacy Cyrillic and the current Latin alphabet.
+2026-11-21T21:42:25Z,hexaplan,0.11.0,,,1303670,"Planar hexagonal panels from a triangulated surface (numpy in, numpy out)"
+2026-11-21T21:45:42Z,unienv-isaacsim,0.0.1a1,,MIT,25364,Isaac Lab adaptor for UniEnv's World / WorldNode / WorldEnv
+2026-11-21T21:45:46Z,unienv-mjwarp,0.0.1a1,,MIT,40599,MuJoCo Warp adaptor for UniEnv's World / WorldNode / WorldEnv
+2026-11-21T21:47:22Z,gendir,0.1.1,Lars Birger <larsbirger.bergmaal@gmail.com>,GPL-3.0-or-later,60403,CLI tool and Python module to generate structured folders and files from YAML templates
+2026-11-21T21:49:19Z,pymadng-utils,0.0.1,Joshua Gray,MIT,91919,MAD-NG and pymadng utility interfaces and tests
+2026-11-21T21:49:40Z,ipsa-verba,3.0.0,Alpaslan Fatih Sözer,AGPL-3.0-only,1083894,Citation-safe MCP hukuk araştırma ve belge hazırlık sistemi
+2026-11-21T21:51:38Z,scigantic-gpu,0.0.0,Scigantic,,2747,Placeholder. This name is reserved by Scigantic.
+2026-11-21T21:51:39Z,scigantic-context-producer,0.0.0,Scigantic,,2968,Placeholder. This name is reserved by Scigantic.
+2026-11-21T21:52:32Z,t81,2.1.0,,Apache-2.0,111474565,"Experimental computing and systems research: alternative representations, deterministic execution, and policy-governed artifacts"
+2026-11-21T21:58:51Z,lipsum-cli,0.1.1,Jeff Pratt,MIT,6884,Generate 'lorem ipsum' text from the lipsum.com API
+2026-11-21T21:59:06Z,lambdazap,0.0.1,Frank Zhang,MIT,1485,Reserved for https://github.com/cloudformer/lambdazap
+2026-11-21T21:59:07Z,lambdakali,0.0.1,Frank Zhang,MIT,1501,Reserved for https://github.com/cloudformer/lambdakali
+2026-11-21T21:59:24Z,emberleaf,0.1.0,Emberleaf <support@tryemberleaf.app>,MIT,22562,"Python client for the Emberleaf API: extract JSON from invoices, contracts and scans; parse, split and classify documents."
+2026-11-21T22:00:47Z,mcp-capcut,0.3.0,lastlink,Proprietary,29032877,"MCP server for CapCut desktop projects: one native binary, no runtime or service to install."
+2026-11-21T22:01:25Z,libpython-linkcheck,0.1.0a1,Itamar Oren,MIT,39658,Warn when an imported Python extension directly links to libpython on Linux.
+2026-11-21T22:05:44Z,minigeo,0.5.7,Alexander Steppke,MIT,1127331,A minimal interactive 3D geometry library for visualizing shapes and transformations
+2026-11-21T22:09:33Z,flightcheck,0.1.0a2,,FSL-1.1-MIT,1438736,Terminal-first project setup for the FlightCheck development workflow
+2026-11-21T22:10:15Z,depencity,0.1.0,Dmitry Vedmedenko,MIT,2376557,Experimental static analyzer for measuring the complexity of data dependencies in Python code.
+2026-11-21T22:12:39Z,firmware-config-compiler,0.1.0,Niko Filipic,MIT,19904,"Generate bounded, no-heap C11 firmware settings structs, validators, defaults, and schema compatibility reports."
+2026-11-21T22:12:43Z,agent-deferred-safety,0.1.0,Niko Filipic,MIT,25743,Audit and journal permission-sensitive tool execution across agent resumes.
+2026-11-21T22:12:48Z,ha-diagnostics-check,0.1.0,Niko Filipic,MIT,11248,Scan Home Assistant integration diagnostics exports for unredacted secrets and personal data.
+2026-11-21T22:14:41Z,aws-pynamo,0.1.0b1,,MIT,87635,"Event-driven applications on DynamoDB and AWS AppSync, built from pydantic models."
+2026-11-21T22:15:12Z,pandera-chem,0.1.0,David.Alobo,MIT,25243,"Chemistry checks for Pandera: validate tables of molecules with RDKit, and quarantine the bad rows with their reasons"
+2026-11-21T22:15:52Z,wfx-datastax,0.2.0,KhulnaSoft <info@khulnasoft.com>,MIT,51009,DataStax and Cassandra components as a standalone PrimeAgent Extension Bundle.
+2026-11-21T22:15:53Z,wfx-duckduckgo,0.2.0,KhulnaSoft <info@khulnasoft.com>,MIT,4300,DuckDuckGo Search component as a standalone PrimeAgent Extension Bundle.
+2026-11-21T22:15:54Z,wfx-microsoft,0.1.4,KhulnaSoft <info@khulnasoft.com>,MIT,32808,Microsoft 365 and Teams actions backed by delegated Microsoft Graph permissions.
+2026-11-21T22:15:55Z,wfx-paddle,0.2.0,KhulnaSoft <info@khulnasoft.com>,MIT,8479,PaddleOCR component (OCR and layout-aware document parsing via the AI Studio async Job API) as a standalone PrimeAgent Extension Bundle.
+2026-11-21T22:15:57Z,ellesmere,0.2.0,,Apache-2.0,110685,"Fetch and render ellesmere.ai prompts, and log your model calls in the background."
+2026-11-21T22:16:18Z,sqlite-changefeed,0.1.0,buxerr,MIT,24042,Transactional SQLite change capture and resumable peer apply adapter.
+2026-11-21T22:16:21Z,agent-replay-fixtures,0.1.0,Niko Filipic,MIT,15095,Record redacted LLM agent tool-call fixtures and replay them offline in deterministic regression tests.
+2026-11-21T22:16:22Z,room-migration-matrix,0.1.0,buxerr,MIT,15081,Generate complete Room MigrationTestHelper path coverage from exported schemas.
+2026-11-21T22:16:59Z,normbeat,0.1.0,normbeat <hello@normbeat.com>,MIT,24709,Alerts for jobs that succeed but do nothing: learns each job's normal row count by day of week.
+2026-11-21T22:18:06Z,android-process-death-check,0.1.0,Niko Filipic,MIT,14328,Exercise Android app cold relaunch and process-death state restoration with adb.
+2026-11-21T22:18:56Z,dwrr-python,0.1.0,,MIT,44060,Exact fixed-quantum deficit weighted round robin scheduling
+2026-11-21T22:20:16Z,stack-scout-mcp,0.1.0,mhassaan0806-jpg,MIT,71436,"The honest free-tool finder for AI: an MCP server that finds free, open-source tools for any project and checks they're alive and truly free."
