@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T11:20:10Z,sumseal,0.1.0,CyberDredge,MIT,59393,Record a SHA-256 manifest of a folder of files and verify it later.
+2026-11-21T11:22:17Z,Restory-files,0.0.1,mohamadreza <anmm65357@gmail.com>,MIT,8382,A package to restore files from the computer recycle bin
+2026-11-21T11:24:29Z,minimindslab-name-suffix-strip,0.1.0,MiniMindsLab,MIT,7495,"Strip common person-name suffixes such as Jr., Sr., II, III, and IV from the end of a display name in a deterministic way."
+2026-11-21T11:27:37Z,agentizai,0.0.1,AgentizAI <info@agentizai.com>,,2709,Official Python SDK for AgentizAI
+2026-11-21T11:28:43Z,bottlenecks,0.1.0,Tom Sapletta <tom@sapletta.com>,Apache-2.0,45833,"Find bottlenecks everywhere: Python code (static), runtime (cProfile), pipelines/DAGs and host system resources"
+2026-11-21T11:29:28Z,name-pinyin,0,qaqFei,MIT License,7211,A library for validating pinyin against Chinese names.
+2026-11-21T11:34:38Z,cybersafe-mcp,0.3.0,,MIT,229396,"An open-source, plain-language cybersecurity MCP server with hybrid AI/ML scam detection for everyday users (especially 40+)."
+2026-11-21T11:35:07Z,cxjson,0.1.0,James Francis,"MIT License Copyright (c) 2026 James Francis Permission is hereby granted, free of charge, to any p…",1788477,"Ultra-fast pure-C JSON library for Python with SIMD, CPython split-table dicts, and adaptive parallelism"
+2026-11-21T11:35:30Z,hasagi,0.1.0b1,,LicenseRef-HASAGI-Noncommercial AND Apache-2.0,88944554,CPU inference for corneal IVCM tissue layers and nerve discernibility
+2026-11-21T11:36:30Z,environment-maintenance,5.3.9,,,40330,Configured environment maintenance and named application groups
+2026-11-21T11:36:49Z,silueta-studio,0.1.1,Silueta Studio,MIT,88555,"Vertical story videos with 2D silhouettes, rim light and karaoke captions, built for Claude Code."
+2026-11-21T11:40:54Z,rpi-bad-power-ng,0.2.0,Xiaonan Shen <s@sxn.dev>,MIT,70102,Next-generation Python library to detect bad power supply and throttling on Raspberry Pi.
+2026-11-21T11:44:21Z,yt-gpt,1.0.16,yt-gpt contributors,MIT,794210,"A local, NotebookLM-style workspace for YouTube: transcripts, retrieval and grounded chat."
+2026-11-21T11:44:28Z,faithful-pakad,0.1.2,"Faithful Oversight, LLC",Apache-2.0,402883,"Evidence Population Reconciler: Reconciles an expected population against a collected evidence export and reports exactly what is missing, extra, ambiguous, or stale."
+2026-11-21T11:44:30Z,faithful-toledot,0.1.1,"Faithful Oversight, LLC",Apache-2.0,562197,"AD Change Narrative: Turns exported Active Directory change events into a plain-language account of who changed what, when, and from where."
+2026-11-21T11:44:33Z,faithful-mishpat,0.1.1,"Faithful Oversight, LLC",Apache-2.0,493214,"GPO Change Review: Produces a readable, reviewable difference between two versions of Group Policy, including links, filters, and inheritance context."
+2026-11-21T11:49:44Z,skill-dojo,0.0.0,Jens Rehpöhler,MIT,16925,"Manages agent plugin marketplaces, skills, and MCP servers in a git repo."
+2026-11-21T11:51:09Z,offlook,0.4.3,,MIT,789276,Offline Windows file previews with GUI and CLI interfaces
+2026-11-21T11:52:35Z,brello-sdk,0.0.1,Brello <hello@brello.app>,MIT,54517,"Brello usage tracking for OpenAI, Anthropic, and Google Gen AI Python clients"
+2026-11-21T11:55:39Z,tools-shed,0.2.1,mfdi <dogkanicen@gmail.com>,MIT,48652290,"Portable C CLI tools, built for every platform."
+2026-11-21T12:00:35Z,svar-query,0.1.0,Kundai Farai Sachikonye,MIT,27173876,"Runs the queries people already write and returns with each result what it means: answered, empty or never reached, where it came from, and what was left unread."
+2026-11-21T12:04:22Z,glossmod-nexusmods-mcp,1.0.0,,,77905,Unofficial local MCP server for Nexus Mods
+2026-11-21T12:04:27Z,frontierkit,0.13.0,Siddharth Saraswat,MIT,208419,"Find out which model and prompt answer your questions best: compare models, prompts and pipeline steps on your own questions, on free endpoints"
+2026-11-21T12:06:13Z,tavola,0.1.1,Michael Borck <michael.borck@curtin.edu.au>,MIT,6609446,Turn a source into one well-designed infographic. Bring your own LLM.
+2026-11-21T12:09:04Z,promptguard-api,0.1.0,sinescribe <sinescribe@gmail.com>,MIT,17189,"Sub-1ms zero-dependency FastAPI prompt-injection, delimiter spoofing, and Python AST execution firewall for AI agents."
+2026-11-21T12:14:14Z,faithful-shaar,0.1.1,"Faithful Oversight, LLC",Apache-2.0,556180,"Access Review Kit: Runs an offline access review: access data in, reviewer packets out, decisions back in, and a verification of what actually changed."
+2026-11-21T12:15:13Z,mdpyascii,0.0.2,,,2020,Add your description here
+2026-11-21T12:17:16Z,payment-guard,0.4.1,Jason Zhu,MIT,142348,"Pick a payment platform you can open (Creem, Dodo, Waffo, Paddle, Lemon Squeezy, Polar, Stripe, Gumroad) and check your website against its published review requirements"

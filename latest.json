@@ -1,41 +1,27 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-21T10:20:34.982218Z",
-    "path": "data/new-packages-2026-11-21T11-19-28-779357Z.csv",
-    "to": "2026-11-21T11:19:28.779357Z"
+    "count": 28,
+    "from": "2026-11-21T11:19:28.779357Z",
+    "path": "data/new-packages-2026-11-21T12-18-42-526206Z.csv",
+    "to": "2026-11-21T12:18:42.526206Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-11-21T08:18:15Z",
-      "package": "cleancheck",
-      "since": "2026-11-21T07:18:42.632117Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-21T08:22:12Z",
       "package": "cleancheck001",
       "since": "2026-11-21T08:21:25.757295Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-21T10:29:01Z",
       "package": "clusterizer",
       "since": "2026-11-21T10:20:34.982218Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-21T07:40:04Z",
-      "package": "testnsodescriptor",
-      "since": "2026-11-21T07:18:42.632117Z",
-      "version": "0.0.0"
     }
   ],
-  "serial": 43973482,
+  "serial": 43975074,
   "source_truncated": false,
-  "window": "2026-11-21T11:19:28.779357Z"
+  "window": "2026-11-21T12:18:42.526206Z"
 }
