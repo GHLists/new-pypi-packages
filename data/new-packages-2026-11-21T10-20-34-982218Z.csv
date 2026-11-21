@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T09:19:42Z,open-semantic-agent,0.2.1,,Apache-2.0,70832,"Open Semantic Agent (OSA) spec as an MCP server: read the spec, get the JSON Schemas and conformance fixtures, validate documents."
+2026-11-21T09:22:35Z,wxexport,0.1.0,axiao-boy,,83096,本地导出微信 3.x 聊天记录为 JSON/JSONL
+2026-11-21T09:22:37Z,memini,0.1.0rc1,,Apache-2.0,1739404,"Self-hosted knowledge service: code, messages and meeting notes in; MCP and HTTP out."
+2026-11-21T09:23:27Z,mfq-replication,1.0.0,Yichao Jin <jyc20220303@gmail.com>,MIT,11583,MFQ-30 Moral Foundation Questionnaire replication package
+2026-11-21T09:24:44Z,apps-script-mcp,0.1.0,,MIT,144507,MCP server for Google Apps Script that needs no Google Cloud Console setup
+2026-11-21T09:25:15Z,satz,0.1.0,waidring,MIT,58482,A LaTeX-like markup language with a Python backend that compiles documents to PDF.
+2026-11-21T09:33:16Z,akurdyukov-target-clickhouse,0.3.0,Ben Theunissen,Apache-2.0,39256,"`target-clickhouse` is a Singer target for clickhouse, built with the Meltano Singer SDK."
+2026-11-21T09:34:35Z,basin-sr,0.1.0,pUrGe12,MIT,62284,"Law finder for tables of measurements: BACON proposes terms, sparse regression and cross-validation decide"
+2026-11-21T09:34:44Z,agent-workspace-desktop,0.1.0,Agent Workspace contributors,MIT,272215,桌面 Agent 工作区内核：一个目录约定、一条 dispatch、一条事件流、一份能力面
+2026-11-21T09:36:13Z,streepjes,0.0.0,,MIT OR Apache-2.0,2065,Placeholder for the Streepjes barcode reader (Python bindings). The first release is in preparation.
+2026-11-21T09:36:45Z,cachebind,1.0.2,goroba,MIT,131710,Python library for building clean caching pipelines with support for common caching patterns.
+2026-11-21T09:37:55Z,pixelgpu,0.1.0,,,21812,"Cross backend image and pixel analysis with Python, CUDA, C++ and SYCL adapters"
+2026-11-21T09:42:11Z,peen,1.0.0,Sobhit Singh,MIT,192183,"Compact, workshop-forged terminal agent built to shape and refine code with zero black-box bloat — powered by native Bash & Model Context Protocol (MCP)."
+2026-11-21T09:43:12Z,jiyutool,0.1.0,,Proprietary,1157818,用 -y -no-window 静默启动 JiYuGuard 保护（仅 Windows）
+2026-11-21T09:44:32Z,webcam-micro,0.2.0,,MIT,7528743,Cross-platform microscope camera application distributed as a Python package on PyPI.
+2026-11-21T09:45:30Z,sheraz-assistant-stt,0.1,Sheraz Khalid,,3919,This is a speech to text package created by Sheraz Khalid
+2026-11-21T09:47:10Z,buddy-agent-auth,0.1.0.dev1,,,122404,Brand-separated agent account authentication
+2026-11-21T09:47:39Z,noetix,0.1.0,Noetix,Apache-2.0,65853,"The Noetix SDK for Python: your company brain, from code."
+2026-11-21T09:48:34Z,buddy-agent-checkin,0.1.1.dev2,,,59653,Account-aware activity check-in library for Trae CN
+2026-11-21T09:49:41Z,template1234567890,1.0,x,,1990,x
+2026-11-21T09:50:57Z,fdmnes-util,0.0.0,,,205227,FDMNES per-output-file Python analysis and visualization
+2026-11-21T09:54:51Z,faTok,0.1.0,faTok contributors,"MIT License Copyright (c) 2026 faTok contributors Permission is hereby granted, free of charge, to…",33089,"A Persian-first BPE tokenizer with built-in Persian normalization (Yeh/Kaf, diacritics, ZWNJ-aware)."
+2026-11-21T09:57:49Z,django-login512,2.1.1,Login512 Team,Apache-2.0,11065,Django authentication backend and login view for Login512 face scan and passkeys
+2026-11-21T09:57:51Z,Flask-Login512,2.1.1,Login512 Team,Apache-2.0,5060,Flask extension for Login512 Post-Quantum Biometrics and Passkeys
+2026-11-21T09:57:53Z,login512-fastapi,2.1.1,Login512 Team,Apache-2.0,5188,FastAPI Security Dependency for Login512 Post-Quantum Biometrics and Passkeys
+2026-11-21T09:57:54Z,login512-server,1.0.0,login512.com,Apache-2.0,10625,Official Login512 Server SDK for Python (Post-Quantum Passwordless Face Authentication)
+2026-11-21T10:01:02Z,image-workflow,0.1.0,image-workflow contributors,MIT,34665,"Import, organize, and de-duplicate photo collections."
+2026-11-21T10:03:44Z,open-agent-router,0.1.0,kdenischenko,MIT,813427,Local gateway that routes coding-agent jobs between AI subscriptions by remaining quota
+2026-11-21T10:05:45Z,mcp-vet-scanner,0.2.1,sonuoffsec,MIT,92245,Static security scanner for MCP (Model Context Protocol) servers. Zero dependencies.
+2026-11-21T10:08:07Z,feedmcp-sdk,0.1.0,FeedMCP <support@feedmcp.com>,MIT,15257,"Official Python SDK and CLI for FeedMCP — unified social media, creator marketing, ad library and e-commerce public data across 21 platforms (193 endpoints)."
+2026-11-21T10:08:49Z,minemos,0.1.0,MINEMOS Research,Apache-2.0,701719,Persistent memory intelligence for AI applications
+2026-11-21T10:10:18Z,ganjoor-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,PolyForm-Noncommercial-1.0.0,177229,"Unofficial read-only MCP server for Ganjoor (ganjoor.net), the Persian classical poetry library: poems with meanings, search by text or meaning, meters, recitations, people, manuscripts."
+2026-11-21T10:14:10Z,cbcrypto,0.5.0,,,485470,Rust core for cbgram: MTProto crypto and the file download/upload engine
+2026-11-21T10:15:36Z,golded,1.0.0,GoldED.dev contributors,MIT,98583,"GoldED message reader for FTN areas in SQLite, in the terminal"
+2026-11-21T10:16:47Z,litestar-mcp-server,0.0.1,Jorge Cardona <jorgeecardona@gmail.com>,MIT,29033,"A small MCP server for Litestar, with no SDK: tools with titles, read or destructive hints and scopes, over streamable HTTP"
+2026-11-21T10:16:48Z,reibosub,0.1.0,,Apache-2.0,789271,"Human-in-the-loop OCR, ASR, glossary, translation, and subtitle refinement for video."
+2026-11-21T10:19:22Z,prop-pred,0.1.0,,,5019,A Python package for residential property valuation
+2026-11-21T10:19:50Z,curseforge-mcp,1.0.0,,,35279,Unofficial local stdio MCP server for the CurseForge Core API
+2026-11-21T10:20:14Z,aemulus,0.0.1,Artur Galstyan,Apache-2.0,331000,A digital twin for lab automation (early work in progress)
