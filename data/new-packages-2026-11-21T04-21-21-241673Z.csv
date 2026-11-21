@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T03:02:52Z,instantscrape,0.1.8,armand_nevan21 <armand_nevan21@gmail.com>,MIT,6876500,"Instagram profile scraper: scrape followers, following, profile images"
+2026-11-21T03:22:20Z,jupyterlab-cell-navigation-rail,0.1.0,Sai Teja Girada <saitejagirada@gmail.com>,BSD-3-Clause,166663,"An opt-in compact left-margin cell navigation rail with active, running, and error indicators plus hover cell previews for JupyterLab and Jupyter Notebook 7."
+2026-11-21T03:31:10Z,geoseeer,0.1.0,,MIT,24066,Python client for the GeoSeer geolocation API
+2026-11-21T03:32:36Z,netinfra-free100bonus-batch-1-4el2w,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5723,Technical network verification and high-availability endpoint registry for Free100Bonus - Batch 1 Drip Campaign (Đợt 1/5)
+2026-11-21T03:33:04Z,fitro-mcp,1.0.0,,MIT,215714,"A local, read-only MCP bridge to personal fitness and wellness data"
+2026-11-21T03:34:41Z,lucem,0.0.5,jesusdpa1,MIT OR Apache-2.0,131779825,"GPU image processing for biology, written once in CubeCL"
+2026-11-21T03:35:59Z,speedupy-native,0.1.0,,MIT,978128,"Prebuilt native hash functions for SpeeduPy: a5hash, MeowHash 0.5 and MuseAir BFast"
+2026-11-21T03:36:15Z,livekit-akapulu,0.1.0,Akapulu Labs,BSD-2-Clause,26790,LiveKit Agents avatar session that sends assistant audio to an Akapulu Labs avatar.
+2026-11-21T03:37:10Z,winnersight-agentbus,0.1.4,,MIT,51695,"AgentBus client for agents built as services: receive over the stream with a handler per message, send, and settle."
+2026-11-21T03:42:41Z,cdex,0.1.0,,,16327,"Export seven CS3501 compiler design lab experiments as C, Lex and Yacc source files."
+2026-11-21T03:42:53Z,tritobol,0.1.0,tritobol contributors,MIT,3898678,Trim redundant prompt text and keep the newest context within a model-specific token budget.
+2026-11-21T03:48:56Z,seminal,0.0.0a2,Leonid Shpaner <lshpaner@ucla.edu>,MIT,23102,"Published risk equations in andrology and male reproductive health: azoospermia probability from FSH and clinical inputs (Tradewell et al., World Journal of Men's Health 2022)"
+2026-11-21T03:49:52Z,netinfra-free100bonus-batch-1-jcok6,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5994,Technical network verification and high-availability endpoint registry for Free100Bonus - Batch 1 Drip Campaign (Đợt 2/5)
+2026-11-21T03:52:55Z,cninvoice,0.1.0,,MIT,153460,Local-first structured extraction of Chinese invoices and reimbursement tickets
+2026-11-21T03:54:10Z,contour-alley-designer,0.6.3,Viridis LLC (Viridis Conservation),Apache-2.0,692283,"Landscape-general agroforestry design: contour alleys, shelterbelts, silvopasture and savanna restoration, robustly optimized on real terrain"
+2026-11-21T03:55:06Z,xlens-ai,0.2.0,Adrian Kay,MIT,188493,"Explain Excel financial models from their real formulas: dependency map, KPIs, hardcodes, and an MCP server for Claude and Codex."
+2026-11-21T03:57:01Z,laminar-tessera,0.1.0,Darreck L. Bender II,Proprietary,889613,"Tessera — one engine for software that remembers, relates, measures, decides, and replays. Patent(s) pending."
+2026-11-21T03:58:48Z,fontpkg-khand,1.102,,OFL-1.1,722364,"Khand font family, packaged for Python by fontpkg"
+2026-11-21T03:58:51Z,fontpkg-playfair-display-sc,1.200,,OFL-1.1,577112,"Playfair Display SC font family, packaged for Python by fontpkg"
+2026-11-21T03:58:53Z,fontpkg-encode-sans-condensed,2.0,,OFL-1.1,660962,"Encode Sans Condensed font family, packaged for Python by fontpkg"
+2026-11-21T03:58:56Z,fontpkg-alexandria,5.100,,OFL-1.1,172392,"Alexandria font family, packaged for Python by fontpkg"
+2026-11-21T04:07:04Z,netinfra-free100bonus-batch-1-i4i6r,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5665,Technical network verification and high-availability endpoint registry for Free100Bonus - Batch 1 Drip Campaign (Đợt 3/5)
+2026-11-21T04:12:14Z,p2md,0.2.0,p2md contributors,MIT,191300,"Local OCR → structured Markdown for scanned books and long screenshots (no LLM, macOS Vision / RapidOCR)"
+2026-11-21T04:19:34Z,netease-mail-connector,0.3.0,,,141902,163 邮箱（及其他 IMAP/SMTP 邮箱）的 CLI 与本地 MCP Server：搜索、读取、发送邮件
