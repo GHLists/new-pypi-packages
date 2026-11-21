@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T18:23:48Z,camel-datacircle,0.1.0,,MIT,17007,A CAMEL toolkit for the Datacircle API: find the best GTM APIs
+2026-11-21T18:24:18Z,mcp-issuer-check,0.1.1,Murat Bekgi,MIT,38396,"See which OAuth authorization servers your MCP servers send your login to, verify their metadata, and pin them."
+2026-11-21T18:24:21Z,lit-reader,1.2.0,Robin Kwong,MIT,1415285,Turn academic papers into offline HTML reading copies.
+2026-11-21T18:24:22Z,agentcore-iam-audit,0.1.1,Murat Bekgi,MIT,44049,"Find Amazon Bedrock AgentCore IAM paths: agents reaching other agents' memory, runtimes, code interpreters and secrets, and code-interpreter privilege escalation."
+2026-11-21T18:25:04Z,zerobom,0.1.0,zerobom Contributors,Apache-2.0,434978,Deterministic pre-CVE security advisory verification and OSV compilation engine.
+2026-11-21T18:25:46Z,rb-google-search-console,0.5.5,bolandeu,MIT,262611,"Google Search Console and PageSpeed Insights: properties, search analytics, URL inspection, sitemaps, page speed."
+2026-11-21T18:26:20Z,rb-hostme,0.6.18,Roman Bolandau <r.bolandau@gmail.com>,MIT,262958,Deploy static sites and PHP to your own VPS: a personal surge.sh alike.
+2026-11-21T18:26:25Z,rb-html-to-gutenberg,0.5.6,bolandeu,MIT,128129,Convert HTML into WordPress Gutenberg blocks.
+2026-11-21T18:26:36Z,rb-llmkit,0.14.2,Roman Bolandau,MIT,218604,Shared LLM layer: model calls through a gateway with typed answers and spend accounting.
+2026-11-21T18:28:13Z,optima-ai-browser,0.2.1,ascaniolocorotondo,MIT,1431456,"A browser built for AI assistants: clean page text for the agent, a human hand-off for CAPTCHAs, logins and payments. MCP server + Agent Skill."
+2026-11-21T18:29:10Z,tokencut-proxy,0.1.0,"Masooma Ali, Huma Taj, Fatima Shakir",,1256050,Cache-aware gateway that trims the context coding agents send to the model
+2026-11-21T18:30:01Z,plagiarism-index-schema,999.9.9,,,972,Stub package that mitigates Dependency Confusion attacks
+2026-11-21T18:33:03Z,tj-logger,1.13.1,tjf1dev,,9590,simple logger setup
+2026-11-21T18:33:35Z,devupai,1.0.0a1,DEVUP AI,MIT,149246,"Official Python SDK for the DEVUP AI API, with billing in DZD."
+2026-11-21T18:34:12Z,zerodb-fastapi,0.1.0,AINative Studio,MIT,13986,"FastAPI integration for ZeroDB — middleware, dependencies, and pre-built routes"
+2026-11-21T18:35:00Z,validator-documents,0.1.0,edmaker89 <edmaker@gmail.com>,MIT,33206,"Validação e formatação de documentos brasileiros (CPF, CNPJ, PIS, Título Eleitoral, CNH, RENAVAM, Placa)."
+2026-11-21T18:36:08Z,fastapi-cls-view,0.1.0,Yurii Karabas,MIT,67120,"Class-based views for FastAPI: fields as dependencies, routes as methods, hooks as in pydantic"
+2026-11-21T18:38:31Z,sharedots,0.1.0,Sharedots Team,MIT,33150,Universal Distributed Compute Network — Python SDK & Remote Execution
+2026-11-21T18:39:05Z,zerodb-pytest,0.1.0,AINative Studio,MIT,11344,Pytest fixtures and mocks for ZeroDB testing
+2026-11-21T18:42:09Z,mnemohive,0.1.5,,MIT,598126,"One shared, versioned memory for your coding agents (Claude Code, Codex, OpenCode) over MCP, in one local file."
+2026-11-21T18:42:43Z,stepcache,0.1.0,,Apache-2.0,74020,"Content-addressed cache for multi-step processing pipelines, with early cutoff."
+2026-11-21T18:45:13Z,guldo-cli,0.1.0,,,959619,"Command-line client and tools for verifiable speedup claims: commit-reveal rounds, certificates anyone can recompute, exact step counting."
+2026-11-21T18:47:20Z,xfea-gmsh-worker,0.0.1,,GPL-2.0-or-later,14910,"Gmsh, run as a program of its own for xfea's meshing. First release coming soon."
+2026-11-21T18:48:41Z,wwpdb-onedep-zensical-theme,0.0.0.dev1,Ezra Peisach <ezra.peisach@rcsb.org>,Apache-2.0,37123,Theme for wwPDB Onedep project documentation
+2026-11-21T18:48:47Z,ledger-runtime,0.1.0,Aman Sriven,MIT,274606,"A runtime under LangGraph that makes agent runs replayable, crash-safe and self-diagnosing."
+2026-11-21T18:51:36Z,netherframe.ext.aws,0.2.0,,MIT,17230,AWS provider extensions for Netherframe hybrid execution and graph ownership
+2026-11-21T18:51:39Z,netherframe.providers.hashicorp.aws,6.73.0,,MIT,14312010,NF provider for hashicorp/aws
+2026-11-21T18:51:43Z,netherframe.providers.hashicorp.helm,3.3.0,,MIT,38731,NF provider for hashicorp/helm
+2026-11-21T18:51:45Z,netherframe.sdk,0.1.0,,MIT,220681,"Every nf command as a Python API: plan, apply, drift, discover, generate and the rest, with structured results"
+2026-11-21T18:53:04Z,countersign-sdk,0.1.0,Countersign,UNLICENSED,14306,Countersign Python SDK: assured execution for AI agent tool calls (Doc 04 §8.3).
+2026-11-21T18:55:51Z,jelly-dev,0.5.0,,MIT,25242062,Terminal IDE and diff/merge tool with a vim-style editor (the jd command)
+2026-11-21T18:59:22Z,streonor-mcp,0.8.2,,MIT,125079,"Community MCP tools for STREONOR profiles, actions and icons"
+2026-11-21T18:59:28Z,wtf-wildlife-trial-framework,0.0.2.0,Sagnik Roy,MIT,644766,WTF — Wildlife Trial Framework: a reinforcement learning ecosystem simulator
+2026-11-21T19:00:42Z,luff,0.9.0,,AGPL-3.0-only,18557368,File system management for agentic workflows
+2026-11-21T19:00:48Z,lucem-app,0.0.6,jesusdpa1,MIT OR Apache-2.0,193440806,The lucem desktop app: install with pip install lucem[app]
+2026-11-21T19:00:48Z,lucem-web,0.0.6,jesusdpa1,MIT OR Apache-2.0,14732940,The lucem browser WASM app bundle: install with pip install 'lucem[web]' or uv add 'lucem[web]'
+2026-11-21T19:02:44Z,bhtypes,0.1.0,Jack C. Cook,MIT,23530,"Dependency-free, shared data types for borehole definitions used in ground heat exchanger software, with converters to pygfunction, bhresist and GHEDesigner."
+2026-11-21T19:03:28Z,llm-tools-datacircle,0.1.0,,MIT,15453,LLM tools for the Datacircle API: find the best GTM APIs
+2026-11-21T19:03:34Z,cixerlab,1.0.1,Cixer,,12494,
+2026-11-21T19:04:06Z,silicon-teahouse,0.1.0,,MIT,14161,"Discover Silicon Teahouse, read recent public posts, and find the agent joining guide."
+2026-11-21T19:04:13Z,mcp-agent-security-auditor,2.1.0,"""HM Shihabuddin Jashory (Shihab)"" <contact@visionflowgroup.com>",MIT,17460,"Lightweight Fast Pre-Audit Security Scanner & Agent Skill for MCP Servers, Agent Hooks, and Firebase Rules"
+2026-11-21T19:05:56Z,pytest-exam,2.0,"""Y. Copin"" <y.copin@ipnl.in2p3.fr>",CC-BY-SA-4.0,27184,pytest plugin to grade student code against a solution
+2026-11-21T19:06:01Z,aws_sdk_socialmessaging,0.0.0,,Apache-2.0,2184,Placeholder reserving the aws_sdk_socialmessaging name. Not yet functional.
+2026-11-21T19:06:24Z,aws_sdk_ec2_instance_connect,0.0.0,,Apache-2.0,2249,Placeholder reserving the aws_sdk_ec2_instance_connect name. Not yet functional.
+2026-11-21T19:06:35Z,infinite-llm-fallback-router,2.1.0,"""HM Shihabuddin Jashory (Shihab)"" <contact@visionflowgroup.com>",MIT,17829,Zero-Dependency Multi-Provider LLM Auto-Fallback Proxy (SSE Streaming + Anthropic /v1/messages Bridge + 9Router Patches)
+2026-11-21T19:06:41Z,aws_sdk_directory_service,0.0.0,,Apache-2.0,2201,Placeholder reserving the aws_sdk_directory_service name. Not yet functional.
+2026-11-21T19:07:00Z,aws_sdk_medialive,0.0.0,,Apache-2.0,2123,Placeholder reserving the aws_sdk_medialive name. Not yet functional.
+2026-11-21T19:07:02Z,quartzbench,0.0.1,Quartzbench,Apache-2.0,10513,Quartzbench: an AI engineer for the hardware bench. Pre-release placeholder; v0.1 is in development.
+2026-11-21T19:08:11Z,aws_sdk_customer_profiles,0.0.0,,Apache-2.0,2065,Placeholder reserving the aws_sdk_customer_profiles name. Not yet functional.
+2026-11-21T19:08:24Z,aws_sdk_waf,0.0.0,,Apache-2.0,1914,Placeholder reserving the aws_sdk_waf name. Not yet functional.
+2026-11-21T19:08:38Z,telryn,0.9.2,,Apache-2.0,619468,Audit how lenders and payments teams handle complaints across human and AI support.
+2026-11-21T19:08:41Z,aws_sdk_network_firewall,0.0.0,,Apache-2.0,2060,Placeholder reserving the aws_sdk_network_firewall name. Not yet functional.
+2026-11-21T19:08:44Z,agy-claude-crash-guard-kit,2.1.0,"""HM Shihabuddin Jashory (Shihab)"" <contact@visionflowgroup.com>",MIT,36181,"PreToolUse Multimodal Crash Firewall, Post-Edit Verification Gate & Desktop-to-IDE Session Sync for Antigravity and Claude Code"
+2026-11-21T19:09:26Z,aws_sdk_cost_and_usage_report_service,0.0.0,,Apache-2.0,2198,Placeholder reserving the aws_sdk_cost_and_usage_report_service name. Not yet functional.
+2026-11-21T19:10:57Z,segyrs,0.1.0,,Apache-2.0,32890760,"Reading, writing and manipulation of huge SEG-Y files: a Rust core with Python bindings"
+2026-11-21T19:12:52Z,aws_sdk_vpc_lattice,0.0.0,,Apache-2.0,2015,Placeholder reserving the aws_sdk_vpc_lattice name. Not yet functional.
+2026-11-21T19:13:16Z,aws_sdk_geo_routes,0.0.0,,Apache-2.0,2006,Placeholder reserving the aws_sdk_geo_routes name. Not yet functional.
+2026-11-21T19:13:29Z,aws_sdk_greengrassv2,0.0.0,,Apache-2.0,2022,Placeholder reserving the aws_sdk_greengrassv2 name. Not yet functional.
+2026-11-21T19:13:40Z,aws_sdk_license_manager,0.0.0,,Apache-2.0,2053,Placeholder reserving the aws_sdk_license_manager name. Not yet functional.
+2026-11-21T19:14:07Z,misfire-ci,0.1.0,Eric Hayes,MIT,80564,Know why the build misfired — an agentic CI failure explainer that classifies real vs. flaky failures and posts an advisory PR comment.

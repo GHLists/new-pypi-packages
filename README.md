@@ -8,47 +8,71 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:18 UTC
+## Latest list — 2026-11-21 19:18 UTC
 
-New packages created between 2026-11-21 17:18 UTC and 2026-11-21 18:18 UTC.
+New packages created between 2026-11-21 18:18 UTC and 2026-11-21 19:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-21T18-18-49-984641Z.csv)
+[Full CSV](data/new-packages-2026-11-21T19-18-49-195215Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-21 17:19:56 | [geotiger](https://pypi.org/project/geotiger/) | 0.1.0 | Andrew Wheeler <andrew.wheele… | 105.9 kB | Local-first US address geocoding from TIGER/Line address ranges |
-| 2026-11-21 17:23:57 | [zebracat](https://pypi.org/project/zebracat/) | 0.1.0 | Zebracat | 183.1 kB | Official Python client for the Zebracat video API |
-| 2026-11-21 17:26:38 | [crimepy-cdc](https://pypi.org/project/crimepy-cdc/) | 0.1.0 | Andrew Wheeler <andrew.wheele… | 11.6 MB | Crime analysis in Python |
-| 2026-11-21 17:28:49 | [ovos-skill-1001-nights](https://pypi.org/project/ovos-skill-1001-nights/) | 0.1.0 | Andreas Lorensen | 124.0 kB | Tales from the Thousand and One Nights (Wikisource) provider for ovos-common-re… |
-| 2026-11-21 17:28:56 | [clickhouse-sqlalchemy-ng](https://pypi.org/project/clickhouse-sqlalchemy-ng/) | 0.4.0 | Konstantin Lebedev | 102.8 kB | Simple ClickHouse SQLAlchemy Dialect |
-| 2026-11-21 17:29:28 | [devbrains](https://pypi.org/project/devbrains/) | 0.1.0.dev0 |  | 2.6 kB | Project memory for work that spans devices (early preview) |
-| 2026-11-21 17:30:18 | [f-ksa](https://pypi.org/project/f-ksa/) | 1.0.0 | Fida <your_email@example.com> | 14.3 kB | مكتبة عربية ذكية لتنظيف البيانات ومعالجة النصوص والأرقام السعودية |
-| 2026-11-21 17:30:47 | [sycl-nl](https://pypi.org/project/sycl-nl/) | 0.3.0 |  | 32.7 kB | A minimal periodic SYCL neighbor list for PyTorch XPU |
-| 2026-11-21 17:32:45 | [pi-minimal](https://pypi.org/project/pi-minimal/) | 0.1.0 |  | 195.3 kB | Start pi with only the extensions and skills you pick |
-| 2026-11-21 17:33:19 | [pyskins](https://pypi.org/project/pyskins/) | 0.1.0 | Alex and Isabela Girlea | 74.0 kB | Python files written in emoji that really run. Dress your code in a skin, and t… |
-| 2026-11-21 17:36:28 | [selfright-mcp](https://pypi.org/project/selfright-mcp/) | 0.4.7 | Pierroons <contact@my-self.fr> | 132.2 kB | Serveur MCP de consultation du droit français (LEGI), de conventionnalité (UE,… |
-| 2026-11-21 17:37:53 | [aelix-analytics](https://pypi.org/project/aelix-analytics/) | 0.32.1 | handochan | 2.0 MB | Agent-native analytics projects with durable context, metrics, evidence, and re… |
-| 2026-11-21 17:38:59 | [alembic-status](https://pypi.org/project/alembic-status/) | 1.0.0 |  | 78.6 kB | Show alembic branches status and upgrade outdated branches, standalone or as Fl… |
-| 2026-11-21 17:42:17 | [lirk](https://pypi.org/project/lirk/) | 1.1.0 | Shawn Faulkingham Jr | 118.0 kB | A minimal, Bazel/Please-inspired build tool for Python monorepos. |
-| 2026-11-21 17:43:43 | [postpilot](https://pypi.org/project/postpilot/) | 0.1.0 | DevFiend | 112.9 kB | Personal AI-powered content management and publishing assistant for X (Twitter) |
-| 2026-11-21 17:47:24 | [tabulith](https://pypi.org/project/tabulith/) | 0.0.1 |  | 1.3 kB |  |
-| 2026-11-21 17:47:40 | [pylosisi](https://pypi.org/project/pylosisi/) | 0.1.0 | sdgrgreerr <maxim.fry.a@gmail… | 19.6 kB | Audio modem protocol implementation for LoSiSi (Low-Signal Simple Interface) |
-| 2026-11-21 17:50:58 | [setmore-mcp](https://pypi.org/project/setmore-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 16.6 kB | Connect Setmore to ChatGPT, Claude and any AI agent through Cotlet.dev, a hoste… |
-| 2026-11-21 17:52:33 | [scrapereviews-mcp](https://pypi.org/project/scrapereviews-mcp/) | 0.1.0 | ScrapeReviews | 109.7 kB | MCP server for the ScrapeReviews API: Trustpilot companies, reviews and categor… |
-| 2026-11-21 17:52:45 | [colonycount](https://pypi.org/project/colonycount/) | 0.1.0 | rafaliazz | 38.1 kB | Offline bacterial colony counter for agar plate photos |
-| 2026-11-21 17:53:05 | [scrapeadlibrary](https://pypi.org/project/scrapeadlibrary/) | 0.1.0 | ScrapeAdLibrary | 39.0 kB | Official Python SDK for the ScrapeAdLibrary API (Meta Ad Library data) |
-| 2026-11-21 17:53:08 | [scrapeadlibrary-mcp](https://pypi.org/project/scrapeadlibrary-mcp/) | 0.1.0 | ScrapeAdLibrary | 143.7 kB | MCP server for the ScrapeAdLibrary API: search the Meta Ad Library from AI assi… |
-| 2026-11-21 17:53:25 | [scrapereviews-sdk](https://pypi.org/project/scrapereviews-sdk/) | 0.1.0 | ScrapeReviews | 34.3 kB | Official Python SDK for the ScrapeReviews API: Trustpilot companies, reviews an… |
-| 2026-11-21 17:53:43 | [hostel-room-allocation-siya](https://pypi.org/project/hostel-room-allocation-siya/) | 0.1.0 | Siya Sood <siya.25004583@jain… | 8.4 kB | A Python package for hostel room allocation and occupancy management |
-| 2026-11-21 17:59:26 | [mcp-workers-bridge](https://pypi.org/project/mcp-workers-bridge/) | 0.5.0 |  | 85.2 kB | A stdio MCP server for authenticated YouTube, X, and Reddit reads |
-| 2026-11-21 17:59:56 | [interactive-video-labs-fastapi](https://pypi.org/project/interactive-video-labs-fastapi/) | 0.2.0 | Taj | 8.8 kB | FastAPI adapter for interactive-video-labs-core |
-| 2026-11-21 18:03:00 | [tether-agents](https://pypi.org/project/tether-agents/) | 0.3.0 |  | 24.7 kB | Python client for Tether: run agents you don't trust on infrastructure you do. |
-| 2026-11-21 18:04:45 | [mcp-shieldwall](https://pypi.org/project/mcp-shieldwall/) | 0.3.1 |  | 54.6 kB | Zero-dependency security firewall, tool-poisoning scanner & secret redactor for… |
-| 2026-11-21 18:04:53 | [hyperliquid-starter-bots](https://pypi.org/project/hyperliquid-starter-bots/) | 0.2.1 |  | 77.9 kB | Starter trading bots for Hyperliquid plus a read-only MCP server for coding age… |
-| 2026-11-21 18:05:07 | [ai-pr-cost-guard](https://pypi.org/project/ai-pr-cost-guard/) | 0.2.1 | Carl <andreyy.2200223@gmail.c… | 61.4 kB | Diff-aware Python AST and JS/TS static FinOps gate for unbounded LLM retry loop… |
-| 2026-11-21 18:07:04 | [ansik](https://pypi.org/project/ansik/) | 0.1.0 | tjf1dev | 4.6 kB | a lightweight library for ANSI escape codes |
-| 2026-11-21 18:07:19 | [video2md](https://pypi.org/project/video2md/) | 0.2.0 | video2md | 39.0 kB | MCP server that turns video/audio files into transcripts and metadata for repor… |
-| 2026-11-21 18:08:16 | [keeptabs](https://pypi.org/project/keeptabs/) | 0.0.2 | Thor Whalen | 86.9 kB | Technology watch for people who work with AI agents: say what to follow, let a… |
-| 2026-11-21 18:12:37 | [kerbtap](https://pypi.org/project/kerbtap/) | 0.0.1 |  | 2.7 kB | Guardrails for AI coding agents. Placeholder release; the first real release fo… |
-| 2026-11-21 18:13:01 | [git-insight-tool](https://pypi.org/project/git-insight-tool/) | 0.1.0 |  | 51.3 kB | Terminal, HTML and JSON statistics for local Git repositories: authors, activit… |
-| 2026-11-21 18:16:20 | [vinewright](https://pypi.org/project/vinewright/) | 0.5.0 | Sentivium Team <info@sentiviu… | 19.7 kB | Vinewright Embedded Python DSL: Governed Business Operating System for Agentic… |
+| 2026-11-21 18:23:48 | [camel-datacircle](https://pypi.org/project/camel-datacircle/) | 0.1.0 |  | 17.0 kB | A CAMEL toolkit for the Datacircle API: find the best GTM APIs |
+| 2026-11-21 18:24:18 | [mcp-issuer-check](https://pypi.org/project/mcp-issuer-check/) | 0.1.1 | Murat Bekgi | 38.4 kB | See which OAuth authorization servers your MCP servers send your login to, veri… |
+| 2026-11-21 18:24:21 | [lit-reader](https://pypi.org/project/lit-reader/) | 1.2.0 | Robin Kwong | 1.4 MB | Turn academic papers into offline HTML reading copies. |
+| 2026-11-21 18:24:22 | [agentcore-iam-audit](https://pypi.org/project/agentcore-iam-audit/) | 0.1.1 | Murat Bekgi | 44.0 kB | Find Amazon Bedrock AgentCore IAM paths: agents reaching other agents' memory,… |
+| 2026-11-21 18:25:04 | [zerobom](https://pypi.org/project/zerobom/) | 0.1.0 | zerobom Contributors | 435.0 kB | Deterministic pre-CVE security advisory verification and OSV compilation engine. |
+| 2026-11-21 18:25:46 | [rb-google-search-console](https://pypi.org/project/rb-google-search-console/) | 0.5.5 | bolandeu | 262.6 kB | Google Search Console and PageSpeed Insights: properties, search analytics, URL… |
+| 2026-11-21 18:26:20 | [rb-hostme](https://pypi.org/project/rb-hostme/) | 0.6.18 | Roman Bolandau <r.bolandau@gm… | 263.0 kB | Deploy static sites and PHP to your own VPS: a personal surge.sh alike. |
+| 2026-11-21 18:26:25 | [rb-html-to-gutenberg](https://pypi.org/project/rb-html-to-gutenberg/) | 0.5.6 | bolandeu | 128.1 kB | Convert HTML into WordPress Gutenberg blocks. |
+| 2026-11-21 18:26:36 | [rb-llmkit](https://pypi.org/project/rb-llmkit/) | 0.14.2 | Roman Bolandau | 218.6 kB | Shared LLM layer: model calls through a gateway with typed answers and spend ac… |
+| 2026-11-21 18:28:13 | [optima-ai-browser](https://pypi.org/project/optima-ai-browser/) | 0.2.1 | ascaniolocorotondo | 1.4 MB | A browser built for AI assistants: clean page text for the agent, a human hand-… |
+| 2026-11-21 18:29:10 | [tokencut-proxy](https://pypi.org/project/tokencut-proxy/) | 0.1.0 | Masooma Ali, Huma Taj, Fatima… | 1.3 MB | Cache-aware gateway that trims the context coding agents send to the model |
+| 2026-11-21 18:30:01 | [plagiarism-index-schema](https://pypi.org/project/plagiarism-index-schema/) | 999.9.9 |  | 972 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-21 18:33:03 | [tj-logger](https://pypi.org/project/tj-logger/) | 1.13.1 | tjf1dev | 9.6 kB | simple logger setup |
+| 2026-11-21 18:33:35 | [devupai](https://pypi.org/project/devupai/) | 1.0.0a1 | DEVUP AI | 149.2 kB | Official Python SDK for the DEVUP AI API, with billing in DZD. |
+| 2026-11-21 18:34:12 | [zerodb-fastapi](https://pypi.org/project/zerodb-fastapi/) | 0.1.0 | AINative Studio | 14.0 kB | FastAPI integration for ZeroDB — middleware, dependencies, and pre-built routes |
+| 2026-11-21 18:35:00 | [validator-documents](https://pypi.org/project/validator-documents/) | 0.1.0 | edmaker89 <edmaker@gmail.com> | 33.2 kB | Validação e formatação de documentos brasileiros (CPF, CNPJ, PIS, Título Eleito… |
+| 2026-11-21 18:36:08 | [fastapi-cls-view](https://pypi.org/project/fastapi-cls-view/) | 0.1.0 | Yurii Karabas | 67.1 kB | Class-based views for FastAPI: fields as dependencies, routes as methods, hooks… |
+| 2026-11-21 18:38:31 | [sharedots](https://pypi.org/project/sharedots/) | 0.1.0 | Sharedots Team | 33.1 kB | Universal Distributed Compute Network — Python SDK & Remote Execution |
+| 2026-11-21 18:39:05 | [zerodb-pytest](https://pypi.org/project/zerodb-pytest/) | 0.1.0 | AINative Studio | 11.3 kB | Pytest fixtures and mocks for ZeroDB testing |
+| 2026-11-21 18:42:09 | [mnemohive](https://pypi.org/project/mnemohive/) | 0.1.5 |  | 598.1 kB | One shared, versioned memory for your coding agents (Claude Code, Codex, OpenCo… |
+| 2026-11-21 18:42:43 | [stepcache](https://pypi.org/project/stepcache/) | 0.1.0 |  | 74.0 kB | Content-addressed cache for multi-step processing pipelines, with early cutoff. |
+| 2026-11-21 18:45:13 | [guldo-cli](https://pypi.org/project/guldo-cli/) | 0.1.0 |  | 959.6 kB | Command-line client and tools for verifiable speedup claims: commit-reveal roun… |
+| 2026-11-21 18:47:20 | [xfea-gmsh-worker](https://pypi.org/project/xfea-gmsh-worker/) | 0.0.1 |  | 14.9 kB | Gmsh, run as a program of its own for xfea's meshing. First release coming soon. |
+| 2026-11-21 18:48:41 | [wwpdb-onedep-zensical-theme](https://pypi.org/project/wwpdb-onedep-zensical-theme/) | 0.0.0.dev1 | Ezra Peisach <ezra.peisach@rc… | 37.1 kB | Theme for wwPDB Onedep project documentation |
+| 2026-11-21 18:48:47 | [ledger-runtime](https://pypi.org/project/ledger-runtime/) | 0.1.0 | Aman Sriven | 274.6 kB | A runtime under LangGraph that makes agent runs replayable, crash-safe and self… |
+| 2026-11-21 18:51:36 | [netherframe.ext.aws](https://pypi.org/project/netherframe.ext.aws/) | 0.2.0 |  | 17.2 kB | AWS provider extensions for Netherframe hybrid execution and graph ownership |
+| 2026-11-21 18:51:39 | [netherframe.providers.hashicorp.aws](https://pypi.org/project/netherframe.providers.hashicorp.aws/) | 6.73.0 |  | 14.3 MB | NF provider for hashicorp/aws |
+| 2026-11-21 18:51:43 | [netherframe.providers.hashicorp.helm](https://pypi.org/project/netherframe.providers.hashicorp.helm/) | 3.3.0 |  | 38.7 kB | NF provider for hashicorp/helm |
+| 2026-11-21 18:51:45 | [netherframe.sdk](https://pypi.org/project/netherframe.sdk/) | 0.1.0 |  | 220.7 kB | Every nf command as a Python API: plan, apply, drift, discover, generate and th… |
+| 2026-11-21 18:53:04 | [countersign-sdk](https://pypi.org/project/countersign-sdk/) | 0.1.0 | Countersign | 14.3 kB | Countersign Python SDK: assured execution for AI agent tool calls (Doc 04 §8.3). |
+| 2026-11-21 18:55:51 | [jelly-dev](https://pypi.org/project/jelly-dev/) | 0.5.0 |  | 25.2 MB | Terminal IDE and diff/merge tool with a vim-style editor (the jd command) |
+| 2026-11-21 18:59:22 | [streonor-mcp](https://pypi.org/project/streonor-mcp/) | 0.8.2 |  | 125.1 kB | Community MCP tools for STREONOR profiles, actions and icons |
+| 2026-11-21 18:59:28 | [wtf-wildlife-trial-framework](https://pypi.org/project/wtf-wildlife-trial-framework/) | 0.0.2.0 | Sagnik Roy | 644.8 kB | WTF — Wildlife Trial Framework: a reinforcement learning ecosystem simulator |
+| 2026-11-21 19:00:42 | [luff](https://pypi.org/project/luff/) | 0.9.0 |  | 18.6 MB | File system management for agentic workflows |
+| 2026-11-21 19:00:48 | [lucem-app](https://pypi.org/project/lucem-app/) | 0.0.6 | jesusdpa1 | 193.4 MB | The lucem desktop app: install with pip install lucem[app] |
+| 2026-11-21 19:00:48 | [lucem-web](https://pypi.org/project/lucem-web/) | 0.0.6 | jesusdpa1 | 14.7 MB | The lucem browser WASM app bundle: install with pip install 'lucem[web]' or uv… |
+| 2026-11-21 19:02:44 | [bhtypes](https://pypi.org/project/bhtypes/) | 0.1.0 | Jack C. Cook | 23.5 kB | Dependency-free, shared data types for borehole definitions used in ground heat… |
+| 2026-11-21 19:03:28 | [llm-tools-datacircle](https://pypi.org/project/llm-tools-datacircle/) | 0.1.0 |  | 15.5 kB | LLM tools for the Datacircle API: find the best GTM APIs |
+| 2026-11-21 19:03:34 | [cixerlab](https://pypi.org/project/cixerlab/) | 1.0.1 | Cixer | 12.5 kB |  |
+| 2026-11-21 19:04:06 | [silicon-teahouse](https://pypi.org/project/silicon-teahouse/) | 0.1.0 |  | 14.2 kB | Discover Silicon Teahouse, read recent public posts, and find the agent joining… |
+| 2026-11-21 19:04:13 | [mcp-agent-security-auditor](https://pypi.org/project/mcp-agent-security-auditor/) | 2.1.0 | "HM Shihabuddin Jashory (Shih… | 17.5 kB | Lightweight Fast Pre-Audit Security Scanner & Agent Skill for MCP Servers, Agen… |
+| 2026-11-21 19:05:56 | [pytest-exam](https://pypi.org/project/pytest-exam/) | 2.0 | "Y. Copin" <y.copin@ipnl.in2p… | 27.2 kB | pytest plugin to grade student code against a solution |
+| 2026-11-21 19:06:01 | [aws_sdk_socialmessaging](https://pypi.org/project/aws_sdk_socialmessaging/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_socialmessaging name. Not yet functional. |
+| 2026-11-21 19:06:24 | [aws_sdk_ec2_instance_connect](https://pypi.org/project/aws_sdk_ec2_instance_connect/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_ec2_instance_connect name. Not yet functional. |
+| 2026-11-21 19:06:35 | [infinite-llm-fallback-router](https://pypi.org/project/infinite-llm-fallback-router/) | 2.1.0 | "HM Shihabuddin Jashory (Shih… | 17.8 kB | Zero-Dependency Multi-Provider LLM Auto-Fallback Proxy (SSE Streaming + Anthrop… |
+| 2026-11-21 19:06:41 | [aws_sdk_directory_service](https://pypi.org/project/aws_sdk_directory_service/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_directory_service name. Not yet functional. |
+| 2026-11-21 19:07:00 | [aws_sdk_medialive](https://pypi.org/project/aws_sdk_medialive/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_medialive name. Not yet functional. |
+| 2026-11-21 19:07:02 | [quartzbench](https://pypi.org/project/quartzbench/) | 0.0.1 | Quartzbench | 10.5 kB | Quartzbench: an AI engineer for the hardware bench. Pre-release placeholder; v0… |
+| 2026-11-21 19:08:11 | [aws_sdk_customer_profiles](https://pypi.org/project/aws_sdk_customer_profiles/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_customer_profiles name. Not yet functional. |
+| 2026-11-21 19:08:24 | [aws_sdk_waf](https://pypi.org/project/aws_sdk_waf/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_waf name. Not yet functional. |
+| 2026-11-21 19:08:38 | [telryn](https://pypi.org/project/telryn/) | 0.9.2 |  | 619.5 kB | Audit how lenders and payments teams handle complaints across human and AI supp… |
+| 2026-11-21 19:08:41 | [aws_sdk_network_firewall](https://pypi.org/project/aws_sdk_network_firewall/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_network_firewall name. Not yet functional. |
+| 2026-11-21 19:08:44 | [agy-claude-crash-guard-kit](https://pypi.org/project/agy-claude-crash-guard-kit/) | 2.1.0 | "HM Shihabuddin Jashory (Shih… | 36.2 kB | PreToolUse Multimodal Crash Firewall, Post-Edit Verification Gate & Desktop-to-… |
+| 2026-11-21 19:09:26 | [aws_sdk_cost_and_usage_report_service](https://pypi.org/project/aws_sdk_cost_and_usage_report_service/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_cost_and_usage_report_service name. Not yet f… |
+| 2026-11-21 19:10:57 | [segyrs](https://pypi.org/project/segyrs/) | 0.1.0 |  | 32.9 MB | Reading, writing and manipulation of huge SEG-Y files: a Rust core with Python… |
+| 2026-11-21 19:12:52 | [aws_sdk_vpc_lattice](https://pypi.org/project/aws_sdk_vpc_lattice/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_vpc_lattice name. Not yet functional. |
+| 2026-11-21 19:13:16 | [aws_sdk_geo_routes](https://pypi.org/project/aws_sdk_geo_routes/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_geo_routes name. Not yet functional. |
+| 2026-11-21 19:13:29 | [aws_sdk_greengrassv2](https://pypi.org/project/aws_sdk_greengrassv2/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_greengrassv2 name. Not yet functional. |
+| 2026-11-21 19:13:40 | [aws_sdk_license_manager](https://pypi.org/project/aws_sdk_license_manager/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_license_manager name. Not yet functional. |
+| 2026-11-21 19:14:07 | [misfire-ci](https://pypi.org/project/misfire-ci/) | 0.1.0 | Eric Hayes | 80.6 kB | Know why the build misfired — an agentic CI failure explainer that classifies r… |
