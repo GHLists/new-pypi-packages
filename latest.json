@@ -1,41 +1,12 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-21T19:18:49.195215Z",
-    "path": "data/new-packages-2026-11-21T20-21-41-405242Z.csv",
-    "to": "2026-11-21T20:21:41.405242Z"
+    "count": 16,
+    "from": "2026-11-21T20:21:41.405242Z",
+    "path": "data/new-packages-2026-11-21T21-18-24-508671Z.csv",
+    "to": "2026-11-21T21:18:24.508671Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-21T16:57:15Z",
-      "package": "rboto-cloudwatch",
-      "since": "2026-11-21T16:19:58.75607Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-21T16:57:34Z",
-      "package": "rboto-firehose",
-      "since": "2026-11-21T16:19:58.75607Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-21T16:57:45Z",
-      "package": "rboto-glue",
-      "since": "2026-11-21T16:19:58.75607Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-21T16:57:25Z",
-      "package": "rboto-kinesis",
-      "since": "2026-11-21T16:19:58.75607Z",
-      "version": null
-    }
-  ],
-  "serial": 43987702,
+  "pending": [],
+  "serial": 43989113,
   "source_truncated": false,
-  "window": "2026-11-21T20:21:41.405242Z"
+  "window": "2026-11-21T21:18:24.508671Z"
 }

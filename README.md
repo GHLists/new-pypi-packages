@@ -8,37 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 20:21 UTC
+## Latest list — 2026-11-21 21:18 UTC
 
-New packages created between 2026-11-21 19:18 UTC and 2026-11-21 20:21 UTC.
+New packages created between 2026-11-21 20:21 UTC and 2026-11-21 21:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-21T20-21-41-405242Z.csv)
+[Full CSV](data/new-packages-2026-11-21T21-18-24-508671Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-21 18:32:22 | [devagentnet](https://pypi.org/project/devagentnet/) | 0.1.0 | devagentnet Contributors | 155.4 kB | Reusable AI Agents and Workflow Framework for Python |
-| 2026-11-21 19:21:00 | [audio-to-video-with-image](https://pypi.org/project/audio-to-video-with-image/) | 1.0.0 | Ajarn Spencer Littlewood | 528.0 kB | Universal Audio to Video with Image Converter — Broadcast-grade MP4 podcast & v… |
-| 2026-11-21 19:21:15 | [puxti-bi-core](https://pypi.org/project/puxti-bi-core/) | 0.21.0 |  | 30.2 kB | BI assets as code: the spec schema for datasets, charts and dashboards used by… |
-| 2026-11-21 19:22:17 | [Olyder](https://pypi.org/project/Olyder/) | 0.5.0b1 | Olyder Contributors | 196.6 kB | Verification-driven execution, independent checks, and evidence for AI coding a… |
-| 2026-11-21 19:23:42 | [Pyzzel](https://pypi.org/project/Pyzzel/) | 0.1.1 |  | 113.1 kB |  |
-| 2026-11-21 19:35:29 | [memvo](https://pypi.org/project/memvo/) | 0.1.0a1 | Memvo | 56.8 kB | Local-first financial memory for agents. Every answer comes with the line it ca… |
-| 2026-11-21 19:35:41 | [cit-course-tools-fa26-cit495-extras-lab02](https://pypi.org/project/cit-course-tools-fa26-cit495-extras-lab02/) | 1.0.0a1 |  | 131.1 kB | Prerelease lab extras (reference, scenario scripts, search captures) for CIT495… |
-| 2026-11-21 19:36:18 | [cit-course-tools-fa26-cit495-extras-course](https://pypi.org/project/cit-course-tools-fa26-cit495-extras-course/) | 1.0.0a1 |  | 44.9 kB | Prerelease course shared files for CIT495, read by the CIT Course Tools downloa… |
-| 2026-11-21 19:36:46 | [cit-course-tools-fa26-cit495-extras-lab01](https://pypi.org/project/cit-course-tools-fa26-cit495-extras-lab01/) | 1.0.0a1 |  | 127.8 kB | Prerelease lab extras (reference, scenario scripts, search captures) for CIT495… |
-| 2026-11-21 19:36:50 | [cit-course-tools-fa26-cit495-extras-lab03](https://pypi.org/project/cit-course-tools-fa26-cit495-extras-lab03/) | 1.0.0a1 |  | 37.2 kB | Prerelease lab extras (reference, scenario scripts, search captures) for CIT495… |
-| 2026-11-21 19:39:03 | [pixelplotlib](https://pypi.org/project/pixelplotlib/) | 0.1.0 | Andreas Poehlmann <andreas@po… | 456.5 kB | Scientific plotting with 8-bit and 16-bit pixel-art graphics |
-| 2026-11-21 19:40:02 | [lucem-hist](https://pypi.org/project/lucem-hist/) | 0.0.6 | jesusdpa1 | 134.7 MB | The compiled part of lucem.hist (histology): install with pip install lucem[his… |
-| 2026-11-21 19:43:50 | [rafale-ai](https://pypi.org/project/rafale-ai/) | 0.1.3 | Patrick Fleith | 11.8 kB | AI for defense. |
-| 2026-11-21 19:44:19 | [llmx-worker](https://pypi.org/project/llmx-worker/) | 0.1.0 |  | 7.5 MB | Share your Claude Code or Codex capacity on llmx.tw and get paid per token serv… |
-| 2026-11-21 19:44:40 | [loquent](https://pypi.org/project/loquent/) | 0.1.0 |  | 1.4 MB | Chat UI for any LLM or AI agent in a few lines of Python. AG-UI native, Chainli… |
-| 2026-11-21 19:45:43 | [lupaxa-pomodoro](https://pypi.org/project/lupaxa-pomodoro/) | 0.1.0 | The Lupaxa Project | 28.9 kB | Terminal Pomodoro timer with configurable work and break sessions. |
-| 2026-11-21 19:47:15 | [flowfields](https://pypi.org/project/flowfields/) | 0.2.2 | Tiago Tavares | 73.2 kB | Tools for artwork by composing flow fields |
-| 2026-11-21 19:48:45 | [mattis-bardeen](https://pypi.org/project/mattis-bardeen/) | 1.0.0 | John Garrett <garrettj403@gma… | 45.7 kB | Calculate the electrical properties of superconductors using Mattis-Bardeen the… |
-| 2026-11-21 19:51:47 | [rafale](https://pypi.org/project/rafale/) | 0.2.0 | Patrick Fleith | 11.7 kB | Agent harness for defense operations. |
-| 2026-11-21 19:54:03 | [micromagpy](https://pypi.org/project/micromagpy/) | 1.0.0 | LemurPwned <lemurpwned@gmail.… | 105.1 kB | A small finite-difference micromagnetic simulator built on NumPy, numba and Sci… |
-| 2026-11-21 19:54:48 | [mova-tts](https://pypi.org/project/mova-tts/) | 0.1.1 | Mykhailo Mulesa | 289.1 kB | Ukrainian text-to-speech with voice cloning: a NeuTTS-Air fine-tune, streaming… |
-| 2026-11-21 19:58:52 | [verity-evidence](https://pypi.org/project/verity-evidence/) | 0.2.0 | VERITY | 214.1 kB | The reality layer for AI coding agents. No claim without evidence. No action wi… |
-| 2026-11-21 20:09:27 | [devagentnet](https://pypi.org/project/devagentnet/) | 0.1.0 | devagentnet Contributors | 155.4 kB | Reusable AI Agents and Workflow Framework for Python |
-| 2026-11-21 20:20:00 | [bakbak-python](https://pypi.org/project/bakbak-python/) | 1.0.0rc2 | Raya Voice AI <support@getray… | 391.2 kB | Official Python SDK for the Bakbak text-to-speech API by Raya |
-| 2026-11-21 20:20:18 | [policywinds-labeler](https://pypi.org/project/policywinds-labeler/) | 0.1.0 | Kernelcraft LLC | 61.6 kB | Labels US bills by policy topic and by which way they move each topic's fixed m… |
-| 2026-11-21 20:21:40 | [pypodcastde](https://pypi.org/project/pypodcastde/) | 0.1.1 |  | 33.7 kB | Update a local library of ARD podcasts and video soundtracks |
+| 2026-11-21 20:23:57 | [sloplinter](https://pypi.org/project/sloplinter/) | 0.1.0 |  | 25.2 kB | Zero-bloat CLI linter that detects AI-generated code slop across Python, JS/TS,… |
+| 2026-11-21 20:30:49 | [foca-plugin-tes-data-crypt4gh](https://pypi.org/project/foca-plugin-tes-data-crypt4gh/) | 0.1.0 | ELIXIR On-Cloud <cloud-servic… | 59.5 kB | FOCA gateway plugin that decrypts the Crypt4GH inputs of TES tasks in an extra… |
+| 2026-11-21 20:34:25 | [sector-ai](https://pypi.org/project/sector-ai/) | 1.4.1 | Rory Eckel | 94.1 kB | Python Telegram Bot powered by LangChain and Ollama |
+| 2026-11-21 20:38:09 | [transiograms](https://pypi.org/project/transiograms/) | 0.1.0 | Gustavo Pretto Scholze | 10.8 MB | Markov models of geological categories: Markov chains, hidden and semi-Markov m… |
+| 2026-11-21 20:51:54 | [calotype](https://pypi.org/project/calotype/) | 0.1.0 | "Skewbald, an AI agent" <skew… | 24.6 kB | Python client for Calotype, a hosted screenshot API: send a URL, get the page b… |
+| 2026-11-21 20:52:09 | [libanubis-solver](https://pypi.org/project/libanubis-solver/) | 2.0.2 | celikfana | 1.2 MB | C proof-of-work engine for Anubis challenges: fast, slow, sha256, argon2id, has… |
+| 2026-11-21 20:53:38 | [cetra-sdk](https://pypi.org/project/cetra-sdk/) | 0.1.0rc1 |  | 132.8 kB | Python SDK for the cetra observability server. |
+| 2026-11-21 20:53:56 | [base64hub](https://pypi.org/project/base64hub/) | 1.0.0 | base64hub <g@base64hub.com> | 36.0 kB | Base64 encode, decode and validate in Python and the shell: lenient decoding, U… |
+| 2026-11-21 20:59:01 | [sanpypdf](https://pypi.org/project/sanpypdf/) | 0.1.0 | Bartosz Szewczyk | 31.0 kB | Sanitize PDFs by rasterizing every page |
+| 2026-11-21 20:59:04 | [django-tinymce-editor](https://pypi.org/project/django-tinymce-editor/) | 0.1.1 |  | 5.5 MB | A TinyMCE rich text editor for Django forms and admin |
+| 2026-11-21 21:05:40 | [pynteract-agent](https://pypi.org/project/pynteract-agent/) | 0.1.0 |  | 63.5 kB | An AI agent inhabiting a shared interactive Python session |
+| 2026-11-21 21:07:36 | [wallace-audit](https://pypi.org/project/wallace-audit/) | 0.1.0 | Lino | 178.6 kB | Forensic token usage and USD cost auditor for Antigravity, Claude Code, Grok CL… |
+| 2026-11-21 21:08:50 | [moarch-py](https://pypi.org/project/moarch-py/) | 0.1.0 | André Montoito | 173.0 kB | FastAPI CLI — scaffold a feature-first FastAPI project on uv, SQLAlchemy and Al… |
+| 2026-11-21 21:13:42 | [rubberorca](https://pypi.org/project/rubberorca/) | 0.1.3 | AtaCanYmc <atacanymc@gmail.co… | 25.2 kB | Python SDK, CLI, and stdio MCP server for RubberOrca ESP32-S3 USB HID over BLE… |
+| 2026-11-21 21:13:57 | [sepa-xml-tools](https://pypi.org/project/sepa-xml-tools/) | 0.1.0 |  | 212.1 kB | Check, create and upgrade SEPA payment XML files (pain.001 credit transfers, pa… |
+| 2026-11-21 21:17:19 | [weavetab-gate](https://pypi.org/project/weavetab-gate/) | 0.1.0 | Weavetab <contact@weavetab.de… | 35.7 MB | Local-first multimodal zero-shot decision engine (text & image -> choices, yes/… |
