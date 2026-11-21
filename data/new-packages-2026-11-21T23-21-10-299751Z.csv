@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T21:24:33Z,atone,0.2.0,Frank Lynam,MIT,2192049,"Keeps a system's authorization (ATO) true to the system: an expert pack for hobkin, and a deterministic toolkit that collects evidence, checks NIST 800-53 controls, verifies every cited claim, fills…"
+2026-11-21T21:49:40Z,hexbandit,1.0.1,,MIT,1801083,"Hex, MCTS et MC-RAVE. Campagnes, statistiques et visualisation."
+2026-11-21T22:19:21Z,sheepdogai,0.1.1,,Apache-2.0,416556,Framework-agnostic safety and observability gate for AI agent tool calls.
+2026-11-21T22:22:21Z,noisefloor-evals,0.1.0,Abualgasim Ibrahim,MIT,157189,"Is your eval improvement real, or just noise? Statistical rigor for LLM evaluations."
+2026-11-21T22:22:26Z,mcp-server-sila,0.0.3,mark doerr,MIT,156400,"A generic, dynamic MCP server bridging the Model Context Protocol to SiLA 2 laboratory devices."
+2026-11-21T22:25:15Z,orca-talkback,0.1.0,Callum Macpherson,Apache-2.0,120824,"Hear your Orca coding agents talk back: spoken reply summaries with voice barge-in, fully local audio."
+2026-11-21T22:25:26Z,segtformats,0.3,Nicolas Renet <nprenet@gmail.com>,MIT,84577,Segmentation data formats: conversion tools
+2026-11-21T22:26:43Z,claudeshift-cli,0.1.0,Mohamed Aboelmaged,MIT,91423,"Fast local-first profile switcher, MCP vault, and real-time quota radar for Claude Code, OpenAI Codex CLI, Gemini CLI, and Cursor."
+2026-11-21T22:26:44Z,rayohx,0.1.0,coldsofttech,Apache-2.0,1062824,RayoHX core library: HLS stream inspecting and downloading.
+2026-11-21T22:27:30Z,agent-hijack-eval,0.3.0,Andrey Pimenov <carl@mcpshieldwall.dpdns.org>,MIT,151701,"Paired clean/poisoned tool-call hijacking regression benchmark, OWASP/MITRE ATLAS scanner, canary guard, SARIF reporter, and MCP server."
+2026-11-21T22:27:33Z,semops-system,0.29.0.dev1,Peter Winstanley,MIT OR Apache-2.0,18454,"SemOps System: RDF 1.2, SPARQL 1.2, SHACL and GeoSPARQL (HOLOS), the SHACL engine and tarka, as one install"
+2026-11-21T22:27:34Z,llm-latency-radar,0.3.0,,MIT,39555,"Zero-dependency streaming latency profiler for Time-To-First-Token (TTFT), inter-token jitter, P95/P99 percentiles, and SLO regression gating across LLM providers."
+2026-11-21T22:27:59Z,scimetal,0.1.0,,,2261246,"SciPy's API, accelerated on Apple Silicon: Metal GPU kernels and a multithreaded Accelerate/NEON CPU engine"
+2026-11-21T22:28:43Z,rayohx-cli,0.1.0,coldsofttech,Apache-2.0,128283,RayoHX command line (the rayohx command).
+2026-11-21T22:29:16Z,flask-lens,0.2.0,Duhan Güler <45712664+duhanguler@users.noreply.github.com>,MIT,872856,"Real-time developer observability, SQL/N+1 profiler, EXPLAIN analyzer, cProfile flamegraph, request replayer, and pytest query-budget guardrails for Flask."
+2026-11-21T22:29:37Z,flask-deck,0.3.0,Duhan Güler <45712664+duhanguler@users.noreply.github.com>,MIT,2658351,"Precision Carbon Dark & Swiss Light admin panel and operations workbench for Flask and SQLAlchemy 2.0 — zero Node build, zero CDN, fail-closed RBAC, dry-run diff import, and field-level audit logs."
+2026-11-21T22:34:59Z,unityrs-py,1.0.0,Scott Benes <scobenes@gmail.com>,(MIT OR Apache-2.0) AND MIT AND MIT-CMU AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause-Views AN…,14433174,Read Unity asset files through the unityrs Rust core.
+2026-11-21T22:36:31Z,tinysd,0.0.1,,MIT,33553,A small wrapper around diffusers for Stable Diffusion 1.x and SDXL with A1111-style prompts.
+2026-11-21T22:39:33Z,mcp-drift-watch,0.1.0,hsarikan,Apache-2.0,292821,"Pin approved MCP servers by fingerprint, alert when their tool descriptions change, and keep changed servers frozen until a person re-approves them."
+2026-11-21T22:40:10Z,laplacekit,0.1a0,Agustinus Kristiadi,MIT,366619,"Extensible, modern Laplace-approximation library for PyTorch, built on a plugin system."
+2026-11-21T22:40:21Z,laplacekit-bayesopt,0.1a0,Agustinus Kristiadi,MIT,31533,Bayesian optimization with laplacekit: Laplace-approximated neural networks as BoTorch surrogates
+2026-11-21T22:41:06Z,aegis-healer,0.1.0,Stuart Paul,MIT,188690,"Aegis | API Healer: detect API schema drift and repair it with rules first, a LangGraph agent second."
+2026-11-21T22:46:51Z,japc,0.1.0,,,4220,"Automatically convert Python objects, sets, dates, and DataFrames to JSON."
+2026-11-21T22:47:19Z,fastmail-sieve,0.1.0,Hugo Haas,MIT,139257,"Keep Fastmail Sieve rules in git: lint, explain, migrate and sync. Unofficial."
+2026-11-21T22:49:22Z,sage-vertex-algebras,0.1.0a4,"Christopher Raymond, Simon Wood",GPL-2.0-or-later,1103647,Vertex algebras for SageMath
+2026-11-21T22:54:48Z,dms-mcp,0.1.0,obaaio,MIT,16634,MCP server for administering docker-mailserver via its setup CLI
+2026-11-21T22:55:15Z,so4ag,0.1.1,SOQVER <info@soqver.com>,Apache-2.0,23628,"Reader for SO4AG, the open format for business facts with scope, origin and validity: may this fact be used for this task now?"
+2026-11-21T22:56:48Z,zero-bill-router,0.1.0,an1zy,MIT,33866,Open-source CLI and local OpenAI-compatible proxy router
+2026-11-21T22:59:27Z,overfunc,0.0.1,,GPL-3.0-only,50095,function overloads
+2026-11-21T23:01:30Z,diakrin-integrations,0.0.0,,Proprietary,1653,Reserved by Diakrin. Not for use; real packages are private.
+2026-11-21T23:04:11Z,faithful-core,0.1.0,"Faithful Oversight, LLC",Apache-2.0,152870,"Shared foundation library: The shared, tested foundation of the Faithful Oversight tools: safe output, atomic file publishing, console handling, and the WinRM collection plumbing."
+2026-11-21T23:05:59Z,claude-listen,0.1.2,Sunggat Alimbetov,MIT,3038047,"Listen to your latest Claude Code reply, with each word highlighted as it is spoken"
+2026-11-21T23:15:13Z,cloud-drift-report,0.2.0,,Apache-2.0,89581,Read-only drift and not-in-IaC report for Terraform/OpenTofu (any cloud) and AWS CloudFormation
+2026-11-21T23:17:15Z,shiftguard,0.1.0,"Zihao Zheng, Jiayu Long, Baichuan Li, Junyi Yao",MIT,31544,Deterministic simulator and commit-time guards for tool-using LLM agents under infrastructure state races.
+2026-11-21T23:17:31Z,memory-decision-eval,0.1.1,,MIT,15634,Offline scoring of agent memory decisions and observed tool calls.
