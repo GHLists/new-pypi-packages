@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T01:22:07Z,signed-manifest-guard,0.1.7,testing1345 contributors,MIT,51172,Signed-manifest updater for a self-hosted game or app.
+2026-11-21T01:22:31Z,pitsurf,0.0.0a1,Leonid Shpaner,MIT,14208,"Surface construction from scattered survey points: polygonal (nearest-region), B-spline, NURBS, and SVR interpolators for open-pit mine surveying."
+2026-11-21T01:25:43Z,tickwire,0.1.0,Tickwire <hello@tickwire.io>,MIT,83634,"Tickwire SDK: typed REST and streaming clients for the Tickwire MT4/MT5 cloud API (health, audit, idempotent trading, agent keys, pre-trade hooks, webhooks)."
+2026-11-21T01:25:47Z,tickwire-mcp,0.1.0,Tickwire <hello@tickwire.io>,MIT,82297,"Tickwire MCP server: the safe execution layer for AI trading agents on MT4/MT5 (scoped agent keys, kill switches, pre-trade hooks, idempotent orders, truthful outcomes)."
+2026-11-21T01:25:51Z,tickwire-cli,0.1.0,Tickwire <hello@tickwire.io>,MIT,68958,"Tickwire CLI: sign in, create a sandbox, list accounts, trade with a reason and a truthful outcome, and forward webhooks to localhost, for the Tickwire MT4/MT5 cloud API."
+2026-11-21T01:27:10Z,safesink,0.4.3,Viraj Sabhaya,Apache-2.0,152300,MCP tool side-effect conformance verifier (formerly EffectFence)
+2026-11-21T01:27:36Z,cimhub_gdm,2.1.0a1,"Tylor Slay, Kapil Duwadi, Nathan Gray, Andy Fisher",BSD-3-Clause,194825,CIMHub GDM converter: grid-data-models DistributionSystem -> cim18v17 through CIM-Builder
+2026-11-21T01:39:51Z,maia-calibrate,0.1.0,,AGPL-3.0-only,41014,Measured dial and temperature settings that make Maia-3 play at a target rating
+2026-11-21T01:45:07Z,npreq-mcp,0.1.0,Miles Medical Service,MIT,39246,"A local MCP server for the NPReq API: read-only NP/APRN state requirement data with official sources, through your own API key."
+2026-11-21T01:46:16Z,drift-drought,0.1.2,"""Karel A. Sanchez H."" <sanchezkarel@gmail.com>","MIT License Copyright (c) 2026 Karel A. Sanchez H. Permission is hereby granted, free of charge, to…",1248988,DRIFT: space-time drought events selected from the component tree of a deficit field
+2026-11-21T01:47:57Z,nain-mcp-validator,0.1.0,Aitor Nain Mendoza Vallejo <contact@naindev.com>,MIT,24239,Deterministic 3D asset validation and content integrity server for the Model Context Protocol (MCP).
+2026-11-21T01:49:07Z,ggc-kinetics,0.2.0,Bruce McGinley,MIT,116492,"Zero-ODE enzyme progress-curve solvers, detectors and a plate-reader parser (frozen from GGC-inf)"
+2026-11-21T01:58:37Z,trustedrouter,0.10.0,Lore Hex,Apache-2.0,10605,"Alias for trusted-router-py, the official TrustedRouter Python SDK."
+2026-11-21T02:00:59Z,torchgaiaxp,0.3.0,Sébastien Fabbro <sebastien.fabbro@nrc-cnrc.gc.ca>,MIT,1462117,"Gaia XP spectra in PyTorch: continuous, batched, differentiable, on any device (GaiaXPy 2.2+ parity, DR4-ready)."
+2026-11-21T02:10:14Z,software-agent-sdk-vinbox,1.53.1,Vinbox <vinbox@juglow.my.id>,MIT,2228,"Complete HandPrint agent runtime for Vinbox: eyes and hands (browser_use over CDP), SDK, workspace and the REST/WebSocket agent server"
+2026-11-21T02:13:23Z,cmd-kural,0.1.2,,"MIT License Copyright (c) 2024 Mohamed Aashir S Permission is hereby granted, free of charge, to an…",562979,"Local-first voice typing and voice control for Windows. English and Tamil. GPU-accelerated Whisper, no cloud."
+2026-11-21T02:20:21Z,wxcss,0.1.0,"ArachnidAbby, Summersweet-Software",MPL-2.0,13765,A work-in-progress package to help you apply css stylesheets to WxPython ui.
