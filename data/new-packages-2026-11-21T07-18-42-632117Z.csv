@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T06:20:54Z,stampmem,0.4.4,张天睿,"MIT License Copyright (c) 2026 张天睿 Permission is hereby granted, free of charge, to any person obta…",33931,带时间戳的 Agent 长期记忆库：批量推断历史文档时间戳 + 时间序检索
+2026-11-21T06:21:49Z,indagar,0.3.0,Michael Borck,MIT,116197,"Deep research from the command line: plan, search, read, and synthesize with citations."
+2026-11-21T06:22:17Z,seren-ganglion,0.2.0,,AGPL-3.0-or-later,24860,"Seren's reflexes on the LLM module: a StackFlow unit that listens, plays and looks after itself, and tells the core only what it needs."
+2026-11-21T06:25:24Z,impulse-graph,0.10.0,Impulse Graph Team,Apache-2.0,15478162,Impulse Graph Engine Python SDK & C++ Bytecode VM Binding
+2026-11-21T06:30:00Z,montecarlo-monitors-core,999.9.9,,,971,Stub package that mitigates Dependency Confusion attacks
+2026-11-21T06:34:00Z,ssh-connector-mcp,0.1.0,newtouch,,21535,"Minimal SSH connector exposed as an MCP server over stdio, built on paramiko."
+2026-11-21T06:36:49Z,mapelements,0.1.0,zhangbo,MIT,410738,"Journal-quality vector map elements for matplotlib: scale bars, north arrows and graticules that stay editable in PDF/SVG."
+2026-11-21T06:37:08Z,fiberbrowser-graph-native,0.5.0,,MIT,2225421,The native graph helper for FiberBrowser's graph view (fiberbrowser-graph)
+2026-11-21T06:38:25Z,proofgate-ai,0.1.0,,MIT,470586,Local security gate for the AI coding loop
+2026-11-21T06:41:04Z,pyxis-harness-compaction,0.1.0rc1,Onenightcarnival,MIT,11903,PyxisHarness plugin: context compaction — a checkpoint summary replaces older history
+2026-11-21T06:41:06Z,pyxis-harness-config-center,0.1.0rc1,Onenightcarnival,MIT,32321,"PyxisHarness plugin: configuration center — MCP page with connection test, skills management, managed bun runtime for JS MCP servers"
+2026-11-21T06:41:07Z,pyxis-harness-core,0.1.0rc1,Onenightcarnival,MIT,52264,"PyxisHarness kernel: service container, typed events, layered composition, generation lifecycle"
+2026-11-21T06:41:09Z,pyxis-harness-gateway,0.1.0rc1,Onenightcarnival,MIT,62371,"PyxisHarness plugin: local LLM API gateway over the configured model routes (OpenAI Chat Completions, OpenAI Responses, Anthropic Messages) with API keys and usage accounting"
+2026-11-21T06:42:24Z,nowtyping,0.1.0,NowTyping,,6560,Create an offline introduction card to share with a person or their agent.
+2026-11-21T06:42:31Z,meminumb,0.1.0,,"MIT License Copyright (c) 2026 2025sl93074 Permission is hereby granted, free of charge, to any per…",29223,"Lightweight, reliable memory layer for AI agents — atomic writes, explicit outcomes"
+2026-11-21T06:43:29Z,kinetic-agent-sdk,0.2.0,KINETIC,MIT,2549757,A modular agent SDK for the KINETIC coding agent.
+2026-11-21T06:46:13Z,docpolicy,0.1.3,Roger Holenweger,MIT,102273,"Portable documentation-drift enforcement — one policy file per repo, one stdlib-only checker, several enforcement surfaces."
+2026-11-21T06:50:07Z,reference-image-pixel-regions,0.1.0,js-upup,MIT,6615,Convert normalized reference-image selections to enclosing pixel regions.
+2026-11-21T07:00:12Z,letsdecide,0.3.0,,Apache-2.0,3695493,"One request shape for every decision API (Jev, Clef, OpenAI, Gemini). Rust core."
+2026-11-21T07:02:04Z,pikslide-mcp,0.6.0,Miki Yutani,0BSD,11049,An MCP server for pikslide: an LLM host draws diagrams as editable PowerPoint slides
+2026-11-21T07:03:01Z,trovegen,0.3.0,Intellara Technologies Private Limited,Apache-2.0,39488,"Python SDK for troveGEN: ingestion, hybrid search and grounded, cited answers (sync and async, with streaming)."
+2026-11-21T07:09:12Z,skywatch-mp,1.0.0,SkyWatch contributors,Public-domain data; MIT-style source,527905,"Live, free, global flight tracker for the terminal (no API key required)"
+2026-11-21T07:10:23Z,skel-mesh-parser,0.3.0,,Apache-2.0,39722,"Minimal dependency-free parser for the skin/attachment section of Spine skeleton binary files (.skel, 3.8.x and 4.2.x). Python port of the js branch's spine-skeleton-binary-js."
+2026-11-21T07:12:00Z,spine-atlas-toolkit,1.0.0,,Apache-2.0,217282,"Read, extract, edit and repack Spine texture atlases (.atlas + page PNGs)."
+2026-11-21T07:14:42Z,redline-evals,0.2.0,,MIT,322027,Did your fine-tune get less safe? Run the same adversarial tests on two model versions and get a before/after safety report.
+2026-11-21T07:17:14Z,knowledgestep-mcp-labs,0.1.0,Panu Korpela,MIT,26139,The lab server of KnowledgeStep's course on the Model Context Protocol
+2026-11-21T07:17:21Z,mc683xx-bdm,0.1.0,Christopher Hoover <ch@murgatroid.com>,GPL-3.0-only,2521800,"The mc683xx CPU32 BDM pod, for Python scripts"
+2026-11-21T07:17:48Z,epochclock,0.1.0,Letian Cheng <cccltray@gmail.com>,MIT,30178,"Measure fine-tuning budgets on a small pilot and transfer them in epochs, not steps."
