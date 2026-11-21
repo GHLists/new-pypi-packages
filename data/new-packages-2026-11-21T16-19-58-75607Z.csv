@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T15:12:50Z,provium-cloud,0.1.0,,MIT,112284,Cloud execution orchestration for Provium procedures and pipelines
+2026-11-21T15:22:47Z,forecast-hybrid,0.1.1,forecast_hybrid contributors,MIT,79446,Hybrid forecasting for Python.
+2026-11-21T15:26:04Z,sandbox-ai-app,0.1.188,sandbox-ai contributors,MIT,23222940,"sandbox-ai: run Claude Code, Codex, OpenCode and nine more agents in a verified rootless Podman/Bubblewrap sandbox with an egress firewall; command line and web interface, the desktop app with [gui]"
+2026-11-21T15:28:36Z,pysbm,0.0.1,Thorben Funke,CC-BY-SA-4.0,271259,A Python package for stochastic block model inference
+2026-11-21T15:29:01Z,dataxapi-mcp,0.1.0,DataXAPI <support@dataxapi.com>,MIT,13435,"DataXAPI's MCP server on stdio: public data from Douyin, Xiaohongshu (RedNote), WeChat Official Accounts and Channels, Weibo, Bilibili, Zhihu, Kuaishou, TikTok, X, YouTube and more for Claude, Cursor…"
+2026-11-21T15:29:04Z,langchain-dataxapi,0.1.0,DataXAPI <support@dataxapi.com>,MIT,45584,"LangChain tools for DataXAPI: public data from Douyin, Xiaohongshu (RedNote), WeChat, Weibo, Bilibili, Zhihu, Kuaishou, TikTok, YouTube, X and Reddit for agents."
+2026-11-21T15:29:27Z,lexicora,0.1.0,Lexicora Contributors,Apache-2.0,53336,"Lightweight, deterministic OCR post-processing library for Python."
+2026-11-21T15:33:20Z,izko-gold-price-api,0.2.0,Ata Can <atacanymc@gmail.com>,MIT,32391,Flask REST API and Playwright scraper for live gold and currency rates from Izmir Jewelers Chamber (IZKO).
+2026-11-21T15:33:33Z,automl-contracts,0.1.4,Leonid Lapshin <leonid.lapshin.a@gmail.com>,BSD-3-Clause,170062,Public data contracts of the Configurable AutoML Engine.
+2026-11-21T15:33:33Z,culture-agents,0.11.0,AgentCulture,Apache-2.0,266173,"Control plane for AgentCulture agents: direct dispatch, sessions, and lifecycle (dispatch, attach, steer, delegate, cancel, resume, supervise) over harness adapters, independent of chat."
+2026-11-21T15:37:17Z,fastdotcom-ng,1.0.1,Marco Sousa <marcomsousa@gmail.com>,MIT,157571,Clean-room async Python library and CLI to measure Internet speed with Fast.com (Home Assistant drop-in compatible)
+2026-11-21T15:37:44Z,juizi.dashboard,1.0.0b1,Juizi <karel@juizi.com>,GPL-2.0-only,93435,"An activity record and dashboard for Plone site administrators: content and account activity in one list, by date range, with CSV download"
+2026-11-21T15:42:20Z,amagi-model-sunset,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,32094,"Finds hard-coded LLM model ids in your repo and tells you which ones the provider is retiring, and when"
+2026-11-21T15:44:17Z,zeki,0.0.1,,,2602,Fast insurance capital modelling. A placeholder: the package isn't released yet.
+2026-11-21T15:45:57Z,komira,0.1.1512,,Apache-2.0 AND LicenseRef-Modular-Proprietary,2360685,"SQL over local files, with the komira query engine in process"
+2026-11-21T15:46:22Z,dataform-unit-testing,0.0.1,,,2503,Dataform unit testing tools
+2026-11-21T15:47:01Z,looker-content-validator,0.0.1,,,2566,Looker content validation tools
+2026-11-21T15:47:25Z,port-tools,0.0.1,,,2324,Port tools
+2026-11-21T15:47:59Z,right-to-erasure-runner,0.0.1,,,2537,Data request tools
+2026-11-21T15:48:00Z,cfn-kickflip,2.0.0,Ben Lampert,Apache-2.0,39407,Convert AWS Cloudformation Templates between JSON and YAML formats
+2026-11-21T15:49:12Z,dulab,1.0.1,Prateek Yadav,MIT,54416,"Operating Systems and Data Structures lab practicals in C++: save programs to a roll-number folder on your Desktop, and run the Linux command practicals in a new terminal"
+2026-11-21T15:50:07Z,first-domino,0.1.0,Jaini Sai Abhiram,MIT,89611,"Find the step where a failed AI agent run went wrong, and prove it with a replay."
+2026-11-21T15:53:12Z,gisknife-engine,0.1.0,,MIT,78320,"Python heavy compute engine for gisknife (DuckDB Spatial + httpfs, GeoPandas, Pyogrio, PyProj, Shapely, optional Rasterio/PySAL)."
+2026-11-21T15:54:35Z,metricview-lint,0.1.1,Seunghyeon Yang,Apache-2.0,67886,Offline linter and MCP server for Databricks Unity Catalog metric view YAML
+2026-11-21T16:06:57Z,weblitz,2.0.0b10,SSRS2,Proprietary: see LICENSE.md,529657943,"HTML, URLs, RDLC reports and Markdown to PDF, Word, Excel and PowerPoint, as Chrome prints them, with no browser."
+2026-11-21T16:07:55Z,ssrs2,2.0.0b10,SSRS2,Proprietary: see LICENSE.md,2964,"RDLC and RDL reports to PDF, Word, Excel and PowerPoint on Linux, macOS and Windows, with no Report Viewer."
+2026-11-21T16:08:49Z,mc-xbox-dl,0.2.0,Vinicius de Freitas Paulino,MIT,136163,"CLI tool to list, download, and backup Minecraft Bedrock (Xbox) cloud saves as .mcworld packages"
+2026-11-21T16:10:22Z,fmscrape,0.1.0,,,75159,Last.fm public HTML scraper with an API-compatible interface (no API key required).
