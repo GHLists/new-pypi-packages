@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T14:18:55Z,breachlab,0.3.0,BreachLab,MIT,102713,"Python SDK and command-line client for BreachLab: submit flags, check your progress and record agent runs."
+2026-11-21T14:19:36Z,voizce,0.1.0,Rafa,MIT,55257,"Private real-time prompter for video calls: hears the questions, answers from your repo with Claude, invisible to screen sharing."
+2026-11-21T14:20:04Z,agent-notifiers,0.2.0,,,92942,"Agent Notifiers: approved AI agent runs, local companion and device pairing"
+2026-11-21T14:22:00Z,whittle-mcp,0.1.1,Gopi K Aitham (builditwithgk),MIT,582540,"Trim what your agent reads, and measure what it kept: test, log, JSON, diff and OpenAPI trimmers as an MCP server and a CLI filter, with a retention-checked benchmark."
+2026-11-21T14:22:27Z,openbooks-mcp,0.1.0,,LicenseRef-Lumeo,18321,Connect MCP-compatible agents to the Open Books financial document verification engine.
+2026-11-21T14:25:21Z,taralog,0.1.0,Marc Tardif <marc@taram.ca>,,66188,Python logging with sensible defaults
+2026-11-21T14:26:33Z,cleancheck-cbdemo,0.1.1,Your Name <you@example.com>,MIT,16687,Simple data cleaning and data quality checks for pandas DataFrames
+2026-11-21T14:27:06Z,canphone-weather-almanac,0.1.0,,MIT,10510,CanPhone 官方 MCP：免 Key 查天气（Open-Meteo）与黄历（农历、宜忌、财神喜神方位）
+2026-11-21T14:27:07Z,canphone-hot-news,0.1.0,,MIT,7153,CanPhone 官方 MCP：免 Key 查微博/百度/今日头条/知乎热搜热榜
+2026-11-21T14:29:49Z,finclient,0.12.0,BizJaya TechLab S/B,MIT,132596,"Official Python client for the FinCopy, FinGraph, FinNews and FinSocial APIs"
+2026-11-21T14:30:05Z,robosapiens-sapguirecorder,0.1.1,Ken DEFOSSEZ,Apache-2.0,62564,Desktop toolbar that records SAP GUI actions with RoboSAPiens and saves them as Robot Framework tests with steps and comments.
+2026-11-21T14:30:45Z,pyrtfs,0.1.1,AtaCanYmc <atacanymc@gmail.com>,AGPL-3.0-or-later,86813,Multi-Source Movie & TV Script CLI + Python SDK
+2026-11-21T14:32:31Z,ovos-skill-documents,0.1.0a2,Andreas Lorensen,Apache-2.0,70857,"Reads your own documents aloud - text, Markdown, PDF, Word, OpenDocument, EPUB and HTML - from folders on the device or from urls. A provider for the common reading pipeline."
+2026-11-21T14:33:30Z,honed,0.0.1,,Apache-2.0,11741,"Improve your coding agent's CLAUDE.md, AGENTS.md and skills from evidence of how it worked. The upcoming name of thearc."
+2026-11-21T14:35:22Z,stixflayer,0.1.0,,,18800008,"STIX 2.1 library in Rust, exposed to Python"
+2026-11-21T14:35:35Z,gestureplaykit,1.0.0,GesturePlayKit contributors,MIT,115368,"Friendly Python webcam, gesture tracking, mouth tracking, and image overlays for creative apps"
+2026-11-21T14:36:53Z,amnesia-gov,0.2.2,amnesia contributors,MIT,241911,"A governance layer for agent memory: write admission, read authorization, poisoning detection, forgetting, and a full audit trail"
+2026-11-21T14:41:14Z,dj-turso,0.1.0,"Marc Gibbons <marc@lincolnloop.com>, Lincoln Loop <info@lincolnloop.com>",MIT,48766,"Django database backend for Turso, local files and Turso Cloud."
+2026-11-21T14:46:58Z,ovos-skill-opds-books,0.1.0a1,Andreas Lorensen,Apache-2.0,74442,"Reads books aloud from e-book catalogs - any OPDS catalog (1 or 2), or a feed of books such as Standard Ebooks' new releases. A provider for the common reading pipeline."
+2026-11-21T14:49:09Z,sorbflow,0.3.0,"Karel Aldrin Sanchez Hernandez, David Esteban Rodriguez Saiz, Dayana Ximena Cabrera Obando, Gabriel…",Apache-2.0,590358,"Configurable aqueous adsorption modelling: batch and fixed-bed LDF/HSDM simulation, calibration, uncertainty and design"
+2026-11-21T14:51:08Z,kamiwaza-cli,2.0.0,Kamiwaza Engineering,Apache-2.0,1478774,Operator CLI for Kamiwaza deployments (cross-substrate).
+2026-11-21T14:52:21Z,huyab-install-tools,1.0.1,,MIT,29452,"Install the generic dev CLI tools (bws, gh, mise, cf, wrangler, biome, cloudflared, browse, gitleaks, jq, rg, fd) with one command. Changes to git, ssh or shell config are opt-in."
+2026-11-21T14:53:03Z,som-window-mcp,0.3.1,,MIT,156007,"Read-only MCP server that lets AI agents see Windows desktop UI: window list, UI Automation tree, and occlusion-proof screenshots."
+2026-11-21T14:54:22Z,dcat-ap-plus-proteomics,0.1.0,Kundai Farai Sachikonye,MIT,1425652,"Glycoproteomics datasets in DCAT-AP-PLUS and Chem-DCAT-AP, with refined triples."
+2026-11-21T14:57:22Z,spriteviewer,0.3,,GPL-3.0-or-later,147236,PySide6 tile viewer for SVG icon sprites
+2026-11-21T14:57:35Z,django-multi-tenant-engine,0.1.0,Seyed Mohsen Jalalian,MIT,22909,A reusable multi-tenant engine for Django applications
+2026-11-21T14:58:28Z,vercel-drives,0.1.0,,MIT,38950,Python SDK for Vercel Drives
+2026-11-21T15:05:11Z,amagi-trace,0.1.1,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,41206,"Turn a failed Playwright run (trace.zip or test-results/) into markdown your AI agent can read: steps, failing locator, console errors, failed network calls and the page at failure."
+2026-11-21T15:07:09Z,plystore,0.1.0,Jakub Rada <dev.jakubrada@icloud.com>,MIT,131301,"One storage interface for the outputs of ply runs: records and logs in memory, in files, or in typed PostgreSQL tables."
+2026-11-21T15:07:14Z,ashare-mcp-server,0.1.0,,,316625,"MCP server for A-share market data, paper trading, backtesting and fundamentals (akshare + tushare)"
+2026-11-21T15:08:45Z,vexo-python,0.1.0,,MIT,23477,Send server-side events and identifies to Vexo from Python.
+2026-11-21T15:08:56Z,belgian-legal-lexicon-mcp,1.2.0,Philippe Lognoul,CC-BY-4.0,5848,"Read-only MCP server for the Belgian legal lexicon, Dutch-French (procedure)"
+2026-11-21T15:09:22Z,vercel-drives-bundle,0.1.0,,MIT,38837,Python SDK for Vercel Drives
+2026-11-21T15:11:01Z,mechasmith,0.1.0,Shreyas Subramanian <shreyas.subramanian@scale.com>,MIT,203901,"Agent-first robot design: CAD as Python code to a checked, simulatable MuJoCo model"
+2026-11-21T15:11:33Z,py-assettocorsa-rally,0.1.0,Oleh Solomoichenko,MIT,15006,Read Assetto Corsa Rally shared memory on Windows.
+2026-11-21T15:11:40Z,longjob,0.1.0,,,111652,"Launch committed code as detached, resumable jobs on Modal"
+2026-11-21T15:15:00Z,golf-cart-wrap-models,1.0.0,Golf Cart Wraps,MIT,9737,"Public reference data for 34 golf cart models, body configurations, wrap finishes and panels."
+2026-11-21T15:15:51Z,lumencell,0.2.0,,MIT,4894681,Interactive explorer for single-cell pseudotime and lineage trajectories.
+2026-11-21T15:16:52Z,pdfni,0.3.0,,Apache-2.0,92218548,"Extract tables and structured text from text-embedded PDFs, with a built-in pure-Rust PDF reader adapted from Mozilla pdf.js."
+2026-11-21T15:18:42Z,issy,0.0.1,,MIT OR Apache-2.0,5767194,Inference Satisfiability in Seeple yondmist
+2026-11-21T15:18:57Z,belle,0.0.1,,MIT OR Apache-2.0,1552417,Belle's bounded implication kernel for Python
+2026-11-21T15:19:49Z,e3ds-app-uploader,0.1.0,Eagle 3D Streaming,MIT,36009,Upload Unreal Engine app builds (zip) to Eagle 3D Streaming and track upload and stream-test progress.

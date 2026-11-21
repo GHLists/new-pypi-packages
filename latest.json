@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-21T13:21:25.090796Z",
-    "path": "data/new-packages-2026-11-21T14-18-42-168092Z.csv",
-    "to": "2026-11-21T14:18:42.168092Z"
+    "count": 42,
+    "from": "2026-11-21T14:18:42.168092Z",
+    "path": "data/new-packages-2026-11-21T15-21-06-643476Z.csv",
+    "to": "2026-11-21T15:21:06.643476Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-21T10:29:01Z",
-      "package": "clusterizer",
-      "since": "2026-11-21T10:20:34.982218Z",
+      "attempts": 1,
+      "created_at": "2026-11-21T15:12:50Z",
+      "package": "provium-cloud",
+      "since": "2026-11-21T14:18:42.168092Z",
       "version": null
     }
   ],
-  "serial": 43978059,
+  "serial": 43979706,
   "source_truncated": false,
-  "window": "2026-11-21T14:18:42.168092Z"
+  "window": "2026-11-21T15:21:06.643476Z"
 }
