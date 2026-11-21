@@ -8,35 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 04:21 UTC
+## Latest list — 2026-11-21 05:19 UTC
 
-New packages created between 2026-11-21 03:19 UTC and 2026-11-21 04:21 UTC.
+New packages created between 2026-11-21 04:21 UTC and 2026-11-21 05:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-21T04-21-21-241673Z.csv)
+[Full CSV](data/new-packages-2026-11-21T05-19-20-601745Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-21 03:02:52 | [instantscrape](https://pypi.org/project/instantscrape/) | 0.1.8 | armand_nevan21 <armand_nevan2… | 6.9 MB | Instagram profile scraper: scrape followers, following, profile images |
-| 2026-11-21 03:22:20 | [jupyterlab-cell-navigation-rail](https://pypi.org/project/jupyterlab-cell-navigation-rail/) | 0.1.0 | Sai Teja Girada <saitejagirad… | 166.7 kB | An opt-in compact left-margin cell navigation rail with active, running, and er… |
-| 2026-11-21 03:31:10 | [geoseeer](https://pypi.org/project/geoseeer/) | 0.1.0 |  | 24.1 kB | Python client for the GeoSeer geolocation API |
-| 2026-11-21 03:32:36 | [netinfra-free100bonus-batch-1-4el2w](https://pypi.org/project/netinfra-free100bonus-batch-1-4el2w/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.7 kB | Technical network verification and high-availability endpoint registry for Free… |
-| 2026-11-21 03:33:04 | [fitro-mcp](https://pypi.org/project/fitro-mcp/) | 1.0.0 |  | 215.7 kB | A local, read-only MCP bridge to personal fitness and wellness data |
-| 2026-11-21 03:34:41 | [lucem](https://pypi.org/project/lucem/) | 0.0.5 | jesusdpa1 | 131.8 MB | GPU image processing for biology, written once in CubeCL |
-| 2026-11-21 03:35:59 | [speedupy-native](https://pypi.org/project/speedupy-native/) | 0.1.0 |  | 978.1 kB | Prebuilt native hash functions for SpeeduPy: a5hash, MeowHash 0.5 and MuseAir B… |
-| 2026-11-21 03:36:15 | [livekit-akapulu](https://pypi.org/project/livekit-akapulu/) | 0.1.0 | Akapulu Labs | 26.8 kB | LiveKit Agents avatar session that sends assistant audio to an Akapulu Labs ava… |
-| 2026-11-21 03:37:10 | [winnersight-agentbus](https://pypi.org/project/winnersight-agentbus/) | 0.1.4 |  | 51.7 kB | AgentBus client for agents built as services: receive over the stream with a ha… |
-| 2026-11-21 03:42:41 | [cdex](https://pypi.org/project/cdex/) | 0.1.0 |  | 16.3 kB | Export seven CS3501 compiler design lab experiments as C, Lex and Yacc source f… |
-| 2026-11-21 03:42:53 | [tritobol](https://pypi.org/project/tritobol/) | 0.1.0 | tritobol contributors | 3.9 MB | Trim redundant prompt text and keep the newest context within a model-specific… |
-| 2026-11-21 03:48:56 | [seminal](https://pypi.org/project/seminal/) | 0.0.0a2 | Leonid Shpaner <lshpaner@ucla… | 23.1 kB | Published risk equations in andrology and male reproductive health: azoospermia… |
-| 2026-11-21 03:49:52 | [netinfra-free100bonus-batch-1-jcok6](https://pypi.org/project/netinfra-free100bonus-batch-1-jcok6/) | 1.0.0 | Autonomous Infrastructure Lab… | 6.0 kB | Technical network verification and high-availability endpoint registry for Free… |
-| 2026-11-21 03:52:55 | [cninvoice](https://pypi.org/project/cninvoice/) | 0.1.0 |  | 153.5 kB | Local-first structured extraction of Chinese invoices and reimbursement tickets |
-| 2026-11-21 03:54:10 | [contour-alley-designer](https://pypi.org/project/contour-alley-designer/) | 0.6.3 | Viridis LLC (Viridis Conserva… | 692.3 kB | Landscape-general agroforestry design: contour alleys, shelterbelts, silvopastu… |
-| 2026-11-21 03:55:06 | [xlens-ai](https://pypi.org/project/xlens-ai/) | 0.2.0 | Adrian Kay | 188.5 kB | Explain Excel financial models from their real formulas: dependency map, KPIs,… |
-| 2026-11-21 03:57:01 | [laminar-tessera](https://pypi.org/project/laminar-tessera/) | 0.1.0 | Darreck L. Bender II | 889.6 kB | Tessera — one engine for software that remembers, relates, measures, decides, a… |
-| 2026-11-21 03:58:48 | [fontpkg-khand](https://pypi.org/project/fontpkg-khand/) | 1.102 |  | 722.4 kB | Khand font family, packaged for Python by fontpkg |
-| 2026-11-21 03:58:51 | [fontpkg-playfair-display-sc](https://pypi.org/project/fontpkg-playfair-display-sc/) | 1.200 |  | 577.1 kB | Playfair Display SC font family, packaged for Python by fontpkg |
-| 2026-11-21 03:58:53 | [fontpkg-encode-sans-condensed](https://pypi.org/project/fontpkg-encode-sans-condensed/) | 2.0 |  | 661.0 kB | Encode Sans Condensed font family, packaged for Python by fontpkg |
-| 2026-11-21 03:58:56 | [fontpkg-alexandria](https://pypi.org/project/fontpkg-alexandria/) | 5.100 |  | 172.4 kB | Alexandria font family, packaged for Python by fontpkg |
-| 2026-11-21 04:07:04 | [netinfra-free100bonus-batch-1-i4i6r](https://pypi.org/project/netinfra-free100bonus-batch-1-i4i6r/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.7 kB | Technical network verification and high-availability endpoint registry for Free… |
-| 2026-11-21 04:12:14 | [p2md](https://pypi.org/project/p2md/) | 0.2.0 | p2md contributors | 191.3 kB | Local OCR → structured Markdown for scanned books and long screenshots (no LLM,… |
-| 2026-11-21 04:19:34 | [netease-mail-connector](https://pypi.org/project/netease-mail-connector/) | 0.3.0 |  | 141.9 kB | 163 邮箱（及其他 IMAP/SMTP 邮箱）的 CLI 与本地 MCP Server：搜索、读取、发送邮件 |
+| 2026-11-21 04:10:24 | [inventory-lens](https://pypi.org/project/inventory-lens/) | 0.1.0 |  | 440.9 kB | Deterministic inventory segmentation engine for 3PL Analysts, served as an MCP… |
+| 2026-11-21 04:21:29 | [keihanbus-timetable-generator](https://pypi.org/project/keihanbus-timetable-generator/) | 0.0.3 | Tayra Sakurai <tayra_sakurai@… | 951.3 kB | Time table generator module for the Keihan Bus website. |
+| 2026-11-21 04:24:11 | [netinfra-free100bonus-batch-1-dcwyv](https://pypi.org/project/netinfra-free100bonus-batch-1-dcwyv/) | 1.0.0 | Autonomous Infrastructure Lab… | 5.6 kB | Technical network verification and high-availability endpoint registry for Free… |
+| 2026-11-21 04:31:01 | [mtit-gof](https://pypi.org/project/mtit-gof/) | 0.1.0 | Said Al Hadhrami, Amer Al Oma… | 8.3 kB | Maximum Tail Information Test for goodness-of-fit of continuous distributions |
+| 2026-11-21 04:31:02 | [ansicli](https://pypi.org/project/ansicli/) | 0.0.1.2 | Unwholly | 13.2 kB | ANSI CLI stuff |
+| 2026-11-21 04:40:58 | [peerspace-mcp](https://pypi.org/project/peerspace-mcp/) | 1.1.0 | Cotlet.dev <contact@cotlet.de… | 15.3 kB | Connect Peerspace to ChatGPT, Claude and other AI agents through Cotlet.dev. Lo… |
+| 2026-11-21 04:43:52 | [deeptwin](https://pypi.org/project/deeptwin/) | 0.0.1 |  | 44.7 kB | 개인의 판단 기준을 층별 파일로 쌓고, 모델 없이 조립해 스킬의 유동 영역에 넣는 라이브러리 |
+| 2026-11-21 04:44:12 | [dt-counter](https://pypi.org/project/dt-counter/) | 0.1.0 | Muhammad Ashhad Mahdi <xorvix… | 8.4 kB | Count and extract ints, floats, letters and special characters in strings and l… |
+| 2026-11-21 04:45:14 | [GainAccess](https://pypi.org/project/GainAccess/) | 0.1.0 | 0nely | 31.1 kB | A tool for testing access control vulnerabilities and authorization bypasses. |
+| 2026-11-21 04:54:13 | [turbo-eden.xi](https://pypi.org/project/turbo-eden.xi/) | 0.6.0 |  | 185.5 kB | Local coding assistant: ask, explain and fix code from your terminal or VS Code… |
+| 2026-11-21 04:55:31 | [cc-plugin-obs4mips](https://pypi.org/project/cc-plugin-obs4mips/) | 0.2.0 | Morgan Steckler <stecklermr@o… | 902.7 kB | Compliance Checker plugin for WCRP-ESMO obs4MIPs |
+| 2026-11-21 04:56:02 | [levier](https://pypi.org/project/levier/) | 0.1.0 |  | 7.2 kB | The small, friendly Levier Python surface for Apps and Runtimes. |
+| 2026-11-21 04:56:03 | [levier-agent-core](https://pypi.org/project/levier-agent-core/) | 0.1.0 |  | 7.9 kB | Language-neutral agent loop core for Levier daemons |
+| 2026-11-21 04:56:03 | [levier-app](https://pypi.org/project/levier-app/) | 0.1.0 |  | 18.2 kB | Reusable Python adapter for Levier Apps |
+| 2026-11-21 04:56:04 | [levier-echo-runtime](https://pypi.org/project/levier-echo-runtime/) | 0.1.0 |  | 3.0 kB | Minimal built-in echo runtime for Levier |
+| 2026-11-21 05:00:18 | [aadhaarguard](https://pypi.org/project/aadhaarguard/) | 0.2.0 | Pratix005 | 51.9 kB | Find and redact Indian personal data (Aadhaar, PAN, GSTIN, UPI, phone, vehicle… |
+| 2026-11-21 05:01:38 | [cost-per-correct](https://pypi.org/project/cost-per-correct/) | 0.1.0 | aidless | 23.9 kB | Compare model options by cost-per-correct answer, not cost-per-token |
+| 2026-11-21 05:02:26 | [arga-clone](https://pypi.org/project/arga-clone/) | 0.2.0 |  | 678.8 kB | 有状态 SaaS 孪生沙箱：给 AI agent 用的可写、可重试、可回滚的 Stripe/Slack/GitHub… |
+| 2026-11-21 05:02:32 | [auditloop-oss](https://pypi.org/project/auditloop-oss/) | 0.1.0 |  | 82.5 kB | 给中小会计师事务所的审计底稿自动化：银行调节、账龄、收入截止，例外清单 + Excel 底稿 |
+| 2026-11-21 05:02:38 | [agentstore-oss](https://pypi.org/project/agentstore-oss/) | 0.1.0 |  | 83.2 kB | agent 应用商店的最小内核：清单、不可变版本、权限闸、计量与分成 |
+| 2026-11-21 05:06:28 | [ai-terms](https://pypi.org/project/ai-terms/) | 0.1.0 | Damien Ovalles (AIPayGen) | 16.2 kB | Read AI Terms files (/.well-known/ai-terms): what a site allows AI to do with i… |
+| 2026-11-21 05:06:31 | [resource-singleflight](https://pypi.org/project/resource-singleflight/) | 0.1.0 | El Fenomeno | 20.0 kB | A Python library that runs at most one worker per key and hands every caller th… |
+| 2026-11-21 05:07:41 | [stackgrad](https://pypi.org/project/stackgrad/) | 0.2.1 | Samit Mohan | 106.4 kB | A deep learning framework written from scratch, up to a served Qwen3 with retri… |
+| 2026-11-21 05:12:15 | [eshana](https://pypi.org/project/eshana/) | 0.1.0 | Neo-Pragnya | 846.8 kB | ESHANA - Extensible Spatiotemporal Hypersystem for Astroinformatics, Natural Cy… |

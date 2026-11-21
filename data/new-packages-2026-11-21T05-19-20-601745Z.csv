@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T04:10:24Z,inventory-lens,0.1.0,,MIT,440932,"Deterministic inventory segmentation engine for 3PL Analysts, served as an MCP server."
+2026-11-21T04:21:29Z,keihanbus-timetable-generator,0.0.3,Tayra Sakurai <tayra_sakurai@icloud.com>,AGPL-3.0-or-later,951329,Time table generator module for the Keihan Bus website.
+2026-11-21T04:24:11Z,netinfra-free100bonus-batch-1-dcwyv,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,5595,Technical network verification and high-availability endpoint registry for Free100Bonus - Batch 1 Drip Campaign (Đợt 4/5)
+2026-11-21T04:31:01Z,mtit-gof,0.1.0,"Said Al Hadhrami, Amer Al Omari",MIT,8280,Maximum Tail Information Test for goodness-of-fit of continuous distributions
+2026-11-21T04:31:02Z,ansicli,0.0.1.2,Unwholly,MIT,13212,ANSI CLI stuff
+2026-11-21T04:40:58Z,peerspace-mcp,1.1.0,Cotlet.dev <contact@cotlet.dev>,Elastic-2.0,15294,"Connect Peerspace to ChatGPT, Claude and other AI agents through Cotlet.dev. Local MCP browser helpers for your own host account."
+2026-11-21T04:43:52Z,deeptwin,0.0.1,,Apache-2.0,44700,"개인의 판단 기준을 층별 파일로 쌓고, 모델 없이 조립해 스킬의 유동 영역에 넣는 라이브러리"
+2026-11-21T04:44:12Z,dt-counter,0.1.0,Muhammad Ashhad Mahdi <xorvixsensei@gmail.com>,MIT,8414,"Count and extract ints, floats, letters and special characters in strings and lists."
+2026-11-21T04:45:14Z,GainAccess,0.1.0,0nely,MIT,31110,A tool for testing access control vulnerabilities and authorization bypasses.
+2026-11-21T04:54:13Z,turbo-eden.xi,0.6.0,,MIT,185508,"Local coding assistant: ask, explain and fix code from your terminal or VS Code, powered by Ollama."
+2026-11-21T04:55:31Z,cc-plugin-obs4mips,0.2.0,Morgan Steckler <stecklermr@ornl.gov>,Apache-2.0,902715,Compliance Checker plugin for WCRP-ESMO obs4MIPs
+2026-11-21T04:56:02Z,levier,0.1.0,,,7154,"The small, friendly Levier Python surface for Apps and Runtimes."
+2026-11-21T04:56:03Z,levier-agent-core,0.1.0,,,7947,Language-neutral agent loop core for Levier daemons
+2026-11-21T04:56:03Z,levier-app,0.1.0,,,18170,Reusable Python adapter for Levier Apps
+2026-11-21T04:56:04Z,levier-echo-runtime,0.1.0,,,2991,Minimal built-in echo runtime for Levier
+2026-11-21T05:00:18Z,aadhaarguard,0.2.0,Pratix005,Apache-2.0,51883,"Find and redact Indian personal data (Aadhaar, PAN, GSTIN, UPI, phone, vehicle numbers and more; 15 kinds) with checksum validation. No dependencies."
+2026-11-21T05:01:38Z,cost-per-correct,0.1.0,aidless,MIT,23868,"Compare model options by cost-per-correct answer, not cost-per-token"
+2026-11-21T05:02:26Z,arga-clone,0.2.0,,,678826,有状态 SaaS 孪生沙箱：给 AI agent 用的可写、可重试、可回滚的 Stripe/Slack/GitHub…
+2026-11-21T05:02:32Z,auditloop-oss,0.1.0,,MIT,82542,给中小会计师事务所的审计底稿自动化：银行调节、账龄、收入截止，例外清单 + Excel 底稿
+2026-11-21T05:02:38Z,agentstore-oss,0.1.0,,MIT,83187,agent 应用商店的最小内核：清单、不可变版本、权限闸、计量与分成
+2026-11-21T05:06:28Z,ai-terms,0.1.0,Damien Ovalles (AIPayGen),MIT,16164,"Read AI Terms files (/.well-known/ai-terms): what a site allows AI to do with its pages, per use, and at what price. One module, standard library only."
+2026-11-21T05:06:31Z,resource-singleflight,0.1.0,El Fenomeno,MIT,19956,A Python library that runs at most one worker per key and hands every caller the same joinable Future.
+2026-11-21T05:07:41Z,stackgrad,0.2.1,Samit Mohan,MIT,106352,"A deep learning framework written from scratch, up to a served Qwen3 with retrieval and a tool-using agent"
+2026-11-21T05:12:15Z,eshana,0.1.0,Neo-Pragnya,Apache-2.0,846765,"ESHANA - Extensible Spatiotemporal Hypersystem for Astroinformatics, Natural Cycles & Associations. A Rust-first computation layer for celestial positions, traditions and traceable derived knowledge."

@@ -1,20 +1,20 @@
 {
   "list": {
     "count": 24,
-    "from": "2026-11-21T03:19:47.418048Z",
-    "path": "data/new-packages-2026-11-21T04-21-21-241673Z.csv",
-    "to": "2026-11-21T04:21:21.241673Z"
+    "from": "2026-11-21T04:21:21.241673Z",
+    "path": "data/new-packages-2026-11-21T05-19-20-601745Z.csv",
+    "to": "2026-11-21T05:19:20.601745Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-21T04:10:24Z",
-      "package": "inventory-lens",
-      "since": "2026-11-21T03:19:47.418048Z",
+      "created_at": "2026-11-21T04:26:24Z",
+      "package": "labslo",
+      "since": "2026-11-21T04:21:21.241673Z",
       "version": null
     }
   ],
-  "serial": 43964264,
+  "serial": 43965517,
   "source_truncated": false,
-  "window": "2026-11-21T04:21:21.241673Z"
+  "window": "2026-11-21T05:19:20.601745Z"
 }
