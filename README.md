@@ -8,36 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 00:21 UTC
+## Latest list — 2026-11-21 01:18 UTC
 
-New packages created between 2026-11-20 23:19 UTC and 2026-11-21 00:21 UTC.
+New packages created between 2026-11-21 00:21 UTC and 2026-11-21 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-21T00-21-13-45685Z.csv)
+[Full CSV](data/new-packages-2026-11-21T01-18-47-406781Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-20 23:22:50 | [macos-calendar-events](https://pypi.org/project/macos-calendar-events/) | 0.1.0 | Varun Singh | 118.4 kB | Read-only macOS Calendar (EventKit) window queries with a versioned JSON CLI. R… |
-| 2026-11-20 23:23:30 | [agentlink-freecad](https://pypi.org/project/agentlink-freecad/) | 1.0.0 | Agent Link contributors | 3.5 MB | Agent Link for FreeCAD: drive FreeCAD from an agent over the Model Context Prot… |
-| 2026-11-20 23:35:05 | [chickinfry](https://pypi.org/project/chickinfry/) | 0.5.0.dev1 |  | 165.1 kB | Sync and async transport and sessions for Chickinfry clients |
-| 2026-11-20 23:36:08 | [coneforest](https://pypi.org/project/coneforest/) | 0.1.0 | Dmitry Ivanov | 54.9 kB | ConeForest: an isolation-style anomaly detector that is one table lookup per tr… |
-| 2026-11-20 23:37:08 | [hsanagrams](https://pypi.org/project/hsanagrams/) | 0.5.0 | Hernan Saltiveri | 3.0 kB | Add your description here |
-| 2026-11-20 23:38:29 | [discord-extension-discovery](https://pypi.org/project/discord-extension-discovery/) | 1.0.3 |  | 13.7 kB |  |
-| 2026-11-20 23:39:06 | [cif-explorer](https://pypi.org/project/cif-explorer/) | 0.1.0 | Arthur Zalevsky <aozalevsky@g… | 117.5 kB | Browser-based explorer for IHMCIF files: trace rows up and down the category hi… |
-| 2026-11-20 23:42:08 | [clientx](https://pypi.org/project/clientx/) | 0.1.0 | slatecipher | 121.6 kB | A typed, declarative HTTP API client framework for Python |
-| 2026-11-20 23:44:49 | [grind-t-tech-debt](https://pypi.org/project/grind-t-tech-debt/) | 0.1.1 | grind-t | 27.6 kB | Tool for managing technical debt. |
-| 2026-11-20 23:48:34 | [sosya](https://pypi.org/project/sosya/) | 0.0.1 |  | 33.3 kB | Describe a hacking lab in plain English. Get it running, isolated and verified. |
-| 2026-11-20 23:49:38 | [lumoauth-hermes](https://pypi.org/project/lumoauth-hermes/) | 0.1.0 | LumoAuth LLC | 233.7 kB | LumoAuth Guard for Hermes Agent: every tool call is allowed, sent to a person f… |
-| 2026-11-20 23:51:41 | [oxoffice](https://pypi.org/project/oxoffice/) | 0.1.0 | oxoffice contributors | 142.8 MB | Read, write, edit, compare and render Word and PowerPoint files, natively |
-| 2026-11-20 23:52:05 | [brumare](https://pypi.org/project/brumare/) | 1.3.2 | Bruno Henrique Dourado Macedo… | 42.7 MB | BrUMaRe (Brillouin-zone Utilities for Materials Research): bandas, DOS, PDOS, d… |
-| 2026-11-20 23:58:03 | [solar-and-heliospheric-observatory](https://pypi.org/project/solar-and-heliospheric-observatory/) | 0.1.0 | "Roy T. Smart" <roytsmart@gma… | 63.4 kB | A Python library to download and analyze observations from the Solar and Helios… |
-| 2026-11-20 23:58:42 | [ml-model-architect](https://pypi.org/project/ml-model-architect/) | 1.0.0rc1 | Ahmed Zain | 110.3 kB | A strict, reference-driven framework that turns AI agents into disciplined, exp… |
-| 2026-11-21 00:08:54 | [bot-use](https://pypi.org/project/bot-use/) | 0.0.1 | Dheeraj Pai | 4.7 kB | bot-use: let AI agents use robots. Early preview; APIs coming soon. |
-| 2026-11-21 00:11:36 | [dearpyguiplus](https://pypi.org/project/dearpyguiplus/) | 2.3.0.1 | Zhi Liu | 12.8 MB | Fork of DearPyGui with built-in ImPlot3D, NOT official DearPyGui |
-| 2026-11-21 00:12:15 | [pymc-ray](https://pypi.org/project/pymc-ray/) | 0.1.0 | Jonathan Dekermanjian <jonath… | 702.6 kB | Scale PyMC models to large datasets with Ray. |
-| 2026-11-21 00:15:04 | [opendata-bcb](https://pypi.org/project/opendata-bcb/) | 0.1.0 | guilhermegor | 168.2 kB | Pacote Python para coletar dados do Banco Central do Brasil (SGS, Olinda/PTAX,… |
-| 2026-11-21 00:17:15 | [meds-algorithm-everyquery](https://pypi.org/project/meds-algorithm-everyquery/) | 0.1.0 | Florent Pollet <ffp2106@cumc.… | 168.9 kB | EveryQuery (conditional multitask) used zero-shot through an ACES-to-EveryQuery… |
-| 2026-11-21 00:18:19 | [memmachine](https://pypi.org/project/memmachine/) | 0.4.0 |  | 3.0 kB | MemMachine: Open-source long-term memory layer for AI agents and LLMs. Provides… |
-| 2026-11-21 00:18:46 | [emobtest](https://pypi.org/project/emobtest/) | 0.0.1 |  | 2.6 kB | Test & conformance toolkit for EV charging platforms (OCMF, Eichrecht, AFIR pri… |
-| 2026-11-21 00:19:40 | [vibe-code-security-checklist](https://pypi.org/project/vibe-code-security-checklist/) | 0.1.0 | "Dmitry (Dee) Kargaev" <hi@de… | 21.3 kB | Zero-dependency pre-launch security checker for Cursor, Lovable, Bolt, Next.js,… |
-| 2026-11-21 00:19:42 | [kdp-preflight-cli](https://pypi.org/project/kdp-preflight-cli/) | 0.1.0 | "Dmitry (Dee) Kargaev" <hi@de… | 17.8 kB | Zero-dependency Amazon KDP spine, cover-wrap, margin, and preflight CLI for pap… |
-| 2026-11-21 00:19:43 | [dex-connector-mysql](https://pypi.org/project/dex-connector-mysql/) | 0.1.0 |  | 119.4 kB | MySQL connector for Dex Flows |
+| 2026-11-21 00:21:20 | [dex-connector-netlify](https://pypi.org/project/dex-connector-netlify/) | 0.1.0 |  | 86.5 kB | Netlify connector for Dex Flows |
+| 2026-11-21 00:22:44 | [ovos-skill-jamband](https://pypi.org/project/ovos-skill-jamband/) | 0.1.0a2 | Andreas Lorensen | 249.8 kB | OVOS jam band: ask for drums, then bass, then the whole band - a band you lead… |
+| 2026-11-21 00:22:49 | [dex-connector-notion](https://pypi.org/project/dex-connector-notion/) | 0.2.1 |  | 200.3 kB | Dex-native Notion page and database connector |
+| 2026-11-21 00:24:05 | [hepyy-utils](https://pypi.org/project/hepyy-utils/) | 0.3.0 |  | 246.3 kB | Workflow utilities for hepyy-installed HEP event generators and tools. |
+| 2026-11-21 00:24:24 | [pyntral](https://pypi.org/project/pyntral/) | 1.0.0b1 | pyntral contributors | 475.4 kB | Extensible React admin console for FastAPI and SQLAlchemy |
+| 2026-11-21 00:27:57 | [pyricles](https://pypi.org/project/pyricles/) | 0.0.1 |  | 11.3 kB | Conversation orchestration framework for LLM agents (under development). |
+| 2026-11-21 00:28:51 | [nuyss-client](https://pypi.org/project/nuyss-client/) | 0.1.0 |  | 30.8 kB | Client for the Nuyss API: start runs, send events and wait for results. |
+| 2026-11-21 00:29:06 | [enginespec](https://pypi.org/project/enginespec/) | 0.2.0 |  | 16.9 kB | Python SDK for the EngineSpec Core |
+| 2026-11-21 00:30:00 | [lora-privacy](https://pypi.org/project/lora-privacy/) | 999.9.9 |  | 961 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-21 00:30:07 | [visualizer-cli](https://pypi.org/project/visualizer-cli/) | 0.10.0 | AgentCulture | 260.6 kB | Web workspace for agent-built docs and content: agents author structured docume… |
+| 2026-11-21 00:30:27 | [paytrade-sdk](https://pypi.org/project/paytrade-sdk/) | 0.2.0 |  | 3.2 kB | Async client for the PayTrade payment API |
+| 2026-11-21 00:32:11 | [scots-codes](https://pypi.org/project/scots-codes/) | 0.1.3 |  | 71.3 kB | Scottish HTTP Codes |
+| 2026-11-21 00:33:54 | [tuning-mlflow](https://pypi.org/project/tuning-mlflow/) | 3.18.0.post1 |  | 12.4 MB | MLflow fork with an optimizer-selected model dashboard for tuning-client |
+| 2026-11-21 00:36:35 | [optophi](https://pypi.org/project/optophi/) | 0.0.1 | Optophi <contact@optophi.com> | 280.8 kB | Local Optophi project guidance and native-artifact references |
+| 2026-11-21 00:42:17 | [lanpair](https://pypi.org/project/lanpair/) | 0.1.0 | TonyD365 | 50.5 kB | Secure pairing and signed messaging between devices on the same LAN |
+| 2026-11-21 00:54:06 | [codegraphx](https://pypi.org/project/codegraphx/) | 0.1.0 | CodeGraph Contributors | 202.3 kB | Turn code structure, history, and design decisions into one queryable graph |
+| 2026-11-21 00:56:52 | [hydroforge-tools](https://pypi.org/project/hydroforge-tools/) | 1.0.1 | "Tomasz Janus" | 401.3 kB | Toolkit for applying uncertainties to water network models |
+| 2026-11-21 00:57:47 | [wyrmctl-cloudflare](https://pypi.org/project/wyrmctl-cloudflare/) | 0.4.9 | Jacob Stewart | 17.5 kB | Cloudflare DNS provider extension for wyrmctl. |
+| 2026-11-21 00:58:19 | [git-finalizer](https://pypi.org/project/git-finalizer/) | 2.0.0 |  | 628.5 kB | Fail-closed Git delivery gatekeeper and toolchain compatibility manager for aut… |
+| 2026-11-21 00:59:34 | [wyrmctl-digitalocean](https://pypi.org/project/wyrmctl-digitalocean/) | 0.4.9 | Jacob Stewart | 16.4 kB | DigitalOcean DNS provider extension for wyrmctl. |
+| 2026-11-21 01:01:33 | [wyrmctl-godaddy](https://pypi.org/project/wyrmctl-godaddy/) | 0.4.9 | Jacob Stewart | 16.6 kB | GoDaddy DNS provider extension for wyrmctl. |
+| 2026-11-21 01:03:38 | [wyrmctl-namecheap](https://pypi.org/project/wyrmctl-namecheap/) | 0.4.9 | Jacob Stewart | 24.7 kB | Namecheap DNS provider extension for wyrmctl. |
+| 2026-11-21 01:05:43 | [coding-agent-toolchain](https://pypi.org/project/coding-agent-toolchain/) | 1.0.0 |  | 138.5 kB | Standalone toolchain compatibility, skill synchronization, and safe task temp-d… |
+| 2026-11-21 01:08:14 | [msmn](https://pypi.org/project/msmn/) | 0.0.1 |  | 2.6 kB | Minimal SSA Machine Notation: compiler infrastructure (work in progress, name r… |
+| 2026-11-21 01:08:15 | [agentmemory-native](https://pypi.org/project/agentmemory-native/) | 0.1.0 |  | 9.8 MB | AgentMemory for Python through the AgentMemory native library (no .NET installa… |
+| 2026-11-21 01:09:54 | [represolve](https://pypi.org/project/represolve/) | 1.0.0 | represolve authors <TBD@insti… | 32.2 kB | Replicate-resolved masked-gene completion benchmarking with regime routing |
+| 2026-11-21 01:11:49 | [venice-bridge](https://pypi.org/project/venice-bridge/) | 0.2.1 | nsozturk | 174.7 kB | Local OpenAI- and Anthropic-compatible bridge that lets OpenCode, Claude Code,… |
+| 2026-11-21 01:16:00 | [ariadne-halo2](https://pypi.org/project/ariadne-halo2/) | 0.1.8 |  | 2.6 MB | Deterministic Vesta EqAffine IPA Halo2 prover & algebraic verifier for Ariadne… |
+| 2026-11-21 01:16:21 | [hamsci-dsp](https://pypi.org/project/hamsci-dsp/) | 0.10.1 | Michael Hauan <mjh@hauan.org> | 674.0 kB | Shared DSP / timing utilities for the HamSCI sigmond suite |
+| 2026-11-21 01:16:30 | [callhash](https://pypi.org/project/callhash/) | 1.1.0 | Rob Robinett AI6VN | 38.8 kB | WSJT-X callsign-hash mechanism (Bob Jenkins lookup3, seed 146) plus a per-stati… |
+| 2026-11-21 01:18:11 | [pycade-game](https://pypi.org/project/pycade-game/) | 1.0.0 | Cole | 16.3 kB | Terminal arcade: Snake, Pong, Tic-Tac-Toe and Hangman |

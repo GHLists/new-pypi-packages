@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T00:21:20Z,dex-connector-netlify,0.1.0,,MIT,86506,Netlify connector for Dex Flows
+2026-11-21T00:22:44Z,ovos-skill-jamband,0.1.0a2,Andreas Lorensen,Apache-2.0,249751,"OVOS jam band: ask for drums, then bass, then the whole band - a band you lead with your voice, in any style and key, played by the device's MIDI instrument"
+2026-11-21T00:22:49Z,dex-connector-notion,0.2.1,,MIT,200303,Dex-native Notion page and database connector
+2026-11-21T00:24:05Z,hepyy-utils,0.3.0,,,246321,Workflow utilities for hepyy-installed HEP event generators and tools.
+2026-11-21T00:24:24Z,pyntral,1.0.0b1,pyntral contributors,MIT,475430,Extensible React admin console for FastAPI and SQLAlchemy
+2026-11-21T00:27:57Z,pyricles,0.0.1,,Apache-2.0,11260,Conversation orchestration framework for LLM agents (under development).
+2026-11-21T00:28:51Z,nuyss-client,0.1.0,,Apache-2.0,30782,"Client for the Nuyss API: start runs, send events and wait for results."
+2026-11-21T00:29:06Z,enginespec,0.2.0,,Apache-2.0,16930,Python SDK for the EngineSpec Core
+2026-11-21T00:30:00Z,lora-privacy,999.9.9,,,961,Stub package that mitigates Dependency Confusion attacks
+2026-11-21T00:30:07Z,visualizer-cli,0.10.0,AgentCulture,Apache-2.0,260626,"Web workspace for agent-built docs and content: agents author structured documents with charts and diagrams through a CLI, an HTTP API front, and an MCP server, and humans view them in the browser on…"
+2026-11-21T00:30:27Z,paytrade-sdk,0.2.0,,,3217,Async client for the PayTrade payment API
+2026-11-21T00:32:11Z,scots-codes,0.1.3,,"MIT License Copyright (c) 2026 scots-codes contributors Permission is hereby granted, free of charg…",71264,Scottish HTTP Codes
+2026-11-21T00:33:54Z,tuning-mlflow,3.18.0.post1,,"Copyright 2018 Databricks, Inc. All rights reserved. Apache License Version 2.0, January 2004 http:…",12432362,MLflow fork with an optimizer-selected model dashboard for tuning-client
+2026-11-21T00:36:35Z,optophi,0.0.1,Optophi <contact@optophi.com>,Apache-2.0,280789,Local Optophi project guidance and native-artifact references
+2026-11-21T00:42:17Z,lanpair,0.1.0,TonyD365,MIT,50490,Secure pairing and signed messaging between devices on the same LAN
+2026-11-21T00:54:06Z,codegraphx,0.1.0,CodeGraph Contributors,MIT,202342,"Turn code structure, history, and design decisions into one queryable graph"
+2026-11-21T00:56:52Z,hydroforge-tools,1.0.1,"""Tomasz Janus""",GPL-3.0,401326,Toolkit for applying uncertainties to water network models
+2026-11-21T00:57:47Z,wyrmctl-cloudflare,0.4.9,Jacob Stewart,Apache-2.0,17478,Cloudflare DNS provider extension for wyrmctl.
+2026-11-21T00:58:19Z,git-finalizer,2.0.0,,Apache-2.0,628503,Fail-closed Git delivery gatekeeper and toolchain compatibility manager for autonomous coding agents
+2026-11-21T00:59:34Z,wyrmctl-digitalocean,0.4.9,Jacob Stewart,Apache-2.0,16383,DigitalOcean DNS provider extension for wyrmctl.
+2026-11-21T01:01:33Z,wyrmctl-godaddy,0.4.9,Jacob Stewart,Apache-2.0,16569,GoDaddy DNS provider extension for wyrmctl.
+2026-11-21T01:03:38Z,wyrmctl-namecheap,0.4.9,Jacob Stewart,Apache-2.0,24735,Namecheap DNS provider extension for wyrmctl.
+2026-11-21T01:05:43Z,coding-agent-toolchain,1.0.0,,Apache-2.0,138479,"Standalone toolchain compatibility, skill synchronization, and safe task temp-directory CLIs for coding agents"
+2026-11-21T01:08:14Z,msmn,0.0.1,,MIT,2570,"Minimal SSA Machine Notation: compiler infrastructure (work in progress, name reserved)."
+2026-11-21T01:08:15Z,agentmemory-native,0.1.0,,MIT AND Apache-2.0 (see licenses/THIRD-PARTY-NOTICES.txt),9818438,AgentMemory for Python through the AgentMemory native library (no .NET installation needed)
+2026-11-21T01:09:54Z,represolve,1.0.0,represolve authors <TBD@institution.edu>,MIT,32210,Replicate-resolved masked-gene completion benchmarking with regime routing
+2026-11-21T01:11:49Z,venice-bridge,0.2.1,nsozturk,MIT,174724,"Local OpenAI- and Anthropic-compatible bridge that lets OpenCode, Claude Code, Codex CLI and other coding agents use a venice.ai web subscription, with working tool calls."
+2026-11-21T01:16:00Z,ariadne-halo2,0.1.8,,Apache-2.0,2612033,Deterministic Vesta EqAffine IPA Halo2 prover & algebraic verifier for Ariadne Nexus (ANX-RFC-001)
+2026-11-21T01:16:21Z,hamsci-dsp,0.10.1,Michael Hauan <mjh@hauan.org>,MIT,674031,Shared DSP / timing utilities for the HamSCI sigmond suite
+2026-11-21T01:16:30Z,callhash,1.1.0,Rob Robinett AI6VN,MIT,38796,"WSJT-X callsign-hash mechanism (Bob Jenkins lookup3, seed 146) plus a per-station accumulator that resolves hashes from <call> announcement markers in decoded jt9 / wsprd output."
+2026-11-21T01:18:11Z,pycade-game,1.0.0,Cole,MIT,16303,"Terminal arcade: Snake, Pong, Tic-Tac-Toe and Hangman"
