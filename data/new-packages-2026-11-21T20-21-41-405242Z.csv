@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T18:32:22Z,devagentnet,0.1.0,devagentnet Contributors,MIT,155427,Reusable AI Agents and Workflow Framework for Python
+2026-11-21T19:21:00Z,audio-to-video-with-image,1.0.0,Ajarn Spencer Littlewood,MIT,528022,Universal Audio to Video with Image Converter — Broadcast-grade MP4 podcast & video generator with native WebP and multi-audio support.
+2026-11-21T19:21:15Z,puxti-bi-core,0.21.0,,Apache-2.0,30212,"BI assets as code: the spec schema for datasets, charts and dashboards used by Puxti."
+2026-11-21T19:22:17Z,Olyder,0.5.0b1,Olyder Contributors,Apache-2.0,196560,"Verification-driven execution, independent checks, and evidence for AI coding agents"
+2026-11-21T19:23:42Z,Pyzzel,0.1.1,,,113110,
+2026-11-21T19:35:29Z,memvo,0.1.0a1,Memvo,MIT,56773,Local-first financial memory for agents. Every answer comes with the line it came from.
+2026-11-21T19:35:41Z,cit-course-tools-fa26-cit495-extras-lab02,1.0.0a1,,,131115,"Prerelease lab extras (reference, scenario scripts, search captures) for CIT495 Lab 02, read by the CIT Course Tools download check."
+2026-11-21T19:36:18Z,cit-course-tools-fa26-cit495-extras-course,1.0.0a1,,,44923,"Prerelease course shared files for CIT495, read by the CIT Course Tools download check."
+2026-11-21T19:36:46Z,cit-course-tools-fa26-cit495-extras-lab01,1.0.0a1,,,127818,"Prerelease lab extras (reference, scenario scripts, search captures) for CIT495 Lab 01, read by the CIT Course Tools download check."
+2026-11-21T19:36:50Z,cit-course-tools-fa26-cit495-extras-lab03,1.0.0a1,,,37219,"Prerelease lab extras (reference, scenario scripts, search captures) for CIT495 Lab 03, read by the CIT Course Tools download check."
+2026-11-21T19:39:03Z,pixelplotlib,0.1.0,Andreas Poehlmann <andreas@poehlmann.io>,MIT,456477,Scientific plotting with 8-bit and 16-bit pixel-art graphics
+2026-11-21T19:40:02Z,lucem-hist,0.0.6,jesusdpa1,MIT OR Apache-2.0,134718140,The compiled part of lucem.hist (histology): install with pip install lucem[hist]
+2026-11-21T19:43:50Z,rafale-ai,0.1.3,Patrick Fleith,Apache-2.0,11808,AI for defense.
+2026-11-21T19:44:19Z,llmx-worker,0.1.0,,,7543300,Share your Claude Code or Codex capacity on llmx.tw and get paid per token served.
+2026-11-21T19:44:40Z,loquent,0.1.0,,Apache-2.0,1440215,"Chat UI for any LLM or AI agent in a few lines of Python. AG-UI native, Chainlit alternative."
+2026-11-21T19:45:43Z,lupaxa-pomodoro,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",28939,Terminal Pomodoro timer with configurable work and break sessions.
+2026-11-21T19:47:15Z,flowfields,0.2.2,Tiago Tavares,AGPL-3.0-or-later,73184,Tools for artwork by composing flow fields
+2026-11-21T19:48:45Z,mattis-bardeen,1.0.0,John Garrett <garrettj403@gmail.com>,GPL-3.0-or-later,45692,Calculate the electrical properties of superconductors using Mattis-Bardeen theory.
+2026-11-21T19:51:47Z,rafale,0.2.0,Patrick Fleith,Apache-2.0,11746,Agent harness for defense operations.
+2026-11-21T19:54:03Z,micromagpy,1.0.0,LemurPwned <lemurpwned@gmail.com>,LGPL-3.0-or-later,105115,"A small finite-difference micromagnetic simulator built on NumPy, numba and SciPy."
+2026-11-21T19:54:48Z,mova-tts,0.1.1,Mykhailo Mulesa,Apache-2.0,289105,"Ukrainian text-to-speech with voice cloning: a NeuTTS-Air fine-tune, streaming on CPU, Apple and NVIDIA GPUs"
+2026-11-21T19:58:52Z,verity-evidence,0.2.0,VERITY,MIT,214074,The reality layer for AI coding agents. No claim without evidence. No action without reality.
+2026-11-21T20:09:27Z,devagentnet,0.1.0,devagentnet Contributors,MIT,155427,Reusable AI Agents and Workflow Framework for Python
+2026-11-21T20:20:00Z,bakbak-python,1.0.0rc2,Raya Voice AI <support@getraya.app>,Apache-2.0,391207,Official Python SDK for the Bakbak text-to-speech API by Raya
+2026-11-21T20:20:18Z,policywinds-labeler,0.1.0,Kernelcraft LLC,Apache-2.0,61633,"Labels US bills by policy topic and by which way they move each topic's fixed measure, with checked quotes"
+2026-11-21T20:21:40Z,pypodcastde,0.1.1,,,33742,Update a local library of ARD podcasts and video soundtracks

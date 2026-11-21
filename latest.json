@@ -1,48 +1,41 @@
 {
   "list": {
-    "count": 60,
-    "from": "2026-11-21T18:18:49.984641Z",
-    "path": "data/new-packages-2026-11-21T19-18-49-195215Z.csv",
-    "to": "2026-11-21T19:18:49.195215Z"
+    "count": 26,
+    "from": "2026-11-21T19:18:49.195215Z",
+    "path": "data/new-packages-2026-11-21T20-21-41-405242Z.csv",
+    "to": "2026-11-21T20:21:41.405242Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-21T18:32:22Z",
-      "package": "DevAgentNet",
-      "since": "2026-11-21T18:18:49.984641Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-21T16:57:15Z",
       "package": "rboto-cloudwatch",
       "since": "2026-11-21T16:19:58.75607Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-21T16:57:34Z",
       "package": "rboto-firehose",
       "since": "2026-11-21T16:19:58.75607Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-21T16:57:45Z",
       "package": "rboto-glue",
       "since": "2026-11-21T16:19:58.75607Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-21T16:57:25Z",
       "package": "rboto-kinesis",
       "since": "2026-11-21T16:19:58.75607Z",
       "version": null
     }
   ],
-  "serial": 43985986,
+  "serial": 43987702,
   "source_truncated": false,
-  "window": "2026-11-21T19:18:49.195215Z"
+  "window": "2026-11-21T20:21:41.405242Z"
 }
