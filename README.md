@@ -8,39 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 23:19 UTC
+## Latest list — 2026-11-21 00:21 UTC
 
-New packages created between 2026-11-20 22:21 UTC and 2026-11-20 23:19 UTC.
+New packages created between 2026-11-20 23:19 UTC and 2026-11-21 00:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-20T23-19-20-704057Z.csv)
+[Full CSV](data/new-packages-2026-11-21T00-21-13-45685Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-20 22:28:43 | [dj-zarr-codecs](https://pypi.org/project/dj-zarr-codecs/) | 0.1.0 | Davis Bennett <davis.v.bennet… | 150.7 kB | DataJoint codecs for Zarr array storage |
-| 2026-11-20 22:31:03 | [tessera-engine](https://pypi.org/project/tessera-engine/) | 0.0.0 |  | 3.1 kB | Reserved for the Tessera inference engine library. |
-| 2026-11-20 22:32:06 | [recr](https://pypi.org/project/recr/) | 0.1.0 |  | 1.6 MB | Recover unused space in compiled binaries without changing their layout. |
-| 2026-11-20 22:36:55 | [blokx](https://pypi.org/project/blokx/) | 0.0.1 |  | 1.5 kB | Placeholder for the blokx platform. Not ready for use yet. |
-| 2026-11-20 22:36:57 | [mny](https://pypi.org/project/mny/) | 0.0.1 |  | 1.5 kB | Placeholder for MNY. Not ready for use yet. |
-| 2026-11-20 22:39:09 | [verpylt](https://pypi.org/project/verpylt/) | 0.0.1 |  | 1.5 kB | Placeholder for verpylt. Not ready for use yet. |
-| 2026-11-20 22:39:14 | [ovos-phal-plugin-midi](https://pypi.org/project/ovos-phal-plugin-midi/) | 0.1.0a2 | Andreas Lorensen | 69.7 kB | OpenVoiceOS PHAL plugin: a MIDI instrument on the bus - a General MIDI synth sk… |
-| 2026-11-20 22:39:14 | [ovos-skill-karaoke](https://pypi.org/project/ovos-skill-karaoke/) | 0.1.0a2 | Andreas Lorensen | 266.2 kB | OVOS sings: songs in the device's own voice, autotuned onto the melody with a b… |
-| 2026-11-20 22:41:07 | [airflow-provider-dreamhub](https://pypi.org/project/airflow-provider-dreamhub/) | 0.1.0 | Dreamhub | 84.7 kB | Apache Airflow provider for Dreamhub: extract records to files or object storag… |
-| 2026-11-20 22:44:31 | [mdapy-cuda12](https://pypi.org/project/mdapy-cuda12/) | 2.2.0rc1 | Yongchao Wu <934313174@qq.com> | 52.9 MB | The GPU part of MDAPY, with CUDA 12 |
-| 2026-11-20 22:46:00 | [onyx-site](https://pypi.org/project/onyx-site/) | 0.1.0 | Max Palay | 153.5 kB | Onyx site-runner: runs onyx-app's jobs on a customer's units (builders, sims, r… |
-| 2026-11-20 22:50:27 | [litestar-oauth-server](https://pypi.org/project/litestar-oauth-server/) | 0.0.1 | Jorge Cardona <jorgeecardona@… | 33.5 kB | An OAuth 2.1 authorization server plugin for Litestar: PKCE, client registratio… |
-| 2026-11-20 22:53:42 | [honeybee-iesve](https://pypi.org/project/honeybee-iesve/) | 0.1.0 | Ladybug Tools | 313.1 kB | Honeybee extension for import and export GEM files to/from IES-VE |
-| 2026-11-20 22:54:53 | [lfx-treza](https://pypi.org/project/lfx-treza/) | 0.1.0 | "Treza Labs, Inc." <hello@tre… | 27.9 kB | Treza components for Langflow: AI video and image generation and saved Treza pi… |
-| 2026-11-20 22:58:30 | [mrk](https://pypi.org/project/mrk/) | 0.0.1 | Stephen Ajagbe | 9.6 kB | Ab Initio Molecular Response Kernels (MRK): compact quantum-chemical response o… |
-| 2026-11-20 22:58:46 | [nian-map](https://pypi.org/project/nian-map/) | 0.1.0 | Armel | 2.5 MB | Live world map of social-media activity: globe → country → city. |
-| 2026-11-20 22:58:57 | [solentlabs-internet-health-monitor-core](https://pypi.org/project/solentlabs-internet-health-monitor-core/) | 0.1.0b1 | Solent Labs™ | 115.5 kB | Internet Health Monitor Core: platform-agnostic network path measurement |
-| 2026-11-20 23:03:39 | [cve-compass](https://pypi.org/project/cve-compass/) | 1.0.0 |  | 49.8 kB | Check the dependency files you choose against recent public security advisories… |
-| 2026-11-20 23:05:43 | [storetechscan](https://pypi.org/project/storetechscan/) | 1.0.0 | StoreTechScan <storetechscan-… | 12.7 kB | Zero-dependency Python SDK for StoreTechScan — pay-as-you-go website tech stack… |
-| 2026-11-20 23:07:37 | [ludex-gui](https://pypi.org/project/ludex-gui/) | 0.62.0 |  | 98.5 kB | Desktop game launcher (Qt Quick) frontend of ludex |
-| 2026-11-20 23:07:57 | [multi-ets](https://pypi.org/project/multi-ets/) | 0.1.0 | Robert Kübler <xgarve@gmail.c… | 8.9 MB | Exponential smoothing (SES, Holt, Holt-Winters) fit by joint multi-step-ahead l… |
-| 2026-11-20 23:11:26 | [blk1](https://pypi.org/project/blk1/) | 0.0.1 |  | 1.5 kB | Placeholder for blk1. Not ready for use yet. |
-| 2026-11-20 23:11:55 | [proprioceptiveai](https://pypi.org/project/proprioceptiveai/) | 0.1.4 |  | 2.6 kB | Proprioceptive AI umbrella package: installs the gated swarm client (propriocep… |
-| 2026-11-20 23:14:02 | [makerundev](https://pypi.org/project/makerundev/) | 0.3.0 |  | 33.6 kB | Parse sports-watch activity files and compute running metrics. |
-| 2026-11-20 23:14:41 | [complexpbr](https://pypi.org/project/complexpbr/) | 1.0.0 | Logan Bier | 616.4 kB | IBL rendering module supporting real-time reflections and post-processing effec… |
-| 2026-11-20 23:18:10 | [b4n1-audit](https://pypi.org/project/b4n1-audit/) | 0.1.0 | Bani Montoya <banimontoya@gma… | 4.1 kB | B4N1 Audit SDK for Python — security & code quality scanner with bundled binary |
-| 2026-11-20 23:18:54 | [ppiplan](https://pypi.org/project/ppiplan/) | 0.1.0 | Jacob Crainic, Brandon Yee | 3.6 kB | Plan the human sample of a prediction-powered study without choosing a model on… |
-| 2026-11-20 23:19:03 | [groupval](https://pypi.org/project/groupval/) | 0.1.0 | Jacob Crainic, Brandon Yee | 7.6 kB | Validate language model labels within each group before comparing groups |
+| 2026-11-20 23:22:50 | [macos-calendar-events](https://pypi.org/project/macos-calendar-events/) | 0.1.0 | Varun Singh | 118.4 kB | Read-only macOS Calendar (EventKit) window queries with a versioned JSON CLI. R… |
+| 2026-11-20 23:23:30 | [agentlink-freecad](https://pypi.org/project/agentlink-freecad/) | 1.0.0 | Agent Link contributors | 3.5 MB | Agent Link for FreeCAD: drive FreeCAD from an agent over the Model Context Prot… |
+| 2026-11-20 23:35:05 | [chickinfry](https://pypi.org/project/chickinfry/) | 0.5.0.dev1 |  | 165.1 kB | Sync and async transport and sessions for Chickinfry clients |
+| 2026-11-20 23:36:08 | [coneforest](https://pypi.org/project/coneforest/) | 0.1.0 | Dmitry Ivanov | 54.9 kB | ConeForest: an isolation-style anomaly detector that is one table lookup per tr… |
+| 2026-11-20 23:37:08 | [hsanagrams](https://pypi.org/project/hsanagrams/) | 0.5.0 | Hernan Saltiveri | 3.0 kB | Add your description here |
+| 2026-11-20 23:38:29 | [discord-extension-discovery](https://pypi.org/project/discord-extension-discovery/) | 1.0.3 |  | 13.7 kB |  |
+| 2026-11-20 23:39:06 | [cif-explorer](https://pypi.org/project/cif-explorer/) | 0.1.0 | Arthur Zalevsky <aozalevsky@g… | 117.5 kB | Browser-based explorer for IHMCIF files: trace rows up and down the category hi… |
+| 2026-11-20 23:42:08 | [clientx](https://pypi.org/project/clientx/) | 0.1.0 | slatecipher | 121.6 kB | A typed, declarative HTTP API client framework for Python |
+| 2026-11-20 23:44:49 | [grind-t-tech-debt](https://pypi.org/project/grind-t-tech-debt/) | 0.1.1 | grind-t | 27.6 kB | Tool for managing technical debt. |
+| 2026-11-20 23:48:34 | [sosya](https://pypi.org/project/sosya/) | 0.0.1 |  | 33.3 kB | Describe a hacking lab in plain English. Get it running, isolated and verified. |
+| 2026-11-20 23:49:38 | [lumoauth-hermes](https://pypi.org/project/lumoauth-hermes/) | 0.1.0 | LumoAuth LLC | 233.7 kB | LumoAuth Guard for Hermes Agent: every tool call is allowed, sent to a person f… |
+| 2026-11-20 23:51:41 | [oxoffice](https://pypi.org/project/oxoffice/) | 0.1.0 | oxoffice contributors | 142.8 MB | Read, write, edit, compare and render Word and PowerPoint files, natively |
+| 2026-11-20 23:52:05 | [brumare](https://pypi.org/project/brumare/) | 1.3.2 | Bruno Henrique Dourado Macedo… | 42.7 MB | BrUMaRe (Brillouin-zone Utilities for Materials Research): bandas, DOS, PDOS, d… |
+| 2026-11-20 23:58:03 | [solar-and-heliospheric-observatory](https://pypi.org/project/solar-and-heliospheric-observatory/) | 0.1.0 | "Roy T. Smart" <roytsmart@gma… | 63.4 kB | A Python library to download and analyze observations from the Solar and Helios… |
+| 2026-11-20 23:58:42 | [ml-model-architect](https://pypi.org/project/ml-model-architect/) | 1.0.0rc1 | Ahmed Zain | 110.3 kB | A strict, reference-driven framework that turns AI agents into disciplined, exp… |
+| 2026-11-21 00:08:54 | [bot-use](https://pypi.org/project/bot-use/) | 0.0.1 | Dheeraj Pai | 4.7 kB | bot-use: let AI agents use robots. Early preview; APIs coming soon. |
+| 2026-11-21 00:11:36 | [dearpyguiplus](https://pypi.org/project/dearpyguiplus/) | 2.3.0.1 | Zhi Liu | 12.8 MB | Fork of DearPyGui with built-in ImPlot3D, NOT official DearPyGui |
+| 2026-11-21 00:12:15 | [pymc-ray](https://pypi.org/project/pymc-ray/) | 0.1.0 | Jonathan Dekermanjian <jonath… | 702.6 kB | Scale PyMC models to large datasets with Ray. |
+| 2026-11-21 00:15:04 | [opendata-bcb](https://pypi.org/project/opendata-bcb/) | 0.1.0 | guilhermegor | 168.2 kB | Pacote Python para coletar dados do Banco Central do Brasil (SGS, Olinda/PTAX,… |
+| 2026-11-21 00:17:15 | [meds-algorithm-everyquery](https://pypi.org/project/meds-algorithm-everyquery/) | 0.1.0 | Florent Pollet <ffp2106@cumc.… | 168.9 kB | EveryQuery (conditional multitask) used zero-shot through an ACES-to-EveryQuery… |
+| 2026-11-21 00:18:19 | [memmachine](https://pypi.org/project/memmachine/) | 0.4.0 |  | 3.0 kB | MemMachine: Open-source long-term memory layer for AI agents and LLMs. Provides… |
+| 2026-11-21 00:18:46 | [emobtest](https://pypi.org/project/emobtest/) | 0.0.1 |  | 2.6 kB | Test & conformance toolkit for EV charging platforms (OCMF, Eichrecht, AFIR pri… |
+| 2026-11-21 00:19:40 | [vibe-code-security-checklist](https://pypi.org/project/vibe-code-security-checklist/) | 0.1.0 | "Dmitry (Dee) Kargaev" <hi@de… | 21.3 kB | Zero-dependency pre-launch security checker for Cursor, Lovable, Bolt, Next.js,… |
+| 2026-11-21 00:19:42 | [kdp-preflight-cli](https://pypi.org/project/kdp-preflight-cli/) | 0.1.0 | "Dmitry (Dee) Kargaev" <hi@de… | 17.8 kB | Zero-dependency Amazon KDP spine, cover-wrap, margin, and preflight CLI for pap… |
+| 2026-11-21 00:19:43 | [dex-connector-mysql](https://pypi.org/project/dex-connector-mysql/) | 0.1.0 |  | 119.4 kB | MySQL connector for Dex Flows |
