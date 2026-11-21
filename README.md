@@ -8,28 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 02:20 UTC
+## Latest list — 2026-11-21 03:19 UTC
 
-New packages created between 2026-11-21 01:18 UTC and 2026-11-21 02:20 UTC.
+New packages created between 2026-11-21 02:20 UTC and 2026-11-21 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-21T02-20-51-206831Z.csv)
+[Full CSV](data/new-packages-2026-11-21T03-19-47-418048Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-21 01:22:07 | [signed-manifest-guard](https://pypi.org/project/signed-manifest-guard/) | 0.1.7 | testing1345 contributors | 51.2 kB | Signed-manifest updater for a self-hosted game or app. |
-| 2026-11-21 01:22:31 | [pitsurf](https://pypi.org/project/pitsurf/) | 0.0.0a1 | Leonid Shpaner | 14.2 kB | Surface construction from scattered survey points: polygonal (nearest-region),… |
-| 2026-11-21 01:25:43 | [tickwire](https://pypi.org/project/tickwire/) | 0.1.0 | Tickwire <hello@tickwire.io> | 83.6 kB | Tickwire SDK: typed REST and streaming clients for the Tickwire MT4/MT5 cloud A… |
-| 2026-11-21 01:25:47 | [tickwire-mcp](https://pypi.org/project/tickwire-mcp/) | 0.1.0 | Tickwire <hello@tickwire.io> | 82.3 kB | Tickwire MCP server: the safe execution layer for AI trading agents on MT4/MT5… |
-| 2026-11-21 01:25:51 | [tickwire-cli](https://pypi.org/project/tickwire-cli/) | 0.1.0 | Tickwire <hello@tickwire.io> | 69.0 kB | Tickwire CLI: sign in, create a sandbox, list accounts, trade with a reason and… |
-| 2026-11-21 01:27:10 | [safesink](https://pypi.org/project/safesink/) | 0.4.3 | Viraj Sabhaya | 152.3 kB | MCP tool side-effect conformance verifier (formerly EffectFence) |
-| 2026-11-21 01:27:36 | [cimhub_gdm](https://pypi.org/project/cimhub_gdm/) | 2.1.0a1 | Tylor Slay, Kapil Duwadi, Nat… | 194.8 kB | CIMHub GDM converter: grid-data-models DistributionSystem -> cim18v17 through C… |
-| 2026-11-21 01:39:51 | [maia-calibrate](https://pypi.org/project/maia-calibrate/) | 0.1.0 |  | 41.0 kB | Measured dial and temperature settings that make Maia-3 play at a target rating |
-| 2026-11-21 01:45:07 | [npreq-mcp](https://pypi.org/project/npreq-mcp/) | 0.1.0 | Miles Medical Service | 39.2 kB | A local MCP server for the NPReq API: read-only NP/APRN state requirement data… |
-| 2026-11-21 01:46:16 | [drift-drought](https://pypi.org/project/drift-drought/) | 0.1.2 | "Karel A. Sanchez H." <sanche… | 1.2 MB | DRIFT: space-time drought events selected from the component tree of a deficit… |
-| 2026-11-21 01:47:57 | [nain-mcp-validator](https://pypi.org/project/nain-mcp-validator/) | 0.1.0 | Aitor Nain Mendoza Vallejo <c… | 24.2 kB | Deterministic 3D asset validation and content integrity server for the Model Co… |
-| 2026-11-21 01:49:07 | [ggc-kinetics](https://pypi.org/project/ggc-kinetics/) | 0.2.0 | Bruce McGinley | 116.5 kB | Zero-ODE enzyme progress-curve solvers, detectors and a plate-reader parser (fr… |
-| 2026-11-21 01:58:37 | [trustedrouter](https://pypi.org/project/trustedrouter/) | 0.10.0 | Lore Hex | 10.6 kB | Alias for trusted-router-py, the official TrustedRouter Python SDK. |
-| 2026-11-21 02:00:59 | [torchgaiaxp](https://pypi.org/project/torchgaiaxp/) | 0.3.0 | Sébastien Fabbro <sebastien.f… | 1.5 MB | Gaia XP spectra in PyTorch: continuous, batched, differentiable, on any device… |
-| 2026-11-21 02:10:14 | [software-agent-sdk-vinbox](https://pypi.org/project/software-agent-sdk-vinbox/) | 1.53.1 | Vinbox <vinbox@juglow.my.id> | 2.2 kB | Complete HandPrint agent runtime for Vinbox: eyes and hands (browser_use over C… |
-| 2026-11-21 02:13:23 | [cmd-kural](https://pypi.org/project/cmd-kural/) | 0.1.2 |  | 563.0 kB | Local-first voice typing and voice control for Windows. English and Tamil. GPU-… |
-| 2026-11-21 02:20:21 | [wxcss](https://pypi.org/project/wxcss/) | 0.1.0 | ArachnidAbby, Summersweet-Sof… | 13.8 kB | A work-in-progress package to help you apply css stylesheets to WxPython ui. |
+| 2026-11-21 02:24:26 | [easyyuv](https://pypi.org/project/easyyuv/) | 0.1.0 | Ian | 4.0 kB | An easy-to-use YUV format conversion package |
+| 2026-11-21 02:27:22 | [pyscf-step](https://pypi.org/project/pyscf-step/) | 2026.11.20.1 | Paul Saxe | 379.1 kB | A SEAMM plug-in for PySCF |
+| 2026-11-21 02:31:33 | [loopbust](https://pypi.org/project/loopbust/) | 0.0.1 |  | 1.7 kB | Loopbust Python SDK. Placeholder release: the first real version is coming. htt… |
+| 2026-11-21 02:39:55 | [tug-provider](https://pypi.org/project/tug-provider/) | 0.1.0 |  | 84.0 kB | Python SDK for tug provider plugins (protocol provider/v1alpha1) |
+| 2026-11-21 02:43:28 | [dapane](https://pypi.org/project/dapane/) | 0.1.0 |  | 710.5 kB | Exact microcosting and valuation through a shared Rust kernel |
+| 2026-11-21 02:45:09 | [pipeloom-duckdb](https://pypi.org/project/pipeloom-duckdb/) | 1.1.0 | Emanuel Luis <emanuel.filho08… | 48.4 kB | DuckDB engine for pipeloom: SQL pushdown, a database file catalog, Parquet, CSV… |
+| 2026-11-21 02:45:55 | [etch-verify](https://pypi.org/project/etch-verify/) | 0.1.0 | Saravanan Jaichandaran | 34.5 kB | Offline verifier for Etch hosted audit-chain exports. Needs only Python and cry… |
+| 2026-11-21 02:48:07 | [spectacular-charts](https://pypi.org/project/spectacular-charts/) | 0.2.0 | Kundai Farai Sachikonye | 5.9 MB | Linked, crossfiltered charts in Jupyter, described in JSON instead of plotting… |
+| 2026-11-21 02:49:35 | [seatrial](https://pypi.org/project/seatrial/) | 0.1.0 |  | 147.7 kB | Run evaluation cases for agent skills on agent CLIs and compare skill revisions. |
+| 2026-11-21 02:53:26 | [gregsonworks-mcp](https://pypi.org/project/gregsonworks-mcp/) | 1.0.0 | GregsonWorks | 13.9 kB | GregsonWorks for agents: live local demand signals (Signal Feed) and the agent… |
+| 2026-11-21 02:58:26 | [wyrmctl-route53](https://pypi.org/project/wyrmctl-route53/) | 0.4.9 | Jacob Stewart | 17.5 kB | AWS Route 53 DNS provider extension for wyrmctl. |
+| 2026-11-21 03:01:42 | [i2v-ai](https://pypi.org/project/i2v-ai/) | 0.1.0 | i2v.ai | 21.5 kB | Server-side Python client for the i2v.ai image and video API. |
+| 2026-11-21 03:03:22 | [ezdracad](https://pypi.org/project/ezdracad/) | 0.1.0a1 | neka-nat <nekanat.stock@gmail… | 3.6 MB | Read-only partial DRA-CAD MPZ/MPX/MPS reader with a Rust core and Python bindin… |
+| 2026-11-21 03:05:30 | [find-agent-pane](https://pypi.org/project/find-agent-pane/) | 0.1.0 |  | 32.1 kB | List tmux panes with the coding agent that owns each one, from process evidence… |
+| 2026-11-21 03:07:56 | [keycardai-hermes](https://pypi.org/project/keycardai-hermes/) | 0.1.0 | Keycard <support@keycard.ai> | 127.5 kB | Hermes Agent plugin for Keycard: delegated, per-tool-call access with brokered… |
+| 2026-11-21 03:12:09 | [picoke](https://pypi.org/project/picoke/) | 0.1.0rc2 |  | 41.4 kB |  |
+| 2026-11-21 03:15:10 | [patautoedit](https://pypi.org/project/patautoedit/) | 1.17.0 | Jerry Zhou | 63.3 kB | Edit ATP pattern files for Teradyne IG-XL testers. |
+| 2026-11-21 03:15:13 | [superio](https://pypi.org/project/superio/) | 1.0.0 |  | 15.2 kB | 更强的输出 |

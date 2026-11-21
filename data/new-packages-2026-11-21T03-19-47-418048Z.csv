@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-11-21T02:24:26Z,easyyuv,0.1.0,Ian,,4026,An easy-to-use YUV format conversion package
+2026-11-21T02:27:22Z,pyscf-step,2026.11.20.1,Paul Saxe,BSD-3-Clause,379084,A SEAMM plug-in for PySCF
+2026-11-21T02:31:33Z,loopbust,0.0.1,,MIT,1746,Loopbust Python SDK. Placeholder release: the first real version is coming. https://loopbust.com
+2026-11-21T02:39:55Z,tug-provider,0.1.0,,,84049,Python SDK for tug provider plugins (protocol provider/v1alpha1)
+2026-11-21T02:43:28Z,dapane,0.1.0,,,710522,Exact microcosting and valuation through a shared Rust kernel
+2026-11-21T02:45:09Z,pipeloom-duckdb,1.1.0,Emanuel Luis <emanuel.filho08@gmail.com>,Apache-2.0,48353,"DuckDB engine for pipeloom: SQL pushdown, a database file catalog, Parquet, CSV and Delta reads."
+2026-11-21T02:45:55Z,etch-verify,0.1.0,Saravanan Jaichandaran,BUSL-1.1,34510,Offline verifier for Etch hosted audit-chain exports. Needs only Python and cryptography.
+2026-11-21T02:48:07Z,spectacular-charts,0.2.0,Kundai Farai Sachikonye,MIT,5925286,"Linked, crossfiltered charts in Jupyter, described in JSON instead of plotting code"
+2026-11-21T02:49:35Z,seatrial,0.1.0,,MIT,147745,Run evaluation cases for agent skills on agent CLIs and compare skill revisions.
+2026-11-21T02:53:26Z,gregsonworks-mcp,1.0.0,GregsonWorks,MIT,13895,GregsonWorks for agents: live local demand signals (Signal Feed) and the agent capability board (Capability Index) in one MCP server.
+2026-11-21T02:58:26Z,wyrmctl-route53,0.4.9,Jacob Stewart,Apache-2.0,17521,AWS Route 53 DNS provider extension for wyrmctl.
+2026-11-21T03:01:42Z,i2v-ai,0.1.0,i2v.ai,MIT,21533,Server-side Python client for the i2v.ai image and video API.
+2026-11-21T03:03:22Z,ezdracad,0.1.0a1,neka-nat <nekanat.stock@gmail.com>,PolyForm-Noncommercial-1.0.0,3556180,Read-only partial DRA-CAD MPZ/MPX/MPS reader with a Rust core and Python bindings
+2026-11-21T03:05:30Z,find-agent-pane,0.1.0,,MIT,32075,"List tmux panes with the coding agent that owns each one, from process evidence alone."
+2026-11-21T03:07:56Z,keycardai-hermes,0.1.0,Keycard <support@keycard.ai>,MIT,127456,"Hermes Agent plugin for Keycard: delegated, per-tool-call access with brokered credentials"
+2026-11-21T03:12:09Z,picoke,0.1.0rc2,,MIT,41444,
+2026-11-21T03:15:10Z,patautoedit,1.17.0,Jerry Zhou,MIT,63264,Edit ATP pattern files for Teradyne IG-XL testers.
+2026-11-21T03:15:13Z,superio,1.0.0,,,15156,更强的输出
