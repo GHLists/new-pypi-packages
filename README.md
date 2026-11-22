@@ -8,39 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 09:18 UTC
+## Latest list — 2026-11-22 10:18 UTC
 
-New packages created between 2026-11-22 08:20 UTC and 2026-11-22 09:18 UTC.
+New packages created between 2026-11-22 09:18 UTC and 2026-11-22 10:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-22T09-18-26-408069Z.csv)
+[Full CSV](data/new-packages-2026-11-22T10-18-23-023923Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-22 08:21:23 | [portweights](https://pypi.org/project/portweights/) | 0.1.1 |  | 14.4 kB | Deploy LoRA adapters as private, OpenAI-compatible APIs on Portweights. |
-| 2026-11-22 08:21:27 | [mainspring](https://pypi.org/project/mainspring/) | 3.3.0 |  | 129.3 kB | Mainspring: a business-agnostic agent runtime (Plan → Decide → Execute → Observ… |
-| 2026-11-22 08:24:44 | [drover-ai](https://pypi.org/project/drover-ai/) | 0.0.1 |  | 1.2 kB | Reserved for drover. |
-| 2026-11-22 08:25:03 | [flash-softdtw-torch](https://pypi.org/project/flash-softdtw-torch/) | 0.1.0 | Feiteng Li | 50.6 kB | Fast, memory-lean soft-DTW for PyTorch (CUDA + CPU), with banded alignment. |
-| 2026-11-22 08:27:27 | [ghostbooking](https://pypi.org/project/ghostbooking/) | 0.1.1 | MedAmine-SUDO | 84.8 kB | Clears ghost bookings from a shared Excel room-booking file every morning and r… |
-| 2026-11-22 08:28:04 | [aee-verifier](https://pypi.org/project/aee-verifier/) | 0.2.0 | Roberto Locatelli | 271.5 kB | Verifier for the in-toto predicate Adversarial Execution Evidence (v0.7), stand… |
-| 2026-11-22 08:30:18 | [fakeplc](https://pypi.org/project/fakeplc/) | 0.1.0 | DanShinde | 60.8 kB | A fake PLC for your test suite: one YAML file, OPC UA and Modbus TCP, with a py… |
-| 2026-11-22 08:33:46 | [lucidscope](https://pypi.org/project/lucidscope/) | 0.0.1 | LucidScope | 3.0 kB | Namespace placeholder for LucidScope (澄镜). Reserved to prevent name squatting. |
-| 2026-11-22 08:34:27 | [cfg-tools-python](https://pypi.org/project/cfg-tools-python/) | 1.0.1 | kris_or_sasha <aivliev782@gma… | 41.8 kB | cfg-tools for python |
-| 2026-11-22 08:37:23 | [czytajpdf](https://pypi.org/project/czytajpdf/) | 0.4.0 |  | 44.9 kB | Page-wise Polish and English PDF text extraction with optional OCR and spelling… |
-| 2026-11-22 08:37:42 | [readpdf-pl](https://pypi.org/project/readpdf-pl/) | 0.4.0 |  | 13.5 kB | Page-wise Polish PDF text extraction with optional OCR and spelling repair (pow… |
-| 2026-11-22 08:37:47 | [readpdf-en](https://pypi.org/project/readpdf-en/) | 0.4.0 |  | 13.6 kB | Page-wise English PDF text extraction with optional OCR and spelling repair (po… |
-| 2026-11-22 08:38:19 | [mcp-conformance](https://pypi.org/project/mcp-conformance/) | 0.7.1 | Tom F. | 110.2 MB | Clause-by-clause Model Context Protocol conformance: record any MCP session, ju… |
-| 2026-11-22 08:40:54 | [dxf-io](https://pypi.org/project/dxf-io/) | 0.1.0 | Antoine Collet <antoine.colle… | 22.6 MB | Fast Rust-based DXF mesh reader and writer (SOLID / 3DFACE) with optional PyVis… |
-| 2026-11-22 08:47:36 | [courseexe-realtime](https://pypi.org/project/courseexe-realtime/) | 1.0.1 | Courseexe | 6.6 kB | Official Python Client and Server Publisher SDK for Courseexe Realtime Channels |
-| 2026-11-22 09:01:43 | [BatchSlicer](https://pypi.org/project/BatchSlicer/) | 0.9.2 | Christopher Eslick | 329.5 kB | Batch-slice 3D models with OrcaSlicer, Creality Print or Bambu Studio using you… |
-| 2026-11-22 09:03:12 | [test-notepad](https://pypi.org/project/test-notepad/) | 0.1.0 | Local | 4.5 kB | Launch Windows Notepad (notepad.exe) |
-| 2026-11-22 09:03:28 | [metrics-claim-audit](https://pypi.org/project/metrics-claim-audit/) | 0.1.0 |  | 16.5 kB | Static audit of documentation claims against Prometheus-format wiring |
-| 2026-11-22 09:03:37 | [rate-limit-claim-audit](https://pypi.org/project/rate-limit-claim-audit/) | 0.1.0 |  | 16.5 kB | Static audit of documented server-side request caps |
-| 2026-11-22 09:03:45 | [search-claim-audit](https://pypi.org/project/search-claim-audit/) | 0.1.0 |  | 15.7 kB | Offline audit of documented query-matching capabilities |
-| 2026-11-22 09:03:53 | [websocket-claim-audit](https://pypi.org/project/websocket-claim-audit/) | 0.1.0 |  | 16.7 kB | Offline static audit of documented framed socket capabilities |
-| 2026-11-22 09:03:56 | [jt-memory](https://pypi.org/project/jt-memory/) | 0.1.0 | Shrishant Jha <shrishant@exam… | 5.3 kB | Emotion-guided continual memory engine for AI chatbots and agents. |
-| 2026-11-22 09:04:32 | [luca-litellm](https://pypi.org/project/luca-litellm/) | 0.1.0 | Luca <hello@luca.network> | 21.9 kB | Send the cost of each LiteLLM call to Luca for accounting, without prompts or r… |
-| 2026-11-22 09:07:46 | [skillcheckup](https://pypi.org/project/skillcheckup/) | 0.3.5 |  | 27.3 kB | Audit the AI skill files installed on your machine for validity, security risks… |
-| 2026-11-22 09:10:24 | [lia-module-validateur](https://pypi.org/project/lia-module-validateur/) | 0.0.1 |  | 2.1 kB | Nom réservé. Ce paquet ne contient rien : l'outil du même nom est distribué par… |
-| 2026-11-22 09:11:49 | [softcache](https://pypi.org/project/softcache/) | 0.1.0 |  | 31.4 kB | SoftCache: training-free caching with adaptive jumps for FLUX.1-dev, HunyuanVid… |
-| 2026-11-22 09:12:07 | [agentkeel](https://pypi.org/project/agentkeel/) | 0.0.1 | Ashutosh Kumar Rao | 2.2 kB | The open-source stability layer for AI agents. Early design, not ready for use… |
-| 2026-11-22 09:15:54 | [sva2yosys](https://pypi.org/project/sva2yosys/) | 0.1.0 | Sergey Verlan | 383.5 kB | Lower concurrent SystemVerilog Assertions into plain SystemVerilog monitors for… |
+| 2026-11-22 09:21:33 | [top-academy-journal](https://pypi.org/project/top-academy-journal/) | 0.1.0 |  | 25.2 kB | A modern, easy to use, async API wrapper for top academy journal written in Pyt… |
+| 2026-11-22 09:30:25 | [checkgate](https://pypi.org/project/checkgate/) | 0.2.0 |  | 1.9 MB | Checkgate feature flags for Python: local evaluation with the Rust engine, kept… |
+| 2026-11-22 09:32:52 | [calculator-pkg-ex-tacocat405583](https://pypi.org/project/calculator-pkg-ex-tacocat405583/) | 0.2.0 |  | 4.6 kB |  |
+| 2026-11-22 09:33:17 | [nqu-statkit](https://pypi.org/project/nqu-statkit/) | 0.1.0 | NQU Statistics Toolkit Contri… | 10.8 kB | A beginner-friendly statistics toolkit for Python |
+| 2026-11-22 09:33:37 | [datacenter-twin](https://pypi.org/project/datacenter-twin/) | 2.0.1 | Mohammad Rezwan Khan | 93.2 kB | Reproducible local-first power-continuity what-if simulation and reports |
+| 2026-11-22 09:35:17 | [nkx-governor](https://pypi.org/project/nkx-governor/) | 0.2.0 | NakodaX | 80.5 kB | Python client for the Governor policy compliance inference API |
+| 2026-11-22 09:37:15 | [raedir](https://pypi.org/project/raedir/) | 0.1.0 | Raedir | 57.6 kB | Terminal GUI for downloading JLCPCB/LCSC parts into KiCad via easyeda2kicad |
+| 2026-11-22 09:40:07 | [prism-code-workspace](https://pypi.org/project/prism-code-workspace/) | 1.0.0 | CS1302 Group 02 | 5.2 MB | A native Python workspace for understanding code with flowchart, AST, safe trac… |
+| 2026-11-22 09:49:14 | [stardataparadise](https://pypi.org/project/stardataparadise/) | 0.3.0 |  | 64.7 kB | Independent StarDataParadise wire v1 Python DB-API provider |
+| 2026-11-22 09:50:25 | [tmux-llm-rescue](https://pypi.org/project/tmux-llm-rescue/) | 0.1.1 |  | 51.3 kB | A command-line tool for recovering Claude Code, Codex and Kimi sessions after a… |
+| 2026-11-22 09:51:09 | [hypaxel](https://pypi.org/project/hypaxel/) | 0.4.0 |  | 42.6 MB | High-performance, constant-memory streaming XLSX (Excel) writer and reader for… |
+| 2026-11-22 09:53:10 | [voipano](https://pypi.org/project/voipano/) | 1.0.1 | Voipano | 45.6 kB | Official Python SDK for the Voipano Public API v1 |
+| 2026-11-22 09:54:15 | [carbium](https://pypi.org/project/carbium/) | 0.1.0 |  | 169.7 kB | Typed Python client for Carbium's Solana services: RPC, DAS, quote and swap, We… |
+| 2026-11-22 09:54:54 | [hushmask](https://pypi.org/project/hushmask/) | 0.1.0 | Bilal | 1.1 MB | Hide names, emails, IBANs and addresses before text reaches an AI, and put them… |
+| 2026-11-22 09:55:30 | [tinyarcade](https://pypi.org/project/tinyarcade/) | 0.1.0 | Abbie, Sienna, Oscar | 37.1 kB | A tiny collection of terminal mini-games with a shared menu. |
+| 2026-11-22 09:56:23 | [imgscan](https://pypi.org/project/imgscan/) | 0.1.0 | staugur | 29.8 kB | Judge stored sapic images with an external content-safety API. |
+| 2026-11-22 09:58:22 | [cellprose](https://pypi.org/project/cellprose/) | 0.3.0 | Utkarsh Gaikwad | 88.4 kB | A plain-text format for spreadsheet workbooks: formulas and cell addresses a mo… |
+| 2026-11-22 09:59:42 | [urml-av-runtime](https://pypi.org/project/urml-av-runtime/) | 0.4.0 | URML Maintainers | 9.5 kB | Autonomous-vehicle reference runtime for URML — Autoware AD API via rclpy. |
+| 2026-11-22 09:59:43 | [json-formatter-validator-cli](https://pypi.org/project/json-formatter-validator-cli/) | 0.1.0 | Haider Ali | 18.7 kB | Format and validate JSON, with line:col errors, fail CI on bad JSON. |
+| 2026-11-22 09:59:45 | [urml-conformance](https://pypi.org/project/urml-conformance/) | 0.5.0 | URML Maintainers | 248.9 kB | Conformance test suite for URML runtimes. Free, public, runnable. |
+| 2026-11-22 09:59:46 | [urml-edu-runtime](https://pypi.org/project/urml-edu-runtime/) | 0.5.0 | URML Maintainers | 26.9 kB | Educational-platform reference runtime for URML — VEX V5, LEGO Mindstorms/SPIKE… |
+| 2026-11-22 09:59:47 | [urml-embedded-runtime](https://pypi.org/project/urml-embedded-runtime/) | 0.5.0 | URML Maintainers | 8.9 kB | Educational-MCU reference runtime for URML — micro:bit / Arduino-class over ser… |
+| 2026-11-22 10:00:01 | [capped-video-mcp](https://pypi.org/project/capped-video-mcp/) | 0.1.0 | 임범수 | 101.3 kB | 영상 생성 모델(Seedance, Kling, Veo 등)을 fal·Replicate 로 부르는 MCP 서버. 비용 상한과 자동 다운로드 포함 |
+| 2026-11-22 10:04:54 | [quantselion](https://pypi.org/project/quantselion/) | 0.0.1 | QuantSelion <dev@quantselion.… | 2.6 kB | Quantitative finance modeling and empirical research tools by QuantSelion |
+| 2026-11-22 10:07:04 | [qselion](https://pypi.org/project/qselion/) | 0.0.1 | QuantSelion <dev@quantselion.… | 2.4 kB | Short namespace package for QuantSelion |
+| 2026-11-22 10:08:18 | [jt-continual](https://pypi.org/project/jt-continual/) | 0.1.0 | Shrishant Jha <shrishant@exam… | 7.4 kB | Autonomous continual-learning engine with dynamic neurogenesis, artificial home… |
+| 2026-11-22 10:08:49 | [markitdown-cellprose](https://pypi.org/project/markitdown-cellprose/) | 0.1.0 | Utkarsh Gaikwad | 6.4 kB | MarkItDown plugin: convert .xlsx/.xlsm workbooks to Cellprose text (formulas, e… |
+| 2026-11-22 10:09:33 | [skill-dojo-core](https://pypi.org/project/skill-dojo-core/) | 0.0.1 | Jens Rehpöhler | 191.8 kB | Core library of skill-dojo: curated agent plugin marketplaces in a git repo. |
+| 2026-11-22 10:11:29 | [sandbox-kit-sdk](https://pypi.org/project/sandbox-kit-sdk/) | 0.1.0 |  | 20.4 kB | One interface over remote browser sandboxes for AI agents: Browserbase, Anchor,… |
+| 2026-11-22 10:13:12 | [adk-kanode](https://pypi.org/project/adk-kanode/) | 1.0.0 |  | 166.4 kB | Run Google ADK (Agent Development Kit) workflow nodes in dedicated Kubernetes /… |
+| 2026-11-22 10:13:20 | [paacs-mesh](https://pypi.org/project/paacs-mesh/) | 1.2.0rc2 | Paul LeDewhurst | 62.7 MB | Native STEP import and Tet4 meshing with PAACS Mesh |
+| 2026-11-22 10:13:27 | [gridapi-sdk](https://pypi.org/project/gridapi-sdk/) | 1.0.0 | BugyLabs | 37.9 kB | Official Python SDK for the GridAPI public REST API |
+| 2026-11-22 10:14:50 | [shmring](https://pypi.org/project/shmring/) | 0.1.0 | meta_codes | 32.5 kB | Lock-free cross-language shared-memory ring buffer: single writer, many readers… |
+| 2026-11-22 10:14:56 | [modelfold](https://pypi.org/project/modelfold/) | 0.1.0 |  | 5.7 kB | ModelFold client preset for the OpenAI Python SDK |
+| 2026-11-22 10:15:29 | [agentssh](https://pypi.org/project/agentssh/) | 1.0.0 | Its2Pawan <pawan@example.com> | 113.1 kB | AgentSSH — Production-Ready AI Agent SSH Client developed by Its2Pawan |
+| 2026-11-22 10:16:24 | [livekit-plugins-bakbak](https://pypi.org/project/livekit-plugins-bakbak/) | 1.0.0rc2 | Raya Voice AI <support@getray… | 96.6 kB | LiveKit Agents plugin for Bakbak text-to-speech: low-latency streaming speech f… |
+| 2026-11-22 10:17:56 | [alphaapi](https://pypi.org/project/alphaapi/) | 0.2.0b0 | AlphaAPI contributors | 1.2 MB | A Django-shaped, async-native Python web framework with a Rust core |

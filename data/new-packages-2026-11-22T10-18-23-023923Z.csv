@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T09:21:33Z,top-academy-journal,0.1.0,,MIT,25179,"A modern, easy to use, async API wrapper for top academy journal written in Python."
+2026-11-22T09:30:25Z,checkgate,0.2.0,,Apache-2.0,1905926,"Checkgate feature flags for Python: local evaluation with the Rust engine, kept in sync over SSE"
+2026-11-22T09:32:52Z,calculator-pkg-ex-tacocat405583,0.2.0,,,4611,
+2026-11-22T09:33:17Z,nqu-statkit,0.1.0,NQU Statistics Toolkit Contributors,MIT,10819,A beginner-friendly statistics toolkit for Python
+2026-11-22T09:33:37Z,datacenter-twin,2.0.1,Mohammad Rezwan Khan,Apache-2.0,93197,Reproducible local-first power-continuity what-if simulation and reports
+2026-11-22T09:35:17Z,nkx-governor,0.2.0,NakodaX,MIT,80496,Python client for the Governor policy compliance inference API
+2026-11-22T09:37:15Z,raedir,0.1.0,Raedir,MIT,57571,Terminal GUI for downloading JLCPCB/LCSC parts into KiCad via easyeda2kicad
+2026-11-22T09:40:07Z,prism-code-workspace,1.0.0,CS1302 Group 02,MIT,5165452,"A native Python workspace for understanding code with flowchart, AST, safe trace, structural diff, and beginner guide."
+2026-11-22T09:49:14Z,stardataparadise,0.3.0,,,64742,Independent StarDataParadise wire v1 Python DB-API provider
+2026-11-22T09:50:25Z,tmux-llm-rescue,0.1.1,,MIT,51331,"A command-line tool for recovering Claude Code, Codex and Kimi sessions after a tmux crash."
+2026-11-22T09:51:09Z,hypaxel,0.4.0,,Apache-2.0,42625199,"High-performance, constant-memory streaming XLSX (Excel) writer and reader for Python, powered by Rust."
+2026-11-22T09:53:10Z,voipano,1.0.1,Voipano,MIT,45611,Official Python SDK for the Voipano Public API v1
+2026-11-22T09:54:15Z,carbium,0.1.0,,MIT AND Apache-2.0,169673,"Typed Python client for Carbium's Solana services: RPC, DAS, quote and swap, WebSocket subscriptions, Carbon Stream, webhooks, the account API, DCA and the token API"
+2026-11-22T09:54:54Z,hushmask,0.1.0,Bilal,MIT,1140828,"Hide names, emails, IBANs and addresses before text reaches an AI, and put them back in the answer."
+2026-11-22T09:55:30Z,tinyarcade,0.1.0,"Abbie, Sienna, Oscar",MIT,37087,A tiny collection of terminal mini-games with a shared menu.
+2026-11-22T09:56:23Z,imgscan,0.1.0,staugur,Apache 2.0,29797,Judge stored sapic images with an external content-safety API.
+2026-11-22T09:58:22Z,cellprose,0.3.0,Utkarsh Gaikwad,Apache-2.0,88419,"A plain-text format for spreadsheet workbooks: formulas and cell addresses a model can read in one call, rendered as tables on GitHub"
+2026-11-22T09:59:42Z,urml-av-runtime,0.4.0,URML Maintainers,BUSL-1.1,9505,Autonomous-vehicle reference runtime for URML — Autoware AD API via rclpy.
+2026-11-22T09:59:43Z,json-formatter-validator-cli,0.1.0,Haider Ali,MIT,18677,"Format and validate JSON, with line:col errors, fail CI on bad JSON."
+2026-11-22T09:59:45Z,urml-conformance,0.5.0,URML Maintainers,BUSL-1.1,248909,"Conformance test suite for URML runtimes. Free, public, runnable."
+2026-11-22T09:59:46Z,urml-edu-runtime,0.5.0,URML Maintainers,BUSL-1.1,26943,"Educational-platform reference runtime for URML — VEX V5, LEGO Mindstorms/SPIKE, Thymio, Robotical Marty, Petoi Bittle / Nybble, zero ROS."
+2026-11-22T09:59:47Z,urml-embedded-runtime,0.5.0,URML Maintainers,BUSL-1.1,8932,"Educational-MCU reference runtime for URML — micro:bit / Arduino-class over serial, zero ROS."
+2026-11-22T10:00:01Z,capped-video-mcp,0.1.0,임범수,MIT,101254,"영상 생성 모델(Seedance, Kling, Veo 등)을 fal·Replicate 로 부르는 MCP 서버. 비용 상한과 자동 다운로드 포함"
+2026-11-22T10:04:54Z,quantselion,0.0.1,QuantSelion <dev@quantselion.com>,,2592,Quantitative finance modeling and empirical research tools by QuantSelion
+2026-11-22T10:07:04Z,qselion,0.0.1,QuantSelion <dev@quantselion.com>,,2446,Short namespace package for QuantSelion
+2026-11-22T10:08:18Z,jt-continual,0.1.0,Shrishant Jha <shrishant@example.com>,AGPL-3.0-or-later,7427,"Autonomous continual-learning engine with dynamic neurogenesis, artificial homeostasis, and immutable safety guardrails."
+2026-11-22T10:08:49Z,markitdown-cellprose,0.1.0,Utkarsh Gaikwad,Apache-2.0,6396,"MarkItDown plugin: convert .xlsx/.xlsm workbooks to Cellprose text (formulas, every sheet, cell addresses)"
+2026-11-22T10:09:33Z,skill-dojo-core,0.0.1,Jens Rehpöhler,MIT,191794,Core library of skill-dojo: curated agent plugin marketplaces in a git repo.
+2026-11-22T10:11:29Z,sandbox-kit-sdk,0.1.0,,LicenseRef-Proprietary,20361,"One interface over remote browser sandboxes for AI agents: Browserbase, Anchor, Steel, your own adapter, or one sandbox-kit key."
+2026-11-22T10:13:12Z,adk-kanode,1.0.0,,Apache-2.0,166383,Run Google ADK (Agent Development Kit) workflow nodes in dedicated Kubernetes / GKE pods with a single @kanode decorator
+2026-11-22T10:13:20Z,paacs-mesh,1.2.0rc2,Paul LeDewhurst,MPL-2.0,62747661,Native STEP import and Tet4 meshing with PAACS Mesh
+2026-11-22T10:13:27Z,gridapi-sdk,1.0.0,BugyLabs,BUGYLABS PROPRIETARY NON-COMMERCIAL SOFTWARE LICENSE Copyright (c) 2026 BugyLabs. All Rights Reserv…,37897,Official Python SDK for the GridAPI public REST API
+2026-11-22T10:14:50Z,shmring,0.1.0,meta_codes,MIT,32511,"Lock-free cross-language shared-memory ring buffer: single writer, many readers, zero HTTP"
+2026-11-22T10:14:56Z,modelfold,0.1.0,,MIT,5713,ModelFold client preset for the OpenAI Python SDK
+2026-11-22T10:15:29Z,agentssh,1.0.0,Its2Pawan <pawan@example.com>,MIT,113133,AgentSSH — Production-Ready AI Agent SSH Client developed by Its2Pawan
+2026-11-22T10:16:24Z,livekit-plugins-bakbak,1.0.0rc2,Raya Voice AI <support@getraya.app>,Apache-2.0,96617,LiveKit Agents plugin for Bakbak text-to-speech: low-latency streaming speech for Indian languages.
+2026-11-22T10:17:56Z,alphaapi,0.2.0b0,AlphaAPI contributors,MIT,1207826,"A Django-shaped, async-native Python web framework with a Rust core"
