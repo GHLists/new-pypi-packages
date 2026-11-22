@@ -8,35 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 01:20 UTC
+## Latest list — 2026-11-22 02:18 UTC
 
-New packages created between 2026-11-22 00:18 UTC and 2026-11-22 01:20 UTC.
+New packages created between 2026-11-22 01:20 UTC and 2026-11-22 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-22T01-20-53-268873Z.csv)
+[Full CSV](data/new-packages-2026-11-22T02-18-52-681857Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-22 00:20:29 | [llm-vram-fit](https://pypi.org/project/llm-vram-fit/) | 0.1.0 | an1zy | 22.4 kB | VRAM calculation and local LLM fit analyzer |
-| 2026-11-22 00:28:25 | [fillmate](https://pypi.org/project/fillmate/) | 0.1.1 | Leonardo Nels | 3.1 MB | Fill recurring paperwork from reusable form packs and send it by email. |
-| 2026-11-22 00:30:02 | [rasa-infra-validation](https://pypi.org/project/rasa-infra-validation/) | 999.9.9 |  | 965 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-22 00:32:57 | [aipe-sdk](https://pypi.org/project/aipe-sdk/) | 1.0.6 |  | 87.3 kB | Client for the AI Agent Promotion Exchange API. |
-| 2026-11-22 00:36:25 | [prsr](https://pypi.org/project/prsr/) | 0.0.0 | Cory Shain | 27.0 kB | GPU latent-variable PCFG training and left-corner parsing |
-| 2026-11-22 00:42:05 | [rubberotter](https://pypi.org/project/rubberotter/) | 1.4.0 | AtaCanYmc <atacanymc@gmail.co… | 57.2 kB | Comprehensive Python SDK, CLI, and Web App to discover, control, and manage Rub… |
-| 2026-11-22 00:43:23 | [bigleague](https://pypi.org/project/bigleague/) | 0.1.0 | Jonathon Klobucar | 112.1 kB | Async polars-native baseball data and plotting library |
-| 2026-11-22 00:52:30 | [clicndone-pdf-mcp](https://pypi.org/project/clicndone-pdf-mcp/) | 1.0.0 |  | 13.5 kB | MCP server for AI assistants: PDF to Word that keeps the layout, merge, split,… |
-| 2026-11-22 00:54:02 | [atomzero](https://pypi.org/project/atomzero/) | 0.1.1 | Gokhan Cava <gokhancava@gmail… | 187.6 kB | Atom Zero: a local source-cited 49.2M assistant with RAG, documents, evidence a… |
-| 2026-11-22 00:55:24 | [container-image-dist-ref](https://pypi.org/project/container-image-dist-ref/) | 0.4.0 |  | 2.4 MB | Parse and validate docker/OCI container image references. |
-| 2026-11-22 00:57:51 | [rodmena-provenance](https://pypi.org/project/rodmena-provenance/) | 0.1.1 |  | 74.4 kB | Reports a Linux or FreeBSD host's operating-system packages to provenance every… |
-| 2026-11-22 01:00:46 | [wengua](https://pypi.org/project/wengua/) | 0.1.0 |  | 135.1 kB | Wengua 问卦: the accurate, open I Ching (易经) for every AI. Fair casting, sourced… |
-| 2026-11-22 01:02:57 | [turkmen-num2words](https://pypi.org/project/turkmen-num2words/) | 0.1.1 | Murat Bekgi | 20.0 kB | Convert integers to Turkmen (Latin) cardinal-number words. |
-| 2026-11-22 01:06:44 | [modrinth-dl](https://pypi.org/project/modrinth-dl/) | 1.0.0 | Little Godzilla Laboratory | 15.9 kB | Python lib for downloading Minecraft add-ons from Modrinth |
-| 2026-11-22 01:07:51 | [second-brain-core](https://pypi.org/project/second-brain-core/) | 0.1.0 |  | 496.7 kB | Shared library for the Second Brain MCP servers: sign-in, audit log, HTTP servi… |
-| 2026-11-22 01:14:36 | [openfrenz](https://pypi.org/project/openfrenz/) | 0.2.1 |  | 11.2 kB | Load openfrenz session datasets (FRENZ brainband) and build aligned fixed-lengt… |
-| 2026-11-22 01:14:50 | [xian-wallet-cli](https://pypi.org/project/xian-wallet-cli/) | 0.2.0 |  | 135.4 kB | Xian wallet for terminals and agents |
-| 2026-11-22 01:16:05 | [nrtvix](https://pypi.org/project/nrtvix/) | 0.2.0 | NorthViax LLC <hello@nrtvix.c… | 20.0 kB | NrtVix Guardian: ask before your AI agent acts. Allowed, waits for you, or bloc… |
-| 2026-11-22 01:17:47 | [xian-tech-wallet-cli](https://pypi.org/project/xian-tech-wallet-cli/) | 0.2.1 |  | 135.2 kB | Xian wallet for terminals and agents |
-| 2026-11-22 01:17:50 | [idlefree-ui](https://pypi.org/project/idlefree-ui/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/idlefree-ui |
-| 2026-11-22 01:17:50 | [tsukimiso](https://pypi.org/project/tsukimiso/) | 0.1.2 |  | 134.7 kB | An OSS federated learning framework designed for production use |
-| 2026-11-22 01:17:51 | [idlefree-auth](https://pypi.org/project/idlefree-auth/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/idlefree-auth |
-| 2026-11-22 01:20:34 | [argus-mercado-terminal](https://pypi.org/project/argus-mercado-terminal/) | 0.1.10 |  | 380.2 kB | Terminal ARGUS de volatilidade, precificação, risco e P&L |
-| 2026-11-22 01:20:52 | [set-sdk](https://pypi.org/project/set-sdk/) | 0.1.0 |  | 23.8 kB | Official zero-dependency Python SDK for Simple Easy Transactions (SET API, SET… |
+| 2026-11-22 01:28:23 | [causal-toolkit-bergeson](https://pypi.org/project/causal-toolkit-bergeson/) | 0.1.1 | Rhett Bergeson <rhettbergeson… | 18.7 kB | A Python package for causal inference methods including ATE estimation, propens… |
+| 2026-11-22 01:28:59 | [pyautark](https://pypi.org/project/pyautark/) | 0.1.0a1 | Urban Toolkit | 36.5 MB | Declarative Python API for urban visual analytics (maps, plots, spatial joins)… |
+| 2026-11-22 01:31:04 | [image-optimizer-webui](https://pypi.org/project/image-optimizer-webui/) | 1.1.0 | aREversez | 374.3 kB | Batch image compression with a local web UI (PNG/JPEG/WebP/AVIF) |
+| 2026-11-22 01:31:51 | [gz-mutation-witness](https://pypi.org/project/gz-mutation-witness/) | 0.1.0 | g0 | 24.4 kB | Mutation-sweep witness for unittest suites: killed, survived, invalid, inconclu… |
+| 2026-11-22 01:31:54 | [gz-mindload](https://pypi.org/project/gz-mindload/) | 0.1.0 | g0 | 13.4 kB | Cognitive complexity scorer over CPython's ast: a Python API and a CLI |
+| 2026-11-22 01:38:25 | [ctk-idiomas](https://pypi.org/project/ctk-idiomas/) | 0.1.2 | Lucas Gabriel da Costa | 21.3 kB | Sistema Plug & Play de idiomas e tradução visual para CustomTkinter |
+| 2026-11-22 01:42:56 | [django-material-design-icons](https://pypi.org/project/django-material-design-icons/) | 0.0.1.dev1 | IndustrialRabbit | 4.6 MB | Material Design Icon python package primarily for Django applications |
+| 2026-11-22 01:43:39 | [port-test](https://pypi.org/project/port-test/) | 0.1.0 | linyuan | 8.3 kB | 测试port是否可用和随机一个port并测试。 |
+| 2026-11-22 01:46:49 | [sosmed-scanner](https://pypi.org/project/sosmed-scanner/) | 0.4.0 | Nuzuli | 23.1 kB | Check whether a username exists on public profile pages - 20 platforms, zero de… |
+| 2026-11-22 01:47:26 | [pikkolo](https://pypi.org/project/pikkolo/) | 0.1.0 |  | 20.9 kB | Fabricate and assemble a PCB with Pikkolo from the command line. Built for AI a… |
+| 2026-11-22 01:47:26 | [qupai-lab](https://pypi.org/project/qupai-lab/) | 0.2.0 | QuSpect | 62.3 kB | The QuPai Lab SDK: work a QuPai lab's instruments from Python scripts through I… |
+| 2026-11-22 01:49:30 | [pgfanout](https://pypi.org/project/pgfanout/) | 0.0.1 |  | 2.8 kB | Parallel logical dump/restore for PostgreSQL (placeholder release, under develo… |
+| 2026-11-22 01:49:57 | [pilotdroid](https://pypi.org/project/pilotdroid/) | 0.6.1 |  | 47.8 kB | Device-side UiAutomation agent — uiautomator2-compatible Python client (connect… |
+| 2026-11-22 01:55:17 | [agent-groupchat](https://pypi.org/project/agent-groupchat/) | 0.1.0 | MohammedAtya | 165.8 kB | A local group chat between you and your AI agents (Claude Code, Codex, Gemini C… |
+| 2026-11-22 02:00:19 | [bomlens-runner](https://pypi.org/project/bomlens-runner/) | 1.15.1 | SK Telecom | 122.6 kB | Run the BomLens SBOM scan engine on Kubernetes or Docker from another program |
+| 2026-11-22 02:01:54 | [adk-revsec](https://pypi.org/project/adk-revsec/) | 0.1.0 | RevSec / RevUp AI LLC <hello@… | 39.7 kB | RevSec for Google ADK: stop risky agent actions before they run, catch prompt i… |
+| 2026-11-22 02:06:16 | [bpl-biosim](https://pypi.org/project/bpl-biosim/) | 0.3.0 | BPL Project | 46.6 kB | BPL: a multi-scale biological programming and simulation language reference int… |
+| 2026-11-22 02:09:13 | [sandbox-ai-sdk](https://pypi.org/project/sandbox-ai-sdk/) | 0.1.0 | Sandbox AI | 26.7 kB | Python client for Sandbox AI: propose changes to business systems and read the… |
+| 2026-11-22 02:09:20 | [video-shot-budget](https://pypi.org/project/video-shot-budget/) | 0.1.0 | js-upup | 6.1 kB | Allocate an integer clip duration across weighted storyboard beats. |
+| 2026-11-22 02:12:58 | [cerebro-memory](https://pypi.org/project/cerebro-memory/) | 0.2.0 | cerebro-memory contributors | 126.8 kB | A local, read-only index over your Markdown notes and your AI agents' memories,… |
+| 2026-11-22 02:13:39 | [pyfylr](https://pypi.org/project/pyfylr/) | 0.1.0 | "David S. Cassell" <davidscas… | 8.7 MB | Latent transition, latent class, and latent profile models. Release 1 uses the… |
+| 2026-11-22 02:16:02 | [wholebodypose](https://pypi.org/project/wholebodypose/) | 2.0.2 | Cristian Lazo-Quispe, Renato… | 186.5 kB | Unified whole-body (COCO-WholeBody, 133 keypoints) pose estimation with RTMPose… |
+| 2026-11-22 02:16:03 | [flowlayers](https://pypi.org/project/flowlayers/) | 0.1.0 | Atlahua Quiahuitl Martínez Ob… | 30.7 kB | Fast probabilistic traversal of connectomes (Schlegel et al. 2021 information-f… |

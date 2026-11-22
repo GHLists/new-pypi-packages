@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T01:28:23Z,causal-toolkit-bergeson,0.1.1,Rhett Bergeson <rhettbergeson@uchicago.edu>,MIT,18718,"A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
+2026-11-22T01:28:59Z,pyautark,0.1.0a1,Urban Toolkit,MIT,36523875,"Declarative Python API for urban visual analytics (maps, plots, spatial joins) rendered with WebGPU and DuckDB-WASM"
+2026-11-22T01:31:04Z,image-optimizer-webui,1.1.0,aREversez,MIT,374322,Batch image compression with a local web UI (PNG/JPEG/WebP/AVIF)
+2026-11-22T01:31:51Z,gz-mutation-witness,0.1.0,g0,MIT,24387,"Mutation-sweep witness for unittest suites: killed, survived, invalid, inconclusive"
+2026-11-22T01:31:54Z,gz-mindload,0.1.0,g0,MIT,13371,Cognitive complexity scorer over CPython's ast: a Python API and a CLI
+2026-11-22T01:38:25Z,ctk-idiomas,0.1.2,Lucas Gabriel da Costa,,21331,Sistema Plug & Play de idiomas e tradução visual para CustomTkinter
+2026-11-22T01:42:56Z,django-material-design-icons,0.0.1.dev1,IndustrialRabbit,,4630935,Material Design Icon python package primarily for Django applications
+2026-11-22T01:43:39Z,port-test,0.1.0,linyuan,,8316,测试port是否可用和随机一个port并测试。
+2026-11-22T01:46:49Z,sosmed-scanner,0.4.0,Nuzuli,MIT,23080,"Check whether a username exists on public profile pages - 20 platforms, zero dependencies (Python standard library only)."
+2026-11-22T01:47:26Z,pikkolo,0.1.0,,MIT,20887,Fabricate and assemble a PCB with Pikkolo from the command line. Built for AI agents.
+2026-11-22T01:47:26Z,qupai-lab,0.2.0,QuSpect,MIT,62291,The QuPai Lab SDK: work a QuPai lab's instruments from Python scripts through InstruCore's REST API.
+2026-11-22T01:49:30Z,pgfanout,0.0.1,,,2801,"Parallel logical dump/restore for PostgreSQL (placeholder release, under development)."
+2026-11-22T01:49:57Z,pilotdroid,0.6.1,,MIT,47817,Device-side UiAutomation agent — uiautomator2-compatible Python client (connect/click/query/scroll/stream)
+2026-11-22T01:55:17Z,agent-groupchat,0.1.0,MohammedAtya,MIT,165778,"A local group chat between you and your AI agents (Claude Code, Codex, Gemini CLI, Aider, any OpenAI-compatible API), with roles and real permissions."
+2026-11-22T02:00:19Z,bomlens-runner,1.15.1,SK Telecom,Apache-2.0,122572,Run the BomLens SBOM scan engine on Kubernetes or Docker from another program
+2026-11-22T02:01:54Z,adk-revsec,0.1.0,RevSec / RevUp AI LLC <hello@revupai.com>,Apache-2.0,39732,"RevSec for Google ADK: stop risky agent actions before they run, catch prompt injection and leaked data, and keep a record of what every agent did."
+2026-11-22T02:06:16Z,bpl-biosim,0.3.0,BPL Project,MIT,46601,BPL: a multi-scale biological programming and simulation language reference interpreter
+2026-11-22T02:09:13Z,sandbox-ai-sdk,0.1.0,Sandbox AI,Apache-2.0,26655,Python client for Sandbox AI: propose changes to business systems and read the decision
+2026-11-22T02:09:20Z,video-shot-budget,0.1.0,js-upup,MIT,6074,Allocate an integer clip duration across weighted storyboard beats.
+2026-11-22T02:12:58Z,cerebro-memory,0.2.0,cerebro-memory contributors,MIT,126807,"A local, read-only index over your Markdown notes and your AI agents' memories, served over MCP, with a tool that finds where they contradict each other."
+2026-11-22T02:13:39Z,pyfylr,0.1.0,"""David S. Cassell"" <davidscassell@gmail.com>",MIT,8657722,"Latent transition, latent class, and latent profile models. Release 1 uses the shared C++ EM core."
+2026-11-22T02:16:02Z,wholebodypose,2.0.2,"Cristian Lazo-Quispe, Renato Castro-Cruz, Mauricio Salazar-Espinosa, Gissella Bejarano",Apache-2.0 AND MIT,186520,"Unified whole-body (COCO-WholeBody, 133 keypoints) pose estimation with RTMPose, ViTPose and MediaPipe — ICMV 2025."
+2026-11-22T02:16:03Z,flowlayers,0.1.0,Atlahua Quiahuitl Martínez Obregón,MIT,30723,"Fast probabilistic traversal of connectomes (Schlegel et al. 2021 information-flow layers), on CPU or GPU"
