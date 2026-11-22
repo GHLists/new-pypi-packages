@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T05:20:15Z,whowhen-rag,0.1.0,Rahul Bansal,MIT,81804,"Detect time and author filters in RAG queries, cheaply: a free regex gate, a yes/no classifier, and your LLM only when a filter is likely."
+2026-11-22T05:23:03Z,eigenscope-sdk,0.2.16,"Aikhomu L F Okoedion, Guardian AI Inc.",Apache-2.0,135333,"EigenScope Open-Core Python SDK (decompose/rehydrate), RAG/tool quarantine adapters, multimodal helpers, and TransformerLens/pyvene subspace hooks"
+2026-11-22T05:23:38Z,glypharis,1.0.0,DuhItzAniket,Apache-2.0,1009590,Lightweight OCR engine for document images: text-line detector + CTC line recognizer.
+2026-11-22T05:24:57Z,langchain-qubrics,1.0.0,,MIT,12512,LangChain toolkit for the Qubrics email API for AI agents.
+2026-11-22T05:27:32Z,sqlalchemy-materialize,0.1.3,,,12421,
+2026-11-22T05:31:13Z,codie-util-twisted,0.1.0,,MIT,11910,
+2026-11-22T05:31:35Z,levier-runtime,0.1.0,,,59248,Minimal Python SDK for Levier runtimes
+2026-11-22T05:32:28Z,git-security-sentinel,1.2.0,Ayush Kumar,MIT,163831,"Deterministic, privacy-first Git security scanner with 47 detection rules, false-positive suppression, and zero external runtime dependencies."
+2026-11-22T05:36:04Z,watchtower-observability,0.1.2,,Apache-2.0,139147,Thin Watchtower distribution over the OpenTelemetry Python SDK
+2026-11-22T05:42:35Z,teleport-tap-sdk,0.1.0,"Teleport Ecosystem, LLC",MIT,110515,"Teleport TAP API for Python: post physical work, route it, verify it, get Teleport PoPW receipts (Proof of Physical Work, anchored on Base), and check signed webhooks."
+2026-11-22T05:42:47Z,qrpack,0.1.0,Arsen Toktarbek <216891376+arsentis@users.noreply.github.com>,MIT,88218,Pack a folder into printable QR codes and restore it from a photo.
+2026-11-22T05:44:50Z,mibo,0.1.0,Qiankang Wang,Apache-2.0 AND MIT AND BSD-2-Clause AND CC-BY-NC-SA-4.0,12004617,"An AI companion that lives on your desktop: a character that talks with you, remembers you, and acts for you on the web, in other programs and in your files, asking only when an action needs your dec…"
+2026-11-22T05:51:18Z,arapy,0.0.1,aaltatan,MIT,9427,"Strongly typed Arabic text, number and date tools: tafqeet, digits, normalization, sorting, ordinals, dates and shaping."
+2026-11-22T06:01:32Z,strsc,0.4.0,,MIT,552848,Reproducible-signal correlation (RSC) for spatial transcriptomics predicted from histology
+2026-11-22T06:03:36Z,llmgui,0.1.0,,MIT,36782,llama.cpp 的终端交互前端：模型选择、参数调节与带速度统计的流式对话
+2026-11-22T06:05:18Z,watchtower-lite,0.1.0,,Apache-2.0,19228,Zero-dependency Watchtower client (OTLP/HTTP JSON) for small Python services
+2026-11-22T06:07:34Z,citebound,0.2.0,,Apache-2.0,84789,"Bind every claim an LLM makes to the passage it cites. Deterministic, dependency-free verification for RAG and agent answers: every number and citation checked against the retrieved context, wrong ci…"
+2026-11-22T06:07:45Z,neuroprix-rs,0.1.0,NeuroPrix <support@neuroprix.com>,Apache-2.0,1492977,"Optional: NeuroPrix's race engine in Rust, for faster training with the neuroprix SDK. Same results as neuroprix.engine, step by step."
+2026-11-22T06:09:56Z,lancelotwatch,0.1.0,Lancelot,MIT,39063,"Report per-customer AI usage to Lancelot. Wraps the OpenAI and Anthropic Python clients. No dependencies, never raises, never sees prompt content."
+2026-11-22T06:10:53Z,citebound-mcp,0.2.0,,Apache-2.0,42654,"MCP server that fact-checks an LLM answer against its source passages before the user sees it: every number and citation verified, wrong citations fixed, unsupported sentences removed. Local, determi…"
+2026-11-22T06:12:03Z,vikshep-quantum,0.1.0,Samvardhan Singh,AGPL-3.0-or-later,2401745,"Deterministic quantum state-vector simulator: bit-identical results on every platform, with provenance"
+2026-11-22T06:12:46Z,phase-locked-loop,0.1.0,,MIT,77552,exact rational pacing and clock following
+2026-11-22T06:14:42Z,tree-sitter-lpc,0.1.0,Daniel McCarney <daniel@binaryparadox.net>,MIT,421931,Grammar for the LDMud dialect of LPC
