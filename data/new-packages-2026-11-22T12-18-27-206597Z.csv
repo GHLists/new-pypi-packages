@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T11:19:19Z,bbarolo,2.0.0,Enrico Di Teodoro <enrico.diteodoro@gmail.com>,GPL-3.0-or-later,1228040,3D-Barolo (BBarolo): 3D tilted-ring fitting of emission-line datacubes
+2026-11-22T11:20:17Z,pretalx-peertube,3.1.1,"Tobias Kunze <r@rixx.de>, Jozef Mlich <jmlich83@gmail.com>",Apache Software License,58485,Show Peertube videos embedded on talk pages. Set URLs manually or via API.
+2026-11-22T11:24:34Z,minimindslab-csv-header-dedupe,0.1.0,MiniMindsLab,MIT,6692,Deduplicate repeated CSV header names with stable suffixes so downstream code can safely address columns without ambiguity.
+2026-11-22T11:24:50Z,finget,1.0.0,Finget <support@finget.ir>,MIT,15449,Official Python SDK for the Finget passwordless login and notification API
+2026-11-22T11:27:07Z,moduro,0.0.1,pratikpatil,Apache-2.0,353221,Composable execution and evaluation of robotics autonomy algorithms
+2026-11-22T11:32:20Z,sth-analysis,0.3.0,IFT - TU Wien <trautner@ift.at>,MIT,445377,CIRP Sensory Toolholder (STH) Normalization & Analysis Tools
+2026-11-22T11:34:57Z,vallox-modbus,0.1.0,Tra1n84,MIT,36266,Vallox MV Modbus device library
+2026-11-22T11:36:32Z,udlex,1.0.1,Maksim Kleshchenok,MIT,17481819,Fast dictionary lemmatizer with a Rust core
+2026-11-22T11:38:16Z,vs-security-db,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",85508,vs-db persistence adapters for vs-security store contracts
+2026-11-22T11:38:52Z,ragbench-ai,0.4.0,RAGBench Contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1322176,"Layered, independent, auto-chainable RAG framework: ingestion -> chunking -> embedding -> vector store -> retrieval -> reranking -> generation -> evaluation."
+2026-11-22T11:39:24Z,sru-generator,1.0.0,Nikos Paximadakis <nikos.paximadakis@gmail.com>,MIT,115838,Generate Swedish Skatteverket SRU files (INFO.SRU + BLANKETTER.SRU) for the K4 capital-gains form.
+2026-11-22T11:44:59Z,hippo-mcp,0.2.3,cstksniper <cstksniper@qq.com>,MIT,1821389,"Long-term memory backend for AI hosts over MCP: 4-layer memory, slot-based context assembly, cascade-safe forgetting, CfC temporal encoding"
+2026-11-22T11:44:59Z,pymeinverein,0.0.2,Klaas Weyermann,GPL-3.0-or-later,287740,Async Python client for the (unofficial) WISO MeinVerein Web API
+2026-11-22T11:45:11Z,pretalx-gitlab-trigger,1.0.0,Jozef Mlich <jmlich83@gmail.com>,Apache Software License,11162,"Start a GitLab pipeline when the schedule, slides or PeerTube links change."
+2026-11-22T11:46:06Z,fly-ruler-ros2,0.1.0,windlx,MIT,267898,FlyRuler ROS2 节点封装与命令行工具
+2026-11-22T11:46:44Z,seamsplit,1.2.0,ndhn27,MIT,395641,"Split audio into overlapping chunks for AI stem separation, then merge them back with a crossfade."
+2026-11-22T11:47:45Z,bind-zone-sync,0.2.1,Lex SysKo,MIT,21992,Sync BIND zone configs between primary and secondary servers
+2026-11-22T11:48:03Z,penhin,0.1.1,penhin contributors,MIT,240760,"A lightweight, embeddable agent core with composable capabilities and in-process plugins."
+2026-11-22T11:54:48Z,modelquorum,0.0.1,VISCONSULT,MIT,6784,"Pointer to modelquorum, which is distributed through npm: checks for Node.js and prints the install command."
+2026-11-22T11:58:06Z,azrvus-dev-toolkit,0.1.0,azrvus,MIT,68672,Dependency-free Python utilities and local JSONL validation for LLM evaluation datasets.
+2026-11-22T12:01:45Z,cobalto,0.8.0,"Fabian Baptista, Abstracta",Apache-2.0,213637,Portable unit testing for COBOL
+2026-11-22T12:03:40Z,justybase-db2,0.1.0a1,Krzysztof Dusko,MIT,379506,Native IBM Db2 LUW driver for Python speaking DRDA/DDM directly over TCP/TLS
+2026-11-22T12:10:58Z,flagcheck,0.2.0a1,Parth Agrawal,MIT,45040,"Conservative, schema-driven command-line flag linter"
+2026-11-22T12:13:53Z,pliable-lasso,0.1.0,Lucas Morin,BSD-3-Clause,224289,Pliable lasso regression and binary classification
+2026-11-22T12:14:25Z,napari-qrcode-barcode-scanner,0.1.0,"Thibaut Mélen, Nicolas Cella",MIT,31232,Read the QR codes and barcodes of a napari image layer with the QR Code & Barcode Scanner engine.
