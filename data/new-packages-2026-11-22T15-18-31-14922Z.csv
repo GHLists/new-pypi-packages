@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T14:19:45Z,kc-config-templater,0.1.1,m13t,MIT,48548,"Structurally discover and templatize secrets in keycloak-config-cli realm exports, so they never need to be hand-mapped or committed to git."
+2026-11-22T14:26:23Z,winmsgbox-api,0.1.0,admin,MIT,3709,"Native Windows MessageBox via WinAPI (ctypes, no tkinter)"
+2026-11-22T14:27:46Z,service-autopilot-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15732,"Connect Service Autopilot to ChatGPT, Claude and other AI agents through the unofficial Cotlet.dev MCP bridge."
+2026-11-22T14:28:16Z,GOTDiff,0.1.0,GOTDiff Developers,MIT,46852,"Differentiation path / trajectory inference via geodesic distance on the Grassmann manifold, with AnnData support."
+2026-11-22T14:28:48Z,cdx-dock,2.1.0,"""Cantor Labs (CDX Enterprise Team)"" <support@cdxengine.com>",Commercial / 30-Day Zero-Key Sandbox,31251618,"Enterprise AI Agent Interoperability, Multilingual Arbiter, Lossless CDX-Tab & Parallel 10K||2K VaultPack SDK (v2.1.0)"
+2026-11-22T14:33:56Z,reputecast,1.8.1,The ReputeCast authors,AGPL-3.0-only,5021081,"The ReputeCast API client for Python: typed operations, retries, RFC 9457 errors and webhook verification."
+2026-11-22T14:34:10Z,puspa,0.1.0,,Apache-2.0,2212769,PuspaBot — a personal AI agent you run yourself
+2026-11-22T14:35:12Z,arapy-cli,0.1.0,aaltatan,,22876,"Arabic amounts in words (تفقيط), digits, normalization, sorting, ordinals and dates, from the command line."
+2026-11-22T14:36:10Z,oadspython,0.1.0,Realm,MIT,629103,oads — Realm dataset packs and loaders for OA
+2026-11-22T14:36:18Z,gepetto,0.1.1,Gepetto <contact@gepettoapp.com>,MIT,27892,"The official Python SDK of the Gepetto API v2: real estate photo editing. Enhance, declutter, furnish, blue sky, restyle, walls and floors, upscale."
+2026-11-22T14:36:38Z,gr8mail,0.1.0,thegr8labs,MIT,15610,Official Python SDK for Gr8Mail: send email from your own domain by API.
+2026-11-22T14:41:27Z,minecraft1345,0.0.1,Artur Peroshkow <Peroshok228@gmail.com>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",2743,Minecraft eto moja shyzn
+2026-11-22T14:44:07Z,minecraft13456,0.0.1,Artur Peroshkow <Peroshok228@gmail.com>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",2755,Minecraft eto moja shyzn
+2026-11-22T14:45:01Z,mac-diagnostics-mcp,0.5.0,Thomas Juul Dyhr,MIT,136592,FastMCP server exposing macOS diagnostic scripts as MCP tools
+2026-11-22T14:45:05Z,gnsswire-antex,0.1.0,Trace Navigation,MIT,55607,"ANTEX 1.4 antenna calibration files (phase centre offsets and variations), read and written losslessly as fixed-column text fields."
+2026-11-22T14:45:06Z,gnsswire-grib,0.1.0,Trace Navigation,MIT,200426,"GRIB edition 2 messages (WMO FM 92): sections, templates and the packed grid point values as integers, read and written losslessly."
+2026-11-22T14:45:07Z,gnsswire-ionex,0.1.0,Trace Navigation,MIT,213588,"IONEX 1.0 ionosphere map files (TEC, RMS and height maps, differential code biases), read and written losslessly as fixed-column text fields."
+2026-11-22T14:45:10Z,gnsswire-tro,0.1.0,Trace Navigation,MIT,41383,"SINEX_TRO troposphere files (versions 0.01 and 2.00): zenith delays, gradients and their description, read and written losslessly as text fields."
+2026-11-22T14:50:15Z,scrapeplanner,0.1.0,Siddharth Kumar,MIT,119513,"Give it a URL; it reports the cheapest reliable, polite way to collect that site's data."
+2026-11-22T14:50:27Z,crewai-seedance,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,,571089,Seedance by Ace Data Cloud: native CrewAI video generation and same-task retrieval tools
+2026-11-22T14:51:08Z,easy-tiler,1.0.3,Joseph Barraud,,33944,Library for tiling and patterns
+2026-11-22T14:52:20Z,importfrommyharness,0.1.1,shulkwisec,MIT,26174,Import config from one AI-coding harness into another
+2026-11-22T14:55:05Z,reachreel,0.3.0,Tercel,Apache-2.0,341230,Fully local video narration pipeline: Ollama VLM -> script -> Kokoro TTS -> Whisper subtitles -> BGM ducking -> FFmpeg
+2026-11-22T14:56:19Z,stacklatch,0.1.0a1,StackLatch contributors,MIT,155615,Bounded analysis and verified integration of pinned Python repositories
+2026-11-22T14:56:20Z,ovos-control-panel-mark1,0.1.0a1,Andreas Lorensen,Apache-2.0,90994,"ovos-control-panel extension: draw the Mark-1's mouth and eyes, animate them, and update the faceplate firmware"
+2026-11-22T14:56:27Z,crewai-happyhorse,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,,569940,HappyHorse by Ace Data Cloud: native CrewAI video generation and same-task retrieval tools
+2026-11-22T14:56:29Z,crewai-gpt-image,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,,569801,GPT Image by Ace Data Cloud: native CrewAI image generation and same-task retrieval tools
+2026-11-22T14:56:33Z,crewai-nano-banana,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,,569571,Nano Banana by Ace Data Cloud: native CrewAI image generation and same-task retrieval tools
+2026-11-22T14:58:27Z,nyc-shsat-cutoffs,1.0.0,shsatpracticetest <trieuly@shsatpracticetest.net>,MIT AND CC-BY-4.0,18788,"NYC Specialized High Schools Admissions Test (SHSAT) offer cutoff scores for eight schools, admission years 2012–2026."
+2026-11-22T14:58:51Z,assist-live-client,0.1.0a1,,Apache-2.0,22841,
+2026-11-22T15:03:00Z,mapwright-agent,0.2.0,,MIT,5306894,"A live map of what your coding agent is building: structure, architecture, data, cloud, logic and every step, readable by the agent for a fraction of the tokens."
+2026-11-22T15:04:28Z,notepad-launcher,0.1.0,,MIT,1672,Opens Notepad
+2026-11-22T15:05:30Z,mediakit-cli,0.1.4,mediakit contributors,MIT,93220,"Agent-friendly CLI for watching videos, analyzing music, subtitling, dubbing and beat-synced editing."
