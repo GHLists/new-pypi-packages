@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T08:21:23Z,portweights,0.1.1,,MIT,14374,"Deploy LoRA adapters as private, OpenAI-compatible APIs on Portweights."
+2026-11-22T08:21:27Z,mainspring,3.3.0,,MIT,129281,"Mainspring: a business-agnostic agent runtime (Plan → Decide → Execute → Observe loop) with plugins, skills, tools, and memory."
+2026-11-22T08:24:44Z,drover-ai,0.0.1,,,1238,Reserved for drover.
+2026-11-22T08:25:03Z,flash-softdtw-torch,0.1.0,Feiteng Li,Apache-2.0,50631,"Fast, memory-lean soft-DTW for PyTorch (CUDA + CPU), with banded alignment."
+2026-11-22T08:27:27Z,ghostbooking,0.1.1,MedAmine-SUDO,MIT,84790,"Clears ghost bookings from a shared Excel room-booking file every morning and reminds people on Slack, Teams, Discord or email."
+2026-11-22T08:28:04Z,aee-verifier,0.2.0,Roberto Locatelli,Apache-2.0,271499,"Verifier for the in-toto predicate Adversarial Execution Evidence (v0.7), standard library only"
+2026-11-22T08:30:18Z,fakeplc,0.1.0,DanShinde,MIT,60778,"A fake PLC for your test suite: one YAML file, OPC UA and Modbus TCP, with a pytest plugin."
+2026-11-22T08:33:46Z,lucidscope,0.0.1,LucidScope,GPL-3.0-only,3023,Namespace placeholder for LucidScope (澄镜). Reserved to prevent name squatting.
+2026-11-22T08:34:27Z,cfg-tools-python,1.0.1,kris_or_sasha <aivliev782@gmail.com>,,41834,cfg-tools for python
+2026-11-22T08:37:23Z,czytajpdf,0.4.0,,Apache-2.0,44904,Page-wise Polish and English PDF text extraction with optional OCR and spelling repair
+2026-11-22T08:37:42Z,readpdf-pl,0.4.0,,Apache-2.0,13463,Page-wise Polish PDF text extraction with optional OCR and spelling repair (powered by CzytajPDF)
+2026-11-22T08:37:47Z,readpdf-en,0.4.0,,Apache-2.0,13572,Page-wise English PDF text extraction with optional OCR and spelling repair (powered by CzytajPDF)
+2026-11-22T08:38:19Z,mcp-conformance,0.7.1,Tom F.,MIT,110213110,"Clause-by-clause Model Context Protocol conformance: record any MCP session, judge it against the specification, run the official suite"
+2026-11-22T08:40:54Z,dxf-io,0.1.0,Antoine Collet <antoine.collet5@gmail.com>,BSD-3-Clause,22572877,Fast Rust-based DXF mesh reader and writer (SOLID / 3DFACE) with optional PyVista support.
+2026-11-22T08:47:36Z,courseexe-realtime,1.0.1,Courseexe,,6602,Official Python Client and Server Publisher SDK for Courseexe Realtime Channels
+2026-11-22T09:01:43Z,BatchSlicer,0.9.2,Christopher Eslick,MIT,329488,"Batch-slice 3D models with OrcaSlicer, Creality Print or Bambu Studio using your own presets, and send the G-code to Klipper printers."
+2026-11-22T09:03:12Z,test-notepad,0.1.0,Local,MIT,4473,Launch Windows Notepad (notepad.exe)
+2026-11-22T09:03:28Z,metrics-claim-audit,0.1.0,,MIT,16512,Static audit of documentation claims against Prometheus-format wiring
+2026-11-22T09:03:37Z,rate-limit-claim-audit,0.1.0,,MIT,16498,Static audit of documented server-side request caps
+2026-11-22T09:03:45Z,search-claim-audit,0.1.0,,MIT,15731,Offline audit of documented query-matching capabilities
+2026-11-22T09:03:53Z,websocket-claim-audit,0.1.0,,MIT,16701,Offline static audit of documented framed socket capabilities
+2026-11-22T09:03:56Z,jt-memory,0.1.0,Shrishant Jha <shrishant@example.com>,,5299,Emotion-guided continual memory engine for AI chatbots and agents.
+2026-11-22T09:04:32Z,luca-litellm,0.1.0,Luca <hello@luca.network>,Apache-2.0,21927,"Send the cost of each LiteLLM call to Luca for accounting, without prompts or responses"
+2026-11-22T09:07:46Z,skillcheckup,0.3.5,,MIT,27275,"Audit the AI skill files installed on your machine for validity, security risks, conflicts, and token cost."
+2026-11-22T09:10:24Z,lia-module-validateur,0.0.1,,MIT,2068,Nom réservé. Ce paquet ne contient rien : l'outil du même nom est distribué par un registre privé.
+2026-11-22T09:11:49Z,softcache,0.1.0,,MIT,31430,"SoftCache: training-free caching with adaptive jumps for FLUX.1-dev, HunyuanVideo and Wan2.1."
+2026-11-22T09:12:07Z,agentkeel,0.0.1,Ashutosh Kumar Rao,,2165,"The open-source stability layer for AI agents. Early design, not ready for use yet."
+2026-11-22T09:15:54Z,sva2yosys,0.1.0,Sergey Verlan,MIT,383467,Lower concurrent SystemVerilog Assertions into plain SystemVerilog monitors for the open-source Yosys/SBY formal flow
