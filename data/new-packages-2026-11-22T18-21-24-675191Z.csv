@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T17:07:55Z,mcp-server-mealie,1.0.1,Mark Arslan,"MIT License Copyright (c) 2026 Mark Arslan Permission is hereby granted, free of charge, to any per…",25302,"MCP server for Mealie: recipes, meal plans, shopping lists, categories, tags, foods and units"
+2026-11-22T17:20:29Z,uview,0.0.1,,MIT,27382833,"A terminal UI for uv, the Python package manager"
+2026-11-22T17:22:48Z,browser-use-datacircle,0.1.0,,MIT,17595,browser-use actions for the Datacircle API: find the best GTM APIs
+2026-11-22T17:24:31Z,pitmap,0.0.0a4,Leonid Shpaner,MIT,10173,"Surface construction from scattered survey points for open-pit mine surveying: polygonal, sector IDW, polynomial, NURBS and kernel interpolators, with prism volumes."
+2026-11-22T17:24:52Z,disc-badger,0.0.0,Dryw Wade Clere,GPL-3.0-or-later,26946,"Rips scratched DVDs, Blu-rays, and 4K UHDs."
+2026-11-22T17:25:00Z,mimic-tabular,0.1.4,Fabrizio Costa,MIT,193845,"MIMIC Tabular: modular inference for missingness, inconsistency, and creation."
+2026-11-22T17:25:32Z,keel-voice-sidecar,0.2.1,Keel <hello@keelapi.com>,Apache-2.0,178892,Observation-only Keel evidence sidecar for voice agents
+2026-11-22T17:28:27Z,agent-evidence-a2a,0.1.0,,Apache-2.0,134818,"Verify A2A agent card signatures over the bytes the server sent, with the a2a-jcs-v01 vectors, a 43-card corpus and a 42-URL webhook SSRF corpus"
+2026-11-22T17:31:53Z,layerpool,0.1.0,abdallah-swe,MIT,324420,"Train one model on all of your devices: layers split across GPUs, Apple Silicon and CPUs, with your own training code."
+2026-11-22T17:33:08Z,ebiblio-client,0.1.0,eBiblio Client contributors,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",85992,Cliente Python sin dependencias externas para buscar en catálogos eBiblio compatibles.
+2026-11-22T17:33:50Z,agentgaterunner,0.2.0,,Apache-2.0,296979,"Open-model agent runners with platform bots, plus the handoff contract consumed by agentorchestrator"
+2026-11-22T17:34:33Z,neuroprep-agentic,0.5.0,Salma Hassan,PolyForm-Noncommercial-1.0.0,705290,Dataset-agnostic agentic control plane for multimodal neurodata ingestion and preprocessing
+2026-11-22T17:35:39Z,tcp-sansio,0.1.0,Angelo Herrera,MIT OR Apache-2.0,3290820,"A Sans-I/O TCP stack for Python, powered by smoltcp"
+2026-11-22T17:36:01Z,ostrict,0.4.0,Son Chau <46123450+noscn@users.noreply.github.com>,Apache-2.0,154327,"Strict semantic-view linter and deterministic, FinOps-safe SQL compiler with an MCP server for AI data agents."
+2026-11-22T17:36:49Z,pretix-sattleme,1.0.0,sattle.me,MIT,261221,Bitcoin payments (Lightning and on-chain) for pretix with sattle.me: paid straight to the organizer's wallet.
+2026-11-22T17:38:32Z,generic-remote-graphql,0.0.3b4806,Circles,MIT,23328,PyPI generic-remote-graphql Python Package owned by Circlez.ai
+2026-11-22T17:39:23Z,django-admin-filemanager,1.0.0,Andrey Novikov <novikov@gmail.com>,MIT,70119,File manager in the Django admin for the files that HTML text links to
+2026-11-22T17:39:37Z,django-server-errors,1.0.0,Andrey Novikov <novikov@gmail.com>,MIT,47059,"Server errors of a Django site, grouped and triaged in the Django admin"
+2026-11-22T17:40:05Z,shadowset-runtime,0.1.0a0,Shadowset contributors,Apache-2.0,448848,Shadowset agent memory runtime: loopback daemon exposing the /v1 wire contract
+2026-11-22T17:48:53Z,llama-index-tools-polias,0.1.0,Polias <hallo@polias.eu>,MIT,12057,llama-index tools polias integration
+2026-11-22T17:52:15Z,getfreecarcheck,1.0.0,GetFreeCarCheck <hello@getfreecarcheck.co.uk>,MIT,7592,"UK car data API client: car reliability, MOT history and common faults, mileage, recalls, CO2, ULEZ and car tax from over 100 million DVSA MOT tests."
+2026-11-22T17:56:45Z,tegkit,0.3.0,Aysel Elshenawy,MIT,29288,"Small, dependency-free toolkit for modelling thermoelectric generators (TEGs)"
+2026-11-22T17:57:48Z,talkaty,1.2.2,Dream-Pixels-Forge,MIT,40748,"Terminal-native TTS voiceover tool — script.md to audio in any accent, via CLI or MCP."
+2026-11-22T18:00:17Z,mopux,0.1.0,Mopux <support@mopux.com>,MIT,75753,Official Python SDK for the Mopux API
+2026-11-22T18:00:50Z,multicloud-security-mcp,1.0.0,Mahendran Selvakumar,MIT,10191,"Multi-Cloud Security MCP Server — unified security visibility across AWS, Azure, and GCP for AI agents and Claude Desktop"
+2026-11-22T18:01:43Z,whydiff,0.0.1,ALEKSEI DONSKIKH <donskikhalexey@gmail.com>,MIT,7239,Diff tables across databases and explain why they differ.
+2026-11-22T18:01:55Z,ashemail-sdk,1.0.0,,LicenseRef-Proprietary,29027,Official Python SDK for the Ashemail Public API v1. Types are generated from docs/openapi/openapi.json; never hand-edit generated_types.py.
+2026-11-22T18:01:58Z,hapti,0.2.0,,MIT,15695,"Hapti: an agent that does tasks on any website by sight, paid only when it succeeds"
+2026-11-22T18:05:03Z,oqllm-proxy,0.8.2,,CLONERD / WELLMANIFEST PROPRIETARY SOURCE CODE LICENSE & STRICT ANTI-AI / ANTI-MINING RESERVATION O…,722465,High-throughput multi-format reverse proxy for POA and LLM decisions
+2026-11-22T18:08:53Z,almasi,0.1.0,,Apache-2.0,149412,A filesystem-native Python runtime for composing libraries.
+2026-11-22T18:10:30Z,academia-dl,0.0.1,Antigravity & Q.S@RDOR,MIT,48395,"Fast, stealth research paper downloader, search engine, and citation generator for Academia.edu"
+2026-11-22T18:12:18Z,langgraph-phm-guard,0.1.0,PHM-Audit,MIT,5255,"Deterministic physics/bounds tool-call guard for LangGraph ToolNode (wrap_ interceptor, no LLM in the judging path)"
+2026-11-22T18:12:47Z,tas-kernels,0.1.0,NevermindNilas,"Proprietary (TAS-Kernels License 1.0, see LICENSE)",45886060,"Native CUDA kernels for the Compact, SPAN, CUGAN and RealPLKSR upscalers, for use inside TheAnimeScripter only"
+2026-11-22T18:14:53Z,evidence-driven-qa,0.1.0,Daniel Ariza,MIT,35463,"Open-source API surface discovery, indexed QA test design and MCP agent tooling"
+2026-11-22T18:16:36Z,mhm-qgis,0.1.0,Sanjeev Bashyal <sanjeev.bashyal@ufz.de>,"# SOFTWARE LICENCE mHM-QGIS is a QGIS plugin and standalone application to prepare, configure, run…",1897092,"Prepare, configure and run mHM 5.13 and v6 models in QGIS or as a standalone app"
+2026-11-22T18:17:59Z,ferrochart,0.3.0,,Apache-2.0,4233862,"Fast financial charts: candlesticks, indicators and drawings, rendered on the GPU"
+2026-11-22T18:18:25Z,ModularRagByLangChain,0.1.0,,,3957,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-22T18:19:43Z,videolens-mcp,0.3.1,TheRookies,MIT,43943,"Give your AI eyes on video: YouTube-first MCP server for research, comments, transcripts, frames, OCR and local Whisper. No API key."
+2026-11-22T18:19:50Z,agentbuildkit-templates,0.2.0,AgentBuildKit,Apache-2.0,361978,First-party Customer Service and Operations Reporting templates for AgentBuildKit.
