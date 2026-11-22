@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T20:18:38Z,logging-suite,0.7.0,C. James Ekhator,Apache-2.0,504359,"Composable mixins for Python services: logging, sensitive data classification, retry logic, latency measurement, and notifications."
+2026-11-22T20:19:35Z,fxbasic,0.1.0,NeftaliGC,GPL-3.0-or-later,117653,"Envía programas Casio BASIC a calculadoras fx-9860G/fx-9750GII por USB (Protocol 7.00), sin FA-124 ni Windows."
+2026-11-22T20:21:12Z,crispllm,1.1.0,Dhanush Veerla,MIT,184053,Lightweight unified memory & context proxy for AI coding on weak hardware
+2026-11-22T20:21:31Z,kenso,0.1.84,,MIT,4607821,"The official Kenso API client for Python, generated from the public OpenAPI document"
+2026-11-22T20:22:33Z,py2mqtt,0.0.2,,MIT,1021700,There is a bit of an air of mystery around this project...
+2026-11-22T20:22:38Z,nador,1.0.0,Yassir Amami,BSD-3-Clause-Clear,246226,NADOR: monitoring and experiment artifacts for IFRAN
+2026-11-22T20:23:47Z,linting-suite,0.6.0,James Ekhator,Apache-2.0,160998,"Consolidated Python linter with R001-R015 rules for DTO discipline, module structure, typing compliance, constants enforcement, and formatting standards."
+2026-11-22T20:26:05Z,tandempdv,0.1.3,ProCogia,MIT,21251,"Keep SAS labels, formats, informats and lengths intact as data moves between SAS, R and Python."
+2026-11-22T20:26:06Z,tandemparity,0.1.1,ProCogia,MIT,18656,"Compare SAS, R and Python results with one call."
+2026-11-22T20:26:07Z,tandemverse,0.1.1,ProCogia,MIT,11257,Load the tandemverse suite and report the SAS connection and PROC R / PROC PYTHON availability.
+2026-11-22T20:26:37Z,prsmfile,0.1.0,,MIT,172516,Read GraphPad Prism .prism files (results and data tables) without Prism
+2026-11-22T20:27:47Z,tandemrunrecord,0.1.2,ProCogia,MIT,26407,"One provenance record per run: language and package versions, options, inputs and outputs with checksums."
+2026-11-22T20:27:48Z,tandemhandoff,0.1.2,ProCogia,MIT,28054,Experimental: turn SAShiny contracts into AI tools with a policy and a hash-chained audit trail.
+2026-11-22T20:27:53Z,tandemlogbook,0.1.1,ProCogia,MIT,17035,"SAS log as a table: one row per line with type, step, line number and text."
+2026-11-22T20:28:04Z,num-tech-py,0.1.0,,,19355,"Numerical technique scripts (bisection, Lagrange, Simpson, ...) you can import, print and run"
+2026-11-22T20:29:05Z,tandemdeploy,0.1.4,ProCogia,MIT,73870,Publish SAShiny apps to Posit Connect and deploy them to cloud platforms.
+2026-11-22T20:33:07Z,radlab-data,0.0.4,RadLab <hello@radlab.dev>,Apache-2.0,117596,Text processing and modelling
+2026-11-22T20:34:04Z,rsijudge,0.0.1,,,2838,Evaluation SDK for agent post-training competitions (name reservation; the first functional release is coming soon).
+2026-11-22T20:34:44Z,lsdocs-plugin,0.1.0,,Apache-2.0 OR MIT,16651407,Write lsdocs plugins in Python.
+2026-11-22T20:36:35Z,tracebase-cli,0.3.0,Anshu Raj,LicenseRef-FSL-1.1-ALv2,85039,"CLI and MCP server for Tracebase: find code you already wrote in your old projects, copy it into the current one, and explain production errors."
+2026-11-22T20:39:37Z,otl-map,0.1.0,"""Machiel S. Bos"" <machiel.bos@teromovigo.com>",LicenseRef-otl-map,104486364,Global ocean tide loading maps with an FFT along latitude rows and a coastal near-field correction
+2026-11-22T20:44:37Z,exactor-cli,1.29.0,Exactor Research,Proprietary,35308,Exactor CLI & Python SDK — XOR-native Boolean minimization for ZK/FHE/MPC and EDA (https://exactor.tech)
+2026-11-22T20:45:13Z,oceanstream-echopype,0.11.1a3,Wu-Jung Lee,"Apache License, Version 2.0",2201596,"OceanStream's fork of echopype, the ocean sonar data library, as used by the oceanstream package"
+2026-11-22T20:45:24Z,kubedelos,0.1.0,The kubedelos Authors,Apache-2.0,466569,Scan the container images running in a Kubernetes cluster with Trivy
+2026-11-22T20:47:32Z,sendproof-flask,0.1.0a1,Sendproof contributors,MIT,23519,"Sendproof workbench, rollback previews and observed sends for Flask applications."
+2026-11-22T20:48:05Z,bambu-autoeject,0.1.0,,MIT,25829,"Chain prints on a Bambu Lab A1 and push each finished part off the bed, no extra hardware"
+2026-11-22T20:48:27Z,analects,0.0.1,The Analects contributors,Apache-2.0,2140,"Placeholder for Analects, an open research record. The first real release is on its way."
+2026-11-22T20:48:32Z,lia-module,0.0.1,,,1702,Nom réservé. Ce paquet ne contient rien : l'outil du même nom est distribué par un registre privé.
+2026-11-22T20:50:07Z,org-wiki,0.1.0,Kenan Sharifli,MIT,117603,"Turn any GitHub org into a self-updating engineering wiki with offline hybrid semantic search, Web UI, and MCP server."
+2026-11-22T20:50:13Z,civicbench,0.1.0,"Mert Onur Cakiroglu, Elham Buxton, Mehmet Dalkilic, Hasan Kurban",Apache-2.0,75560,"Load CivicBench and attack your own video detector with the benchmark's protocol (PGD, APGD and Square on the 8-bit grid)."
+2026-11-22T20:50:23Z,pyconflict,2.0.0,PyConflict Team,MIT,66646,Python Dependency Conflict Checker - Check before you install
+2026-11-22T20:52:57Z,snmpify,0.1.0,,MIT,6902406,"Fast, safe SNMP for Python: v1/v2c/v3 client (sync and asyncio), traps and informs, agent, MIBs, with a Rust core."
+2026-11-22T20:57:30Z,tychonic,0.2.3rc4,,MIT OR Apache-2.0,71498106,"Orbit determination, sensor fusion, and satellite acquisition backed by Rust"
+2026-11-22T20:59:42Z,streamsieve,0.2.0,,Apache-2.0,4732264,"SIMD C++20 multi-agent streaming inference, anytime-valid e-process monitoring, VOI firehose sifting, and echo-free CRDT belief fusion."
+2026-11-22T21:00:32Z,memanga,0.5.0,meellm,MIT,5065936,Automatic manga downloader with Kindle support
+2026-11-22T21:03:09Z,powerchannel,0.5.0,CynaCons,MIT,38838,"Named channels so AI agents in Claude Code, Codex, Cursor, Gemini CLI and Grok can message each other"
+2026-11-22T21:07:29Z,pygpumeta,0.1.0,"Emre Can Kuran, Umut Kuran, Ece Ecemiş",MIT,188249,GPU metaheuristics with warp-level selection operators for large-population optimisation
+2026-11-22T21:08:17Z,pysayme,0.1.0,Josh Bailey,Apache-2.0,98489,Find project code that duplicates functions or constants its dependencies already export
+2026-11-22T21:09:25Z,parse-html5,0.1.0,wispsy,MIT,20968,Source-preserving HTML5 parsing and safe typed HTML rendering
+2026-11-22T21:11:06Z,options-pricer,0.1.0,Iker Abad,MIT,57360,"European option pricing: Black-Scholes, Monte Carlo and SVI volatility calibration"
+2026-11-22T21:13:51Z,ai-video-preproduction-mcp,1.1.0,Ali Murtaza,MIT,182318,"MCP server for AI video pre-production: treatment decks, scripts, pre-production decks with storyboards, image prompts and shooting schedules."
+2026-11-22T21:18:12Z,edge-rs,0.1.0,Gregor Lueg <gregorlueg@me.com>,MIT,4912989,"edgeR and limma-voom differential expression for Python, in Rust."

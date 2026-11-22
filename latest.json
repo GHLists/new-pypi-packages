@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 49,
-    "from": "2026-11-22T19:18:23.912413Z",
-    "path": "data/new-packages-2026-11-22T20-19-22-45873Z.csv",
-    "to": "2026-11-22T20:19:22.45873Z"
+    "count": 42,
+    "from": "2026-11-22T20:19:22.45873Z",
+    "path": "data/new-packages-2026-11-22T21-18-23-08952Z.csv",
+    "to": "2026-11-22T21:18:23.08952Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-22T20:05:23Z",
       "package": "bal-biosim",
       "since": "2026-11-22T19:18:23.912413Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-22T19:22:04Z",
       "package": "ezclassify-rest-client",
       "since": "2026-11-22T19:18:23.912413Z",
@@ -22,20 +22,20 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-22T20:18:38Z",
-      "package": "logging-suite",
-      "since": "2026-11-22T19:18:23.912413Z",
-      "version": "0.7.0"
+      "created_at": "2026-11-22T20:48:52Z",
+      "package": "html-to-markdown-cli",
+      "since": "2026-11-22T20:19:22.45873Z",
+      "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-22T17:33:48Z",
       "package": "solblock",
       "since": "2026-11-22T17:19:17.585598Z",
       "version": "0.2.3"
     }
   ],
-  "serial": 44025332,
+  "serial": 44027185,
   "source_truncated": false,
-  "window": "2026-11-22T20:19:22.45873Z"
+  "window": "2026-11-22T21:18:23.08952Z"
 }
