@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T19:19:53Z,tiberio,0.2.2,Jens Rehpöhler,MIT,188710,"Alexa Smart Home Skill for home automation (TV, blinds, thermostats) via a self-hosted FastAPI server."
+2026-11-22T19:21:26Z,vtt-transcribe-server,0.1.0,JLCodeSource <JLCodeSource@gmail.com>,BSD-3-Clause,252070,"FastAPI server (users, OAuth, DB, job API) and web app built on the vtt-transcribe transcription package"
+2026-11-22T19:22:08Z,clubready-mcp,1.1.1,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,20091,"Connect ClubReady to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No ClubReady API key needed."
+2026-11-22T19:23:21Z,sharukh-tutor,1.0.1,Mezanur Rahman Sharukh <shahrukh01621@gmail.com>,MIT,855210,"Interactive hints, 324 diagnostic self-checks, and Public Health datasets for 'From First Line to First Paper' by Mezanur Rahman Sharukh."
+2026-11-22T19:23:39Z,shipswitch,0.1.0,Arnaud Nicastro <contact@shipswitch.io>,MIT,14239,Python SDK for ShipSwitch feature flags
+2026-11-22T19:24:36Z,vigicrues-client,0.2.0,Mathieu Cartoixa,MIT,35870,"Asynchronous Python client for Vigicrues, the French flood vigilance service"
+2026-11-22T19:26:09Z,auto-mas-maafw-adapter-kit,0.2.0,AUTO-MAS Team,AGPL-3.0-or-later,71360,MFW 三个专项共用的代码：属主入口、密码字段加密、默认任务队列、配置恢复池
+2026-11-22T19:27:56Z,timestral-tune,0.1.0,,Apache-2.0,729898,"Fine-tuning, selective LoRA, and conformal calibration for Mistral's Timestral time-series foundation models in PyTorch."
+2026-11-22T19:28:37Z,multicloud-costopti-mcp,1.0.0,Mahendran Selvakumar,MIT,10350,"Multi-cloud cost optimization MCP server for AWS, Azure, and GCP — unified FinOps visibility, rightsizing, waste detection, and savings recommendations for AI-powered IDEs and agents"
+2026-11-22T19:29:14Z,wargent,0.1.0,wargent contributors,MIT,115023,Offline command-line wargame to learn attacking and defending AI agents.
+2026-11-22T19:29:35Z,kgeval,0.1.0,iamzices,Apache-2.0,183890,An evaluation framework for knowledge graphs.
+2026-11-22T19:29:52Z,meshweb,1.0.0,,,57917223,"MeshWeb, but in Python!"
+2026-11-22T19:31:05Z,polarion-alm-mcp,1.6.0,Phillip Bösger,MIT,8357,"Polarion ALM MCP server launcher for requirements, LiveDocs, work items and test management"
+2026-11-22T19:36:59Z,zerobom-aws,0.1.0,zerobom Contributors,Apache-2.0,52118,"AWS Security Hub, Inspector2 SBOM, and S3 SBOM inventory backend plugins for zerobom."
+2026-11-22T19:37:00Z,zerobom-gcp,0.1.0,zerobom Contributors,Apache-2.0,47079,GCP Artifact Analysis and GCS SBOM inventory backend plugins for zerobom.
+2026-11-22T19:37:12Z,sporacast,0.2.0,,Apache-2.0,263785,Profile-guided forecasting for intermittent panels
+2026-11-22T19:38:29Z,serato-connect,1.4.6,Serato Connect Contributors,MIT,116706,"Library to read Serato DJ history files, parse GEOB metadata, access library database, and real-time monitoring via Serato Remote protocol"
+2026-11-22T19:38:50Z,wndsn-tycho,0.1.0,,MIT,58106,"Python client for the Tycho calculators at tycho.wndsn.com (sun, star, sight, moon, range, shadow, ...)"
+2026-11-22T19:39:20Z,sendproof-sqlalchemy,0.1.0a1,Sendproof contributors,MIT,28706,SQLAlchemy rollback previews and change capture for Sendproof.
+2026-11-22T19:39:22Z,sendproof-fastapi,0.1.0a1,Sendproof contributors,MIT,29265,"Sendproof workbench, rollback previews and observed sends for FastAPI and Starlette applications."
+2026-11-22T19:39:31Z,sendproof-core,0.1.0a1,Sendproof contributors,MIT,2194008,"Framework-neutral core of the Sendproof Python adapters: protocol, capture, trace store and embedded workbench UI."
+2026-11-22T19:40:24Z,agilis-ads,0.1.0,Agilis Dating Ltd <help@agilis.dating>,MIT,63887,"The official Python SDK for the Agilis Advertising REST API: Offers, Events and webhooks."
+2026-11-22T19:40:34Z,prograph,1.3.3,,Apache-2.0,2898721,A multi-language graph query engine for Python with multiple execution backends
+2026-11-22T19:42:57Z,sympldiff,1.0.0,Alvaro Garcia <alvaro.garcia.bme@gmail.com>,MIT,68355656,Universal Clinical Foundation Model for 3D Deformable Brain MRI Registration with Exact Zero Folding Guarantees and O(1) Reversible Autograd in PyTorch
+2026-11-22T19:43:38Z,zerobom-azure,0.1.0,zerobom Contributors,Apache-2.0,46297,Azure Resource Graph and Blob Storage SBOM inventory backend plugins for zerobom.
+2026-11-22T19:44:50Z,test16051991,0.1.0,,,2429,My test text library
+2026-11-22T19:45:32Z,pygments-jennifer,0.1.0,mplx <mplx@jennifer-lang.dev>,BSD 2-Clause License Copyright (C) 2026 mplx <mplx@jennifer-lang.dev> Redistribution and use in sou…,17983,Pygments lexer plugin for the Jennifer programming language
+2026-11-22T19:46:54Z,ainterlinked,0.1.1,Román Pérez Dumpert,Apache-2.0,29936144,"Real-time bus for AI coding agents across harnesses: Claude Code, Codex, Copilot, Cursor, Gemini, OpenCode and more"
+2026-11-22T19:47:16Z,linear-regression-package-yassamine,1.0.0,Student,,5289,A simple linear regression package
+2026-11-22T19:47:43Z,curesize,0.1.0,Enrico Shippole,,2179,Add your description here
+2026-11-22T19:47:59Z,scrapemapsapi,0.1.0,ScrapeMapsAPI,MIT,39576,"Official Python SDK for the ScrapeMapsAPI API: Google Maps places, details and reviews"
+2026-11-22T19:48:01Z,scrapemapsapi-mcp,0.1.0,ScrapeMapsAPI,MIT,119179,"MCP server for the ScrapeMapsAPI API: Google Maps places, details and reviews for AI assistants"
+2026-11-22T19:49:41Z,scrapecrate,1.0.0,ScrapeCrate,MIT,37286,"Official Python SDK for the ScrapeCrate API: YouTube, Google Maps, Trustpilot and Meta Ad Library data with one API key"
+2026-11-22T19:49:42Z,scrapecrate-mcp,1.0.0,ScrapeCrate,MIT,96552,"MCP server for ScrapeCrate: YouTube, Google Maps, Trustpilot and Meta Ad Library data as tools for AI assistants"
+2026-11-22T19:50:32Z,cutetils,0.1.0,Enrico Shippole,,2180,Add your description here
+2026-11-22T19:54:21Z,justrunme-airlock,0.1.0,Andrey Lesnikov,MIT,575265,Verified execution firewall for AI agents
+2026-11-22T19:55:55Z,twinops,1.5.1,Andrey Lesnikov,Apache-2.0,262126,GitOps control plane toolkit for industrial digital twins (OpenUSD compiler)
+2026-11-22T20:00:52Z,odoo-addon-import-metadata,20.0.1.0.0.1,Fluvo,LGPL-3,35231,Import the creation and last update user and date of records
+2026-11-22T20:01:32Z,agent-countersign,0.1.0,,Apache-2.0,39993,"An open governance layer for AI agents: policies, human approval, PII redaction, spend limits and a tamper-evident audit trail for every tool call."
+2026-11-22T20:04:12Z,ovos-control-panel-media,0.1.0a1,Andreas Lorensen,Apache-2.0,54392,"ovos-control-panel extension: what the device is playing, the queue, the volume, and the other matches for a request"
+2026-11-22T20:04:21Z,bumpcheck-py,0.1.2,Sushit-prog,,203320,Analyze whether a dependency bump will break your code.
+2026-11-22T20:04:40Z,airouter-py,0.1.0,airouter-py contributors,MIT,167377,"Route prompts across free-tier AI providers (Groq, Gemini, OpenRouter, Z.AI, SambaNova, Ollama, any OpenAI-compatible URL) with automatic failover. Supports text chat, TTS and STT. Python port of git…"
+2026-11-22T20:06:15Z,traktor-nml,0.1.0,,MIT,52296,Reconcile a Traktor collection.nml against the files it is meant to hold
+2026-11-22T20:07:44Z,traktor-mcp,0.1.0,,MIT,52626,"MCP tools for a Traktor collection, over the traktor-nml library"
+2026-11-22T20:07:54Z,bio-availability-language,0.5.0.dev1,BAL contributors,MIT,23609,Independent BAL language interpreter and bio-availability research runtime
+2026-11-22T20:09:53Z,structured-linear,0.1.0,Lucas Morin,BSD-3-Clause,100881,Structured linear models for regression and binary classification
+2026-11-22T20:12:48Z,ovos-control-panel-network,0.1.0a1,Andreas Lorensen,Apache-2.0,48479,"ovos-control-panel extension: whether the device is online, the Wi-Fi networks near it, and joining one"
+2026-11-22T20:15:01Z,recallix,0.2.0,,Apache-2.0,14362,"Python client and MCP server for Recallix, an LLM-free memory layer for AI agents"
+2026-11-22T20:16:55Z,odoo-addon-import-res-id,20.0.1.0.0,Fluvo,LGPL-3,26258,Link imported messages and attachments to records by XML ID
