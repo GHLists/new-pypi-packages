@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T17:48:19Z,pylabgruppen-ipx,0.1.0rc2,imstevenxyz,LGPL-3.0-only,26861,Asyncio client for controlling Lab.gruppen IPX amplifiers over the network
+2026-11-22T18:21:32Z,pyslicer,0.2.0,,MIT,164737,A RepRap STL slicer and GCode generator
+2026-11-22T18:25:52Z,video-to-context,0.5.1,Taewan Ham,Apache-2.0,89831,"Turn short videos into structured, timestamped text for LLMs: speech, on-screen text, and visual context."
+2026-11-22T18:27:03Z,connectsensors,0.1.0,Chris Uthe and ConnectSensors contributors,MIT,48016,"ConnectSensors protocol: frames, proxy envelope, server-side helpers and pairing codes"
+2026-11-22T18:29:51Z,schemasafe,0.2.0,,MIT,222006,"Preventive, read-only risk analysis of NoSQL schema changes (MongoDB, CouchDB, Cassandra): CLI, GitHub report, signed webhook and API."
+2026-11-22T18:30:02Z,support-chat-api,999.9.9,,,966,Stub package that mitigates Dependency Confusion attacks
+2026-11-22T18:30:07Z,stratforge,0.1.0,,MIT,284892,"Deterministic trading strategies: backtest, compare, promote to paper and live."
+2026-11-22T18:31:09Z,lunardyson,0.1.4,Thiago Ribeiro de Azeredo,Apache-2.0,5608488,Execution runtime for untrusted Luau programs that orchestrate tools
+2026-11-22T18:33:47Z,cloture,0.1.0,Cloture Contributors,MIT,3221044,"Sub-microsecond anytime-valid consensus stopping, correlated-panel auditing, and active prediction-powered racing for multi-agent AI systems."
+2026-11-22T18:35:10Z,agentic-sdlc-system,0.1.0,Ravi Shankar Kumar,MIT,461512,"A reusable local orchestrator that coordinates Codex and Claude Code through an end-to-end agentic SDLC: implement, review, test, repair, build, install on a phone, and collect human feedback."
+2026-11-22T18:36:18Z,audcore-aud-io,0.2.0,Audcore contributors,MIT,210519,Named shared-memory audio broadcast for Windows x86/x64
+2026-11-22T18:39:05Z,dataset-fingerprint,0.1.0,Raj Alamuri,Apache-2.0,136733,"A lockfile for training data: manifest-based dataset versioning, lineage and leakage checks for any modality (vision, audio, sensors, NLP, time series) on any storage (local, S3, Azure, GCS, Databric…"
+2026-11-22T18:40:08Z,lshorter,1.0.0,KONVELBO Samuel,MIT,14441,"Official Python SDK for LShorter — Ultra-fast Edge URL Shortener, Dynamic Routing, PathLock™, and Conversion Tracking."
+2026-11-22T18:44:19Z,financial-engines,0.1.0,,Apache-2.0,108957,"Four reusable simulation engines for quantitative finance research (research use only, not investment advice)"
+2026-11-22T18:46:19Z,getcsound,0.1.0,Eduardo Moguillansky <eduardo.moguillansky@gmail.com>,LGPL-2.1-or-later,84914,"Install Csound 7 from Python, with no runtime dependencies"
+2026-11-22T18:47:56Z,retrpy,0.1.0,aaltatan <a.altatan@gmail.com>,MIT,20355,"Retry and fallback as plans of attempts, composed with * and +."
+2026-11-22T18:48:42Z,straufi,0.1.0a1,Straufi Team,,86729,"Write trading strategies for the Straufi platform, and deploy them with the straufi CLI."
+2026-11-22T18:49:15Z,dqvouch,0.2.1,Flávio Silva,MIT,1596634,"An LLM proposes data quality tests, code validates them, you vouch for them."
+2026-11-22T18:49:28Z,aikernel-cuda-driver,0.1.4,Takuya Sogawa,Apache-2.0,180387,AIKernel Native C ABI with a dynamically loaded CUDA Driver backend
+2026-11-22T18:51:00Z,lshorter-api,1.0.1,KONVELBO Samuel,MIT,14480,"Official Python SDK for LShorter — Ultra-fast Edge URL Shortener, Dynamic Routing, PathLock™, and Conversion Tracking."
+2026-11-22T18:52:39Z,exactedit,0.0.0,Alan Tseng <langesant@outlook.com>,MIT,24529,"Generate and safely apply line-based JSON edit instructions, preserving line endings exactly."
+2026-11-22T18:54:31Z,eval-vla,0.1.0,,,51159,Add your description here
+2026-11-22T18:54:48Z,egrit-preflight,0.1.0,Neul Space Ltd,Apache-2.0,104016,"Free, open-source ARM64 container preflight checks for NVIDIA Jetson and edge AI development."
+2026-11-22T18:55:23Z,causalsieve,0.1.0,CausalSieve Contributors,"MIT License Copyright (c) 2026 CausalSieve Contributors Permission is hereby granted, free of charg…",725813,"Zero-dependency SIMD online multivariate causal discovery, exogenous root-cause localization, and lossless-recoverable stream digests for humans and AI agents."
+2026-11-22T18:55:33Z,dirichlet-regularization,1.0.0,Mario Raúl Carbonell Martínez <marioraulcarbonell@gmail.com>,MIT,64947,2D Dirichlet spatial regularization for neural network weights: inducing topographic smoothness for 2D-DCT spectral compression and Base-3 trit quantization
+2026-11-22T18:55:42Z,bitsworkbench,0.0.1,Firia Labs,MIT,3744,BitsWorkbench: an open-source blocks and Python coding environment from Firia Labs. Coming soon.
+2026-11-22T19:00:41Z,reindeer-sdk,0.3.0,,MIT,283126,"Reindeer Grand Prix: the official sleigh-racing engine in Python, plus tools to train, evaluate and submit bots."
+2026-11-22T19:01:41Z,nwmetalinks,1.0.0,numbworks,MIT,9284,A library designed to generate MetaLink 4.0 XML files.
+2026-11-22T19:02:18Z,disband,0.1.1,,MIT,48448,Python client for the Disband stem separation API
+2026-11-22T19:06:08Z,orange3-neuralviz,0.0.1,Chris Lee <github@chrislee.dhs.org>,CC-BY-NC-SA-4.0,67704,"Orange3 widgets for building, training and watching small neural networks, in the spirit of the TensorFlow Playground"
+2026-11-22T19:07:40Z,agent-security-contract,0.3.0,Andrey Lesnikov <52860508+justrunme@users.noreply.github.com>,Apache-2.0,83017,Fail-closed security contract for AI agents and MCP tool calls
+2026-11-22T19:08:10Z,command-payload,1.1.0,,MIT,41594,
+2026-11-22T19:08:58Z,pdg-mcp,0.1.0,,MIT,9907,MCP server for Provenance Data Grid — 20 data tools for AI agents
+2026-11-22T19:09:23Z,jinja-types,0.1.1,aaltatan,MIT,159849,Python type methods and attributes as qualified Jinja2 filters and tests.
+2026-11-22T19:09:38Z,pdg-langchain,0.1.0,New England Provenance LLC <support@neprovenance.com>,MIT,10903,"LangChain tools for the Provenance Data Grid API — compliance, entity, financial, and market data for AI agents"
+2026-11-22T19:11:55Z,fylgja-nautobot,1.1.0,,Apache-2.0,59028,"Fylgja's Nautobot reader: Nautobot as it stands read into a blueprint, or the findings that refused it."
+2026-11-22T19:14:20Z,aifunckit,0.2.0,Sasha Yuvko <sasha.yuvko2@gmail.com>,MIT,368464,"A lightweight, Python framework for AI task orchestration with deterministic pipelines and RAG-powered self-learning."
+2026-11-22T19:17:29Z,backfold,0.2.0,,Apache-2.0,9420298,"Persistent O(log T) associative-monoid engine for out-of-order, retractable, forkable online statistical inference and agent stream compression"
