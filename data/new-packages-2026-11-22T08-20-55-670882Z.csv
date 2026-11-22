@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T07:18:43Z,fvs-runtime,2027.1.1.0,,MIT AND CC0-1.0 AND blessing AND GPL-3.0-or-later WITH GCC-exception-3.1 AND LGPL-2.1-or-later,204530178,"Forest Vegetation Simulator (FVS) shared libraries for US variants, repackaged from fvs-build."
+2026-11-22T07:24:22Z,llama-index-postprocessor-ragdefender,0.3.0,SecAI Lab <for8821@g.skku.edu>,MIT,6813,LlamaIndex node postprocessor that removes poisoned passages with RAGDefender (ACSAC 2025)
+2026-11-22T07:24:26Z,lakshyapocketlab-hello,1.0.0,Lakshya Pocket Lab,MIT,45918,"Official Python SDK for Hello, the WhatsApp Business API. Send messages, templates and webhooks."
+2026-11-22T07:25:55Z,starcel,0.2.0a2,Nicholas Maleki,,2921825,Starcel: a Python-controlled 3D spreadsheet on Unreal Engine 4.27. Launcher + installer that downloads the latest build from GitHub into Documents\Starcel.
+2026-11-22T07:30:11Z,wealthnow,0.0.1,,MIT,2382,"Wealthnow SDK, coming soon."
+2026-11-22T07:31:28Z,usagemax,0.1.0,,MIT,15066,"Python client for UsageMax telemetry, gateway receipts, and usage reports"
+2026-11-22T07:31:36Z,pyv8c,0.2.0,,,73942016,A deterministic Chromium-like BOM/DOM environment on pyv8
+2026-11-22T07:34:41Z,strawdriver,0.1.0,StrawDriver Contributors,MIT,25856,"Stealth, high-performance Chromium automation driver over Chrome DevTools Protocol (CDP)."
+2026-11-22T07:35:47Z,oss-ai-policy-check,0.2.0,,MIT,185103,Find a repository's AI contribution policy and link every cited line at a pinned commit SHA; says needs-review when unsure.
+2026-11-22T07:36:09Z,steuermaschine-heinzel,0.1.0,,,3944626,"steuermaschine plugin for the Heinzelmännchen project: focused admission, lane caps, release recipe, Mini verification."
+2026-11-22T07:36:56Z,thf,0.1.0,TaeinYoon,MIT,56094,"A terminal UI for managing Hugging Face models, datasets and caches on shared servers"
+2026-11-22T07:37:00Z,sonnely-sdk,0.1.2,,,6067,Server-side Python client for the Sonnely inference API
+2026-11-22T07:39:09Z,word-flashcard-vocab-learner,0.1.5,"KristyChong, AndyTLY",MIT,144927,A lightweight CLI flashcard tool for vocabulary learning and review.
+2026-11-22T07:41:47Z,pyxis-harness-http,0.1.0rc1,Onenightcarnival,MIT,5812,PyxisHarness plugin: FastAPI application and uvicorn server (ctx.http)
+2026-11-22T07:41:49Z,pyxis-harness-http-client,0.1.0rc1,Onenightcarnival,MIT,77556,"PyxisHarness plugin: HTTP API request tool (targets with injected auth, saved requests, history, event streams) with the http_* tools and the HTTP page"
+2026-11-22T07:41:50Z,pyxis-harness-inspect,0.1.0rc1,Onenightcarnival,MIT,8619,PyxisHarness plugin: harness_inspect tool
+2026-11-22T07:41:52Z,pyxis-harness-llm,0.1.0rc1,Onenightcarnival,MIT,21345,PyxisHarness plugin: chat-model provider registry (ctx.llm)
+2026-11-22T07:42:45Z,uplinkswitch-sdk,0.1.0,Uplink Switch LLC,MIT,47491,UplinkSwitch typed Python SDK with model-id autocomplete and cost estimates
+2026-11-22T07:42:58Z,uncensoredllm-sdk,0.1.0,Uplink Switch LLC,MIT,46785,UncensoredLLM typed Python SDK with model-id autocomplete and cost estimates
+2026-11-22T07:42:58Z,uplinkswitch-hook,0.1.0,Uplink Switch LLC,MIT,9981,Zero-code runtime interceptor for OpenAI and Anthropic SDK calls
+2026-11-22T07:44:14Z,pentestllm-sdk,0.1.0,Uplink Switch LLC,MIT,46691,PentestLLM typed Python SDK with model-id autocomplete and cost estimates
+2026-11-22T07:45:59Z,printer-cli,0.1.0,Luong NGUYEN,MIT,134278,"Your printer's dashboard in the terminal: ink, paper, alerts, nozzle checks, head cleaning, printing and scanning for network printers (IPP, eSCL, SNMP, Epson ESC/P2)."
+2026-11-22T07:47:00Z,django-user-alerts,0.1.0,Michael Carder <michael.carder@gmail.com>,MIT,21086,"Simple, admin-managed alerts shown to users of a Django site, as dismissible or permanent Bootstrap alerts."
+2026-11-22T07:47:53Z,dj-auth-rest,0.0.0,"""Qcial.Com"" <contact@qcial.com>",MIT,6549,"Complete, production-ready authentication for Django. Secure user accounts with TOTP, 2FA, social authentication, and all the essential features in one solution."
+2026-11-22T07:51:31Z,marona-cli,1.0.1,Blessing Nyuwani,MIT,50624,"Marona command line tools for Agents, Hub capabilities and MCP development."
+2026-11-22T07:53:10Z,sutra-bharat,9.3.0,Sutra Language Creators,MIT,114956,"Sutra: Indian AI-First Hinglish Programming Language with Built-in Autograd, Data, Web, and Bharat Utilities"
+2026-11-22T07:54:54Z,think-to-recall,0.6.10,,,1536509,ctxgraph: local decision memory for AI coding assistants (MCP server for Claude Code)
+2026-11-22T08:00:25Z,hisamdb,1.0.0,Ahmet GÜN,MIT,315840,"HisamDB — Cutting-edge, ultra-low-memory, hybrid-search & RAG vector database for Python (NumPy-only core)"
+2026-11-22T08:03:17Z,libcorrect,0.1.0,Ilan Schnell,BSD,4456775,Forward Error Correction - bindings for libcorrect
+2026-11-22T08:06:13Z,tagbridge,0.1.0,Dan Shinde,MIT,73561,Config-driven Modbus and OPC UA to MQTT gateway with Sparkplug B and Unified Namespace support
+2026-11-22T08:08:19Z,waybound,0.2.2,,MIT OR Apache-2.0,77155,"Zero-CDP, out-of-band OS-level browser automation SDK (macOS, Linux, Windows, Android)"
+2026-11-22T08:08:46Z,tagscope,0.1.0,Dan Shinde,MIT,121782,"Log OPC UA tags to SQLite or PostgreSQL and watch them live in a fast, modern web dashboard."
+2026-11-22T08:10:36Z,ines-file,1.0.0,Leonid Kabanov,MIT,42564,"Read and write iNES / NES 2.0 ROM files: build .nes images from PRG/CHR parts, patch headers, serialize"
+2026-11-22T08:11:54Z,pbidriver,0.1.0,Jerome Eliezer,"MIT License Copyright (c) 2026 Jerome Eliezer Permission is hereby granted, free of charge, to any…",109554,"WebDriver for Power BI Desktop: let AI agents see and drive it (screenshots, visual data, dialogs, slicers, DAX, Performance Analyzer)."
+2026-11-22T08:16:07Z,openohlc,0.0.0,,MIT,3274,OpenOHLC — placeholder package. The open-source A-share and multi-market data platform is under construction; this name is reserved.
+2026-11-22T08:16:23Z,fpt-agent,0.1.0,,MIT,3739523,Hardware-aware mixed-precision tuning with guarded LLM planning and native numerical analysis
+2026-11-22T08:19:05Z,ddglearn,0.1.0,Ajeet Kumar,MIT,86410,Advanced Discrete Differential Geometry Framework (Research)
+2026-11-22T08:19:28Z,fundapi,0.1.0,fundapi,MIT,23701,基金数据 API 官方 Python SDK —— 净值 / 档案 / 季报持仓 / 基金经理 / 排行 / 公告 / 组合穿透（19 个端点，免费端点无需 Key）
