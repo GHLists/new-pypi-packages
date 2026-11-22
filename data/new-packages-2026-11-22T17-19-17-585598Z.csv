@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T16:19:43Z,odezoo,0.1.0,Henrik Finsberg <henriknf@simula.no>,MIT,162819,"A curated registry of ODE models (CellML and gotranx .ode), fetched and verified by sha256"
+2026-11-22T16:21:08Z,basstler,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,69212,"Workflow tooling: stacked-pull-request maintenance, the plan site, personal-notes hooks and upstream review reading."
+2026-11-22T16:21:08Z,basstler-core,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,92510,"The foundation every basstler distribution builds on: locations, environment variables, exceptions and the package map."
+2026-11-22T16:21:10Z,basstler-build,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,15429,"The hatch hook every basstler distribution is built with, pinning its basstler requirements to its own release."
+2026-11-22T16:22:13Z,pynamerx,0.2.1,pooraddyy,MIT,55877,"A powerful, scope-aware Python source renamer/obfuscator that hides names, string literals and imports."
+2026-11-22T16:23:41Z,mcpwatch-io,0.2.2,,Apache-2.0,102369,Know when the tools your AI agents trust change: MCP config scanner and tool drift checks.
+2026-11-22T16:23:49Z,google-ads-mcp-server,0.2.1,Fidel,MIT,537982,"Open-source Google Ads MCP server with audits, multi-currency reporting, and safety guardrails"
+2026-11-22T16:24:05Z,basstler-git,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,33684,"Git commands and branches, for basstler."
+2026-11-22T16:24:34Z,basstler-github,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,215932,"The GitHub client and the models of GitHub's data, for basstler."
+2026-11-22T16:25:03Z,basstler-rules,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,128694,"The code rules, their checkers and fixes, and the generated AGENTS.md."
+2026-11-22T16:26:12Z,bbrain,0.1.0,,Apache-2.0,58915368,"The bi-brain: a language model built as two asymmetric brain hemispheres, weights included"
+2026-11-22T16:27:01Z,tyframe,0.0.1,ffo-dev,MIT,56620,Generate typed DataFrame wrappers from pydantic models.
+2026-11-22T16:27:26Z,basstler-packaging,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,20428,"The model of a Python release: the wheels and source distributions a build writes, the package indexes, and the workflow that publishes them."
+2026-11-22T16:28:02Z,basstler-reviews,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,103312,Reading an upstream pull request's checks and review threads.
+2026-11-22T16:28:03Z,bellboard,0.0.1,Bellboard,MIT,3415,Bellboard is not released yet. https://bellboard.ai
+2026-11-22T16:28:36Z,basstler-review-triage,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,75423,Telling a pull request's mechanical files from those a reviewer has to read.
+2026-11-22T16:30:36Z,basstler-notes,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,96871,"Personal notes, pull request progress notes and their setup."
+2026-11-22T16:31:22Z,splintering,1.0.0,"Bar Gazit <bargazi@post.bgu.ac.il>, Shaltiel Shmidman <shaltieltzion@gmail.com>, Avi Shmidman <avi.…",,45662,"Splinter is a text pre-processing step which rearranges characters into a linear form that better represents nonconcatenative morphologies, enabling meaningful contiguous segments to be found by a su…"
+2026-11-22T16:31:27Z,basstler-plan,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,270903,"Plans and their items, kept on the personal-notes branch."
+2026-11-22T16:32:10Z,basstler-stack,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,214089,Stacked pull request maintenance.
+2026-11-22T16:32:11Z,basstler-hub,4.2.2,Abdelrhman Bassiouny <bido.bassuny@gmail.com>,Apache-2.0,237159,"The plan site: the hub, each repository's index and each plan's page."
+2026-11-22T16:34:00Z,aamio-bt,0.1.0,AI SENSE AS,MIT,22043,"aamio over Bluetooth: a transport under contract 3 that carries each frame over classic Bluetooth, RFCOMM, from one machine in range to one other, with Python's own sockets on Windows and Linux."
+2026-11-22T16:44:39Z,qqbot-sdk-python,0.4.1,,,16144978,Async Python bindings for the QQ Bot SDK
+2026-11-22T16:45:41Z,llama-launcher,0.1.0,hhuangpanda,MIT,120228,"Windows tray app to manage and launch local GGUF models with llama-server, using per-model profiles and your own llama.cpp builds"
+2026-11-22T16:46:44Z,robotmc,0.1.0,CyberBeast,MIT,45736,CAN-first control tool and Python library for CyberBeast robot motor controllers (command: rmc)
+2026-11-22T16:47:46Z,video-upscaler-cli,0.1.1,Dream-Pixels-Forge,MIT,34080,High-precision video upscaler CLI and library using FFmpeg filter pipelines
+2026-11-22T16:52:31Z,apipulse,0.1.1,Athina09,MIT,32945,"A health tracker for the APIs your app depends on: raw-socket probes, per-phase timings, history and diagnosis."
+2026-11-22T16:53:13Z,data-graf,0.1.0.dev0,,Apache-2.0,77220,"Lineage, checks and profiling for semantic layers written in Apache Ossie"
+2026-11-22T16:53:36Z,samplesar,0.1.0,John McMeen <johnmcmeen@gmail.com>,MIT,191149,Species-area relationship datasets from geometric sampling of point observations
+2026-11-22T16:55:27Z,mcpylib-mcp,0.1.0,treeleaves30760,LicenseRef-MCPyLib-NonCommercial,109672,"MCP server that lets AI agents (Claude Code, Claude Desktop, Cursor, VS Code, ...) control a Minecraft server through MCPyLib."
+2026-11-22T16:55:35Z,vibepiler,0.4.13,Nish,MIT,540695,"A compiler for vibe-coded software: parse a whole project into a program graph, then run optimization passes that find dead code, duplicates, cycles, over-abstraction and bloat."
+2026-11-22T16:56:29Z,elecsus4,4.0.0b1,"R. M. Potvliege, I. G. Hughes",Apache-2.0,2149469,(Atomic Physics) Calculate the weak-probe electric susceptibility for alkali-metal vapours
+2026-11-22T16:56:44Z,xiii-cli-core,0.1.0,,Apache-2.0,108656,The product-neutral core of the XIII product command-line tools
+2026-11-22T16:57:36Z,tabvisml,0.1.1,Milad Asghari <miladasghari13@gmail.com>,MIT,10339,"Lightweight wrappers for tabular preprocessing, baseline model comparison, and image loading."
+2026-11-22T16:57:46Z,inbox-monitor,0.1.0,TaeinYoon,MIT,23158,"Wait for the next mail from a sender and print it in the terminal, for you or your AI agent"
+2026-11-22T17:00:55Z,litecrate,0.1.0,,,25869,A lightweight SQLite wrapper with flexible JSON storage
+2026-11-22T17:04:12Z,pgm-handbook,0.1.0,Dwaipayan Dutta,MIT,773274,"Probabilistic graphical models: representation, exact/approximate inference and Bayesian deep learning."
+2026-11-22T17:05:42Z,vav,0.1.0,,,4030535,Evaluate Vav's admitted Boolean Rust functions
+2026-11-22T17:05:45Z,cocotbext-sva-kernel,0.1.0,David Pavlović,MIT,1711145,Optional compiled evaluation kernel and FST reader for cocotbext-sva (used automatically when installed)
+2026-11-22T17:05:56Z,post-upload,1.2.0,Post-Upload,,68183,"Official Python SDK for Post-Upload — one API to post to 22 platforms: Instagram, YouTube, TikTok, Facebook, X, LinkedIn, Threads, Pinterest, Reddit, Bluesky, Google Business Profile, Discord, Telegr…"
+2026-11-22T17:06:29Z,cocotbext-sva,0.1.0,David Pavlović,MIT,229227,SystemVerilog-style immediate and concurrent assertions for cocotb
+2026-11-22T17:06:46Z,grocy-mcp-server,1.0.0,Mark Arslan,"MIT License Copyright (c) 2026 Mark Arslan Permission is hereby granted, free of charge, to any per…",23350,"MCP server for Grocy: stock, products, shopping lists, chores, locations and recipes"
+2026-11-22T17:06:54Z,clua,0.1.0,,Apache-2.0,131146,Clua command-line access
+2026-11-22T17:06:58Z,libwconr,0.1.0,,,12404,Python ctypes wrapper for the native libwconr package-manager library.
+2026-11-22T17:07:59Z,easysteer,0.0.1.dev1,ZJU-REAL,Apache-2.0,10122,EasySteer preview for streaming extraction of steering directions
+2026-11-22T17:09:36Z,zeta-audit,0.4.1,Imruobai,MIT,89209,"Audit a Riemann zeta zero table: structure, residuals, independent cross-check, and a windowed count that detects a missing zero."
+2026-11-22T17:10:49Z,ginto,0.1.0,Meem Arafat Manab <meem.manab@upm.es>,MIT,44985,"Git-style version control for Akoma Ntoso: node-level diff, replayable amendments, signed AI-agent authorship"
+2026-11-22T17:12:39Z,drf-log-writer,1.1.0,,MIT,55999,"Log every Django/DRF request and response as JSON to files and/or the database, with key-based hashing, search, and a column-based admin viewer."
+2026-11-22T17:18:15Z,anas-hello-cli,0.1.0,,,2577,
