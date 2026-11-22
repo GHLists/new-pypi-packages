@@ -8,33 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 00:18 UTC
+## Latest list — 2026-11-22 01:20 UTC
 
-New packages created between 2026-11-21 23:21 UTC and 2026-11-22 00:18 UTC.
+New packages created between 2026-11-22 00:18 UTC and 2026-11-22 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-22T00-18-27-01038Z.csv)
+[Full CSV](data/new-packages-2026-11-22T01-20-53-268873Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-21 22:39:17 | [kaltui](https://pypi.org/project/kaltui/) | 0.0.1 |  | 39.5 MB | Kalshi terminal dashboard (proprietary binary) |
-| 2026-11-21 23:25:03 | [idf-next](https://pypi.org/project/idf-next/) | 0.1.0 |  | 15.0 MB | A single-binary ESP-IDF toolchain driver: idf.toml in, firmware out. |
-| 2026-11-21 23:26:42 | [iammenasco-blue](https://pypi.org/project/iammenasco-blue/) | 1.2.0 | Brian Menasco | 13.7 kB | Canonical #368dda (iammenasco-blue) color tokens, WCAG helpers, and ANSI termin… |
-| 2026-11-21 23:31:04 | [uppercut-rawvideo-encoder](https://pypi.org/project/uppercut-rawvideo-encoder/) | 0.1.1 | Uppercut Labs <packages@upper… | 17.6 kB | Pipe RGB frames from Pillow renders to ffmpeg as H.264, and check that ffmpeg s… |
-| 2026-11-21 23:34:41 | [pyzkaccess-native](https://pypi.org/project/pyzkaccess-native/) | 0.1.1 | Avataar120 | 76.7 kB | Pure-Python, cross-platform client for ZKTeco PullSDK / ZKAccess access-control… |
-| 2026-11-21 23:38:16 | [manypens](https://pypi.org/project/manypens/) | 0.0.1 | Philipp | 1.8 kB | manypens — early placeholder release; under active development. |
-| 2026-11-21 23:40:39 | [fa-bench](https://pypi.org/project/fa-bench/) | 2.1.0 | Olewave, LLC | 1.1 MB | Word and phone timestamp accuracy of forced aligners and timestamped ASR on cle… |
-| 2026-11-21 23:44:59 | [bouquet-bloom](https://pypi.org/project/bouquet-bloom/) | 0.1.1 | Jonathon Klobucar | 1.2 MB | Pluggable Bloom filters — Python bindings |
-| 2026-11-21 23:45:50 | [hilal-visibility](https://pypi.org/project/hilal-visibility/) | 0.1.0 | Aous Abdo | 196.3 kB | Crescent moon (hilal) visibility kernel: topocentric lunar circumstances from J… |
-| 2026-11-21 23:45:50 | [neural-emd](https://pypi.org/project/neural-emd/) | 0.1.0 | Aous Abdo | 69.8 kB | Neural Empirical Mode Decomposition: a differentiable, learned replacement for… |
-| 2026-11-21 23:47:01 | [picpro-gui](https://pypi.org/project/picpro-gui/) | 0.1.1 |  | 59.0 kB | Qt desktop interface for the PicPro PIC programmer |
-| 2026-11-21 23:48:18 | [isud-tm](https://pypi.org/project/isud-tm/) | 1.0.0 | 优标宝开放平台 <opensource@isud.cn> | 47.8 kB | 优标宝商标数据开放 API 的 Python SDK（商标排查/档案查询/外观设计的契约驱动客户端） |
-| 2026-11-21 23:48:48 | [timesage-survival](https://pypi.org/project/timesage-survival/) | 0.1.0 | Luke Sullivan | 542.7 kB | Loss-calibrated, time-indexed global feature attribution (TimeSAGE) for surviva… |
-| 2026-11-21 23:50:10 | [graphcore-audio](https://pypi.org/project/graphcore-audio/) | 0.4.0 |  | 42.1 kB | GraphCore app: audio |
-| 2026-11-21 23:53:06 | [pykitt](https://pypi.org/project/pykitt/) | 0.0.1 |  | 1.5 kB | Placeholder for pykitt. Not ready for use yet. |
-| 2026-11-21 23:57:58 | [GOTClust](https://pypi.org/project/GOTClust/) | 0.1.0 | GOTClust Developers | 17.1 kB | Grassmann-Optimal-Transport Clustering for Single-Cell Data |
-| 2026-11-21 23:59:11 | [neuroinfoapi-client](https://pypi.org/project/neuroinfoapi-client/) | 2.10.0 | Appstun | 51.6 kB | Python client for NeuroInfoAPI: typed HTTP client (sync and async) and a WebSoc… |
-| 2026-11-22 00:03:23 | [coticula](https://pypi.org/project/coticula/) | 0.1.0 | Brent Willoughby | 24.4 kB | Test before you trust: security and quality scanner for MCP servers, agent skil… |
-| 2026-11-22 00:06:46 | [cpmaudit](https://pypi.org/project/cpmaudit/) | 0.1.0 | Krutarth Patel | 139.3 kB | Audit the instability and reliability of individual predictions from clinical r… |
-| 2026-11-22 00:07:56 | [makerundev-server](https://pypi.org/project/makerundev-server/) | 0.6.0 |  | 189.7 kB | Self-hosted web app for your running data, built on makerundev. |
-| 2026-11-22 00:10:28 | [pandas-query](https://pypi.org/project/pandas-query/) | 0.0.2 | Taha Shieenavaz <tahashieenav… | 10.3 kB | Provides an efficient simple interface to query a Pandas DataFrame or Series. |
-| 2026-11-22 00:12:46 | [DearPyGui-ImageController](https://pypi.org/project/DearPyGui-ImageController/) | 1.1.0 | IvanNazaruk | 38.2 kB | Shows a lot of images in Dear PyGui without running out of memory |
+| 2026-11-22 00:20:29 | [llm-vram-fit](https://pypi.org/project/llm-vram-fit/) | 0.1.0 | an1zy | 22.4 kB | VRAM calculation and local LLM fit analyzer |
+| 2026-11-22 00:28:25 | [fillmate](https://pypi.org/project/fillmate/) | 0.1.1 | Leonardo Nels | 3.1 MB | Fill recurring paperwork from reusable form packs and send it by email. |
+| 2026-11-22 00:30:02 | [rasa-infra-validation](https://pypi.org/project/rasa-infra-validation/) | 999.9.9 |  | 965 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-22 00:32:57 | [aipe-sdk](https://pypi.org/project/aipe-sdk/) | 1.0.6 |  | 87.3 kB | Client for the AI Agent Promotion Exchange API. |
+| 2026-11-22 00:36:25 | [prsr](https://pypi.org/project/prsr/) | 0.0.0 | Cory Shain | 27.0 kB | GPU latent-variable PCFG training and left-corner parsing |
+| 2026-11-22 00:42:05 | [rubberotter](https://pypi.org/project/rubberotter/) | 1.4.0 | AtaCanYmc <atacanymc@gmail.co… | 57.2 kB | Comprehensive Python SDK, CLI, and Web App to discover, control, and manage Rub… |
+| 2026-11-22 00:43:23 | [bigleague](https://pypi.org/project/bigleague/) | 0.1.0 | Jonathon Klobucar | 112.1 kB | Async polars-native baseball data and plotting library |
+| 2026-11-22 00:52:30 | [clicndone-pdf-mcp](https://pypi.org/project/clicndone-pdf-mcp/) | 1.0.0 |  | 13.5 kB | MCP server for AI assistants: PDF to Word that keeps the layout, merge, split,… |
+| 2026-11-22 00:54:02 | [atomzero](https://pypi.org/project/atomzero/) | 0.1.1 | Gokhan Cava <gokhancava@gmail… | 187.6 kB | Atom Zero: a local source-cited 49.2M assistant with RAG, documents, evidence a… |
+| 2026-11-22 00:55:24 | [container-image-dist-ref](https://pypi.org/project/container-image-dist-ref/) | 0.4.0 |  | 2.4 MB | Parse and validate docker/OCI container image references. |
+| 2026-11-22 00:57:51 | [rodmena-provenance](https://pypi.org/project/rodmena-provenance/) | 0.1.1 |  | 74.4 kB | Reports a Linux or FreeBSD host's operating-system packages to provenance every… |
+| 2026-11-22 01:00:46 | [wengua](https://pypi.org/project/wengua/) | 0.1.0 |  | 135.1 kB | Wengua 问卦: the accurate, open I Ching (易经) for every AI. Fair casting, sourced… |
+| 2026-11-22 01:02:57 | [turkmen-num2words](https://pypi.org/project/turkmen-num2words/) | 0.1.1 | Murat Bekgi | 20.0 kB | Convert integers to Turkmen (Latin) cardinal-number words. |
+| 2026-11-22 01:06:44 | [modrinth-dl](https://pypi.org/project/modrinth-dl/) | 1.0.0 | Little Godzilla Laboratory | 15.9 kB | Python lib for downloading Minecraft add-ons from Modrinth |
+| 2026-11-22 01:07:51 | [second-brain-core](https://pypi.org/project/second-brain-core/) | 0.1.0 |  | 496.7 kB | Shared library for the Second Brain MCP servers: sign-in, audit log, HTTP servi… |
+| 2026-11-22 01:14:36 | [openfrenz](https://pypi.org/project/openfrenz/) | 0.2.1 |  | 11.2 kB | Load openfrenz session datasets (FRENZ brainband) and build aligned fixed-lengt… |
+| 2026-11-22 01:14:50 | [xian-wallet-cli](https://pypi.org/project/xian-wallet-cli/) | 0.2.0 |  | 135.4 kB | Xian wallet for terminals and agents |
+| 2026-11-22 01:16:05 | [nrtvix](https://pypi.org/project/nrtvix/) | 0.2.0 | NorthViax LLC <hello@nrtvix.c… | 20.0 kB | NrtVix Guardian: ask before your AI agent acts. Allowed, waits for you, or bloc… |
+| 2026-11-22 01:17:47 | [xian-tech-wallet-cli](https://pypi.org/project/xian-tech-wallet-cli/) | 0.2.1 |  | 135.2 kB | Xian wallet for terminals and agents |
+| 2026-11-22 01:17:50 | [idlefree-ui](https://pypi.org/project/idlefree-ui/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/idlefree-ui |
+| 2026-11-22 01:17:50 | [tsukimiso](https://pypi.org/project/tsukimiso/) | 0.1.2 |  | 134.7 kB | An OSS federated learning framework designed for production use |
+| 2026-11-22 01:17:51 | [idlefree-auth](https://pypi.org/project/idlefree-auth/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/idlefree-auth |
+| 2026-11-22 01:20:34 | [argus-mercado-terminal](https://pypi.org/project/argus-mercado-terminal/) | 0.1.10 |  | 380.2 kB | Terminal ARGUS de volatilidade, precificação, risco e P&L |
+| 2026-11-22 01:20:52 | [set-sdk](https://pypi.org/project/set-sdk/) | 0.1.0 |  | 23.8 kB | Official zero-dependency Python SDK for Simple Easy Transactions (SET API, SET… |
