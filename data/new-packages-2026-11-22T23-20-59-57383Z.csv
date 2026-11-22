@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T20:48:52Z,html-to-markdown-cli,3.23.1,"Na'aman Hirschfeld <naaman@xberg.io>, Tobias Perlstein <tobias@xberg.io>",MIT,28825329,CLI proxy for html-to-markdown — downloads and runs the native html-to-markdown binary from GitHub releases.
+2026-11-22T22:18:33Z,bashwalker,0.1.5,Eduard Ralph,Apache-2.0,96712,"A bash command line in, proven facts per simple command out: a fail-closed tree-sitter-bash walker"
+2026-11-22T22:18:36Z,mitulabs-payments,0.1.1,,MIT,39058,Monetize HTTP APIs with machine payments over MPP and x402.
+2026-11-22T22:21:50Z,horizon-workspace,0.1.1,Fabricio & Antigravity,MIT,14334,AI-Native Recursive Workspace Architecture — Dive Deep Without Context Loss
+2026-11-22T22:24:19Z,rb-commfactors,0.1.0,Roman Bolandau,,205797,"Commercial factors of a page: deterministic checks plus a model, factors in groups"
+2026-11-22T22:24:22Z,doci-sdk,0.0.1,Doci,MIT,2117,"The Python SDK for Doci, the developer's tool for creating, delivering, tracking and auditing documents. Coming soon."
+2026-11-22T22:24:57Z,rb-onpage,0.1.0,Roman Bolandau,,240020,Deterministic factors of a page and a site: 22 groups from indexing to accessibility
+2026-11-22T22:25:16Z,rb-semkit,0.2.5,net.paradox,MIT,17884778,"Semantic core processing: read and write phrases in any format, lemmas, n-grams, duplicates."
+2026-11-22T22:25:39Z,rb-serp,0.8.7,bolandeu,MIT,294122,Search engine results for Yandex and Google through SERP providers with fallback.
+2026-11-22T22:27:13Z,symintegral,0.1.0,Stefan Hiemer <stefan.hiemer1995@gmail.com>,GPL-3.0-or-later,132322,"Closed-form evaluation of multidimensional SymPy integrals, with NumPy/SciPy code generation."
+2026-11-22T22:35:15Z,adb-harness,0.2.2,MBanucu <MBanucu@users.noreply.github.com>,GPL-3.0-only,65918,"Find a phone's wireless-debugging adb port, keep it connected, and record its screen"
+2026-11-22T22:38:57Z,odoo-addon-l10n-cl-dte-base,18.0.1.0.0.2,"FSMW, Odoo Community Association (OCA)",AGPL-3,31431,Company-scoped records and immutable evidence for Chilean DTEs
+2026-11-22T22:42:07Z,szl-evidence-core,0.2.0,"""Stephen P. Lutar"" <stephenlutar2@gmail.com>",Apache-2.0,123333,"Canonical JSON, algorithm-declared digests, hash-chained receipt ledgers and the szl.lambda/v1 reference: the primitives under every SZL receipt, extracted once."
+2026-11-22T22:47:46Z,mechaniclens,0.1.0,Debashish Ghosal,MIT,93499,"A Markdown-only kit that reads a repair estimate back to you — every line labeled Standard / Check / Question this, with the questions to ask at the counter. Never a price guess."
+2026-11-22T22:48:12Z,slopdam,0.2.0,The slopdam Authors,MIT,60363,"Logger formatter and linter that strips AI-generated patterns (em dashes, emoji, separators, markdown) from log output"
+2026-11-22T22:50:51Z,aermatic,0.1.0,stacknix,"MIT License Copyright (c) 2026 stacknix Permission is hereby granted, free of charge, to any person…",32503,Independent Python library and CLI to control Godrej Aer Smart Matic BLE air fresheners
+2026-11-22T22:52:33Z,vfy,0.0.1,Sean Abreau,Apache-2.0 OR MIT,55775855,"A Python test runner and coverage tool, built in Rust"
+2026-11-22T22:54:32Z,open-agent-db,2.0.0,Enes Öztürk,MIT,5453410,The universal open catalog and package manager for AI Agent Skills & Model Context Protocol (MCP) Servers
+2026-11-22T22:55:14Z,phil-agent,0.1.0,Andrew HoChoy,Apache-2.0,1382187,"A terminal coding agent that plans with you, works in its own git worktree, and stops at the budget you set"
+2026-11-22T22:57:29Z,rrplot,1.3.0,xiaenbaba,MIT,377492,"通用制冷循环 / HVAC 示意图绘制库:坐标式部件拼装 + 走线式连管,输出 PNG/PDF/SVG"
+2026-11-22T22:57:46Z,edview,1.0.0,Nghia Vo <nvo@bnl.gov>,Apache-2.0,185528,GUI software for viewing EDXD/EDDT data processed by Algodif.
+2026-11-22T22:59:26Z,lerobot-teleoperator-rfabricd,0.1.0,rFabric <engineering@rfabric.io>,Apache-2.0,25985,LeRobot plugin: the rFabric remote operator drives a LeRobot robot over the rFabric realtime control UDS (rfabricd teleoperator and its follower robot types).
+2026-11-22T22:59:39Z,hermes-scout,0.1.1,Lanre Shittu,MIT,48337,Search local files by meaning with embeddings from any OpenAI-compatible server. A Hermes Agent plugin and a standalone CLI.
+2026-11-22T23:00:30Z,imagewright,0.1.0,"Eric G. Suchanek, PhD",Elastic-2.0,62256,"Image generation over one HTTP contract: a client, local FLUX and SDXL servers, and an MCP tool"
+2026-11-22T23:02:57Z,hermes-clawifi-web,0.1.0,"""ReARC Labs Inc."" <support@clawifi.dev>",MIT,31515,Clawifi web search and page reading as a web backend for Hermes Agent.
+2026-11-22T23:03:10Z,xkcd-matchem,0.1.0,Viejay Ordillo,Apache-2.0,1632501,An xkcd-Style Visualization Suite for Chemistry and Materials Science Communication
+2026-11-22T23:04:02Z,kvsig,0.1.0,The PodWarden Team,Apache-2.0,68425,"Keyed, content-derived ids for LLM chat conversations: the kvsig reference implementation"
+2026-11-22T23:07:46Z,scipq-mcp,0.1.0,Germán Dressino,MIT,144889,"MCP server for Java code navigation over the per-file SCIP shards written by scip-javac, with no index held in memory."
+2026-11-22T23:08:57Z,parse-mw,0.1.0,wispsy,MIT,32223,Bounded source-preserving MediaWiki parsing and safe typed HTML rendering
+2026-11-22T23:10:13Z,aws_sdk_connectcases,0.0.0,,Apache-2.0,2156,Placeholder reserving the aws_sdk_connectcases name. Not yet functional.
+2026-11-22T23:10:41Z,aws_sdk_personalize,0.0.0,,Apache-2.0,2139,Placeholder reserving the aws_sdk_personalize name. Not yet functional.
+2026-11-22T23:11:03Z,aws_sdk_emr_serverless,0.0.0,,Apache-2.0,2178,Placeholder reserving the aws_sdk_emr_serverless name. Not yet functional.
+2026-11-22T23:11:24Z,aws_sdk_fis,0.0.0,,Apache-2.0,2053,Placeholder reserving the aws_sdk_fis name. Not yet functional.
+2026-11-22T23:12:33Z,chadc00per-typeset,1.0.0,Chad Cooper,Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Unicode-3.0,757857,"Semantic field types: canonical normalize/validate, a class per type, and picker metadata. The Python twin of the @chadc00per/typeset npm package."
+2026-11-22T23:12:38Z,aws_sdk_pipes,0.0.0,,Apache-2.0,1936,Placeholder reserving the aws_sdk_pipes name. Not yet functional.
+2026-11-22T23:12:44Z,minidb-book,0.1.0,Stefano Bragaglia,MIT,131515,"A small relational database in pure Python, built one subsystem at a time in an accompanying book"
+2026-11-22T23:13:04Z,aws_sdk_schemas,0.0.0,,Apache-2.0,1957,Placeholder reserving the aws_sdk_schemas name. Not yet functional.
+2026-11-22T23:13:07Z,al2md,0.0.0,Panda Coop,GPL-3.0-or-later,26961,Convert AL (Microsoft Dynamics 365 Business Central) sources to Markdown
+2026-11-22T23:13:18Z,aws_sdk_waf_regional,0.0.0,,Apache-2.0,2017,Placeholder reserving the aws_sdk_waf_regional name. Not yet functional.
+2026-11-22T23:13:38Z,aws_sdk_grafana,0.0.0,,Apache-2.0,1956,Placeholder reserving the aws_sdk_grafana name. Not yet functional.
+2026-11-22T23:13:56Z,fab2md,0.0.0,Panda Coop,GPL-3.0-or-later,26934,Convert Microsoft Fabric items to Markdown
+2026-11-22T23:15:52Z,kci-vec,0.2.15,Yukihiro Kimura,MIT,444848,"Embedded vector search — in-process, int8, optional AES-256 encryption at rest, no server"
+2026-11-22T23:17:15Z,aws_sdk_cost_optimization_hub,0.0.0,,Apache-2.0,2125,Placeholder reserving the aws_sdk_cost_optimization_hub name. Not yet functional.
+2026-11-22T23:17:30Z,aws_sdk_mediaconnect,0.0.0,,Apache-2.0,2024,Placeholder reserving the aws_sdk_mediaconnect name. Not yet functional.
+2026-11-22T23:17:45Z,aws_sdk_resource_groups,0.0.0,,Apache-2.0,2058,Placeholder reserving the aws_sdk_resource_groups name. Not yet functional.
+2026-11-22T23:18:01Z,aws_sdk_iot_wireless,0.0.0,,Apache-2.0,2028,Placeholder reserving the aws_sdk_iot_wireless name. Not yet functional.
+2026-11-22T23:18:09Z,awedgerunner,0.1.0,Aitherium <eng@aitherium.com>,Apache-2.0,71309,"Run agent and CI work on edge runners nobody has to rack, under a lease with a hard budget cap, a named payer and an expiry. Stdlib only; every runner target delegates."
+2026-11-22T23:18:29Z,lsdocs-rst,0.1.0,,Apache-2.0 OR MIT,13408928,A fast reStructuredText parser building docutils' document tree.
