@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T03:20:09Z,erdigo-sdk,1.0.0,Ziorentia LLC,MIT,150190,"Write pins, markers, notes, photos and tracks to an Erdigo receiver on the local network."
+2026-11-22T03:20:47Z,babelr-agent,0.1.0,,MIT,15823,Babelr client for agent accounts: token auth and end-to-end encrypted DMs
+2026-11-22T03:22:38Z,makotrace,0.3.4,MakoDev,MIT,566075,"Offline call graphs, function diffs and bounded AI queries for Python, JavaScript and TypeScript"
+2026-11-22T03:22:51Z,qubrics-sdk,4.0.0,,MIT,10104,Umbrella package for the Qubrics Python SDK.
+2026-11-22T03:23:30Z,tencentcloud-agentobs-opentelemetry-util-genai,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,114882,LoongSuite GenAI Utils
+2026-11-22T03:23:53Z,tencentcloud-agentobs-opentelemetry-instrumentation,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,32949,Instrumentation Tools & Auto Instrumentation for OpenTelemetry Python
+2026-11-22T03:24:01Z,tencentcloud-agentobs-opentelemetry-exporter-otlp-proto-common,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,19153,OpenTelemetry Protobuf encoding
+2026-11-22T03:24:09Z,tencentcloud-agentobs-opentelemetry-exporter-otlp-proto-http,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,23485,OpenTelemetry Collector Protobuf over HTTP Exporter
+2026-11-22T03:27:29Z,vocabfreq,8.0.1,河狸记词 (VocabRadar),MIT,198188,"Three-tier multi-language word frequency lists (43/347/1000 languages, 601 centibel bands), wordfreq cBpack format, wordfreq-style lookup API with band slicing."
+2026-11-22T03:28:41Z,gardenia,0.1.0,,MIT,86603,"Bootstrap, initialize, and verify the coding-agent stack with explicit host vs. repository separation."
+2026-11-22T03:29:58Z,metatraderx,0.1.1,Bradley Odimmasi,MIT,157743,"Universal MetaTrader 5 and MetaTrader 4 Python API for Windows, Linux and macOS"
+2026-11-22T03:34:08Z,easy-cheese-review,0.1.0,Paul Sorensen,MIT,77772,"Review evidence for easy-cheese reviewers: the severity rubric, an ast-grep rule pack, and deterministic diff facts."
+2026-11-22T03:39:05Z,cuju-arena,0.1.0,André Koraleski,Apache-2.0,16606594,"Play, judge, record and run tournaments for Cuju football"
+2026-11-22T03:40:24Z,deps-viz,0.1.0,Eduardo Naufel Schettino <schettino72@gmail.com>,MIT,64851,Interactive HTML visualization for Python import dependencies
+2026-11-22T03:43:18Z,git-env-guard,0.1.0,,Apache-2.0,28141,Static Git fixture isolation checks
+2026-11-22T03:47:56Z,temple-agent,3.0.3,ortegaalfredo <ortegaalfredo@gmail.com>,Apache-2.0,372178,Temple Agent: a ralph-loop AI agent giving LLMs shell access via function calling (TUI + CLI)
+2026-11-22T03:48:08Z,apizen-sdk,0.1.1,,MIT,11073,SDK oficial das APIs da Apizen: CNPJ (Receita Federal) e CEP (com código IBGE e coordenadas).
+2026-11-22T03:49:27Z,opencr,0.1.0,Max,,330730,"Collisional-radiative models of low-temperature plasmas: reaction networks with provenance, steady and time-dependent populations, effective rates and emission."
+2026-11-22T03:51:26Z,dian-nit-validator,1.0.0,Kevin Andrey Herrera Silva <kahs_kevin@hotmail.com>,MIT,16337,Librería y CLI en Python para cálculo y validación del Dígito de Verificación del NIT DIAN en Colombia (Módulo 11).
+2026-11-22T03:57:39Z,rift-desync,0.1.0,Yuvraj Pradhan <yuvraj0227@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",203082,Find the rift between an LLM agent guard's parse and the executor's. Guardrail Desync predictor + parse-equivalence gate.
+2026-11-22T04:00:53Z,fidetype,0.1.0,Zibo Zhang,Apache-2.0,5388313,"An open trust layer for neural text entry: calibrated, abstaining, hallucination-aware BCI text decoding."
+2026-11-22T04:02:06Z,mnemolite,0.1.0,vdeem,MIT,95805,"Local-first, zero-LLM memory engine for AI agents"
+2026-11-22T04:08:13Z,askback,0.1.0,Raj Purohith Arjun,Apache-2.0,403776,"Test a conversational agent over several turns: routing, grounding, clarifying questions, citations, isolation, and CI gates."
+2026-11-22T04:08:27Z,tenuto,0.9.0,Kelly Asay <kellyasay@gmail.com>,MIT,60078,"Developmental Agent Continuity and Project Continuity for long-horizon AI coding sessions — zero dependencies, two-file SQLite."
+2026-11-22T04:11:28Z,fail-to-pass,0.1.0,,Apache-2.0,47799,Per-test transition classification with bounded rerun confirmation
+2026-11-22T04:19:29Z,alertshadow,0.1.0,,Apache-2.0,27632,Offline Prometheus test shadows for Grafana-managed rules
