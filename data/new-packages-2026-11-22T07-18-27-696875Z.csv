@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T06:18:56Z,palsa-api,0.1.0,Kuzikode Intelligent Technologies,MIT,176475,"Official Palsa client, generated from the OpenAPI specification. SMS, email and push from one request."
+2026-11-22T06:22:28Z,pyt3client,0.1.1,Philipp Temminghoff,MIT,91644,"Thin, typed Python client for T3 Code environments (via their MCP endpoint)"
+2026-11-22T06:30:02Z,spider-2-0,999.9.9,,,958,Stub package that mitigates Dependency Confusion attacks
+2026-11-22T06:31:31Z,ghostwright,0.0.1,Browsa <support@browsa.io>,MIT,4952,Ghostwright for Python is not released yet. The SDK is on npm today: npm i ghostwright
+2026-11-22T06:31:33Z,mocop,0.2.0,Mayberry Tech,MIT,21312,"Command line for mocop: search APIs, MCP servers and agents, score a website's agent-readiness, manage your domains."
+2026-11-22T06:33:06Z,litloop,1.18.4,,Apache-2.0,1617614,"LitLoop academic paper agent: search, screening, download (open access, publisher and institutional routes) and Zotero filing, as an MCP server and CLI"
+2026-11-22T06:38:10Z,fastcolab,0.0.1,Jeremy Howard <github@jhoward.fastmail.fm>,Apache-2.0,68823,Convenient access to the colab API
+2026-11-22T06:38:41Z,snakevpn,0.0.1,,GPL-3.0-or-later,295863,Per-process policy routing: send each app out through a chosen interface
+2026-11-22T06:45:05Z,rulestamp-steuerlager-schwund-check-de,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37895,"Lagerakte gegen § 13 AlkStV und § 19 AlkStG: 38,00 hl A Fehlmenge, 31,60 hl A anerkannt, 6,40 hl A steuerpflichtig = 8.339,20 Euro. (bundled Node.js runtime)"
+2026-11-22T06:45:22Z,sparkdata,0.0.1,"""Hangzhou Zhiyuan Xinghuo Technology Co., Ltd."" <service@spark-data.cn>",Proprietary,4174,Python client for SparkData (A-share market data API) — placeholder release
+2026-11-22T06:45:23Z,rulestamp-streitbeilegung-hinweis-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33950,"Findet den seit 20.07.2025 toten OS-Plattform-Link, Zitate der aufgehobenen ODR-VO (VO (EU) 2024/3228) und fehlende Hinweise nach § 36 VSBG in Impressum, AGB und Footer. (bundled Node.js runtime)"
+2026-11-22T06:45:40Z,rulestamp-tailwind-v4-upgrade-blocker-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34180,"19 rules that find the Tailwind v3 syntax Tailwind v4 removed or silently redefined, in the file you have open, with the v4 replacement on the same line. (bundled Node.js runtime)"
+2026-11-22T06:45:56Z,rulestamp-tax-year-constant-drift-lint,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36017,"Finds the tax years, statutory limits, filing thresholds, rates and deadlines hardcoded in payroll and invoicing code - the constants an AI assistant completes from a year that has already passed. (b…"
+2026-11-22T06:46:08Z,draftboard,0.0.2,,Apache-2.0,793034,AI material creation workbench - PPT generation module
+2026-11-22T06:52:27Z,langchain-jobo,0.1.0,Jobo <support@jobo.world>,MIT,156790,"LangChain integration for the Jobo jobs API: live job listings from employer career sites and ATS platforms, as tools, a retriever and a document loader."
+2026-11-22T06:57:35Z,xinan-evidence-mcp,1.0.0,ChainOfThought,MIT,9051,薪安证据完备度评分 MCP 服务（stdio 传输）：评估劳动争议证据完备度，输出得分、档位、缺失证据与补证建议
+2026-11-22T06:58:52Z,dokana,0.0.1,Dokana,MIT,3547,Dokana — official package name reservation. See https://dokana.xyz
+2026-11-22T07:02:03Z,izipay,0.1.0b1,Suplitel,MIT,117175,"Official Python SDK for the IZI Pay payment API (Angola): MULTICAIXA Express, payment references, refunds and webhooks."
+2026-11-22T07:17:44Z,ledrion,0.1.0,,,23403,"A small, typed client for the Intake API: the pull API and signed webhooks."
