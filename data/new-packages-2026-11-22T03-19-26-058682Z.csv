@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T02:20:06Z,frameforge-py,0.1.0,daiyuxiang,,19060,Add your description here
+2026-11-22T02:21:40Z,sandbox-ai-mcp,0.1.0,Sandbox AI,Apache-2.0,24379,MCP server for Sandbox AI: lets agents propose changes and read decisions through any MCP client
+2026-11-22T02:28:54Z,indiaval,0.2.0,Greeshma Gowda K A,MIT,8643,"Validators for Indian mobile, PIN code, PAN, IFSC, Aadhaar, GSTIN and vehicle numbers"
+2026-11-22T02:37:16Z,sartor,0.0.1,Michael Borck <michael.borck@curtin.edu.au>,MIT,11105,"Privacy-first résumé tailoring: your evidence in, a tailored résumé out — every claim traceable, nothing invented. Bring your own model (OpenAI-compatible, Ollama, Anthropic)."
+2026-11-22T02:39:04Z,aiosavorum,0.1.0,Savorum contributors,MIT,1142744,Async Python client for the Savorum HTTP API
+2026-11-22T02:43:52Z,dex-connector-openweathermap,0.1.0,,MIT,88284,OpenWeatherMap connector for Dex Flows
+2026-11-22T02:45:20Z,dex-connector-paypal,0.1.0,,MIT,92984,PayPal connector for Dex Flows
+2026-11-22T02:45:54Z,sth-analysis-tools,0.2.0,IFT - TU Wien <trautner@ift.at>,MIT,445722,CIRP Sensory Toolholder (STH) Normalization & Analysis Tools
+2026-11-22T02:46:28Z,kabumetrics-edinet-mcp,1.0.1,KabuMetrics,MIT,15780,Official Model Context Protocol (MCP) server for KabuMetrics Japan Stock Financials & FSA EDINET Filings API
+2026-11-22T02:46:55Z,dex-connector-pinecone,0.1.1,,MIT,93781,Pinecone connector for Dex Flows
+2026-11-22T02:48:16Z,scikit-doc,0.1.0,,,172507,Step-by-step scikit-learn documentation with source-grounded worked examples.
+2026-11-22T02:48:32Z,hunspell-hitalent,2.0.3,Matthew Seal <mseal007@gmail.com>,,43896830,Cython bindings for the Hunspell spelling library
+2026-11-22T02:53:15Z,leanscene,0.1.1,Lucas Jackson,MIT,2997040,"Fast shot transition detection in 0.39M parameters: higher F1 than TransNet V2 on its three benchmarks, with 115x fewer operations"
+2026-11-22T02:55:20Z,seekr-search,0.1.1,Swarsin,MIT,867406,Offline hybrid semantic and keyword search over your own files
+2026-11-22T02:56:29Z,datajoins-nybble,1.0.0,DataJoins <hello@datajoins.com>,Apache-2.0,459591,"A nybble is 4 bits. That's all you need. Browse, query, diagram, and graph any data source - one pip install, zero infrastructure."
+2026-11-22T03:04:18Z,dislop,0.6.0,dislop contributors,Apache-2.0,398536,"Local zero-dependency anti-slop linter for AI-written docs, Word/PowerPoint files, and web pages."
+2026-11-22T03:05:45Z,kritiq-cli,2.4.13,,,65236,KRITIQ AI-powered code review and translation CLI
+2026-11-22T03:05:46Z,scalene-guard,0.1.0,drusifer,MIT,276105,Provenance-based DLP layer for AI coding agents
+2026-11-22T03:12:11Z,mdream-py,0.1.0,,MIT,1170989,Fastest HTML to Markdown converter with streaming and plugin support

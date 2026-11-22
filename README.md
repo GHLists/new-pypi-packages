@@ -8,34 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 02:18 UTC
+## Latest list — 2026-11-22 03:19 UTC
 
-New packages created between 2026-11-22 01:20 UTC and 2026-11-22 02:18 UTC.
+New packages created between 2026-11-22 02:18 UTC and 2026-11-22 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-22T02-18-52-681857Z.csv)
+[Full CSV](data/new-packages-2026-11-22T03-19-26-058682Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-22 01:28:23 | [causal-toolkit-bergeson](https://pypi.org/project/causal-toolkit-bergeson/) | 0.1.1 | Rhett Bergeson <rhettbergeson… | 18.7 kB | A Python package for causal inference methods including ATE estimation, propens… |
-| 2026-11-22 01:28:59 | [pyautark](https://pypi.org/project/pyautark/) | 0.1.0a1 | Urban Toolkit | 36.5 MB | Declarative Python API for urban visual analytics (maps, plots, spatial joins)… |
-| 2026-11-22 01:31:04 | [image-optimizer-webui](https://pypi.org/project/image-optimizer-webui/) | 1.1.0 | aREversez | 374.3 kB | Batch image compression with a local web UI (PNG/JPEG/WebP/AVIF) |
-| 2026-11-22 01:31:51 | [gz-mutation-witness](https://pypi.org/project/gz-mutation-witness/) | 0.1.0 | g0 | 24.4 kB | Mutation-sweep witness for unittest suites: killed, survived, invalid, inconclu… |
-| 2026-11-22 01:31:54 | [gz-mindload](https://pypi.org/project/gz-mindload/) | 0.1.0 | g0 | 13.4 kB | Cognitive complexity scorer over CPython's ast: a Python API and a CLI |
-| 2026-11-22 01:38:25 | [ctk-idiomas](https://pypi.org/project/ctk-idiomas/) | 0.1.2 | Lucas Gabriel da Costa | 21.3 kB | Sistema Plug & Play de idiomas e tradução visual para CustomTkinter |
-| 2026-11-22 01:42:56 | [django-material-design-icons](https://pypi.org/project/django-material-design-icons/) | 0.0.1.dev1 | IndustrialRabbit | 4.6 MB | Material Design Icon python package primarily for Django applications |
-| 2026-11-22 01:43:39 | [port-test](https://pypi.org/project/port-test/) | 0.1.0 | linyuan | 8.3 kB | 测试port是否可用和随机一个port并测试。 |
-| 2026-11-22 01:46:49 | [sosmed-scanner](https://pypi.org/project/sosmed-scanner/) | 0.4.0 | Nuzuli | 23.1 kB | Check whether a username exists on public profile pages - 20 platforms, zero de… |
-| 2026-11-22 01:47:26 | [pikkolo](https://pypi.org/project/pikkolo/) | 0.1.0 |  | 20.9 kB | Fabricate and assemble a PCB with Pikkolo from the command line. Built for AI a… |
-| 2026-11-22 01:47:26 | [qupai-lab](https://pypi.org/project/qupai-lab/) | 0.2.0 | QuSpect | 62.3 kB | The QuPai Lab SDK: work a QuPai lab's instruments from Python scripts through I… |
-| 2026-11-22 01:49:30 | [pgfanout](https://pypi.org/project/pgfanout/) | 0.0.1 |  | 2.8 kB | Parallel logical dump/restore for PostgreSQL (placeholder release, under develo… |
-| 2026-11-22 01:49:57 | [pilotdroid](https://pypi.org/project/pilotdroid/) | 0.6.1 |  | 47.8 kB | Device-side UiAutomation agent — uiautomator2-compatible Python client (connect… |
-| 2026-11-22 01:55:17 | [agent-groupchat](https://pypi.org/project/agent-groupchat/) | 0.1.0 | MohammedAtya | 165.8 kB | A local group chat between you and your AI agents (Claude Code, Codex, Gemini C… |
-| 2026-11-22 02:00:19 | [bomlens-runner](https://pypi.org/project/bomlens-runner/) | 1.15.1 | SK Telecom | 122.6 kB | Run the BomLens SBOM scan engine on Kubernetes or Docker from another program |
-| 2026-11-22 02:01:54 | [adk-revsec](https://pypi.org/project/adk-revsec/) | 0.1.0 | RevSec / RevUp AI LLC <hello@… | 39.7 kB | RevSec for Google ADK: stop risky agent actions before they run, catch prompt i… |
-| 2026-11-22 02:06:16 | [bpl-biosim](https://pypi.org/project/bpl-biosim/) | 0.3.0 | BPL Project | 46.6 kB | BPL: a multi-scale biological programming and simulation language reference int… |
-| 2026-11-22 02:09:13 | [sandbox-ai-sdk](https://pypi.org/project/sandbox-ai-sdk/) | 0.1.0 | Sandbox AI | 26.7 kB | Python client for Sandbox AI: propose changes to business systems and read the… |
-| 2026-11-22 02:09:20 | [video-shot-budget](https://pypi.org/project/video-shot-budget/) | 0.1.0 | js-upup | 6.1 kB | Allocate an integer clip duration across weighted storyboard beats. |
-| 2026-11-22 02:12:58 | [cerebro-memory](https://pypi.org/project/cerebro-memory/) | 0.2.0 | cerebro-memory contributors | 126.8 kB | A local, read-only index over your Markdown notes and your AI agents' memories,… |
-| 2026-11-22 02:13:39 | [pyfylr](https://pypi.org/project/pyfylr/) | 0.1.0 | "David S. Cassell" <davidscas… | 8.7 MB | Latent transition, latent class, and latent profile models. Release 1 uses the… |
-| 2026-11-22 02:16:02 | [wholebodypose](https://pypi.org/project/wholebodypose/) | 2.0.2 | Cristian Lazo-Quispe, Renato… | 186.5 kB | Unified whole-body (COCO-WholeBody, 133 keypoints) pose estimation with RTMPose… |
-| 2026-11-22 02:16:03 | [flowlayers](https://pypi.org/project/flowlayers/) | 0.1.0 | Atlahua Quiahuitl Martínez Ob… | 30.7 kB | Fast probabilistic traversal of connectomes (Schlegel et al. 2021 information-f… |
+| 2026-11-22 02:20:06 | [frameforge-py](https://pypi.org/project/frameforge-py/) | 0.1.0 | daiyuxiang | 19.1 kB | Add your description here |
+| 2026-11-22 02:21:40 | [sandbox-ai-mcp](https://pypi.org/project/sandbox-ai-mcp/) | 0.1.0 | Sandbox AI | 24.4 kB | MCP server for Sandbox AI: lets agents propose changes and read decisions throu… |
+| 2026-11-22 02:28:54 | [indiaval](https://pypi.org/project/indiaval/) | 0.2.0 | Greeshma Gowda K A | 8.6 kB | Validators for Indian mobile, PIN code, PAN, IFSC, Aadhaar, GSTIN and vehicle n… |
+| 2026-11-22 02:37:16 | [sartor](https://pypi.org/project/sartor/) | 0.0.1 | Michael Borck <michael.borck@… | 11.1 kB | Privacy-first résumé tailoring: your evidence in, a tailored résumé out — every… |
+| 2026-11-22 02:39:04 | [aiosavorum](https://pypi.org/project/aiosavorum/) | 0.1.0 | Savorum contributors | 1.1 MB | Async Python client for the Savorum HTTP API |
+| 2026-11-22 02:43:52 | [dex-connector-openweathermap](https://pypi.org/project/dex-connector-openweathermap/) | 0.1.0 |  | 88.3 kB | OpenWeatherMap connector for Dex Flows |
+| 2026-11-22 02:45:20 | [dex-connector-paypal](https://pypi.org/project/dex-connector-paypal/) | 0.1.0 |  | 93.0 kB | PayPal connector for Dex Flows |
+| 2026-11-22 02:45:54 | [sth-analysis-tools](https://pypi.org/project/sth-analysis-tools/) | 0.2.0 | IFT - TU Wien <trautner@ift.a… | 445.7 kB | CIRP Sensory Toolholder (STH) Normalization & Analysis Tools |
+| 2026-11-22 02:46:28 | [kabumetrics-edinet-mcp](https://pypi.org/project/kabumetrics-edinet-mcp/) | 1.0.1 | KabuMetrics | 15.8 kB | Official Model Context Protocol (MCP) server for KabuMetrics Japan Stock Financ… |
+| 2026-11-22 02:46:55 | [dex-connector-pinecone](https://pypi.org/project/dex-connector-pinecone/) | 0.1.1 |  | 93.8 kB | Pinecone connector for Dex Flows |
+| 2026-11-22 02:48:16 | [scikit-doc](https://pypi.org/project/scikit-doc/) | 0.1.0 |  | 172.5 kB | Step-by-step scikit-learn documentation with source-grounded worked examples. |
+| 2026-11-22 02:48:32 | [hunspell-hitalent](https://pypi.org/project/hunspell-hitalent/) | 2.0.3 | Matthew Seal <mseal007@gmail.… | 43.9 MB | Cython bindings for the Hunspell spelling library |
+| 2026-11-22 02:53:15 | [leanscene](https://pypi.org/project/leanscene/) | 0.1.1 | Lucas Jackson | 3.0 MB | Fast shot transition detection in 0.39M parameters: higher F1 than TransNet V2… |
+| 2026-11-22 02:55:20 | [seekr-search](https://pypi.org/project/seekr-search/) | 0.1.1 | Swarsin | 867.4 kB | Offline hybrid semantic and keyword search over your own files |
+| 2026-11-22 02:56:29 | [datajoins-nybble](https://pypi.org/project/datajoins-nybble/) | 1.0.0 | DataJoins <hello@datajoins.co… | 459.6 kB | A nybble is 4 bits. That's all you need. Browse, query, diagram, and graph any… |
+| 2026-11-22 03:04:18 | [dislop](https://pypi.org/project/dislop/) | 0.6.0 | dislop contributors | 398.5 kB | Local zero-dependency anti-slop linter for AI-written docs, Word/PowerPoint fil… |
+| 2026-11-22 03:05:45 | [kritiq-cli](https://pypi.org/project/kritiq-cli/) | 2.4.13 |  | 65.2 kB | KRITIQ AI-powered code review and translation CLI |
+| 2026-11-22 03:05:46 | [scalene-guard](https://pypi.org/project/scalene-guard/) | 0.1.0 | drusifer | 276.1 kB | Provenance-based DLP layer for AI coding agents |
+| 2026-11-22 03:12:11 | [mdream-py](https://pypi.org/project/mdream-py/) | 0.1.0 |  | 1.2 MB | Fastest HTML to Markdown converter with streaming and plugin support |
