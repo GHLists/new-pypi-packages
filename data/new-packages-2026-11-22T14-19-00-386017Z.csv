@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T13:21:30Z,pyagy,0.7.1,,,182706,Antigravity CLI (agy 1.5.14) wire-compatible harness built on python-codex
+2026-11-22T13:21:40Z,cityugpa,0.1.0,chenhn2026-dot <chenhn2026-dot@users.noreply.github.com>,MIT,38125,Calculate CityU GPA under official academic rules
+2026-11-22T13:24:16Z,pyflutter-ui,0.1.0,,,126624,UI baseada em Tk
+2026-11-22T13:25:47Z,napari-freeimagetovideo,1.0.0,Free Image to Video <support@freeimagetovideo.ai>,MIT,9764,"Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. napari plugin."
+2026-11-22T13:26:09Z,geostride,0.2.0,Rohan Dedhia <rohandedhia13@gmail.com>,MIT,207967,"Lightweight geospatial feature engineering, spatial autocorrelation, and discrete spatial indexing for Python."
+2026-11-22T13:27:31Z,trailytics,0.3.0,Trailytics Team,Apache-2.0,107138,Trailytics Python SDK & CLI - AI Observability & Tracing
+2026-11-22T13:30:52Z,llm-endpoint-red-team-cli,1.0.0,Prow Labs <noreply@prowlabs.io>,MIT,20265,"Zero-dependency preflight checker, CI/CD regression gate, and forensic .zip comparator for Prow // Red-Team."
+2026-11-22T13:31:39Z,praesago-mcp,0.1.0,Praesago,MIT,12922,"Local (stdio) MCP server for Praesago: England and Wales property and area data for Claude, Cursor and other MCP clients."
+2026-11-22T13:32:01Z,marks-pkg,1.0.0,,,4681,"A Python package for calculating internal marks, grades and results"
+2026-11-22T13:34:49Z,napari-aigifmaker,1.0.0,AI GIF Maker <support@aigifmaker.ai>,MIT,10810,Turn text into animated GIFs with AI GIF Maker. Native GIF generation — no video conversion. Load generated GIF frames directly into napari.
+2026-11-22T13:35:01Z,flexenai,0.1.0,"""Flexen UG (haftungsbeschränkt)"" <support@flexen.co>",MIT,68387,"Official Python client for the Flexen API (nutrition from text and photos, food search, barcode, goals, catalog, account)."
+2026-11-22T13:35:03Z,pymc-mfm,0.1.0,PyMC Labs,Apache-2.0,68818,"Python client for PyMC MFM (marketing foundational models), the hosted service from PyMC Labs."
+2026-11-22T13:36:49Z,silverpoint,0.11.0,Ernesto Crespo <ecrespo@gmail.com>,MIT,1482453,"silverpoint charts from Python: notebooks, Flask, Django and static HTML, drawn by the library's own standalone script."
+2026-11-22T13:37:25Z,wpyls,0.1.0,Aman Verma (Kiri),,3615,My custom ls command in Python for Windows
+2026-11-22T13:38:29Z,zijian-mcp,0.1.1,LIU Jin-zhu,MIT,18326,字鉴·书法识字 MCP Server：上传单字图片，识别楷行草隶篆及甲骨文、金文、战国文字等字形，返回候选汉字、繁体、拼音、置信度与释义。
+2026-11-22T13:45:29Z,nivix,0.9.0,Michael Reisecker <m.r@sbg.at>,AGPL-3.0-or-later,1703627,"nivix: snow stratigraphy timelines, index plots and ensembles."
+2026-11-22T13:47:26Z,crispy-ipa,0.1.0,kodovy-pesets,MIT,2137605,automatic english-to-IPA text transcriber
+2026-11-22T13:50:01Z,gleplot,6.0.0,gleplot contributors,GPL-2.0+,1096029,"Write standard GLE (Graphics Layout Engine) from Python, with matplotlib-shaped names"
+2026-11-22T13:51:20Z,fundrive-pan115,2.0.100,"牛哥 <niuliangtao@qq.com>, farfarfun <farfarfun@qq.com>",MIT,448886,115网盘（p115client）云存储 API 封装
+2026-11-22T13:52:29Z,revemaker,0.1.0,"Revemaker, Inc.",MIT,39042,"revemaker command line client: sign-in, video transcription and subtitle exports."
+2026-11-22T13:58:25Z,ovos-PHAL-plugin-netpolicy,0.0.1a1,emkay-voice,Apache-2.0,64470,"OpenVoiceOS PHAL admin plugin: which of OVOS' services may reach the internet, enforced with nftables, and local only from the bus"
+2026-11-22T14:05:30Z,crystalbrain-hermes,0.1.0,,MIT,28056,"CrystalBrain memory for Hermes Agent: recall before each turn, conversations saved, one memory per user."
+2026-11-22T14:06:50Z,p14g,0.0.1,Samuel Colvin <s@muelcolvin.com>,MIT,33718289,Check untrusted SQL against an allowlist and rewrite it so it is safe to run on Postgres.
+2026-11-22T14:07:18Z,text-converters,0.2.1,Nikos Paximadakis,MIT,22156,"Convert Greek, Swedish, German, French and Spanish letters to plain Latin equivalents"
+2026-11-22T14:07:49Z,contlity,0.3.0,Contlity,LicenseRef-Proprietary,51880,SDK oficial para la API de Contlity — automatización fiscal e integraciones ERP
+2026-11-22T14:09:52Z,auto-mas-maafw-native,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,77135,MaaFramework 原生库识别工具
+2026-11-22T14:10:02Z,auto-mas-maafw-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,183247,MFW (generic MaaFramework) specialized script adapter for AUTO-MAS
+2026-11-22T14:10:35Z,auto-mas-maafw-interface,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,248644,MaaFramework interface 解析与运行计划库
+2026-11-22T14:11:19Z,second-brain-ics,0.1.0,,AGPL-3.0-or-later,271361,"Read-only MCP server that lets Claude read calendar feeds (iCalendar share links), with repeats, time zones and all-day events handled for it"
+2026-11-22T14:12:11Z,second-brain-imap,0.1.0,,AGPL-3.0-or-later,302976,"MCP server that lets Claude search and read an IMAP mailbox, read-only. Built for Proton Mail Bridge."
+2026-11-22T14:12:11Z,wallstreet-mcp-tools,0.1.0,MCP Collector <mcp_collector@apify.actor>,MIT,7418,Lightweight Python SDK for Wall Street Hedge Fund Suite via Model Context Protocol (MCP)
+2026-11-22T14:12:34Z,gaffke,0.1.0,Louis Abraham <abraham.cie@gmail.com>,MIT,23321,"The Gaffke confidence interval for the mean of a discrete bounded variable: exact, narrow and fast"
+2026-11-22T14:14:15Z,auto-mas-maafw-agent-env,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,378513,准备 MFW 项目 agent 的 Python 环境与运行池
+2026-11-22T14:14:36Z,ampack,0.1.0,Jose Luis Latorre Millas,Apache-2.0,103522,"Verify and read ampack memory packs for AI agents: one signed file, checked where it lands."
+2026-11-22T14:14:51Z,auto-mas-maafw-project-update,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,853324,MFW 项目更新服务插件：项目副本、视图、导入更新与维护清理
+2026-11-22T14:16:16Z,auto-mas-maafw-runner,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,457031,"MFW runner block for AUTO-MAS: worker, timeouts, loop guard, failure screenshots and log redaction"
+2026-11-22T14:16:16Z,diffsol-jax-pjrt-cpu,0.12.0.1,Jack Montgomery <mail@jackbmontgomery.com>,Apache-2.0,169687296,The XLA PJRT CPU plugin packaged for diffsol-jax
+2026-11-22T14:17:53Z,auto-mas-m9a-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,210454,M9A specialized script adapter for AUTO-MAS
+2026-11-22T14:17:56Z,auto-mas-mss-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,158842,MSS (MaaStellaSora) specialized script adapter for AUTO-MAS
+2026-11-22T14:17:58Z,driftcheck-mcp,0.1.0,sauravmodi,"MIT License Copyright (c) 2026 sauravmodi Permission is hereby granted, free of charge, to any pers…",90565,"Verify the factual claims in agent-context docs (CLAUDE.md, runbooks) against the live system."
