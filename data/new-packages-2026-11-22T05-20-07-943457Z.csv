@@ -1,0 +1,13 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T04:14:14Z,PyAttitude,0.1.0,,,14510,Attitude Determination Indicator (ADI) in Python
+2026-11-22T04:23:28Z,libpython-linkcheck-autoenable,1.0.0,Itamar Oren,MIT,6345,Enable libpython-linkcheck automatically at interpreter startup
+2026-11-22T04:28:57Z,finleak,0.3.0,Vasu Koduri,Apache-2.0,196895,"Evaluate LLMs and AI assistants in financial services for leakage of PII, customer financial data and memorized training data."
+2026-11-22T04:31:48Z,opentele-kugua,1.15.2,kugua332334554,MIT,157729,"A Python Telegram API Library for converting between tdata and telethon sessions, with built-in official Telegram APIs."
+2026-11-22T04:37:33Z,argus-echo,0.1.0,smk762,MIT,728633,"The Argus suite's speech servers: Miso, XTTS-v2 and Qwen3-TTS behind one HTTP contract, plus a Wyoming bridge"
+2026-11-22T04:44:37Z,django-reportkit,0.1.0,Abdullah Alaidrous,MIT,82361,"Django reports on top of pyreportkit: model reports with filters and totals, paginated previews, and streamed or background exports to PDF, Excel and Word."
+2026-11-22T04:54:04Z,csm-cli,0.1.0,cainli,MIT,124660,Claude Code 会话管理器：一屏浏览/过滤/收藏全部会话，回车 resume；TUI + 本地 Web 界面
+2026-11-22T05:09:00Z,criticality-compass,0.0.1,Bruce Stephenson <energyscholar+criticality-compass@gmail.com>,Apache-2.0,10477,"Criticality Compass: an active instrument that kicks a system and reads which way, and how near, its critical point lies. Placeholder release; the first working release is 0.1.0."
+2026-11-22T05:11:19Z,xynolog,0.8.0,,Apache-2.0,774272,"The Python SDK for Xynolog, an open platform for building trusted AI knowledge bases"
+2026-11-22T05:12:29Z,vapoursynth-zexpr,0.1.0,dnjulek,Zlib,3126530,AsmJit-accelerated VapourSynth expression plugin written in Zig
+2026-11-22T05:17:28Z,phm-fincheck,0.1.0,PHM-Audit,MIT,24138,"Deterministic AI financial advice boundary checker - bilingual CN/EN rule kernel, zero dependencies"
+2026-11-22T05:17:34Z,qmed,0.3.0,PHM-Audit,Apache-2.0,26005,"Rule-table-based medical boundary checker: deterministic output-boundary & drug-interaction classification, zero dependencies"
