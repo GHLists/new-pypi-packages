@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T15:19:48Z,ovos-audio-transformer-plugin-overheard-manners,0.1.0a1,emkay-voice,Apache-2.0,70990,"OpenVoiceOS audio transformer: the assistant gently comments on swearing it overhears in the room - spotted and checked on the device, nothing recorded or sent"
+2026-11-22T15:21:01Z,cjd-flows,1.0.0,Faried Abu Zaid <fariedaz@gmail.com>,BSD-3-Clause,361632,Stable uniformly scaling normalizing flows with constant Jacobian determinant and radial base distributions.
+2026-11-22T15:22:55Z,failwin-echobox-labs-m1,0.1.0,,,15886,
+2026-11-22T15:23:54Z,arc56-generated-lucas-4243ed5d,1.2.2026072010,lucasucal,,18622,Generated ARC-56 Algorand smart-contract clients for lucasucal/event-organiser-scanner.
+2026-11-22T15:24:58Z,arc56-generated-m-far-2a5fd744,1.2.2026072010,m-faran,,25426,Generated ARC-56 Algorand smart-contract clients for m-faran/trust-vault.
+2026-11-22T15:25:07Z,jit-filter,0.0.1,,,2133,JIT-compiled declarative filter and query engine for Python.
+2026-11-22T15:25:10Z,wonder-filter,0.0.1,,,2266,JIT-compiled declarative filter adapter for aiogram and magic-filter.
+2026-11-22T15:26:03Z,arc56-generated-m3xpl-05b55a2b,1.2.2026072010,M3xplosi0n,,13522,Generated ARC-56 Algorand smart-contract clients for M3xplosi0n/eterleaves-backend.
+2026-11-22T15:27:08Z,arc56-generated-maiko-965b59a0,1.2.2026072010,maikoll120,,12737,Generated ARC-56 Algorand smart-contract clients for maikoll120/algokit_workshop.
+2026-11-22T15:27:30Z,neuralopt,0.7.0,Abhinav Mishra <42838835+bibymaths@users.noreply.github.com>,"MIT License Copyright (c) 2026 Abhinav Mishra Permission is hereby granted, free of charge, to any…",2809010,"A JAX research package for learned optimization, with replayable interval certification"
+2026-11-22T15:27:58Z,s3xfer,0.1.0,Tushar Singh,MIT,412026,"Stream, copy and sync S3 objects of any size in constant memory"
+2026-11-22T15:28:18Z,ovos-audio-transformer-plugin-autovolume,0.0.1a1,emkay-voice,Apache-2.0,39653,"OpenVoiceOS audio transformer: speaks up when the room is noisy and softly when it is quiet, learning the volume you like from the times you set it yourself - only loudness is measured, nothing recor…"
+2026-11-22T15:34:03Z,marcelene,0.1.0,,AGPL-3.0-only,18439493,Run Marceline WebAssembly plugins in Python with a capability-denying host.
+2026-11-22T15:34:56Z,gleanly,0.1.0a2,Jordan Manoj,Apache-2.0,230040,"All-in-one text acquisition for AI: scraping, OCR and search with trust scores, compliance metadata and provenance."
+2026-11-22T15:37:39Z,9in,0.1.0,Cubelet Ltd <info@cubelet.co.uk>,MIT,154860,"Official Python SDK for 9in: sign-in (OIDC + PKCE), access token verification, Management API, adapters and webhooks."
+2026-11-22T15:38:41Z,ovos-skill-autovolume,0.0.1a1,emkay-voice,Apache-2.0,142547,"OVOS skill: turn auto volume on and off by voice, ask how it stands, or make it forget what it has learned - the voice for ovos-audio-transformer-plugin-autovolume"
+2026-11-22T15:39:22Z,9in-django,0.1.0,Cubelet Ltd <hello@9in.io>,MIT,134145,"Official Django SDK for 9in: sign-in, local users, API tokens, webhooks and your own user database."
+2026-11-22T15:40:01Z,suzent-acp,0.1.0,,Apache-2.0,11497,Use the Suzent installed on this computer as an Agent Client Protocol agent
+2026-11-22T15:41:21Z,slouchbuddy,0.1.0,Hardi Parikh,"MIT License Copyright (c) 2026 Hardi Parikh Permission is hereby granted, free of charge, to any pe…",95572,"Slouchbuddy: real-time desk posture coaching from your webcam, with calibration, alerts and an analytics dashboard."
+2026-11-22T15:45:20Z,zoll-lint,0.1.0,Tensorcery,MIT AND MPL-2.0 AND Apache-2.0 AND BSD-3-Clause,46517404,"A policy engine for files of any language: Rego over data, code, and the code embedded in either"
+2026-11-22T15:48:54Z,runlatch,1.0.1,Prathamesh Ghatkar <prathameshghatkar54@gmail.com>,MIT,208033,"Durable, HITL-First Execution Runtime for Autonomous Developer Agents"
+2026-11-22T15:49:27Z,odoo-addon-product-template-attribute-line,20.0.1.0.0.2,Fluvo,LGPL-3,33379,Adds a menu item for product.template.attribute.line
+2026-11-22T15:51:28Z,middy,0.3.0,,MIT,3394627,Python bindings for the middy Rust MIDI toolkit
+2026-11-22T15:53:13Z,framesheet,0.1.0,Philipp Temminghoff,MIT,79885,"Frame-accurate contact sheets and motion maps for animated SVG and HTML, for humans and AI agents"
+2026-11-22T15:55:52Z,odoo-addon-product-template-attribute-value-xmlid,20.0.1.0.0.2,Fluvo,LGPL-3,40937,Generates predictable XML IDs for product.template.attribute.value records based on template and attribute values. These can be used to generate predictable combinations for product.product records.
+2026-11-22T15:58:32Z,OpenSMI-ROS2,0.1.0,,MIT,3269019,Exposes a ROS2 system as an OPC UA server built on opensmi.server and the SkillSet information model.
+2026-11-22T16:02:27Z,pandasquery,0.0.1,Taha Shieenavaz <tahashieenavaz@gmail.com>,MIT,29734,Provides an efficient simple interface to query a Pandas DataFrame or Series.
+2026-11-22T16:03:19Z,lekman-qualify,0.1.0,Tobias Lekman,MIT,1761240,"Qualification tests (IQ, OQ, PQ, intended use) for pytest that write redacted JSON evidence and a PDF report."
+2026-11-22T16:03:21Z,featurehero,2026.2.1.15,Juan Carlos Moreno Sanchez,MIT,101475,Application for Genetic Orchestrator for selection of variables and machine model
+2026-11-22T16:04:34Z,rendobar,0.1.0,Rendobar,MIT,1901464,Rendobar Python SDK: the official client for Rendobar's media processing and AI generation API.
+2026-11-22T16:07:47Z,recallhook,0.1.0,DEVPARMAR06,MIT,64455,"Private, local long-term memory for Claude Code (desktop app, VS Code, terminal): a hook that recalls and stores facts with mem0 + Ollama."
+2026-11-22T16:16:28Z,schema-compat,0.1.0,schema-compat contributors,MIT,107723,"Make one tool/function JSON schema work with Anthropic, OpenAI (incl. strict mode) and Gemini: check, repair, and restore arguments."
+2026-11-22T16:17:42Z,protee,0.1.0,miki4ia,BSD-3-Clause AND MIT,535378,"Proteus: graph and operations research algorithms whose methods are chosen explicitly, compared, and backed by certificates and diagnostics"

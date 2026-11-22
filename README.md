@@ -8,44 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 15:18 UTC
+## Latest list — 2026-11-22 16:19 UTC
 
-New packages created between 2026-11-22 14:19 UTC and 2026-11-22 15:18 UTC.
+New packages created between 2026-11-22 15:18 UTC and 2026-11-22 16:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-22T15-18-31-14922Z.csv)
+[Full CSV](data/new-packages-2026-11-22T16-19-12-517696Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-22 14:19:45 | [kc-config-templater](https://pypi.org/project/kc-config-templater/) | 0.1.1 | m13t | 48.5 kB | Structurally discover and templatize secrets in keycloak-config-cli realm expor… |
-| 2026-11-22 14:26:23 | [winmsgbox-api](https://pypi.org/project/winmsgbox-api/) | 0.1.0 | admin | 3.7 kB | Native Windows MessageBox via WinAPI (ctypes, no tkinter) |
-| 2026-11-22 14:27:46 | [service-autopilot-mcp](https://pypi.org/project/service-autopilot-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 15.7 kB | Connect Service Autopilot to ChatGPT, Claude and other AI agents through the un… |
-| 2026-11-22 14:28:16 | [GOTDiff](https://pypi.org/project/GOTDiff/) | 0.1.0 | GOTDiff Developers | 46.9 kB | Differentiation path / trajectory inference via geodesic distance on the Grassm… |
-| 2026-11-22 14:28:48 | [cdx-dock](https://pypi.org/project/cdx-dock/) | 2.1.0 | "Cantor Labs (CDX Enterprise… | 31.3 MB | Enterprise AI Agent Interoperability, Multilingual Arbiter, Lossless CDX-Tab &… |
-| 2026-11-22 14:33:56 | [reputecast](https://pypi.org/project/reputecast/) | 1.8.1 | The ReputeCast authors | 5.0 MB | The ReputeCast API client for Python: typed operations, retries, RFC 9457 error… |
-| 2026-11-22 14:34:10 | [puspa](https://pypi.org/project/puspa/) | 0.1.0 |  | 2.2 MB | PuspaBot — a personal AI agent you run yourself |
-| 2026-11-22 14:35:12 | [arapy-cli](https://pypi.org/project/arapy-cli/) | 0.1.0 | aaltatan | 22.9 kB | Arabic amounts in words (تفقيط), digits, normalization, sorting, ordinals and d… |
-| 2026-11-22 14:36:10 | [oadspython](https://pypi.org/project/oadspython/) | 0.1.0 | Realm | 629.1 kB | oads — Realm dataset packs and loaders for OA |
-| 2026-11-22 14:36:18 | [gepetto](https://pypi.org/project/gepetto/) | 0.1.1 | Gepetto <contact@gepettoapp.c… | 27.9 kB | The official Python SDK of the Gepetto API v2: real estate photo editing. Enhan… |
-| 2026-11-22 14:36:38 | [gr8mail](https://pypi.org/project/gr8mail/) | 0.1.0 | thegr8labs | 15.6 kB | Official Python SDK for Gr8Mail: send email from your own domain by API. |
-| 2026-11-22 14:41:27 | [minecraft1345](https://pypi.org/project/minecraft1345/) | 0.0.1 | Artur Peroshkow <Peroshok228@… | 2.7 kB | Minecraft eto moja shyzn |
-| 2026-11-22 14:44:07 | [minecraft13456](https://pypi.org/project/minecraft13456/) | 0.0.1 | Artur Peroshkow <Peroshok228@… | 2.8 kB | Minecraft eto moja shyzn |
-| 2026-11-22 14:45:01 | [mac-diagnostics-mcp](https://pypi.org/project/mac-diagnostics-mcp/) | 0.5.0 | Thomas Juul Dyhr | 136.6 kB | FastMCP server exposing macOS diagnostic scripts as MCP tools |
-| 2026-11-22 14:45:05 | [gnsswire-antex](https://pypi.org/project/gnsswire-antex/) | 0.1.0 | Trace Navigation | 55.6 kB | ANTEX 1.4 antenna calibration files (phase centre offsets and variations), read… |
-| 2026-11-22 14:45:06 | [gnsswire-grib](https://pypi.org/project/gnsswire-grib/) | 0.1.0 | Trace Navigation | 200.4 kB | GRIB edition 2 messages (WMO FM 92): sections, templates and the packed grid po… |
-| 2026-11-22 14:45:07 | [gnsswire-ionex](https://pypi.org/project/gnsswire-ionex/) | 0.1.0 | Trace Navigation | 213.6 kB | IONEX 1.0 ionosphere map files (TEC, RMS and height maps, differential code bia… |
-| 2026-11-22 14:45:10 | [gnsswire-tro](https://pypi.org/project/gnsswire-tro/) | 0.1.0 | Trace Navigation | 41.4 kB | SINEX_TRO troposphere files (versions 0.01 and 2.00): zenith delays, gradients… |
-| 2026-11-22 14:50:15 | [scrapeplanner](https://pypi.org/project/scrapeplanner/) | 0.1.0 | Siddharth Kumar | 119.5 kB | Give it a URL; it reports the cheapest reliable, polite way to collect that sit… |
-| 2026-11-22 14:50:27 | [crewai-seedance](https://pypi.org/project/crewai-seedance/) | 0.1.0 | Ace Data Cloud Dev <dev@aceda… | 571.1 kB | Seedance by Ace Data Cloud: native CrewAI video generation and same-task retrie… |
-| 2026-11-22 14:51:08 | [easy-tiler](https://pypi.org/project/easy-tiler/) | 1.0.3 | Joseph Barraud | 33.9 kB | Library for tiling and patterns |
-| 2026-11-22 14:52:20 | [importfrommyharness](https://pypi.org/project/importfrommyharness/) | 0.1.1 | shulkwisec | 26.2 kB | Import config from one AI-coding harness into another |
-| 2026-11-22 14:55:05 | [reachreel](https://pypi.org/project/reachreel/) | 0.3.0 | Tercel | 341.2 kB | Fully local video narration pipeline: Ollama VLM -> script -> Kokoro TTS -> Whi… |
-| 2026-11-22 14:56:19 | [stacklatch](https://pypi.org/project/stacklatch/) | 0.1.0a1 | StackLatch contributors | 155.6 kB | Bounded analysis and verified integration of pinned Python repositories |
-| 2026-11-22 14:56:20 | [ovos-control-panel-mark1](https://pypi.org/project/ovos-control-panel-mark1/) | 0.1.0a1 | Andreas Lorensen | 91.0 kB | ovos-control-panel extension: draw the Mark-1's mouth and eyes, animate them, a… |
-| 2026-11-22 14:56:27 | [crewai-happyhorse](https://pypi.org/project/crewai-happyhorse/) | 0.1.0 | Ace Data Cloud Dev <dev@aceda… | 569.9 kB | HappyHorse by Ace Data Cloud: native CrewAI video generation and same-task retr… |
-| 2026-11-22 14:56:29 | [crewai-gpt-image](https://pypi.org/project/crewai-gpt-image/) | 0.1.0 | Ace Data Cloud Dev <dev@aceda… | 569.8 kB | GPT Image by Ace Data Cloud: native CrewAI image generation and same-task retri… |
-| 2026-11-22 14:56:33 | [crewai-nano-banana](https://pypi.org/project/crewai-nano-banana/) | 0.1.0 | Ace Data Cloud Dev <dev@aceda… | 569.6 kB | Nano Banana by Ace Data Cloud: native CrewAI image generation and same-task ret… |
-| 2026-11-22 14:58:27 | [nyc-shsat-cutoffs](https://pypi.org/project/nyc-shsat-cutoffs/) | 1.0.0 | shsatpracticetest <trieuly@sh… | 18.8 kB | NYC Specialized High Schools Admissions Test (SHSAT) offer cutoff scores for ei… |
-| 2026-11-22 14:58:51 | [assist-live-client](https://pypi.org/project/assist-live-client/) | 0.1.0a1 |  | 22.8 kB |  |
-| 2026-11-22 15:03:00 | [mapwright-agent](https://pypi.org/project/mapwright-agent/) | 0.2.0 |  | 5.3 MB | A live map of what your coding agent is building: structure, architecture, data… |
-| 2026-11-22 15:04:28 | [notepad-launcher](https://pypi.org/project/notepad-launcher/) | 0.1.0 |  | 1.7 kB | Opens Notepad |
-| 2026-11-22 15:05:30 | [mediakit-cli](https://pypi.org/project/mediakit-cli/) | 0.1.4 | mediakit contributors | 93.2 kB | Agent-friendly CLI for watching videos, analyzing music, subtitling, dubbing an… |
+| 2026-11-22 15:19:48 | [ovos-audio-transformer-plugin-overheard-manners](https://pypi.org/project/ovos-audio-transformer-plugin-overheard-manners/) | 0.1.0a1 | emkay-voice | 71.0 kB | OpenVoiceOS audio transformer: the assistant gently comments on swearing it ove… |
+| 2026-11-22 15:21:01 | [cjd-flows](https://pypi.org/project/cjd-flows/) | 1.0.0 | Faried Abu Zaid <fariedaz@gma… | 361.6 kB | Stable uniformly scaling normalizing flows with constant Jacobian determinant a… |
+| 2026-11-22 15:22:55 | [failwin-echobox-labs-m1](https://pypi.org/project/failwin-echobox-labs-m1/) | 0.1.0 |  | 15.9 kB |  |
+| 2026-11-22 15:23:54 | [arc56-generated-lucas-4243ed5d](https://pypi.org/project/arc56-generated-lucas-4243ed5d/) | 1.2.2026072010 | lucasucal | 18.6 kB | Generated ARC-56 Algorand smart-contract clients for lucasucal/event-organiser-… |
+| 2026-11-22 15:24:58 | [arc56-generated-m-far-2a5fd744](https://pypi.org/project/arc56-generated-m-far-2a5fd744/) | 1.2.2026072010 | m-faran | 25.4 kB | Generated ARC-56 Algorand smart-contract clients for m-faran/trust-vault. |
+| 2026-11-22 15:25:07 | [jit-filter](https://pypi.org/project/jit-filter/) | 0.0.1 |  | 2.1 kB | JIT-compiled declarative filter and query engine for Python. |
+| 2026-11-22 15:25:10 | [wonder-filter](https://pypi.org/project/wonder-filter/) | 0.0.1 |  | 2.3 kB | JIT-compiled declarative filter adapter for aiogram and magic-filter. |
+| 2026-11-22 15:26:03 | [arc56-generated-m3xpl-05b55a2b](https://pypi.org/project/arc56-generated-m3xpl-05b55a2b/) | 1.2.2026072010 | M3xplosi0n | 13.5 kB | Generated ARC-56 Algorand smart-contract clients for M3xplosi0n/eterleaves-back… |
+| 2026-11-22 15:27:08 | [arc56-generated-maiko-965b59a0](https://pypi.org/project/arc56-generated-maiko-965b59a0/) | 1.2.2026072010 | maikoll120 | 12.7 kB | Generated ARC-56 Algorand smart-contract clients for maikoll120/algokit_worksho… |
+| 2026-11-22 15:27:30 | [neuralopt](https://pypi.org/project/neuralopt/) | 0.7.0 | Abhinav Mishra <42838835+biby… | 2.8 MB | A JAX research package for learned optimization, with replayable interval certi… |
+| 2026-11-22 15:27:58 | [s3xfer](https://pypi.org/project/s3xfer/) | 0.1.0 | Tushar Singh | 412.0 kB | Stream, copy and sync S3 objects of any size in constant memory |
+| 2026-11-22 15:28:18 | [ovos-audio-transformer-plugin-autovolume](https://pypi.org/project/ovos-audio-transformer-plugin-autovolume/) | 0.0.1a1 | emkay-voice | 39.7 kB | OpenVoiceOS audio transformer: speaks up when the room is noisy and softly when… |
+| 2026-11-22 15:34:03 | [marcelene](https://pypi.org/project/marcelene/) | 0.1.0 |  | 18.4 MB | Run Marceline WebAssembly plugins in Python with a capability-denying host. |
+| 2026-11-22 15:34:56 | [gleanly](https://pypi.org/project/gleanly/) | 0.1.0a2 | Jordan Manoj | 230.0 kB | All-in-one text acquisition for AI: scraping, OCR and search with trust scores,… |
+| 2026-11-22 15:37:39 | [9in](https://pypi.org/project/9in/) | 0.1.0 | Cubelet Ltd <info@cubelet.co.… | 154.9 kB | Official Python SDK for 9in: sign-in (OIDC + PKCE), access token verification,… |
+| 2026-11-22 15:38:41 | [ovos-skill-autovolume](https://pypi.org/project/ovos-skill-autovolume/) | 0.0.1a1 | emkay-voice | 142.5 kB | OVOS skill: turn auto volume on and off by voice, ask how it stands, or make it… |
+| 2026-11-22 15:39:22 | [9in-django](https://pypi.org/project/9in-django/) | 0.1.0 | Cubelet Ltd <hello@9in.io> | 134.1 kB | Official Django SDK for 9in: sign-in, local users, API tokens, webhooks and you… |
+| 2026-11-22 15:40:01 | [suzent-acp](https://pypi.org/project/suzent-acp/) | 0.1.0 |  | 11.5 kB | Use the Suzent installed on this computer as an Agent Client Protocol agent |
+| 2026-11-22 15:41:21 | [slouchbuddy](https://pypi.org/project/slouchbuddy/) | 0.1.0 | Hardi Parikh | 95.6 kB | Slouchbuddy: real-time desk posture coaching from your webcam, with calibration… |
+| 2026-11-22 15:45:20 | [zoll-lint](https://pypi.org/project/zoll-lint/) | 0.1.0 | Tensorcery | 46.5 MB | A policy engine for files of any language: Rego over data, code, and the code e… |
+| 2026-11-22 15:48:54 | [runlatch](https://pypi.org/project/runlatch/) | 1.0.1 | Prathamesh Ghatkar <prathames… | 208.0 kB | Durable, HITL-First Execution Runtime for Autonomous Developer Agents |
+| 2026-11-22 15:49:27 | [odoo-addon-product-template-attribute-line](https://pypi.org/project/odoo-addon-product-template-attribute-line/) | 20.0.1.0.0.2 | Fluvo | 33.4 kB | Adds a menu item for product.template.attribute.line |
+| 2026-11-22 15:51:28 | [middy](https://pypi.org/project/middy/) | 0.3.0 |  | 3.4 MB | Python bindings for the middy Rust MIDI toolkit |
+| 2026-11-22 15:53:13 | [framesheet](https://pypi.org/project/framesheet/) | 0.1.0 | Philipp Temminghoff | 79.9 kB | Frame-accurate contact sheets and motion maps for animated SVG and HTML, for hu… |
+| 2026-11-22 15:55:52 | [odoo-addon-product-template-attribute-value-xmlid](https://pypi.org/project/odoo-addon-product-template-attribute-value-xmlid/) | 20.0.1.0.0.2 | Fluvo | 40.9 kB | Generates predictable XML IDs for product.template.attribute.value records base… |
+| 2026-11-22 15:58:32 | [OpenSMI-ROS2](https://pypi.org/project/OpenSMI-ROS2/) | 0.1.0 |  | 3.3 MB | Exposes a ROS2 system as an OPC UA server built on opensmi.server and the Skill… |
+| 2026-11-22 16:02:27 | [pandasquery](https://pypi.org/project/pandasquery/) | 0.0.1 | Taha Shieenavaz <tahashieenav… | 29.7 kB | Provides an efficient simple interface to query a Pandas DataFrame or Series. |
+| 2026-11-22 16:03:19 | [lekman-qualify](https://pypi.org/project/lekman-qualify/) | 0.1.0 | Tobias Lekman | 1.8 MB | Qualification tests (IQ, OQ, PQ, intended use) for pytest that write redacted J… |
+| 2026-11-22 16:03:21 | [featurehero](https://pypi.org/project/featurehero/) | 2026.2.1.15 | Juan Carlos Moreno Sanchez | 101.5 kB | Application for Genetic Orchestrator for selection of variables and machine mod… |
+| 2026-11-22 16:04:34 | [rendobar](https://pypi.org/project/rendobar/) | 0.1.0 | Rendobar | 1.9 MB | Rendobar Python SDK: the official client for Rendobar's media processing and AI… |
+| 2026-11-22 16:07:47 | [recallhook](https://pypi.org/project/recallhook/) | 0.1.0 | DEVPARMAR06 | 64.5 kB | Private, local long-term memory for Claude Code (desktop app, VS Code, terminal… |
+| 2026-11-22 16:16:28 | [schema-compat](https://pypi.org/project/schema-compat/) | 0.1.0 | schema-compat contributors | 107.7 kB | Make one tool/function JSON schema work with Anthropic, OpenAI (incl. strict mo… |
+| 2026-11-22 16:17:42 | [protee](https://pypi.org/project/protee/) | 0.1.0 | miki4ia | 535.4 kB | Proteus: graph and operations research algorithms whose methods are chosen expl… |
