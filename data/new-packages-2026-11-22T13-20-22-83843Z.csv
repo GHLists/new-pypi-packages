@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T11:17:34Z,InstagramFollowerAnalysis,0.2.0,,MIT,27864,Offline follower analysis with optional visible-browser collection
+2026-11-22T12:18:34Z,cityuschedule,0.3.0,cychau53,MIT,465892,Check CityU course timetables for clashes and generate course plans.
+2026-11-22T12:19:12Z,django-grappelli-theme-editor,0.1.1,Michał Pasternak <michal.dtz@gmail.com>,MIT,405234,"Database-backed theme editor for the django-grappelli admin: colours, fonts, density — site-wide and per user, with a live preview."
+2026-11-22T12:24:27Z,bidlab,0.1.0,NovelioPI,MIT,92410,Bidder-side ad auction simulator for research on bidding methods
+2026-11-22T12:25:30Z,nsppk,1.3.5,Fabrizio Costa,MIT,64085,Neighbourhood Subgraph Pairwise Pathway Kernel for graph feature extraction.
+2026-11-22T12:25:50Z,peruopen,0.1.0a2,Diego Avila,MIT,63948,"Datos públicos oficiales del Perú (SUNAT, BCRP, INEI, MEF), curados en Parquet y consultables con DuckDB y MCP."
+2026-11-22T12:25:50Z,werdylo-sdk,1.0.1,Werdylo,MIT,13960,Official Python SDK for Werdylo bots
+2026-11-22T12:27:48Z,freeman,0.1.0,nyssance,MIT,20552895,"A Rust HTTP engine for Python APIs: routing, auth and limits in Rust, business code in Python. The Rust core started from django-bolt."
+2026-11-22T12:27:50Z,vetolatch,0.4.0a1,Iman Khorami,BUSL-1.1,38855,Human-governed approval and audit boundaries for AI agent actions.
+2026-11-22T12:30:05Z,support-bot-utils,999.9.9,,,965,Stub package that mitigates Dependency Confusion attacks
+2026-11-22T12:33:12Z,db2-native-driver,0.1.0a1,Krzysztof Dusko,MIT,383820,Native IBM Db2 LUW driver for Python speaking DRDA/DDM directly over TCP/TLS
+2026-11-22T12:34:32Z,heyl,2026.11.22,Stefan Hoelzl <st.hoelzl@googlemail.com>,Apache-2.0,13871524,"Unofficial command-line client for heylogin: retrieve passwords, TOTP codes and custom fields from your vault."
+2026-11-22T12:34:39Z,modularragagain,0.1.0,,,13539,"Modular RAG pipeline on LangChain + DashScope: query rewrite, HyDE, hybrid retrieval with RRF, rerank, compression and long-context reordering."
+2026-11-22T12:36:06Z,pygments-sparql-generate,0.1.0,Maxime Lefrançois,Apache-2.0,13246,"Pygments lexer for SPARQL-Generate (.rqg): SPARQL 1.1 plus templates, iterators and sources."
+2026-11-22T12:37:37Z,nativemacro,0.2.2,Ishan Shahakar,MIT,295507,Fast native Windows mouse and keyboard automation for Python.
+2026-11-22T12:46:15Z,infra-provision-check,0.1.0,referencesource.org,CC0-1.0,41882,"Read your Terraform and docker-compose files and print, beside each setting they state, the published provision that speaks to it — NIST SP 800-53 Rev 5 and the HIPAA Security Rule, quoted verbatim w…"
+2026-11-22T12:46:46Z,barestats,1.4.0,Chakrank <chakrank@outlook.com>,MIT,19326,Zero-dependency background telemetry exporter for BareStats AI/LLM monitoring
+2026-11-22T12:47:38Z,defense-core,0.2.0,Muh Agus <pmuhammadagus-byte@users.noreply.github.com>,MIT,35022,Autonomous Agentic SOC with 20-Tier BlueSTAR Architecture for Cyber Defense
+2026-11-22T12:50:33Z,pyvegam,0.0.1,,Apache-2.0,2879794,Jerk-limited time-optimal path parameterization (TOPP)
+2026-11-22T12:51:35Z,aegis-ai-router,1.0.0,Akshay Rawate <akshayrawate@gmail.com>,Apache-2.0,311785,"Sub-6ms, zero-egress LLM routing, prompt-injection defense, and tool dispatch gateway."
+2026-11-22T12:53:53Z,oblivlib,0.1.0,"Weiqi Feng <weltch1997@gmail.com>, Xinle Cao <xinlecao72@gmail.com>",Apache-2.0,136225,A Python library of oblivious data structures and algorithms.
+2026-11-22T12:54:29Z,ledger-rig,0.2.0,,MIT,44328,"Speculos Solana Ledger Nano S Plus devices as Linux hidraw devices, for CI"
+2026-11-22T12:55:56Z,agent-framework-plimsoll,0.28.0,,Apache-2.0,22952,"A Microsoft Agent Framework shell tool and code tool that run agent-written commands and code in plimsoll, a self-hosted sandbox that refuses to run below the isolation you require"
+2026-11-22T12:56:03Z,smolagents-plimsoll,0.28.0,,Apache-2.0,22709,"A smolagents CodeAgent executor that runs agent-written code in plimsoll, a self-hosted sandbox that refuses to run below the isolation you require"
+2026-11-22T12:56:11Z,langchain-plimsoll,0.28.0,,Apache-2.0,29900,"A LangChain tool and a Deep Agents sandbox backend that run agent-written code in plimsoll, a self-hosted sandbox that refuses to run below the isolation you require"
+2026-11-22T12:56:27Z,lattice-inference,0.3.0a2,,Apache-2.0,825095,Instant chat replies for local LLMs even while heavy background tasks are running on CPU
+2026-11-22T12:56:36Z,tomojax,1.0.0rc1,Tristan Manchester,GPL-3.0-only,1486919,"TomoJAX — CT projector, reconstruction, and alignment"
+2026-11-22T12:58:13Z,pytest-traffic-capture,0.1.0,pytest-traffic-capture contributors,"MIT License Copyright (c) 2026 pytest-traffic-capture contributors Permission is hereby granted, fr…",84325,Capture requests/httpx/aiohttp traffic during tests as HAR 1.2 and cURL commands
+2026-11-22T12:58:48Z,ombro,0.2.0,Heliotrope Atelier Ltd,AGPL-3.0-only,1398001,"A small local harness for briefing a crew of AI roles and getting bounded, reported work back."
+2026-11-22T12:59:05Z,acrionix-cli,0.4.0,"""Acrionix Inc."" <founder@acrionix.cloud>",Apache-2.0,41339,"AI-native AOSP, Embedded Android, and Linux Kernel log triage & git patch synthesizer"
+2026-11-22T12:59:47Z,salogram-bot,1.0.0,Salogram Developers,,19144,Official Python SDK for building bots on Salogram
+2026-11-22T13:00:09Z,asianscore-quant,1.0.0,AsianScore Quantitative Research Lab <pypi@aimail.men>,MIT,10309,"Zero-dependency sports quantitative analytics SDK: Power/Multiplicative de-vigging, Dixon-Coles xG Poisson grid, Kelly criterion, Brier score auditing, and live AsianScore feed client."
+2026-11-22T13:01:20Z,b2b-audit-cli,1.0.0,B2B Compliance Labs,MIT,15238,"Brazilian B2B compliance CLI (CNPJ, FEBRABAN Boleto, ANS TISS XML, NCM LC 214, and Pro Enterprise Sync)."
+2026-11-22T13:02:01Z,pydantic-ai-plimsoll,0.28.0,,Apache-2.0,32803,A PydanticAI workspace backed by one plimsoll session: a self-hosted sandbox that refuses to run below the isolation you require and keeps a checked record of every call
+2026-11-22T13:04:50Z,marceline,0.1.0,,MIT OR Apache-2.0,46411,Python client for interacting with Marceline plugins in Marcellus.
+2026-11-22T13:06:30Z,updateforge,0.0.0,UpdateForge,,1913,Python client for UpdateForge. In development: this release is a placeholder and contains no functionality.
+2026-11-22T13:06:46Z,model-tokenizer,0.1.0,Sergey Mezentsev,MIT,17705,Token-accurate text splitting and counting for llama.cpp and vLLM /tokenize endpoints
+2026-11-22T13:07:42Z,leakshield,0.1.0,LeakShield,MIT,25188,Python client for the LeakShield v3 audio sanitization API
+2026-11-22T13:08:15Z,jev-reflex,0.2.0,,Apache-2.0,600126,Deterministic execution control for probabilistic coding agents.
+2026-11-22T13:08:18Z,certbot-dns-neostrada,0.1.0,troplolBE <troplolbe@proton.me>,,15435,Neostrada DNS authenticator plugin for Certbot
+2026-11-22T13:08:56Z,polyvec,0.1.0,,MIT,562935509,Class-based Python wrapper around two PolyVector line-drawing vectorization methods (Bessmeltsev & Solomon 2019; Puhachov et al. 2021).
+2026-11-22T13:09:29Z,pysparql-generate,0.1.0,Maxime Lefrançois,Apache-2.0,267786,"SPARQL-Generate compiled to a columnar engine (DuckDB): generate RDF or text from CSV, JSON, XML, HTML and RDF"
+2026-11-22T13:12:38Z,ruvexara,1.0.0,Muhammad Khier Mardini,MIT,23596,A lightweight web reconnaissance and security assessment tool
+2026-11-22T13:13:10Z,cignal,0.0.1,Shakeeb Alireza,MIT,109315,Compile DSP kernels written in static Python to C99
+2026-11-22T13:14:08Z,sphinx-carbon-theme,0.1.0,,Apache-2.0,1186598,A Sphinx theme implementing the IBM Carbon Design System
+2026-11-22T13:16:43Z,smartcity-gis,0.2.0,Dongsoo Jung <jds068888@gmail.com>,MIT,45848,"GIS-based urban analytics for smart city planning: walkability, 2SFCA accessibility, isochrones and 15-minute city scores for Korean cities"
+2026-11-22T13:17:03Z,shortn-sdk,0.1.0,Jedna Software,MIT,57817,"Python SDK for the Shortn API: links, analytics, workspaces, reports and conversions."
+2026-11-22T13:17:48Z,mydonut,0.1.0,Pravir Nihar Maity,MIT,27507,"A configurable, animated, interactive ASCII donut for your terminal."
+2026-11-22T13:19:05Z,automatic-cloudflare-ddns,1.0.1,Bala Chandran,,7060,A simple single-purpose python script to automatically update an A record to the current external IPv4 Address.
+2026-11-22T13:19:15Z,dotnxs,0.1.0,,MIT,7812665,Single-file DOTNXS archive and model conversion tools
+2026-11-22T13:19:29Z,pyrratt,0.4.1,Jean-François Moulin <jean-francois.moulin@hereon.de>,GPL-3.0-or-later,1491914,"Bayesian fitting of models to measured data with numpyro: parameter correlations, multimodal posteriors, re-runnable reports"
