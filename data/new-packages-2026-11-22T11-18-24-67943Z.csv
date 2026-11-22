@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T10:21:23Z,market-regime-classification,0.1.0,,MIT,53328,Honest baseline for market regime detection: filtered HMM / GMM / vol-threshold with walk-forward economic evaluation
+2026-11-22T10:21:50Z,structuredmerge-core,0.2.2,Peter Boling,AGPL-3.0-only OR PolyForm-Small-Business-1.0.0,40385803,Typed polyglot StructuredMerge kernel
+2026-11-22T10:23:34Z,ui-optago-py,0.2.0,Óptago <cowork@optago.com.br>,MIT,273449,Componentes da UI Óptago para aplicações desktop em Python
+2026-11-22T10:25:01Z,dex-connector-pipedrive,0.1.0,,MIT,132207,Dex-native Pipedrive CRM connector
+2026-11-22T10:25:09Z,keybond,0.4.0,Jiahong Dai,MIT,55065,Pair a Bluetooth keyboard on Linux from a terminal; the pairing code stays on screen until you have typed it
+2026-11-22T10:26:47Z,komprez,0.1.0,Komprez,LicenseRef-Komprez-Commercial,63126614,"Cut LLM input tokens: compress tool outputs, logs, JSON and chat history before each call. Runs in your process; your data stays on your machine."
+2026-11-22T10:27:07Z,langchain-lexapi,0.1.0,Arieta Labs Ltd <support@lex-api.com>,MIT,92406,"LangChain retrievers and tools for EU legislation and CJEU case law from LexAPI, with CELEX citations."
+2026-11-22T10:29:35Z,llama-index-retrievers-lexapi,0.1.0,Arieta Labs Ltd <support@lex-api.com>,MIT,32839,"LlamaIndex retrievers for EU legislation and CJEU case law from LexAPI, with citations"
+2026-11-22T10:29:36Z,llama-index-tools-lexapi,0.1.0,Arieta Labs Ltd <support@lex-api.com>,MIT,43493,"LlamaIndex tools for EU legislation from LexAPI: search, read, and the version for a date"
+2026-11-22T10:33:30Z,correction,0.2.0,Ilan Schnell,BSD,35745,Forward Error Correction - bindings for libcorrect
+2026-11-22T10:35:09Z,jelly-sdk,1.0.8,Jelly Team,MIT,82659,Jelly SDK - Search and Memory for AI Agents
+2026-11-22T10:36:41Z,foliated-arithmetic,0.1.0,"""Dr. Hassan Baloui"" <hassan.baloui@gmail.com>",MIT,95426,"Zero-dependency, strictly typed, exact-integer Python library for Foliated Arithmetic, Chebyshev Geodesics, Discrete Holonomy, and the Minimal Balancing Multiplier."
+2026-11-22T10:36:57Z,langchain-cellprose,0.1.0,Utkarsh Gaikwad,Apache-2.0,6271,"LangChain document loader for Excel workbooks as Cellprose text (formulas, every sheet, cell addresses)"
+2026-11-22T10:40:40Z,llama-index-readers-cellprose,0.1.0,Utkarsh Gaikwad,Apache-2.0,6349,"LlamaIndex reader for Excel workbooks as Cellprose text (formulas, every sheet, cell addresses)"
+2026-11-22T10:40:41Z,arborikit,0.1.0,Arborikit contributors,MIT,21773,"General trees, unbalanced BSTs and red-black trees. Zero dependencies."
+2026-11-22T10:41:25Z,premobit,0.1.0,DataExis LLC <devops@premobit.com>,LicenseRef-Proprietary,7960,PremoBit™ — Official deterministic AI header verification & runtime hygiene CLI by DataExis LLC.
+2026-11-22T10:41:39Z,spapprox,26.11.42,Martin van der Schans,BSD-3-Clause,271835,Saddle point approximations of distributions from their cumulant generating functions
+2026-11-22T10:41:52Z,aufsicht-cli,0.1.0,,Aufsicht Public License (Proprietary),3562713,Aufsicht CLI - thin registry wrapper that runs the precompiled native Aufsicht engine (zero engine source).
+2026-11-22T10:43:29Z,tracecomparekit,0.1.1,"Clement Leung, Iko Yeung, James",MIT,79116,Check a Python function against a reference solution and see exactly how they differ.
+2026-11-22T10:47:14Z,daysmart-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,15401,Connect DaySmart Salon and Pet to AI agents through Cotlet.dev.
+2026-11-22T10:51:17Z,dakc,0.2.1,thejasrao262003,Apache-2.0,463962,"Incremental compiler for AI-generated knowledge: claim-level dependency tracking, selective rebuilds, and verification against full rebuilds"
+2026-11-22T10:53:21Z,accreditednow,1.1.1,AccreditedNow LLC,MIT,15542,"Official AccreditedNow API client: CPA-signed accredited investor verification for Rule 506(c), investor screening and signed webhooks."
+2026-11-22T10:54:26Z,polias-haystack,0.1.0,Polias <hallo@polias.eu>,MIT,12441,"Haystack integration for Polias search: web, news, official sources and law"
+2026-11-22T10:54:29Z,langchain-polias,0.1.0,Polias <hallo@polias.eu>,MIT,15592,An integration package connecting Polias search and LangChain
+2026-11-22T10:54:45Z,zapmatte,0.1.0,,GPL-3.0-only,48188,"Open-source green screen remover for video: transparent WebM, ProRes 4444, alpha matte"
+2026-11-22T10:58:20Z,llama-index-readers-nace,0.1.0,Nace AI <hello@nace.ai>,MIT,55840,LlamaIndex reader that parses documents with NDI (Nace Document Intelligence)
+2026-11-22T11:02:07Z,jt-wavesense,0.1.0,Shrishant Jha <shrishant@example.com>,AGPL-3.0-or-later,5845,Event-driven wave perception and OOD novelty detection engine for cameras and edge sensors.
+2026-11-22T11:05:06Z,sirenic,0.1.0,Sirenic <contact@sirenic.eu>,MIT,39282,"Python client for the Sirenic API: French and European company data from the official registers, with per-block provenance. Pay with an API key or per call in x402."
+2026-11-22T11:05:07Z,agent-shared-workspace,0.1.0,MAHONGHAO1,MIT,58833,Plain-text shared memory hub for multiple coding agents: Markdown SSOT + concurrency-safe CLI + zero-dependency MCP server.
+2026-11-22T11:07:03Z,apkdiff-core,1.0.0,Jayvin,Apache-2.0,53433,"APK size diff core library: attributes DEX bytes to classes, compares classes and resources, and renders console/JSON/HTML/Markdown reports"
+2026-11-22T11:07:04Z,apkdiff,1.0.0,Jayvin,Apache-2.0,11027,Command line APK size diff tool; installs the apkdiff executable
+2026-11-22T11:08:46Z,pubviz,0.1.0,Jhen-Ke Lin <jacob.cs14@nycu.edu.tw>,MIT,139212,Figures and tables for research papers that share one color theme and fit any venue
+2026-11-22T11:11:59Z,pond-timeseries,0.78.0,,MIT,21265152,"Time series analytics over Arrow frames: rolling windows, calendar buckets in any time zone, joins and per-entity work. Same results as pond-ts."
+2026-11-22T11:13:50Z,monemee,0.1.0,Monemee <info@monemee.com>,MIT,21137,"License key validation with offline support for Python apps, plus paywall access checks for Flask, FastAPI and Django, powered by Monemee."
