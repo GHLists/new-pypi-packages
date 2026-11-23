@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T17:14:59Z,liter-llm-cli,2.7.4,"Na'aman Hirschfeld <naaman@xberg.io>, Tobias Perlstein <tobias@xberg.io>",MIT,37953801,CLI proxy for liter-llm — downloads and runs the native liter-llm binary from GitHub releases.
+2026-11-23T20:21:45Z,ampost,0.1.0,Ampost,MIT,109516,"Official Python client for the Ampost API: publish and schedule posts on Instagram, Facebook, Threads, X, YouTube, Pinterest, Bluesky, Telegram and Discord"
+2026-11-23T20:23:20Z,eateryplan,1.7.0,Hasan Cagri Gungor,MIT,73806,"Validator, migrator and image-detection importer for Eatery Plan, an open JSON format for restaurant, cafe and bar floor plans"
+2026-11-23T20:23:32Z,flowcoord,1.0.0,TahsinCr <Tahsincr@outlook.com>,MIT,5562847,"FlowCoord: concurrency, resilience, scheduling, and resource ownership."
+2026-11-23T20:23:32Z,flowpipeline,1.0.0,TahsinCr <Tahsincr@outlook.com>,MIT,50699,FlowPipeline: synchronous and asynchronous data pipelines and streams.
+2026-11-23T20:23:58Z,synth-shell-theme,1.3.9,Marcus Vinícius Soares,MIT,261116,"Interactive 256-color Prompt Theme Picker (64 themes), Dual Powerline Separator Editor (48 presets + 60+ Nerd Font glyphs), Runtime Optimizer, and Live Web Studio for synth-shell."
+2026-11-23T20:26:12Z,shellbouncer,0.1.0,Saad Rahman,MIT,239709,"A firewall for AI coding agents: one policy file that blocks rm -rf, secret leaks and curl | sh in Claude Code, Codex and Gemini CLI."
+2026-11-23T20:26:30Z,cloudgrep-sdk,0.1.0,CloudGrep,MIT,19574,"CloudGrep SDK for CG sandbox sessions: create, exec, shell, clone and destroy VM-backed sandboxes."
+2026-11-23T20:27:33Z,piitier,0.1.1,Max Małecki <maxmalecki@gmail.com>,Apache-2.0,286952,"Polish PII anonymiser for regulated sectors (fintech, insurtech, medtech)"
+2026-11-23T20:30:09Z,ha-ble-pinning,0.1.0,phurth,MIT,28001,Pin a Home Assistant Bluetooth connection to chosen adapters or proxies (for bonded devices and dedicated proxies).
+2026-11-23T20:33:50Z,modular-agents,0.1.0,Adam Sawicki <adamsawicki89@gmail.com>,MIT,102884,"Build AI agents from small, swappable parts: a model, tools, a loop, a budget, events and a context policy, composed into agents that can use other agents as tools."
+2026-11-23T20:34:20Z,nexora-vg,2.0.0,Nexora VG contributors,MIT,8411,"Offline Python learning templates for numeric, logic and bitwise tasks"
+2026-11-23T20:36:46Z,eaterior,1.8.0,Hasan Cagri Gungor,MIT,74722,"Validator, migrator and image-detection importer for Eaterior, an open JSON format for restaurant, cafe and bar floor plans"
+2026-11-23T20:37:52Z,handoff-verify,0.1.0,Solomon Wakhungu,"MIT License Copyright (c) 2026 Solomon Wakhungu Permission is hereby granted, free of charge, to an…",381801,"Deterministic, zero-LLM claim and scope verification for AI coding agents and subagents."
+2026-11-23T20:37:54Z,compact-ledger,0.1.0,Solomon Wakhungu,MIT,336911,"Deterministic, zero-LLM PreCompact/SessionStart memory injector for AI coding agents."
+2026-11-23T20:37:57Z,sidefx,0.1.0,Solomon Wakhungu,"MIT License Copyright (c) 2026 Solomon Wakhungu Permission is hereby granted, free of charge, to an…",352672,"Outbound effects journal, transparent stdio MCP proxy, CLI mutation wrapper, crash reconciler, and ground-truth session receipts for AI agents."
+2026-11-23T20:38:38Z,cnv-sc-rs,0.1.0,Gregor Lueg <gregorlueg@me.com>,MIT,3502285,"Copy number inference from single cell expression, in Rust. A port of the expression path of numbat."
+2026-11-23T20:40:23Z,AtlasIO,0.2.4,"Jonathan Mattingly <jonathan.mattingly@duke.edu>, Gregory Herschlag <Gregory.Herschlag@duke.edu>",MIT,36975,"Read and write Atlas files (ensembles of redistricting maps), format versions 1 and 2, and convert between them"
+2026-11-23T20:41:47Z,html-to-native-pptx,0.1.1,hollee-tom,MIT,932550,"High-fidelity HTML to native, editable PowerPoint."
+2026-11-23T20:43:36Z,project-ghostframe,0.1.1,Residual Labs,MIT,17935,"PNG and APNG generation, inspection, and recovery tools from Residual Labs"
+2026-11-23T20:43:43Z,pdq-deploy-mcp,1.0.0,Evan Redden <redden.evan@gmail.com>,MIT,14613,An MCP server for read-only access to the PDQ Deploy database.
+2026-11-23T20:44:36Z,floo-sandbox,0.1.0,floo,MIT,76201,"Sandboxes for AI agents on floo: files that need no machine, and a micro-VM only while a command runs"
+2026-11-23T20:44:36Z,langchain-converter-studio,1.0.0,Converter Studio <support@converter.studio>,MIT,64320,"LangChain tools for Converter Studio: convert files and links to other formats, read scanned PDFs and images with OCR, and compress PDFs."
+2026-11-23T20:44:54Z,converter-studio-haystack,1.0.0,Converter Studio <support@converter.studio>,MIT,51216,"Haystack components for Converter Studio: turn scanned PDFs, images, Office files and e-books into Documents (with OCR), or convert files to PDF, JPG, MP3 and 60 other formats."
+2026-11-23T20:44:56Z,django-converter-studio,1.0.0,Converter Studio <support@converter.studio>,MIT,98568,"Convert uploaded files in Django and Wagtail with Converter Studio: HEIC and RAW photos to JPG, Office documents to PDF, scans to text, videos to MP4."
+2026-11-23T20:46:11Z,core-seft,0.1.0,,,692382,"On-demand social-ecological analysis of CoRE Stack districts, tehsils, micro-watersheds and waterbodies."
+2026-11-23T20:46:43Z,crud-genifsp,0.1.3,,MIT,36681,Gerador adaptavel de CRUDs Django com codigo e templates locais
+2026-11-23T20:48:09Z,ciris-holon,0.1.0,,AGPL-3.0-only AND LGPL-3.0-or-later AND (Apache-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.…,94969402,"What CIRISHolon publishes for CIRIS components to run on. 0.1 holds the FFmpeg and JavaCPP native jars for video calls, unmodified from Maven Central"
+2026-11-23T20:48:28Z,haikeilabs-connector-contracts,0.20.1,,Apache-2.0,221877,Generated connector operation contracts
+2026-11-23T20:50:01Z,local-cybersec-partner,1.1.0,,,100723,Tableau de bord local d'outils de cybersecurite (PySide6)
+2026-11-23T20:52:49Z,humanfriendly-ng,11.0,marco8154,MIT,444825,Human friendly output for text interfaces using Python
+2026-11-23T20:53:27Z,flask-notify,0.1.0,CobblePot59,GPL-3.0-or-later,42907,"Real-time notification system for Flask: send popup notifications from Python with notify('Wrong password', 'red')."
+2026-11-23T20:54:29Z,wgpu-shift,0.1.0,Bora,MIT,653367,"Move slow Python/NumPy CPU loops to any GPU via WebGPU/WGSL with deterministic verification, native VRAM leak soaking, and crossover benchmarking."
+2026-11-23T20:55:15Z,catesim,0.1.0,"Alireza S. Mahani, Mansour T. A. Sharabiani, Alex Bottle",MIT,82618,Calibrated simulation of conditional average treatment effects
+2026-11-23T20:55:31Z,sextant-ai,0.1.0,protechtus,Apache-2.0,3016137,"Sextant: self-hosted AI memory and orchestration -- MCP memory server, temporal knowledge graph, transcript capture, local Brain task queue"
+2026-11-23T20:55:38Z,capturer-ng,4.0,marco8154,MIT,34055,Easily capture stdout/stderr of the current process and subprocesses
+2026-11-23T20:56:53Z,qodalis-cli-server-plugin-databases,1.0.0b30,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,231895,"Databases for Qodalis CLI servers — stats (size, connections, load, largest tables) and versioned schema migrations of PostgreSQL, MySQL, SQL Server and SQLite, with history, API, terminal and MCP"
+2026-11-23T20:58:00Z,coloredlogs-ng,16.0,marco8154,MIT,323699,Colored terminal output for Python's logging module
+2026-11-23T20:59:04Z,ruru-review,1.0.0,James Phillip Sanders <hello@jamesphillipsanders.com>,MIT,311256,"A pull request reviewer for code written by AI agents: fail first, mutants on the diff, and a tamper audit of the tests."
+2026-11-23T20:59:26Z,securespace,0.1.0,,Copyright (c) 2026 SecureSpace. All rights reserved. This software is provided to connect to the Se…,12483,"Send your Python agent's calls through the SecureSpace Gateway, and handle its decisions."
+2026-11-23T21:02:27Z,pastuh-ads,1.2.2,Pastuh Ads,MIT,144640,"Async Python SDK for Pastuh Ads Partner API: op-list, interactive OP block, clicks, bot-start, Premium/gender observation"
+2026-11-23T21:04:53Z,mcp-swarm-core,0.1.0,TKasperczyk,MIT,103160,"Shared stdlib-only MCP 2026-07-28, Tasks extension, process-tree, worktree, and JSONL swarm infrastructure"
+2026-11-23T21:05:35Z,antigravity-mcp-swarm,0.1.0,TKasperczyk,MIT,49388,"Parallel Antigravity (agy) MCP server with live task monitoring, batch wait, worktree isolation, and MCP Tasks support"
+2026-11-23T21:05:35Z,pyscinan,0.1.0,Kris Skarbo,MIT,41408,Async client for Saswell / Scinan Wi-Fi thermostats (local TCP and cloud API)
+2026-11-23T21:08:04Z,etvr-ttk-theme,2.7.0,rdbende,MIT,140990,"A gorgeous theme for Tkinter, based on Windows 11's UI"
+2026-11-23T21:08:26Z,opensced,0.1.0,,Apache-2.0,214330,"An open market-clearing engine for power markets: offers, limits, reserve demand and network constraints in; prices at every node out. First market: ERCOT real-time co-optimization."
+2026-11-23T21:09:25Z,llm-agent-assurance,0.2.0,Giocrisrai Godoy Bonillo <contact@giocrisrai.com>,Apache-2.0,2565310,Methodology and test harness for assessing the security of LLM agents and applications in production (OWASP LLM Top 10 / NIST AI RMF).
+2026-11-23T21:10:00Z,unienv-lerobot,0.0.1a1,,Apache-2.0,49874,"LeRobot for UniEnv: LeRobot policies (ACT, Diffusion, SmolVLA, pi0, ...) as UniEnv policies, with asynchronous Real-Time Chunking"
+2026-11-23T21:10:49Z,genfleet-adapter,0.0.1,Genfleet,LicenseRef-Proprietary,2094,Name reserved by Genfleet. This is not an installable package.
+2026-11-23T21:10:50Z,genfleet-core,0.0.1,Genfleet,LicenseRef-Proprietary,2062,Name reserved by Genfleet. This is not an installable package.
+2026-11-23T21:10:51Z,genfleet-engine,0.0.1,Genfleet,LicenseRef-Proprietary,2084,Name reserved by Genfleet. This is not an installable package.
+2026-11-23T21:10:51Z,genfleet-gateway-client,0.0.1,Genfleet,LicenseRef-Proprietary,2179,Name reserved by Genfleet. This is not an installable package.
+2026-11-23T21:11:12Z,cielo-bench,1.1.1,Valentina Vanegas Aristizábal,MIT,12725610,"Check or agree? A benchmark of whether tool-using AI agents verify a user's claim or agree with it, judged against verifiable ground truth (NASA/JPL Horizons) instead of an LLM judge."
+2026-11-23T21:11:34Z,cielo-mcp,0.1.1,Valentina Vanegas Aristizábal,MIT,46288,"MCP server for cielo-bench: the benchmark's own tools, with citations and honest failures, for any MCP client."
+2026-11-23T21:12:03Z,agentlanes-cli,0.1.0,Metastaz,Apache-2.0,114099,"Claims, slots, an event log and a job queue for several AI coding agents sharing one machine"
+2026-11-23T21:16:34Z,vexy-python-markdown-figure-groups,0.1.0,Vexy Lines Team <help@vexy.art>,Apache-2.0,26823,Group a margin figure with the paragraphs it illustrates in rendered HTML.
+2026-11-23T21:16:43Z,vexy-mkdocs-page-import,0.1.0,Vexy Lines Team <help@vexy.art>,Apache-2.0,63482,Replace a rendered MkDocs or ProperDocs page with precompiled HTML.
+2026-11-23T21:18:08Z,fly-january,0.1.0,,Apache-2.0,462173,"FontLab/Vexy documentation theme for ProperDocs, extending MaterialX"
+2026-11-23T21:18:52Z,zapz,0.1.0,,MIT,27702,Official Python SDK for the ZapZ WhatsApp API

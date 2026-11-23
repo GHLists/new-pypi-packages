@@ -1,69 +1,76 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-11-23T19:18:32.00793Z",
-    "path": "data/new-packages-2026-11-23T20-21-47-084007Z.csv",
-    "to": "2026-11-23T20:21:47.084007Z"
+    "count": 59,
+    "from": "2026-11-23T20:21:47.084007Z",
+    "path": "data/new-packages-2026-11-23T21-21-16-72887Z.csv",
+    "to": "2026-11-23T21:21:16.72887Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T18:55:45Z",
       "package": "ReO3",
       "since": "2026-11-23T18:20:36.663065Z",
       "version": "0.0.0.dev0"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-23T20:21:45Z",
-      "package": "ampost",
-      "since": "2026-11-23T19:18:32.00793Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-23T17:22:46Z",
       "package": "ark-net-audit",
       "since": "2026-11-23T17:21:53.841356Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-23T17:14:59Z",
-      "package": "liter-llm-cli",
-      "since": "2026-11-23T16:20:09.091491Z",
+      "attempts": 1,
+      "created_at": "2026-11-23T20:56:05Z",
+      "package": "eshieldq-gateway-client",
+      "since": "2026-11-23T20:21:47.084007Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-23T20:55:52Z",
+      "package": "eshieldq-gateway-schemas",
+      "since": "2026-11-23T20:21:47.084007Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-23T17:43:20Z",
       "package": "pipecat-ai-purr",
       "since": "2026-11-23T17:21:53.841356Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-23T20:23:34Z",
+      "package": "portpeek-bin",
+      "since": "2026-11-23T20:21:47.084007Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-23T18:13:03Z",
       "package": "pydantic-ai-pax",
       "since": "2026-11-23T17:21:53.841356Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-23T17:23:39Z",
       "package": "sheetmcp-cli",
       "since": "2026-11-23T17:21:53.841356Z",
       "version": "0.2.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-23T17:23:27Z",
       "package": "sheetmcp-core",
       "since": "2026-11-23T17:21:53.841356Z",
       "version": "0.2.0"
     }
   ],
-  "serial": 44073363,
+  "serial": 44076006,
   "source_truncated": false,
-  "window": "2026-11-23T20:21:47.084007Z"
+  "window": "2026-11-23T21:21:16.72887Z"
 }
