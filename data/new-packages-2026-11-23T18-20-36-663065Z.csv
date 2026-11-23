@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T17:18:47Z,garrison-sdk,0.1.0,Shikhar Pathak,Apache-2.0,96120,"Governed, traced AI agents: one platform SDK on Anvil (tool governance) and Agent Forge (agents). Register apps, tools, agents and flows once; every run is checked, executed and traced."
+2026-11-23T17:21:56Z,garrison-hq,0.1.0,Shikhar Pathak,Apache-2.0,130531,"The Garrison control plane: accounts, apps, tools, agents with versioned prompts, flows, grants, app keys, the bundle API for the SDK's remote mode, and trace dashboards."
+2026-11-23T17:22:08Z,cooler-demand,0.1.0,School Water Demand Team,MIT,32123,School Water Cooler Demand Prediction SDK – communicates with Hugging Face inference service
+2026-11-23T17:23:32Z,sheetmcp,0.3.0,SheetMCP contributors,MIT,228588,"The Excel/CSV MCP server that actually works: formulas, SQL across many files, safe writes. No API keys. Includes the sheetmcp.core engine and the sheetcli tool."
+2026-11-23T17:24:08Z,cwm-lab,0.3.0,Emmanuel Desmontils <emmanuel.desmontils@univ-nantes.fr>,Apache-2.0,807264,"CWM Lab — tableau de bord local sur CWM 2.0 : parse N3/Turtle, raisonnement, SPARQL, preuves, graphe (outil de TP Web sémantique)"
+2026-11-23T17:28:14Z,editscreen,0.1.0a1,Saif Ul Islam,MIT,31538,Screen knowledge-editing evaluation items for contamination: does the probe identify the edited subject?
+2026-11-23T17:32:04Z,eu-oss-vat-return-compiler,0.1.0,Stijn Dom,MIT,12715,"OssVatBridge: Zero-Install Stripe Tax, Shopify & Lemon Squeezy to EU VAT OSS Bulk CSV/XML Compiler"
+2026-11-23T17:32:05Z,amazon-settlement-xero-qbo-splitter,0.1.0,Stijn Dom,MIT,12405,"AmzSettlementBridge: Zero-Install Amazon Seller Flat-File V2 (.TXT/.TSV) to Xero, QuickBooks & DATEV Clearing Journal Compiler"
+2026-11-23T17:32:07Z,e-invoice-xml-batch-converter,0.1.0,Stijn Dom,MIT,13248,"EInvoiceLocal: 100% Local XRechnung, ZUGFeRD & Peppol UBL/CII XML Validator, Printable A4 PDF & DATEV/Xero Batch Converter"
+2026-11-23T17:32:08Z,lemonsqueezy-stripe-polar-migrator,0.1.0,Stijn Dom,MIT,10089,"LemonExitBridge: Zero-Install Lemon Squeezy Shutdown CSV Auditor, PayPal Prorated Re-Auth Splitter & Legacy License Key Bridge"
+2026-11-23T17:32:09Z,cerebras-juggler,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1313,Name reservation only. cerebras-juggler is distributed from Cerebras's internal package index.
+2026-11-23T17:32:10Z,cerebras-kvportal,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1320,Name reservation only. cerebras-kvportal is distributed from Cerebras's internal package index.
+2026-11-23T17:32:10Z,otui,0.1.0,Energy Systems Modelling Analytics Ltd (ESMA),AGPL-3.0-or-later,380542,Open TIMES User Interface: a browser GUI for TIMES energy system models
+2026-11-23T17:32:11Z,cerebras-kvportal-cuda,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1368,Name reservation only. cerebras-kvportal-cuda is distributed from Cerebras's internal package index.
+2026-11-23T17:32:12Z,cerebras-kvportal-hip,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1357,Name reservation only. cerebras-kvportal-hip is distributed from Cerebras's internal package index.
+2026-11-23T17:33:46Z,sum-helpers,0.1.1,musleh-khan,MIT,21901,"Modular, typed Python utilities for two-sum, three-sum, triangle-sum, and generalized k-sum algorithms."
+2026-11-23T17:36:08Z,roiko-mcp,0.1.0,ROIKO,LicenseRef-Proprietary,225635,"MCP server for ROIKO: build, analyse and check structural models through the ROIKO API from Claude, Cursor and other MCP clients."
+2026-11-23T17:40:53Z,p2a-sdk,0.1.1,p2a <info@p2a.sh>,MIT,36688,SDK for p2a agents that run your own code
+2026-11-23T17:42:09Z,flatmat,0.2.0,flatmat contributors,Apache-2.0,821916,"Sheet metal recognition and unfolding for STEP files, on OpenCascade"
+2026-11-23T17:42:58Z,oxideon,0.1.0,,MIT OR Apache-2.0,50979271,"High-performance multi-dtype deep learning, autograd, quantum computing, scientific PDEs, and autonomous LLM quantization engine in Rust"
+2026-11-23T17:43:31Z,chronim,0.1.1,Dima,MIT,54551,Control Google Chrome directly from Python through a local extension bridge.
+2026-11-23T17:45:25Z,ark-watch-client,0.1.0,Immanuel R,MIT,37371,"ARK-RAPID Watch client: log() never blocks and never raises; batches, compresses, spools to disk and replays."
+2026-11-23T17:45:43Z,cedarpy-integrations,0.1.0,,Apache-2.0,29014,Typed Cedar policies and authorization adapters for Python web applications
+2026-11-23T17:50:17Z,queen-hive,0.2.0,Roman Zadvornov,MIT,258628,"Queen Hive: a Queen model plans and verifies, cheap worker bees build, scout and review, in Claude Code, Codex or the Gemini CLI."
+2026-11-23T17:56:48Z,cloudleak-cli,0.1.0,The CloudLeak Authors,Apache-2.0,303059,"Offline, zero-IAM audit CLI for AWS, Azure, GCP and FOCUS billing exports: data-quality doctor, invoice reconciliation, month-over-month variance, evidence-graded findings and fail-closed redaction."
+2026-11-23T17:59:30Z,osmund,0.1.0,,MIT,60879,"Async client for the Osmund API: electricity prices, consumption, cost and invoices"
+2026-11-23T18:00:10Z,flavour-pvm,1.0.0,Rahul Deb <your-email@example.com>,MIT,32682,A custom vernacular Python dialect powered by a stack-based Mini-PVM
+2026-11-23T18:01:28Z,fazit,0.0.0,roux <hello@rouxdutoit.com>,AGPL-3.0-or-later,27195,Fazit is in development. See https://fazit.dev
+2026-11-23T18:02:10Z,slsk-reborn,0.3.1,,MIT,139378,"A modern, good-looking terminal Soulseek client: search, download, share, browse and chat."
+2026-11-23T18:02:27Z,coffeebot,1.0.0,Mavinum,GPL-3.0-only,478354,Coffeebot - open source coffee and beverage billing system
+2026-11-23T18:05:41Z,ragops-observatory,0.10.0,Arathi S,MIT,5705960,"Prove your RAG works: find which stage fails and why, block worse releases, and issue Ready / Not ready assurance reports."
+2026-11-23T18:08:02Z,SEA-pytorch,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",9690,Explorations into Scaling Empowered Agents
+2026-11-23T18:10:13Z,inference-tracker,0.9.4,,Apache-2.0,481124,Per-user inference cost for AI apps
+2026-11-23T18:11:47Z,session-tape,0.1.1,,MIT,78878,把一个产品的会话历史搬到另一个产品里继续（只搬文本历史，单向）
+2026-11-23T18:16:27Z,ptdata,0.1.0,"""PtData S.A."" <info@ptdata.io>",MIT,64236,Point-in-time client for the PtData fundamentals API.
+2026-11-23T18:19:02Z,pyastrodyn-edu,0.0.9,Marcello Romano,MIT,100272,Educational astrodynamics in Python: companion library of a graduate course in orbital mechanics
+2026-11-23T18:19:28Z,graphcore-apps,0.5.0,,Apache-2.0,226686,GraphCore built-in apps

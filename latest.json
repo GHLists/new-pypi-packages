@@ -1,41 +1,69 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-11-23T16:20:09.091491Z",
-    "path": "data/new-packages-2026-11-23T17-21-53-841356Z.csv",
-    "to": "2026-11-23T17:21:53.841356Z"
+    "count": 37,
+    "from": "2026-11-23T17:21:53.841356Z",
+    "path": "data/new-packages-2026-11-23T18-20-36-663065Z.csv",
+    "to": "2026-11-23T18:20:36.663065Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-23T17:18:47Z",
-      "package": "garrison-sdk",
-      "since": "2026-11-23T16:20:09.091491Z",
+      "created_at": "2026-11-23T17:22:46Z",
+      "package": "ark-net-audit",
+      "since": "2026-11-23T17:21:53.841356Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T15:28:10Z",
       "package": "imbi-plugin-posthog",
       "since": "2026-11-23T15:18:31.660247Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T17:14:59Z",
       "package": "liter-llm-cli",
       "since": "2026-11-23T16:20:09.091491Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T15:49:02Z",
       "package": "opik-genui",
       "since": "2026-11-23T15:18:31.660247Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-23T17:43:20Z",
+      "package": "pipecat-ai-purr",
+      "since": "2026-11-23T17:21:53.841356Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-23T18:13:03Z",
+      "package": "pydantic-ai-pax",
+      "since": "2026-11-23T17:21:53.841356Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-23T17:23:39Z",
+      "package": "sheetmcp-cli",
+      "since": "2026-11-23T17:21:53.841356Z",
+      "version": "0.2.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-23T17:23:27Z",
+      "package": "sheetmcp-core",
+      "since": "2026-11-23T17:21:53.841356Z",
+      "version": "0.2.0"
     }
   ],
-  "serial": 44066379,
+  "serial": 44068562,
   "source_truncated": false,
-  "window": "2026-11-23T17:21:53.841356Z"
+  "window": "2026-11-23T18:20:36.663065Z"
 }
