@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T11:19:04Z,misp-cabby,1.0.0,MISP Project,BSD-3-Clause,101922,TAXII client library
+2026-11-23T11:21:21Z,oo2026-timezone-0811aiesha,0.1.0,LiuAiesha,MIT,20965,Convert datetimes between IANA time zones and compare their offsets
+2026-11-23T11:23:15Z,squire-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,23794,Squire API integration and MCP server (unofficial) by Cotlet: connect AI to your Squire shop account.
+2026-11-23T11:23:29Z,adanesy,0.1.0,Ahmed T. Hammad,MIT,75559,"Adaptive neuro-symbolic learning: online rule weights, rule induction and abductive predicate learning"
+2026-11-23T11:23:55Z,pcap-transformer,0.1.1,Eva Nagy,MIT,74834,Transform PCAP captures into flow and intrusion-detection datasets
+2026-11-23T11:24:29Z,patchwell,0.1.0,,MIT,19770,"Transcription, data cleaning and cited research for scripts, pipelines and AI agents. Pay per result."
+2026-11-23T11:24:50Z,minimindslab-csv-required-columns,0.1.0,MiniMindsLab,MIT,7442,"Validate that a CSV header contains a required set of column names and report missing, extra, and ordered-present columns deterministically."
+2026-11-23T11:27:04Z,inertia-scorer,0.2.0,Arthur Lacote,BSD-3-Clause,1599948,"Datasets and scoring of the inertia challenge, a scoreboard for k-means"
+2026-11-23T11:27:17Z,openswx-collab-protocol,0.1.0,the openswx authors,Apache-2.0,29452,Wire protocol and document operations shared by the openswx collaboration server and client
+2026-11-23T11:27:28Z,macrostrat.task_runner,0.1.0,Daven Quinn,,18058,Background tasks with live terminal output and a cancel that acts like Ctrl-C
+2026-11-23T11:27:44Z,openswx-collab-server,0.1.0,the openswx authors,Apache-2.0,119561,"Live collaboration server for openswx: accounts, organisations, cloud documents, real-time editing"
+2026-11-23T11:28:32Z,inertia-client,0.1.0,Arthur Lacote,BSD-3-Clause,24233,"Submit labels to the inertia challenge, a scoreboard for k-means"
+2026-11-23T11:29:46Z,suru-lang,0.1.0,sugarsweetrobotics,GPL-3.0-or-later AND MIT,713343,日本語の関数型プログラミング言語「する」(インタプリタ・型検査・LLVM コンパイラ)
+2026-11-23T11:30:01Z,relayvault,0.2.0,RelayVault Contributors,MIT,146933,Local task checkpoints and reversible pattern redaction (MCP + REST)
+2026-11-23T11:30:46Z,keel-core,0.1.0,,,194844,"keel platform core: ports, cross-cutting adapters, and test kit"
+2026-11-23T11:32:26Z,subf2m,0.4.3,Mackeos <29227187+mackeos@users.noreply.github.com>,"MIT License Copyright (c) 2026 PySubZone developers Permission is hereby granted, free of charge, t…",7283,"Compatibility alias: installs pysubzone, the Python API/CLI/TUI subtitle downloader for subzone.ir (Subf2m subtitle database engine)"
+2026-11-23T11:37:37Z,vs-wobbly-deps,1.0.0,,,4656,VapourSynth dependencies for Wibbly/Wobbly
+2026-11-23T11:37:57Z,lockdocs,0.7.7,,MIT,20723006,Exact-version library docs from your lockfile.
+2026-11-23T11:40:20Z,delval-gate,0.1.0,Tao Shi (Zhurong),MIT,34945,"Fail-closed Delivery Permission & Judgment Ledger action gate for long-running LLM agents (Python API, CLI, and zero-dependency MCP stdio server)."
+2026-11-23T11:41:05Z,odoo-addon-account-invoice-start-end-dates-default,18.0.1.0.0.2,"Lorenzo Battistini,Odoo Community Association (OCA)",LGPL-3,30489,Invoice date as default start/end dates of the invoice lines
+2026-11-23T11:41:52Z,quoin-cockpit,0.2.0,IvGor,PolyForm Noncommercial 1.0.0,390593,"Cockpit add-on for quoin: Stream Deck integration, Agent Desk, workflow dashboard and the context-tracker Claude Code mod"
+2026-11-23T11:45:25Z,skipcheck-tm1,0.1.0.dev1,,AGPL-3.0-only,594547,"Python client for the IBM Planning Analytics (TM1) REST API, generated from its $metadata"
+2026-11-23T11:45:26Z,skipcheck-tm1-testcontainers,0.1.0.dev1,,AGPL-3.0-only,86942,Testcontainers support for running IBM Planning Analytics (TM1) servers in tests
+2026-11-23T11:46:48Z,senselab-sensei,0.1.0,SenseLab,,23123,"Sensei runs from the terminal and from Python: run an agent from a definition file, follow it, answer what it asks, say how it turned out"
+2026-11-23T11:46:51Z,sylphx-repomap,1.9.0,,MIT,39824420,"Local code graphs, search, call paths, and change impact for your codebase."
+2026-11-23T11:49:08Z,eduruckus-provision-ui,0.1.0,,,18087,EduRuckus scenario provisioning for RUCKUS ICX7550 switches
+2026-11-23T11:51:09Z,cultivars-engine,0.0.1,Nikhil Sunder <nsunder724@gmail.com>,MIT,1149135,"Research-grade time series econometrics: ARIMA to state space, VAR to structural identification, Bayesian and spectral methods."
+2026-11-23T11:52:01Z,nablaengine,1.0.2,The NablaEngine Authors,Apache-2.0,22056771,"Fused CUDA physics with an analytic adjoint for MuJoCo models (legged robots, multi-body scenes), with JAX and PyTorch interfaces"
+2026-11-23T11:52:02Z,hmm-regime,0.2.0,Mehmet Altekin,MIT,86836,Walk-forward Gaussian HMM market regime detection with causal forward filtering
+2026-11-23T11:53:47Z,fastforward,0.4.0,,MIT,4694,"Alias for fast-forward-football, a fast football tracking data loader written in Rust"
+2026-11-23T12:02:46Z,deepselect-musa,0.0.1,,MIT,582560,High-performance TopK kernels for DeepSeek Sparse Attention (DSA) and samplers (MUSA build)
+2026-11-23T12:03:23Z,paper-tools-cli,0.1.0,yeyun,MIT,226830,Literature search and open-access full-text retrieval CLI for biomedical researchers and AI assistants
+2026-11-23T12:03:40Z,united-utilities,0.2.0,Kieran Roper,MIT,23188,"Async Python client for the United Utilities mobile API (unofficial, reverse-engineered)"
+2026-11-23T12:05:00Z,opengradient-ohttp,0.1.0,OpenGradient,MIT,60403,"OHTTP transport for the OpenAI Python SDK: end-to-end encrypted, TEE-verified chat completions through the DreamFort developer relay"
+2026-11-23T12:05:24Z,pygments-beancount,1.0.0a1,Érico Andrei <ericof@gmail.com>,BSD-2-Clause,28080,"Pygments lexer for Beancount ledgers, for highlighted ledgers in Sphinx and MyST documentation"
+2026-11-23T12:06:56Z,p2me,0.0.0,,MIT,177110,A minimal command-line tool written in Rust.
+2026-11-23T12:08:17Z,gotoquill,0.2.0,Shay Levi <support@gotoquill.com>,Apache-2.0,395401,"Human-confirmed PDF signing for MCP agents, with local processing and browser consent."
+2026-11-23T12:09:23Z,graphlore-engine,0.5.79,yasinyaman,MIT,34434244,"graphlore's native code-graph extractor: definitions, spans and containment in 14 languages, with tree-sitter grammars compiled in."
+2026-11-23T12:10:21Z,dasv,1.0.0,dasv contributors,Apache-2.0,4427575,"Deterministic Adversarial Sandbox Verifier — pre-flight adversarial security, construct-validity, and RLVR policy-gradient signal auditor for RL post-training environments."
+2026-11-23T12:11:43Z,VEXdev-STT,0.1,Majesty,,1932,Speech-To-Text package created by Majesty
+2026-11-23T12:16:19Z,pyopenaudio,1.0.0,alphap365 <arajitpaul2010@gmail.com>,MIT,78208,"Lightweight, cross-platform music downloader and offline music player for YouTube Music & Spotify."
+2026-11-23T12:17:10Z,hotapi,0.1.0,HotAPI <support@hotapi.ai>,MIT,58026,"Official Python SDK for HotAPI — async image, video, and audio generation, chat completions, and webhook verification."
+2026-11-23T12:17:27Z,dataguru-sdk,0.1.0,Developers 360 LLC,MIT,26434,"Official Python client for the DataGuru API: Amazon, Walmart, Google, TikTok, 1688 and 100+ other sites as JSON APIs."
+2026-11-23T12:18:29Z,omnisim-engine,1.0.0,Deeven Seru <deevenseru11@gmail.com>,MIT,1459985,OmniSim: The Universal Counterfactual Simulation Engine - Beyond Probabilistic Text Generation to Action-Conditioned World Simulation
