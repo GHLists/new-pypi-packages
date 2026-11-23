@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T05:22:16Z,filekit-mw,1.0.0,,,12301,"A clean, zero-dependency Python library for safe file and directory operations."
+2026-11-23T05:23:16Z,brand-kit-mcp,0.1.0,Alejandro Cuautli,MIT,119761,"MCP server that gives AI agents your brand identity (palette, typography, logos, rules) and exports it as DTCG design tokens."
+2026-11-23T05:24:02Z,smalltown-boy-photo-tools,0.1.0,,MIT,7606,Compare dimensions and aspect ratios of two photos for a two-portrait workflow.
+2026-11-23T05:25:03Z,agentordeal,0.5.0,Saloni Garg,MIT,472904,Reference implementation of the AgentOrdeal Specification -- the benchmark that measures whether autonomous agents are actually safe
+2026-11-23T05:26:50Z,rendernote,0.1.1,,MIT,38384,"Prepare each part of a LilyPond score for live play-along, with the audio of the whole piece to follow."
+2026-11-23T05:28:14Z,3d-trainer,0.0.1,gguf <info@gguf.us>,,3741,train your own model
+2026-11-23T05:37:32Z,originate-run-sdk,0.1.1,"Originate, Inc.",Apache-2.0,88966,"Backend SDK for Run, Originate's managed service: request metrics, calls to outside services, AI call telemetry, health, deploy and backup reports, policies and consent. No prompts, completions or re…"
+2026-11-23T05:37:34Z,prilo-receiver,0.9.0,,,12154105,Native Windows receiver for the Prilo Mac app
+2026-11-23T05:39:37Z,opticmix-vision,0.0.3.post1,Opticmix,Apache-2.0,595309,"Python SDK for the Weevia S1 stereo IR camera (UVC): capture, stereo split, camera controls, IR illuminator"
+2026-11-23T05:42:32Z,amv-component-sdk,0.1.3,"""uno-km (AMEVA Foundation)"" <amv.foundation.kr@gmail.com>",Apache-2.0,71063,"Shared SDK for AMEVA Component Protocol v1 - common control plane, state file, and model manifest abstractions for all amv-* packages"
+2026-11-23T05:42:42Z,gamst-sdk,0.4.0,gamst contributors,Apache-2.0,2413362,gamst: local-first real-time sensory context for AI agents
+2026-11-23T05:43:18Z,cqqz-agent,1.0.0,,,22867,cqqz digital human Python control SDK (WebSocket control for Unity)
+2026-11-23T05:49:30Z,gsdtrial,0.2.0,Rushad Nihal,"MIT License Copyright (c) 2026 Rushad Nihal Permission is hereby granted, free of charge, to any pe…",473942,"Group-sequential, adaptive and Bayesian design for two-arm clinical trials"
+2026-11-23T05:50:00Z,mpl3d-vtk,0.5.0,,,18548333,Scientific 3D plotting with VTK and native Matplotlib axes
+2026-11-23T05:51:05Z,tokensguru,1.0.0,CloudAngles <cloudangles@cloudangles.com>,Apache-2.0,45143,Reduce LLM token usage and cost.
+2026-11-23T05:53:23Z,amv-device-sdk,0.2.1,"""uno-km (AMEVA Foundation)"" <amv.foundation.kr@gmail.com>",Apache-2.0,36155,"Lightweight on-device hardware, environment, unified cache and storage foundation for Android Termux & ARM64"
+2026-11-23T05:57:01Z,gifos-agent,0.1.0,"Crowd Concepts, Inc.",MIT,22214,"Join a GifOS meeting as an AI agent from Python: chat, lines, people, hand, voice and the room's sound (the seat is held by the @gifos-app/agent Node package)."
+2026-11-23T06:02:11Z,django-socket-auth,0.1.1,Blessed Sam <oscarblessed04@gmail.com>,MIT,25563,JWT authentication for Django Channels websockets using djangorestframework-simplejwt
+2026-11-23T06:06:44Z,bisos.pypiserver,0.1,Mohsen Banan,AGPL,56658,bisos.pypiserver: A Private Python Package Index (pypiserver + pypi-browser) via BISOS Capability Bundles
+2026-11-23T06:13:44Z,meibo,1.0.0,Fennec Studio,ISC,48171,"SDK for meibo's directory API — school and club directories, through a key their owner hands you"
+2026-11-23T06:14:09Z,opencync,0.7.0,"@Kinachi249, @iacsha",GPL-3.0-or-later,105622,A Python library to communicate with Cync devices. Community-maintained continuation of pycync.
+2026-11-23T06:15:34Z,printify-automation,0.1.0,DevPK,,52155,"Python automation package for Printify product creation, image placement, and batch processing"
+2026-11-23T06:16:40Z,kater-cli-native,0.12091951532254888840,,,1154,"The compiled modules of the Kater CLI's compiler, which kater-cli requires; the wheel for every other platform holds none."
+2026-11-23T06:16:50Z,trevrpc,1.13.0,,MIT,113884,"A client for TrevRPC, a protobuf RPC framework over QUIC"
+2026-11-23T06:16:59Z,protoc-gen-trevrpc-py,1.13.0,,MIT,13916,Generates TrevRPC clients for protobuf-py messages
+2026-11-23T06:19:09Z,malt-index,0.2.0,Mark Shui Hu <watermarkhu@gmail.com>,MIT,5132940,"The MATLAB search path (functions, classes, packages, class folders) as a Python module, backed by malt's native index"
+2026-11-23T06:19:25Z,netra-karna,0.2.0,Nhem Darayut <darayutnhem009@gmail.com>,Apache-2.0,332885,Compact Khmer and English speech recognition on ONNX Runtime: Omnilingual ASR CTC models structurally pruned to 80% sparsity.

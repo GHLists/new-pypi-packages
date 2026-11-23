@@ -8,39 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:20 UTC
+## Latest list — 2026-11-23 06:21 UTC
 
-New packages created between 2026-11-23 04:18 UTC and 2026-11-23 05:20 UTC.
+New packages created between 2026-11-23 05:20 UTC and 2026-11-23 06:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-23T05-20-04-321132Z.csv)
+[Full CSV](data/new-packages-2026-11-23T06-21-07-314455Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-23 04:22:31 | [cerrarium](https://pypi.org/project/cerrarium/) | 0.1.0 |  | 768.5 kB | A synthetic Salesforce-style CRM in Postgres: years of history, a live change s… |
-| 2026-11-23 04:23:09 | [vgsp-ml](https://pypi.org/project/vgsp-ml/) | 0.1.0 | Mohd Adil Mokti | 29.1 kB | Supervised variance-guided scalar projection using bounded class-variance ratios |
-| 2026-11-23 04:32:52 | [vgsp](https://pypi.org/project/vgsp/) | 0.1.1 | Mohd Adil Mokti | 33.3 kB | Supervised variance-guided scalar projection using bounded class-variance ratios |
-| 2026-11-23 04:34:09 | [recamera-pro-ha-protocol](https://pypi.org/project/recamera-pro-ha-protocol/) | 0.1.0 | Seeed Studio | 44.7 kB | Independent device protocol client for Seeed reCamera Pro |
-| 2026-11-23 04:39:38 | [szl-energy-mcp](https://pypi.org/project/szl-energy-mcp/) | 0.1.0 | Stephen P. Lutar Jr. / SZL Ho… | 18.9 kB | Energy-metering vertical MCP server - receipt-gated: every tool result carries… |
-| 2026-11-23 04:39:42 | [szl-specdecode](https://pypi.org/project/szl-specdecode/) | 0.1.0 | Stephen P. Lutar Jr. / SZL Ho… | 20.7 kB | Original SZL draft-then-verify speculative decoding silhouette with SHA3 accept… |
-| 2026-11-23 04:39:49 | [joinforecast](https://pypi.org/project/joinforecast/) | 0.2.2 | Anish Pentyala | 44.8 kB | Offline, exact CSV equality-join row-count preflight |
-| 2026-11-23 04:39:52 | [depwitness](https://pypi.org/project/depwitness/) | 0.3.2 | Anish Pentyala | 60.1 kB | Exact CSV functional-dependency counts and opt-in counterexamples |
-| 2026-11-23 04:39:54 | [wheelpaths](https://pypi.org/project/wheelpaths/) | 0.3.2 | Anish Pentyala | 41.1 kB | Offline collision plans for explicit POSIX wheel installation layouts |
-| 2026-11-23 04:39:55 | [szl-gov](https://pypi.org/project/szl-gov/) | 0.1.0 | Stephen Lutar <stephen@szlhol… | 156.9 kB | Estate truth layer: signed, offline-verifiable audit of the SZL estate + gates… |
-| 2026-11-23 04:41:20 | [JackDB](https://pypi.org/project/JackDB/) | 0.3.2 |  | 35.6 kB | Simple embedded key-value database |
-| 2026-11-23 04:48:06 | [cadrev](https://pypi.org/project/cadrev/) | 0.3.0 |  | 249.1 kB | Reverse-engineer CAD from a paper, with every dimension traceable to a quoted s… |
-| 2026-11-23 04:48:34 | [realuptime](https://pypi.org/project/realuptime/) | 0.0.1 | RealUptime LLC | 1.5 kB | Reserved by RealUptime. See https://realuptime.io |
-| 2026-11-23 04:48:35 | [realuptime-cli](https://pypi.org/project/realuptime-cli/) | 0.0.1 | RealUptime LLC | 1.6 kB | Reserved by RealUptime. See https://realuptime.io |
-| 2026-11-23 04:48:36 | [realuptime-mcp](https://pypi.org/project/realuptime-mcp/) | 0.0.1 | RealUptime LLC | 1.6 kB | Reserved by RealUptime. See https://realuptime.io |
-| 2026-11-23 04:49:12 | [ghostauthor](https://pypi.org/project/ghostauthor/) | 1.6.1 | xiangsir | 238.9 kB | Deterministic AI code provenance ledger: who signed the commits in your repo —… |
-| 2026-11-23 04:51:02 | [ansibangla](https://pypi.org/project/ansibangla/) | 1.0.0 | Ragib Ahsan | 595.0 kB | Convert ANSI Bangla (Bijoy / SutonnyMJ) PDFs and Word documents to Unicode, kee… |
-| 2026-11-23 04:52:03 | [karanfillabs-mcp](https://pypi.org/project/karanfillabs-mcp/) | 0.1.0 | Karanfil Labs <info@karanfill… | 15.0 kB | Official MCP Server for Karanfil Labs Visual DNA API — Identify movies and TV e… |
-| 2026-11-23 04:55:05 | [splitwitness](https://pypi.org/project/splitwitness/) | 0.2.2 | Anish Pentyala | 47.1 kB | Offline transitive split-constraint audits with bounded witness paths |
-| 2026-11-23 04:58:34 | [obis-laser](https://pypi.org/project/obis-laser/) | 0.1.0 | Bruno F. Cruz | 70.7 kB | Python client for Coherent OBIS LX/LS lasers (unofficial, not affiliated with C… |
-| 2026-11-23 04:58:38 | [ceos-capabilities](https://pypi.org/project/ceos-capabilities/) | 0.1.0 |  | 4.2 MB | Client for the CEOS MIM Database: an offline snapshot or the live CEOS Capabili… |
-| 2026-11-23 05:00:11 | [iq-files](https://pypi.org/project/iq-files/) | 0.1.0 | Terry Joel Casani Valencia | 22.4 kB | Fast, lightweight I/Q complex signal file reading and writing for SDR in Python… |
-| 2026-11-23 05:07:43 | [torchserve-cu124-nightly](https://pypi.org/project/torchserve-cu124-nightly/) | 0.12.1.dev20241119 |  | 3.2 kB | CUDA 12.4 optimized model serving runtime for PyTorch inference pipelines |
-| 2026-11-23 05:08:14 | [flexpyirt](https://pypi.org/project/flexpyirt/) | 0.0.1 | takuizum | 2.0 MB | Bock–Aitkin EM estimation for item response theory models, built on JAX. |
-| 2026-11-23 05:08:45 | [cs-toolkit-ika](https://pypi.org/project/cs-toolkit-ika/) | 0.1.0 | ika | 9.5 kB | A small collection of practical computer science utility functions. |
-| 2026-11-23 05:16:16 | [mt5direct](https://pypi.org/project/mt5direct/) | 0.1.0 |  | 54.6 kB | Standalone MetaTrader 5 client over the native WebSocket protocol. No terminal… |
-| 2026-11-23 05:18:29 | [channelstack](https://pypi.org/project/channelstack/) | 0.0.0.dev0 |  | 1.9 kB | A test harness for AI agents in Slack, GitHub, Linear and Notion. Not released… |
-| 2026-11-23 05:18:29 | [hypercache-lmcache-native](https://pypi.org/project/hypercache-lmcache-native/) | 0.10.0 | Looe Labs | 1.9 MB | LMCache native L2 connector backed by the HyperCache daemon |
+| 2026-11-23 05:22:16 | [filekit-mw](https://pypi.org/project/filekit-mw/) | 1.0.0 |  | 12.3 kB | A clean, zero-dependency Python library for safe file and directory operations. |
+| 2026-11-23 05:23:16 | [brand-kit-mcp](https://pypi.org/project/brand-kit-mcp/) | 0.1.0 | Alejandro Cuautli | 119.8 kB | MCP server that gives AI agents your brand identity (palette, typography, logos… |
+| 2026-11-23 05:24:02 | [smalltown-boy-photo-tools](https://pypi.org/project/smalltown-boy-photo-tools/) | 0.1.0 |  | 7.6 kB | Compare dimensions and aspect ratios of two photos for a two-portrait workflow. |
+| 2026-11-23 05:25:03 | [agentordeal](https://pypi.org/project/agentordeal/) | 0.5.0 | Saloni Garg | 472.9 kB | Reference implementation of the AgentOrdeal Specification -- the benchmark that… |
+| 2026-11-23 05:26:50 | [rendernote](https://pypi.org/project/rendernote/) | 0.1.1 |  | 38.4 kB | Prepare each part of a LilyPond score for live play-along, with the audio of th… |
+| 2026-11-23 05:28:14 | [3d-trainer](https://pypi.org/project/3d-trainer/) | 0.0.1 | gguf <info@gguf.us> | 3.7 kB | train your own model |
+| 2026-11-23 05:37:32 | [originate-run-sdk](https://pypi.org/project/originate-run-sdk/) | 0.1.1 | Originate, Inc. | 89.0 kB | Backend SDK for Run, Originate's managed service: request metrics, calls to out… |
+| 2026-11-23 05:37:34 | [prilo-receiver](https://pypi.org/project/prilo-receiver/) | 0.9.0 |  | 12.2 MB | Native Windows receiver for the Prilo Mac app |
+| 2026-11-23 05:39:37 | [opticmix-vision](https://pypi.org/project/opticmix-vision/) | 0.0.3.post1 | Opticmix | 595.3 kB | Python SDK for the Weevia S1 stereo IR camera (UVC): capture, stereo split, cam… |
+| 2026-11-23 05:42:32 | [amv-component-sdk](https://pypi.org/project/amv-component-sdk/) | 0.1.3 | "uno-km (AMEVA Foundation)" <… | 71.1 kB | Shared SDK for AMEVA Component Protocol v1 - common control plane, state file,… |
+| 2026-11-23 05:42:42 | [gamst-sdk](https://pypi.org/project/gamst-sdk/) | 0.4.0 | gamst contributors | 2.4 MB | gamst: local-first real-time sensory context for AI agents |
+| 2026-11-23 05:43:18 | [cqqz-agent](https://pypi.org/project/cqqz-agent/) | 1.0.0 |  | 22.9 kB | cqqz digital human Python control SDK (WebSocket control for Unity) |
+| 2026-11-23 05:49:30 | [gsdtrial](https://pypi.org/project/gsdtrial/) | 0.2.0 | Rushad Nihal | 473.9 kB | Group-sequential, adaptive and Bayesian design for two-arm clinical trials |
+| 2026-11-23 05:50:00 | [mpl3d-vtk](https://pypi.org/project/mpl3d-vtk/) | 0.5.0 |  | 18.5 MB | Scientific 3D plotting with VTK and native Matplotlib axes |
+| 2026-11-23 05:51:05 | [tokensguru](https://pypi.org/project/tokensguru/) | 1.0.0 | CloudAngles <cloudangles@clou… | 45.1 kB | Reduce LLM token usage and cost. |
+| 2026-11-23 05:53:23 | [amv-device-sdk](https://pypi.org/project/amv-device-sdk/) | 0.2.1 | "uno-km (AMEVA Foundation)" <… | 36.2 kB | Lightweight on-device hardware, environment, unified cache and storage foundati… |
+| 2026-11-23 05:57:01 | [gifos-agent](https://pypi.org/project/gifos-agent/) | 0.1.0 | Crowd Concepts, Inc. | 22.2 kB | Join a GifOS meeting as an AI agent from Python: chat, lines, people, hand, voi… |
+| 2026-11-23 06:02:11 | [django-socket-auth](https://pypi.org/project/django-socket-auth/) | 0.1.1 | Blessed Sam <oscarblessed04@g… | 25.6 kB | JWT authentication for Django Channels websockets using djangorestframework-sim… |
+| 2026-11-23 06:06:44 | [bisos.pypiserver](https://pypi.org/project/bisos.pypiserver/) | 0.1 | Mohsen Banan | 56.7 kB | bisos.pypiserver: A Private Python Package Index (pypiserver + pypi-browser) vi… |
+| 2026-11-23 06:13:44 | [meibo](https://pypi.org/project/meibo/) | 1.0.0 | Fennec Studio | 48.2 kB | SDK for meibo's directory API — school and club directories, through a key thei… |
+| 2026-11-23 06:14:09 | [opencync](https://pypi.org/project/opencync/) | 0.7.0 | @Kinachi249, @iacsha | 105.6 kB | A Python library to communicate with Cync devices. Community-maintained continu… |
+| 2026-11-23 06:15:34 | [printify-automation](https://pypi.org/project/printify-automation/) | 0.1.0 | DevPK | 52.2 kB | Python automation package for Printify product creation, image placement, and b… |
+| 2026-11-23 06:16:40 | [kater-cli-native](https://pypi.org/project/kater-cli-native/) | 0.12091951532254888… |  | 1.2 kB | The compiled modules of the Kater CLI's compiler, which kater-cli requires; the… |
+| 2026-11-23 06:16:50 | [trevrpc](https://pypi.org/project/trevrpc/) | 1.13.0 |  | 113.9 kB | A client for TrevRPC, a protobuf RPC framework over QUIC |
+| 2026-11-23 06:16:59 | [protoc-gen-trevrpc-py](https://pypi.org/project/protoc-gen-trevrpc-py/) | 1.13.0 |  | 13.9 kB | Generates TrevRPC clients for protobuf-py messages |
+| 2026-11-23 06:19:09 | [malt-index](https://pypi.org/project/malt-index/) | 0.2.0 | Mark Shui Hu <watermarkhu@gma… | 5.1 MB | The MATLAB search path (functions, classes, packages, class folders) as a Pytho… |
+| 2026-11-23 06:19:25 | [netra-karna](https://pypi.org/project/netra-karna/) | 0.2.0 | Nhem Darayut <darayutnhem009@… | 332.9 kB | Compact Khmer and English speech recognition on ONNX Runtime: Omnilingual ASR C… |
