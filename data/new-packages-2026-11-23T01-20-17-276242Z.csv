@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-22T22:18:33Z,ts-pack-cli,1.27.1,"Na'aman Hirschfeld <naaman@xberg.io>, Tobias Perlstein <tobias@xberg.io>",MIT,194985520,CLI proxy for ts-pack — downloads and runs the native ts-pack binary from GitHub releases.
+2026-11-23T00:21:08Z,colordle-solver,0.1.0,Joseph Butcher <joebutch06@gmail.com>,MIT,689630,Suggests guesses for the Colordle colour game from your previous scores
+2026-11-23T00:24:08Z,alonzio,0.1.0,,MIT,12254,"Find AI agents, MCP servers and APIs that work now, tested and ranked, and route work between agents. No key, no account."
+2026-11-23T00:24:42Z,actum-ocr,0.1.0,Actum,MIT,11016,Document image OCR via OpenAI vision — extract plain text from JPEG/PNG/WebP.
+2026-11-23T00:24:44Z,interleaf,0.0.1,,,2617,People and agents writing one LaTeX paper together. Name reserved; first release to follow.
+2026-11-23T00:24:59Z,ether-core,0.1.0,Harshwardhan Patil <harshwardhan@h45sh.com>,MIT,547447,Reactive process supervisor and graph telemetry engine for security tools and autonomous agents
+2026-11-23T00:30:05Z,support-live-agent,999.9.9,,,966,Stub package that mitigates Dependency Confusion attacks
+2026-11-23T00:34:39Z,theapk-ghostprint,0.1.1,theapk llc,PolyForm Noncommercial License 1.0.0 Copyright (c) 2026 theapk llc This source code is licensed und…,57367,"Two-layer invisible watermark for 3D-printed parts (forensics, not DRM)"
+2026-11-23T00:38:13Z,datasette-charts,0.1a0,Datasette,Apache-2.0,562957,A charting plugin for Datasette
+2026-11-23T00:39:48Z,pipecat-rabel,0.3.0,Rabel Labs,BSD-2-Clause,63892,"Pipecat user turn strategy for Rabel Bell: an early start for your agent's reply, beside Deepgram Flux's eager end of turn"
+2026-11-23T00:40:44Z,livekit-plugins-rabel,1.8.13,Rabel Labs,Apache-2.0,61040,"Agent Framework plugin for Rabel Bell: an early start for your agent's reply, on a guess at how the turn will end"
+2026-11-23T00:41:23Z,era-data,0.1.0,John Vandenberg,MIT,12612,"The ERA journal and conference lists and the ANZSRC classifications, as an RDF graph"
+2026-11-23T00:43:34Z,quantile-edges,0.1.0,,,17886,"Data-driven bin edges: bins are built from the data itself, not pre-set ranges, and each bin carries enough observations to be statistically reliable."
+2026-11-23T00:44:01Z,munitoai,0.1.0b1,,Apache-2.0,17275,The Munito Python SDK for sandboxes and remote GPU functions.
+2026-11-23T00:45:46Z,crewai-datacircle,0.1.0,,MIT,19151,CrewAI tools for the Datacircle API: find the best GTM APIs
+2026-11-23T00:46:01Z,tickertape-cli,0.5.1,The tickertape contributors,MIT OR Apache-2.0,5750691,"The tickertape command-line tool: tail, inspect, verify, export, summarize and archive tickertape journals"
+2026-11-23T00:46:06Z,tickertape,0.5.1,The tickertape contributors,MIT OR Apache-2.0,4270289,"Python bindings for tickertape: a local append-only event journal on memory-mapped files, with live cross-process readers and replay"
+2026-11-23T00:47:13Z,django-loknotify,0.1.0,Loknus Labs LLC <loknuslabs@gmail.com>,GPL-3.0-or-later,207294,"Reusable Django notification framework with pluggable providers (Discord, Mailgun, and more), rules, previews, and layered configuration"
+2026-11-23T00:48:30Z,quality-house,0.1.0,Manav Agarwal,"MIT License Copyright (c) 2026 ManavA Permission is hereby granted, free of charge, to any person o…",27515,"Build, score, and draw a House of Quality."
+2026-11-23T00:49:14Z,csp-adapter-zulip,0.1.0,the csp-adapter-zulip authors <t.paine154@gmail.com>,Apache-2.0,16492,CSP adapter for zulip
+2026-11-23T00:49:57Z,runpod-vllm-deployer,0.2.0,Solomon Wakhungu,"Copyright 2026 Solomon Wakhungu Apache License Version 2.0, January 2004 http://www.apache.org/lice…",111952,A safe Python CLI for deploying OpenAI-compatible vLLM servers on RunPod GPUs.
+2026-11-23T00:50:06Z,googlemcp,0.1.0,Solomon Wakhungu,MIT,194375,Local stdio MCP server that exposes scoped Google APIs to MCP clients
+2026-11-23T00:51:18Z,decision-tree-diagrams,0.2.0,,"MIT License Copyright (c) 2026 ManavA Permission is hereby granted, free of charge, to any person o…",291761,Evaluate and draw decision trees and weighted decision tables with Matplotlib.
+2026-11-23T00:53:13Z,planmagnet-sdk,2026.1123.2,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",32493,Official Python SDK for Planmagnet — thin shell over burdenoff-sdk-libs
+2026-11-23T01:00:28Z,raytrace-sdk,0.1.0,,MIT,15870,"Python SDK for RayTrace cloud sandboxes: create, run commands, stop, start and destroy over the /v1 API"
+2026-11-23T01:01:43Z,sub2cfg,0.1.2,zcq100,,30149,聚合远程订阅与本地节点，校验测速后生成代理客户端配置并可选投递
+2026-11-23T01:06:28Z,bioflow-ai,1.0.0b1,Aye10032 <aye10032@gmail.com>,AGPL-3.0-only,1523269,A Graph-based Intelligent BioAnalysis Platform
+2026-11-23T01:06:43Z,ecoimpacthub-sdk,2026.1123.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",26541,Official Python SDK for Ecoimpacthub — thin shell over burdenoff-sdk-libs
+2026-11-23T01:08:07Z,tryhackme-mcp,0.1.0,Armaan Sidhu,MIT,62707,"Unofficial MCP server for TryHackMe: rooms, tasks, paths, profiles, progress and lab machines."
+2026-11-23T01:08:13Z,esther-ineq,0.1.0,Akram Hernández-Vásquez,GPL-3.0-or-later,210854,Epidemiological Statistics Toolkit for Health Inequality Estimation and Reporting in Python
+2026-11-23T01:08:30Z,loupe-cad,1.0.1,Charles Bine,Apache-2.0,178290,"Code-CAD & PCB review pipeline and MCP server: deterministic geometry checks, contact sheets, 3D viewer, drafts, and KiCad 10 checks."
+2026-11-23T01:13:35Z,aws_sdk_glacier,0.0.0,,Apache-2.0,1955,Placeholder reserving the aws_sdk_glacier name. Not yet functional.
+2026-11-23T01:13:51Z,aws_sdk_s3files,0.0.0,,Apache-2.0,1956,Placeholder reserving the aws_sdk_s3files name. Not yet functional.
+2026-11-23T01:14:06Z,musespiral,0.5.0,,MIT,3260688,"Open content pipeline: media in, publishable drafts out — every AI judgement stays a suggestion you can accept, regenerate or discard"
+2026-11-23T01:14:11Z,aws_sdk_iot_jobs_data_plane,0.0.0,,Apache-2.0,2095,Placeholder reserving the aws_sdk_iot_jobs_data_plane name. Not yet functional.
+2026-11-23T01:14:28Z,aws_sdk_controltower,0.0.0,,Apache-2.0,2015,Placeholder reserving the aws_sdk_controltower name. Not yet functional.
+2026-11-23T01:14:35Z,socialtap,1.597.37,,MIT,1342554,SocialTap API client: Social media scraper API. Live data from any public link.
+2026-11-23T01:17:53Z,aws_sdk_workmail,0.0.0,,Apache-2.0,1972,Placeholder reserving the aws_sdk_workmail name. Not yet functional.
+2026-11-23T01:18:10Z,aws_sdk_ivschat,0.0.0,,Apache-2.0,1957,Placeholder reserving the aws_sdk_ivschat name. Not yet functional.
+2026-11-23T01:18:56Z,aws_sdk_lex_models_v2,0.0.0,,Apache-2.0,2032,Placeholder reserving the aws_sdk_lex_models_v2 name. Not yet functional.
+2026-11-23T01:19:06Z,aws_sdk_kafkaconnect,0.0.0,,Apache-2.0,2015,Placeholder reserving the aws_sdk_kafkaconnect name. Not yet functional.
+2026-11-23T01:19:16Z,gtt,0.2.0,eduardoabreu81,MIT,323819,"Grand Theft Token: find out which prompt stole your AI quota. Local usage analytics for Claude Code, Codex, OpenCode, Antigravity and 17 more AI coding tools."
+2026-11-23T01:19:28Z,supposing,0.1.0,The Supposing Authors,Apache-2.0,219524,Rank documents with LLM judges: pairwise tournaments with confidence intervals.

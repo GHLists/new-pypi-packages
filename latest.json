@@ -1,48 +1,41 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-11-22T23:20:59.57383Z",
-    "path": "data/new-packages-2026-11-23T00-18-23-208885Z.csv",
-    "to": "2026-11-23T00:18:23.208885Z"
+    "count": 43,
+    "from": "2026-11-23T00:18:23.208885Z",
+    "path": "data/new-packages-2026-11-23T01-20-17-276242Z.csv",
+    "to": "2026-11-23T01:20:17.276242Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-22T22:51:06Z",
       "package": "crawlberg-cli",
       "since": "2026-11-22T22:18:26.897484Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T00:15:11Z",
       "package": "khipu-sda-core",
       "since": "2026-11-22T23:20:59.57383Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T00:04:37Z",
       "package": "repo-policy-action",
       "since": "2026-11-22T23:20:59.57383Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T00:12:32Z",
       "package": "trackflow-pthon",
       "since": "2026-11-22T23:20:59.57383Z",
       "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-11-22T22:18:33Z",
-      "package": "ts-pack-cli",
-      "since": "2026-11-22T22:18:26.897484Z",
-      "version": null
     }
   ],
-  "serial": 44032580,
+  "serial": 44034070,
   "source_truncated": false,
-  "window": "2026-11-23T00:18:23.208885Z"
+  "window": "2026-11-23T01:20:17.276242Z"
 }
