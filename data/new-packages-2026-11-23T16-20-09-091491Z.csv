@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T15:19:09Z,skywrapped,0.1.0,Aous Abdo,MIT AND CC-BY-SA-4.0 AND OFL-1.1,1915700,"Turn a folder of astrophotography light frames into year-in-astro cards, reading FITS headers only."
+2026-11-23T15:19:48Z,pybelay,0.1.0a10,,Apache-2.0,5066305,State-integrity checks for RL environments and agents: belay from Python
+2026-11-23T15:21:28Z,correlation-fft,0.1.0,,,1533543,
+2026-11-23T15:21:31Z,toolkit20080127,0.0.1,xxiao <bgn3721_2024@qq.com>,,5521,一个简单的字符串处理工具包
+2026-11-23T15:22:11Z,agentcostoptimizer,0.2.0,,,45281,"Cost per successful task, budgets and context trimming for existing LLM agents"
+2026-11-23T15:22:54Z,auryn-terraform,0.8.3,Roi Lipman <roi.lipman@falkordb.com>,MIT,27240,Terraform/OpenTofu plugin for Auryn and the cloud-topology producer of the deployment & infrastructure tier (ADR 0007). Parses HCL (.tf) into Resource nodes (resource/module/data) and DEPENDS_ON edge…
+2026-11-23T15:25:18Z,apb-export,0.2.3,Witold Wolski,MIT,144289,"APB2 results exported for nine downstream targets: msmu, MSstats, Perseus, prolfqua, ProteoPy, exploreDE, AlphaPeptTools, QFeatures and QPX"
+2026-11-23T15:25:45Z,dace-relayout,0.1.0,Yakup Budanaz <budanaz.yakup@gmail.com>,GPL-3.0-or-later,481929,"Layout transformation sequences on SDFGs: GPU linear layouts and distributed (MPI, NCCL/RCCL) data movement"
+2026-11-23T15:27:30Z,repycudd,3.1.0,,BSD-3-Clause,5792219,Python bindings for the CUDD 3.0.0 decision diagram package
+2026-11-23T15:29:39Z,gek,0.1.2,voxathon,MIT,76005,An asynchronous swarm harness: an LLM orchestrator spawns role-based agents that coordinate through a git repo.
+2026-11-23T15:31:51Z,neurzip,0.3.0,neurzip contributors,MIT,179321,"Portable, lossless text archives. Model-based lossless compression with simple encode and decode commands."
+2026-11-23T15:31:56Z,captchafox-python,1.0.0,Scoria Labs GmbH,Apache-2.0,29166,Verifies CaptchaFox tokens with siteverify.
+2026-11-23T15:32:35Z,ai-editor-client-dev,1.0.244,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,,72437,Async JSON-RPC client for the ai-editor MCP server (mcp-proxy-adapter JsonRpcClient)
+2026-11-23T15:32:59Z,spawnables-durables,0.1.0,tinkrland,,39055,"Durable objects for python: names with mailboxes, and v8 isolates that are expected to die"
+2026-11-23T15:34:40Z,keelie-sdk,0.0.3,Apiable <hello@apiable.io>,Apache-2.0,112164,"Placeholder for the Keelie SDK, by Apiable. Token checks, scopes and usage reports for your API, off the request path."
+2026-11-23T15:34:52Z,pagp-lab,1.0.1,Shreya Prasad,MIT,10872,Cross-platform pip package for the PAGP Monte Carlo Pi programs
+2026-11-23T15:35:32Z,crit-models,0.23.0,,Apache-2.0,65118,"crit Models' Python side: a decoder's mechanisms from its config.json, the rules over them, and the harness of a model plugin's tests"
+2026-11-23T15:38:44Z,meta-klusters,0.1.0,Erick M. Fiestas Sorogastua,MIT,747836,Scalable meta-learning surrogate framework for automated cluster count (k) estimation.
+2026-11-23T15:39:38Z,accelmo,0.0.1,Joshua Gray,MIT,414412,Accelerator Effective Lattice Modelling and Optimisation
+2026-11-23T15:43:18Z,polycheck,0.2.1,Philip Hofmann <philiphofmann@hotmail.com>,MIT,169796,Polyglot static analysis pipeline that produces LLM-ready triage output
+2026-11-23T15:45:17Z,neuralzip,0.3.1,neuralzip contributors,MIT,179546,"Portable, lossless text archives. Model-based lossless compression with simple encode and decode commands."
+2026-11-23T15:46:03Z,querying-ai,0.2.0,,MIT,26475,"Python client for the querying.ai API: call ChatGPT, Gemini, Google, store, social and ad library paths, run batches, verify webhooks."
+2026-11-23T15:46:34Z,ghostty-for-windows,20261123.5,Cong Zhang <13283869+congzhangzh@users.noreply.github.com>,Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception,80855857,"Ghostty, the terminal emulator, built for Windows (x64 and Arm64): an unofficial build"
+2026-11-23T15:46:57Z,myob-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,19477,MYOB API integration and MCP server (unofficial) by Cotlet: connect AI to your MYOB Business account.
+2026-11-23T15:48:18Z,pygtvdb,0.1.0,gtvdb,Apache-2.0,63633,DB-API 2.0 driver for the gtv temporal-graph engine (import gtvdb)
+2026-11-23T15:48:38Z,flow-semantics,0.1.3,Alexander (Cyril) Sanchez,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",106727,"Zero-runtime-dependency, language-neutral execution-semantics library for decision-and-error flows."
+2026-11-23T15:49:08Z,apb-export-ui,0.3.0,Witold Wolski,MIT,3880504,Locked web application for APB Export
+2026-11-23T15:50:44Z,spredr,0.1.2,Spredr Cloud,"spredr SDK License Copyright (c) 2026 Candhrly, LLC. All rights reserved. This license covers @spre…",71738,"Build AI agents as ordinary services and run them on spredr: tasks, questions before risky actions, memory per customer, lessons and traces."
+2026-11-23T15:52:48Z,workflow-coordinator,0.1.0b1,Stefan Schade,"MIT License Copyright (c) 2025 Stefan Schade Permission is hereby granted, free of charge, to any p…",405018,Bounded repository-native agent workflow coordination.
+2026-11-23T15:54:13Z,backtest-engine,0.1.0,Iker Abad,,535867,Event-driven backtesting engine that proves the absence of look-ahead bias
+2026-11-23T15:54:15Z,bitvf,0.1.0,Simone Sartori,GPL-2.0-or-later,27241646,The Back-in-time Void Finder: voids from the optimal transport displacement field of a tracer catalogue
+2026-11-23T15:55:11Z,fstx,1.0.0,Harsh Chourasia,MIT,11910647,"Fast, safe column-store files (the FST-X format): Python on the fstx C++ engine"
+2026-11-23T15:55:39Z,agents-bus,0.2.0,SwooshXuan,MIT,47551,"A tiny, SSH-native, human-readable task mailbox for cross-machine AI agents"
+2026-11-23T15:55:51Z,money-iso,4.0.0,"Back Market Bureau of Technology, J.C. Manzo, Nicky Robinson",MIT,21176,A python library to manage money
+2026-11-23T15:56:06Z,git-graph-server,0.1.1,Ilyas Wadjinny,MIT,58490,"Local web UI for your git branch graph that can draw rebased and squashed commits as merges, checked against GitHub PRs"
+2026-11-23T15:57:14Z,cbox-billing,0.1.0,Cbox,MIT,2050208,"Python client for the Cbox Billing API, generated from its OpenAPI contract, with a hot-path enforcement client (leases, entitlements, features), webhook verification, pagination and typed errors."
+2026-11-23T15:57:20Z,chordseq,0.0.2,Thor Whalen,MIT,101510,"Chord-progression search in any key, n-gram counts and Roman numerals over chord-symbol sequences"
+2026-11-23T15:58:09Z,hunyuan,0.0.1.dev0,,,7707,An independent Python client for the Tencent Hunyuan API
+2026-11-23T16:01:03Z,hft-lsmi,0.1.0,,MIT,40441,Client library for the LSMI HFT simulation competition
+2026-11-23T16:02:30Z,shared-git-publish,0.1.0,El Fenomeno,MIT,89664,Publish explicit Git work and advance shared checkouts while preserving local edits.
+2026-11-23T16:03:37Z,marina-rules-core,1.0.0,David Li,MIT,438833,"The code of marina-rules (point-in-time exchange trading rules as data): lookups, fill checker, engine adapters, command line. Install marina-rules, which holds the rules and depends on this."
+2026-11-23T16:03:48Z,nematocyte,0.1.0,Thomas M Kehrenberg,MIT,134744,"Configuration for Python programs, as a tree of dataclasses filled from YAML or JSON5 files and the command line"
+2026-11-23T16:04:00Z,doc2podcast-live,0.3.0,Andrey Pimenov <carl@mcpshieldwall.dpdns.org>,MIT,96292,"Zero-dependency Markdown & LaTeX-to-2-Host Podcast pipeline with W3C SSML, WebVTT/SRT, Podcasting 2.0 RSS, ElevenLabs & Deepgram Aura adapters."
+2026-11-23T16:04:24Z,structured-json-extractor,0.3.0,,MIT,93535,"Deterministic structured JSON schema extractor with source-span evidence, replay hashes, JSON repair, schema validation, PII redaction, and streaming JSONL support."
+2026-11-23T16:04:39Z,arabic-sciplot,0.1.0,El Ghali Asri,MIT,13661,أدوات عربية خفيفة لتنسيق الرسوم البيانية العلمية
+2026-11-23T16:06:01Z,uref,0.4.3,,,64432,UniRef client
+2026-11-23T16:06:38Z,nexus-agents-sdk,2.0.1,Nexus Protocol <contact@nexusprotocol.io>,MIT,49901,NEXUS AGENTS CRYPTO PROTOCOL — Homologated Python SDK v2.0.1 for Autonomous AI Agents
+2026-11-23T16:07:20Z,causal-toolkit-sovinbirla,0.1.1,Sovin Birla,MIT,18786,"Causal inference tools for randomized trials, propensity scores, and meta-learners"
+2026-11-23T16:09:01Z,mt5-bridge-py,0.4.0,0xbarss <baris.ozdemir.se@gmail.com>,MIT,1342528,Python bindings (PyO3) for mt5-bridge — MetaTrader 5 API bridge client for Python
+2026-11-23T16:10:38Z,sme-aiot,1.0.0,SME AIoT,,70309,"SME AIoT SDK for Linux boards (Raspberry Pi, NVIDIA Jetson, Google Coral, Orange Pi, Banana Pi ...): the Arduino SME AIoT SDK in Python, the same calls and cloud protocol"
+2026-11-23T16:12:25Z,weightspaceprogramming,0.1.0.dev1,,Apache-2.0,32782,Learn weight-space programming with runnable NumPy experiments.
+2026-11-23T16:14:30Z,proxylayer,0.1.0,ProxyLayer,MIT,12614,Zero-dependency Python client for the ProxyLayer API
+2026-11-23T16:15:48Z,marqius-wkhtmltopdf,0.12.13,Simple AI LLC <hello@marqius.com>,LicenseRef-marqius-wkhtmltopdf,37368254,"marqius-wkhtmltopdf, the maintained drop-in replacement for wkhtmltopdf, for python-pdfkit, django-wkhtmltopdf and imgkit (commercial, 30-day trial)"
+2026-11-23T16:18:51Z,fts4,4.0.0a3,CERN -- FTS team,Apache License 2.0,23001,FTS Python3 CLI and libraries
+2026-11-23T16:19:27Z,dace-extended,1.0.0,"""SPCL @ ETH Zurich"" <talbn@inf.ethz.ch>",BSD-3-Clause,19242030,Data-Centric Parallel Programming Framework
+2026-11-23T16:19:40Z,borg-nlp,0.1.0,,,122020,A complete NLP processing pipeline using DeBERTa-v3 and adapters
