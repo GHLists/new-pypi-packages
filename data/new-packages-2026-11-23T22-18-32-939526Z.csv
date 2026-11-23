@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T21:21:25Z,safety-stats,0.16.0,Safety Stats contributors,MIT,3189559,"Confidence intervals, model comparisons, rollout planning and LLM-judge correction for pass/fail LLM evaluations, from Inspect AI logs or any harness"
+2026-11-23T21:30:29Z,qmdc-model,0.3.0,umaxfun <umaxfun@gmail.com>,AGPL-3.0-or-later,171040,Metamodel operator and linter for QMD workspaces
+2026-11-23T21:32:41Z,fdu-team-mcp,0.2.0,Alberto Ancona,Apache-2.0,86139,"MCP control plane for the FDU + Engineering delivery team: approval gate, packet and report validation, evidence ledger."
+2026-11-23T21:32:46Z,jde-readonly-mcp,0.1.0,Jesús Mendoza,MIT,36876,Read-only Model Context Protocol (MCP) server for JD Edwards EnterpriseOne on Oracle Database
+2026-11-23T21:34:45Z,avrik-core-platform,0.1.0rc0,Avrik,BUSL-1.1,116153,"Avrik core-platform for Python backends: token verification, local authorization with audited decisions, cloud access, licensing."
+2026-11-23T21:35:10Z,printy3d,0.4.0,,Apache-2.0,96016,Official Python client for the Printy3D mesh-preparation API
+2026-11-23T21:37:42Z,rpt-sdk,0.2.1,,MIT,41115,The Python implementation of the rpt plugin protocol
+2026-11-23T21:38:25Z,fpgather,0.1.0,VHDLivery <vhdlivery@gmail.com>,MIT,39669,Resolve hierarchical sources.yml files and export HDL build inputs
+2026-11-23T21:38:40Z,pyqules,0.1.5,,MIT,376156042,QULES derivative-free optimizer
+2026-11-23T21:41:50Z,fastcircuit,0.1.0,Parth Danve,Apache-2.0,169861,"Write Python, run your Qiskit code at native speed: one 'with fastcircuit:' line compiles it to machine code"
+2026-11-23T21:44:29Z,timecopilot-simons,0.1.0,TimeCopilot,Apache-2.0,77681,Standalone inference for Simons time-series forecasting models
+2026-11-23T21:46:43Z,alula-cropwatch,0.1.0,FAHAD SAAD ALBALWI,"MIT License Copyright (c) 2026 FAHAD SAAD ALBALWI Permission is hereby granted, free of charge, to…",7770,Agricultural vegetation indices and field summaries for AlUla
+2026-11-23T21:47:25Z,piton-cli,0.4.2,Bright Onwe,MIT,143988,"Piton — Lockfile and static supply-chain scanner for MCP servers, Claude Code hooks, and Cursor rules"
+2026-11-23T21:50:17Z,alula-waterwise,0.1.0,FAHAD SAAD ALBALWI,"MIT License Copyright (c) 2026 FAHAD SAAD ALBALWI Permission is hereby granted, free of charge, to…",9437,Reference evapotranspiration and irrigation estimates for AlUla
+2026-11-23T21:50:40Z,RayCrafter,0.0.1,Rob Campbell <git@raacampbell.com>,MIT,282156,Raytracing GUI for simple optical systems using off-the-shelf lenses and Optiland
+2026-11-23T21:53:35Z,alula-heritage,0.1.0,FAHAD SAAD ALBALWI,"MIT License Copyright (c) 2026 FAHAD SAAD ALBALWI Permission is hereby granted, free of charge, to…",8050,Curated AlUla heritage destinations and simple visit planning
+2026-11-23T21:56:37Z,cbadc-deltasigma,0.2.6,Giuseppe Venturini and others,BSD-2-Clause,756995,"a Python package to synthesize, simulate, scale and map to implementable topologies delta sigma modulators."
+2026-11-23T21:59:54Z,causalgeo,0.2.4,Aditya Puttaparthi Tirumala,MIT,149205,"Channel effects from concurrent geo holdouts: bundle experiments, a model-assisted split, and a reported gap."
+2026-11-23T22:00:12Z,harp-whoami,0.1.0,harp-tech <contact@harp-tech.org>,MIT,99697,The registry of WhoAmI identifiers reserved for Harp devices
+2026-11-23T22:00:40Z,async-anywhere,0.0.1,Zac Bentley <zbentley@users.noreply.github.com>,MIT,125891,Interact with your async code from any thread or event loop
+2026-11-23T22:11:22Z,apprendo,0.1.0,,Apache-2.0,26966,"Python client for the Apprendo API (version 1), with webhook verification."
+2026-11-23T22:11:43Z,pyforgefx,1.0.0,Drakonosinc,MIT,32049,"Modular 2D SpriteSheet Animation, Procedural Frame Generation, Particles, Motion Trails, and Camera Effects library for Pygame."
+2026-11-23T22:14:15Z,opera-rs,0.1.0,Qiusheng Wu <giswqs@gmail.com>,MIT,89412129,"Pure-Rust, agent-centric toolkit for searching, visualizing, and analyzing NASA OPERA satellite data (with CLI and MCP server)"
+2026-11-23T22:16:05Z,lupaxa-token-decoder,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",16752,Decode and inspect JWTs and other common token formats.
