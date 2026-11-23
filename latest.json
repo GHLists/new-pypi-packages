@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-11-23T11:18:58.318567Z",
-    "path": "data/new-packages-2026-11-23T12-18-43-701548Z.csv",
-    "to": "2026-11-23T12:18:43.701548Z"
+    "count": 34,
+    "from": "2026-11-23T12:18:43.701548Z",
+    "path": "data/new-packages-2026-11-23T13-18-35-398895Z.csv",
+    "to": "2026-11-23T13:18:35.398895Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-23T09:16:51Z",
-      "package": "cognifence-connect",
-      "since": "2026-11-23T08:18:38.717875Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T11:51:49Z",
       "package": "rboto-cloudformation",
       "since": "2026-11-23T11:18:58.318567Z",
       "version": null
     }
   ],
-  "serial": 44053715,
+  "serial": 44056203,
   "source_truncated": false,
-  "window": "2026-11-23T12:18:43.701548Z"
+  "window": "2026-11-23T13:18:35.398895Z"
 }

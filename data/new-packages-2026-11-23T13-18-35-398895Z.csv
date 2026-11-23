@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T12:20:18Z,rdf-kg-mcp,0.4.0,Rewire contributors,MIT,125162,"Serve a versioned, pre-reasoned RDF knowledge-graph bundle read-only over the Model Context Protocol."
+2026-11-23T12:22:14Z,mci17-Rag,0.1.0,,,13169,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T12:23:14Z,walkfs,1.4.7,isaac onagh <mkalafsaz@gmail.com>,,27302,
+2026-11-23T12:23:44Z,delbina,0.2.0,Krupakar SB,Apache-2.0,31235,Keep long LLM chats under a token budget: trim and summarize chat history before each model call
+2026-11-23T12:27:29Z,dotomata,0.1.1,zeikar,MIT,331235,"AI pixel art sprite generator: concept art to a validated, animated, game-ready sprite sheet"
+2026-11-23T12:30:09Z,teamcity-runner,999.9.9,,,960,Stub package that mitigates Dependency Confusion attacks
+2026-11-23T12:31:04Z,ttu-iam,0.1.0,,,70166,"Official Python SDK for TTU IAM: OIDC/SSO, PKCE, access/ID token verify, map_subject, and Flask/FastAPI integrations"
+2026-11-23T12:38:42Z,hlp-spice2x,1.0.1,Jacob Simpson,GPL-3.0-or-later,188554,Drive a GP2040-CE board's LEDs from spice2x cabinet lighting
+2026-11-23T12:42:58Z,quotarouter,0.3.2,Andrey Sorochinsky,MIT,287575,"Quota-aware router for web search and page extraction: spend free monthly allowances first and pick the provider by remaining quota, not by a 402 error."
+2026-11-23T12:43:35Z,cf-share-file,0.3.0,,MIT,12036,Share a single file through a Cloudflare quick tunnel.
+2026-11-23T12:45:00Z,mkfos,0.9.1,EasyModel contributors,MIT,91565,EasyModel / MKFOS：极小的模型底座——numpy 手写前向与反传、PyTorch 后端、RNN/CNN/Transformer/DNN、MoE、Embedding、RAG、PLM
+2026-11-23T12:46:41Z,conicfolio,2.9.0,ConicFolio Labs <community@conicfolio.com>,Apache-2.0,18627,"Public Python SDK for ConicFolio: High-Performance Conic Portfolio Optimization API (Equal Risk Contribution, HRP, HERC, CVaR)"
+2026-11-23T12:50:55Z,pyHyperRI,1.0.0,"Chao Tang, Adrian Jackson",BSD-3-Clause,148575787,Python package for hyperspectral radio interferometric imaging in astronomy.
+2026-11-23T12:52:44Z,urml-ros2-runtime,0.5.0,URML Maintainers,BUSL-1.1,197722,ROS 2 reference runtime for URML — Universal Robot Language.
+2026-11-23T12:52:47Z,urml-px4-runtime,0.5.0,URML Maintainers,BUSL-1.1,88150,PX4 / MAVLink reference runtime for URML — Universal Robot Language.
+2026-11-23T12:52:49Z,urml-mcp-server,0.5.0,URML Maintainers,BUSL-1.1,42744,Model Context Protocol server for URML: validate-before-actuate robot intent as agent tools
+2026-11-23T12:52:52Z,urml-model,0.5.0,URML Maintainers,BUSL-1.1,38180,Dataset synthesis pipeline and training recipe for a URML-native small model (RFC-0666).
+2026-11-23T12:55:52Z,litellm-onewolf,1.3.0,OneWolf <support@onewolf.ai>,MIT,144554,OneWolf Guard callback for LiteLLM — applies Cerberus (input) and Anubis (output) AI security guards via OneWolf backend.
+2026-11-23T12:56:34Z,kemio,0.1.0,Janosh Riebesell <janosh.riebesell@gmail.com>,MIT,43445632,"Fast Rust kernels for computational materials science, with Python and WebAssembly bindings"
+2026-11-23T12:57:30Z,socratic-sidecar,0.3.0,,MIT,254516,"Minimal Socratic tutor sidecar: search, pages, compute"
+2026-11-23T12:59:44Z,huri-module-think,0.1.0,,,68890,HuRI modules: generated thinking motion and thinking aloud while the answer is prepared
+2026-11-23T13:01:08Z,panglos-alveole,0.1.0,Adrien Delcenserie <fondateur@arkhe-ia.fr>,,20118,Connecteur universel et sas cryptographique pour l'Amphithéâtre Panglos
+2026-11-23T13:01:35Z,huri-module-lipsync,0.1.0,,,69356,"HuRI module: lip sync, ARKit blend shapes from the voice (LAM Audio2Expression), on a GPU or a CPU"
+2026-11-23T13:02:31Z,einvoice-reader,0.1.0,,MIT,60912,"Read EU e-invoices offline: XRechnung, Peppol BIS (UBL), UN/CEFACT CII, ZUGFeRD / Factur-X (XML or PDF) into a plain dict, CSV or JSON."
+2026-11-23T13:04:05Z,map-conform,0.1.0,Paul Caron <paulcaron16k@yahoo.com>,Apache-2.0,730431,"A Singer inline mapper that conforms names, types, values and metadata so data lands clean."
+2026-11-23T13:04:17Z,beit-dock,0.0.1,BEIT,,2673,Client tools for BEIT's covalent and non-covalent docking products (placeholder release).
+2026-11-23T13:04:40Z,zqh-toolkit,1.0.0,朱启航 <906568917@qq.com>,MIT,13006,数值计算与字符处理工具包：统计量计算、回文判断、凯撒密码等
+2026-11-23T13:09:50Z,mapmap-client,0.1.0,Mapmap AI Ltd,MIT,1519268,"Generated Python client for the MapMap gateway API (routing, geocoding, matrix, isochrones, optimisation, truck/ADR, tiles and styles), from the live https://api.mapmap.ai/openapi.json."
+2026-11-23T13:13:32Z,anyascii-rs,0.3.4,Hunter WB <hunter@hunterwb.com>,,12620705,Rust-backed Unicode to ASCII transliteration (up to 25.9x as fast as anyascii 0.3.3 in benchmarks)
+2026-11-23T13:13:41Z,numtext-toolkit,1.0.0,朱启航 <906568917@qq.com>,MIT,12964,数值计算与字符处理工具包：统计量计算、回文判断、凯撒密码等
+2026-11-23T13:14:29Z,langchain-mapmap,0.1.0,Mapmap AI Ltd <hello@mapmap.ai>,MIT,15464,"MapMap tools for LangChain agents: car, truck and ADR routing, geocoding, places, matrices, isochrones and map styling through the hosted MapMap MCP server."
+2026-11-23T13:15:17Z,sqlparse-turbo,0.1.0,,BSD-3-Clause,6295456,"sqlparse's format(), split() and parse() rewritten in Rust: same output, byte for byte, many times faster"
+2026-11-23T13:16:17Z,chatlexicon,0.0.1,,MIT,1611,Reserved for ChatLexicon
+2026-11-23T13:18:30Z,pyansys-mcp,0.1.0,"""Synopsys, Inc. and ANSYS, Inc."" <pyansys-core@synopsys.com>",Apache-2.0,13100,PyAnsys Model Context Protocol (MCP) metapackage - unified hub for AI-powered Ansys simulation workflows
