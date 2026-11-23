@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T06:21:39Z,batchseam,1.0.0,,MIT,103055,Test Polars expressions across batch boundaries and save failures as pytest regressions.
+2026-11-23T06:23:44Z,multilingual-num2text,0.1.0,Kawshik Kumar Paul,Apache-2.0,104817,"Convert numbers in text to words: amounts, money, phone numbers, dates, times, codes and more. Bangla and English built in."
+2026-11-23T06:24:30Z,coverage-wasm,0.2.0,,MIT,50725,A Coverage.py addon for Python line and branch coverage in WebAssembly
+2026-11-23T06:25:11Z,datasetvet,0.1.0,Mohamed Elsaka,MIT,1035781,"Before you train on it, check it: a report card of verifiable facts about a dataset."
+2026-11-23T06:26:15Z,gitannals,0.1.1,teng <teng2002823@outlook.com>,MIT,179695,Git 仓库时光机：把一段提交历史变成一份能看的演进报告
+2026-11-23T06:28:29Z,paddockai,0.0.2,,,86343,"The Python server SDK for paddock: agents, sessions, events, and streams."
+2026-11-23T06:28:44Z,qrcode-mcp,0.1.1,qrmcp contributors,MIT,108614,"MCP server for QR decoding (including damaged-code repair), generation, URL routing and pluggable OCR"
+2026-11-23T06:30:04Z,swe-task-tribunal,999.9.9,,,965,Stub package that mitigates Dependency Confusion attacks
+2026-11-23T06:32:07Z,essyntax,0.1.0,Sergey Shkarin <kouki.sergey@gmail.com>,MIT AND CC-BY-SA-4.0,71974366,Fast Spanish dependency parser written in Rust with a Python API
+2026-11-23T06:33:36Z,ngquic,0.1.0,,MIT,143562587,"A fast Sans-I/O QUIC and HTTP/3 library for Python, powered by ngtcp2 and nghttp3"
+2026-11-23T06:34:29Z,karasu,0.0.3,,,83682407,"Karasu Engine games as Python environments: pixel observations, exact ground truth, seeded and vectorised"
+2026-11-23T06:39:23Z,scianchor,1.5.0,,AGPL-3.0-only,2227378,"SciAnchor: evidence-grounded, traceable AI research. Bundles Research Harness, the open-source research engine."
+2026-11-23T06:43:52Z,sdlc-squad,0.1.0,Debashish Ghosal,MIT,232451,"A software team in a box: four AI personas (PMT, TPM, SDM, SDE) whose skills turn any AI chat into an SDLC workhorse — Markdown contracts for GitHub, Jira, and Confluence. 100% Markdown, local-first,…"
+2026-11-23T06:43:58Z,lectris,0.3.0,,Apache-2.0,279207,"OCR output, read back into clean, ordered text: every change it makes is recorded and explained."
+2026-11-23T06:49:09Z,pr-sentinel-ai,0.2.3,Jalal <vadofespanili@gmail.com>,MIT,70968,AI-powered pull request review bot: GitHub Action and CLI
+2026-11-23T06:49:09Z,unary,0.1.0,J Meskanen <juha@meskanen.com>,MIT,15189,Unary arithmetic
+2026-11-23T06:51:48Z,getaccord,0.6.0,Accord,Apache-2.0,45833,"Let AI agents spend within limits you set: holds, sign-off and exact payments, enforced on chain."
+2026-11-23T07:03:28Z,lathe-agent,0.1.0,Aditya Surse and Lathe Contributors <maintainers@lathe.ai>,Apache-2.0,1699352,Terminal AI coding agent powered by dual open-source models and automated merging.
+2026-11-23T07:04:44Z,modular-rag-langchain,0.1.0,,,13556,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T07:04:53Z,unified-memory-mcp,0.1.1,Tonpa,Apache-2.0,91318,"One MCP server for semantic fact memory (mem0) and a code knowledge graph (codebase-memory), with cross-linked recall."
+2026-11-23T07:07:58Z,universal-mapper,1.0.0,,MIT,24383,"A Python library for mapping data between objects, models, and collections"
+2026-11-23T07:11:20Z,eopf-safe,1.0.0rc1,Sopra-CS,Apache-2.0,1779370,Earth Observation Platform Core Python Modules
+2026-11-23T07:11:55Z,pxweb-client,0.1.0,,MIT,32319,"Python client for the PxWeb API v1, used by many national statistics offices"
+2026-11-23T07:14:51Z,deq-shapes,1.0.0rc1,0xdolan <0xdolan@gmail.com>,GPL-3.0-or-later,193246,"Deq: traditional Kurdish tattoo shapes as an open, parametric design system (Python library and CLI)."
+2026-11-23T07:15:55Z,sciview,0.3.0,Oriol Sans Planell,MIT,3357133,"Make clear, beautiful scientific explainer videos with a visual editor or a few lines of Python."
+2026-11-23T07:16:18Z,hvme,0.1.0,josh <ai@namuax.com>,Apache-2.0,445097,"Verifiable causal graphs, a tool-using causal reasoning LLM and a symbolic causal engine, tied together by an orchestrator and an MCP server"
+2026-11-23T07:16:36Z,mac-alpha-zero,0.1.0,,MIT,40026,AlphaZero-style self-play training that runs end to end on your Mac. Batched MCTS + Gumbel AlphaZero on MLX.
+2026-11-23T07:18:32Z,omnibiblio,0.0.1,Asif Altaf,GPL-3.0-or-later,30431,"Free, open-source one-stop app for bibliometric analysis, science mapping and literature discovery."

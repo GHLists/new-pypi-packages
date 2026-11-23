@@ -8,38 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 06:21 UTC
+## Latest list — 2026-11-23 07:18 UTC
 
-New packages created between 2026-11-23 05:20 UTC and 2026-11-23 06:21 UTC.
+New packages created between 2026-11-23 06:21 UTC and 2026-11-23 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-23T06-21-07-314455Z.csv)
+[Full CSV](data/new-packages-2026-11-23T07-18-35-967249Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-23 05:22:16 | [filekit-mw](https://pypi.org/project/filekit-mw/) | 1.0.0 |  | 12.3 kB | A clean, zero-dependency Python library for safe file and directory operations. |
-| 2026-11-23 05:23:16 | [brand-kit-mcp](https://pypi.org/project/brand-kit-mcp/) | 0.1.0 | Alejandro Cuautli | 119.8 kB | MCP server that gives AI agents your brand identity (palette, typography, logos… |
-| 2026-11-23 05:24:02 | [smalltown-boy-photo-tools](https://pypi.org/project/smalltown-boy-photo-tools/) | 0.1.0 |  | 7.6 kB | Compare dimensions and aspect ratios of two photos for a two-portrait workflow. |
-| 2026-11-23 05:25:03 | [agentordeal](https://pypi.org/project/agentordeal/) | 0.5.0 | Saloni Garg | 472.9 kB | Reference implementation of the AgentOrdeal Specification -- the benchmark that… |
-| 2026-11-23 05:26:50 | [rendernote](https://pypi.org/project/rendernote/) | 0.1.1 |  | 38.4 kB | Prepare each part of a LilyPond score for live play-along, with the audio of th… |
-| 2026-11-23 05:28:14 | [3d-trainer](https://pypi.org/project/3d-trainer/) | 0.0.1 | gguf <info@gguf.us> | 3.7 kB | train your own model |
-| 2026-11-23 05:37:32 | [originate-run-sdk](https://pypi.org/project/originate-run-sdk/) | 0.1.1 | Originate, Inc. | 89.0 kB | Backend SDK for Run, Originate's managed service: request metrics, calls to out… |
-| 2026-11-23 05:37:34 | [prilo-receiver](https://pypi.org/project/prilo-receiver/) | 0.9.0 |  | 12.2 MB | Native Windows receiver for the Prilo Mac app |
-| 2026-11-23 05:39:37 | [opticmix-vision](https://pypi.org/project/opticmix-vision/) | 0.0.3.post1 | Opticmix | 595.3 kB | Python SDK for the Weevia S1 stereo IR camera (UVC): capture, stereo split, cam… |
-| 2026-11-23 05:42:32 | [amv-component-sdk](https://pypi.org/project/amv-component-sdk/) | 0.1.3 | "uno-km (AMEVA Foundation)" <… | 71.1 kB | Shared SDK for AMEVA Component Protocol v1 - common control plane, state file,… |
-| 2026-11-23 05:42:42 | [gamst-sdk](https://pypi.org/project/gamst-sdk/) | 0.4.0 | gamst contributors | 2.4 MB | gamst: local-first real-time sensory context for AI agents |
-| 2026-11-23 05:43:18 | [cqqz-agent](https://pypi.org/project/cqqz-agent/) | 1.0.0 |  | 22.9 kB | cqqz digital human Python control SDK (WebSocket control for Unity) |
-| 2026-11-23 05:49:30 | [gsdtrial](https://pypi.org/project/gsdtrial/) | 0.2.0 | Rushad Nihal | 473.9 kB | Group-sequential, adaptive and Bayesian design for two-arm clinical trials |
-| 2026-11-23 05:50:00 | [mpl3d-vtk](https://pypi.org/project/mpl3d-vtk/) | 0.5.0 |  | 18.5 MB | Scientific 3D plotting with VTK and native Matplotlib axes |
-| 2026-11-23 05:51:05 | [tokensguru](https://pypi.org/project/tokensguru/) | 1.0.0 | CloudAngles <cloudangles@clou… | 45.1 kB | Reduce LLM token usage and cost. |
-| 2026-11-23 05:53:23 | [amv-device-sdk](https://pypi.org/project/amv-device-sdk/) | 0.2.1 | "uno-km (AMEVA Foundation)" <… | 36.2 kB | Lightweight on-device hardware, environment, unified cache and storage foundati… |
-| 2026-11-23 05:57:01 | [gifos-agent](https://pypi.org/project/gifos-agent/) | 0.1.0 | Crowd Concepts, Inc. | 22.2 kB | Join a GifOS meeting as an AI agent from Python: chat, lines, people, hand, voi… |
-| 2026-11-23 06:02:11 | [django-socket-auth](https://pypi.org/project/django-socket-auth/) | 0.1.1 | Blessed Sam <oscarblessed04@g… | 25.6 kB | JWT authentication for Django Channels websockets using djangorestframework-sim… |
-| 2026-11-23 06:06:44 | [bisos.pypiserver](https://pypi.org/project/bisos.pypiserver/) | 0.1 | Mohsen Banan | 56.7 kB | bisos.pypiserver: A Private Python Package Index (pypiserver + pypi-browser) vi… |
-| 2026-11-23 06:13:44 | [meibo](https://pypi.org/project/meibo/) | 1.0.0 | Fennec Studio | 48.2 kB | SDK for meibo's directory API — school and club directories, through a key thei… |
-| 2026-11-23 06:14:09 | [opencync](https://pypi.org/project/opencync/) | 0.7.0 | @Kinachi249, @iacsha | 105.6 kB | A Python library to communicate with Cync devices. Community-maintained continu… |
-| 2026-11-23 06:15:34 | [printify-automation](https://pypi.org/project/printify-automation/) | 0.1.0 | DevPK | 52.2 kB | Python automation package for Printify product creation, image placement, and b… |
-| 2026-11-23 06:16:40 | [kater-cli-native](https://pypi.org/project/kater-cli-native/) | 0.12091951532254888… |  | 1.2 kB | The compiled modules of the Kater CLI's compiler, which kater-cli requires; the… |
-| 2026-11-23 06:16:50 | [trevrpc](https://pypi.org/project/trevrpc/) | 1.13.0 |  | 113.9 kB | A client for TrevRPC, a protobuf RPC framework over QUIC |
-| 2026-11-23 06:16:59 | [protoc-gen-trevrpc-py](https://pypi.org/project/protoc-gen-trevrpc-py/) | 1.13.0 |  | 13.9 kB | Generates TrevRPC clients for protobuf-py messages |
-| 2026-11-23 06:19:09 | [malt-index](https://pypi.org/project/malt-index/) | 0.2.0 | Mark Shui Hu <watermarkhu@gma… | 5.1 MB | The MATLAB search path (functions, classes, packages, class folders) as a Pytho… |
-| 2026-11-23 06:19:25 | [netra-karna](https://pypi.org/project/netra-karna/) | 0.2.0 | Nhem Darayut <darayutnhem009@… | 332.9 kB | Compact Khmer and English speech recognition on ONNX Runtime: Omnilingual ASR C… |
+| 2026-11-23 06:21:39 | [batchseam](https://pypi.org/project/batchseam/) | 1.0.0 |  | 103.1 kB | Test Polars expressions across batch boundaries and save failures as pytest reg… |
+| 2026-11-23 06:23:44 | [multilingual-num2text](https://pypi.org/project/multilingual-num2text/) | 0.1.0 | Kawshik Kumar Paul | 104.8 kB | Convert numbers in text to words: amounts, money, phone numbers, dates, times,… |
+| 2026-11-23 06:24:30 | [coverage-wasm](https://pypi.org/project/coverage-wasm/) | 0.2.0 |  | 50.7 kB | A Coverage.py addon for Python line and branch coverage in WebAssembly |
+| 2026-11-23 06:25:11 | [datasetvet](https://pypi.org/project/datasetvet/) | 0.1.0 | Mohamed Elsaka | 1.0 MB | Before you train on it, check it: a report card of verifiable facts about a dat… |
+| 2026-11-23 06:26:15 | [gitannals](https://pypi.org/project/gitannals/) | 0.1.1 | teng <teng2002823@outlook.com> | 179.7 kB | Git 仓库时光机：把一段提交历史变成一份能看的演进报告 |
+| 2026-11-23 06:28:29 | [paddockai](https://pypi.org/project/paddockai/) | 0.0.2 |  | 86.3 kB | The Python server SDK for paddock: agents, sessions, events, and streams. |
+| 2026-11-23 06:28:44 | [qrcode-mcp](https://pypi.org/project/qrcode-mcp/) | 0.1.1 | qrmcp contributors | 108.6 kB | MCP server for QR decoding (including damaged-code repair), generation, URL rou… |
+| 2026-11-23 06:30:04 | [swe-task-tribunal](https://pypi.org/project/swe-task-tribunal/) | 999.9.9 |  | 965 B | Stub package that mitigates Dependency Confusion attacks |
+| 2026-11-23 06:32:07 | [essyntax](https://pypi.org/project/essyntax/) | 0.1.0 | Sergey Shkarin <kouki.sergey@… | 72.0 MB | Fast Spanish dependency parser written in Rust with a Python API |
+| 2026-11-23 06:33:36 | [ngquic](https://pypi.org/project/ngquic/) | 0.1.0 |  | 143.6 MB | A fast Sans-I/O QUIC and HTTP/3 library for Python, powered by ngtcp2 and nghtt… |
+| 2026-11-23 06:34:29 | [karasu](https://pypi.org/project/karasu/) | 0.0.3 |  | 83.7 MB | Karasu Engine games as Python environments: pixel observations, exact ground tr… |
+| 2026-11-23 06:39:23 | [scianchor](https://pypi.org/project/scianchor/) | 1.5.0 |  | 2.2 MB | SciAnchor: evidence-grounded, traceable AI research. Bundles Research Harness,… |
+| 2026-11-23 06:43:52 | [sdlc-squad](https://pypi.org/project/sdlc-squad/) | 0.1.0 | Debashish Ghosal | 232.5 kB | A software team in a box: four AI personas (PMT, TPM, SDM, SDE) whose skills tu… |
+| 2026-11-23 06:43:58 | [lectris](https://pypi.org/project/lectris/) | 0.3.0 |  | 279.2 kB | OCR output, read back into clean, ordered text: every change it makes is record… |
+| 2026-11-23 06:49:09 | [pr-sentinel-ai](https://pypi.org/project/pr-sentinel-ai/) | 0.2.3 | Jalal <vadofespanili@gmail.co… | 71.0 kB | AI-powered pull request review bot: GitHub Action and CLI |
+| 2026-11-23 06:49:09 | [unary](https://pypi.org/project/unary/) | 0.1.0 | J Meskanen <juha@meskanen.com> | 15.2 kB | Unary arithmetic |
+| 2026-11-23 06:51:48 | [getaccord](https://pypi.org/project/getaccord/) | 0.6.0 | Accord | 45.8 kB | Let AI agents spend within limits you set: holds, sign-off and exact payments,… |
+| 2026-11-23 07:03:28 | [lathe-agent](https://pypi.org/project/lathe-agent/) | 0.1.0 | Aditya Surse and Lathe Contri… | 1.7 MB | Terminal AI coding agent powered by dual open-source models and automated mergi… |
+| 2026-11-23 07:04:44 | [modular-rag-langchain](https://pypi.org/project/modular-rag-langchain/) | 0.1.0 |  | 13.6 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-23 07:04:53 | [unified-memory-mcp](https://pypi.org/project/unified-memory-mcp/) | 0.1.1 | Tonpa | 91.3 kB | One MCP server for semantic fact memory (mem0) and a code knowledge graph (code… |
+| 2026-11-23 07:07:58 | [universal-mapper](https://pypi.org/project/universal-mapper/) | 1.0.0 |  | 24.4 kB | A Python library for mapping data between objects, models, and collections |
+| 2026-11-23 07:11:20 | [eopf-safe](https://pypi.org/project/eopf-safe/) | 1.0.0rc1 | Sopra-CS | 1.8 MB | Earth Observation Platform Core Python Modules |
+| 2026-11-23 07:11:55 | [pxweb-client](https://pypi.org/project/pxweb-client/) | 0.1.0 |  | 32.3 kB | Python client for the PxWeb API v1, used by many national statistics offices |
+| 2026-11-23 07:14:51 | [deq-shapes](https://pypi.org/project/deq-shapes/) | 1.0.0rc1 | 0xdolan <0xdolan@gmail.com> | 193.2 kB | Deq: traditional Kurdish tattoo shapes as an open, parametric design system (Py… |
+| 2026-11-23 07:15:55 | [sciview](https://pypi.org/project/sciview/) | 0.3.0 | Oriol Sans Planell | 3.4 MB | Make clear, beautiful scientific explainer videos with a visual editor or a few… |
+| 2026-11-23 07:16:18 | [hvme](https://pypi.org/project/hvme/) | 0.1.0 | josh <ai@namuax.com> | 445.1 kB | Verifiable causal graphs, a tool-using causal reasoning LLM and a symbolic caus… |
+| 2026-11-23 07:16:36 | [mac-alpha-zero](https://pypi.org/project/mac-alpha-zero/) | 0.1.0 |  | 40.0 kB | AlphaZero-style self-play training that runs end to end on your Mac. Batched MC… |
+| 2026-11-23 07:18:32 | [omnibiblio](https://pypi.org/project/omnibiblio/) | 0.0.1 | Asif Altaf | 30.4 kB | Free, open-source one-stop app for bibliometric analysis, science mapping and l… |
