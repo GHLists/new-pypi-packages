@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T09:20:36Z,pytrat-django,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,44611,Django integration for PyTraT Transaction Tokens.
+2026-11-23T09:20:38Z,pytrat-otel,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,25763,OpenTelemetry audit sink for PyTraT: span events and decision metrics.
+2026-11-23T09:20:40Z,pytrat-redis,0.1.0,Roshan Lamichhane <roshanlamichhanenepali@gmail.com>,Apache-2.0,32990,Redis-backed replay store for multi-instance PyTraT deployments.
+2026-11-23T09:23:43Z,tanzim,0.2.0,Aslan Satary Dizaji <aslansatary@gmail.com>,Apache-2.0,80321,Offline-first silent-fault auditor and Measurement & Verification (M&V) engine for building BMS and industrial SCADA logs.
+2026-11-23T09:28:59Z,anymd,8.5.16,Sylphx <hi@sylphx.com>,MIT,57421024,"Any file to clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML, images (OCR), audio and video. A fast Rust CLI and MCP server."
+2026-11-23T09:31:15Z,hylang,0.0.1,huaqingyuan,MIT,4060,"hylang: early-stage project, under active development."
+2026-11-23T09:31:35Z,xodlabs-cortex-core,0.0.0,,,1112,Reserved for Cortex (https://github.com/xod-labs/cortex). Installs nothing.
+2026-11-23T09:33:53Z,juniconnlib-modbus-core,0.1.0,"""ICE-1, Forschungszentrum Juelich GmbH"" <ice-1-fiware-admin@fz-juelich.de>",MIT,39500,A modbus core library for agents with modbus sensors
+2026-11-23T09:34:15Z,spamescudo-mcp,1.0.0,SPAM Escudo <support@spamescudo.com>,MIT,61139,SPAM Escudo Model Context Protocol (MCP) Server for AI coding assistants
+2026-11-23T09:34:18Z,filang,0.10.0.post3,,,1125753,Filang exact geometry and study engine
+2026-11-23T09:35:00Z,sixi-scanner,1.1.0,Radek (Sixi),Apache-2.0,17473376,Zero-dependency red-team scanner and MCP/A2A surface inspector for LLM agents
+2026-11-23T09:39:21Z,langchain-mnemoverse,0.1.0,Mnemoverse,MIT,75140,"Mnemoverse long-term memory for LangChain: a retriever, search, save and rate tools, and middleware for create_agent."
+2026-11-23T09:40:39Z,glorifier-neural-client,0.1.0,GLORIFIER,Apache-2.0,17415,Governed HTTP client for GLORIFIER Neural API routes
+2026-11-23T09:41:10Z,stimela-signalbox,0.1.0,Athanaseus,MIT,162319,"A light web panel for stimela pipelines: run history, live status, recipe forms and run QA"
+2026-11-23T09:42:06Z,gurux-compression,1.0.1,Gurux Ltd,GPL-2.0-only OR LicenseRef-Gurux-Commercial,72244,Gurux V.44 compression package.
+2026-11-23T09:47:45Z,iris-os,0.0.1,rukadabra,Apache-2.0,1801,"Iris, a local-first personal AI assistant. Name reservation: not yet released."
+2026-11-23T09:48:27Z,pyorbiter,0.1.0,Dave Rosenman,MIT,109946,A tidy N-body physics engine for building and visualizing orbital simulations.
+2026-11-23T09:48:52Z,neohorse-kit,0.1.0,,MIT,115610,"Community toolkit for the NeoHorse JEV decision API (Token Rhythm): multi-key client with caching and metering, typed questions/answers, presets, CLI and MCP server"
+2026-11-23T09:49:30Z,scalerank,0.1.0,,BSD-3-Clause,2999576,"ScaleRank dimensionality reduction: neighbour ranks over a range of scales, in Rust"
+2026-11-23T09:50:48Z,netlane,0.1.0,Benjamin Faller,,55229,Intercept mobile app traffic via WireGuard and forward it to tools such as Burp Suite
+2026-11-23T09:54:21Z,vayu-cli,0.1.0,VAYU,Proprietary,20004,The privacy-conscious command line companion for VAYU
+2026-11-23T09:55:56Z,hep-olll,0.1.0,OLLL collaboration,GPLv3,10502,Neural network adapter for LHC likelihood interpretation
+2026-11-23T10:00:05Z,fonada-sdk,0.1.0,Fonada AI <veerpal@fonada.com>,MIT,982992,Official Python SDK for Fonada AI - Build & Deploy AI Agents
+2026-11-23T10:01:36Z,sqlguard-mcp,0.1.0,,MIT,18940,Read-only SQLite MCP server with layered SQL defenses for AI agents
+2026-11-23T10:02:30Z,liaison-sync,0.2.0,,,425037,"Portable, structured context that any AI client can read and write. Hand off a working session between models without re-briefing."
+2026-11-23T10:04:41Z,hennesey,0.1.0,,Apache-2.0,49136,"Hennesey Python SDK: durable sandbox leases, an intent journal for side effects, workspace conflict control and human approvals for AI agents."
+2026-11-23T10:04:52Z,trackflow-python,0.1.0,Ouail Bendidi,Apache-2.0,123021,"Modern real-time people & object tracking toolkit — ONNX RT-DETRv2/RF-DETR/D-FINE + ByteTrack/BoT-SORT, natural-language search, visual debugger, floorplan homography & privacy-first anonymization."
+2026-11-23T10:07:33Z,marauder,1.0.0,Anastasios Antoniadis,MIT,334581,"Build .usmap mapping files for Unreal Engine games from the installed files, without running the game."
+2026-11-23T10:08:52Z,icelens,0.1.0,harkanwals,Apache-2.0,613330,"Learn Apache Iceberg, and inspect your production Iceberg tables, from the terminal: snapshots, manifests, files and rows, as of any commit."
+2026-11-23T10:13:19Z,bacpack-lib,0.25.1a0,"""Anton E. Shikov"" <antonshikov96@gmail.com>",,432564,Client code to set up and run the BacPack pipeline for bacterial genomes annotation
+2026-11-23T10:14:01Z,callfence,0.1.1,CallFence Contributors,Apache-2.0,348261,"Test every action. Trust every agent. Open-source AI agent action testing, verification and reliability platform."
+2026-11-23T10:14:49Z,failsafe-py,0.1.0,Nicolas Dumazet <ndumazet@aire.ai>,MIT,255555,Fault tolerance and resilience policies for Python
+2026-11-23T10:18:25Z,wget2,0.1.0,Isaac Onagh <hellboynaz@gmail.com>,MIT,61474,A minimal Python command-line application.

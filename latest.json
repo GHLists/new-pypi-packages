@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-11-23T08:18:38.717875Z",
-    "path": "data/new-packages-2026-11-23T09-19-30-921497Z.csv",
-    "to": "2026-11-23T09:19:30.921497Z"
+    "count": 33,
+    "from": "2026-11-23T09:19:30.921497Z",
+    "path": "data/new-packages-2026-11-23T10-23-33-872097Z.csv",
+    "to": "2026-11-23T10:23:33.872097Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T09:16:51Z",
       "package": "cognifence-connect",
       "since": "2026-11-23T08:18:38.717875Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-23T05:56:55Z",
-      "package": "haybale-protokol-gamepad",
-      "since": "2026-11-23T05:20:04.321132Z",
-      "version": null
     }
   ],
-  "serial": 44047649,
+  "serial": 44049891,
   "source_truncated": false,
-  "window": "2026-11-23T09:19:30.921497Z"
+  "window": "2026-11-23T10:23:33.872097Z"
 }
