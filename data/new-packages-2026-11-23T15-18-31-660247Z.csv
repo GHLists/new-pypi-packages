@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T14:20:29Z,telekinesis-isaacsim-server,0.1.0,Telekinesis <support@telekinesis.ai>,,29638,Local server that gives the Telekinesis Isaac Sim Bridge robot kinematics from Telekinesis Synapse.
+2026-11-23T14:22:40Z,netherframe.providers.keycloak.keycloak,5.11.0,,MIT,477306,NF provider for keycloak/keycloak
+2026-11-23T14:22:42Z,netherframe.backends.postgresql,0.2.1,Sourabh Cheedella,MIT,197686,PostgreSQL backend implementation for Netherframe
+2026-11-23T14:22:44Z,netherframe.backends.remote,0.2.0,Sourabh Cheedella,MIT,18673,Terraform Cloud/Enterprise backend implementations for Netherframe
+2026-11-23T14:22:46Z,netherframe.legacy_functions.opentofu.tofu,1.13.9,,MIT,27034,OpenTofu legacy function catalog for Netherframe
+2026-11-23T14:22:53Z,memdream,0.1.1,MemDream contributors,Apache-2.0,3939539,"MemDream - a self-maintaining long-term memory layer for AI agents: recall, remember, and dream (supersede / merge / synthesise)."
+2026-11-23T14:23:07Z,rocx,0.3.0,,LGPL-2.1-or-later,5507908,Declarative Python authoring for the native Rust DOCX engine
+2026-11-23T14:23:57Z,ferroreport,1.0.0,Cristian Encarnacion,MIT OR Apache-2.0,42954124,"Report engine: PDF, Excel, Word and CSV in milliseconds and constant memory. Reads JasperReports JRXML templates with pixel-identical output, no JVM, safe with untrusted templates."
+2026-11-23T14:24:51Z,raz-client-jwt-auth,1.0.0,"Cloudera, Inc.",Cloudera Standard License,37628,boto3 plugin for S3 Ranger authorization using JWT via Knox
+2026-11-23T14:26:55Z,lifeboatrouter,0.1.0,Iterate.ai,Proprietary: free for non-commercial use; commercial use requires a license (see LICENSE),45148557,"Lifeboat Router — turn any vLLM, SGLang or Lifeboat server into a metered, OpenAI-compatible token marketplace, with a built-in UI"
+2026-11-23T14:27:53Z,auryn-ci,0.8.3,Roi Lipman <roi.lipman@falkordb.com>,MIT,13941,"CI plugin for Auryn (deployment & infrastructure tier, ADR 0007). Parses GitHub Actions workflows (.github/workflows/*.yml) into a Resource (the pipeline) that BUILDS_IMAGE the shared Image hub for e…"
+2026-11-23T14:28:32Z,langchain-protogrid,0.1.0,,MIT,190276,"LangChain tools from the protogrid MCP registry: find MCP servers by what they do, gate them on your rules, and load the tools of the ones that pass."
+2026-11-23T14:28:49Z,tz-oss-interop,0.1.2rc1,TransitionZero <info@transitionzero.org>,Apache-2.0,2904228,Translation tooling for energy-system model formats.
+2026-11-23T14:29:16Z,tz-oss-interop-testing,0.1.2rc1,TransitionZero <info@transitionzero.org>,Apache-2.0,187595,Test harness for projects that build tz-oss-interop pipelines.
+2026-11-23T14:35:01Z,idrm-img,0.2.2,Your Name,MIT,23107,"Image hosting library and CLI: upload, list, inspect and delete images using a local host, ImgBB or Catbox."
+2026-11-23T14:37:29Z,qewton,0.1.0,"Tom Freudenberg <tomfre@uni-bremen.de>, Nick Heilenkötter <heilenkoetter@uni-bremen.de>",Apache-2.0,856470,Deep Learning Framework for Application Problems
+2026-11-23T14:37:35Z,nwolk,0.1.3,Neurosia <dev@neurosia.io>,Proprietary,84210,"Crie e gerencie servidores na nuvem pelo terminal: instâncias, SSH, cópia de arquivos e publicação de sites em um comando"
+2026-11-23T14:37:51Z,moire-gallery,0.1.0,Moiré Contributors,AGPL-3.0-or-later,2374679,"Organize, tag and generate AI images: a local gallery for your ComfyUI outputs"
+2026-11-23T14:39:41Z,auryn-helm,0.8.3,Roi Lipman <roi.lipman@falkordb.com>,MIT,18169,"Helm-chart plugin for Auryn (deployment & infrastructure tier, ADR 0007). Render-free static parse: Chart.yaml + values.yaml become a Resource (the chart/release) that DEPENDS_ON its chart dependenci…"
+2026-11-23T14:40:42Z,langchain-auragrid,0.2.0,AurAgrid Corp,,22492,"LangChain tool for AurAgrid: Bitcoin/Lightning data (L402) and free U.S. public-domain feeds, with signed responses."
+2026-11-23T14:41:29Z,monitoring-app,1.0.0,Inferyx DevOps <devops@inferyx.com>,LicenseRef-Proprietary,1181647,Monitor batch pipelines via API and email alerts — install and deploy on Linux servers from PyPI
+2026-11-23T14:42:25Z,todo-scan,0.1.0,EL_MAN,MIT,41596,Find TODO/FIXME comments in a project. Standard library only; uses git for .gitignore rules.
+2026-11-23T14:45:01Z,auryn-kustomize,0.8.3,Roi Lipman <roi.lipman@falkordb.com>,MIT,14088,"Kustomize plugin for Auryn (deployment & infrastructure tier, ADR 0007). Render-free: parses kustomization.yaml into a Resource (overlay/base) that RUNS_IMAGE the shared Image hub for each ref its im…"
+2026-11-23T14:45:47Z,bbr-mcp,0.1.0,,MIT,121345,MCP server for Danish buildings (BBR) and addresses (DAR) from Datafordeler and Adressevælger
+2026-11-23T14:47:21Z,tokenhammer,0.0.2,Thibault Debatty <t.debatty@cylab.be>,,19231,Benchmark the speed of any OpenAI-compatible LLM endpoint
+2026-11-23T14:51:45Z,sprutmonitor-mcp,0.5.1,SprutMonitor,MIT,90736,"Read-only MCP server for SprutMonitor DLP Cloud (sprutmonitor.ru) - risks, idle time, productivity, and employee monitoring for Cursor, Claude, and VS Code"
+2026-11-23T14:53:30Z,surfaceapi-skill,0.1.0,Surface / Canada Site Ops <canada.site.ops@gmail.com>,MIT,7465,"Agent skill for Surface: mint a free key, then preflight a short link. Fetch or skip. Never returns the page. Free for the first million requests a month."
+2026-11-23T14:53:53Z,german-clinical-deid,1.1.0,Lukas Kunhardt,MIT,25395,Find and remove personal information in German clinical text
+2026-11-23T14:54:06Z,verbex-speech-sdk,0.1.0,Verbex,Proprietary,67473,Python SDK for the Verbex Speech API: speech-to-text and text-to-speech.
+2026-11-23T14:56:21Z,zapproof-mcp,0.1.1,,MIT,5622008,Check an EVM address's settled-payment record before you pay it
+2026-11-23T14:56:34Z,heggra,0.1.0,Brian Pepple,GPL-3.0-or-later,66380,An htmx-powered file upload widget for Django forms
+2026-11-23T14:57:02Z,riptorch,0.0.1,Riptide Compute <sam@s7vc.com>,,2511,"Riptorch by Riptide Compute: fast, reproducible AI training kernels. Early access."
+2026-11-23T14:57:12Z,treescreen,0.1.0,bbstats,MPL-2.0,106406,"Fast, model-free screen: which columns to keep for a tree model"
+2026-11-23T15:01:04Z,tgsearch-mcp,0.1.0,Serghei Cebotari <serghei@cebotari.ru>,MIT,77405,"Read-only Telegram MCP server: chat discovery, fast server-side message search, and an optional local full-text index."
+2026-11-23T15:03:25Z,cwm,2.9.3,"Tim Berners-Lee, Dan Connolly, CWM contributors",W3C Software License (2002) for original code; Apache-2.0 for CWM 2.0 modifications (see LICENSE),773802,Closed World Machine — semantic web reasoner (RDF / N3 / SPARQL)
+2026-11-23T15:05:17Z,statistics-calculator,0.1.0,,,384659,"A simple calculator for mean, population variance, and standard deviation"
+2026-11-23T15:06:49Z,hc-migrate,0.2.0,Connor Ferster,Apache-2.0,61057,"Turn Jupyter notebooks into handcalcs v2 scripts, and migrate handcalcs v1 notebooks and scripts to v2."
+2026-11-23T15:07:07Z,ginkgo-agent,0.5.0,,Apache-2.0,27661,"Coding-agent CLIs (Codex, Claude Code) as ginkgo tasks"
+2026-11-23T15:07:08Z,unifi-innerspace-mcp,0.1.0,,,50786,UniFi InnerSpace MCP Server
+2026-11-23T15:07:53Z,erdify-studio,0.1.0,"devsuit GmbH <tech@devsuit.de>, Fabian Clemenz <fabian.clemenz@devsuit.de>",MIT,1015550,"Arrange erdify ERDs by drag and drop, commit the layout and check it in CI."
+2026-11-23T15:09:42Z,emeans-rocm,0.2.4,"Meta Platforms, Inc. and affiliates",MIT,1460220,"E-means mini-batch k-means from faiss contrib, with AMD ROCm GPU support through Triton"
+2026-11-23T15:10:01Z,blindkey,0.3.9a1,Anonimman01,Apache-2.0,226239,"Self-hosted mTLS gateway that keeps API tokens (Telegram, GitHub, OpenAI, Vercel, Cloudflare) off bots, scripts and AI agents"
+2026-11-23T15:10:43Z,ai-editor-tree-sitter-bsl-dev,0.1.7.4,alkoleft,MIT,307644,1C (BSL) tree-sitter grammar: ai-editor build of alkoleft/tree-sitter-bsl with an extended identifier alphabet
+2026-11-23T15:10:59Z,tidyconf,1.0.0,Philipp Gölter,MIT,21032,"Simple, typed configuration for small apps: JSON/TOML/YAML files, layering and env overrides."
+2026-11-23T15:13:13Z,ai-editor-tree-engine-dev,1.0.176,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,MIT,1211919,Format-independent parse/tree/identity/render engine used as the ai-editor server's internals
+2026-11-23T15:13:19Z,agent-spend-gate,0.7.2,Derek Yu,Apache-2.0,88265,"A human-in-the-loop spending gate for AI agents on macOS - no Touch ID or password approval, no paid API call."
+2026-11-23T15:18:25Z,sciel,0.23.2,,,874028,Recursive self-improvement through cultural transmission
