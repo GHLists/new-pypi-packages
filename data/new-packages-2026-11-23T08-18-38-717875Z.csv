@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T07:26:45Z,mlx-graphs-explain,0.0.1,mlx-graphs contributors,MIT,48565,"Explainability for Graph Neural Networks on Apple Silicon, built on mlx-graphs and MLX"
+2026-11-23T07:30:24Z,facenest-mcp,0.2.12,FaceNest <support@facenest.net>,MIT,114739,"MCP server for the FaceNest desktop photo library (local, read-only by default)"
+2026-11-23T07:33:09Z,faker-ja-extended,0.2.0,Yoshiki Kato (burnworks),MIT,4159773,Faker の ja_JP ロケールを拡張し、郵便番号データ（KEN_ALL）由来の実在住所と JMnedict 由来の姓を使えるようにする Provider 集
+2026-11-23T07:33:24Z,laya-as-judge,1.1.0,radeksixi,Apache-2.0,388944,"Production-ready, zero-output-token Decision, Judge, and Governance API engine (/v1/decisions, /v1/judge, /v1/judged-decision & hybrid Laya-Omega) — from $0 local edge to air-gapped enterprise, built…"
+2026-11-23T07:34:38Z,flyx,0.2.0a1,The flyx Authors,Apache-2.0,48473605,"Fast, lightweight local LLM inference engine for consumer NVIDIA GPUs"
+2026-11-23T07:35:38Z,sadiepy,0.0.1.dev0,Mallory Byers <mgbyers@ucsc.edu>,MIT,11688,"Physics-based prediction of wave damping by vegetation, with tradespace tools for designing and analysing flume experiments."
+2026-11-23T07:36:11Z,carboniq-sdk,0.2.0,CarbonIQ Team <team@carboniq.internal>,MIT,89434,"CarbonIQ — Carbon-aware computing SDK, AST sustainable code generator, and CLI"
+2026-11-23T07:36:49Z,chessnets-lc0-protobuf,0.1.0,Sherman Siu,GPL-3.0-or-later,49347,Optional legacy Lc0 protobuf adapter for ChessNets
+2026-11-23T07:37:22Z,chartduck-mcp,0.1.0,ChartDuck,MIT,20521,MCP server and CLI for ChartDuck chart data extraction
+2026-11-23T07:38:22Z,chessnets,0.1.0,Sherman Siu,Apache-2.0 AND MIT,324861,State-of-the-art models for playing chess and human move imitation.
+2026-11-23T07:38:25Z,py-part-recipe,0.2.1,Frederic Laurencin,"MIT License Copyright (c) 2023 flaurencin Permission is hereby granted, free of charge, to any pers…",170082,A partition manager based on yaml recipe for linux
+2026-11-23T07:41:45Z,buckthorn,0.1.0,Hedgerow <hello@hedgerow.dev>,MIT,354645,"Static checks for open-source Python and npm packages: finds install-time, start-up and import-time code before you install."
+2026-11-23T07:43:47Z,pyxis-harness-mcp,0.1.0rc1,Onenightcarnival,MIT,10300,PyxisHarness plugin: MCP servers as tools
+2026-11-23T07:43:49Z,pyxis-harness-memory,0.1.0rc1,Onenightcarnival,MIT,31187,"PyxisHarness plugin: layered career memory (profile, work, projects, lessons) with version history; memory_get / memory_save tools and the Memory page"
+2026-11-23T07:43:51Z,pyxis-harness-otel,0.1.0rc1,Onenightcarnival,MIT,20612,"PyxisHarness plugin: OpenTelemetry GenAI export of agent turns (OTLP/HTTP, Langfuse) with the Settings → Observability page"
+2026-11-23T07:43:53Z,pyxis-harness-plugin-manager,0.1.0rc1,Onenightcarnival,MIT,49781,"PyxisHarness plugins: plugin_manager tool, plugin-authoring skills, dev-context prompt section"
+2026-11-23T07:45:05Z,rulestamp-tdm-reservation-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38143,"Finds the robots.txt lines that reserve nothing — retired crawler tokens, shadowed groups, rules above the first User-agent. (bundled Node.js runtime)"
+2026-11-23T07:45:26Z,rulestamp-testimonial-lint-ftc-465,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33865,"Fake, placeholder and AI-drafted testimonials in landing-page code, checked against 16 CFR Part 465 (up to $53,088 per violation) (bundled Node.js runtime)"
+2026-11-23T07:45:55Z,rulestamp-toriteki-hacchusho-lint-jp,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36015,発注書・支払条件を2026年1月施行の取適法で1行ずつ検査 (bundled Node.js runtime)
+2026-11-23T07:46:16Z,rulestamp-uscore-profile-gap-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33710,"Finds the FHIR R4 resources still pinned to US Core 3.1.1 or 5.0.1, and the USCDI v3 Patient elements they never carried. (bundled Node.js runtime)"
+2026-11-23T07:47:41Z,cite-analyser,0.2.2,,,78981,"Citation extraction, reference verification, and in-text cross-checking — the Python successor to the cite-sight engine"
+2026-11-23T07:48:49Z,alarmkpi,0.1.0,Dan Shinde,MIT,52169,ISA-18.2 / EEMUA 191 alarm performance KPIs and a one-file HTML report from alarm journal exports
+2026-11-23T07:49:24Z,plcdiff,0.1.0,Dan Shinde,MIT,54784,"Readable git diffs for PLC program exports (Rockwell L5X, PLCopen XML): rung by rung, tag by tag"
+2026-11-23T07:56:15Z,byom,0.2.0,Shyam Sudhakaran <shyamsnair@protonmail.com>,"The MIT License (MIT) Copyright (c) 2026 Shyam Sudhakaran Permission is hereby granted, free of cha…",178204,"Bring your own model to Claude Code: deploy SGLang on Modal or Docker, with a proxy in front."
+2026-11-23T07:57:45Z,torchvic,0.4.9,Vivek Gupta,GPL-3.0-or-later,3621944,"The VIC 5 land surface model (5.0.1 and 5.1.0 physics) in PyTorch, run forward on GPU or CPU from native VIC 5 image-driver inputs"
+2026-11-23T07:59:33Z,derank,0.1.2,Lee Yeon Dong,MIT,18765,Dual-entropy keyword ranking on sentence-level term graphs
+2026-11-23T08:00:23Z,py-sungrow-isolarcloud,0.1.0,,MIT,33627,Async Python client library for the Sungrow iSolarCloud API
+2026-11-23T08:00:30Z,frankennumpy,0.6.0,,,39604932,"A memory-safe, clean-room reimplementation of NumPy in Rust, exposed as the fnp_python extension module"
+2026-11-23T08:02:35Z,clicodemode,0.6.1,Muthukumaran Navaneethakrishnan,MIT,3728979,"Code Mode for Python CLIs: run agent-written JavaScript-like programs against your existing handlers, on the Go engine compiled to WebAssembly."
+2026-11-23T08:03:04Z,agentic-bug-hunter-rhodawkai-edition,6.1.0,RhodawkAI,MIT,1789759,"AI-powered bug bounty hunting — recon to report, in your terminal. RhodawkAI Edition adds deterministic reconFTW capability delegation (recon phase only)."
+2026-11-23T08:03:27Z,ccxt-tiktape,0.1.1,TikTape <evan@tiktape.xyz>,MIT,15782,"Full Hyperliquid OHLCV history in CCXT: a drop-in ccxt.hyperliquid subclass served by TikTape, past the 5000-candle limit."
+2026-11-23T08:04:29Z,screener-india-mcp,0.1.3,Indrajit Das,MIT,84467,"Screener India MCP — the rate-safe, source-traced Screener.in server for AI assistants (Indian NSE/BSE fundamentals)."
+2026-11-23T08:05:08Z,openstride,0.1.0,choonyongchan,MIT,58227,"Compatible with Strava: club activities, members and admins for Python, plus stravalib's full API client. Unofficial."
+2026-11-23T08:10:34Z,UniPro,0.1.0,,,1513,Empty dummy package for PyPI upload test
+2026-11-23T08:12:16Z,ctxcache,0.3.0,Abhranshu <abhranshu@atnms.ai>,Apache-2.0,2557613,Embeddable context engine that keeps an AI agent's prompt cache warm and proves it with measurements.
+2026-11-23T08:13:28Z,win-system-proxy,0.1.0,,MIT,11148,Manage the Windows manual system proxy from the command line.
+2026-11-23T08:13:38Z,subject-access-request-runner,0.0.1,,,2635,Data request tools
+2026-11-23T08:14:28Z,app-meshed,0.0.3,,mit,142096,Http services and frontend for meshed operations
+2026-11-23T08:14:32Z,odoo-addon-http-api-dispatcher,18.0.1.0.0.2,"Camptocamp,Odoo Community Association (OCA)",LGPL-3,52161,"Generic dispatcher for JSON APIs: parsing, validation, errors."
+2026-11-23T08:17:06Z,autocgenff,20261123,Haohao Fu <fhh2626@gmail.com>,GPL-3.0-only,211706,Independent CHARMM CGenFF-inspired small-molecule parameter diagnostics

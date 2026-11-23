@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-11-23T06:21:07.314455Z",
-    "path": "data/new-packages-2026-11-23T07-18-35-967249Z.csv",
-    "to": "2026-11-23T07:18:35.967249Z"
+    "count": 40,
+    "from": "2026-11-23T07:18:35.967249Z",
+    "path": "data/new-packages-2026-11-23T08-18-38-717875Z.csv",
+    "to": "2026-11-23T08:18:38.717875Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T05:56:55Z",
       "package": "haybale-protokol-gamepad",
       "since": "2026-11-23T05:20:04.321132Z",
       "version": null
     }
   ],
-  "serial": 44042984,
+  "serial": 44045622,
   "source_truncated": false,
-  "window": "2026-11-23T07:18:35.967249Z"
+  "window": "2026-11-23T08:18:38.717875Z"
 }
