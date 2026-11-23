@@ -1,41 +1,20 @@
 {
   "list": {
     "count": 36,
-    "from": "2026-11-23T02:19:59.161662Z",
-    "path": "data/new-packages-2026-11-23T03-18-35-527432Z.csv",
-    "to": "2026-11-23T03:18:35.527432Z"
+    "from": "2026-11-23T03:18:35.527432Z",
+    "path": "data/new-packages-2026-11-23T04-18-23-509527Z.csv",
+    "to": "2026-11-23T04:18:23.509527Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T01:42:13Z",
       "package": "lyte-services",
       "since": "2026-11-23T01:20:17.276242Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-23T02:42:28Z",
-      "package": "nowplaying-api",
-      "since": "2026-11-23T02:19:59.161662Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-23T00:04:37Z",
-      "package": "repo-policy-action",
-      "since": "2026-11-22T23:20:59.57383Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-23T00:12:32Z",
-      "package": "trackflow-pthon",
-      "since": "2026-11-22T23:20:59.57383Z",
-      "version": null
     }
   ],
-  "serial": 44037037,
+  "serial": 44038427,
   "source_truncated": false,
-  "window": "2026-11-23T03:18:35.527432Z"
+  "window": "2026-11-23T04:18:23.509527Z"
 }

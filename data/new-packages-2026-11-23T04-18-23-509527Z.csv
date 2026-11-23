@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T02:42:28Z,nowplaying-api,0.1.3,jadxv,MIT,17291,Read the currently playing media and control playback on macOS.
+2026-11-23T03:18:45Z,izip2webpzip,0.1.0,hy20191108 <zwwp9976@gmail.com>,,109020,"convert zip file containing image files to zip of WebP images, in-memory"
+2026-11-23T03:19:21Z,amiril,0.0.0.dev0,,Apache-2.0,377756,"Check an agent's tool calls against rules before they run, through the agent framework's native hooks."
+2026-11-23T03:19:28Z,ai-chart-toolkit,1.0.0,AI Chart Toolkit Contributors,MIT,919413,"Universal Blueprint & Visual Diagram Generator for AI Agents, Local LLMs, and Cloud APIs."
+2026-11-23T03:19:59Z,junit-merge,0.1.1,Sandesh Bagmare,MIT,19099,"Merge JUnit XML reports from sharded or retried test runs, recomputing counts"
+2026-11-23T03:21:41Z,prooftask,0.1.0,,Apache-2.0,147585,"ProofTask Agent API client generated from the OpenAPI contract, with webhook signature verification, idempotent request IDs, pagination and typed errors. Standard library only."
+2026-11-23T03:22:09Z,tmpest,1.5.0,Colin Harrison,BSD-3-Clause,1737860,Measure chromatic jitter in one modality (photometry or spectroscopy) and apply it to synthetic data in the other
+2026-11-23T03:24:19Z,langchain-modular-rag-axx,0.1.0,,,10262,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T03:28:14Z,datakeel,0.27.0,Datakeel Contributors,Apache-2.0,4426901,"Local-first workbench for auditable AI datasets, traceable business metrics, and human-approved MCP agents."
+2026-11-23T03:28:35Z,base32-key,1.0.0,,MIT,11689,Human-friendly Base32 keys with a check digit per group
+2026-11-23T03:28:59Z,esi-r2d7,0.1.0,David Finkelstein,Apache-2.0,23543,"Async client for ESI R2D7 RS-232 blind controllers, built on serialx"
+2026-11-23T03:33:47Z,aiquants-platform-core,0.1.0,fehde-k,MIT,91552,"Transport-agnostic platform contracts: business error codes (HTTP status times ten or a hundred plus a slot), the tenant header rule, Server-Sent Events framing, a bounded TTL cache, authenticated se…"
+2026-11-23T03:34:06Z,aiquants-jobs-core,0.1.0,fehde-k,MIT,29866,"A job queue whose truth is one SQL Server table: enqueue inside the caller's transaction, claim with UPDLOCK and READPAST under a lease, retry with backoff, cancel, and reap expired leases. Redis onl…"
+2026-11-23T03:34:41Z,aiquants-platform-fastapi,0.1.0,fehde-k,MIT,46016,"FastAPI building blocks for guarded APIs: the authenticate-tenant-authorize guard, one failure answer, service slots and a composition table, operations routes, Redis Streams server-sent events, trus…"
+2026-11-23T03:36:23Z,glassbox-firewall,0.2.0,GlassBox Contributors,MIT,75445,"The Flight Recorder & Lethal-Trifecta Firewall for AI Agents (MCP — stdio + Streamable HTTP). Zero-dependency dynamic taint lattice, MCP annotation awareness, schema pinning, and $0 offline time-trav…"
+2026-11-23T03:40:29Z,sudomimus-native,5.0.0,Sudomimus Contributors,MIT,23830,Sudomimus Native SDK — native client entry point.
+2026-11-23T03:40:32Z,sudomimus-django,0.2.0,Sudomimus Contributors,MIT,10818,Django integration for Sudomimus Connect browser login
+2026-11-23T03:43:47Z,hermes-herald,0.0.1,,,3919,Placeholder. Herald Bridge is published as herald-bridge.
+2026-11-23T03:44:03Z,fontpkg-crete-round,1.1,,OFL-1.1,59831,"Crete Round font family, packaged for Python by fontpkg"
+2026-11-23T03:44:05Z,fontpkg-rokkitt,3.103,,OFL-1.1,140870,"Rokkitt font family, packaged for Python by fontpkg"
+2026-11-23T03:44:07Z,fontpkg-rock-salt,1.1,,Apache-2.0,87128,"Rock Salt font family, packaged for Python by fontpkg"
+2026-11-23T03:44:09Z,fontpkg-share-tech-mono,1.3,,OFL-1.1,28594,"Share Tech Mono font family, packaged for Python by fontpkg"
+2026-11-23T03:47:22Z,aiquants-chat-core,0.1.0,fehde-k,MIT,492649,"The chat's server-side core: the wire contract of its stream, byte-compatible with @aiquants/chat/protocol, the rules of runs and conversations, the SQLAlchemy Core tables with the store over them, a…"
+2026-11-23T03:48:50Z,wdelta,0.3.1,,Apache-2.0,1918879,Lossless delta compression for fine-tuned models (safetensors)
+2026-11-23T03:56:51Z,tencentcloud-agentobs-instrumentation-langchain,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,30469,LoongSuite LangChain Instrumentation
+2026-11-23T03:56:59Z,tencentcloud-agentobs-instrumentation-langgraph,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,8120,LoongSuite LangGraph Instrumentation
+2026-11-23T03:57:07Z,tencentcloud-agentobs-opentelemetry-instrumentation-openai-v2,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,26323,OpenTelemetry Official OpenAI instrumentation
+2026-11-23T03:57:14Z,tencentcloud-agentobs-opentelemetry-instrumentation-openai-agents-v2,0.1.0b1,Tencent Cloud CLS Team,Apache-2.0,30507,OpenTelemetry Official OpenAI Agents instrumentation
+2026-11-23T03:58:27Z,ustc-sdk,0.1.0,,MIT,80272,Asynchronous user-scoped clients for USTC campus systems
+2026-11-23T04:03:36Z,denoted,1.0.0,"""Corey Forman (digitalsleuth)"" <corey@digitalsleuth.ca>",,136266,Viewer and parser for Windows 11 Notepad TabState and WindowState files
+2026-11-23T04:05:30Z,fourfifty,0.1.0,AdJakub,MIT,18480,Mail traffic simulator and (soon) rate limiter on probabilistic data structures
+2026-11-23T04:06:01Z,ustc-tools,0.1.0,,GPL-3.0-only,60735,Composable USTC activity and learning-space workflows
+2026-11-23T04:13:10Z,herald-bridge,0.9.0,,,296264,Herald Relay plugin for Hermes — voice-first AI on mobile
+2026-11-23T04:13:19Z,plynx-sdk,2.0.0,Ivan Khomyakov,Apache-2.0,31537,PLynx SDK: op authoring API and process wire types. Standard library only.
+2026-11-23T04:13:59Z,agent-tool-result-reducer,0.2.1,Ajeet Singh Kushwaha,MIT,39906,Shrink large JSON tool results for LLM agents without silently losing data.
+2026-11-23T04:14:59Z,itr-methods,0.1.0,Daixi Huang <daixih@umich.edu>,CC-BY-NC-4.0,382280,Python estimators for supervised clustering of treatment policies
