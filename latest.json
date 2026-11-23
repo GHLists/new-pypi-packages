@@ -1,48 +1,41 @@
 {
   "list": {
-    "count": 24,
-    "from": "2026-11-23T21:21:16.72887Z",
-    "path": "data/new-packages-2026-11-23T22-18-32-939526Z.csv",
-    "to": "2026-11-23T22:18:32.939526Z"
+    "count": 29,
+    "from": "2026-11-23T22:18:32.939526Z",
+    "path": "data/new-packages-2026-11-23T23-18-32-486551Z.csv",
+    "to": "2026-11-23T23:18:32.486551Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-23T18:55:45Z",
-      "package": "ReO3",
-      "since": "2026-11-23T18:20:36.663065Z",
-      "version": "0.0.0.dev0"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-23T21:41:58Z",
       "package": "cccRISE",
       "since": "2026-11-23T21:21:16.72887Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T20:56:05Z",
       "package": "eshieldq-gateway-client",
       "since": "2026-11-23T20:21:47.084007Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T20:55:52Z",
       "package": "eshieldq-gateway-schemas",
       "since": "2026-11-23T20:21:47.084007Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T20:23:34Z",
       "package": "portpeek-bin",
       "since": "2026-11-23T20:21:47.084007Z",
       "version": null
     }
   ],
-  "serial": 44078213,
+  "serial": 44080115,
   "source_truncated": false,
-  "window": "2026-11-23T22:18:32.939526Z"
+  "window": "2026-11-23T23:18:32.486551Z"
 }

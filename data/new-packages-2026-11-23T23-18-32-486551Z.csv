@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T22:20:13Z,stainnormprogram,1.0.0,peterhsu-uiuc <pwhsu2@illinois.edu>,Apache-2.0,159843,A program that does stain normalization.
+2026-11-23T22:24:30Z,openxl330,0.1.0,,MIT,839061,Python library and installer for custom XL330 servo firmware
+2026-11-23T22:27:09Z,labcalc,0.1.0,,MIT,228102,"A terminal calculator for lab work and physics homework: uncertainties, units, complex numbers, solving"
+2026-11-23T22:27:37Z,allin-toolkit,0.1.0,siwpan,MIT-0,360647,一组薄开发者工具（计算器 / 重命名 / 字幕 / PDF / 字体预览…）的统一入口
+2026-11-23T22:29:05Z,openswx,0.2.0,The openswx authors,Apache-2.0,2016190,Open-source parametric CAD with a familiar layout and a built-in MCP server for AI agents
+2026-11-23T22:30:30Z,hueshift-pixel,0.1.0,Enrico Shippole,,11298,Hue-shifted pixel-art color ramps from hex colors or a reference image.
+2026-11-23T22:33:16Z,legal-router,0.3.0,,MIT,55911,"Legal Model Router: reads a legal request, picks the model from the Vals Legal Index, calls it through OpenRouter with zero data retention."
+2026-11-23T22:36:29Z,open-paleo,0.4.7,Open Paleo contributors,CC-BY-4.0,32683,Pydantic models and JSON Schema for the Open Paleo dataset
+2026-11-23T22:39:53Z,parkingradio,0.1.0,,MIT,22820,Tools that automate operating Parking Radio
+2026-11-23T22:44:01Z,parrot-mcp,1.1.2,younes daoudi <younes@daoudi.li>,MIT,76921,"Model Context Protocol (MCP) server that gives AI assistants full access to Parrot OS security tooling - locally, over SSH to your VM, or inside Docker containers."
+2026-11-23T22:45:00Z,statstimate,0.1.0,tiksan,GPL-3.0-or-later,27411442,Stat estimation for Torn City
+2026-11-23T22:45:40Z,markolis-mcp,2.10.0,Markolis Quant Lab <admin@markolis.com>,Apache-2.0,24039,Official Model Context Protocol (MCP) server bridge for Markolis quantitative market telemetry.
+2026-11-23T22:46:02Z,jumplion,1.0.0,Yingxue Fu <yingxue.fu@stjude.org>,Apache-2.0,60465325,A software for DIA-MS quantification
+2026-11-23T22:47:59Z,combustion-cloud,0.1.0,Larry Gregory <lgregorydev@gmail.com>,Apache-2.0,89029,Asynchronous Python client for Combustion MeatNet Cloud
+2026-11-23T22:49:48Z,pmihm,0.1.0,Arthur Zalevsky <aozalevsky@gmail.com>,MIT,29825,Support for integrative models (IHMCIF) in PyMOL
+2026-11-23T22:50:24Z,formkiq-mcp-server,0.2.1,FormKiQ,Apache-2.0,303876,MCP server that exposes the FormKiQ OpenAPI spec and proxies selected FormKiQ API operations.
+2026-11-23T22:51:26Z,vld8,2.0.0,,MIT,460872,"Dev tooling for Claude Code: a service map, context-aware code and security review, and an MCP-server reviewer. Formerly scrutineer."
+2026-11-23T22:52:17Z,bayesian-vecm,0.1.0,Ryan O'Sullivan <raz1470@hotmail.co.uk>,"MIT License Copyright (c) 2026 Ryan O'Sullivan Permission is hereby granted, free of charge, to any…",251256,Bayesian Vector Error Correction Models in Python
+2026-11-23T22:55:44Z,asterope,0.1.0,,MIT OR Apache-2.0,2715363,Star tracker software: find where a camera points from the stars in its image
+2026-11-23T22:58:05Z,nethack-gym,0.1.0,,NGPL,9762890,NetHack with original tiles and a gamepad interface.
+2026-11-23T23:04:10Z,dtclib,0.1.0,Matthias Gatto,MIT,610357,Dom Tree Containerized: parse HTML into a JSON-like tree of dicts and lists
+2026-11-23T23:07:03Z,workplan,0.1.0,Bay Information Systems,MIT,78446,"Plan and record development work in git, for agent-driven and AI-assisted development"
+2026-11-23T23:08:49Z,better-lavka-mcp,0.2.0,,GPL-3.0-only,135994,MCP server for ordering groceries from Yandex Lavka Uzbekistan with an AI assistant
+2026-11-23T23:09:15Z,haybale-speech,0.0.1,,MIT,43012,"Speech-to-text for audio clips, with faster-whisper"
+2026-11-23T23:09:16Z,polefinance,0.1.0,PoleFinance,MIT,16750,Official Python client for the Pôle Finance API
+2026-11-23T23:10:21Z,polefinance-mcp,0.1.0,PoleFinance,MIT,10603,"MCP server for the Pôle Finance public API — exchanges, instruments, quotes, technical indicators, risk metrics, portfolio optimization and backtests."
+2026-11-23T23:10:56Z,auto-optimize,1.0.0,Jacob Schreiber,MIT,3083108,"Claude Code skills that search for faster, leaner or smaller code by running many small measured experiments."
+2026-11-23T23:13:19Z,fletbase-sdk,0.1.0a0,Flet,Apache-2.0,111199,"Python client SDK for FletBase — a document database, auth, and file storage backend for Flet apps"
+2026-11-23T23:18:17Z,micro-glancer,0.0.1,Bugra Oezdemir,MIT,20500107,"A GPU viewer for OME-Zarr images on a Rust core, hosted in Qt."
