@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T10:24:12Z,langchain-hobbylm,0.1.1,Fuel Labs,Apache-2.0,17900,"LangChain integration for HobbyLM-Embed, a local English embedding model from Fuel Labs"
+2026-11-23T10:24:35Z,aria-flow-authoring,0.0.0,Synthpop Inc,,1545,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-11-23T10:24:37Z,aria-flow-graph,0.0.0,Synthpop Inc,,1495,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-11-23T10:24:39Z,aria-authoring-relay,0.0.0,Synthpop Inc,,1546,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-11-23T10:24:55Z,audioswitch,0.2.2,,MIT,32085,"Hold a key to switch audio output between two devices, with a sidetone slider"
+2026-11-23T10:25:47Z,konwledge,0.1.0,Ykontheway,Apache-2.0,1420957,A local-first knowledge lifecycle and evaluation toolkit.
+2026-11-23T10:26:29Z,mcdakit,0.2.0,Addi Ait-Mlouk <aitmlouk@gmail.com>,Apache-2.0,312574,Multi-criteria decision analysis with rank-reversal-free ranking and weight sensitivity analysis
+2026-11-23T10:27:13Z,reelens,0.1.1,reelens contributors,Apache-2.0,142042,"Turn one video or podcast into a structured breakdown report: shots, frames, transcript, rhythm and audio — every field labelled by how it was measured."
+2026-11-23T10:27:31Z,beberes,0.0.1,Naufal,MIT,40394,"Tidy up messy Indonesian spreadsheets. Data-quality engine for Excel/CSV, aware of Indonesian formats (NIK, NPWP, Rupiah, regions)."
+2026-11-23T10:30:33Z,pyphasediagram,0.1.0,"Malcolm Steen <malcolm.steen@stud.uni-goettingen.de>, David Zwicker <david.zwicker@ds.mpg.de>","MIT License Copyright (c) 2026 Malcolm Steen Permission is hereby granted, free of charge, to any p…",125537,A Python package implementing fast calculations of binodals of ternary systems.
+2026-11-23T10:31:47Z,mcp-security-check,0.1.0,MCP Security Check Contributors,MIT,130228,"Scan MCP servers, AI-agent permissions and attack paths before merging a GitHub pull request."
+2026-11-23T10:35:53Z,blueprint-designer-henrik-m01,1.0.1,Henrik Mengkrogen <henrik.mengkrogen@gmail.com>,MIT,12491,RNA Blueprint Designer
+2026-11-23T10:38:05Z,xbox-mcp,0.1.0,VinsentY,MIT,31282,"Local MCP Server for official Microsoft Xbox Live APIs (playtime, Game Pass library, achievements, rarity, presence, friends)"
+2026-11-23T10:38:45Z,sharkquant-mcp,0.6.3,SharkQuant <support@sharkv2.com>,Apache-2.0,51844,"Full-surface Model Context Protocol server for SharkQuant research, strategy authoring, backtests, observations, notifications, and safety-gated trading."
+2026-11-23T10:39:46Z,heiman-local-client,0.1.1,,MIT,8771,Asynchronous LAN client for a Heiman Wi-Fi switch
+2026-11-23T10:45:08Z,greemat,1.0.0,Jesus Alberto Martin del Campo <jesus-alberto.martin-del-campo@uib.cat>,,721965,Green metrics for materials synthesis
+2026-11-23T10:46:12Z,django-strata,0.2.1,Juan Carlos Carvajal B.,Apache-2.0,638350,Layered page composition for Django: a declarative layer/slot registry and a page-strategy middleware.
+2026-11-23T10:47:30Z,palito,0.7.0,,MIT,11372,"Python binding for Palito, fast local LLM inference for GGUF models"
+2026-11-23T10:47:38Z,OpenZilo,0.6.3,OpenZilo,MPL-2.0,186430,OpenZilo Python SDK
+2026-11-23T10:48:49Z,TSAnnotate,1.0.0,David Silbermann <david.silbermann@rub.de>,MIT,35131,Quickly annotate images for traffic sign detection and recognition by using pre-trained models.
+2026-11-23T10:49:28Z,api-video-com,0.1.0,,MIT,7064,"One API for AI video: MiniMax H3, Seedance, LTX and Wan, priced per second."
+2026-11-23T10:51:51Z,pythontantra,1.0.0,antigravity,,45132,A package containing C++ and Python implementations for common DSA problems
+2026-11-23T10:52:01Z,politewatch,0.1.0,,MIT,82798,"Phone alerts when a web page changes, respecting each site's robots.txt."
+2026-11-23T10:53:51Z,lyrelog,0.9.0,Lyrelog,MIT,62956,"Structured logs from Python services to Lyrelog, the hosted log service. Standard library only."
+2026-11-23T10:54:25Z,gpt-researcher-helve,0.1.0,Helve <daniel.foster@helve.dev>,MIT,9052,Helve search retriever plugin for GPT Researcher
+2026-11-23T10:54:41Z,lofi-aug,0.1.0,Chung Tin Lo <lochungtin@gmail.com>,MIT,315767,"Low-field MRI corruption: make good scans look like low-field open-magnet scans, with labels kept exact."
+2026-11-23T10:55:11Z,gp2040ce-hostlighting,1.0.0,Jacob Simpson <28767380+djGLiTCH@users.noreply.github.com>,GPL-3.0-or-later,761897,"Python library and tools for the full Host Lighting Protocol of the GP2040-CE Host Lighting add-on, which lets host software drive a board's RGB LEDs live over a vendor HID interface."
+2026-11-23T10:57:47Z,modular-huang,0.1.0,,,7374,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T11:00:27Z,retina-api,0.1.0,,,55104,"Retina's public API: a Python client, the `retina` CLI and the `retina-mcp` MCP server."
+2026-11-23T11:02:46Z,rustc-bin-llvm,1.100.0.post2,baba01hacker,MIT,194100590,LLVM runtime libraries for rustc-bin
+2026-11-23T11:03:13Z,upigateways,1.0.0,UPI Gateways,MIT,13478,Official Python SDK for UPI Gateways - Zero Transaction Fee (0% MDR) UPI Payment Infrastructure with instant bank settlement.
+2026-11-23T11:04:59Z,rustc-bin-driver,1.100.0.post2,baba01hacker,MIT,457733445,Rust compiler driver library for rustc-bin
+2026-11-23T11:05:17Z,matrix-hub-client,0.1.0,17Wang <is_17wang@163.com>,,133320,小灵的应用中心客户端：读 hub 目录、把请求交给她、发布 node 的三份文档
+2026-11-23T11:06:21Z,drift-aug,0.1.0,Chung Tin Lo <lochungtin@gmail.com>,MIT,753892,Diffeomorphic Regional Interpolation and extrapolation of Flow Trajectories: SVF-based data augmentation for segmentation.
+2026-11-23T11:06:32Z,cybortx,2.1.0,Abdulbasid Yakubu <cybort@example.com>,,20863,cybortX - Ultra-fast IP and Port Discovery Tool
+2026-11-23T11:07:15Z,vforge-cli,0.2.0,,,684633,"Build a game designed in V-Forge with your own coding agent: read the design, check the game with your own Godot, publish it."
+2026-11-23T11:12:38Z,tradilot-sdk,0.3.0,Tradilot,LicenseRef-Proprietary,94206,Python SDK for the Tradilot programmatic trading API (/api/v1 REST + WebSocket)
+2026-11-23T11:13:54Z,origami-engine-mjx,0.1.0,ihsan <ihsanmuhammadkhoirul@students.unnes.ac.id>,,2278248,Dual-backend (MJX-JAX / MJX-Warp) MuJoCo MJX origami folding simulator
+2026-11-23T11:13:59Z,misp-libtaxii,1.2.0,The MITRE Corporation,BSD,254978,TAXII 1.X Library.
+2026-11-23T11:15:08Z,python-envdif,0.1.0,Isaac Onagh <hellboynaz@gmail.com>,,66267,Compare two Python environments or dependency snapshots and highlight candidate differences.
+2026-11-23T11:15:37Z,phyelds-ros2,10.4.0,Davide Domini,Apache-2.0,27392,"ROS 2 integration for phyelds: aggregate programs on ROS 2 robots, one node per robot"
+2026-11-23T11:16:31Z,csync-local,0.1.0,thrishaldoma,MIT,728528,Run CSync validation checks locally before opening a pull request
+2026-11-23T11:17:20Z,sakai,0.1.0a2,,MIT,1595880,Read-only Linux cgroup v2 metrics
