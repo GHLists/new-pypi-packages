@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T18:20:57Z,pyastrodyn,0.0.1,Marcello Romano,MIT,21355,"Research library in astrodynamics, companion of pyastrodyn-edu: Keplerian constellations"
+2026-11-23T18:21:38Z,meganum,1.0.0,MegaNum Maintainers,MIT OR Apache-2.0,1350005,"Fast, exact, portable arbitrary-precision integers and floats - Rust engine with adaptive Sequential/Parallel/SIMD execution."
+2026-11-23T18:22:44Z,tvbalance-client,0.2.0,TVBalance Maintainers <maintainers@tvbalance.dev>,Apache-2.0,23211,Async client for the TVBalance Engine API (used by the Home Assistant integration)
+2026-11-23T18:23:42Z,greptimedb,0.1.0,dravenk <longxianwen@outlook.com>,MIT,30638,Python SDK for GreptimeDB HTTP SQL API
+2026-11-23T18:24:15Z,ideogram-cli,0.1.82,,Apache-2.0,327426,Command-line client for the Ideogram API
+2026-11-23T18:24:59Z,dr-datacube,0.1.2,Ben Hardcastle,,21712,"Access to the Dynamic Routing datacube: consolidated NWB tables as polars LazyFrames, with standard session filters."
+2026-11-23T18:25:06Z,seecr-sil,3.4.0,"Thijs Janssen <thijs@seecr.nl>, Johan Jonkers <johan@seecr.nl>",MIT,112323,"Seecr Indexing Lib: search, sorting, drilldown and suggestions on tantivy"
+2026-11-23T18:26:41Z,comflow,0.0.3,,MIT License,126037,ComFlow: an optimal transport framework for deciphering intra- and intercellular signaling landscapes in 2D and 3D tissue systems.
+2026-11-23T18:28:00Z,graticor,0.2.0,Graticor,Apache-2.0,640657,"Trace, configure, serve and evaluate Python agents on Graticor."
+2026-11-23T18:30:04Z,unlzf,999.9.9,,,950,Stub package that mitigates Dependency Confusion attacks
+2026-11-23T18:34:03Z,hpcagent-agent,1.0.0,SPCL @ ETH Zurich,GPL-3.0-or-later,222837,"The agent-side runtime of HPCAgent-Bench: driver, MCP tools and harness runners."
+2026-11-23T18:35:20Z,nemoguardrails-revsec,0.1.0,RevSec / RevUp AI LLC <hello@revupai.com>,Apache-2.0,35556,"RevSec rails for NVIDIA NeMo Guardrails: your organization's AI policies on every request, reply, tool call and tool result, managed in one place, with a record of what every app did."
+2026-11-23T18:36:18Z,airs-scs-fingerprint,0.0.0,"Palo Alto Networks, Inc.",LicenseRef-Proprietary,2327,Placeholder reserving the airs-scs-fingerprint name for the Prisma AIRS supply chain security SDK. Not for use.
+2026-11-23T18:38:09Z,morphe-spatial,0.2.16,yuan feng <yf185@duke.edu>,,25149475,"MORPHE spatial omics embedding, latent diffusion and pixel diffusion"
+2026-11-23T18:39:53Z,mockcard,2.0.0,Arixeva Labs <hello@arixevalabs.com>,MIT,19336,"MockCard SDK for Python: chaos runs in CI, payment webhook checks and the production probe guard."
+2026-11-23T18:40:02Z,microfluidics,0.0.1,,MIT,8378972,"Design, verify, and export microfluidic chips using typed Python"
+2026-11-23T18:40:18Z,livekit-agents-datacircle,0.1.0,,MIT,20436,LiveKit Agents function tools for the Datacircle API: find the best GTM APIs
+2026-11-23T18:40:25Z,pytest-best-tempmail,1.0.0,Best Temp Mail,MIT,26528,pytest fixtures for real disposable email inboxes: receive mail and read verification codes in your tests.
+2026-11-23T18:40:33Z,jacobszh-frconjugation,5.1.1,jacobszh,,523913,French conjugation with bundled spelling rules
+2026-11-23T18:41:10Z,airs-scs-schemas,0.0.0,"Palo Alto Networks, Inc.",LicenseRef-Proprietary,2280,Placeholder reserving the airs-scs-schemas name for the Prisma AIRS supply chain security SDK. Not for use.
+2026-11-23T18:43:31Z,dex-connector-slack,0.6.1,,MIT,236126,Dex-native Slack thread connector
+2026-11-23T18:44:28Z,axelered,0.0.0,,,1753,Temporary release of axelered
+2026-11-23T18:45:48Z,airs-scs-client,0.0.0,"Palo Alto Networks, Inc.",LicenseRef-Proprietary,2272,Placeholder reserving the airs-scs-client name for the Prisma AIRS supply chain security SDK. Not for use.
+2026-11-23T18:47:44Z,tuneio,2.1.0,,MIT,475334,Local API observation proxy with explicit public-read caching and auditable adaptive policies
+2026-11-23T18:51:52Z,g-topo,0.40.23,Federico Sidraschi,All rights reserved,562459,Deterministic 2D geometry engine: it repairs vector geometry and reads its structure
+2026-11-23T18:52:48Z,pyxie-forge,0.1.0b0,PYXIE,MIT,59788,PYXIE Forge Python SDK — machine finance on Robinhood Chain
+2026-11-23T18:55:01Z,axelered-ai,0.0.0,,,1788,Temporary release of axelered-ai
+2026-11-23T18:55:08Z,axelered-sdk,0.0.0,,,1808,Temporary release of axelered-sdk
+2026-11-23T18:55:23Z,papyrus-sdk,0.0.0,,,1800,Temporary release of papyrus-sdk
+2026-11-23T18:57:14Z,hypnotist,1.0.1,SihyeonJeon,MIT,111439,Turn finished work into a resumable Claude Code or Codex session.
+2026-11-23T18:57:34Z,india-regions,0.1.0,TheMapsDaily,"MIT (code), CC-BY-4.0 (data)",143236,"India's states and districts through time: which existed in which year, LGD/Census codes, and matching for messy or misspelt names."
+2026-11-23T18:58:23Z,colab-slides,0.1.1,Ahmad Mustapha,MIT,19420,Render PowerPoint and Google Slides decks inside Google Colab or Jupyter from a link
+2026-11-23T19:04:36Z,structure-factor-v2,2.0.0,,MIT,42744,"Structure factor S(k) of point sets in the unit cube: scattering intensity, Kaiser taper, NUFFT, plots"
+2026-11-23T19:09:19Z,matriks-mask,0.4.0,Matriks Finansal Teknolojiler A.Ş.,Apache-2.0 AND MIT AND CC-BY-SA-4.0,1097776,"KVKK uyum süreçlerini destekleyen, Türkçe ve geri çevrilebilir PII maskeleme guardrail'i (LiteLLM) / Turkish reversible PII masking guardrail for LiteLLM"
+2026-11-23T19:11:46Z,alibabacloud-qwenb2bmed20261121,1.0.0,Alibaba Cloud SDK,Apache License 2.0,44561,Alibaba Cloud QwenB2BMed (20261121) SDK Library for Python
+2026-11-23T19:13:22Z,chainlit-ng,3.0.0a1,"Willy Douhard, Dan Andre Constantini",Apache-2.0,37693080,Chainlit NG: an actively maintained fork of Chainlit for production conversational AI apps.
+2026-11-23T19:16:00Z,cacheplan,0.1.0a1,Shamik Saha,Apache-2.0,75430,"Diagnose LLM prompt caching, forecast what each setting would cost, and plan the fix."
+2026-11-23T19:16:25Z,arc56-generated-bgope-f3a2d19f,1.1.2026112319,BGope025,,16291,Generated ARC-56 Algorand smart-contract clients for BGope025/inventoryManagementSystem.
+2026-11-23T19:16:33Z,alibabacloud-qwenb2bchat20261121,1.0.0,Alibaba Cloud SDK,Apache License 2.0,63746,Alibaba Cloud QwenB2BChat (20261121) SDK Library for Python
+2026-11-23T19:18:15Z,gvn,0.1.0,Humberto Politi,Apache-2.0,1869773,gvn (governor): an agent harness framework built on complete state machines.
