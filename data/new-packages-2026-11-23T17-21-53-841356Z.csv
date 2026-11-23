@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T16:20:31Z,rankwise,0.0.1,Brannon Dorsey <brannon@brannondorsey.com>,MIT OR Apache-2.0,7043997,"Lane-parallel SIMD order statistics: medians, quantiles, ranks and sigma clipping along one axis, identical to NumPy, SciPy and astropy."
+2026-11-23T16:21:31Z,futureish,0.1.0,Jakob Schneider,MIT,135706,Uncertainty aware time series library with online update/training support.
+2026-11-23T16:24:59Z,schema-boundary-gate,0.1.1,Tao Shi (Zhurong),MIT,52487,"Fail-closed Schema-Boundary Contract Gate for AI coding agents: blocks silent shared-column concept overload, foreign-writer mutations, and append-only ledger overwrites across Python, TypeScript/Pri…"
+2026-11-23T16:28:43Z,fancytextgenie,1.0.0,FancyTextGenie,MIT,21670,"Convert plain text into 22 fancy Unicode font styles (bold, cursive, gothic, bubble, small caps, upside down) and back. Zero dependencies."
+2026-11-23T16:28:52Z,wsystem,0.1.0,W System <hello@wsystem.dev>,MIT,27484,"Python client for the W System API: EU VAT (VIES) and EORI validation, company registers, sanctions screening, KYB and EU e-invoicing (EN 16931, XRechnung, ZUGFeRD / Factur-X, Peppol). No dependencie…"
+2026-11-23T16:31:50Z,langgraph-store-palace,0.1.0,Ionut Riza <iriza@palacememory.com>,MIT,22709,"LangGraph BaseStore backed by Palace (palace-rs): local, verbatim memory with hybrid vector and BM25 search. Not associated in any way with the popular mempalace python."
+2026-11-23T16:32:23Z,pb-bss,0.0.0,Lukas Drude,,446321,EM algorithms for integrated spatial and spectral models.
+2026-11-23T16:32:26Z,iker-opt-solver,0.1.0,Iker Abad,MIT,65103,"Linear and convex quadratic optimization from scratch, benchmarked against HiGHS."
+2026-11-23T16:32:39Z,dcat-ap-plus-metabolomics,0.1.0,Kundai Farai Sachikonye,MIT,1381104,Metabolomics extension of DCAT-AP-PLUS.
+2026-11-23T16:33:01Z,sysmantic,0.3.0,Modelware <info@modelware.io>,Proprietary: see LICENSE.md,658708,"SysML v2 models in Python and Jupyter notebooks: SysML cells, SPARQL as tables, values, verdicts, and the standard views"
+2026-11-23T16:33:08Z,execution-simulator,0.1.0,Iker Abad,MIT,99836,"Execution cost simulator for large orders: Almgren-Chriss schedules, finite-depth books and cost-risk frontiers"
+2026-11-23T16:34:26Z,incremental-feature-store,0.1.0,Iker Abad,MIT,88859,"Incremental, point-in-time-correct financial features with count and time windows, restart checkpoints and a versioned Parquet backend."
+2026-11-23T16:34:31Z,bentrix,0.1.382,Bentrix <dev@bentrix.net>,MIT,296227,"The Python client of Bentrix: every capability of a running Bentrix over its MCP endpoint, and Bentrix's engine in your own program."
+2026-11-23T16:34:39Z,numlib-linalg,0.1.0,Iker Abad,MIT,509610,"Dense numerical linear algebra from scratch in pure Python, benchmarked against LAPACK"
+2026-11-23T16:35:31Z,medsparse-playground,0.1.0,,Apache-2.0,52373,Launch the MedSparse browser inference playground on localhost
+2026-11-23T16:37:10Z,quoin-opencode,0.95.0,IvGor,,174890,"OpenCode add-on for quoin: quoin's skills and an OpenRouter profile for OpenCode, plus the workctl broker"
+2026-11-23T16:38:18Z,sjdbl,0.6.0,"Thijs Janssen <thijs@seecr.nl>, Johan Jonkers <johan@seecr.nl>",MIT,52284,"Seecr Json Database Lib: Python objects as plain JSON files, with crash-safe transactions"
+2026-11-23T16:39:18Z,dcat-ap-plus-microbiology,0.1.0,Kundai Farai Sachikonye,MIT,124013,"Knowledge graphs of bacterial reactions in DCAT-AP-PLUS, completed by computation rather than by a reasoner, for organisms, colonies and federations of colonies."
+2026-11-23T16:41:01Z,tenkai,0.1.0,,MIT,247264,Generate robot-specialized CUDA kernels from URDF models
+2026-11-23T16:43:14Z,ragdoll-mail,0.11.1,Eric Tan,MIT,204785,"Your IMAP mailbox from the terminal, for you and AI agents: local search, reply drafts, checks before sending"
+2026-11-23T16:49:08Z,bloch4spin,0.2.0,Yu Xue-Hao <yuxuehao23@mails.ucas.ac.cn>,MIT,29870,"Generalized Bloch representation utilities for spin-j systems (COBITO basis, Liouvillian, measurement, simulation engine)."
+2026-11-23T16:51:09Z,eoir-api-client,1.0.0,Steven Loria <git@stevenloria.com>,AGPL-3.0-or-later,34199,Sync and async clients for eoir-api.
+2026-11-23T16:53:19Z,agenium-harness-runner,0.1.0,agenium-dev,PolyForm-Noncommercial-1.0.0,134085,"One headless turn of a coding agent (Claude Code or Codex) through the vendor SDKs: explicit knobs, a deadline that kills the tree, one result. Agenium's harness runner."
+2026-11-23T16:53:51Z,adshot,0.2.1,,Apache-2.0,92926,"Storyboard, price, render, and revise product ads shot by shot."
+2026-11-23T16:56:39Z,brotkit,0.0.2,Eoin O'Brien,BSD-3-Clause,13238,"GPU-accelerated, SymPy-driven fractal rendering for notebooks"
+2026-11-23T16:57:58Z,motionmirror,0.1.0,MotionMirror contributors,MIT,67711,"Webcam motion capture driving a built-in 3D mannequin in real time - self-contained Python, no Blender or game engine required"
+2026-11-23T16:59:35Z,ghostkeep,0.7.0,Akshu Grewal,MIT,119483,Verified handoffs between free AI coding tools
+2026-11-23T17:00:42Z,geo-eval-harness,0.5.0,"Caleb Robinson, Isaac Corley, Nils Lehmann",MIT,4656009,Lightweight benchmarking framework for geospatial models
+2026-11-23T17:01:59Z,ethio-kit,0.5.1,,MIT,35443,"Zero-dependency Ethiopian calendar, Bahire Hasab, Ethiopic script/IME/subtitle tools, offline regions, payment/receipt adapters, ETB words/formatting, phone, and Fayda toolkit."
+2026-11-23T17:02:25Z,decisis,0.1.0,,Apache-2.0,108705,"Stand by what was decided: join a team's decisions with code and outside facts in a throwaway Relate graph, and keep only verified findings. Works offline; connects to Vinc when you configure it."
+2026-11-23T17:02:28Z,android-web-otg,0.2.1,Oscillink,MIT,6551443,"Recover & steer any broken-screen Android phone over USB OTG (AOAv2 HID) from your browser or MCP agent — pure Rust, with optional live ADB Screen Mirroring."
+2026-11-23T17:04:15Z,extsearch,2.0.0,viitlk,MIT,170138,"Product search across marketplaces of many countries: library, MCP server and HTTP API"
+2026-11-23T17:04:51Z,swarmwire,0.2.0,Alok Verma <166419621+alok-108@users.noreply.github.com>,MIT,9037198,"A compact, cryptographically verifiable binary wire protocol and deterministic policy runtime for multi-agent AI systems."
+2026-11-23T17:06:03Z,fp-arena,0.1.0,ETH Zurich and the FP-Arena authors,BSD-3-Clause,247134,A rapid-prototyping environment for custom floating-point types in DaCe
+2026-11-23T17:10:19Z,chainlit-community,3.0.0rc1,"Willy Douhard, Dan Andre Constantini",Apache-2.0,22664286,"Community maintenance fork of Chainlit, the framework for building conversational AI apps, by a former core maintainer. Security and bug fixes, no new features."
+2026-11-23T17:11:29Z,orange3-cloud,1.0.0,,GPL-3.0-or-later,2054131,"Orange add-on that runs heavy computation on a machine in your own cloud account: Google Cloud, AWS or Azure."
+2026-11-23T17:12:20Z,telice-copiloto-agent,0.0.1,,MIT,2315,Nombre reservado por Telice. Este paquete no contiene nada; el real es privado.
+2026-11-23T17:12:42Z,0xrb1t,0.2.0,0rb1t contributors,MIT,114134,0rb1t - customizable terminal intelligence environment with pluggable engines
+2026-11-23T17:13:53Z,garrison-anvil,0.1.0,Shikhar Pathak,Apache-2.0,150795,"Framework-agnostic tool governance for agentic AI: policies, sequences, cross-app grants, credential injection and prompt-injection scanning on every tool call, plus an optional registry service."
+2026-11-23T17:14:02Z,cybersecuritykit,0.1.0,Charles Poli <cpoli374@gmail.com>,MIT,152813,"Cybersecurity breakthroughs, explained through reproducible and simulated Python experiments."
+2026-11-23T17:14:06Z,pix2svg,0.1.0,Enrico Shippole,,5307,Convert PNG pixel art to SVG.
+2026-11-23T17:14:11Z,garrison-forge,0.1.0,Shikhar Pathak,Apache-2.0,182903,"Framework-agnostic AI agent orchestration: a manager + factory pattern over OpenAI, Anthropic, AutoGen and LangGraph backends, with tools, MCP, run tracing and cost tracking."
+2026-11-23T17:15:08Z,kosa8-cli,0.22.1,,Proprietary,8919,"The kosa8 CLI in one command: uvx kosa8-cli init. Downloads the kosa8 release binary for this platform, checks it against the release's checksums.txt, and runs it."
+2026-11-23T17:17:12Z,nat-revsec,0.1.0,RevSec / RevUp AI LLC <hello@revupai.com>,Apache-2.0,40743,"RevSec for the NVIDIA NeMo Agent Toolkit: stop risky agent actions before they run, catch prompt injection and leaked data, and keep a record of what every agent did."
+2026-11-23T17:19:01Z,omnisocial,0.1.0,Pablo Alaniz,MIT,273430,"Redes sociales con las mismas reglas: login, conexiones, activos, publicaciones, comentarios, mensajes, métricas y webhooks, con un adaptador por red."
+2026-11-23T17:20:17Z,genobridge,1.0.1,,,390917,Sample-size-adaptive genomic prediction and GWAS pipeline
+2026-11-23T17:21:39Z,emoji-python,0.1.0,Developer,MIT,13303,"Custom Python codec enabling emojis as variables, functions, and classes"
