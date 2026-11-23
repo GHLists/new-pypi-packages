@@ -8,59 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:20 UTC
+## Latest list — 2026-11-23 00:18 UTC
 
-New packages created between 2026-11-22 22:18 UTC and 2026-11-22 23:20 UTC.
+New packages created between 2026-11-22 23:20 UTC and 2026-11-23 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-22T23-20-59-57383Z.csv)
+[Full CSV](data/new-packages-2026-11-23T00-18-23-208885Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-22 20:48:52 | [html-to-markdown-cli](https://pypi.org/project/html-to-markdown-cli/) | 3.23.1 | Na'aman Hirschfeld <naaman@xb… | 28.8 MB | CLI proxy for html-to-markdown — downloads and runs the native html-to-markdown… |
-| 2026-11-22 22:18:33 | [bashwalker](https://pypi.org/project/bashwalker/) | 0.1.5 | Eduard Ralph | 96.7 kB | A bash command line in, proven facts per simple command out: a fail-closed tree… |
-| 2026-11-22 22:18:36 | [mitulabs-payments](https://pypi.org/project/mitulabs-payments/) | 0.1.1 |  | 39.1 kB | Monetize HTTP APIs with machine payments over MPP and x402. |
-| 2026-11-22 22:21:50 | [horizon-workspace](https://pypi.org/project/horizon-workspace/) | 0.1.1 | Fabricio & Antigravity | 14.3 kB | AI-Native Recursive Workspace Architecture — Dive Deep Without Context Loss |
-| 2026-11-22 22:24:19 | [rb-commfactors](https://pypi.org/project/rb-commfactors/) | 0.1.0 | Roman Bolandau | 205.8 kB | Commercial factors of a page: deterministic checks plus a model, factors in gro… |
-| 2026-11-22 22:24:22 | [doci-sdk](https://pypi.org/project/doci-sdk/) | 0.0.1 | Doci | 2.1 kB | The Python SDK for Doci, the developer's tool for creating, delivering, trackin… |
-| 2026-11-22 22:24:57 | [rb-onpage](https://pypi.org/project/rb-onpage/) | 0.1.0 | Roman Bolandau | 240.0 kB | Deterministic factors of a page and a site: 22 groups from indexing to accessib… |
-| 2026-11-22 22:25:16 | [rb-semkit](https://pypi.org/project/rb-semkit/) | 0.2.5 | net.paradox | 17.9 MB | Semantic core processing: read and write phrases in any format, lemmas, n-grams… |
-| 2026-11-22 22:25:39 | [rb-serp](https://pypi.org/project/rb-serp/) | 0.8.7 | bolandeu | 294.1 kB | Search engine results for Yandex and Google through SERP providers with fallbac… |
-| 2026-11-22 22:27:13 | [symintegral](https://pypi.org/project/symintegral/) | 0.1.0 | Stefan Hiemer <stefan.hiemer1… | 132.3 kB | Closed-form evaluation of multidimensional SymPy integrals, with NumPy/SciPy co… |
-| 2026-11-22 22:35:15 | [adb-harness](https://pypi.org/project/adb-harness/) | 0.2.2 | MBanucu <MBanucu@users.norepl… | 65.9 kB | Find a phone's wireless-debugging adb port, keep it connected, and record its s… |
-| 2026-11-22 22:38:57 | [odoo-addon-l10n-cl-dte-base](https://pypi.org/project/odoo-addon-l10n-cl-dte-base/) | 18.0.1.0.0.2 | FSMW, Odoo Community Associat… | 31.4 kB | Company-scoped records and immutable evidence for Chilean DTEs |
-| 2026-11-22 22:42:07 | [szl-evidence-core](https://pypi.org/project/szl-evidence-core/) | 0.2.0 | "Stephen P. Lutar" <stephenlu… | 123.3 kB | Canonical JSON, algorithm-declared digests, hash-chained receipt ledgers and th… |
-| 2026-11-22 22:47:46 | [mechaniclens](https://pypi.org/project/mechaniclens/) | 0.1.0 | Debashish Ghosal | 93.5 kB | A Markdown-only kit that reads a repair estimate back to you — every line label… |
-| 2026-11-22 22:48:12 | [slopdam](https://pypi.org/project/slopdam/) | 0.2.0 | The slopdam Authors | 60.4 kB | Logger formatter and linter that strips AI-generated patterns (em dashes, emoji… |
-| 2026-11-22 22:50:51 | [aermatic](https://pypi.org/project/aermatic/) | 0.1.0 | stacknix | 32.5 kB | Independent Python library and CLI to control Godrej Aer Smart Matic BLE air fr… |
-| 2026-11-22 22:52:33 | [vfy](https://pypi.org/project/vfy/) | 0.0.1 | Sean Abreau | 55.8 MB | A Python test runner and coverage tool, built in Rust |
-| 2026-11-22 22:54:32 | [open-agent-db](https://pypi.org/project/open-agent-db/) | 2.0.0 | Enes Öztürk | 5.5 MB | The universal open catalog and package manager for AI Agent Skills & Model Cont… |
-| 2026-11-22 22:55:14 | [phil-agent](https://pypi.org/project/phil-agent/) | 0.1.0 | Andrew HoChoy | 1.4 MB | A terminal coding agent that plans with you, works in its own git worktree, and… |
-| 2026-11-22 22:57:29 | [rrplot](https://pypi.org/project/rrplot/) | 1.3.0 | xiaenbaba | 377.5 kB | 通用制冷循环 / HVAC 示意图绘制库:坐标式部件拼装 + 走线式连管,输出 PNG/PDF/SVG |
-| 2026-11-22 22:57:46 | [edview](https://pypi.org/project/edview/) | 1.0.0 | Nghia Vo <nvo@bnl.gov> | 185.5 kB | GUI software for viewing EDXD/EDDT data processed by Algodif. |
-| 2026-11-22 22:59:26 | [lerobot-teleoperator-rfabricd](https://pypi.org/project/lerobot-teleoperator-rfabricd/) | 0.1.0 | rFabric <engineering@rfabric.… | 26.0 kB | LeRobot plugin: the rFabric remote operator drives a LeRobot robot over the rFa… |
-| 2026-11-22 22:59:39 | [hermes-scout](https://pypi.org/project/hermes-scout/) | 0.1.1 | Lanre Shittu | 48.3 kB | Search local files by meaning with embeddings from any OpenAI-compatible server… |
-| 2026-11-22 23:00:30 | [imagewright](https://pypi.org/project/imagewright/) | 0.1.0 | Eric G. Suchanek, PhD | 62.3 kB | Image generation over one HTTP contract: a client, local FLUX and SDXL servers,… |
-| 2026-11-22 23:02:57 | [hermes-clawifi-web](https://pypi.org/project/hermes-clawifi-web/) | 0.1.0 | "ReARC Labs Inc." <support@cl… | 31.5 kB | Clawifi web search and page reading as a web backend for Hermes Agent. |
-| 2026-11-22 23:03:10 | [xkcd-matchem](https://pypi.org/project/xkcd-matchem/) | 0.1.0 | Viejay Ordillo | 1.6 MB | An xkcd-Style Visualization Suite for Chemistry and Materials Science Communica… |
-| 2026-11-22 23:04:02 | [kvsig](https://pypi.org/project/kvsig/) | 0.1.0 | The PodWarden Team | 68.4 kB | Keyed, content-derived ids for LLM chat conversations: the kvsig reference impl… |
-| 2026-11-22 23:07:46 | [scipq-mcp](https://pypi.org/project/scipq-mcp/) | 0.1.0 | Germán Dressino | 144.9 kB | MCP server for Java code navigation over the per-file SCIP shards written by sc… |
-| 2026-11-22 23:08:57 | [parse-mw](https://pypi.org/project/parse-mw/) | 0.1.0 | wispsy | 32.2 kB | Bounded source-preserving MediaWiki parsing and safe typed HTML rendering |
-| 2026-11-22 23:10:13 | [aws_sdk_connectcases](https://pypi.org/project/aws_sdk_connectcases/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_connectcases name. Not yet functional. |
-| 2026-11-22 23:10:41 | [aws_sdk_personalize](https://pypi.org/project/aws_sdk_personalize/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_personalize name. Not yet functional. |
-| 2026-11-22 23:11:03 | [aws_sdk_emr_serverless](https://pypi.org/project/aws_sdk_emr_serverless/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_emr_serverless name. Not yet functional. |
-| 2026-11-22 23:11:24 | [aws_sdk_fis](https://pypi.org/project/aws_sdk_fis/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_fis name. Not yet functional. |
-| 2026-11-22 23:12:33 | [chadc00per-typeset](https://pypi.org/project/chadc00per-typeset/) | 1.0.0 | Chad Cooper | 757.9 kB | Semantic field types: canonical normalize/validate, a class per type, and picke… |
-| 2026-11-22 23:12:38 | [aws_sdk_pipes](https://pypi.org/project/aws_sdk_pipes/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_pipes name. Not yet functional. |
-| 2026-11-22 23:12:44 | [minidb-book](https://pypi.org/project/minidb-book/) | 0.1.0 | Stefano Bragaglia | 131.5 kB | A small relational database in pure Python, built one subsystem at a time in an… |
-| 2026-11-22 23:13:04 | [aws_sdk_schemas](https://pypi.org/project/aws_sdk_schemas/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_schemas name. Not yet functional. |
-| 2026-11-22 23:13:07 | [al2md](https://pypi.org/project/al2md/) | 0.0.0 | Panda Coop | 27.0 kB | Convert AL (Microsoft Dynamics 365 Business Central) sources to Markdown |
-| 2026-11-22 23:13:18 | [aws_sdk_waf_regional](https://pypi.org/project/aws_sdk_waf_regional/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_waf_regional name. Not yet functional. |
-| 2026-11-22 23:13:38 | [aws_sdk_grafana](https://pypi.org/project/aws_sdk_grafana/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_grafana name. Not yet functional. |
-| 2026-11-22 23:13:56 | [fab2md](https://pypi.org/project/fab2md/) | 0.0.0 | Panda Coop | 26.9 kB | Convert Microsoft Fabric items to Markdown |
-| 2026-11-22 23:15:52 | [kci-vec](https://pypi.org/project/kci-vec/) | 0.2.15 | Yukihiro Kimura | 444.8 kB | Embedded vector search — in-process, int8, optional AES-256 encryption at rest,… |
-| 2026-11-22 23:17:15 | [aws_sdk_cost_optimization_hub](https://pypi.org/project/aws_sdk_cost_optimization_hub/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_cost_optimization_hub name. Not yet functiona… |
-| 2026-11-22 23:17:30 | [aws_sdk_mediaconnect](https://pypi.org/project/aws_sdk_mediaconnect/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_mediaconnect name. Not yet functional. |
-| 2026-11-22 23:17:45 | [aws_sdk_resource_groups](https://pypi.org/project/aws_sdk_resource_groups/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_resource_groups name. Not yet functional. |
-| 2026-11-22 23:18:01 | [aws_sdk_iot_wireless](https://pypi.org/project/aws_sdk_iot_wireless/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_iot_wireless name. Not yet functional. |
-| 2026-11-22 23:18:09 | [awedgerunner](https://pypi.org/project/awedgerunner/) | 0.1.0 | Aitherium <eng@aitherium.com> | 71.3 kB | Run agent and CI work on edge runners nobody has to rack, under a lease with a… |
-| 2026-11-22 23:18:29 | [lsdocs-rst](https://pypi.org/project/lsdocs-rst/) | 0.1.0 |  | 13.4 MB | A fast reStructuredText parser building docutils' document tree. |
+| 2026-11-22 23:21:52 | [cheminventory-mcp](https://pypi.org/project/cheminventory-mcp/) | 1.0.0 | Niclas Grocholski | 69.9 kB | MCP server for the ChemInventory chemical inventory API |
+| 2026-11-22 23:23:28 | [arc-transcriber](https://pypi.org/project/arc-transcriber/) | 0.0.1 | "Whissle Inc." <ksingla@whiss… | 5.2 kB | Arc Transcriber: streaming speech recognition with inline tags, linked names, n… |
+| 2026-11-22 23:23:31 | [arc-tagger](https://pypi.org/project/arc-tagger/) | 0.0.1 | "Whissle Inc." <ksingla@whiss… | 5.2 kB | Arc Tagger: a 10M-parameter text-only streaming tagger for live transcripts (en… |
+| 2026-11-22 23:23:33 | [arc-sound](https://pypi.org/project/arc-sound/) | 0.0.1 | "Whissle Inc." <ksingla@whiss… | 4.4 kB | Arc Sound: streaming sound-event detection that marks when sounds start and end… |
+| 2026-11-22 23:23:35 | [arc-many-streams](https://pypi.org/project/arc-many-streams/) | 0.0.1 | "Whissle Inc." <ksingla@whiss… | 4.4 kB | Arc Many Streams: serve Arc models over many concurrent audio streams from one… |
+| 2026-11-22 23:32:14 | [svcc](https://pypi.org/project/svcc/) | 0.1.0 | Mayur Kubavat | 10.9 MB | SystemVerilog RTL to SystemC conversion with Z3 equivalence checks (Python bind… |
+| 2026-11-22 23:33:36 | [mymodular-tang](https://pypi.org/project/mymodular-tang/) | 0.1.0 |  | 4.1 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-22 23:35:08 | [munus](https://pypi.org/project/munus/) | 0.0.0 |  | 10.2 kB | An agent network. This version holds the name while the first release is prepar… |
+| 2026-11-22 23:35:51 | [ordy](https://pypi.org/project/ordy/) | 0.0.0 |  | 11.5 kB | Placeholder: the first release of ordy is in preparation. |
+| 2026-11-22 23:36:35 | [mozenjii-evalgate](https://pypi.org/project/mozenjii-evalgate/) | 0.1.0 | Mozenjii | 141.2 kB | A CI check for LLM features: it fails a pull request when quality drops on a sl… |
+| 2026-11-22 23:37:12 | [hegemony-steps-ansible](https://pypi.org/project/hegemony-steps-ansible/) | 0.52.1 |  | 47.8 kB | Ansible playbook step handler for Hegemony (inventory generated from Hegemony's… |
+| 2026-11-22 23:37:14 | [hegemony-steps-tf](https://pypi.org/project/hegemony-steps-tf/) | 0.52.1 |  | 53.0 kB | OpenTofu/Terraform plan and apply step handlers for Hegemony |
+| 2026-11-22 23:37:16 | [hegemony-steps-secret](https://pypi.org/project/hegemony-steps-secret/) | 0.52.1 |  | 38.6 kB | Secret-store step handlers for Hegemony (write, swap and delete a secret) |
+| 2026-11-22 23:37:18 | [hegemony-steps-inventory](https://pypi.org/project/hegemony-steps-inventory/) | 0.52.1 |  | 22.8 kB | Inventory step handlers for Hegemony (sync an inventory provider from a flow) |
+| 2026-11-22 23:37:20 | [dofleet](https://pypi.org/project/dofleet/) | 0.1.0 | Aiman Malib | 300.5 kB | Disposable DigitalOcean droplets that delete themselves: expiry timers, a month… |
+| 2026-11-22 23:38:34 | [rlinf-cli](https://pypi.org/project/rlinf-cli/) | 0.4.0 | RLinf Contributors | 7.4 kB | Lightweight zero-dependency CLI launcher for RLinf |
+| 2026-11-22 23:40:06 | [clud-computer-use](https://pypi.org/project/clud-computer-use/) | 0.57.2 |  | 107.8 MB | Signed native Talos HQ Computer Use for clud |
+| 2026-11-22 23:46:05 | [neco-quotient-application](https://pypi.org/project/neco-quotient-application/) | 0.1.0 |  | 7.8 kB | 鍵による有限の表で商上の適用を行い、範囲の外の入力には residual を返す |
+| 2026-11-22 23:46:07 | [neco-quotient-retention](https://pypi.org/project/neco-quotient-retention/) | 0.1.0 |  | 12.8 kB | 宣言した利用、復元手段、観測から対象データの保持か実体化解除かを判定する |
+| 2026-11-22 23:46:10 | [neco-quotient-encoding](https://pypi.org/project/neco-quotient-encoding/) | 0.1.0 |  | 29.1 kB | 正規 JSON の符号化・復号と SHA-256 ハッシュ値 |
+| 2026-11-22 23:47:22 | [sphinx-exec-to-file](https://pypi.org/project/sphinx-exec-to-file/) | 1.0.0 | Gatien Bouyer <gatien.bouyer.… | 18.0 kB | Sphinx extension to include images and data files created by commands or code |
+| 2026-11-22 23:48:24 | [rockdesk-mcp](https://pypi.org/project/rockdesk-mcp/) | 1.0.18 | RockDesk <dev@rockdesk.io> | 12.5 kB | MCP server for AI agents to control your other computers by a 9-digit RockDesk… |
+| 2026-11-22 23:49:22 | [remote-ollama-herd-bridge](https://pypi.org/project/remote-ollama-herd-bridge/) | 0.1.10.post1.dev0 | Dyllan Macias <Dyllan.Macias@… | 203.0 kB | Bridge remote Ollama nodes into a local Ollama Herd deployment |
+| 2026-11-22 23:55:08 | [where-am-i-locator](https://pypi.org/project/where-am-i-locator/) | 0.1.0 | Your Name | 9.9 kB | Zero-dependency, VPN-bypassing physical geolocation using native OS location se… |
+| 2026-11-22 23:59:11 | [envaudit-cli](https://pypi.org/project/envaudit-cli/) | 0.1.0 | Shreshth Rajan <rajan.shresht… | 38.9 kB | Autonomously harden RL environments: find rewarded solutions that don't do the… |
+| 2026-11-22 23:59:16 | [calculadora-rtc-simples-nacional](https://pypi.org/project/calculadora-rtc-simples-nacional/) | 0.3.0 | Garuso Cruz | 101.9 kB | Cálculo de CBS e IBS do Simples Nacional. Transcrição em Python da calculadora… |
+| 2026-11-23 00:03:33 | [limetry](https://pypi.org/project/limetry/) | 1.2.101 | Limetry <hello@limetry.com> | 28.4 kB | Python SDK for Limetry agent action governance |
+| 2026-11-23 00:03:40 | [calculadora-rtc-regime-regular](https://pypi.org/project/calculadora-rtc-regime-regular/) | 0.3.0 | Garuso Cruz | 200.5 kB | Cálculo de CBS, IBS e Imposto Seletivo do regime regular. Transcrição em Python… |
+| 2026-11-23 00:04:25 | [cmu-web-kilt](https://pypi.org/project/cmu-web-kilt/) | 0.8.25 | CMU Web | 126.0 kB | The Carnegie Mellon Web Kilt's browser files and integrity hashes, for Python a… |
+| 2026-11-23 00:06:11 | [runvault-ai](https://pypi.org/project/runvault-ai/) | 0.1.0 | RunVault Contributors | 288.9 kB | Lightweight, reproducible machine learning experiment management, artifact pers… |
+| 2026-11-23 00:06:53 | [validonce](https://pypi.org/project/validonce/) | 0.0.1.dev0 | Metatoy LLC | 11.4 kB | Placeholder for validonce: write validation rules once on the server, enforce t… |
+| 2026-11-23 00:07:08 | [stealth-camp-check](https://pypi.org/project/stealth-camp-check/) | 0.1.0 | CarSteader <info@carsteader.c… | 23.1 kB | Check stealth camping and overnight parking rules by US state — rest areas, BLM… |
+| 2026-11-23 00:07:19 | [ogquery](https://pypi.org/project/ogquery/) | 0.0.0 | University of Bristol | 26.7 kB | Placeholder: the light, read-only query package for OpenGWAS GWAS Stores and LD… |
+| 2026-11-23 00:09:13 | [opendata-calendars](https://pypi.org/project/opendata-calendars/) | 1.0.0 | guilhermegor | 203.9 kB | Fetch exchange and bank holiday calendars from their publishers (B3, ANBIMA, FE… |
+| 2026-11-23 00:09:49 | [amv-runtime](https://pypi.org/project/amv-runtime/) | 2.9.0 | Eunho Kim | 276.3 kB | Unified Next-Gen Hardware Orchestration & AI Acceleration Runtime for Mobile &… |
+| 2026-11-23 00:10:42 | [zhaostephen-szsdlc-ui-win95](https://pypi.org/project/zhaostephen-szsdlc-ui-win95/) | 0.1.1 | Stephen Zhao | 200.2 kB | A Windows 95-styled, trait-driven browser viewer for szsdlc projects, served by… |
+| 2026-11-23 00:13:51 | [bdeivh](https://pypi.org/project/bdeivh/) | 0.1.0 | Ighor Arantes | 1.5 MB | Estimation of BDEIVH parameters from phylogenetic trees. |
+| 2026-11-23 00:15:27 | [mcp-server-paperless](https://pypi.org/project/mcp-server-paperless/) | 0.2.0 | gardenbaum | 626.1 kB | MCP server for paperless-ngx 3.x. |
+| 2026-11-23 00:16:12 | [ctxbudget](https://pypi.org/project/ctxbudget/) | 0.1.0 | GhettoBoxAI <info@ghettoboxai… | 15.0 kB | Check if your prompt fits in a local LLM's context window — plan RAG budgets, s… |
