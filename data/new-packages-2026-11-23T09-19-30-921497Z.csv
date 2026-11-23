@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T08:18:43Z,iosignal,0.1.1,Taeo Lee <sixgen@gmail.com>,MIT,161796,"IOSignal client for Python: signals, device rules, and remote MicroPython boards"
+2026-11-23T08:18:44Z,dex-connector-postgresql,0.2.0,,MIT,122303,Dex-native PostgreSQL connector
+2026-11-23T08:20:20Z,dex-connector-reamaze,0.2.1,,MIT,192134,Re:amaze connector for Dex Flows
+2026-11-23T08:22:29Z,dex-connector-salesforce,0.2.1,,MIT,183229,Salesforce connector for Dex Flows with a record change Trigger
+2026-11-23T08:24:35Z,nhi-blast,0.3.0,Dinesh Karthick B,MIT,1732558,"Offline, evidence-labelled analysis of GitHub Actions to AWS OIDC authority and revocation survival"
+2026-11-23T08:25:08Z,xsdhub-validate,0.1.0,XSDHub,Apache-2.0,21560,Command line client for the free XSDHub XML validation API
+2026-11-23T08:34:34Z,distgridforge,0.3.0,"Yassine Abdelouadoud <yassine.abdelouadoud@minesparis.psl.eu>, Yoann Chiche <yoann.chiche@minespari…",MIT,198209,A package for analyzing constraints in power grids
+2026-11-23T08:35:24Z,pipecat-datacircle,0.1.1,,MIT,20340,Pipecat function tools for the Datacircle API: find the best GTM APIs
+2026-11-23T08:35:27Z,aeppo,0.8.0,,MIT,144747,Local static scanner for risky source patterns and exposed secrets
+2026-11-23T08:37:07Z,instagram-scraper-cli,0.1.0,ShortsIntel,MIT,16250,"Instagram scraper CLI and Python client: public profiles, posts and Reels as JSON or CSV, no login. A thin client of the ShortsIntel API."
+2026-11-23T08:37:10Z,cleargate,0.1.0,Pandiyaraj Karuppasamy,MIT,245470,"Find, explain, fix and plan SonarCloud-style issues locally, read PR findings, and keep a quality gate when the cloud scan is refused."
+2026-11-23T08:37:38Z,alalanet,0.1.0,alalanet <noreply@alalanet.com>,MIT-0,102109,"Asks alalanet before your agent installs, runs or pays: a typed client for install_check, preflight_payment, check_repo_config and check_service, a shell command check, the official x402 client's pre…"
+2026-11-23T08:38:42Z,dark-instux,0.1.0,Frédéric Laurencin,MIT,203875,"Build bootable USB keys that install Debian, Ubuntu, AlmaLinux or Fedora offline and unattended."
+2026-11-23T08:39:35Z,lice3,0.14.0,Khabib Shakhbanov <kh73bb@yahoo.com>,BSD-3-Clause,417715,Generate license files for your projects
+2026-11-23T08:39:58Z,vincony,0.0.1,Vincony,MIT,4160,Reserved name for Vincony. The Vincony API is OpenAI-compatible: use the openai package with base_url https://api.vincony.com/v1.
+2026-11-23T08:40:08Z,vincony-cli,0.0.1,Vincony,MIT,3016,Reserved name for Vincony. There is no Vincony command-line tool; see https://vincony.com/docs/api.
+2026-11-23T08:42:07Z,kvmouse-pi2w-node,0.2.1,,Apache-2.0,75729,"Optical KVM node with sensor HDR, QR enrollment and leased USB actions"
+2026-11-23T08:44:12Z,meetstream-cli,1.0.1,,Apache-2.0,40936258,"MeetStream CLI: meeting bots, transcripts and your own agent in the call"
+2026-11-23T08:44:48Z,memorylake-proxy,0.0.1,,,7036,"Send HTTP requests through an HTTP proxy, with the Python standard library only."
+2026-11-23T08:45:58Z,chain-receipt,0.1.0,Cinian Studios Inc.,MIT,42333,Chain Receipt — verified AI output receipts. Client SDK for the OpenAI-compatible proxy and the offline receipt verifier.
+2026-11-23T08:46:19Z,heliostack,0.3.1,Tae-Hyung Kim <ttthkim@gmail.com>,AGPL-3.0-or-later,2565831,"Deterministic open-source solar PV, 3D ray-cast shading, CFD-informed thermal, and HiGHS LiFePO4 ESS optimization engine with RO-Crate 1.1 audit provenance."
+2026-11-23T08:49:35Z,spectra-rcwa,1.2.0,Hyoseok Park,MIT,171211,"RCWA / Fourier modal method solver without eigendecomposition, with adjoint gradients: batched on the GPU in PyTorch, for inverse design of metasurfaces, gratings and colour routers"
+2026-11-23T08:49:43Z,sava-onnx,1.0.0,,Apache-2.0,28851,"Inworld SAVA voice activity + end-of-turn detection on ONNX Runtime: no PyTorch, CPU-friendly, streaming."
+2026-11-23T08:50:17Z,gqlparser,0.0.1,Justin Joyce <justin.joyce@joocer.com>,Apache-2.0,50943,"Pure-Python parser for GQL (ISO/IEC 39075), the ISO graph query language"
+2026-11-23T08:50:33Z,nebius-serverless,0.1.0,"Mikhail Rozhkov, Evgeny Zholkovskiy",Apache-2.0,147554,Unofficial Python client for Nebius Serverless AI Jobs and Endpoints
+2026-11-23T08:53:14Z,frameledger,0.9.0,,MIT,675472,Finds what slows a game engine's frames.
+2026-11-23T08:54:29Z,netscope,0.19.0,NetScope Contributors,MIT,554353,"Internet Experience Intelligence & Network Diagnostics Platform — from raw measurements to 'what's wrong, and where', with evidence."
+2026-11-23T08:58:28Z,golive-gate,0.1.0,Pranav Gudise,MIT,81240,"Turn agent eval cases, checks and go-live gates into one command and a GitHub Action: go, partial or no-go, with the reason."
+2026-11-23T08:59:06Z,baiam-agents-builder,0.1.0,,,87868,Typed agent primitives and tracing for Baiam Agent
+2026-11-23T09:02:29Z,langchain-alalanet,0.1.0,alalanet <noreply@alalanet.com>,MIT-0,26171,"alalanet for LangChain agents: a middleware that checks shell commands (what they install or run) and x402 payments before the tool runs, and three tools: install_check, preflight_payment, check_repo…"
+2026-11-23T09:02:43Z,mcp-server-huaweicloud-rds-supabase-mgr,0.4.0,,MIT,365632,"Management-plane MCP server for Huawei Cloud RDS Supabase: application lifecycle, managed PostgreSQL instances, EIP binding, SSL, OBS storage, auth, API keys, security groups, orders and residual res…"
+2026-11-23T09:04:21Z,Prives,0.1.0,0nely,MIT,32918,A tool for testing access control vulnerabilities and authorization bypasses.
+2026-11-23T09:07:53Z,tool-dev-samudra-crypto,0.1.0,,,11469,Executa for the samudra-crypto Anna App
+2026-11-23T09:09:49Z,xrefkit-openai-runtime,0.0.1,,,83027,Optional XRefKit API execution runtime
+2026-11-23T09:12:03Z,omeka-s-client,0.1.0,Moritz Mähr,AGPL-3.0-only,278380,"Python client, CLI, and MCP server for the Omeka S REST API"
+2026-11-23T09:12:12Z,mango-osc,0.3.0,pgranger23,MIT,176297,"MANGO: A Neutrino Gradient Oscillator in JAX (vacuum, constant density, PREM Earth, atmospheric, solar, NSI, sterile)"
+2026-11-23T09:17:45Z,assaystone,0.3.0,Assaystone contributors,Apache-2.0,162056,"Audit AI agent traces for silent failures, then gate CI and runtime with acceptance contracts."
+2026-11-23T09:18:18Z,netcl-py36,0.6.1,netcl contributors,MIT,608186,"GPU-accelerated deep learning framework for OpenCL and Vulkan, with CPU fallback."
+2026-11-23T09:19:05Z,tmf-checker,0.1.0,Petr,Apache-2.0,525269,Check TM Forum Open API implementations against the published specs
