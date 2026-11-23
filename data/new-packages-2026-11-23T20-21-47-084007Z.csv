@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T18:59:01Z,payrudder,0.2.0,Payrudder,Apache-2.0,163808,Python SDK for the Payrudder billing platform (tenant API and webhook verification).
+2026-11-23T19:18:41Z,gvn-tools,0.1.0,Humberto Politi,Apache-2.0,276260,"Ready-made tools for gvn harnesses: files, shell, git, HTTP, issue trackers, each with its safety rules."
+2026-11-23T19:19:05Z,vigilact-protocol,0.4.0a3,Luca Atella,Apache-2.0,1404684,An open protocol experiment for negotiated operational contracts and observable commitments
+2026-11-23T19:19:06Z,gvn-domains,0.1.0,Humberto Politi,Apache-2.0,537162,"Complete example harnesses built with gvn, organised by domain."
+2026-11-23T19:22:14Z,saicode,0.3.0,SAI Code Team,Apache-2.0,68059,"A terminal coding agent: small core, safe by default, enterprise-ready foundations."
+2026-11-23T19:23:34Z,arc56-generated-manne-3008a50f,1.2.2026072010,manne1086,,21724,Generated ARC-56 Algorand smart-contract clients for manne1086/savingstracker.
+2026-11-23T19:24:22Z,gvn-workbench,0.1.0,Humberto Politi,Apache-2.0,2934798,"The gvn Workbench: a local page for building, inspecting and evaluating gvn harnesses. A development tool; a deployed harness does not need it."
+2026-11-23T19:24:37Z,arc56-generated-manu-ec480d82,1.2.2026072010,manu-2213,,11838,Generated ARC-56 Algorand smart-contract clients for manu-2213/Algorand.
+2026-11-23T19:25:10Z,datatables-backend,0.1.0rc2,R. Hannes Niedner,MIT,190839,"Server-side processing for DataTables from SQL (SQLAlchemy 2, async and sync) and OpenSearch."
+2026-11-23T19:25:35Z,tryagentkey,0.5.0,"AgentKey, Inc.",Apache-2.0,64214,"30-second auth & local secrets vault for AI agents. Zero config, local-first."
+2026-11-23T19:25:41Z,arc56-generated-manue-1f6844c4,1.2.2026072010,manuelmauro,,73768,Generated ARC-56 Algorand smart-contract clients for manuelmauro/algonaut.
+2026-11-23T19:26:31Z,omids-validator,0.2.1,Sean McGarry,GPL-3.0-or-later,135173,Validate MIDS-formatted musculoskeletal imaging datasets
+2026-11-23T19:27:01Z,bicker,1.0.0,darragh0,MIT,27529,"Tiny, fully typed CLI argument parser: declare args as a class"
+2026-11-23T19:28:18Z,dubweld,0.1.0,theobaldik,MIT,119345,"Lay a dubbed audio track from one release of a video onto another release, lip-synced"
+2026-11-23T19:28:31Z,viva-basic-processes,0.4.1,,MIT,37303,"Reusable, composite-agnostic process-bigraph processes — Clock, Tick, Intervention, MathExpression, and beyond (was pbg-basic-processes)"
+2026-11-23T19:30:54Z,unrig,0.1.0,Chen Jiang,Apache-2.0,128432,"Anti-tamper gates, JUnit/diff verification, and isolated blind review templates for coding agents."
+2026-11-23T19:36:14Z,pushpage-mcp,1.8.0,rgf2004,MIT,14193,MCP server for pushpage: let AI agents publish HTML as shareable URLs.
+2026-11-23T19:36:50Z,reverie-lang,0.1.0,,MIT OR Apache-2.0,10782148,"Python bindings for Reverie, a statically typed reversible programming language"
+2026-11-23T19:37:37Z,codescope-ai,0.1.1,,MIT,214761,"Understand a Python codebase: docs linked to the source, cited answers (RAG or an agent), change review, and MCP tools for AI apps."
+2026-11-23T19:45:40Z,raster-expr,0.1.0a1,Kyle Barron <kyle@developmentseed.org>,MIT,6572325,"Per-pixel raster expressions, compiled to GPU shaders for client-side visualization."
+2026-11-23T19:50:37Z,tabsdata-conn-awsglue,2.4.1,Tabsdata Inc.,Tabsdata License,64086,AWS Glue connector: Iceberg tables in the AWS Glue Data Catalog.
+2026-11-23T19:51:49Z,oo-reader,0.2.0,,MIT,226306102,Native O_o finite element model reader with Arrow table export
+2026-11-23T19:54:24Z,bluetooth-classic,0.1.0,jeverley,Apache-2.0,32628,"Bluetooth Classic (BR/EDR) discovery, pairing and presence on Linux, through BlueZ"
+2026-11-23T19:59:34Z,lex-helper-0.0.3-py3-none-any.whl,0.0.1,Vladyslav Kotko,,3264,
+2026-11-23T19:59:52Z,ragnaroq,0.0.4,,Apache-2.0,69279,"Turn any PDF into LLM-readable, RAG-ready text with every line anchored to its source and a rule-based trust verdict."
+2026-11-23T19:59:53Z,metal-kernels,0.1.1,John Amodeo,Apache-2.0,68323,Metal kernel sources for Apple silicon. The collection currently has FlashAttention for head dim 32.
+2026-11-23T20:00:33Z,rgb-live,0.0.1,"""RGB Live Inc."" <hello@rgb.live>",Proprietary,3353,RGB: run vision models on live video. This release reserves the name; the SDK and CLI are coming.
+2026-11-23T20:02:23Z,hepyy-jewel-cpp,0.2.0.1,,GPL-2.0-or-later,1028640,Native JEWEL C++ generator for hepyy/cppyy
+2026-11-23T20:03:35Z,binbun,0.1.0,,(MIT OR Apache-2.0) AND Apache-2.0 AND BSD-3-Clause,146902970,Python bindings to the binbun disassembler and decompiler.
+2026-11-23T20:05:53Z,open-ratelimit-registry,2.0.0,,MIT,23970,"Machine-readable registry, proactive tracker, CLI, and zero-dependency parser for HTTP API rate-limit headers"
+2026-11-23T20:05:56Z,django-template-transpiler,0.0.1,Christophe Henry <contact@c-henry.fr>,,448066,Django Template Transpiler is a library to parse Django template and produce JS code to render them in the frontend. It is not designed to replace either Django's template engine or any other fronten…
+2026-11-23T20:07:13Z,sidx,0.0.1,Andy Tseng,MIT,8142,A multi-stage agentic framework for extracting structured data from documents
+2026-11-23T20:08:08Z,oo-solver,0.2.0,,MIT,89339081,Native O_o finite element solver with NumPy result arrays
+2026-11-23T20:12:24Z,mlsimkit,0.0.1,Vladyslav Kotko,,3160,
+2026-11-23T20:14:35Z,yacoru,0.1.0,Sergio Delgado Quintero,,6820,Add your description here
+2026-11-23T20:14:47Z,postaplot,0.1.2,mwappner,MIT,48670,Kernel-density based scatter plots with seaborn-like API.
+2026-11-23T20:15:09Z,parlando-python-sdk,0.7.0,,,23928,Python SDK for Parlando game components
+2026-11-23T20:15:17Z,parlando-agent-sdk,0.7.0,,,37875,Python SDK for implementing remote Parlando gRPC agents.
+2026-11-23T20:16:12Z,converter-studio,1.0.0,Converter Studio <support@converter.studio>,MIT,80361,"Official Python client and command-line tool for the Converter Studio API: convert HEIC, RAW, video, audio, documents and e-books from Python."
+2026-11-23T20:17:14Z,gapiring,0.1.0,,"Gapiring: licence terms are not published yet. Until they are, all rights are reserved and this pac…",175452,"Uzbek text-to-speech on a CPU: two voices, roles and manners by name, streaming audio"
+2026-11-23T20:18:56Z,direct3,1.0.0,Vladyslav Kotko,,3156,
+2026-11-23T20:20:11Z,llm-glm,0.1,Simon Willison,Apache-2.0,26428,Access models via the Z.ai API
+2026-11-23T20:20:24Z,gh-agile,0.6.0,Paul Caron,Apache-2.0,386984,"Jira-style Agile on GitHub Issues and Projects: initiatives, epics, stories, sprints and boards, from the terminal. A gh extension that also runs standalone."
+2026-11-23T20:20:39Z,relatiobench,0.1.0a1,Iman Khorami,Apache-2.0,57500,Replay synthetic interaction scenarios and inspect policy behavior.
+2026-11-23T20:21:40Z,pymetadata-core,0.1.0,Matthias König,MIT,696468,"Lazy reading and writing of COMBINE archives (OMEX), a Rust core for pymetadata"
