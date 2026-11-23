@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T02:23:39Z,arrowtiles,0.1.0,Kai Erlenbusch <erlenbusch@uchicago.edu>,Apache-2.0,22663491,"DuckDB + Rust (PyO3) ArrowTiles v0.1 spatial pyramid builder, reader, and validator"
+2026-11-23T02:26:32Z,szcdfi,0.1.1,Stephen Zhao,"MIT License Copyright (c) 2026 Stephen Zhao Permission is hereby granted, free of charge, to any pe…",28439,Cross-platform installer engine for the szcdf dotfiles framework.
+2026-11-23T02:27:06Z,deepa-lm,2026.11.23,"Deepa, J. V. K. Hem, M. A. Shriram",Apache-2.0,70577,DEEPA: hybrid gated-delta-rule / ALiBi-attention language models with constant-size recurrent state
+2026-11-23T02:27:55Z,setuptools-git-metadata,0.1.0.dev0,Nicholas Hairs <info+setuptools-git-metadata@nicholashairs.com>,MIT,35716,Bake Git provenance into setuptools distributions without editing package sources
+2026-11-23T02:29:08Z,c4e,2.1.1,No0B@ckSappi3,Apache-2.0,8366510,True end-to-end encryption for agent-to-agent traffic — No0B@ckSappi3
+2026-11-23T02:35:01Z,pky-ceshi,0.1.0,,,18862,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T02:35:29Z,dead-projects-society,0.24.0,Ghost Developer Studio,MIT,67740,"A funeral for your abandoned side projects: tombstones, causes of death, and the successor that replaced them, from git history alone."
+2026-11-23T02:38:01Z,nopt,0.1.0.dev0,Nicholas Hairs <info+nopt@nicholashairs.com>,MIT,68292,Nicks Opinionated (Python Package) Publishing Tool
+2026-11-23T02:42:21Z,libvt,0.0.1a0,Tony Narlock <tony@git-pull.com>,MIT,330748,"Pure-Python, zero-dependency, typed virtual terminal emulator and streaming VT parser."
+2026-11-23T02:44:20Z,petimportguide-mcp,1.0.1,,CC BY 4.0 (data) / MIT (code),6771,"MCP server for Pet Import Guide — verified pet import rules (routes, airline pet policies, rule changes) from official government sources."
+2026-11-23T02:44:50Z,caresmcp,1.0.0,Moenupa,Apache-2.0,275611,"Medical diagnostic toolkit for agents, served over MCP."
+2026-11-23T02:46:10Z,bai-python-hwc,1.0.0,,,912365,Python 编程练习题库与可运行的参考答案
+2026-11-23T02:53:41Z,mcp-google-tasks,0.2.0,Derek Ditch <dcode@users.noreply.github.com>,Apache-2.0,242223,Google Tasks MCP server for Obot: multi-user OAuth or single-user tokens.
+2026-11-23T02:54:18Z,fencewalk,0.1.0,,,225969,"Local-first perimeter-audit workbench: evidence-labeled inventory, rubric scoring, bounded model pass, adjudication, fix tracking."
+2026-11-23T03:00:37Z,domus-ai,0.4.0,nomad_ii_damon,Not specified,234124,"Local AI runtime with hardware detection, model management, and agent subsystems."
+2026-11-23T03:01:08Z,necklace-enum,0.2.1,"""Richard H. Taylor"" <r_taylor@outlook.com>",MIT,67094,Derivative superstructures generated as Lyndon words on the quotient group of a superlattice
+2026-11-23T03:01:26Z,sousml,0.1.0,,MIT,28886,"Train a smaller model on your app's own OpenAI or Anthropic calls, then switch to it."
+2026-11-23T03:03:45Z,happydownload,2.0.0,Aswin Lal S Y,MIT,5898538,Adaptive multi-stream 50+ GB file & 4K web video downloader with NTFS sparse I/O and SQLite WAL resilience.
+2026-11-23T03:05:10Z,napari-aibirthday,1.0.0,AI Birthday Video Generator <support@aibirthdayvideogenerator.com>,MIT,9293,"AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window. Official napari plugin."
+2026-11-23T03:06:13Z,corlet,0.1.0,corlet contributors,MIT,234928,"A microkernel framework for Python: containers, components, services, extension points and events."
+2026-11-23T03:08:36Z,chafernet,0.0.1,,MIT,11368481,"Authenticated, encrypted, timestamped tokens using XChaCha20-Poly1305, for Python and Rust."
+2026-11-23T03:09:47Z,intakeguard,0.1.0a1,The IntakeGuard contributors,Apache-2.0,4073318,"Local-first, policy-driven pre-flight checks and sanitization for untrusted PDFs and images in RAG and upload pipelines"
+2026-11-23T03:09:52Z,fiber-ac-mcp,1.4.0,Satoshi Holdings <contact@fiber.ac>,MIT,64230,"FIBER — Optical operations platform MCP server for AI datacenters (gNMI telemetry, ML predictions, Digital Twin, NCCL-optical correlation, SPARQL semantic queries). Dual runtime: mcp python-sdk 1.x b…"
+2026-11-23T03:09:58Z,monitoring-suite,0.7.1,James Ekhator,Apache-2.0,359987,"Consolidated domain packages: typed errors, security, API rate limiting, monitoring, retrieval provenance, and cross-cutting aspects"
+2026-11-23T03:10:11Z,fiber-sdk,1.1.0,FIBER by Satoshi Holdings <contact@fiber.ac>,MIT,47743,Official Python SDK for the FIBER AI Data Center Optical Intelligence Platform
+2026-11-23T03:12:29Z,npm-semver,0.1.0,Sandesh Bagmare,MIT,15577,Semantic version ranges for Python: does 1.4.2 satisfy ^1.2.0?
+2026-11-23T03:12:30Z,open-agent-workspace,0.1.1,Agent Workspace contributors,MIT,281906,桌面 Agent 工作区内核：一个目录约定、一条 dispatch、一条事件流、一份能力面
+2026-11-23T03:12:41Z,zip-deterministic,0.1.0,Sandesh Bagmare,MIT,11792,"Reproducible zip and tar archives: pinned timestamps, modes and ordering"
+2026-11-23T03:12:52Z,flexlis-models,0.0.0a0,,,3038,Placeholder reserved by Novino AI. Not the real package; importing it raises ImportError.
+2026-11-23T03:12:52Z,flexlis-utils,0.0.0a0,,,3022,Placeholder reserved by Novino AI. Not the real package; importing it raises ImportError.
+2026-11-23T03:14:28Z,odoo-addons-oca-l10n-chile,18.0.20261122.0,,,1293,
+2026-11-23T03:15:26Z,seabraid,0.5.0a8,Saltwater Research LLC <dev@saltyresearch.com>,Apache-2.0,366872,Engine-neutral runtime that lets GPUs from different vendors serve one mixture-of-experts layer together.
+2026-11-23T03:16:54Z,tikultra,1.0.0,TikUltra,"MIT License Copyright (c) 2026 TikUltra Permission is hereby granted, free of charge, to any person…",63609,"TikTok API for Python: TikTok Shop API, managed TikTok accounts (login, upload, comments, DMs, LIVE), scraping (videos, profiles, comments, followers, search) and X-Argus signing."
+2026-11-23T03:17:08Z,fsync-replace,0.1.0,Sandesh Bagmare,MIT,11268,"Atomic, durable file replacement: temp file, fsync, rename, fsync the directory"
+2026-11-23T03:17:16Z,hyprcam,0.1.0,mhdztr <zakkithoriq@gmail.com>,MIT,47500,"Frameless, tiled webcam window for Hyprland with live settings and OBS-friendly screen capture"
+2026-11-23T03:18:02Z,langchain-aibirthday,0.1.0,AI Birthday Video Generator <support@aibirthdayvideogenerator.com>,MIT,8207,"AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window. LangChain tools for aibirthdayvideogenerator.com."
