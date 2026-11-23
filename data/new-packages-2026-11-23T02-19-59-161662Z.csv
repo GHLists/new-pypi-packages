@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T00:15:11Z,khipu-sda-core,0.1.1,,Apache-2.0,126931,Clean-room anomaly/SDA core engine (szl_mosaic).
+2026-11-23T01:20:49Z,snekot-events,0.3.1,Snekot,MIT,13739,"Post product events, identify users and set insights with Snekot."
+2026-11-23T01:20:54Z,clelandlab-utils,0.1.0,Cleland Lab,MIT,18316,Utility Functions
+2026-11-23T01:23:00Z,anonyma,0.1.0a1,Izac Cavalheiro,MIT,4741498,"PII detection and anonymization for Python on a Rust core: checksum-verified detectors, reversible prompt shielding for LLMs, compliance presets and signed receipts. No runtime dependencies."
+2026-11-23T01:23:58Z,benchling-tools,0.7.0,John Amodeo <120539773+jmamodeo@users.noreply.github.com>,Apache-2.0,447135,"Safe, auditable tools for AI agents working in Benchling"
+2026-11-23T01:28:07Z,eris-echo,2.3.0,"Ruth Kravis, Johannes Hendriks, Anna Skobleva, Dora He, Benjamin Weise, Josh Vote, Antoine Desmet",,198078,The Energy and Commodity Holistic Optimiser (ECHO).
+2026-11-23T01:31:54Z,valorant-esports-api,1.0.0,Cito API,MIT,20708,"Official Valorant esports API client for live VCT scores, WebSocket rooms, historical matches, per-map player stats, rankings, teams, events, and sample CSVs. Standard library only."
+2026-11-23T01:32:01Z,songs-modular-project,0.1.2,,,4167,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T01:35:06Z,lyx-test,0.1.0,,,10400,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T01:35:49Z,qutop,0.0.1,Hasarindu Perera (Manin Research),Apache-2.0,41651,"A terminal dashboard for quantum hardware: backend status, queues, qubit calibration and drift."
+2026-11-23T01:37:26Z,buildingactivity,0.1.1,Recursive Capital Inc.,MIT,155178,Command line client and MCP server for the BuildingActivity building-permit API
+2026-11-23T01:39:04Z,yfh-test,0.1.0,,,4012,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T01:40:15Z,gov-modular-rag,0.1.0,,MIT,18297,A configurable modular RAG retrieval layer for existing Chroma knowledge bases
+2026-11-23T01:41:11Z,acerdp,1.1.0,,MIT,20110,Client for the AceRDP API: Windows RDP and Linux VPS servers.
+2026-11-23T01:41:35Z,my-rag-tool,0.1.0,,,41882,A simple RAG project
+2026-11-23T01:41:48Z,szl-abstention-frontier,0.1.1,Stephen Lutar <stephen@szlholdings.com>,Apache-2.0,49628,Frontier abstention calibration: paired A/B eval harness for refusal on fabricated-premise traps vs benign controls
+2026-11-23T01:43:35Z,agy-companion,0.0.1,,Apache-2.0,2926,Bring your own models (BYOM) and track token usage and costs in Google Antigravity (agy).
+2026-11-23T01:43:45Z,modular-shb,0.1.0,,,13166,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T01:44:59Z,modular-text,0.1.0,,,11779,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T01:45:28Z,theglobalfuel-sdk,2026.1123.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",23193,Official Python SDK for Theglobalfuel — thin shell over burdenoff-sdk-libs
+2026-11-23T01:48:26Z,xgemm,0.1.0,SparseTrace AI,MIT,5720728,Fused NVIDIA GPU kernel primitives for JAX: exponential GEMM and Gaussian RBF products
+2026-11-23T01:49:18Z,fxy-langchain,0.1.0,,,4119,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T01:51:12Z,clearfills-firewall,0.1.0,"""ClearFills / MLDSAI Inc."" <desk@mldsai.com>",Apache-2.0,49156,Deterministic Ed25519 pre-trade risk firewall & MCP server for AI trading agents (clearfills.com)
+2026-11-23T01:54:10Z,pathflow-toolkit,0.1.2,Largo-m <Largo-m@users.noreply.github.com>,MIT,185845,The elegant file automation library for Python
+2026-11-23T01:55:50Z,google-trends-compare,0.1.0,,MIT,10722,Compare more than 5 keywords in Google Trends on one shared 0-100 scale. A pytrends alternative without 429 errors.
+2026-11-23T01:55:55Z,hubtree,1.0.0,Dev Kewlani,MIT,310121,"One tree for every Claude Code session you run: parents, children, tasks, budgets and results"
+2026-11-23T01:56:16Z,govcitizenhub-sdk,2026.1123.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",25769,Official Python SDK for Govcitizenhub — thin shell over burdenoff-sdk-libs
+2026-11-23T01:56:25Z,vuer-sim,0.0.1,Ge Yang <ge@fortyfive.ai>,MIT,49332,"Simulation materials for MuJoCo and USD scenes: physics materials, visual-to-physics inference, LiDAR materials, and an editor for vuer."
+2026-11-23T01:57:11Z,cloudsweep,0.1.0,,,26314,"Fast, strictly read-only AWS waste auditor CLI and MCP server."
+2026-11-23T01:59:52Z,netplane-client,0.1.0,,Apache-2.0,14413,Async Python client for the Andaru Netplane HTTP/SSE wire API
+2026-11-23T02:00:11Z,beacontower,2026.11.23.2,Glaze Holding AB,MIT,111981,"Python client for Beacon Tower: assets, models and devices, their timeseries, and the data provider's sources"
+2026-11-23T02:00:51Z,rag-pypi-copy,0.1.0,HD,"MIT License Copyright (c) 2026 HD Permission is hereby granted, free of charge, to any person obtai…",18983,一个可插拔的模块化 RAG 检索工具包（基于 LangChain + Chroma + BM25）
+2026-11-23T02:01:31Z,backtest-configurator,0.3.0,,Apache-2.0,457002,"Backtest Configurator: a versioned, point-in-time spec for rotation strategies, and an engine that runs it on your own files. Results are hypothetical."
+2026-11-23T02:05:22Z,chromalib,0.1.0,Ticataco,MIT,23434,
+2026-11-23T02:05:31Z,agentic-platform-standin,0.1.0,Agentic Platform contributors,Apache-2.0,165951,"A stand-in for the Agentic Platform /open/v1 API, for app development and SDK conformance tests"
+2026-11-23T02:05:53Z,agentic-platform-sdk,0.1.0,Agentic Platform contributors,Apache-2.0,232526,Python SDK for the Agentic Platform Open API (/open/v1)
+2026-11-23T02:06:35Z,datacircle-haystack,0.1.0,,MIT,20157,Haystack tools for the Datacircle API: find the best GTM APIs
+2026-11-23T02:10:19Z,sqlwhy,1.0.1,Anson Huang,MIT,176917,"Find the join or filter that lost or duplicated a row in DuckDB, and compare report outputs by key."
+2026-11-23T02:13:08Z,01-modular-function,0.1.0,,,10525,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-23T02:16:44Z,particula-aiomfac,0.1.4,,GPL-3.0-or-later,1104743,CPU and CUDA AIOMFAC activities for dissolved aerosol mixtures
