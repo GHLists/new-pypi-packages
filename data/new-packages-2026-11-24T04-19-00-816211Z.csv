@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T03:22:19Z,agentdev-lib,1.0,,MIT,7325,Code shared by the scripts of the agentdev plugins: result codes and git helpers.
+2026-11-24T03:23:24Z,mxc-repo-bootstrap,0.1.0,,,16338,Create isolated Python project environments and command launchers.
+2026-11-24T03:25:40Z,frnn-cuda,3.1.1,libFRNN contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",22709017,Standalone CUDA fixed-radius nearest-neighbor library
+2026-11-24T03:25:40Z,sendproof-django,0.1.0a2,Sendproof contributors,MIT,40184,"Sendproof workbench, rollback previews and observed sends for Django, Django REST framework and Django Ninja, with Django ORM capture."
+2026-11-24T03:27:47Z,spyndynamica,0.1.0,Alexej Jerschow,MIT,606506,SpinDynamica in Python (SpynDynamica): symbolic and numerical spin dynamics for NMR
+2026-11-24T03:39:26Z,sleeperclient,0.1.0,Jordan-M-Young,Apache-2.0,17397,Python client library for the Sleeper fantasy football API
+2026-11-24T03:39:39Z,kv-prefix-guard,1.0.0,David Charles Michael <davidchar@gmail.com>,MIT,375553,"Context engineering, prefix-invariant KV-cache partitioning, K-bounded prompt caching breakpoint scheduler, and commit-time artifact distillation for multi-turn AI agents and MCP gateways (86.2% toke…"
+2026-11-24T03:41:14Z,flypi,0.1.0,Kestrel Research contributors,Apache-2.0,41568,Fly ArduPilot and PX4 drones from a Raspberry Pi with a few lines of Python.
+2026-11-24T03:41:28Z,mirage-fuse,0.1.0a4,Zecheng Zhang <zecheng@strukto.ai>,Apache-2.0,2447947,"The FUSE client a machine mounts a Mirage workspace's prefixes with, served by Mirage over fsproto"
+2026-11-24T03:52:42Z,adaptive-os,0.1.0,Swastik Methi,MIT,480596,"Guarded adaptive resource controller: protects one app's responsiveness by re-weighting background work (Linux cgroup v2, or a Docker sandbox)"
+2026-11-24T03:54:15Z,wfp-sdk,0.3.0,wfp-orchestration contributors,Apache-2.0,26627,工作流编排平台嵌入 SDK —— 提交/触发/订阅/取消/取结果 同步客户端
+2026-11-24T03:54:27Z,protomol,0.0.1,Andreas V. Copan,MIT,197476,
+2026-11-24T03:54:37Z,mxc-platform-utils,0.9.0,Maxwell Carlson <carlsonamax@gmail.com>,MIT,119779,"A cross-platform system utilities module supporting Windows, Linux, macOS, WSL2, Termux, with integrated debug utilities"
+2026-11-24T03:54:49Z,gnsspp,0.6.2,LibGNSS++ Contributors,MIT,200890115,"libgnss++: GNSS processing (SPP, RTK, PPP, CLAS, FGO, GNSS/IMU) with the gnss command suite and Python bindings"
+2026-11-24T03:54:50Z,mxc-resource-metrics,0.3.0,Maxwell Carlson <carlsonamax@gmail.com>,MIT,17369,"Small cross-platform CPU, memory, process, I/O, and GPU measurements"
+2026-11-24T03:55:04Z,mxc-script-logging,0.1.1,Maxwell Carlson <carlsonamax@gmail.com>,MIT,61165,Reusable structured history and configurable text logging for scripts modules.
+2026-11-24T03:57:17Z,ordivyr,0.5.0,ELYREON,Apache-2.0,6206260,"Open-source multi-agent Board: durable queue, BYO-key spending budgets, local-LLM/GPU management, plugins (MCP, A2A, n8n, LangGraph, skills)"
+2026-11-24T03:58:10Z,pyfieldbridge,0.1.0,Mohamed Mahmoud <imohamed.abdelhamed@gmail.com>,MIT,68374,Python conversion for industrial and automotive fieldbus frame envelopes
+2026-11-24T03:59:05Z,rmrl-tanglish,0.1.0,KalvettuByte,MIT,24993,Sandhi-aware phonetic Tanglish transliterator specialized for classical literature and the Roja Muthiah Research Library (RMRL) archive.
+2026-11-24T04:02:03Z,earthdots,0.2.0,novye7,MIT,821456,"Ask a language model whether each point on Earth is land or water, and watch the map it draws."
+2026-11-24T04:04:28Z,tokenreel,0.2.0,Sunil Gentyala,Apache-2.0,605439,"Turn plain text and technical content into animated, captioned short videos. Offline-first, secure by default."
+2026-11-24T04:06:28Z,aiquants-chat-fastapi,0.1.0,fehde-k,MIT,50239,"The chat's FastAPI layer: the router of the chat's endpoints, answering through the host's business codes and checks and admitting runs with their jobs on aiquants-jobs-core, with Redis implementatio…"
+2026-11-24T04:07:32Z,vn-value-screener,0.1.0,Nghiauet,MIT,176314,"MCP server: Graham- and Fisher-style screens of Vietnamese listed companies (HOSE, HNX, UPCOM)"
+2026-11-24T04:13:30Z,fathomdb-cli,0.8.31,,MIT,16684226,"FathomDB operator CLI binary (fathomdb doctor, recover, migrate)"
+2026-11-24T04:16:56Z,forever-brain-mcp,0.1.1,NextArk,MIT,29849,"Local-first, encrypted, source-attributed, bi-temporal memory MCP server for Hermes, Claude, Cursor, Codex, and Antigravity."

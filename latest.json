@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-24T02:19:16.166473Z",
-    "path": "data/new-packages-2026-11-24T03-21-34-76052Z.csv",
-    "to": "2026-11-24T03:21:34.76052Z"
+    "count": 25,
+    "from": "2026-11-24T03:21:34.76052Z",
+    "path": "data/new-packages-2026-11-24T04-19-00-816211Z.csv",
+    "to": "2026-11-24T04:19:00.816211Z"
   },
-  "pending": [],
-  "serial": 44086990,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-24T03:31:57Z",
+      "package": "exoproc",
+      "since": "2026-11-24T03:21:34.76052Z",
+      "version": null
+    }
+  ],
+  "serial": 44088583,
   "source_truncated": false,
-  "window": "2026-11-24T03:21:34.76052Z"
+  "window": "2026-11-24T04:19:00.816211Z"
 }
