@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T13:10:02Z,lessormq-django,0.4.10,,Apache-2.0,44955,"A Django tasks backend for LessorMQ, the message queue over HTTP where the server decides and workers only claim, run, ack or fail"
+2026-11-24T13:23:13Z,cimvocabcheck,1.3.0rc1,SOPTIM AG <info@soptim.de>,Apache-2.0,96274,Validate SPARQL queries and SHACL shapes against CIM/CGMES schema profiles.
+2026-11-24T13:24:37Z,saikei,0.1.0,Momo Sophie Eissenhauer,MIT,122198,Project management tool for working with coding agents.
+2026-11-24T13:27:27Z,ax-engine-vllm,0.2.0,,Apache-2.0,91738,AX Engine for vLLM: speculative decoding acceleration on Linux NVIDIA CUDA
+2026-11-24T13:29:56Z,relate-codemem,0.1.0,,MIT,109155,"Long-term project memory for Claude Code on the relate embedded graph database: code index with hashes and revisions, docs, decisions, meetings and sessions, with hybrid search."
+2026-11-24T13:31:26Z,fuzzowl,0.2.1,,MIT,554466,API Security Testing Framework — OWASP API Top 10 test generation and execution
+2026-11-24T13:32:13Z,lucky-ds-utils,0.1.0,Lucky Rangi,MIT,4560,Simple and reusable Data Science utility functions
+2026-11-24T13:32:56Z,cold-email-mcp,0.1.0,,Apache-2.0,59364,"CLI for the Reachfold free outbound tools: email verifier, DNS deliverability audit, spam score, email permutations and an outbound ROI calculator."
+2026-11-24T13:33:40Z,gravitron-sdk,0.1.0,Miles Gray,MIT,65826,Drop-in AgentAPI connection strategy and reactive trigger SDK for Google Antigravity — use your personal Antigravity IDE quota with the official Antigravity Python SDK.
+2026-11-24T13:33:44Z,yushu,1.0.0,Yushu Shi <shiyushu2019@163.com>,MIT,11898,Yushu's PyPI
+2026-11-24T13:34:13Z,lg-soundbar-bluetooth,0.2.0,jeverley,Apache-2.0,73041,Control LG soundbars over Bluetooth
+2026-11-24T13:34:53Z,working-ujson-foziljon,0.0.1,,,3625,Working with file package
+2026-11-24T13:35:46Z,ptui,0.3.0,Tobias Nauen,MIT,262177,A Textual TUI for the papis bibliography manager
+2026-11-24T13:39:28Z,dcc-mcp-roblox-studio,0.1.1,Long Hao <hal.long@outlook.com>,MIT,48206,Roblox Studio adapter for the DCC Model Context Protocol ecosystem
+2026-11-24T13:40:35Z,brana,0.1.0,,,62981,"Brana is toolkit for working with MCNP calculations. I enables input parsing and editing, output parsing as numpy NDarrays and manupulation of meshtally files."
+2026-11-24T13:42:19Z,vwatch,0.2.6,kashaf12,MIT,1790868,"Agent toolkit that watches video like a person (question-first plan, prediction-error attention, dense seek/crop/listen on surprising moments), plus an eval harness against uniform frame sampling."
+2026-11-24T13:42:25Z,ceo-mof,0.2.0,Vitchawong Laohabutr <vitchawong@gmail.com>,MIT,3749308,MOW-ECG R-peak detection with expanding-statistics context features (CEO-MOF experiment)
+2026-11-24T13:42:59Z,vanishly,4.0.0,,GPL-3.0-or-later,23314,"Client for Vanishly: end-to-end encrypted one-time secrets, the whole API and a command line tool"
+2026-11-24T13:43:41Z,ahafrog,0.2.1,Yuqi Hang,AGPL-3.0-or-later,6063287,Self-hosted AI studio: turn learning materials into playable browser mini-games
+2026-11-24T13:44:27Z,lustro-cli,0.1.0,Evgenii Plokhov,Apache-2.0,364632,Command-line client for the Lustro Android debug server (HTTP wire protocol).
+2026-11-24T13:45:52Z,mcp-time-server-cuc,0.1.0,,MIT,6998,A simple MCP server that provides the current time.
+2026-11-24T13:47:06Z,flightlens,1.1.0,Naol Zewdie,MIT,2713830,"Automatic drone flight log analysis: a health verdict, ranked findings and the evidence behind them."
+2026-11-24T13:47:17Z,odoo-api-client,4.0.0,Dinn Odoo <dev@dinnodoo.com>,LicenseRef-Proprietary,67641,Cliente para realizar la integración con los servicios web de Odoo desde Python.
+2026-11-24T13:54:41Z,datev-extf-parser,0.1.0,,MIT,11761,"Zero-dependency Python parser, validator and CLI for German & Austrian DATEV EXTF / Buchungsstapel CSV files (signed Soll/Haben amounts, ISO dates, CSV/Xero/JSON export)."
+2026-11-24T13:55:51Z,swiss-qr-bill-reader,0.1.0,,MIT,10638,"Zero-dependency Python parser, validator and CLI for Swiss QR-bill (QR-Rechnung / SPC 0200) payloads with IBAN Mod-97, QR-IBAN and QRR Mod-10 recursive checksum verification."
+2026-11-24T13:56:10Z,sqlstruct,0.1.0,,,41242,SQLModel for msgspec
+2026-11-24T13:56:21Z,django-wordsearch,0.1.0,Christian Hill,BSD-3-Clause,44990,"Word search puzzles for Django sites: a maker, with shaped grids, difficulties and solutions, and a solver."
+2026-11-24T13:56:55Z,sysnexa,0.1.0,Eden Simamora,MIT,43858,"An advanced Python system monitoring, diagnostics, and performance analysis package."
+2026-11-24T13:57:49Z,acex-driver-fortinet-fortios-cli,0.2.0,Isak Ljunggren,AGPL-3.0,16425,ACE-X Driver: Fortinet FortiOS CLI SSH
+2026-11-24T14:01:11Z,pytmpmail,0.1.0,maxrt,MIT,14630,A single interface for working with temporary email services
+2026-11-24T14:02:02Z,moonglade-provenance,2.7.0,,Apache-2.0 OR MIT,364625,"Moonglade Cryptographic Provenance: RFC 8785 JCS, RFC 9162 Merkle trees, Ed25519, RFC 3161 timestamps, and OpenPGP V4."
+2026-11-24T14:02:43Z,unitbytes,1.0.0,UnitBytes <contact@unitbytes.com>,MIT,200337,"Unofficial unified, zero-dependency, provider-agnostic Python SDK & CLI for UnitBytes web data APIs & scrapers across Google Trends (TrendReq), Jobs, Shopping, Travel, AI Overviews/Mode, News, Maps,…"
+2026-11-24T14:02:55Z,usebrainchain,0.1.0,BrainChain <hello@usebrainchain.com>,MIT,22763,Let a Python agent hire a model on BrainChain and get the work back when it passes grading.
+2026-11-24T14:03:16Z,trlog,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3722055,"TRLOG trace format: reader/writer, query API and the trlog CLI"
+2026-11-24T14:08:18Z,1lookup,0.1.0,1Lookup,MIT,31631,"Official Python client for the 1Lookup API: phone validation, carrier and line type, HLR, caller name (CNAM), reverse phone and email lookup, email verification, IP lookup and DNC scrub."
+2026-11-24T14:08:50Z,hoshiori,0.0.0,,Apache-2.0,2589,星织 Hoshiori 占位包，正式版见 github.com/momo-mnsjtxy/hoshiori
+2026-11-24T14:08:56Z,fmlip-relay,0.1.0,Philipp Pracht,MIT,106632,Persistent ML potential server for Fortran clients
+2026-11-24T14:09:13Z,getfem-rs,0.9.1.post0.dev0,,LGPL-3.0-or-later,23263206,"GetFEM-rs from Python, close to GetFEM's Python interface"
+2026-11-24T14:11:05Z,lectura-lexicon,1.0.0,"""Maxime Carrière (Lectura)"" <admin@lectura.world>",AGPL-3.0-or-later,313095,"French and English lexical functions (validity, frequency, pronunciations, homophones, rhymes, conjugation, search) through the Lectura public API or a local database (no database included)"
+2026-11-24T14:13:34Z,dtool-dserver,0.1.0,Lars Pastewka <lars.pastewka@imtek.uni-freiburg.de>,MIT,53420,dtool storage broker for accessing datasets through dserver
+2026-11-24T14:14:37Z,jobsieve,2.0.0,Firas Lamouchi <firaslamouchi21@gmail.com>,Apache-2.0,183864,"Sifts job listings down to the ones you are eligible for: free, local-first, with optional AI scoring"
+2026-11-24T14:14:39Z,minismt,0.1.0,Your Name <you@example.com>,MIT,19552,"DPLL(T) SMT solver for QF_UF in Python: CDCL, congruence closure, SMT-LIB. Educational, zero deps."
+2026-11-24T14:15:28Z,unified-backtesting-engine,0.4.0,,Apache-2.0,903178,"A unified interface and output across backtesting engines (vectorbt, backtrader, NautilusTrader)."
+2026-11-24T14:16:14Z,catpal,0.1.0,"Chin Tseng, Arran Zeyu Wang, Yunqi Li, Danielle Albers Szafir",MIT AND CC-BY-4.0,294633,"Task-aware categorical palette recommendation for data visualization: color, shape, and redundant (color + shape) palettes ranked by predicted accuracy for your analysis task."
+2026-11-24T14:16:14Z,easyapix,0.1.0,lev,MIT,22468,Lightweight ASGI framework for building MVP backends quickly
+2026-11-24T14:18:09Z,splent-feature-mcp,0.1.0,,LGPL-3.0-or-later,63376,SPLENT feature: the product as a Model Context Protocol (MCP) server for assistants
+2026-11-24T14:18:18Z,ioc-base,0.0.21,KMC3-XPP-Beamline,,153460,Base classes for building python based EPICS IOCs using CAproto
+2026-11-24T14:19:05Z,kute-engine,0.2.0,Kannaka Labs,MIT OR Apache-2.0,1630919,"Kannaka Universal Tokenization Engine: train, exchange and apply vocabularies for text, bytes, structured records and event sequences"
