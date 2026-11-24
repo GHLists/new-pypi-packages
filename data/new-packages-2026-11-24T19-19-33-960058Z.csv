@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T18:23:51Z,sofia-deploy,1.0.0,Sofia <sofia@users.noreply.github.com>,MIT,41539,Sofia — interactive Linux deployer for Angular / React / Vite / Node apps (nginx + SSL + systemd)
+2026-11-24T18:29:24Z,ansys-geometry-mcp,0.1.0,"""Synopsys, Inc. and ANSYS, Inc."" <pyansys-core@synopsys.com>",Apache-2.0,461149,MCP server for PyAnsys Geometry
+2026-11-24T18:29:30Z,seabass-utils,0.0.6,"""Michael A. Maniscalco"" <michael.a.maniscalco@nasa.gov>, James Allen <james.g.allen-1@nasa.gov>, Se…",NASA Goddard Space Flight Center (GSFC) Software distribution policy for Public Domain Software All…,1077059,Collection of tools to work with SeaBASS files.
+2026-11-24T18:32:26Z,pgbackup-r2,0.4.1,Frank Owusu Boakye,MIT,149329,"Encrypted Postgres backups to Cloudflare R2 (or any S3), with restore drills that prove they work."
+2026-11-24T18:37:35Z,nasa-wallpaper,2.0.1,KriZa96,GPL-2.0-only,42615,Set your desktop wallpaper to NASA's Astronomy Picture of the Day
+2026-11-24T18:38:56Z,lamakore,0.0.0,,Apache-2.0,1779,Reserved name for Lamakore - the open-source local-first desktop control plane for AI agents.
+2026-11-24T18:40:30Z,vecto-svg,0.2.0,,MIT,149564,"Turn PNG/JPG images into clean, small SVGs: logos, icons, signatures, cut files, colour art. CLI, Python API and MCP server."
+2026-11-24T18:41:02Z,xlaya-mcp,2.3.1,"ISCV | Isocurve Research Lab (@iscvlab), Napat (Tan) Phasundhiae",MIT,218221,"Local 5-profile semantic triage, AST code-graph sieve & conformal decision MCP server"
+2026-11-24T18:42:56Z,python-esolat,0.1.0,Zubir Jamal,MIT,24620,Asynchronous Python client for Malaysian prayer times (official JAKIM/e-Solat) and worldwide Aladhan calculation
+2026-11-24T18:43:31Z,pge2py,0.1.0,Matteo Cencini,MIT AND GPL-3.0-or-later,12295985,"pulseg and pge2 (Pulseq on GE) for pypulseq sequences, in the browser (Pyodide, JupyterLite) or on the desktop (GNU Octave)"
+2026-11-24T18:46:54Z,vahana,1.0.1,Aditya Sai Teja B,Apache-2.0,5878162,"Exact, bit-reproducible inference and serving for Mixture-of-Experts models too big for your GPU"
+2026-11-24T18:49:23Z,typsteditor,0.3.1,Emmanuel Desmontils,MIT,54714,"Éditeur Typst de bureau : code à gauche, document en direct à droite (PyQt6, typst watch)"
+2026-11-24T18:51:55Z,minman,0.1.0,Sangam Singh <sangam.ai.work@gmail.com>,MIT,68537,MinMan - a tiny local API client.
+2026-11-24T18:52:25Z,lightfall-voice,0.1.0,ALS Controls Team,BSD-3-Clause,127018,Voice notifications plugin for Lightfall via the local Kokoro voice daemon
+2026-11-24T18:52:57Z,otel-profiling,0.1.0,Gabriel Chaves,,17626,Continuous in-process CPU and wall-clock profiler for Python that exports OpenTelemetry (OTLP) profiles
+2026-11-24T18:53:29Z,demo-b11313139,0.1.1,,,2627,My first PyPI package
+2026-11-24T18:55:12Z,fnal-rucio-tools,0.1.0,Dennis Lee,,14418,Tools for fnal rucio deployments
+2026-11-24T18:55:46Z,lekton,0.0.2,Wayne Grigsby,Apache-2.0,91269,"Claim kinds built from one primitive: a thought, and what you add to it."
+2026-11-24T18:57:09Z,remitmatch,0.0.1,Ernesto Pérez Amigo,MIT OR Apache-2.0,979731,"Match bank payments to open invoices (1:1, 1:N, N:1) and explain every match with a per-signal score."
+2026-11-24T19:00:18Z,dxray,1.0.0,FlightCoders <hire@flightcoders.com>,MIT,64406,"An X-ray for your data: one line finds what's wrong with a dataset and what stands out, in plain English. Clean it, report it, or ask Claude about it."
+2026-11-24T19:00:39Z,apx-github,0.1.0,Action Platform <cloud@actionplatform.io>,Apache-2.0,34295,Action Platform plugin for GitHub: organization access and read-only checks of branch protection and repository settings.
+2026-11-24T19:00:46Z,apx-sentry,0.1.0,Action Platform <cloud@actionplatform.io>,Apache-2.0,30491,"Sentry for Action Platform: organization and team access, and read-only tools for a release's new issues and the errors after a deploy."
+2026-11-24T19:00:49Z,apx-jenkins,0.1.0,Action Platform <cloud@actionplatform.io>,Apache-2.0,37777,"Jenkins for Action Platform: access management through Role-based Authorization Strategy, and read-only tools for jobs, builds and the queue."
+2026-11-24T19:02:43Z,cit-course-tools-fa26-cit495-lab01,1.0.0a1,,,19907,String-only CIT 495 course content
+2026-11-24T19:02:44Z,cit-course-tools-fa26-cit495-lab05,1.0.0a1,,,10640,String-only CIT 495 course content
+2026-11-24T19:02:44Z,cit-course-tools-fa26-cit495-lab06,1.0.0a1,,,12432,String-only CIT 495 course content
+2026-11-24T19:02:45Z,cit-course-tools-fa26-cit495-lab07,1.0.0a1,,,14470,String-only CIT 495 course content
+2026-11-24T19:03:46Z,keeper-manifest-mcp-server,1.0.0rc2,Keeper Security Engineering,MIT,62167,"Offline Keeper Manifest MCP server: read and propose only, never apply."
+2026-11-24T19:03:49Z,keeper-manifest,1.0.0rc2,Keeper Security Engineering,MIT,2866902,Declarative validate → plan → apply control plane for Keeper Security tenants
+2026-11-24T19:03:49Z,keeper-manifest-drift-watch,1.0.0rc2,Keeper Security Engineering,MIT,34147,"Drift-detection daemon for Keeper Manifest tenants - polls live state, opens GitHub PRs, posts to Slack/ServiceNow."
+2026-11-24T19:06:12Z,nervus,0.1.0,Johan Bjoerk <johan.bjoerk1@gmail.com>,MIT,17512745,Open-source block-diagram modeling and simulation in Python — a Simulink alternative aimed at ECU control software.
+2026-11-24T19:06:25Z,cosmergon,0.1.0,"""RKO Consult UG (haftungsbeschraenkt)"" <contact@cosmergon.de>",MIT,5417,Cosmergon in one name: installs the terminal dashboard of cosmergon-agent and the command cosmergon
+2026-11-24T19:08:09Z,aws_sdk_mediatailor,0.0.0,,Apache-2.0,2003,Placeholder reserving the aws_sdk_mediatailor name. Not yet functional.
+2026-11-24T19:08:27Z,aws_sdk_serverlessapplicationrepository,0.0.0,,Apache-2.0,2243,Placeholder reserving the aws_sdk_serverlessapplicationrepository name. Not yet functional.
+2026-11-24T19:08:41Z,aws_sdk_dlm,0.0.0,,Apache-2.0,1913,Placeholder reserving the aws_sdk_dlm name. Not yet functional.
+2026-11-24T19:09:00Z,aws_sdk_agent_registry,0.0.0,,Apache-2.0,2035,Placeholder reserving the aws_sdk_agent_registry name. Not yet functional.
+2026-11-24T19:10:41Z,aws_sdk_mediapackage,0.0.0,,Apache-2.0,2006,Placeholder reserving the aws_sdk_mediapackage name. Not yet functional.
+2026-11-24T19:10:54Z,aws_sdk_cloudsearch,0.0.0,,Apache-2.0,2003,Placeholder reserving the aws_sdk_cloudsearch name. Not yet functional.
+2026-11-24T19:11:04Z,aiveth,0.1.0,Gooclaim,Apache-2.0,37651,"Aiveth by Gooclaim for Python: verify tokens and webhooks, and manage your organization's people."
+2026-11-24T19:11:20Z,aws_sdk_rolesanywhere,0.0.0,,Apache-2.0,2022,Placeholder reserving the aws_sdk_rolesanywhere name. Not yet functional.
+2026-11-24T19:11:38Z,aws_sdk_healthlake,0.0.0,,Apache-2.0,1993,Placeholder reserving the aws_sdk_healthlake name. Not yet functional.
+2026-11-24T19:12:19Z,imrobot,0.8.0,Leo Pechnicki <leopsantos@hotmail.com>,MIT,32954,"Reverse-CAPTCHA for AI agents — Python SDK (solver, verifier, FastAPI middleware, LangChain/CrewAI/AutoGPT-friendly)."
+2026-11-24T19:13:41Z,qbw,0.1.0,2xf.org,MIT,11429034,"Typed Python reader for QuickBooks Desktop (.qbw) company files, with Apache Arrow export"
+2026-11-24T19:14:40Z,ibfoamrig,2.0.0,,LGPL-2.1-only,86173,A Python library for managing and post-processing OpenFOAM cases.
+2026-11-24T19:16:50Z,hpcagent-bench,1.0.0,"""SPCL @ ETH Zurich"" <yakupkoray.budanaz@inf.ethz.ch>",GPL-3.0-or-later,13745524,"A benchmark for AI agents that optimize numerical code: NumPy kernels, a judge, and speedup scoring."
+2026-11-24T19:17:02Z,alter-sdk-twilio,0.1.0,Alter Team,MIT,125083,Typed twilio operations through Alter
+2026-11-24T19:17:44Z,dace-alloy,0.1.1,Yakup Budanaz <budanaz.yakup@gmail.com>,GPL-3.0-or-later,4775969,"Speculative per-scope code generation backend for DaCe: sweep, verify, and report rendering candidates."
+2026-11-24T19:18:12Z,epluribus,0.1.0,cldixon,MIT,72318,Sample LLMs many times on a structured question and summarize the answers by type.
+2026-11-24T19:18:32Z,alter-sdk-square,0.1.0,Alter Team,MIT,412460,Typed square operations through Alter

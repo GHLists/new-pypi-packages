@@ -1,20 +1,13 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-11-24T17:21:42.156829Z",
-    "path": "data/new-packages-2026-11-24T18-18-46-368919Z.csv",
-    "to": "2026-11-24T18:18:46.368919Z"
+    "count": 49,
+    "from": "2026-11-24T18:18:46.368919Z",
+    "path": "data/new-packages-2026-11-24T19-19-33-960058Z.csv",
+    "to": "2026-11-24T19:19:33.960058Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-24T14:52:19Z",
-      "package": "ansys-hdf5-composite-cae",
-      "since": "2026-11-24T14:20:06.357162Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-24T17:40:06Z",
       "package": "repertoire-zoo",
       "since": "2026-11-24T17:21:42.156829Z",
@@ -22,34 +15,13 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-24T14:39:42Z",
-      "package": "tuison",
-      "since": "2026-11-24T14:20:06.357162Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-24T14:26:28Z",
-      "package": "unified-trading-execution-binance",
-      "since": "2026-11-24T14:20:06.357162Z",
-      "version": "0.0.1"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-24T14:26:29Z",
-      "package": "unified-trading-execution-bybit",
-      "since": "2026-11-24T14:20:06.357162Z",
-      "version": "0.0.1"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-24T16:16:52Z",
       "package": "zn6-nodeps",
       "since": "2026-11-24T15:20:43.653131Z",
       "version": null
     }
   ],
-  "serial": 44119564,
+  "serial": 44121953,
   "source_truncated": false,
-  "window": "2026-11-24T18:18:46.368919Z"
+  "window": "2026-11-24T19:19:33.960058Z"
 }
