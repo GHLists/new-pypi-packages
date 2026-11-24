@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T17:25:44Z,simpy-ds,0.1.0,Davide Frey <davide.frey@inria.fr>,LGPL-3.0-or-later,28370,Small distributed-systems simulation helpers on top of SimPy.
+2026-11-24T17:27:05Z,llmactiv,0.1.0,,MIT,285677,Tools for inspecting and intervening in transformer MLP activations.
+2026-11-24T17:27:36Z,pytest-allpair,0.1.1,,MIT,644118,Constraint-aware n-way parametrization for pytest
+2026-11-24T17:27:37Z,canphone-daily-fortune,0.1.0,,MIT,16144,CanPhone 官方 MCP：每日运势、星座运势、塔罗抽牌、每日一签（全部本地生成，无外部数据）
+2026-11-24T17:28:26Z,seamm-optimizer,2026.11.24,Paul Saxe <psaxe@molssi.org>,BSD-3-Clause,46306,"Robust geometry optimization for SEAMM: model and cheap-level Hessians, Delta-surrogates, minimum checks"
+2026-11-24T17:28:36Z,cardtrack,1.0.0,CardTrack,MIT,8088,"Pokémon card price API client: English and Japanese cards, raw and graded, from CardTrack."
+2026-11-24T17:31:36Z,sovereigngate-guardrail,0.1.0,,Apache-2.0,163257,Configurable data-minimization and technical safeguard controls (supporting GDPR Art. 5(1)(c) & Art. 32) for LiteLLM.
+2026-11-24T17:33:10Z,openff-packmol,0.1.post1,Open Force Field Initiative <info@openforcefield.org>,MIT,127681,A Packmol wrapper using OpenFF objects
+2026-11-24T17:35:02Z,sa17,0.1.0,2xf.org,MIT,6364720,"Typed Python reader for SQL Anywhere 17 database files, with Apache Arrow export"
+2026-11-24T17:36:16Z,wsc-sandbox-fuschiashepherd-downloader,1.0.0,,MIT,5603,Client helper for the WSC sandbox store's price data
+2026-11-24T17:36:25Z,model-arena-sdk,0.1,Jacobo León,MIT,305993,"Explicit forecasting competition, fitted models and observable learning histories"
+2026-11-24T17:38:09Z,robotstudio,0.1.0,Isaac Kleimmann Graper,MIT,602327,Visual authoring and execution environment for Robot Framework suites
+2026-11-24T17:41:54Z,certoutage,0.1.0,Victor Rabiet,BSD-3-Clause AND MIT AND CC-BY-4.0,54390892,Certified outage enclosures for the thermal RIS-NOMA model
+2026-11-24T17:44:19Z,clearpostcode,1.0.0,ClearPostcode <hello@clearpostcode.co.uk>,MIT,36135,"UK postcode data API client: postcode lookup, validation, autocomplete, nearest, reverse geocoding, distance, council, ward and constituency. Standard library only."
+2026-11-24T17:45:55Z,django-mvp-layout,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,42928,"Page layouts arranged by a nine-letter layout code, with sidebars that open, close, collapse and nest"
+2026-11-24T17:46:21Z,velr-import,0.1.0,,MIT AND LicenseRef-Velr-Runtime-Binary-Redistribution-License,13422558,Standalone offline CSV importer for Velr databases
+2026-11-24T17:46:23Z,velr-gds,0.2.65,,MIT AND LicenseRef-Velr-Runtime-Binary-Redistribution-License,4307757,Optional native graph analytics extension for the embedded Velr database
+2026-11-24T17:46:46Z,libvirtpy,0.1.0,SupremeCommanderTwo,LGPL-2.1-or-later,787112,"Pure-Python libvirt: typed XML models, wire protocol and sync/async client"
+2026-11-24T17:48:18Z,work-packet,0.1.0,Matthew Ballance,Apache-2.0,9846340,Agents as processes: resumable LLM work packets with durable state on disk
+2026-11-24T17:48:57Z,zemin,0.1.0,Aslan Satary Dizaji <aslansatary@gmail.com>,Apache-2.0,78576,"Offline-first urban land subsidence, aquifer resilience, and infrastructure risk auditor for Sentinel-1 InSAR, piezometer, and GIS data."
+2026-11-24T17:50:28Z,algovoi-agent-guard,0.1.0,,Apache-2.0,107484,The budget your agent can't raise: human-signed spend mandates with offline-verifiable receipts
+2026-11-24T17:50:52Z,uhi-desktop,1.2.0,Krishna Dutt Panchagnula,MIT,63667,Standalone desktop app that maps urban heat islands from Landsat 10/11
+2026-11-24T17:52:12Z,django-admin-management-fdg,1.0.1,Founder Design Group,MIT,212011,Reusable custom management pages and buttons for Django Admin
+2026-11-24T17:54:52Z,kernel-extraction,0.1.0,,,3910667,Extract generalized Langevin memory kernels from time correlation functions using Volterra equations.
+2026-11-24T17:55:15Z,firstchair,0.1.0a3,,MIT,218205,"Local-first CLI that makes Codex, Claude Code and Grok review each other's work"
+2026-11-24T17:56:05Z,filen-sdk-native,0.1.0b2,grosserknallkopf,AGPL-3.0-only,25409554,"Python bindings for the official Filen Rust SDK, used by the ha-filen Home Assistant integration"
+2026-11-24T18:01:23Z,gathernce,0.1.0,Enrico Shippole,,2188,Add your description here
+2026-11-24T18:04:27Z,wilga,0.2.0,,Apache-2.0,24091122,"Small Polish and English text-to-speech: 24 kHz, CPU, ONNX, no eSpeak"
+2026-11-24T18:05:23Z,stripe-payout-xero-qbo-splitter,0.1.0,Stijn Dom,MIT,11056,"StripePayoutBridge: Zero-Install Stripe & PayPal Payout CSV to Xero, QuickBooks & DATEV Clearing Journal Splitter"
+2026-11-24T18:05:25Z,notion-clean-md-exporter,0.1.0,Stijn Dom,MIT,9095,NotionGitExport
+2026-11-24T18:05:26Z,claude-profile-switch,0.1.0,Stijn Dom,MIT,12034,"ClaudeProfileSwitch: Multi-Account, MCP Profile & Quota Guard for Claude Code"
+2026-11-24T18:05:27Z,woo-shopify-metafield-migrator,0.1.0,Stijn Dom,MIT,17115,"ShopMetaShift: 100% Local WooCommerce-to-Shopify Variant Metafield, >3-Option Overflow & 301 Redirect CSV Compiler"
+2026-11-24T18:10:08Z,mg-math-mcp,1.0.1,Marc Ottley & Anya Everyday • Moonglade AI <moongladeai@gmail.com>,MIT,68620,"Moonglade Deterministic Math MCP Server with Hierarchical Priority Cascading, Pluggable Domain Extensions, and Cryptographic MathProof Receipts."
+2026-11-24T18:10:10Z,wadtf,1.0.0.post1,Butterroach,Apache-2.0,28660,"Easy-to-use library to safely read, create, modify, and write WAD files"
+2026-11-24T18:11:34Z,panflow,0.0.0,Wiktor Tomczak <wiktor.tomczak@gmail.com>,,1986,Coming soon
+2026-11-24T18:18:22Z,indic-shift,0.0.1,Chariot Artificial Intelligence Private Limited,Apache-2.0,1639,"Indic Shift tokenizer (placeholder, not yet released)"
