@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T02:21:02Z,InvDesTool,0.1.0a12,InvDesToolTeam,MIT AND CC-BY-4.0,248142,InvDesTool for inverse materials design with crystal structure prediction and de novo generation
+2026-11-24T02:23:07Z,foreign-media,0.0.1,,MIT,3918,国外媒体资源相关工具集
+2026-11-24T02:25:32Z,introspection-atif,0.1.0,,Apache-2.0,55749,"GenAI spans to a Harbor ATIF trajectory, and an ATIF trajectory to the AG-UI messages that open a run"
+2026-11-24T02:33:41Z,mcp-aws-finops,0.2.0,Thomas Silva Cordeiro,MIT,121273,Read-only MCP server that answers AWS cost (FinOps) questions for AI agents
+2026-11-24T02:33:45Z,maxy-labs,1.1.1,Maxy Labs,MIT,44138,"Python client for the Maxy API: quotes, orders, status, webhooks and statements for native Bitcoin swaps."
+2026-11-24T02:42:34Z,halpii-taxid,0.1.0,"""HALPII S.A.C."" <contacto@halpii.com>",MIT,32817,"Client for the HALPII Tax ID API: check business tax IDs (Peru RUC, Mexico RFC, Colombia NIT, EU VAT and more) and get a pass, review or fail verdict."
+2026-11-24T02:45:52Z,cytorecorder,0.1.0,Dave Bunten,,103292,Local companion CLI for CytoRecorder: confirms a folder of whole microscopy images exists (recursively) and opens the hosted CytoRecorder app so a human can complete the whole-image QC review and exp…
+2026-11-24T02:47:05Z,catastro-espana,1.0.0,"""RefCatastral.es"" <info@refcatastral.es>",MIT,19528,Librería oficial de RefCatastral.es para consultar Catastro (DGC) y parcelas agrícolas SIGPAC (FEGA) en España.
+2026-11-24T02:47:12Z,independent-okta-mcp,0.1.0,,LicenseRef-Commons-Clause-Apache-2.0,1596747,"Independent, read-only MCP server for the Okta Management API with group-based tool policy. Not affiliated with or endorsed by Okta."
+2026-11-24T02:50:45Z,ollama-datacircle,0.1.0,,MIT,21973,Ollama tools for the Datacircle API: find the best GTM APIs
+2026-11-24T02:54:32Z,context-ledger,0.1.0,Cole Wilson,MIT,330051,Explain why a coding-agent session cost what it did: per-item lifetime cost attribution and waste diagnosis for omp and Claude Code logs.
+2026-11-24T02:57:04Z,econ-pdf-extract,0.1.0,Cory Baird <corybaird@users.noreply.github.com>,MIT,160990,"Extract sections, formulas, and claims from economics paper PDFs"
+2026-11-24T02:57:07Z,reproducible-econ,0.1.0,Cory Baird <cory.d.baird@gmail.com>,MIT,243221,Lightweight stage caching and run manifests for reproducible economic research
+2026-11-24T02:57:55Z,resultant-mcp,1.2.0,Resultant,Apache-2.0,172930,"Resultant for the coding agent you already use: governed project context, decisions and pre-PR validation over MCP."
+2026-11-24T02:58:05Z,shout-to-unlock,0.1.0,Anmol Kathail,,1277437,a lock that opens when u scream at it. loud enough. long enough. xoxo
+2026-11-24T02:59:02Z,aiogram-sentinel-native,1.3.2,,MIT,2104093,Optional ABI1 memory kernels for aiogram-sentinel
+2026-11-24T03:00:41Z,relayshield-firewall,0.3.0,RelayShield <relayshieldadmin@gmail.com>,MIT,14034909,"MCP Proxy Firewall for RelayShield — bidirectional inspection, screening, and policy enforcement for MCP tool calls, with scam-check verdicts, intent binding, and an audit trail."
+2026-11-24T03:01:27Z,pretix-ordersummary,0.1.0,et15 <37038563+et15@users.noreply.github.com>,Apache-2.0,42881,"Order list showing the attendees of each order, with payment method and selected question answers"
+2026-11-24T03:04:04Z,ruptor,0.2.3,,"Ruptor client licence Copyright (c) 2026 Ruptor, Inc. All rights reserved. Anyone may download and…",424581,The command-line client of Ruptor: test firmware on a software model of your own microcontroller
+2026-11-24T03:06:12Z,ldm-limix,2.0.0,"Stable AI Technology Co., Ltd.",LicenseRef-StableAI-LimiX-1.0,534084,LimiX tabular foundation model inference
+2026-11-24T03:08:25Z,aiogram-cmds-native,0.3.2,,MIT,2717926,Optional resolved-profile CPU core for aiogram-cmds
+2026-11-24T03:08:26Z,Pyetacore,0.4.1,Equinox,MIT,164552,"A zero-dependency Python toolkit of 26 from-scratch language building blocks: sentinels, defer, symbols, structs, signals, units, dispatch, interfaces, data structures, persistent collections, templa…"
+2026-11-24T03:10:45Z,loglenz,0.1.0,Syed Abdul Ali Shah <syedabdulalishah.786@gmail.com>,MIT,62549,"A terminal log parser that turns messy log files into clean, filterable, exportable tables."
+2026-11-24T03:13:23Z,aiogram-nav-native,0.3.2,Arman Avanesyan,MIT,3309549,Optional deterministic Rust core for aiogram-nav
+2026-11-24T03:15:16Z,das3py,3.0.6rc1,C Piker,MIT,37562553,An efficient space physics data client for python
+2026-11-24T03:16:35Z,rsbt,0.1.1,,,25751,"Really Simple Build Tool - a small library of CI/CD build, test and release helpers"
+2026-11-24T03:17:08Z,budgetrouter,0.2.0,Sen Yang,MIT,84806,"Lightweight multi-model routing for LLM and agent applications: pick the right model for each request, fall back when a provider fails, and stop the run when the budget runs out."
+2026-11-24T03:17:58Z,xiaohe-geo-collector,0.1.3,,,367312,Python Android capture CLI with verified reusable Agent repairs
+2026-11-24T03:18:50Z,aiogram-idle-native,0.3.2,Arman Avanesyan,MIT,3101158,Optional deterministic Rust core for aiogram-idle
