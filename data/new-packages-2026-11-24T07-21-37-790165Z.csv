@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T06:21:25Z,universal-paper,0.1.0,Uppercentile,Apache-2.0,153162,"Reference interpreter for Universal Paper, a first-order language for GPO agreements"
+2026-11-24T06:21:27Z,astsight-java-agent,0.1.0.dev0,,,2380344,AstSight Java agent jar (outbound HTTP URL rewrite)
+2026-11-24T06:21:29Z,astsight-dubbo-sidecar,0.1.0.dev0,,,17667142,AstSight Dubbo sidecar jar (generic invoke client)
+2026-11-24T06:21:45Z,universal-paper-mcp,0.1.0,Uppercentile,Apache-2.0,14531,"The official Universal Paper MCP server: read-only tools to validate, simulate and render GPO agreements"
+2026-11-24T06:24:42Z,superfloat,0.16.0,,"# Superfloat SDK License Agreement Copyright (c) 2026 Superfloat Private Limited (superfloat.si) (""…",415958,"sf: the Python library for Superfloat numbers (sf4 to sf16 fixed point) on the Atreides chip: arrays, PyTorch integration and GPU-style kernels."
+2026-11-24T06:25:39Z,pyapollo-config-client,0.2.0,Apollo Python Client contributors,Apache-2.0,367400,"Apollo (Ctrip) config client with properties/YAML/JSON, long polling, async support and service discovery"
+2026-11-24T06:31:48Z,craft-tokamak,0.1.0,"JangWoo Choi, Jaemin Seo",,3677684,CRAFT: Control with Reinforcement learning And Feedback for Tokamaks (TORAX-based)
+2026-11-24T06:32:01Z,pistil-dsp,0.4.0,,MIT,2176536,"Python-shaped audio programs for the Daisy Seed, the desktop, and audio plugins"
+2026-11-24T06:36:52Z,tessary,0.1.0a1,Tessary Software Private Limited,Apache-2.0,452631,Send agent traces to Tessary over OpenTelemetry
+2026-11-24T06:40:43Z,nonodb-client,0.32.0,NonoDB contributors,MIT,38259,Thin Python client for NonoDB over Unix sockets or TCP/TLS
+2026-11-24T06:41:43Z,pygtide-gravfactors,0.1.0,pygtide-gravfactors contributors,MIT,28841,Gravimetric factors and phase lags of 16 tidal constituents (elastic and inelastic Earth) for PyGTide wave groups
+2026-11-24T06:41:48Z,worked-connect,0.0.0,Worked <hello@worked.dev>,,2160,Placeholder for Worked Connect. Nothing here yet.
+2026-11-24T06:43:38Z,matisse-tokenizer,0.1.0,Nicklas Nidhögg,MIT AND BSD-3-Clause AND Unicode-3.0,6368444,"A tiktoken-compatible tokenizer that encodes in parallel and as a stream, with ids identical to tiktoken's, for GPT-2, cl100k, o200k and Llama 3"
+2026-11-24T06:48:55Z,shorts-safezone,0.1.1,CokeRoach,MIT,94970,"See what YouTube Shorts, TikTok and Instagram Reels cover on a 9:16 video, with zones measured from each platform's own templates."
+2026-11-24T06:49:34Z,skport-py,0.1.0,sora <sahikast6@gmail.com>,GPL-3.0-only,219343,Async SKPORT API with public profile inspection and reusable account credentials.
+2026-11-24T06:50:30Z,chile-datainnovacion-sdk,1.0.0,Eli-ezer Reuven Ramirez Ruiz,MIT,30268,Unofficial typed Python SDK for Chile's Data Innovacion REST API
+2026-11-24T06:54:42Z,mailmaster,0.1.0,AndersonBY <andersonby@163.com>,"MIT License Copyright (c) 2026 AndersonBY Permission is hereby granted, free of charge, to any pers…",344634,"Read, search, send, draft, and manage NetEase MailMaster emails on Windows — usable as a Python library, CLI tool, and AI Agent skill."
+2026-11-24T06:57:51Z,kaizen-kit,0.0.0,,MIT,1609,Name reserved for an upcoming agent accelerator. Not usable yet.
+2026-11-24T06:57:54Z,fontpkg-gilda-display,1.2,,OFL-1.1,43348,"Gilda Display font family, packaged for Python by fontpkg"
+2026-11-24T06:57:56Z,fontpkg-libre-barcode-39,1.5,,OFL-1.1,11231,"Libre Barcode 39 font family, packaged for Python by fontpkg"
+2026-11-24T06:57:57Z,fontpkg-mitr,1.1,,OFL-1.1,498203,"Mitr font family, packaged for Python by fontpkg"
+2026-11-24T06:57:59Z,fontpkg-quattrocento-sans,2.0,,OFL-1.1,173033,"Quattrocento Sans font family, packaged for Python by fontpkg"
+2026-11-24T07:02:46Z,aziztest,0.2.2,"""Aziz M. Mezlini"" <azizmezlini@gmail.com>",GPL-3.0-or-later,30085,Novel Statistical Test for Aberration Enrichment (Heterogeneous Effects)
+2026-11-24T07:04:48Z,rne-py,0.4.0,Robot Native Engine contributors,MIT OR Apache-2.0,15991918,Python bindings for Robot Native Engine
+2026-11-24T07:05:13Z,mokuji,0.1.0,Re:Earth and contributors,MIT OR Apache-2.0,85616,"Read Mokuji files — a cloud-optimized search index — a range at a time, from a path or over HTTP"
+2026-11-24T07:05:44Z,reglow-agent-client,0.1.1,reglow,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",44253,Reglow Agent 四语言薄 SDK（Python）：DTO + HTTP 客户端 + 错误映射
+2026-11-24T07:11:44Z,YEScape-Grad,1.0.0,,Apache-2.0,143497,Molecular density-corrected DFT energies and analytic gradients with PySCF
+2026-11-24T07:13:52Z,jarrah-ads-mcp,0.1.5,,,54708,MCP server for Google Ads and Microsoft Advertising (Bing Ads)
+2026-11-24T07:16:36Z,lookonce,1.0.0,,AGPL-3.0-or-later,164998,"사전학습 YOLO 모델로 객체를 탐지하고, 내 데이터로 미세조정하는 파이썬 패키지와 웹 UI"
+2026-11-24T07:18:46Z,vivechak,0.1.0rc1,Bhaskar Jha <me@bhaskarjha.dev>,MIT,12183,Evidence-grounded research for technical decisions — MCP server
+2026-11-24T07:18:47Z,vck,0.1.0rc1,Bhaskar Jha <me@bhaskarjha.dev>,MIT,5350,Shorthand CLI for Vivechak — evidence-grounded research MCP server
+2026-11-24T07:20:09Z,graphscribe,0.0.1,,Apache-2.0,55506,"A line chart that explains itself and teaches you to read it. Own renderer, NumPy only."
+2026-11-24T07:20:19Z,kymo-logger,0.1.0,Kelvin,Apache-2.0,70161,Non-blocking Python logging SDK for the Kymo ML experiment tracker
