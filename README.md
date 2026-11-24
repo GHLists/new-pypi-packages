@@ -8,40 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 01:20 UTC
+## Latest list — 2026-11-24 02:19 UTC
 
-New packages created between 2026-11-24 00:21 UTC and 2026-11-24 01:20 UTC.
+New packages created between 2026-11-24 01:20 UTC and 2026-11-24 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-24T01-20-06-587107Z.csv)
+[Full CSV](data/new-packages-2026-11-24T02-19-16-166473Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-24 00:23:49 | [did-it-search](https://pypi.org/project/did-it-search/) | 0.4.0 |  | 90.7 kB | Explain repository search failures and check for regressions in the answers sea… |
-| 2026-11-24 00:24:33 | [mxs-audio](https://pypi.org/project/mxs-audio/) | 0.6.8 |  | 44.4 MB | A sound engine with synths fitted to recordings of real instruments |
-| 2026-11-24 00:25:45 | [clipper-gg](https://pypi.org/project/clipper-gg/) | 0.3.5 | hatermedia | 1.4 MB | Automatic gaming highlight trimmer: audio + motion detection, lossless FFmpeg c… |
-| 2026-11-24 00:26:52 | [northkoreahub-mcp](https://pypi.org/project/northkoreahub-mcp/) | 1.0.0 | North Korea Hub <hello@northk… | 15.1 kB | MCP server for North Korea Hub: live, dual-source-verified DPRK tourist-access… |
-| 2026-11-24 00:28:20 | [langchain-equibles](https://pypi.org/project/langchain-equibles/) | 0.1.0 | Equibles <social@equibles.com> | 22.8 kB | LangChain tools for Equibles: SEC filings, earnings call transcripts, financial… |
-| 2026-11-24 00:28:22 | [strands-equibles](https://pypi.org/project/strands-equibles/) | 0.1.0 | Equibles <social@equibles.com> | 22.1 kB | Strands Agents tools for Equibles: SEC filings, earnings call transcripts, fina… |
-| 2026-11-24 00:31:52 | [langchain-findcheap](https://pypi.org/project/langchain-findcheap/) | 0.1.0 | Findcheap <support@findcheap.… | 31.0 kB | LangChain tools for Findcheap, which finds where a product is sold for less: th… |
-| 2026-11-24 00:36:19 | [tenthlook-core](https://pypi.org/project/tenthlook-core/) | 0.1.0 |  | 32.9 kB | Signed, hash-chained receipts (Ed25519 + SHA-256 + SQLite) shared by Panel and… |
-| 2026-11-24 00:36:42 | [panel-firewall](https://pypi.org/project/panel-firewall/) | 0.1.0 |  | 388.5 kB | Panel checks what an AI agent says and what it does: an action firewall (MCP pr… |
-| 2026-11-24 00:36:53 | [calibrex](https://pypi.org/project/calibrex/) | 0.6.5 | Calibrex Contributors | 4.1 MB | Simultaneous localization and calibration evidence framework for robotics |
-| 2026-11-24 00:38:05 | [tockward](https://pypi.org/project/tockward/) | 0.1.0 | Tockward <support@tockward.co… | 8.8 kB | Heartbeat client for Tockward: know when your cron jobs, scripts and devices go… |
-| 2026-11-24 00:39:20 | [baleia-openmetadata](https://pypi.org/project/baleia-openmetadata/) | 0.1.0 | Baleia contributors | 59.1 kB | OpenMetadata ingestion connector that discovers Baleia's semantic catalog |
-| 2026-11-24 00:45:56 | [wsign](https://pypi.org/project/wsign/) | 0.0.1 | wsign <support@wsign.io> | 2.1 kB | Official wsign e-signature SDK for Python. The full release is coming soon. |
-| 2026-11-24 00:47:26 | [platypus-server](https://pypi.org/project/platypus-server/) | 0.2.1 | aebayav | 179.7 kB | Interactive TUI and web dashboard for Linux server setup and monitoring |
-| 2026-11-24 00:54:21 | [writing-editor-mcp](https://pypi.org/project/writing-editor-mcp/) | 0.2.5 | subedikushal | 31.9 kB | A local MCP editor for evidence-based research and technical prose |
-| 2026-11-24 00:56:02 | [pangolin-agent](https://pypi.org/project/pangolin-agent/) | 0.1.2b1 |  | 134.1 kB | A lightweight, modular, interface based AI Agentic library. |
-| 2026-11-24 00:59:01 | [envodat](https://pypi.org/project/envodat/) | 0.1.0 | Linus Nwankwo | 44.2 kB | Toolkit for EnvoDat: download, load, train on and evaluate a multisensory robot… |
-| 2026-11-24 00:59:09 | [ga4gh-sdk](https://pypi.org/project/ga4gh-sdk/) | 0.1.0 |  | 20.4 MB | Python bindings for GA4GH API service clients |
-| 2026-11-24 01:08:22 | [mundosms-sdk](https://pypi.org/project/mundosms-sdk/) | 1.0.0 | MundoSMS | 20.4 kB | Cliente de la API REST v3 de MundoSMS: SMS, WhatsApp, centralita, VozPush y Num… |
-| 2026-11-24 01:08:41 | [comploss](https://pypi.org/project/comploss/) | 0.1.0 | Minh Sao Khue Luu | 76.3 kB | Component-aware loss functions and object-level metrics for segmenting small an… |
-| 2026-11-24 01:09:48 | [hepyy-glauber-cpp](https://pypi.org/project/hepyy-glauber-cpp/) | 0.1.0 |  | 134.7 kB | Standalone Monte Carlo Glauber CLI for Pb–Pb collision geometry |
-| 2026-11-24 01:10:20 | [stampcheck](https://pypi.org/project/stampcheck/) | 0.1.0 | Noah Berry | 76.9 kB | Check whether your human approval step still filters anything, or has become a… |
-| 2026-11-24 01:12:01 | [recvd](https://pypi.org/project/recvd/) | 0.1.0 |  | 20.8 kB | The Recvd API for Python: products, sales, subscriptions, usage and credits, si… |
-| 2026-11-24 01:12:04 | [zeadeck](https://pypi.org/project/zeadeck/) | 0.0.1 | Stazea | 4.4 kB | zeadeck: the control deck for every machine. Remote screens, terminals and AI a… |
-| 2026-11-24 01:18:57 | [datadouble](https://pypi.org/project/datadouble/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
-| 2026-11-24 01:19:00 | [datadouble-postgres](https://pypi.org/project/datadouble-postgres/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
-| 2026-11-24 01:19:02 | [datadouble-mysql](https://pypi.org/project/datadouble-mysql/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
-| 2026-11-24 01:19:05 | [datadouble-mssql](https://pypi.org/project/datadouble-mssql/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
-| 2026-11-24 01:19:35 | [incur-cli](https://pypi.org/project/incur-cli/) | 0.10.0 |  | 281.6 kB | Build CLIs for agents and humans: TOON output, LLM manifests, skills, and shell… |
+| 2026-11-23 23:20:59 | [yup-audio](https://pypi.org/project/yup-audio/) | 2.0.1 | kunitoki | 145.0 MB | yup-audio: Python integration for YUP with pybind11. |
+| 2026-11-24 01:22:59 | [personal-mcp-for-garmin](https://pypi.org/project/personal-mcp-for-garmin/) | 0.4.0 |  | 111.4 kB | Unofficial, read-only MCP server for your own Garmin Connect data via Garmin's… |
+| 2026-11-24 01:23:01 | [agent-roster](https://pypi.org/project/agent-roster/) | 0.1.0 |  | 25.3 kB | The single source of truth for supported coding agents, their launch plans, and… |
+| 2026-11-24 01:25:23 | [mcp-service-demo](https://pypi.org/project/mcp-service-demo/) | 0.2.0 |  | 3.7 kB | main:main |
+| 2026-11-24 01:30:05 | [arcgispro-mcp](https://pypi.org/project/arcgispro-mcp/) | 0.1.0 | arcgispro-mcp | 48.8 kB | MCP server for operating the local ArcGIS Pro: layers, symbology, spatial analy… |
+| 2026-11-24 01:36:08 | [trucehq](https://pypi.org/project/trucehq/) | 0.1.0 | Truce <frank@trucehq.com> | 7.9 kB | Truce for AI agents: a neutral mediator your agent can call to settle disputes… |
+| 2026-11-24 01:36:18 | [enodix](https://pypi.org/project/enodix/) | 0.7.1 |  | 42.9 kB | The enodix workspace as a Nornir inventory, with credentials from its profiles |
+| 2026-11-24 01:39:21 | [ggnomad-sdk](https://pypi.org/project/ggnomad-sdk/) | 2026.1124.1 | "Vignesh T.V" <vignesh@algosh… | 26.0 kB | Official Python SDK for Ggnomad — thin shell over burdenoff-sdk-libs |
+| 2026-11-24 01:42:11 | [async-gepa](https://pypi.org/project/async-gepa/) | 0.1.0a1 | Daniel Göttlich | 893.9 kB | An experimental GEPA fork with continuous asynchronous rollouts. |
+| 2026-11-24 01:42:31 | [swarm-sim-tools](https://pypi.org/project/swarm-sim-tools/) | 1.1.3 |  | 370.1 kB | Readers, paired statistics and the campaign driver for ns-3 routing-harness mar… |
+| 2026-11-24 01:49:13 | [region-geo](https://pypi.org/project/region-geo/) | 2026.11.1 | ucgmsim | 18.1 MB | Coastline geometry for a region (New Zealand by default) |
+| 2026-11-24 01:49:37 | [ge150-linux](https://pypi.org/project/ge150-linux/) | 0.3.0 | wh01s17 | 1.2 MB | Linux editor and CLI for the Mooer GE150 multi-effects pedal |
+| 2026-11-24 01:49:56 | [pygpkit](https://pypi.org/project/pygpkit/) | 0.1.0 |  | 49.4 MB | GPKit from Python: OMM and TLE reading, TLE writing, SGP4 and passes, the numbe… |
+| 2026-11-24 01:53:56 | [eventfullymanaged-sdk](https://pypi.org/project/eventfullymanaged-sdk/) | 2026.1124.1 | "Vignesh T.V" <vignesh@algosh… | 30.6 kB | Official Python SDK for Eventfullymanaged — thin shell over burdenoff-sdk-libs |
+| 2026-11-24 01:54:24 | [sra-riskgate-cloud](https://pypi.org/project/sra-riskgate-cloud/) | 0.1.0 | Sriram Ramakrishnan | 46.5 kB | SRA-RiskGate Cloud: shared spend budgets, a threat feed and a signed receipt va… |
+| 2026-11-24 01:55:35 | [timecampus-sdk](https://pypi.org/project/timecampus-sdk/) | 2026.1124.1 | "Vignesh T.V" <vignesh@algosh… | 23.3 kB | Official Python SDK for Timecampus — thin shell over burdenoff-sdk-libs |
+| 2026-11-24 01:58:05 | [image-proof-gallery](https://pypi.org/project/image-proof-gallery/) | 0.1.0 | js-upup | 6.4 kB | Create a self-contained offline HTML proof sheet from local image files. |
+| 2026-11-24 01:59:25 | [torch-population](https://pypi.org/project/torch-population/) | 0.0.2 | Phil Wang <lucidrains@gmail.c… | 64.6 kB | Minimal PyTorch wrapper for turning a single network into an ensemble or popula… |
+| 2026-11-24 02:02:24 | [whopperWednesday](https://pypi.org/project/whopperWednesday/) | 0.2.0 |  | 3.9 kB | Returns True if it is Whopper Wednesday (US, UK, Canada), else False. |
+| 2026-11-24 02:03:16 | [agent-first-browse](https://pypi.org/project/agent-first-browse/) | 0.1.0 | SandeepAi369 | 1.0 MB | Fast, token-efficient AI browser agent that sees, clicks, types, and completes… |
+| 2026-11-24 02:05:08 | [voidgate](https://pypi.org/project/voidgate/) | 0.3.1 |  | 1.4 MB | Blocks prompt injection and masks personal data before it reaches an AI model.… |
+| 2026-11-24 02:10:52 | [totum-verify](https://pypi.org/project/totum-verify/) | 0.2.1 | Totum Run LLC <security@totum… | 40.0 kB | Hermetic public-chain and Ed25519 receipt verifier for the Totum audit ledger. |
+| 2026-11-24 02:11:36 | [aibirthday-haystack](https://pypi.org/project/aibirthday-haystack/) | 0.1.0 | AI Birthday Video Generator <… | 7.9 kB | AI birthday video generator from a single photo: they pop champagne on a park b… |
+| 2026-11-24 02:11:54 | [apkfast](https://pypi.org/project/apkfast/) | 2.7.1 | apkfast contributors | 2.3 MB | Build signed Android APKs without Gradle, with first-class NativeActivity suppo… |
+| 2026-11-24 02:16:00 | [ema-scheduler-redcap](https://pypi.org/project/ema-scheduler-redcap/) | 2026.11.23 | Nate Vack, Stuti Shrivastava | 21.9 kB | An EMA scheduler meant to setup scheduler for REDCap integration |
+| 2026-11-24 02:17:49 | [wpchecker](https://pypi.org/project/wpchecker/) | 0.2.2 | Superstar Telecom LLC | 69.7 kB | Free external WordPress plugin/theme vulnerability scanner — passive fingerprin… |
+| 2026-11-24 02:17:51 | [subdomainchecker](https://pypi.org/project/subdomainchecker/) | 0.2.2 | Superstar Telecom LLC | 60.5 kB | Subdomain takeover checker — finds dangling CNAMEs pointing at unclaimed servic… |
+| 2026-11-24 02:17:53 | [weblogchecker](https://pypi.org/project/weblogchecker/) | 0.2.2 | Superstar Telecom LLC | 57.3 kB | Free access-log compromise analyzer: reads Apache/nginx logs you own and report… |

@@ -1,27 +1,12 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-24T00:21:11.544928Z",
-    "path": "data/new-packages-2026-11-24T01-20-06-587107Z.csv",
-    "to": "2026-11-24T01:20:06.587107Z"
+    "count": 28,
+    "from": "2026-11-24T01:20:06.587107Z",
+    "path": "data/new-packages-2026-11-24T02-19-16-166473Z.csv",
+    "to": "2026-11-24T02:19:16.166473Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-23T21:41:58Z",
-      "package": "cccRISE",
-      "since": "2026-11-23T21:21:16.72887Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-11-23T23:20:59Z",
-      "package": "yup-audio",
-      "since": "2026-11-23T23:18:32.486551Z",
-      "version": null
-    }
-  ],
-  "serial": 44083911,
+  "pending": [],
+  "serial": 44085470,
   "source_truncated": false,
-  "window": "2026-11-24T01:20:06.587107Z"
+  "window": "2026-11-24T02:19:16.166473Z"
 }
