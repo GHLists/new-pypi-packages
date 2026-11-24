@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T14:21:42Z,safe-eth-native,0.1.0,Uxío <uxio@safe.global>,MIT,4327762,"Native ecrecover, P-256 verify, keccak256 and EIP-55 checksum helpers for safe-eth-py"
+2026-11-24T14:22:58Z,netherframe.testing,0.2.0,Sourabh Cheedella,MIT,108558,"Test harnesses, FakeCloud pytest plugin, and state-backend contract suites for Netherframe"
+2026-11-24T14:23:23Z,netherframe.discovery.gitlabhq.gitlab,0.3.0,Sourabh Cheedella,MIT,29142,GitLab resource discovery for Netherframe
+2026-11-24T14:23:24Z,netherframe.discovery.hashicorp.aws,0.3.0,Netherframe Contributors,MIT,3994570,AWS resource discoverer for Netherframe using HashiCorp AWS provider
+2026-11-24T14:23:25Z,netherframe.discovery.keycloak.keycloak,0.3.0,Sourabh Cheedella,MIT,108301,Keycloak resource discovery for Netherframe
+2026-11-24T14:24:28Z,graphql-typed-python,0.1.3,,MIT,82985,"Generate typed GraphQL selections, variables, and response dictionaries for Python."
+2026-11-24T14:25:02Z,innox-tools-free-web-devel-93391,1.0.0,InnoX Tools,,17759,Mastering Financial Calculations & Dev Utilities: A Hands-On Guide to the Modern Loan Calculato
+2026-11-24T14:25:10Z,odoo-addon-l10n-es-deca-oca-batch,19.0.1.0.0.1,"Acysos S.L., Odoo Community Association (OCA)",AGPL-3,19189,=?utf-8?q?Impresi=C3=B3n_de_DeCA_desde_Agrupaciones_de_Albaranes?=
+2026-11-24T14:25:30Z,safeinsights-fusion,0.3.0,SafeInsights,AGPL-3.0-or-later,93198,SafeInsights Fusion SDK: researcher-facing client for the Enclave Fusion Framework (destination request/response and source operation handlers over the Fusion Tunnel App local API)
+2026-11-24T14:25:34Z,fontvertx,1.0.0,Cesare Gilento,MIT,2326541,"A free, open-source font converter for the desktop and the command line."
+2026-11-24T14:26:25Z,unified-trading-execution,0.0.1,Syed Qaisar Jalil,Apache-2.0,195934,"Unified Trading Execution — core library (platform-agnostic types, dispatch, risk checks, state mirror)"
+2026-11-24T14:26:45Z,pnc-diag-mcp,0.1.0,VictorLiu0725 <albertlw007@gmail.com>,Apache-2.0,236165,"Open-source thin interface, zero-deserialization bag inspector, Agent Skill, and synthetic example kit for autonomous driving PNC and LiDAR-SLAM telemetry."
+2026-11-24T14:29:47Z,ethiack,0.0.0,Ethiack,,1522,Reserved by Ethiack. Contains no code.
+2026-11-24T14:29:48Z,ethiack-oauth,0.0.0,Ethiack,,1575,Reserved by Ethiack. Contains no code.
+2026-11-24T14:29:49Z,ethiack-zitadel,0.0.0,Ethiack,,1594,Reserved by Ethiack. Contains no code.
+2026-11-24T14:32:22Z,atomicio-lite,0.1.0,Your Name <you@example.com>,MIT,13439,A minimal Python command-line application.
+2026-11-24T14:33:09Z,echidra,1.0.0,Qyleron <contact@qyleron.com>,AGPL-3.0-only,2645,Alias for echidra-oss: installs the Echidra OSS honeypot.
+2026-11-24T14:33:32Z,remit-native,0.1.0,,Apache-2.0,20767308,"Rust verifier core for the Remit Python SDK: JCS, remit_id, capacity, validation, SQL profile"
+2026-11-24T14:34:21Z,biomassage,2026.11.24,Antoine Grouazel <antoine.grouazel@ifremer.fr>,MIT,322698,CLI and Python package to query and download BIOMASS L1B products from MAAP
+2026-11-24T14:34:46Z,runreel,0.1.0,dsyz2007,MIT,101785,See what your AI actually wrote: turn any algorithm into an interactive step-through reel.
+2026-11-24T14:34:59Z,remit-protocol,0.1.0,,Apache-2.0,52795,"Remit Sender SDK for Python: typed remits, local checks, DSSE signing, verified receipts"
+2026-11-24T14:37:11Z,splent-feature-alerts,0.1.4,,LGPL-3.0-or-later,58314,
+2026-11-24T14:37:45Z,ksefe,0.1.0,,MIT,523086,Official Python SDK for the Ksefe API — Poland's KSeF e-invoicing gateway.
+2026-11-24T14:38:13Z,axon-shell,0.2.1,STofone,MIT,78140,"The native window layer for Axon apps: frameless window, drag regions, window control, native menu bridge. No UI, no CSS."
+2026-11-24T14:39:17Z,limnex-preflight,0.1.0,youssefismail-dev,Apache-2.0,303242,"Scan ML model files for secrets, personal data and unsafe pickles before you publish them to Hugging Face, Kaggle or GitHub."
+2026-11-24T14:40:08Z,OTPRunner,0.2.0,baquilla,GPL-3.0-or-later,155191,"TOTP codes in KRunner, with secrets in the system keystore"
+2026-11-24T14:40:18Z,mmmllm,0.1.0,,Apache-2.0,961352,my mac mini llm: a C++/Metal LLM serving engine for Apple M4 Macs
+2026-11-24T14:41:36Z,grilly2,0.1.0,Grill cheese,MIT,9091034,"The torch API on Vulkan, for the GPUs torch will not train on"
+2026-11-24T14:43:40Z,mockitdown,0.1.0,Brian Bogovich,MIT,937208,"UI mockups written in SwiftUI syntax inside Markdown, rendered as HTML styled after real UI frameworks."
+2026-11-24T14:44:01Z,SBL-honeypots,0.1.0,QeeqBox <gigaqeeq@gmail.com>,AGPL-3.0,153357,A fork of the Honeypots project
+2026-11-24T14:45:32Z,hasneenturfi-mirage,0.4.0,Hasneen Al-Turfi,MIT,24594,"Adaptive cyber deception, signed honeytoken tripwires, behavioral risk scoring, and tamper-evident audit chains in Python."
+2026-11-24T14:47:02Z,anemocore,0.1.0,Chatchawich Chaihong <6610130021@email.psu.ac.th>,MIT OR Apache-2.0,368576,Python bindings for the AnemoCore Rust core library via PyO3
+2026-11-24T14:47:14Z,ai-tool-audit,0.2.1,prag-ai <macro@prag-ai.com>,Apache-2.0,1646011,개발자 PC의 AI 도구(Claude Code·Codex·Gemini CLI·VS Code·Cursor·MCP) 설정을 읽기 전용으로 점검하는 도구
+2026-11-24T14:48:57Z,maco-cli,0.4.5,,,57793,An agent-friendly IMAP and SMTP command-line client
+2026-11-24T14:50:11Z,simple-score,0.1.0,Michele Papucci,MIT,76564,SIMPLE Score: a reference-free learned metric for text simplification that also reports its own uncertainty.
+2026-11-24T14:50:12Z,exchange-trading-days,0.1.1,Plainfold <plainfoldhq@proton.me>,MIT,25143,"Trading days, holidays and early closes for NYSE, LSE, TSX, Xetra, Euronext, Tokyo, HKEX, ASX and SIX (2026-2028). Standard library only."
+2026-11-24T14:51:06Z,fx-spot-dates,0.1.1,Plainfold <plainfoldhq@proton.me>,MIT,20215,"FX settlement holidays and T+2 spot value dates for USD, EUR (TARGET2), GBP, JPY, AUD, NZD. Standard library only."
+2026-11-24T14:52:42Z,innox-tools-free-web-devel-53518,1.0.0,InnoX Tools,,15924,Fortifying the Perimeter: A Masterclass in Zero-Telemetry JSON Formatting for Enterprise Securi
+2026-11-24T14:54:41Z,datoso-seed-lostlevel,1.3.0,Lacides Miranda <laromicas@hotmail.com>,MIT License,11089,Python command line tool to download and organize your Rom Dat files.
+2026-11-24T14:56:16Z,mcp-wasm-sandbox,0.1.1,Adrian Fernandez Chamizo espinete@duck.org,MIT,6013466,Model Context Protocol server that runs untrusted WebAssembly inside a Wasmtime sandbox.
+2026-11-24T14:56:35Z,easy-date-ss,0.1.1,,,2224,简化日期格式化
+2026-11-24T14:57:05Z,emle-engine,2.0.0,Lester Hedges <lester.hedges@gmail.com>,MIT,589758,An engine for electrostatic machine learned embedding potentials
+2026-11-24T14:57:37Z,honet,0.1.0,DoctorDragon,MIT,26574,Lightweight toolkit for modelling and analysing higher-order networks (hypergraphs).
+2026-11-24T14:58:30Z,cryptascreen,0.2.0,"""CryptaCount Luxembourg S.à r.l."" <support@cryptacount.com>",MIT,108154,"Official Python SDK for the CryptaScreen API — address and name screening, sanctions, exposure, investigations"
+2026-11-24T14:58:51Z,apify-bot-guard,0.1.1,,MIT,36351,"Fair free-plan allowances for Apify Actors, with a per-Actor pool against farms of free accounts."
+2026-11-24T14:59:43Z,online-lesson-module2-lesson10-project-foziljon,0.1.0,,,2715,
+2026-11-24T15:01:30Z,rsl-rl-lib-extras,6.0.0.0,"Clemens Schwarke <cschwarke@ethz.ch>, Mayank Mittal <mittalma@ethz.ch>, Nikita Rudin <rudinn@ethz.c…",BSD-3-Clause,221580,Fast and simple RL algorithms implemented in PyTorch
+2026-11-24T15:01:30Z,youtube-transcript-cloud,0.1.0,Spyridon Pikoulas,MIT,25447,"YouTube transcripts that keep working on AWS, GCP, Vercel and other cloud servers: compatible with youtube-transcript-api, read through an Apify Actor, with a CLI and an MCP server"
+2026-11-24T15:03:05Z,geqie-qml,0.4.0a1,,Apache-2.0,90527,GEQIE QML extension
+2026-11-24T15:08:45Z,meds-algorithm-curiosity,0.1.0,Florent Pollet <flo1.raymond@gmail.com>,MIT,192969,"Curiosity-0826 generative medical event model: Qwen2 decoder pretrained on tokenized MEDS timelines, zero-shot task prediction by Monte Carlo generation of future timelines."
+2026-11-24T15:09:18Z,fstar-compare,0.0.3,Ryan DeWolfe,MIT,12795,A pragmatic method for comparing clusterings with ovalaps and outliers.
+2026-11-24T15:09:26Z,judgelab,0.1.0,judgelab contributors,MIT,94532,"Audit and calibrate LLM-as-judge pipelines: bias, agreement, stability."
+2026-11-24T15:14:06Z,chempane,0.12.0,jurimaxam-dotcom,Apache-2.0,2542591,"Chemistry panel for Claude Desktop (MCP server): ask for a molecule, get a drawing you can turn, click and export. Structures, 3D models, mechanisms and Anki cards drawn locally with RDKit, plus spec…"
+2026-11-24T15:14:49Z,friendlycells,1.0.0,"George Hall <george.hall@ucl.ac.uk>, Sergi Castellano <s.castellano@ucl.ac.uk>, Anna Drhovska <anna…",MIT,57292,Alignment-free similarity measures for spatial transcriptomics.
+2026-11-24T15:15:26Z,prograph-act,0.1.0,Brice Giesbrecht,Apache-2.0,710065,"ProAct: the action layer over ProGraph. It decides and acts on your data, and records every decision with its proof."
+2026-11-24T15:17:24Z,gcp-batch-cloud-copy,0.1.0,Devin McCabe,MIT,14652,A python package and container specification to do some miscellaneous cloud storage operations on GCP Batch
+2026-11-24T15:17:38Z,nomeda-pii-suite,0.1.0,Nomeda Labs,Apache-2.0,93116,"Tiny Arabic PII redaction for text, images and audio behind one router"
+2026-11-24T15:17:55Z,ppc2x86,1.0.0,,MIT,188422,"PowerPC <-> x86 / x64 instruction picker: CLI, REPL and retro ISA-museum GUI"
+2026-11-24T15:17:57Z,ggitpulse,1.0.0,,MIT,20013,"One-screen health dashboard for all your git repos: dirty, ahead/behind, stale branches"
+2026-11-24T15:20:41Z,tracelock,0.1.0,,,16058,Python SDK and tlock CLI for TraceLock deterministic tool-call replay
