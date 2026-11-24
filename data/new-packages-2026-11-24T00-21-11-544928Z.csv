@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-23T23:19:31Z,kokua,0.1.0,Paul Saxman,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1927793,"Kokua (Hawaiian: help, assistance): a hackable, modular personal-assistant application built on AIMU."
+2026-11-23T23:24:04Z,aifree,0.3.0,,MIT,23752,"Python client for the aifree.dev API: verified free AI offers, free LLM API tiers and where each model is free."
+2026-11-23T23:27:06Z,nexpost,0.0.0,Aman Kaushik,AGPL-3.0-or-later,2751,Name reserved for NexPost by Nexlore AI. Not yet released.
+2026-11-23T23:28:54Z,basemaplibre,0.1.0,Kamil Raczycki,MIT,45651,"Basemaps for matplotlib and GeoPandas from MapLibre styles, inspired by contextily."
+2026-11-23T23:29:52Z,rs-scope-mcp,0.1.2,Stefan Brunner (AE5VG),PolyForm-Noncommercial-1.0.0,519550,MCP server that lets Claude and other AI assistants control Rohde & Schwarz oscilloscopes (RTB2 / RTB2000 series) over LAN and harvest what they measure.
+2026-11-23T23:30:18Z,reels-wiki,0.1.2,Atacan YMC <atacanymc@gmail.com>,MIT,1119928,Local-first pipeline: saved Instagram Reels -> atomic notes in an Obsidian LLM Wiki vault.
+2026-11-23T23:31:36Z,openmny,0.0.1,,,1508,Placeholder for openmny. Not ready for use yet.
+2026-11-23T23:32:45Z,openwrk,0.0.1,,,1507,Placeholder for openwrk. Not ready for use yet.
+2026-11-23T23:34:13Z,openpickleball-engine,1.0.0,OPEN contributors,AGPL-3.0-or-later,548628,"Reference rating engine for OPEN, the Open Pickleball Evaluation Network (outputs are not OPEN ratings, not for production use)"
+2026-11-23T23:40:12Z,hinting-diff,0.1.1,Klim Type Foundry,Apache-2.0,40005,Compare the TrueType hinting of two versions of a font in a browser
+2026-11-23T23:42:56Z,agent-authorizer,0.14.0,,Apache-2.0,1978629,"Authorizes what an AI agent does against the permissions of the user it acts for: each request a tool makes is checked live with the system that owns the resource (GitHub, Jira, Kubernetes, AWS and m…"
+2026-11-23T23:46:38Z,ds-contest-tools,1.0.1,Daniel Saad Nogueira Nunes <daniel.nunes@ifb.edu.br>,MIT,267717,Tools for contest and competitive problems preparation.
+2026-11-23T23:49:01Z,visloc,0.4.0,,MIT OR Apache-2.0,15748173,"Python bindings for visloc-rs: cameras, SE(3) poses, COLMAP IO, map-based localization, and trajectory evaluation."
+2026-11-23T23:53:41Z,optican,0.1.0,,MIT,42272,Framework-agnostic adaptive hyperparameter optimization with elite-guided search.
+2026-11-23T23:54:54Z,netbox-nutanix,0.1.0,sieteunoseis <jeremy.worden@gmail.com>,Apache-2.0,71576,NetBox plugin for viewing and importing VMs from Nutanix Prism Central
+2026-11-23T23:57:20Z,trugs-runner,0.1.0,,Apache-2.0,620833,The TRUGS runner offers and records actions against a fixed graph.
+2026-11-23T23:58:34Z,perfectpanel-client,0.2.0,talonpanel,MIT,46678,"Typed, dependency-light Python client for the Perfect Panel v2 SMM API"
+2026-11-24T00:10:21Z,strainphase,0.1.0,Renee Oles <roles@ucsd.edu>,BSD-3-Clause,248890,Hybrid graph-probabilistic haplotype reconstruction for PacBio HiFi metagenomic data
+2026-11-24T00:10:27Z,aws_sdk_agent_registry_control,0.0.0,,Apache-2.0,2264,Placeholder reserving the aws_sdk_agent_registry_control name. Not yet functional.
+2026-11-24T00:10:49Z,aws_sdk_dax,0.0.0,,Apache-2.0,2054,Placeholder reserving the aws_sdk_dax name. Not yet functional.
+2026-11-24T00:11:03Z,aws_sdk_oam,0.0.0,,Apache-2.0,2049,Placeholder reserving the aws_sdk_oam name. Not yet functional.
+2026-11-24T00:11:18Z,aws_sdk_connect_contact_lens,0.0.0,,Apache-2.0,2243,Placeholder reserving the aws_sdk_connect_contact_lens name. Not yet functional.
+2026-11-24T00:11:51Z,aws_sdk_kinesis_analytics_v2,0.0.0,,Apache-2.0,2102,Placeholder reserving the aws_sdk_kinesis_analytics_v2 name. Not yet functional.
+2026-11-24T00:12:08Z,aws_sdk_iotsecuretunneling,0.0.0,,Apache-2.0,2067,Placeholder reserving the aws_sdk_iotsecuretunneling name. Not yet functional.
+2026-11-24T00:12:09Z,ablt,2.0.0,Mathew Sekanjako,Apache-2.0,130155,ABLT: a grammar-first tokenizer for Luganda and other Bantu languages
+2026-11-24T00:12:23Z,aws_sdk_dataexchange,0.0.0,,Apache-2.0,2015,Placeholder reserving the aws_sdk_dataexchange name. Not yet functional.
+2026-11-24T00:12:37Z,aws_sdk_direct_connect,0.0.0,,Apache-2.0,2037,Placeholder reserving the aws_sdk_direct_connect name. Not yet functional.
+2026-11-24T00:13:59Z,aws_sdk_ivs_realtime,0.0.0,,Apache-2.0,2027,Placeholder reserving the aws_sdk_ivs_realtime name. Not yet functional.
+2026-11-24T00:14:14Z,aws_sdk_storage_gateway,0.0.0,,Apache-2.0,2055,Placeholder reserving the aws_sdk_storage_gateway name. Not yet functional.
+2026-11-24T00:14:26Z,aws_sdk_fms,0.0.0,,Apache-2.0,1921,Placeholder reserving the aws_sdk_fms name. Not yet functional.
+2026-11-24T00:14:38Z,aws_sdk_detective,0.0.0,,Apache-2.0,1990,Placeholder reserving the aws_sdk_detective name. Not yet functional.
+2026-11-24T00:15:51Z,tba-concrete-mcp-delegation,0.4.0.dev1,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,23899,Identity-bound permission decisions for MCP app connections.
+2026-11-24T00:17:54Z,tba-capability-mcp-authorization,0.4.0.dev1,Jacob Stewart,Apache-2.0,23637,"MCP grant resolution, current scope authorization, and owned connection revocation."
+2026-11-24T00:18:20Z,hermoso,0.1.2,Hermoso <hello@hermoso.ai>,MIT,446553,"Typed Python client for the Hermoso API: generate ads, publish and schedule posts, read analytics, and call every Hermoso tool from your own backend."
+2026-11-24T00:20:13Z,stoner-measurement,0.10.0b1,Gavin Burnell <g.burnell@leeds.ac.uk>,MIT,11859413,A Python/Qt (PyQt5/PyQt6 via qtpy) application for running scientific measurements

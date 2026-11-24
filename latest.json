@@ -1,41 +1,48 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-23T22:18:32.939526Z",
-    "path": "data/new-packages-2026-11-23T23-18-32-486551Z.csv",
-    "to": "2026-11-23T23:18:32.486551Z"
+    "count": 35,
+    "from": "2026-11-23T23:18:32.486551Z",
+    "path": "data/new-packages-2026-11-24T00-21-11-544928Z.csv",
+    "to": "2026-11-24T00:21:11.544928Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-23T21:41:58Z",
       "package": "cccRISE",
       "since": "2026-11-23T21:21:16.72887Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-23T20:56:05Z",
       "package": "eshieldq-gateway-client",
       "since": "2026-11-23T20:21:47.084007Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-23T20:55:52Z",
       "package": "eshieldq-gateway-schemas",
       "since": "2026-11-23T20:21:47.084007Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-23T20:23:34Z",
       "package": "portpeek-bin",
       "since": "2026-11-23T20:21:47.084007Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-23T23:20:59Z",
+      "package": "yup-audio",
+      "since": "2026-11-23T23:18:32.486551Z",
+      "version": null
     }
   ],
-  "serial": 44080115,
+  "serial": 44082308,
   "source_truncated": false,
-  "window": "2026-11-23T23:18:32.486551Z"
+  "window": "2026-11-24T00:21:11.544928Z"
 }
