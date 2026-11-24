@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T16:19:26Z,pi-codemode-py,1.1.0,zy1233 <zy1233@users.noreply.github.com>,MIT,33493,Programmatic tool orchestration and deferred tool discovery extension for pi-python
+2026-11-24T16:21:05Z,mcp-time-server-liuqi202613093038,0.1.0,,,70592,A simple MCP time server
+2026-11-24T16:24:03Z,fling-layout,0.1.0,"Berfin Inal, Daniel Probst",MIT,104507,Graph drawing with a learned layout function
+2026-11-24T16:26:00Z,stepsize-strategies,0.1.0,Ersan Erdem <ersanerdem.ee@gmail.com>,MIT,43902,"Variable step size strategies for the Euler method: Picard, error analysis, and linear / non-linear systems."
+2026-11-24T16:26:23Z,ppk2-lib,0.1.0,Roudy Dagher,Apache-2.0 OR MIT,157023,Python library + CLI for Nordic's Power Profiler Kit II (PPK2)
+2026-11-24T16:26:43Z,facett-map,0.3.0,ignalina,MIT,3611547,"The facett map viewer alone — the 2D map and the 3D city, Rust compiled to WebAssembly and drawn on WebGPU — as a small Streamlit component that reads a korp map server."
+2026-11-24T16:27:48Z,pagify-pdf,1.2.0,Vrishni Labs,,19540841,Heading-Anchored Semantic Article Extractor and Print-Optimized PDF Generator by Vrishni Labs
+2026-11-24T16:28:32Z,vhrd-zensical,0.2.1,,MIT OR Apache-2.0,12612973,"Zensical book kit: code cards, glossary, abbreviations, lexers, build stamp"
+2026-11-24T16:28:52Z,sidik,1.3.3,"Radityo Budi Waskito, Fauzi Nur Ibrahim, Raditya Ahmad Pratama, Zayyan Fadhlur Rahman, Muhammad Fah…",MIT,5890268,SIDIK: Secret Identification and Dependency Inspection Kit (Lightweight Offline Python SAST & SCA)
+2026-11-24T16:30:14Z,anvala,0.1.0,Frederico Gonçalves Pedrosa <frederico.musicoterapia@gmail.com>,MIT,174170,"GPU-Accelerated Psychometrics, Structural Equation Modeling, and Network Psychometrics in Python"
+2026-11-24T16:30:27Z,hots-connector,0.1.0,Smile R&D team <rnd@smile.fr>,MIT,78615,"Connects HOTS to a live environment: Prometheus metrics in, placement moves applied on Docker or Kubernetes, over Kafka."
+2026-11-24T16:30:32Z,dex-connector-sendgrid,0.1.0,,MIT,89598,SendGrid connector for Dex Flows
+2026-11-24T16:32:04Z,dex-connector-sentry,0.1.1,,MIT,92991,Sentry connector for Dex Flows
+2026-11-24T16:32:41Z,zedensix-nodeps,1.0.0b3,,,381639119,Documentation site generator and server built only on Bun's native APIs.
+2026-11-24T16:33:27Z,gitward,0.1.1,dantelex,FSL-1.1-MIT,156318,"Private files, private branches and built-in secrets for git: one .gitaccess policy, enforced client-side (git ward) or server-side (ward-server)."
+2026-11-24T16:33:30Z,dex-connector-shopify,0.1.0,,MIT,87592,Shopify connector for Dex Flows
+2026-11-24T16:34:16Z,qalma,0.9.0,"mmatera <matera@fisica.unlp.edu.ar>, tomi-cuentitas <ftbperez.quantum@gmail.com>",LGPL-3.0-only AND BSL-1.0,823508,Quantum Algebras for Lattice Models and Applications.
+2026-11-24T16:38:08Z,ol-notebook,0.1.0,MIT Open Learning Engineering <ol-data@mit.edu>,BSD-3-Clause,14106,"Helpers for MIT Open Learning marimo notebooks, in JupyterHub and as published apps"
+2026-11-24T16:38:45Z,herdr-agent-org,0.6.0,Community contributors,Apache-2.0,117505,"Reusable, profile-aware AI organizations for Herdr App and herdr-core"
+2026-11-24T16:38:53Z,keyring-prompt,0.1.0,Andrew Howe,MIT,17975,"Retrieve credentials from the system keyring, with optional environment and interactive fallbacks."
+2026-11-24T16:41:33Z,pymew,0.1.0,qb-0,MIT,3137528,"External game memory, scanning and overlays for Python"
+2026-11-24T16:42:02Z,pfetl-analytics-studio,0.1.0,Shan <tksudharshan@gmail.com>,GPL-3.0-or-later,238705,"Local-first, read-only analytical companion to Personal Finance ETL for visual exploration, reporting, and intelligence."
+2026-11-24T16:43:40Z,sidik-ml,0.5.2,"Radityo Budi Waskito, Fauzi Nur Ibrahim, Raditya Ahmad Pratama, Zayyan Fadhlur Rahman, Muhammad Fah…",MIT,76905,SIDIK-ML: Explainable Non-Neural Machine Learning Extension for SIDIK Static Security Analysis
+2026-11-24T16:43:43Z,doloto,0.0.1,Dmitry Burmistrov <pyctrl.dev@gmail.com>,BSD-3-Clause,4797,A chisel for data engineering
+2026-11-24T16:45:59Z,reasonledger-core,0.3.0a6,SphotaLabs Inc.,Apache-2.0,449092,Framework-free domain logic for ReasonLedger
+2026-11-24T16:46:15Z,reasonledger-mcp,0.3.0a6,SphotaLabs Inc.,Apache-2.0,36015,ReasonLedger MCP server — vendor-neutral decision capture
+2026-11-24T16:46:27Z,reasonledger,0.3.0a6,SphotaLabs Inc.,Apache-2.0,352727,"Never lose the why behind AI-written code — decision capture, review, and policy checks"
+2026-11-24T16:53:00Z,lork,0.1.0,Murari,Apache-2.0,83191,Open-source LoRA fine-tuning service with low-level async execution primitives.
+2026-11-24T16:54:18Z,store-shots,1.0.0,Satyam Singh <satyamsingh7734@gmail.com>,MIT,94327,Capture an Expo web app at each store's required screenshot sizes and organize images into platform-specific folder trees.
+2026-11-24T16:55:58Z,hmkkit,1.0.0,Hmkings <hmkings37@gmail.com>,LicenseRef-HmkKit,10079,A collection of useful Python functions created by Hmkings.
+2026-11-24T16:57:26Z,arcwind,1.0.0,Charles J. Law,MIT,245209,arcwind (Analysis of Resolved Conical Winds In Nascent Disks): geometry and kinematics of protoplanetary disk winds from transverse position-velocity diagrams
+2026-11-24T16:58:46Z,scietex.hal.current-amplifier,0.3.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,111850,Scietex current amplifier HAL package
+2026-11-24T16:59:24Z,movoice,0.1.0,Movoice AI <care@movoice.ai>,MIT,64740,"The official Python client for the Movoice AI API: voice agents, calls, contacts, bookings, SMS, WhatsApp and webhook verification"
+2026-11-24T16:59:31Z,odoo-deploy,0.1.0,Ronald Portier <ronald@openeyedev.eu>,AGPL-3.0-or-later,1471234,"Stateless CLI tool that consumes a project repository and produces deployment-ready Odoo artifacts (zip+systemd, docker/podman images)."
+2026-11-24T17:00:25Z,leadveyor,0.1.0,Leadveyor <support@leadveyor.com>,MIT,80523,"Official Python client for the Leadveyor API: lead scoring, sources, webhooks."
+2026-11-24T17:01:35Z,maskflare-mcp,0.1.0,Maskflare,MIT,31316,"Maskflare admin MCP server - ask an assistant about your organization's devices, traffic, masking rules and audit trail."
+2026-11-24T17:02:35Z,epochal-api,0.1.0,Epochal,Apache-2.0,84649,"Client for the Epochal API. Its time portal serves web search, web fetch and sandboxes held to a past instant."
+2026-11-24T17:02:37Z,epochal-sandbox,0.1.0,Epochal,Apache-2.0,75237,"Epochal sandboxes, in time-portal mode: Linux boxes whose clock and network are held to a past instant."
+2026-11-24T17:02:40Z,pdf-schema-parsing,0.0.1,,"MIT License Copyright (c) 2026 Kwan Yuet Stephen Ho Permission is hereby granted, free of charge, t…",77420,Resilient schema-driven PDF and Markdown section parser
+2026-11-24T17:04:46Z,qqbot-cli,1.0.1,L-web666,AGPL-3.0-or-later,96655,QQBotMerged 启动器：一条命令装好并启动 QQ 官方机器人多开后台
+2026-11-24T17:05:58Z,obpg-l3bintools,2.1.2,Sean Bailey <sean.w.bailey@nasa.gov>,,30061,Tools to read OBPG L3 bin files
+2026-11-24T17:08:40Z,fermiscope,0.1.0,Fermiscope Team,MIT,627278,"CLI toolkit for BXSF-based Fermi-surface analysis, orbit extraction, and visualization"
+2026-11-24T17:08:45Z,lighthit-g4,0.1.0a1,Dmitry Naumov,MIT,44358081,"Geant4 particle steps in water, written in the LightHit track format"
+2026-11-24T17:09:46Z,cadbuildr-frames,0.2.0,CADbuildr Team,,116155,"Structural and woodworking frames (weldments) on CADbuildr foundation: profiles swept along a skeleton, corner trims, gussets, end caps and a cut list"
+2026-11-24T17:10:09Z,activationguard,0.1.0,Hirundo <ben@hirundo.io>,,1744476,ActivationGuard by Hirundo: runtime guardrails that read model activations inside vLLM and SGLang
+2026-11-24T17:10:37Z,pivot3d,0.3.0,,,10987842,3D route planning engine for vehicles on a globe
+2026-11-24T17:11:10Z,cadbuildr-tslot,0.1.0,CADbuildr Team,,136718,"T-slot aluminium framing on CADbuildr foundation + frames: catalog profiles (80/20 first), connectors with part numbers, one-liner boxes / tables, BOM and checks"
+2026-11-24T17:11:37Z,pumleditor,0.3.1,Emmanuel Desmontils,MIT,72687,"Éditeur PlantUML de bureau : code à gauche, diagramme en direct à droite (PyQt6)"
+2026-11-24T17:14:14Z,free-crypto-arbitrage-scanner,0.1.0,BYTtrade,LicenseRef-BYTtrade-Source-Available-1.3,305358,"ArbDesk: free crypto arbitrage scanner, terminal and trading journal for 11 exchanges (spreads, funding rates, pair trading, order books, PnL diary, Telegram alerts)"
+2026-11-24T17:14:52Z,svgeditor,1.4.0,Emmanuel Desmontils,MIT,60413,"Éditeur SVG en deux panneaux (code à gauche, rendu en direct à droite) écrit avec PyQt6"
+2026-11-24T17:16:22Z,mocodoeditor,0.2.5,Emmanuel Desmontils,MIT,86644,"Éditeur de bureau pour Mocodo : le code à gauche, le MCD en direct à droite (PyQt6)."
+2026-11-24T17:17:26Z,satee,0.0.1,Satee <registry@satee.dev>,MIT,4334,Satee Python client.
+2026-11-24T17:21:25Z,openif,0.1.0,DameNianch,,34529,Japanese intent classification with GPR-1 Nasubi
