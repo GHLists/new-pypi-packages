@@ -1,27 +1,48 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-11-24T21:19:39.482308Z",
-    "path": "data/new-packages-2026-11-24T22-22-58-526145Z.csv",
-    "to": "2026-11-24T22:22:58.526145Z"
+    "count": 28,
+    "from": "2026-11-24T22:22:58.526145Z",
+    "path": "data/new-packages-2026-11-24T23-18-44-148258Z.csv",
+    "to": "2026-11-24T23:18:44.148258Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-24T19:29:26Z",
       "package": "arkhai-injected-time",
       "since": "2026-11-24T19:19:33.960058Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-24T19:29:42Z",
       "package": "arkhai-kit-schema-migrations",
       "since": "2026-11-24T19:19:33.960058Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-24T22:31:29Z",
+      "package": "nautobot-containerlab-orchestrator",
+      "since": "2026-11-24T22:22:58.526145Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-24T22:42:26Z",
+      "package": "senvend-api",
+      "since": "2026-11-24T22:22:58.526145Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-24T22:50:46Z",
+      "package": "senvend-api-async",
+      "since": "2026-11-24T22:22:58.526145Z",
+      "version": null
     }
   ],
-  "serial": 44129748,
+  "serial": 44131562,
   "source_truncated": false,
-  "window": "2026-11-24T22:22:58.526145Z"
+  "window": "2026-11-24T23:18:44.148258Z"
 }

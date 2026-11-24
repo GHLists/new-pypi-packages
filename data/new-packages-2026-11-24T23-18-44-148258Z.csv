@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T22:23:26Z,hidden-moves-workspace,0.1.0a2,Ella Inng,MIT,22446,Bounded typed context over explicitly selected local text files.
+2026-11-24T22:23:52Z,compose-application,0.1.0a1,ellainng,MIT,71982,"Optional composition of typed storage, APIs and spatial interfaces."
+2026-11-24T22:24:28Z,kos-connectors,1.0.0b1,Katsenia SpA <support@katsenia.com>,Apache-2.0,70251,"KOS (Katsenia Optimization Solver) for Pyomo, PuLP and CVXPY: LP and MILP, with the same result as KOS directly"
+2026-11-24T22:24:58Z,pcmcp,1.1.1,Angela Wilkinson <angie@synhumanitylabs.com>,MIT,285586,PCMCP: cross-platform instant file-state change bots with a stdlib-only MCP server.
+2026-11-24T22:26:17Z,kos-mcp,1.0.0b1,Katsenia SpA <support@katsenia.com>,Apache-2.0,84187,"The local MCP server of KOS (Katsenia Optimization Solver): solve, inspect and explain LP and MIP models from AI assistants"
+2026-11-24T22:27:30Z,vecrecall,2.2.0,snowfoxHQ,MIT,267827,本地优先的 AI 记忆系统：纯向量检索与组织层解耦，四层上下文，可选多 Agent 隔离与哈希链审计
+2026-11-24T22:35:20Z,prioritykit,0.2.0,John Hodge,Apache-2.0,47986,"Deterministic rules for importance-urgency scoring, P0/P1/P2 levels, and three daily goals, for people and AI agents"
+2026-11-24T22:36:17Z,tradytics-mcp,0.1.1,Tradytics <hello@tradytics.com>,MIT,13386,"MCP server for US stock market data: options flow, dark pool prints, dealer gamma, stock perpetuals, fundamentals, SEC filings, and prediction markets via Tradytics."
+2026-11-24T22:40:21Z,hypnosis,0.1.0a1,ellainng,MIT,200853,"Bounded harness execution, orchestration and a Carets application."
+2026-11-24T22:46:58Z,vexinter,0.5.7,Vexinter Team,"LicenseRef-Fair-Source (Community), see LICENSE-COMMUNITY.md",5818532,"Verification, memory, and secure communication infrastructure for AI agents"
+2026-11-24T22:48:36Z,abm-market,1.0.1,Iker Abad,MIT,243008,Agent-based toy market simulator for stylized facts of financial returns
+2026-11-24T22:48:43Z,gamesize,1.0.1,Iker Abad,MIT,189839,"Game inventory: GB per hour, backlog plan, history and wishlist"
+2026-11-24T22:49:48Z,sheet-music-mcp-core,0.3.1,Raul Kivi <raulkivi@users.noreply.github.com>,MIT,164940,"Shared helpers for the sheet-music MCP servers: errors, part selection, annotations, result content, handler wiring, score references, measure ranges, MCP Apps UI resources, artifact handles, expirin…"
+2026-11-24T22:53:45Z,ssRMSD,0.1.0,,MIT,70478,Self-consistency RMSD (ssRMSD) scoring for predicted antibody-antigen structure ensembles.
+2026-11-24T22:55:57Z,trovir,0.0.1,,,2607,Trovir: framework de agentes de IA que trabalham em equipe. Nome reservado; em desenvolvimento.
+2026-11-24T22:57:51Z,causal-toolkit-victoria,0.1.0,Victoria <vli3@uchicago.edu>,MIT,14365,"A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
+2026-11-24T22:59:48Z,cudaq-pulse-tools,0.1.0,NVIDIA Corporation,Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND Spencer-94 AND (CC0-1.0 OR Apach…,116439645,Command-line compiler tools for cudaq-pulse
+2026-11-24T23:00:19Z,cudaq-pulse,0.1.0,NVIDIA Corporation,Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Spencer…,139148997,Pulse-level MLIR dialect and programming model for quantum control
+2026-11-24T23:05:06Z,harness-proxy,0.1.0,Davide Ghilardi,Apache-2.0,175113,"OpenAI- and Anthropic-compatible model server for agent harnesses, backed by Tinker, that records every call as token ids."
+2026-11-24T23:05:21Z,human-thing,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49232,A human thing.
+2026-11-24T23:07:07Z,paracosm,0.1.0a1,ellainng,MIT,14998,Deterministic worlds and optional environment minds.
+2026-11-24T23:07:22Z,arrow2xmla,0.2.0,,MIT,1978518,"Arrow in, XMLA out: a generic, engine-free XMLA cellset writer and request parser (Rust core)."
+2026-11-24T23:07:56Z,spectrapy-colour,0.3.1,Franciszek Drągowski,LGPL-3.0-or-later,851017,Physically based spectral colour calculations and beautiful spectral plots with NumPy and matplotlib.
+2026-11-24T23:13:14Z,polars-libpostal,0.1.0,Drew Adlof <drew.adlof@gmail.com>,MIT OR Apache-2.0,6405269,Parallel libpostal address parsing as a Polars expression.
+2026-11-24T23:13:26Z,wispsy,0.1.0a1,ellainng,MIT,137235,Executable references for explicit Python capability composition.
+2026-11-24T23:15:02Z,evermatter,0.202.0,Hugo Ander <founder@substratesystems.io>,FSL-1.1-ALv2 AND Apache-2.0,15812041,"Local knowledge substrate for owned markdown/Obsidian vaults, exposed through MCP, REST, and CLI with multimodal OCR/ASR/CLIP search"
+2026-11-24T23:16:23Z,datastreamdb,0.1.0,,Apache-2.0,1604000,Python bindings for datastreamdb (embedded graph database)
+2026-11-24T23:18:13Z,nrs-edge,0.1.1,Necessity Robotics <necessityrobotics@gmail.com>,Apache-2.0,7723868,nrs-edge: a small stereo depth network (6 M parameters). Disparity and metric depth from a rectified stereo pair.
