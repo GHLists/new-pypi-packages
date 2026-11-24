@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T20:24:25Z,rust-num-lib,0.1.0,Wiktor Augustyn <wiktoraugustyn2005@gmail.com>,MIT,13010582,Scientific computing library written in Rust: linear algebra and statistics
+2026-11-24T20:27:55Z,lockly,0.1.0,Colin Moynes <dev@fullstackspectrum.com>,Apache-2.0,261884,"Explain lockfile changes in a pull request: what moved, and which changes deserve a look (install scripts, new publishers, fresh releases, vulnerabilities)"
+2026-11-24T20:28:20Z,spiderweb-sdk,0.2.0,SpiderWeb,Proprietary,40626,Python SDK for the SpiderWeb job coordinator: submit jobs and run Python functions remotely
+2026-11-24T20:29:42Z,dismanager,1.0.0,Mauricio <150753762+mjpr-3435@users.noreply.github.com>,LGPL-3.0-or-later,172817,Manage processes and stream their consoles through Discord.
+2026-11-24T20:30:28Z,http-scots,0.1.0,Baptiste Darthenay,MIT,18339,"HTTP methods and status codes, but in Scots. Not safe for work, nor for polite company."
+2026-11-24T20:31:43Z,mathoptmodel,0.1.0,Florian Fontan <dev@florian-fontan.fr>,MIT,1385141,"MathOptSolversCMake's optimization model and its MPS, LP, JSON and AMPL .nl readers/writers"
+2026-11-24T20:35:14Z,remyx-validate,0.1.0a0,Remyx AI,Apache-2.0,164297,"Open-source evaluation harness for AI engineering. Compare changes, measure tradeoffs and capture evidence."
+2026-11-24T20:36:00Z,dogwood-aws,1.2.0,,Apache-2.0,47674152,"Python bindings for the Dogwood policy frontend (validate, lower, replay, live authorization)."
+2026-11-24T20:36:32Z,illustrate-py,0.1.0,Alfredo Sandoval,Apache-2.0,2131335,"Python molecule illustration renderer, CLI, and desktop GUI"
+2026-11-24T20:36:42Z,size-report,3.2.0,vernikr,"MIT License Copyright (c) 2026 vernikr Permission is hereby granted, free of charge, to any person…",350596,Tracking how the volume of code and documents grows across git history: raw / min / tokens
+2026-11-24T20:41:10Z,venvtree,0.2.0,svcmahir,MIT,14032,Show the dependency tree of the packages in a project's .venv.
+2026-11-24T20:44:24Z,cd-reduce,0.1.0,Harlan D Heilman,MIT,254029,Reducing and simulating CD-RSoXS / CD-SAXS data collected at ALS beamline 11.0.1.2
+2026-11-24T20:47:50Z,mtdx62-modbus-library,0.3.0,Sergey Astakhov <sergeyastakhov@mail.ru>,MIT,34665,Device library for the MTD062-MB and MTD262-MB Modbus presence sensors
+2026-11-24T20:49:04Z,cyphersql,0.1.0,Mahmoud Hassanen,Apache-2.0,7659043,"Zero-ETL openCypher-to-SQL compiler supporting ClickHouse, Trino, Postgres, MySQL, and DuckDB."
+2026-11-24T20:51:11Z,speedloop,1.0.0,snehoza,MIT,79470,"Noise-aware speed measurement: ABBA timing with an A/A noise floor, span ledgers, golden-output exactness and a cache registry."
+2026-11-24T20:55:40Z,quadward,0.2.0,Basha Shaik,MIT,351823,"Explainable guardrails for LLM agents: prompt-injection detection, hidden-text stripping, output redaction and a policy firewall for tool calls. Pure Python, same rules and verdicts as the JavaScript…"
+2026-11-24T20:57:03Z,rocko-client,0.0.1,,MIT OR Apache-2.0,79361,Async client for the rocko media daemon's control API
+2026-11-24T21:00:20Z,szl-cram,0.1.0,SZL Holdings <stephen@szlholdings.com>,Apache-2.0,51977,"Classical energy reasoner: Hopfield-Tank-style constraint energies trained without BPTT, solved by relaxation, shipped with energy certificates (audit of arXiv:2611.17309)."
+2026-11-24T21:06:49Z,market-brief,1.0.3,,MIT,430687,"Daily portfolio brief for Discord: Yahoo Finance data, Gemini commentary, sector and market-cap balance."
+2026-11-24T21:07:22Z,tring-sdk,0.1.0,Tring <support@tring.co.il>,MIT,107737,Official Python SDK of the Tring API: Israeli receipts and invoices.
+2026-11-24T21:08:31Z,hypersender,1.0.0,Hypersender <info@hypersender.com>,MIT,151489,"Official Python SDK for the Hypersender WhatsApp API, SMS API, and OTP API."
+2026-11-24T21:08:56Z,kpex,0.12.0,Martin Köhler,GPL-3.0-or-later,1791630,Parasitic Extraction Tool for KLayout
+2026-11-24T21:10:06Z,cpuz_parser,0.2.0b0,Elias De Nadai Nalesso Silva <pro.eliasdns@gmail.com>,MIT,180786,Parse CPU-Z TXT report file into a structured object and a human-readable string
+2026-11-24T21:11:18Z,apitube-api,0.0.3,Murabei Data Science,BSD-3-Clause License,44839,Python API to interact with APITube endpoints
+2026-11-24T21:11:47Z,flask-inertiajs,0.20261124.1,Level 12 Developers <devteam@level12.io>,,126955,
+2026-11-24T21:13:29Z,capyshield,0.1.0,Agus Makmun <summon.agus@gmail.com>,Apache-2.0,18329463,Deterministic zero-trust egress guard and local VEX/reachability engine
+2026-11-24T21:17:57Z,cursofiap-jaquirosa-2026,1.0.0,Jaquicilane,MIT,3435,Descricao da sua lib cursofiap
+2026-11-24T21:18:54Z,via-index,0.1.0,Drew Gutstein <drew@gs.works>,GPL-3.0-only,365392,"Codebase indexing and querying CLI tool (Python, JavaScript, TypeScript, Dart, Markdown)"
