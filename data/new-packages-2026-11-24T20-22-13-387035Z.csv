@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T19:20:11Z,lookalike,0.1.2,,Apache-2.0,111760,"Anonymize structured data files with random fake values while preserving schema, types and uniqueness cardinality."
+2026-11-24T19:20:36Z,orchardlogic,0.1.0,"Energy Algorithms, LLC",Apache-2.0,584082,Cultivating decision-ready knowledge structures
+2026-11-24T19:27:36Z,metalscope,0.1.0,Nicolas Anastassacos,MIT,2419647,"Look inside local LLMs as they are served on Apple Silicon: traces, lenses, experts, steering (oMLX and ds4 backends, a Pi front end)"
+2026-11-24T19:27:44Z,rvce-aiml-lab,0.1.0,,,14545,AI and machine learning lab demos for RVCE's fifth semester
+2026-11-24T19:28:41Z,veyra-snap,1.0.0,FlightCoders <hire@flightcoders.com>,MIT,45922,"Run your code, get pytest tests: records real function calls and writes them as regression tests."
+2026-11-24T19:29:28Z,deep-translator-v2,1.11.4,Exaland Concept,Apache-2.0,81965,A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators
+2026-11-24T19:29:49Z,agent-benchmark-suite,0.1.0,Sandeep Hipparagi,MIT,65390,"Unified, reproducible benchmark harness for agentic AI: token compression, provenance verification, Pareto routing, and zero-trust policy enforcement leaderboards"
+2026-11-24T19:30:05Z,provenance-guard,0.2.2,Epistemic Guard Contributors,Apache-2.0,154974,"Open-source, model-agnostic provenance auditing and two-sided listening engine"
+2026-11-24T19:31:28Z,spinning-ascii-donut-star,0.1.0,Marty Lauterbach,,10822,"A spinning 3D star in your terminal: configurable points, ring and hub, rendered as z-buffered ASCII art (donut.c style)."
+2026-11-24T19:32:01Z,atrimem,0.0.1,,,1694,Name reserved for the AtriMem project. Nothing to install yet.
+2026-11-24T19:32:15Z,mellea-pratt,0.1.0,,,16955,"Guarded {pre, act, post} agent loops for Mellea (simple version)."
+2026-11-24T19:32:23Z,pharmassistant,1.0.0,PharmAssistant,MIT,105757,"Client Python officiel de l'API PharmAssistant, l'assistant pharmaceutique pour l'officine : synchrone, asynchrone, flux, conversations, ligne de commande."
+2026-11-24T19:34:27Z,slr-pipeline,1.3.4,,"MIT License Copyright (c) 2026 Md Nayeem Hossain Permission is hereby granted, free of charge, to a…",378795,"A guided, auditable systematic-literature-review pipeline: search, dedup, screen, extract, appraise, and report against PRISMA 2020."
+2026-11-24T19:37:38Z,oh-my-zelenka,1.0.3,zelenkaattack <zelenkaattack@example.com>,MIT,10169,oh-my-zsh style plugin manager for exteraGram - demo utility
+2026-11-24T19:38:08Z,starfold,0.3.2,,MIT,18563231,Python SDK for starfold
+2026-11-24T19:43:01Z,sylix,1.0.1,,,46832,Sylix — Custom personal scripting language with game support and .sylc compilation.
+2026-11-24T19:43:07Z,abqhom,0.1.0,Jonathan Stollberg <jonathan.stollberg@tu-darmstadt.de>,GPL-3.0-or-later,188437,Computational homogenization of unit cells and RVEs with Abaqus and Gmsh
+2026-11-24T19:43:55Z,molyvi,1.0.0,Jack Huey <jhhuey@icloud.com>,,8044,A tool for creating handwritten SVGs in bulk.
+2026-11-24T19:44:30Z,plotora,1.0.0,,,602965,"Scientific plotting, LTspice visualization, numerical analysis and publication-ready Matplotlib figures."
+2026-11-24T19:44:35Z,usp-mp,1.3.20261124,"""Martin J. Laubach"" <mjl@laubach.at>",BSD-3-Clause,116743,Client for the Mein Postkorb automatic retrieval (Automatische Abholung) service of the Austrian Unternehmensserviceportal (USP)
+2026-11-24T19:46:53Z,kaggle-shell-mcp,0.2.0,Dat Nguyen <nquocdat06.work@gmail.com>,MIT,89135,Turn free 12h Kaggle Dual-T4 GPUs into live remote terminals & detached job runners for AI Agents via MCP.
+2026-11-24T19:47:03Z,rewatchx,0.1.0,Ashfaaq Hamja Shaik,MIT,10987,"Turn long videos into short captioned clips, locally."
+2026-11-24T19:50:28Z,mshesh,0.1.0,tderk,MIT,21079,"mshesh // a tiny hash terminal with random hashes, value hashes, and a jittered monitor"
+2026-11-24T19:55:28Z,cerebras-maestro,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1310,Name reservation only. cerebras-maestro is distributed from Cerebras's internal package index.
+2026-11-24T19:55:29Z,cerebras-maestro-plugins,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1389,Name reservation only. cerebras-maestro-plugins is distributed from Cerebras's internal package index.
+2026-11-24T19:55:30Z,cerebras-maestro-test-infra-db,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1444,Name reservation only. cerebras-maestro-test-infra-db is distributed from Cerebras's internal package index.
+2026-11-24T19:55:31Z,cerebras-maestro-toolchain,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,1406,Name reservation only. cerebras-maestro-toolchain is distributed from Cerebras's internal package index.
+2026-11-24T19:55:42Z,sentinel-openrig,0.4.0,,Apache-2.0,1379047,Local project-independent OpenRig observability and bootstrap companion
+2026-11-24T19:56:44Z,compache,0.14.0,Richard Debets,Apache-2.0,1561215,Fit prompt caching and context compaction to your own conversation traces.
+2026-11-24T19:57:06Z,arc56-generated-maris-5cedce14,1.2.2026072010,marissashey,,27580,Generated ARC-56 Algorand smart-contract clients for marissashey/dCharity.
+2026-11-24T19:57:41Z,tacc-pytram,0.2.0,TACC-WMA,,17875,A Python library to interact with TACC's TRAM API
+2026-11-24T19:57:56Z,zensical-gradient-theme,0.1.0,Maxwell Ludden,MIT,24109,"An installable Zensical theme with animated rainbow-gradient accents and purple light/dark color schemes, built for Rich-style Python project docs."
+2026-11-24T19:58:10Z,arc56-generated-marot-a6ce533a,1.2.2026072010,marotipatre,,18098,Generated ARC-56 Algorand smart-contract clients for marotipatre/AuctionX.
+2026-11-24T19:58:16Z,raw2post,0.0.1,Qualixar,MIT,4789,"From raw footage to a finished video, by saying what you want. Placeholder; first release in progress."
+2026-11-24T19:58:22Z,sisyphus-qec,0.2.0,Varun Menon,Apache-2.0,178328,Sisyphus: a fast circuit-level distance estimator for quantum codes (detector error models and CSS codes)
+2026-11-24T19:59:13Z,arc56-generated-marot-61a65656,1.2.2026072010,marotipatre,,18234,Generated ARC-56 Algorand smart-contract clients for marotipatre/Bidding_Marketplace-on-Algorand.
+2026-11-24T20:00:17Z,arc56-generated-marot-6126f505,1.2.2026072010,marotipatre,,19949,Generated ARC-56 Algorand smart-contract clients for marotipatre/Escrow-Mechanism-on-Algorand.
+2026-11-24T20:00:22Z,postel-studio,0.1.1,MaoZhiqin,MIT,6393,以仓库为第一视图的 Agent 工作台
+2026-11-24T20:03:04Z,surfaceqa,0.2.0,Russell Poldrack,MIT,254571,Review tool for FreeSurfer and FastSurfer cortical surface reconstructions
+2026-11-24T20:04:49Z,spingi,0.2.0,Spingi contributors,Apache-2.0,45298975,"Physical Agent Runtime: a reliable executor of simple physical tasks for legged robots, humanoids and quadrupeds, developed sim-first."
+2026-11-24T20:05:44Z,agency-swarm-datacircle,0.1.0,,MIT,22037,Agency Swarm tools for the Datacircle API: find the best GTM APIs
+2026-11-24T20:06:01Z,pa-compiler,0.1.0,cyyier,MIT,249524,"Pa language: Python-syntax, C++-memory-layout, LLVM-compiled systems language with .paw bridges to the Python ecosystem"
+2026-11-24T20:06:36Z,quintrit,0.2.0,,Apache-2.0,5578260,"Python bindings for the Quintrit 1.60 bpw ternary SDK (5 trits per byte, SIMD GEMV kernels)"
+2026-11-24T20:06:58Z,lapseCLI,1.0.0,,,12692,A command line interface that allows for recording Hack Club Lapse timelapses from the command line.
+2026-11-24T20:07:15Z,langchain-induction,0.1.0,,MIT,41466,LangChain agent middleware that runs Induction Subset on tool results before the model sees them.
+2026-11-24T20:07:15Z,paralome,0.9,"""Kenneth L. Jones"" <Ken.Jones@bioinformaticsolutions.com>",AGPL-3.0-only,3079522,"A reproducible, checkpointed HPC workflow framework for omics analysis"
+2026-11-24T20:10:45Z,brink-flair-modbus,0.8.0,Yorick Smilda,MIT,50220,Read and control Brink Flair ventilation units over Modbus
+2026-11-24T20:11:11Z,mkdocs-percona-llmstxt,0.3.2,Percona,Apache-2.0,62114,MkDocs plugin that adds llms.txt and markdown pages to Percona documentation sites
+2026-11-24T20:14:01Z,tex-writer-studio,0.1.1,Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>,GPL-3.0-only WITH Classpath-exception-2.0 OR BSD-3-Clause,788254,A simple LaTeX editor and PDF compiler with live source-to-document navigation.
+2026-11-24T20:15:29Z,fleetmesh-field,0.5.0a1,,CC0-1.0,235685,"FleetMesh Field: MCP server, development harness, living Moiré diagram engine, and grounded FleetMesh information agent"
+2026-11-24T20:17:16Z,nowkey,0.2.0,Sway Team,MIT,14179,DataApi 数据集 SDK：SK + HMAC 签名，覆盖数据集增删改查与聚合
+2026-11-24T20:17:26Z,oo-model,0.2.0,,MIT,227256895,"Build, edit and query finite element models in memory. Exchange files through the OOS and OOH5 adapters. Native Python interface to the O_o C++ library, also available for JavaScript/WebAssembly."
