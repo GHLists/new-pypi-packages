@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T05:20:01Z,factory-graph-mcp,0.1.2,prag-ai,MIT,1146412,MCP server that traces upstream equipment in a factory — find where to look first when a machine alarms.
+2026-11-24T05:21:55Z,contentsweep-dag-doctor,1.0.1,Content Sweep LLC,Apache-2.0,40061,Local Apache Airflow DAG review and incident diagnosis from exported evidence
+2026-11-24T05:22:22Z,hw-score-sim,0.2.0,Gregor Eesmaa,MIT,567222,Procedural handwritten sheet-music rendering engine for MusicXML and MuseScore scores
+2026-11-24T05:23:59Z,caudex,0.11.1,Sohanur Islam Shuvo <mdsohanurislamshuvo@gmail.com>,BUSL-1.1,10712131,Run Jupyter notebooks and Python scripts on Kaggle's GPUs from your terminal
+2026-11-24T05:25:13Z,base-aprs-client,0.0.1,Masen Furer KF7HVM <kf7hvm@0x26.net>,"MIT License Copyright (c) 2022 python-aprs Permission is hereby granted, free of charge, to any per…",919275,Base layer for building more complex APRS interactions with python.
+2026-11-24T05:32:36Z,dxmohammad-nlp-toolkit,0.1.1,Mohammad,MIT,23082,"A modular Python toolkit for text preprocessing, linguistic analysis, and text vectorization."
+2026-11-24T05:44:30Z,elci,0.2.0,Arda Yemci,MIT,60852,"Reference implementation of Elçi, an open person-to-person agent protocol."
+2026-11-24T05:45:42Z,castor-hal,0.2.0,craigm26 <craigm26@gmail.com>,Apache-2.0,66074,"Transport hardware-abstraction layer for robot-md-gateway — one actuator interface fronts serial, CAN/J1939, ISOBUS, ROS 2 and MAVLink."
+2026-11-24T05:46:58Z,animas,1.0.0,,MIT,232647,Animas: The Composable Micro-Kernel by Magitech
+2026-11-24T05:50:00Z,docx-fresh,0.1.0,CokeRoach,MIT,11645,Give python-docx documents fresh metadata instead of the default template's 2013 'python-docx / Macintosh Word' values.
+2026-11-24T05:52:53Z,pdf-ar,0.1,,AGPL-3.0-only,186430,"Arabic and English text extraction from PDFs: the PDF's own text, a rebuild from glyph IDs and font shaping tables, or Tesseract OCR. No language model."
+2026-11-24T05:54:00Z,ctx-sdk,0.1.0,OEvortex,Apache-2.0,1540752,"Minimalist agent harness: agent loop, sessions, tools, plugin composition, MCP client, 65 LLM providers, and a Python SDK. The coding agent CLI/TUI is a separate package (ctx-code) built on top."
+2026-11-24T05:54:13Z,ctx-term,0.1.0,OEvortex,Apache-2.0,204897,"Terminal UI building blocks for ctx: Textual widgets, block renderers, formatting, and input primitives. Ships the ctx.term package; the coding-agent app lives in ctx-code."
+2026-11-24T05:56:56Z,ctx-agent,0.1.0,OEvortex,Apache-2.0,934167,"Coding agent product built on the ctx harness: Textual TUI, headless CLI, session management, and the ctx console script."
+2026-11-24T06:00:28Z,modelpenny,0.0.1,Ordayer Works,,1893,"ModelPenny shows what each AI call cost, priced from the provider's own pricing page. The SDK is coming soon."
+2026-11-24T06:04:32Z,herdr-agent-bridge,0.1.0,,Apache-2.0,697846,Local coding-agent task bridge over herdr-core
+2026-11-24T06:15:30Z,guage-kit,0.1.0,Neo Pragnya,Apache-2.0,266793,"Guage Kit: measure LLMs, RAG pipelines, retrieval, embeddings, classifiers and agents. Deterministic metrics, LLM judges, statistics, quality gates, a pytest plugin and offline HTML reports, built on…"
