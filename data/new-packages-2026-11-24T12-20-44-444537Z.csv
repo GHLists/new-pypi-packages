@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T11:17:34Z,wim-nxc,0.1.0,Pennyw0rth,BSD-2-Clause,17511,"Pure-Python read-only reader for Windows Imaging (WIM) files, maintained for NetExec"
+2026-11-24T11:23:17Z,syntax-import,0.1.0,HaoHua Huang,MIT,30143,"Run Python files extended by a single top-level `syntax import` directive that rewrites the source text and AST, with tracebacks mapped back to the original lines."
+2026-11-24T11:24:57Z,minimindslab-uuid-validate,0.1.0,MiniMindsLab,MIT,6891,"Validate, classify, and normalize UUID strings offline with strict deterministic parsing for common UUID forms."
+2026-11-24T11:26:45Z,river-sandbox,0.1.1,,Apache-2.0,936344,"Rootless Linux sandbox for untrusted programs, with judge-grade resource limits and accounting"
+2026-11-24T11:27:46Z,google-travel-local,0.0.1b4793,Circles,MIT,13920,PyPI google-travel-local Python Package owned by Circlez.ai
+2026-11-24T11:28:34Z,sgl-deepseek-recipe,0.2.1,,MIT,45304237,SGLang's build of the deepseek-recipe Python bindings
+2026-11-24T11:30:38Z,ssh-keyaudit-lite,0.1.0,Alessio Auretto,MIT,31896,"Audit an SSH authorized_keys file: SHA256 fingerprints, key type, bits, comment; flags DSA, weak RSA and comment-less keys. Read-only."
+2026-11-24T11:34:31Z,vinworld-vinmail,0.1.0,Vinworld <dev@vinworlddev.com>,MIT,18217,Official zero-dependency Python SDK for the VinMail transactional email API.
+2026-11-24T11:35:08Z,veriact,0.2.0,Veriact <contact@veriact.io>,MIT,64881,SDK Python de Veriact : sachez ce que votre IA a vraiment fait.
+2026-11-24T11:36:17Z,sigma-mcp-server,0.2.0,Thomas Patzke,MIT,137911,"MCP server for Sigma detection engineering: create, validate and search Sigma rules, and build and test processing pipelines with pySigma"
+2026-11-24T11:37:15Z,bai2-to-excel,0.1.0,,MIT,14007,"Parse corporate BAI2 bank statement files (Chase, BofA, Wells Fargo, Citi, HSBC) offline into Python dicts, CSV, Xero CSV, QuickBooks CSV or JSON with balance checks."
+2026-11-24T11:37:18Z,coda-to-excel,0.1.0,,MIT,12850,"Parse Belgian Febelfin CODA 2.6 bank statement files (.cod, .coda) offline into Python dicts, CSV, Xero CSV, QuickBooks CSV or JSON with balance checks."
+2026-11-24T11:37:18Z,reamer-research,4.11.5,Reamer Labs,LicenseRef-Reamer-Research,885594,Python and C++ backtesting and live trading engine with visual trade diagnostics
+2026-11-24T11:38:54Z,pinta-dags,0.1.0,,,69495,DAG component of the elevation production system
+2026-11-24T11:39:35Z,side-cli,0.1.0,,MIT,44129,Supervise a command and bridge its standard streams over local TCP.
+2026-11-24T11:39:54Z,kicad2easyeda,0.1.0,Rayhan R. Zamzamy,GPL-3.0-or-later,163984,Export KiCad projects (schematic + PCB) to EasyEDA Standard format
+2026-11-24T11:40:33Z,au-identifiers,1.0.0,Business API <dev@businessapi.com.au>,MIT,22289,"Validate and format Australian identifiers: ABN, ACN, ARBN, TFN, Director ID and VIN."
+2026-11-24T11:44:27Z,microsandbox-core,0.8.2,,,43507,
+2026-11-24T11:46:03Z,mygeocode,1.1.1,My Geocode <support@mygeocode.com>,MIT,68671,"Official Python client for the My Geocode API: geocoding, reverse geocoding, address autocomplete, IP, timezone, elevation and postal code lookups."
+2026-11-24T11:48:10Z,zyonix-model,0.1.13,Zyonix,Apache-2.0,30740,"Shared Zyonix models and helpers (reliability spec, taxonomy, span attributes, normalised span, redaction)"
+2026-11-24T11:48:12Z,zyonix-cli,0.1.13,Zyonix,Apache-2.0,149264,"Zyonix terminal commands: status, runs, issues, fixes, regression tests, monitoring. Adds to the `zyonix` command."
+2026-11-24T11:48:13Z,zyonix-sdk,0.1.13,Zyonix,Apache-2.0,59623,"Zyonix Python SDK: init, run, step, output, feedback"
+2026-11-24T11:49:04Z,runfn,0.1.0,Kavyansh Sharma <kavyanshsharma2004@gmail.com>,"MIT License Copyright (c) 2026 Kavyansh Sharma Permission is hereby granted, free of charge, to any…",11570,"Run any Python function from the terminal, with expected-output checks and timing"
+2026-11-24T11:55:46Z,eof-geolib,0.0.1,EOF Geolib contributors,,1270,EOF Geolib
+2026-11-24T11:59:16Z,aerodyn,0.0.1,,,1595,Reserved for Aerodyn by Kodou. The first release is coming soon.
+2026-11-24T11:59:32Z,posco,2.2.0a3,"Manuel S. Sellner, Martin Smieško, Peter Rüthemann",MIT,3984228,po-sco 2: atom-resolved interaction analysis of pre-protonated structures
+2026-11-24T11:59:54Z,suade-fire-mcp,0.6.1,,Apache-2.0,1001807,MCP server exposing the FIRE data standard for schema mapping
+2026-11-24T12:01:28Z,scbox,0.1.7,sc92,MIT,116225,个人自用工具箱：单实例文件锁、轮转日志、全局异常钩子、MQTT 发布、YAML 配置读写、值转 YAML 文本、工作时段判断、局部异常兜底、钉钉机器人通知
+2026-11-24T12:01:36Z,scpkg,0.1.7,sc92,MIT,116215,个人自用工具箱：单实例文件锁、轮转日志、全局异常钩子、MQTT 发布、YAML 配置读写、值转 YAML 文本、工作时段判断、局部异常兜底、钉钉机器人通知
+2026-11-24T12:01:37Z,scpip,0.1.7,sc92,MIT,116245,个人自用工具箱：单实例文件锁、轮转日志、全局异常钩子、MQTT 发布、YAML 配置读写、值转 YAML 文本、工作时段判断、局部异常兜底、钉钉机器人通知
+2026-11-24T12:02:34Z,front-alego,0.0.1,Alessandro Guarita <alessandro.guarita@gmail.com>,MIT,26831,Front_Alego para uso no Python
+2026-11-24T12:04:08Z,var-cvar,1.1.2,Iker Abad,MIT,119104,One-day VaR and CVaR with a rolling backtest for a three-asset portfolio.
+2026-11-24T12:05:14Z,safenv,1.0.0,Adeosun Abdulsamad <adeosunabdulsamad25@gmail.com>,MIT,8630,A python module to ensure safety of API keys and other secrets in your project folder
+2026-11-24T12:05:24Z,hidata,0.1.0,"Lucas Arnoldt, Jan Engelmann, Eva Holtkamp","Apache License Version 2.0 Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND COND…",2075715,"Hierarchical single-cell data across groups, subgroups and cells"
+2026-11-24T12:06:05Z,faststudio,0.1.0,Bekzod,MIT,560287,Plug-and-play admin panel for FastAPI and SQLAlchemy 2.0 with a modern React UI.
+2026-11-24T12:07:58Z,clitwy,1.0.4,,Apache-2.0,255147,Use MCP and OpenAPI services through named command-line tools or Python.
+2026-11-24T12:08:26Z,slipstream-accel,1.1.0,,Apache-2.0,789287,Native accelerator beam-dynamics and tracking tools
+2026-11-24T12:10:09Z,llm-ledger-cli,0.1.0,llm-ledger contributors,MIT,50765,"Lightweight, local-first proxy and CLI tracking real-time LLM token usage, latency, and exact USD cost."
+2026-11-24T12:17:32Z,misclosure,0.1.0,Liam O'Callaghan,Apache-2.0,174543,Conformance tests and answer scoring for MCP servers of scientific models
+2026-11-24T12:18:09Z,hue-vision,1.0.0,Exortic Research Lab <research@exortic.com>,MIT,10486366,"Universal Live Multi-Device Display Understanding, Screen Context Synthesis & Causal Interaction Engine for AI Agents & LLMs"
+2026-11-24T12:18:39Z,glitchwall,0.5.1,,MIT,2849056,"Your coding agent's tool calls as a live, glitchy retro-terminal desktop wallpaper. Local only, secrets masked, no wallpaper app needed on Windows."
+2026-11-24T12:18:45Z,splent-feature-model-memory,0.1.8,,LGPL-3.0-or-later,69649,
+2026-11-24T12:19:42Z,splent-feature-lab-sessions,0.1.34,,LGPL-3.0-or-later,225784,
+2026-11-24T12:19:50Z,ipay-paymentgateway,0.0.5,Ipay,,10313,A Python library for the Ipay payment gateway.
+2026-11-24T12:19:59Z,whichdep,0.0.1,,Apache-2.0,2501259,git bisect for lockfiles — isolate which dependency update broke your build
