@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T12:20:47Z,brandspec,0.1.0,Rafif Muchsin <rafif@rafifmsn.com>,GPL-3.0-only,199862,Deterministic brand mark compiler and visual audit CLI
+2026-11-24T12:21:30Z,workhold-mcp,1.0.0,Mikhail Konin,,50032,Local MCP observer adapter for Workhold
+2026-11-24T12:25:56Z,touchque-device-risk,1.0.0,Touchque,,40065,"Official Python server SDK for Touchque Device Risk: check a browser's identification, read and search identifications, report site activity"
+2026-11-24T12:27:16Z,agentguardiam-sdk,0.2.0,,,8851,Task-scoped MCP client for AgentGuardIAM staging
+2026-11-24T12:29:12Z,ada-emeans,0.1.1,Tanwir,MIT,63548,Ada-emeans: Adaptive Momentum-Preserving Clustering with Manifold-Grounded Eigen-Revival
+2026-11-24T12:30:47Z,gitr-review,0.1.0,Tomek Rozen,MIT,2715017,Review coding agents' changes: a Git diff viewer in the browser
+2026-11-24T12:31:28Z,bci-toolkit,0.1.0,,,63670,EEG signal preprocessing and BCI algorithms
+2026-11-24T12:35:27Z,cdindex2-parser,1.0.0,"""Chris K.Y. Fung"" <chris@example.com>",MIT,27001,Parse CD Index 2 IDX/FILE files into CSV/JSON
+2026-11-24T12:35:54Z,k0ntrol-cli,0.1.0,Ruben Juarez Perez,Apache-2.0,922999,"Local harness for coding agents: deterministic routing, TDD loop, human gates."
+2026-11-24T12:38:25Z,flameo,0.1.1,Mozammel Hoque <mozammelshbl@gmail.com>,MIT,1817107,An asynchronous Python web framework with ASGI and RSGI support
+2026-11-24T12:39:31Z,urban-arrow-api,0.1.0,Koen Hendriks,MIT,36461,Async Python client for the Urban Arrow (Pon Connected) bike cloud API
+2026-11-24T12:39:40Z,tavisowms-skill,2.0.3,Taviso,Apache-2.0,31607,Tavisowms warehouse assistant skill for MCP agents
+2026-11-24T12:39:46Z,tavisowms-mcp,1.6.3,Taviso,Apache-2.0,5323,Tavisowms MCP skill CLI for external AI clients
+2026-11-24T12:39:47Z,tavisowms-sdk,1.3.1,xiao yue,Apache-2.0,22788,Tavisowms开放接口 Python SDK
+2026-11-24T12:41:28Z,pastrastack,0.1.0,Nikolas Valsamidis,BSD-3-Clause,87137,Alignment and ranked lucky-image stacking for astronomical FITS exposure cubes
+2026-11-24T12:42:50Z,wechat-sticker-publisher,0.2.1,WeChat Sticker Publisher contributors,MIT,700674,"An offline-first CLI and portable Agent Skill for preparing, validating, and packaging WeChat sticker albums."
+2026-11-24T12:44:57Z,contextgate-core,0.6.0,NLP-Smarty contributors,MIT,288859,"Deterministic, zero-LLM prompt optimizer and repo-intelligence layer (hooks + MCP) for coding agents"
+2026-11-24T12:47:12Z,himring,0.1.0,,MIT,235799,"The Python SDK of the Himring API, which lets AI agents answer from what a business knows."
+2026-11-24T12:51:25Z,himring-agent-hooks,0.1.0,,MIT,33013,"Records the passages that Himring returned and the answer that a LiveKit or Pipecat agent gave, and sends them to Himring after the reply."
+2026-11-24T12:51:53Z,pixtreme-transport-ffmpeg,0.1.0,,MIT AND BSD-2-Clause AND BSD-3-Clause AND Zlib AND bzip2-1.0.6 AND LGPL-2.1-or-later,31379850,FFmpeg software video reader returning pixtreme GPU PixelBuffers
+2026-11-24T12:54:36Z,pinka,0.1.0,Gao Chengzhi,MIT,84996,"Pack GPU jobs onto shared cards by measured memory: a single-node job pool with VRAM/CPU/RAM booking, dependencies and retries"
+2026-11-24T12:54:47Z,bluebus,0.1.0,,MIT OR Apache-2.0,7265019,"Asyncio Bluetooth Low Energy for Linux: scan, connect, GATT client and server, advertising and pairing through BlueZ over D-Bus (Rust core)."
+2026-11-24T12:55:59Z,merry-agent,0.1.0,,MIT OR Apache-2.0,1214255,Python bindings for the Merry agent runtime
+2026-11-24T12:57:07Z,rs172,1.0.0,Jonas Hagen <jonas.hagen@qrst.ch>,MIT,61620,Interface library and CLI for the RS PRO RS-172 (CEM DT-172) temperature/humidity data logger
+2026-11-24T12:57:17Z,raynbpm,0.4.0,RaynBPM Team,MIT,27300,A pure-Python audio tempo and beat analysis engine
+2026-11-24T12:57:24Z,rokadice,0.0.1,Paul Leroy <paul.leroy@univ-rennes.fr>,GPL-3.0-or-later,64198684,Autodiscovered plugins for ROKA and DICE algorithms.
+2026-11-24T12:58:26Z,chenyikun,0.1.0,Chen Yikun,MIT,18218,Small utilities from Chen Yikun's projects: exact money amounts for cross-border commerce
+2026-11-24T13:03:46Z,motif-agent-tracer,1.0.1,,Apache-2.0,860193,Run agentic tasks and record structured trajectories as SFT/RL training data
+2026-11-24T13:04:58Z,accio-model-proxy,0.1.3,,Apache-2.0,234288,Standalone and embeddable model protocol proxy.
+2026-11-24T13:05:20Z,gulf-einvoicing,0.1.0,"""iFynx Integrated Solutions P.S.C."" <contact@ifynx.com>",MIT,24885,"Saudi ZATCA Phase 2 (Fatoora) signing + QR and UAE Peppol PINT AE e-invoices, byte-identical to the iFynx JavaScript engines."
+2026-11-24T13:05:34Z,G1-Docket-SDK,1.0.2,,Apache-2.0,227219,G1 Docket Developer Client SDK — Zero-Trust Data Attestation & AI Gateway Integrations
+2026-11-24T13:06:53Z,pyrorb,26.11.24.1,,LicenseRef-SUL-1.0,811704,PyRORB: an in-development Python rainfall-runoff routing implementation
+2026-11-24T13:07:07Z,accio-stable,0.1.3,,Apache-2.0,438021,Stable Agent Server and Model Proxy for agentic rollout execution.
+2026-11-24T13:07:30Z,akstream,0.1.0,Giorgio Pizzati,"BSD 3-Clause License Copyright (c) 2026, Giorgio Pizzati All rights reserved. Redistribution and us…",3403775,"Streaming, pandas-like analysis of ROOT trees with awkward arrays, uproot I/O and sparse systematic variations"
+2026-11-24T13:08:57Z,urml-vda5050-runtime,0.5.0,URML Maintainers,BUSL-1.1,66371,"VDA 5050 fleet-control reference runtime for URML: AMRs and AGVs over MQTT, zero ROS."
+2026-11-24T13:09:00Z,urml-industrial-arm-runtime,0.5.0,URML Maintainers,BUSL-1.1,25728,"ROS-Industrial / MoveIt 2 reference runtime for URML — ABB, FANUC, KUKA, YASKAWA arms."
+2026-11-24T13:09:02Z,urml-humanoid-runtime,0.5.0,URML Maintainers,BUSL-1.1,15964,"Humanoid reference runtime for URML — Agility Digit (locomotion subset, v0.1)."
+2026-11-24T13:09:05Z,urml-mobile-runtime,0.5.0,URML Maintainers,BUSL-1.1,15034,Wheeled AMR reference runtime for URML — Clearpath Husky / Jackal.
+2026-11-24T13:10:19Z,lessormq-celery,0.4.9,,Apache-2.0,21894,"Celery on LessorMQ, the message queue over HTTP where the server decides and workers only claim, run, ack or fail: a kombu transport and a base task that leave retries to the server"
+2026-11-24T13:10:23Z,valuta-sessao,0.0.0,,,2246,"Nome reservado pela Valuta. O pacote de verdade vem do Artifact Registry da Valuta, não do PyPI."
+2026-11-24T13:10:39Z,theresavdb,0.1.0,TheresavDB Contributors <core@theresav.eu>,,7533,Pure Python client for TheresavDB relational database
+2026-11-24T13:13:50Z,axon-gui,5.3.4,,,47510,PySide6 + Web hybrid desktop framework: expose Python objects to the page and call JS back / 基于 PySide6 的 Qt-Web 混合开发框架
+2026-11-24T13:15:04Z,atomaestro,0.0.7,,MIT,7111813,"Atomaestro: publication-quality atomistic structure and trajectory visualization — CLI, browser viewer, animation, ORTEP, and terminal TUI"
+2026-11-24T13:16:41Z,jvs-causal-graph,2.0.1,shenhui-ui,MIT,170947,JVS: Temporal-Causal Knowledge Graph & Cross-Session Causal QA
+2026-11-24T13:17:07Z,solarian-robstride,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,48145,Robstride servo actuator and CAN bus plugin for the Solarian robotics framework
+2026-11-24T13:18:27Z,solarian-edulite-a3,0.1.0,Raul Garreta <raul@solarian.dev>,Apache-2.0,21653247,EDULITE A3 arm and gripper modules for the Solarian robotics framework
+2026-11-24T13:19:04Z,py6sigma,0.1.0,,MIT,60425,Lean Six Sigma statistical analysis tools for Python
+2026-11-24T13:20:31Z,odoo-addon-helpdesk-mgmt-partner-dashboard,17.0.1.0.0.2,"Solvos, Odoo Community Association (OCA)",AGPL-3,29064,Replace the Helpdesk team dashboard with one grouped by customer
