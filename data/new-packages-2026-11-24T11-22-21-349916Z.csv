@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T10:19:06Z,pinta-lib,0.1.0,,,16616,Common library for the elevation production system
+2026-11-24T10:19:55Z,innoxpert-benchmark-89057,1.0.0,InnoXpert,,3669,High-Performance Automation Benchmark & Cloud Integration
+2026-11-24T10:20:08Z,hyperinfer-llamaindex,0.2.0,,AGPL-3.0-only,11867,LlamaIndex integration for HyperInfer LLM Gateway
+2026-11-24T10:20:09Z,hyperinfer-langchain,0.2.0,,AGPL-3.0-only,12389,LangChain integration for HyperInfer LLM Gateway
+2026-11-24T10:20:13Z,hyperinfer,0.2.0,,AGPL-3.0-only,14482919,High-performance Python SDK for HyperInfer LLM Gateway
+2026-11-24T10:20:30Z,kos-solver,1.0.0b1,Katsenia SpA <support@katsenia.com>,LicenseRef-KOS-EULA,3233103,"KOS — the Katsenia Optimization Solver: fast LP and MIP, with exact proofs and open certificates for linear programs"
+2026-11-24T10:20:55Z,kos-verify,1.0.0b1,Katsenia SpA <support@katsenia.com>,Apache-2.0,81593,Independent exact-arithmetic checker for KOS linear programming certificates
+2026-11-24T10:21:15Z,shtab-sdk,0.1.2,STIK PRO LLC <support@shtab.app>,MIT,56988,Typed SDK for the Shtab public API
+2026-11-24T10:22:31Z,cliptor,0.0.1,,MIT,2818,Free open-source AI clipper: turn any long video into short vertical clips. Early placeholder release.
+2026-11-24T10:23:59Z,bitstraining,0.1.0,Bitstraining contributors,Apache-2.0,327168,"Hardware-aware AI model training, fine-tuning, optimization and deployment framework."
+2026-11-24T10:24:01Z,certhub-sdk,0.3.0,CertHub GmbH,Apache-2.0,116337,"The official Python client for the CertHub API: records, traceability and evidence for medical-device teams"
+2026-11-24T10:26:18Z,coldfront-plugin-dfg-fachsystematik,0.1.1,York Schickl,Apache-2.0,73929,ColdFront plugin to classify projects with the DFG Fachsystematik (2024-2028)
+2026-11-24T10:26:56Z,django-celery-beat-prune,1.0.0,TheLoops <support@theloops.live>,MIT,21508,Make CELERY_BEAT_SCHEDULE authoritative for django-celery-beat: a periodic task removed from settings stops running instead of living on as a database row.
+2026-11-24T10:29:13Z,simplelink-wifi-toolbox,4.1226.1,Texas Instruments,,301626890,"TI SimpleLink WiFi Toolbox - radio testing, device programming, and configuration"
+2026-11-24T10:29:24Z,simplelink-wifi-toolbox-binaries,4.1226.1,Texas Instruments,,225078276,"Programmer, radio-tool and configuration builder binaries for the TI SimpleLink WiFi Toolbox"
+2026-11-24T10:29:34Z,simplelink-wifi-toolbox-utility,4.1226.1,Texas Instruments,,103849543,"UI, docs and configuration files for the TI SimpleLink WiFi Toolbox"
+2026-11-24T10:29:49Z,simplelink-wifi-toolbox-wlogger,4.1226.1,Texas Instruments,,265903658,Wireless logger files for the TI SimpleLink WiFi Toolbox
+2026-11-24T10:30:47Z,mopt-py,2.1.0,ss0832,GPL-3.0-or-later,16701259,Successor implementation of MultiOptPy: extensible geometry optimization and reaction path exploration in Rust and Python
+2026-11-24T10:31:56Z,sequency-instruments,0.1.1,,MIT OR Apache-2.0,20836402,"Pure-Rust binary instrument file readers for analytical chemistry formats (Shimadzu .lcd, Bruker TopSpin NMR, Agilent OpenLab CDS)."
+2026-11-24T10:34:41Z,optio-chat,0.1.0,Kristof Csillag <kristof.csillag@deai-labs.com>,Apache-2.0,241752,"Agent chat for optio: an MQTT 5 hub, a client library, a CLI and a Claude Code plugin"
+2026-11-24T10:38:55Z,coldfront-plugin-doi-resolver,0.2.1,York Schickl,Apache-2.0,28610,ColdFront plugin resolving publications from DOIs and bibcodes via a fixed registry of registration agencies
+2026-11-24T10:40:48Z,boardemul,0.1.0,Prolific Lab,Apache-2.0,902448,Run and test ESP32-S3 firmware without the board
+2026-11-24T10:40:54Z,cf-share-tmux,0.1.0,,MIT,21763,"Share a tmux window in the browser with ttyd, optionally through a Cloudflare quick tunnel."
+2026-11-24T10:42:29Z,prisma-sat,0.1.0,Lokesh Shukla <lokesh.skshukla@gmail.com>,MIT,51015,"Automated Python client and CLI to search, order, and download ASI PRISMA hyperspectral satellite data by AOI."
+2026-11-24T10:42:56Z,metrology-lab-ai,0.9.4,MetrologyLab AI contributors,Apache-2.0,242992,MetrologyLab AI — orchestration métrologique et moteur de calcul vérifiable
+2026-11-24T10:44:05Z,coldfront-plugin-userinvite,0.3.1,York Schickl,Apache-2.0,59064,ColdFront plugin inviting users to join a project via signed one-time email links
+2026-11-24T10:44:56Z,icetrace,0.3.0,Sangmin Yoon <sanspareilsmyn@users.noreply.github.com>,Apache-2.0,361463,"Cut Apache Iceberg query & storage bills in 10 seconds — Diagnose, generate safe multi-engine fix plans, and verify via CLI & MCP (metadata-only)."
+2026-11-24T10:47:04Z,scopedpost,0.1.0,,MIT,11438,Official Python client for the ScopedPost transactional email API.
+2026-11-24T10:47:49Z,robot-viewer-irsl,1.1.0,,,357668,"Real-time MuJoCo robot visualization over ZMQ with desktop, web, and headless renderers"
+2026-11-24T10:48:03Z,dekka-veil,0.1.0,Dekka,Apache-2.0,49064763,"Find and protect personal information in text, with Ghana-aware rules and an optional local model"
+2026-11-24T10:49:23Z,offline-rag-kit,0.1.2,HugoDelgadoo,MIT,33229,Privacy-first local document search with PDF citations and optional Ollama answers
+2026-11-24T10:53:35Z,aft-mcp,2026.11.0,,MIT,234013,"An MCP server that gives AI agents safe, scoped access to AFT boards."
+2026-11-24T10:56:12Z,fihris,0.1,,AGPL-3.0-only,112308,"A retrieval engine for Arabic and English documents: ingestion, structure-aware chunks, hybrid BM25 and dense search across languages, reranking and access control."
+2026-11-24T10:56:33Z,minscan,0.1.0,Toesoe <code@toesoe.dev>,MIT,228357,Python bindings for the Minolta DiMAGE minscan C library
+2026-11-24T10:57:30Z,agent-action-gateway,0.2.0,GreyyDaze,MIT,472424,"Let AI agents change real systems safely: you control what they can do, and you can prove what they did"
+2026-11-24T10:59:24Z,curu-catalog,0.6.1,James Veitch,MIT,687222,Catalogues a media estate in place by content and answers search queries over it.
+2026-11-24T11:00:18Z,odoo-addon-storage-image-product-server-env,18.0.2.0.0,"Camptocamp, Odoo Community Association (OCA)",LGPL-3,23353,Server environment features for product image tags
+2026-11-24T11:00:28Z,findmytext,0.3.0,"Lars Henry Berge Olsen, Pierre Lison, Martin Jullum, Mark Anderson",MIT,103917,Text-containment detection via winnowed fingerprinting
+2026-11-24T11:00:32Z,nucarium-sdk,0.1.0,,MIT OR Apache-2.0,45485,"The Nucarium Watch read API for Python: the inbox, sessions, machines, environments and alerts, with an API key."
+2026-11-24T11:01:05Z,pinta_backend,0.1.0,,,43914,Add your description here
+2026-11-24T11:01:16Z,keyfern,1.0.0,"""Velopre S.r.l."" <support@keyfern.com>",MIT,11954,"Keyfern licensing client: activate license keys, verify Ed25519-signed answers, work offline with a signed lease."
+2026-11-24T11:04:13Z,sr-zero,0.9.0,vLLM Semantic Router,Apache-2.0 AND LicenseRef-System-Zero-Rule-Tables,5190071,"A decision model with no learned weights: readable rule tables learned from data, plus hand-written modules. Pure Python, no dependencies."
+2026-11-24T11:05:35Z,freshdags,0.1.0,Markus Kobold,MIT,40594,"Track dependencies between docs and the code they describe, and flag documentation drift."
+2026-11-24T11:07:31Z,pinta-qgis-plugin,0.1.0,,,99522,QGIS plugin component of the elevation production system
+2026-11-24T11:08:14Z,abs-core,10.1.4,OCONNECTOR Technology,MIT,26658,Official Python SDK for ABS Core — AI Agent Governance Infrastructure
+2026-11-24T11:08:48Z,roarm-mcp,0.1.1,Sam Ko,Apache-2.0,6654249,"MCP server that lets LLM agents drive a Waveshare RoArm-M3, with every motion checked in MuJoCo first."
+2026-11-24T11:09:23Z,hansho,0.1.0,Recodive,MIT,40576,"Official Python client for a Hansho hub: pair users, send notifications, pages, Live Activities and widget feeds, verify webhooks."
+2026-11-24T11:09:42Z,shipr,0.2.0,shipr contributors,MIT,320522,"Git-aware deployment CLI: ship an exact commit to your servers over SFTP, safely."
+2026-11-24T11:11:22Z,textutils-davy,1.0.0,NZIENGUI Davy,MIT,21686,A lightweight Python library for common text-processing operations.
+2026-11-24T11:12:10Z,ragdial-mcp,0.1.0,Salman Khan,MIT,135180,"RAGDial MCP: an MCP server for RAG chunking & retrieval ablations. Boundary-damage audits, Recall@k / MRR / nDCG@k, hybrid BM25 + dense (RRF), reranking. Local-first."
+2026-11-24T11:12:25Z,modula-wfy,0.1.0,,,10952,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-24T11:14:10Z,qrosetta,2.0.0,"Shaswato Sarker, Majid Haghparast, Tommi Mikkonen",Apache-2.0,5733597,Command-line tool for Quantum Rosetta: starts the local container stack and runs circuits against a Quantum Rosetta server
+2026-11-24T11:14:44Z,jupyterlab-qrcode-barcode-scanner,0.1.0,"Thibaut Mélen, Nicolas Cella",MIT,2076841,Read QR codes and barcodes in JupyterLab: a panel that scans an image in the browser with the open-source QR Code & Barcode Scanner engine.
+2026-11-24T11:16:26Z,dmr-jsonapi,0.1.0,Baptiste Darthenay <baptiste@ikso.net>,MIT,35317,JSON:API support for django-modern-rest
+2026-11-24T11:18:18Z,verilink-sdk,3.7.0,,Proprietary,76806,Python SDK for the VeriLinkOS governed-agent API
+2026-11-24T11:19:33Z,beeply-native,0.1.0,,,26897,Native customer API adapter for Beeply; no UI or staff API
+2026-11-24T11:20:33Z,unizt,0.1.0,"""Dr. Sabir Makhlouf"" <sabir.makhlouf@gmail.com>",MIT,76918,"Unified Post-Processing Tool for True Thermoelectric Figure of Merit ZT, Lattice Thermal Conductivity, and Device Efficiency from First-Principles DFT & BoltzTraP2 Calculations"
+2026-11-24T11:21:19Z,maniskill-elirobots,0.1.0,Felipe Gomes de Melo,MIT,12305458,

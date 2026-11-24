@@ -1,27 +1,41 @@
 {
   "list": {
-    "count": 55,
-    "from": "2026-11-24T09:18:31.737092Z",
-    "path": "data/new-packages-2026-11-24T10-18-35-223282Z.csv",
-    "to": "2026-11-24T10:18:35.223282Z"
+    "count": 58,
+    "from": "2026-11-24T10:18:35.223282Z",
+    "path": "data/new-packages-2026-11-24T11-22-21-349916Z.csv",
+    "to": "2026-11-24T11:22:21.349916Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-24T09:04:20Z",
       "package": "e2e-web-sdk",
       "since": "2026-11-24T08:19:06.687715Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-24T07:22:56Z",
       "package": "moresec-graph",
       "since": "2026-11-24T07:21:37.790165Z",
       "version": "1.0.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-24T11:19:29Z",
+      "package": "sh-keyaudit-lite",
+      "since": "2026-11-24T10:18:35.223282Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-24T11:17:34Z",
+      "package": "wim-nxc",
+      "since": "2026-11-24T10:18:35.223282Z",
+      "version": null
     }
   ],
-  "serial": 44099416,
+  "serial": 44101590,
   "source_truncated": false,
-  "window": "2026-11-24T10:18:35.223282Z"
+  "window": "2026-11-24T11:22:21.349916Z"
 }
