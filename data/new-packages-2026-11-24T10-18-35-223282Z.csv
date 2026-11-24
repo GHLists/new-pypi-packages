@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T09:18:41Z,inventree-financial-reports,0.1.0,Oliver Walters <oliver.henry.walters@gmail.com>,MIT,3805306,Generate monthly financial reports for InvenTree
+2026-11-24T09:21:11Z,uzmorph-segtok,0.1.1,Ulugbek Salaev,MIT,7555722,Ending-Constrained Neural Morphological Segmentation and Tokenization for Uzbek
+2026-11-24T09:23:31Z,raghu,1.0.0rc1,,MIT,47541,"Clean OOP data structures and standalone algorithms in pure Python, with zero dependencies."
+2026-11-24T09:24:37Z,jt-coding-agent,0.1.0,Shrishant Jha <shrishant@jhatechnologies.in>,,19906,Autonomous Multi-File Coding Agent powered by jt-memory (Episodic Scars) and jt-continual (Artificial Homeostasis & Pain-Driven Learning)
+2026-11-24T09:27:02Z,msingi,0.1.0a1,Kevin Wasike Wakhisi,MIT,60870,"Msingi (Swahili for “foundation”): lay the foundation of an Ubuntu server over SSH. Pick a profile, run it, and only the modules you chose are set up."
+2026-11-24T09:27:31Z,ag2-datacircle,0.1.0,,MIT,20677,AG2 tools for the Datacircle API: find the best GTM APIs
+2026-11-24T09:29:43Z,tangyuanlin-utils,0.1.3,,,4831,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-24T09:31:56Z,browserpilot-sdk,0.19.0,xy200303 <3483421977@qq.com>,MIT,63356,"Drive the BrowserPilot desktop browser from Python, Playwright style"
+2026-11-24T09:35:17Z,lcq-persistence,0.1.0,Gonzalo Ortega Carpintero,GPL-3.0-or-later,192176,"Persistent lower central series quotients (LCQ barcodes) of filtered 2-dimensional CW complexes, in pure Python"
+2026-11-24T09:35:17Z,moescope,0.2.0,,MIT,7588922,"MoE routing telemetry: log every router decision on the GPU, drain once"
+2026-11-24T09:36:26Z,otowall,1.1.1,codewithevilxd <codewithevilxd@gmail.com>,GPL-3.0-or-later,7270647,"Live Retro CRT & Glass album art dynamic wallpaper engine for Spotify, Apple Music, and local media players."
+2026-11-24T09:37:09Z,wagtail-ticketmaker,1.0.1,,BSD-3-Clause,101732,Configurable support-ticket reporting for Wagtail editors.
+2026-11-24T09:37:52Z,pytest-agentest,0.1.0,Dr Srinivas Padmanabhuni <srinivas@testaing.com>,Apache-2.0,16979,"pytest plugin for AiEnsured agentest, an Agentic AI Testing platform"
+2026-11-24T09:37:59Z,fufu-report-rules,1.0.0,南京扶扶网络科技有限公司,LicenseRef-Proprietary,169671,"Read-only MCP connector: threshold lookup and abnormal-flag judgment for health-check indicators (runs locally, no patient data leaves your machine)"
+2026-11-24T09:38:58Z,wechat-desktop-mcp,1.1.0,hhuangpanda,MIT License Copyright (c) 2024 WeChat-MCP-Server Copyright (c) 2026 hhuangpanda IMPORTANT DISCLAIME…,61944,MCP server that sends and schedules WeChat (微信) messages in the background through the Windows desktop client
+2026-11-24T09:39:30Z,innoxpert-tools-benchmark-3165,1.0.0,InnoXpert,,3761,High-performance system architecture & developer utilities benchmark suite
+2026-11-24T09:39:37Z,tasklend,0.0.0a0,Ayman Ait Sidi Allal,Apache-2.0,2201,Tasklend: let your coding agent delegate routine work to open-model workers. Pre-alpha placeholder; the first real release is coming soon. Not affiliated with Anthropic or NVIDIA.
+2026-11-24T09:41:39Z,orilos-mcp,0.1.1,,LicenseRef-ORILOS-Proprietary,36268987,"Clip any video or live stream into viral shorts and post everywhere, from Claude Code, Codex or any MCP client. No AI key needed."
+2026-11-24T09:41:57Z,entertao-mcp,0.1.0,entertao,MIT,204617,"Local, non-custodial Bittensor Gamma MCP server connecting AI agents to the entertao.com service registry."
+2026-11-24T09:42:03Z,sponsorsieve,0.1.0,BoazCohenJ,MIT,28115,Small local model that finds ads and sponsor reads in podcast transcripts
+2026-11-24T09:46:06Z,cardmarket-scraper,0.1.0,Buğrahan Saka,MIT,33611,"Scrape Cardmarket with Python: every card in a set with its lowest price, plus each card's price guide (trend, 30/7/1-day averages), 30-day price history and offers by condition, language and seller…"
+2026-11-24T09:48:22Z,einvoiceengine,0.1.0,,MIT,24369,"Python client for the E-Invoicing API: validate, parse, convert, create and repair EN 16931, XRechnung, Peppol, ZUGFeRD / Factur-X, Facturae and KSeF invoices"
+2026-11-24T09:49:17Z,flowix,0.1.0,,MIT,14871,"Distributed, atomic rate limiting for Python, powered by Redis"
+2026-11-24T09:52:54Z,formfactory,0.0.0,Paolo Pegolo,MIT,3013,Machine-learned aspherical form factors for crystal-structure refinement (the first release follows).
+2026-11-24T09:54:36Z,sinkit,1.0.0,gosdrkht,,49988,The missing developer toolkit for Sinhala language processing
+2026-11-24T09:55:03Z,agh-gestalt,2.1.0,灰风 (Graywind),MIT,276982,"Agent Gestalt Hierarchy (AGH): provenance-signed, budget-ledgered, replayable multi-agent reconstruction. M0 vertical slice."
+2026-11-24T09:56:16Z,uipath-codex-sdk,0.1.0,,,843399,Python SDK that enables developers to build and deploy OpenAI Codex SDK agents to the UiPath Cloud Platform
+2026-11-24T09:58:10Z,rbac-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,39600,"Governance for RBAC users, roles, permissions, assignments, activation, hierarchies, separation of duty, entitlement normalization, review, and audit evidence."
+2026-11-24T09:58:49Z,cf-share-screenshot,0.1.0,,MIT,23353,Share a GNOME/Wayland screenshot through a Cloudflare quick tunnel and copy its URL.
+2026-11-24T09:58:55Z,access-token-validation-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,41389,"Governance for resource-server validation of JWT and opaque access tokens, introspection, revocation, caching, mTLS, DPoP, policy-context mapping, failure, and audit evidence."
+2026-11-24T09:59:03Z,abac-pbac-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,38832,"Governance for attribute- and policy-based authorization, authoritative attributes, subject-resource-action-environment inputs, combining, errors, default denial, and audit evidence."
+2026-11-24T09:59:26Z,kumo-local-mcp,0.1.0,,MIT,119034,Privacy-controlled local MCP access to NVIDIA Kumo
+2026-11-24T09:59:28Z,sanya,0.1.0,Khabib Shakhbanov,,41387,
+2026-11-24T09:59:46Z,visualization-design-governance-pack,0.1.0,,Apache-2.0,54583,SSOT governance for evidence-based visualization design and validation.
+2026-11-24T10:00:34Z,authenticator-lifecycle-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,40486,"Governance for AAL, authenticator binding, activation, replacement, recovery, reset, revocation, failure controls, and authentication evidence."
+2026-11-24T10:01:31Z,decentralized-identifiers-governance-pack,0.1.1.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,63404,"Installable SSOT governance pack for DID Core, DID documents, DID URLs, DID resolution, DID methods, domain linkage, DIDComm adjacency, and DID use in VC/OpenID4VC profiles."
+2026-11-24T10:01:37Z,federated-identity-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,42965,"Governance for federation assurance, IdP and RP trust, OIDC and SAML assertions, metadata, keys, subject identifiers, attribute release, and federation audit evidence."
+2026-11-24T10:02:04Z,identity-proofing-enrollment-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,39882,"Governance for identity proofing, enrollment, IAL selection, evidence validation, subscriber account establishment, fraud controls, privacy, and audit evidence."
+2026-11-24T10:02:27Z,aequa-q,0.1.0,CERTROPI <sdk@certropi.com>,Proprietary,42320,SDK Python pour l'API AEQUA-Q / CERTROPI — randomisation vérifiable d'essais cliniques (Basic/Notary)
+2026-11-24T10:02:40Z,libreflow.extensions.melvile.utilities,1.1.0,LFS <libreflow@lfs.coop>,LGPL-3.0-or-later,13591,
+2026-11-24T10:03:41Z,policy-as-code-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,41128,"Governance for policy language profiles, authoring, validation, testing, review, versioning, bundles, signing, distribution, promotion, rollback, and release evidence."
+2026-11-24T10:03:43Z,oauth-delegated-authorization-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,41346,"Governance for OAuth clients, grants, scopes, consent, authorization code with PKCE, PAR, JAR, resource indicators, token exchange, and grant evidence."
+2026-11-24T10:03:48Z,oidc-authn-authz-boundary-governance-pack,0.2.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,37895,Installable SSOT governance pack for the AuthN/AuthZ boundary and the safe use of OIDC identity claims as authorization inputs.
+2026-11-24T10:05:23Z,stb-suite,2.1.0,STB-SUITE team,MIT,63603387,"Command-line tools for every stage of a SIESTA DFT project: inputs, structures, post-processing and property workflows."
+2026-11-24T10:05:24Z,policy-decision-architecture-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,44129,"Governance for PDP, PEP, PIP, PAP, authorization request and response contracts, permissions, enforcement gateways, entitlement inputs, failure, caching, availability, and audit evidence."
+2026-11-24T10:05:29Z,relationship-authorization-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,39922,"Governance for relationship-based authorization schemas, tuples, derived relations, graph checks, list operations, consistency, inheritance, cycles, tenant isolation, mutation, and audit evidence."
+2026-11-24T10:05:30Z,session-security-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,40807,"Governance for authenticated-session issuance, binding, rotation, expiration, reauthentication, step-up, logout, invalidation, fixation, CSRF, failure, and audit evidence."
+2026-11-24T10:05:59Z,glosslayer,0.1.0,Gloss contributors,Apache-2.0,350017,"A catalog-agnostic semantic layer: track, review, visualize and serve Apache Ossie semantic models."
+2026-11-24T10:07:31Z,snelstart-web-mcp,2026.11.24,,,143015,Local MCP for SnelStart Web with automatic sign-in and token renewal
+2026-11-24T10:07:57Z,webauthn-fido-governance-pack,0.1.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,40501,"Governance for WebAuthn relying parties, registration and authentication ceremonies, passkeys, attestation, extensions, CTAP adjacency, conformance, and audit evidence."
+2026-11-24T10:08:02Z,verifiable-credentials-governance-pack,0.2.0.dev2,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,66443,"Installable SSOT governance pack for W3C Verifiable Credentials, presentations, securing mechanisms, status models, schema use, cryptosuite profiles, and adjacent issuance/presentation protocols."
+2026-11-24T10:09:51Z,host-audit-ai,0.1.0,Security Engineering Team,,47081,Agentless Linux & Docker host security auditing tool with deterministic baseline diffing and local AI triage
+2026-11-24T10:12:23Z,driftlock-guard,0.1.1,DriftLock <driftlock.dev@gmail.com>,MIT,14487,Zero-dependency CLI & GitHub Action to catch breaking webhook and API JSON schema drift.
+2026-11-24T10:17:39Z,webgame-fun-catalog,1.0.0,"""WebGame.fun"" <contact@webgame.fun>",CC-BY-4.0,50643,Catalog dataset of 145 free browser games from WebGame.fun
+2026-11-24T10:18:29Z,git-slopcheck,0.1.0,Raja,MIT,31283,100% offline CLI tool scanning staged git diffs for AI code smells using Tree-sitter.
