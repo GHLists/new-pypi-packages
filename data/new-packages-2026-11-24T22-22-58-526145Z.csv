@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T21:20:13Z,remix-vi,1.0.0,,MIT,21111,Monte Carlo gradient estimation for finite mixture distributions
+2026-11-24T21:21:08Z,ilmlip,0.1.0,Jonas Hänseroth,PolyForm-Noncommercial-1.0.0,6500,ILMlip: fast and universal interatomic potentials
+2026-11-24T21:22:53Z,faultline-sim,0.1.0b2,,Apache-2.0,5570642,Deterministic agent simulation in persistent procedural worlds
+2026-11-24T21:24:03Z,any2llm,0.2.0,Ahmet Emre Apo,MIT,551332,Pack mixed documents into Markdown batches for AI chats with original PDF page numbers
+2026-11-24T21:27:31Z,hermoso-compat,0.1.0,Hermoso <hello@hermoso.ai>,MIT,90053,"Unofficial drop-in compatibility layers for the Ayrshare and Zernio Python SDKs that run on Hermoso's API. Change one import, keep your code. Not affiliated with Ayrshare or Zernio."
+2026-11-24T21:31:42Z,kpex-plugin-gmsh,0.3.0,Martin Köhler,GPL-3.0-or-later,57401,"gmsh volume meshes of KPEX PEX25D scenes, for FEM solvers"
+2026-11-24T21:33:21Z,dealbreaker,1.3.0,,MIT OR Apache-2.0,4023115,Fast data-driven patience (solitaire) solver powered by Rust.
+2026-11-24T21:33:41Z,tendril-sdk,0.1.0,,Apache-2.0,25184123,Python bindings for Tendril private device-to-device links.
+2026-11-24T21:39:13Z,haus-fmt-uuid,1.0.0,,MIT,13012,"@haus-fmt/uuid: universally unique identifiers (a haus schema package), with the codecs of its profile rfc9562"
+2026-11-24T21:43:07Z,haus-fmt-geo,1.0.0,,MIT,12926,"@haus-fmt/geo: points and boxes on the earth (a haus schema package), with the codecs of its profile wgs84"
+2026-11-24T21:43:31Z,systems-of-models,0.1.0,Edwin Jose <edwin.jose@wmich.edu>,MIT,261922,"Typed contracts for systems of models: put a cheap System 1 decision in front of your LLM, escalate when unsure, and compile repeated reasoning into new decisions."
+2026-11-24T21:44:45Z,splatgif,0.1.0,Charlie Petch,MIT AND LicenseRef-Apple-ML-SHARP,86925,"One photo in, a 3D 'wigglegram' GIF out. Apple's SHARP predicts a Gaussian splat; a small CPU rasteriser sways a camera around it."
+2026-11-24T21:46:41Z,haus-fmt-money,1.0.0,,MIT,11321,"@haus-fmt/money: exact amounts with a currency (a haus schema package), with the codecs of its profile iso"
+2026-11-24T21:47:09Z,persona-id,0.3.1,Persona <support@withpersona.com>,BSD-3-Clause,33871,The official Python server library for Persona integration
+2026-11-24T21:48:03Z,chatango,1.11.0,"LmaoLover, neokuze, TheClonerx",GPL-3.0-or-later,87516,Chatango bot library using asyncio
+2026-11-24T21:48:12Z,lmcache-l2-sim,0.1.0,Stephen Bates,Apache-2.0,36817,L2 tier simulator for LMCache MP: model a large L2 backend without spending the disk
+2026-11-24T21:48:33Z,engl,0.1.0a1,ellainng,MIT,18984,Structured English lexical and dependency records with explicit provenance.
+2026-11-24T21:49:23Z,sensorforge-mcp,0.1.0,EdgeForge LLC,Apache-2.0,129700,"MCP server for the SensorForge Optimizer: shrink trained models to fit edge devices, from your coding agent."
+2026-11-24T21:49:35Z,skfmt,0.1.0,YEUNGCHIE,MIT,143006,A conservative formatter for Cadence SKILL source.
+2026-11-24T21:51:24Z,ireri-code,2.0.0,IRERI Team,MIT,58095,IRERI CODE - Terminal AI Coding Agent
+2026-11-24T21:51:29Z,neocord.py,1.0.0,,MIT,9972,"discord.py, pre-configured for neocord (REST, gateway, CDN and links)."
+2026-11-24T21:51:31Z,OpenShock-AutoTester,0.0.1,NanashiTheNameless,AGPL-3.0-only,87377,Automatically run hardware tests on flashed OpenShock hubs
+2026-11-24T21:51:37Z,franklinwh-gateway-emulator,0.3.3,david2069 <david2069@users.noreply.github.com>,MIT,958321,"FranklinWH aGate emulator — Modbus TCP (SunSpec + extension registers), multi-gateway"
+2026-11-24T21:52:11Z,picket-sdk,0.1.4,Abdulalim Ladan,MIT,21201,"Mirror Paystack/Flutterwave webhooks and outgoing emails to Picket, without touching your checkout path."
+2026-11-24T21:54:24Z,gitdx,0.1.0a1,ellainng,MIT,279688,"A standalone, standard-library Python Git engine"
+2026-11-24T21:55:03Z,aicms,0.5.0,malkovych,MIT,13252,"Python client for AICMS, the CMS for AI agents. No dependencies."
+2026-11-24T21:55:17Z,dbudoctor,0.4.0,Nemanja Markovic,Apache-2.0,19859241,"Estimates what a Databricks bundle change will cost, from the pull request diff."
+2026-11-24T21:56:59Z,docxtract-ai,0.1.0,docxtract contributors,Apache-2.0,43462,"Universal documentation crawler, clean Markdown extractor, and BYOLLM synthesis toolkit for Ollama, llama.cpp, and vLLM"
+2026-11-24T21:57:45Z,git-smart-commit-hridhay,0.1.0,,MIT,12316,AI-powered Git Conventional Automatic Commiter using local Ollama models
+2026-11-24T21:57:58Z,factlang,0.1.0,Rupak Chakraborty,MIT,602311,A formal language for verifying factual claims against data warehouses.
+2026-11-24T21:58:16Z,absencecritic,0.1.0,Guzino,Apache-2.0,152530,Survivorship-bias shield (Wald Module) for language models
+2026-11-24T21:58:42Z,nexavoice-pipecat,0.1.0,,Apache-2.0,8568,NexaVoice text-to-speech service for Pipecat
+2026-11-24T22:01:10Z,opencode-usage-v2,0.2.5,rchardx,MIT,78171,CLI tool to track and display OpenCode token usage statistics (v1 and v2)
+2026-11-24T22:02:12Z,netcmd,1.2.0,jpesqueda,,26026,Multivendor SSH CLI command runner with parallel and interactive workflows
+2026-11-24T22:03:16Z,ellis-qec,0.1.0,"Yuewen Hou, Gokul Subramanian Ravi",Apache-2.0,3777044,"ELLIS: Efficient Loss and Leakage Invariant-reference Simulation. Exact masked Pauli-frame sampling of Clifford circuits with atom loss, and common-reference certificates."
+2026-11-24T22:05:21Z,gittycat,0.1.0a1,ellainng,MIT,64321,A Git-compatible hosting platform powered by gitdx
+2026-11-24T22:07:16Z,tesselab,0.1.0a1,Jonathan Bollig,,443556,"A desktop viewer for scientific data whose analyses are small graphs of nodes, supplied by modules."
+2026-11-24T22:08:45Z,levenshtein-pa,0.1.0,,MIT,128557,Native LLVM-compiled Levenshtein edit distance and FNV-1a 64-bit hashing for Python and Pa
+2026-11-24T22:09:10Z,glossr,0.1.0,,MIT,2568590,Ask questions right on your lecture slides. A local study app powered by your own Claude.
+2026-11-24T22:11:57Z,snakemake-executor-plugin-biffix,0.1.0,Nils Homer,MIT,169146,"Snakemake (>=9.0) executor plugin: runs each job of a biffix single-job run on one host, in its container image through Apptainer."
+2026-11-24T22:14:58Z,thoughtform,0.1.0a1,ellainng,MIT,24973,Individual model definitions and model-neutral agency.
+2026-11-24T22:16:51Z,mace-field-torch,1.1.0,,,546028,MACE-Field: electric-field-aware equivariant machine-learning interatomic potentials.
+2026-11-24T22:17:33Z,clarity-align-mcp,0.0.1,,LicenseRef-Proprietary,2459,"Name holder. The Clarity Align connector is installed from https://align.heyclarity.dev, not from PyPI."
+2026-11-24T22:18:04Z,groundworkers-omophub,0.3.0,,MIT,29447,Release-pinned OMOPHub vocabulary tools for Groundworkers
+2026-11-24T22:19:22Z,rawframe,0.1.0,,MIT,158321,Official Python SDK for the RawFrame API.
