@@ -8,46 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:21 UTC
+## Latest list — 2026-11-24 01:20 UTC
 
-New packages created between 2026-11-23 23:18 UTC and 2026-11-24 00:21 UTC.
+New packages created between 2026-11-24 00:21 UTC and 2026-11-24 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-24T00-21-11-544928Z.csv)
+[Full CSV](data/new-packages-2026-11-24T01-20-06-587107Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-23 23:19:31 | [kokua](https://pypi.org/project/kokua/) | 0.1.0 | Paul Saxman | 1.9 MB | Kokua (Hawaiian: help, assistance): a hackable, modular personal-assistant appl… |
-| 2026-11-23 23:24:04 | [aifree](https://pypi.org/project/aifree/) | 0.3.0 |  | 23.8 kB | Python client for the aifree.dev API: verified free AI offers, free LLM API tie… |
-| 2026-11-23 23:27:06 | [nexpost](https://pypi.org/project/nexpost/) | 0.0.0 | Aman Kaushik | 2.8 kB | Name reserved for NexPost by Nexlore AI. Not yet released. |
-| 2026-11-23 23:28:54 | [basemaplibre](https://pypi.org/project/basemaplibre/) | 0.1.0 | Kamil Raczycki | 45.7 kB | Basemaps for matplotlib and GeoPandas from MapLibre styles, inspired by context… |
-| 2026-11-23 23:29:52 | [rs-scope-mcp](https://pypi.org/project/rs-scope-mcp/) | 0.1.2 | Stefan Brunner (AE5VG) | 519.5 kB | MCP server that lets Claude and other AI assistants control Rohde & Schwarz osc… |
-| 2026-11-23 23:30:18 | [reels-wiki](https://pypi.org/project/reels-wiki/) | 0.1.2 | Atacan YMC <atacanymc@gmail.c… | 1.1 MB | Local-first pipeline: saved Instagram Reels -> atomic notes in an Obsidian LLM… |
-| 2026-11-23 23:31:36 | [openmny](https://pypi.org/project/openmny/) | 0.0.1 |  | 1.5 kB | Placeholder for openmny. Not ready for use yet. |
-| 2026-11-23 23:32:45 | [openwrk](https://pypi.org/project/openwrk/) | 0.0.1 |  | 1.5 kB | Placeholder for openwrk. Not ready for use yet. |
-| 2026-11-23 23:34:13 | [openpickleball-engine](https://pypi.org/project/openpickleball-engine/) | 1.0.0 | OPEN contributors | 548.6 kB | Reference rating engine for OPEN, the Open Pickleball Evaluation Network (outpu… |
-| 2026-11-23 23:40:12 | [hinting-diff](https://pypi.org/project/hinting-diff/) | 0.1.1 | Klim Type Foundry | 40.0 kB | Compare the TrueType hinting of two versions of a font in a browser |
-| 2026-11-23 23:42:56 | [agent-authorizer](https://pypi.org/project/agent-authorizer/) | 0.14.0 |  | 2.0 MB | Authorizes what an AI agent does against the permissions of the user it acts fo… |
-| 2026-11-23 23:46:38 | [ds-contest-tools](https://pypi.org/project/ds-contest-tools/) | 1.0.1 | Daniel Saad Nogueira Nunes <d… | 267.7 kB | Tools for contest and competitive problems preparation. |
-| 2026-11-23 23:49:01 | [visloc](https://pypi.org/project/visloc/) | 0.4.0 |  | 15.7 MB | Python bindings for visloc-rs: cameras, SE(3) poses, COLMAP IO, map-based local… |
-| 2026-11-23 23:53:41 | [optican](https://pypi.org/project/optican/) | 0.1.0 |  | 42.3 kB | Framework-agnostic adaptive hyperparameter optimization with elite-guided searc… |
-| 2026-11-23 23:54:54 | [netbox-nutanix](https://pypi.org/project/netbox-nutanix/) | 0.1.0 | sieteunoseis <jeremy.worden@g… | 71.6 kB | NetBox plugin for viewing and importing VMs from Nutanix Prism Central |
-| 2026-11-23 23:57:20 | [trugs-runner](https://pypi.org/project/trugs-runner/) | 0.1.0 |  | 620.8 kB | The TRUGS runner offers and records actions against a fixed graph. |
-| 2026-11-23 23:58:34 | [perfectpanel-client](https://pypi.org/project/perfectpanel-client/) | 0.2.0 | talonpanel | 46.7 kB | Typed, dependency-light Python client for the Perfect Panel v2 SMM API |
-| 2026-11-24 00:10:21 | [strainphase](https://pypi.org/project/strainphase/) | 0.1.0 | Renee Oles <roles@ucsd.edu> | 248.9 kB | Hybrid graph-probabilistic haplotype reconstruction for PacBio HiFi metagenomic… |
-| 2026-11-24 00:10:27 | [aws_sdk_agent_registry_control](https://pypi.org/project/aws_sdk_agent_registry_control/) | 0.0.0 |  | 2.3 kB | Placeholder reserving the aws_sdk_agent_registry_control name. Not yet function… |
-| 2026-11-24 00:10:49 | [aws_sdk_dax](https://pypi.org/project/aws_sdk_dax/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_dax name. Not yet functional. |
-| 2026-11-24 00:11:03 | [aws_sdk_oam](https://pypi.org/project/aws_sdk_oam/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_oam name. Not yet functional. |
-| 2026-11-24 00:11:18 | [aws_sdk_connect_contact_lens](https://pypi.org/project/aws_sdk_connect_contact_lens/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_connect_contact_lens name. Not yet functional. |
-| 2026-11-24 00:11:51 | [aws_sdk_kinesis_analytics_v2](https://pypi.org/project/aws_sdk_kinesis_analytics_v2/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_kinesis_analytics_v2 name. Not yet functional. |
-| 2026-11-24 00:12:08 | [aws_sdk_iotsecuretunneling](https://pypi.org/project/aws_sdk_iotsecuretunneling/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_iotsecuretunneling name. Not yet functional. |
-| 2026-11-24 00:12:09 | [ablt](https://pypi.org/project/ablt/) | 2.0.0 | Mathew Sekanjako | 130.2 kB | ABLT: a grammar-first tokenizer for Luganda and other Bantu languages |
-| 2026-11-24 00:12:23 | [aws_sdk_dataexchange](https://pypi.org/project/aws_sdk_dataexchange/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_dataexchange name. Not yet functional. |
-| 2026-11-24 00:12:37 | [aws_sdk_direct_connect](https://pypi.org/project/aws_sdk_direct_connect/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_direct_connect name. Not yet functional. |
-| 2026-11-24 00:13:59 | [aws_sdk_ivs_realtime](https://pypi.org/project/aws_sdk_ivs_realtime/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_ivs_realtime name. Not yet functional. |
-| 2026-11-24 00:14:14 | [aws_sdk_storage_gateway](https://pypi.org/project/aws_sdk_storage_gateway/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_storage_gateway name. Not yet functional. |
-| 2026-11-24 00:14:26 | [aws_sdk_fms](https://pypi.org/project/aws_sdk_fms/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_fms name. Not yet functional. |
-| 2026-11-24 00:14:38 | [aws_sdk_detective](https://pypi.org/project/aws_sdk_detective/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_detective name. Not yet functional. |
-| 2026-11-24 00:15:51 | [tba-concrete-mcp-delegation](https://pypi.org/project/tba-concrete-mcp-delegation/) | 0.4.0.dev1 | Jacob Stewart <jacob@swarmaur… | 23.9 kB | Identity-bound permission decisions for MCP app connections. |
-| 2026-11-24 00:17:54 | [tba-capability-mcp-authorization](https://pypi.org/project/tba-capability-mcp-authorization/) | 0.4.0.dev1 | Jacob Stewart | 23.6 kB | MCP grant resolution, current scope authorization, and owned connection revocat… |
-| 2026-11-24 00:18:20 | [hermoso](https://pypi.org/project/hermoso/) | 0.1.2 | Hermoso <hello@hermoso.ai> | 446.6 kB | Typed Python client for the Hermoso API: generate ads, publish and schedule pos… |
-| 2026-11-24 00:20:13 | [stoner-measurement](https://pypi.org/project/stoner-measurement/) | 0.10.0b1 | Gavin Burnell <g.burnell@leed… | 11.9 MB | A Python/Qt (PyQt5/PyQt6 via qtpy) application for running scientific measureme… |
+| 2026-11-24 00:23:49 | [did-it-search](https://pypi.org/project/did-it-search/) | 0.4.0 |  | 90.7 kB | Explain repository search failures and check for regressions in the answers sea… |
+| 2026-11-24 00:24:33 | [mxs-audio](https://pypi.org/project/mxs-audio/) | 0.6.8 |  | 44.4 MB | A sound engine with synths fitted to recordings of real instruments |
+| 2026-11-24 00:25:45 | [clipper-gg](https://pypi.org/project/clipper-gg/) | 0.3.5 | hatermedia | 1.4 MB | Automatic gaming highlight trimmer: audio + motion detection, lossless FFmpeg c… |
+| 2026-11-24 00:26:52 | [northkoreahub-mcp](https://pypi.org/project/northkoreahub-mcp/) | 1.0.0 | North Korea Hub <hello@northk… | 15.1 kB | MCP server for North Korea Hub: live, dual-source-verified DPRK tourist-access… |
+| 2026-11-24 00:28:20 | [langchain-equibles](https://pypi.org/project/langchain-equibles/) | 0.1.0 | Equibles <social@equibles.com> | 22.8 kB | LangChain tools for Equibles: SEC filings, earnings call transcripts, financial… |
+| 2026-11-24 00:28:22 | [strands-equibles](https://pypi.org/project/strands-equibles/) | 0.1.0 | Equibles <social@equibles.com> | 22.1 kB | Strands Agents tools for Equibles: SEC filings, earnings call transcripts, fina… |
+| 2026-11-24 00:31:52 | [langchain-findcheap](https://pypi.org/project/langchain-findcheap/) | 0.1.0 | Findcheap <support@findcheap.… | 31.0 kB | LangChain tools for Findcheap, which finds where a product is sold for less: th… |
+| 2026-11-24 00:36:19 | [tenthlook-core](https://pypi.org/project/tenthlook-core/) | 0.1.0 |  | 32.9 kB | Signed, hash-chained receipts (Ed25519 + SHA-256 + SQLite) shared by Panel and… |
+| 2026-11-24 00:36:42 | [panel-firewall](https://pypi.org/project/panel-firewall/) | 0.1.0 |  | 388.5 kB | Panel checks what an AI agent says and what it does: an action firewall (MCP pr… |
+| 2026-11-24 00:36:53 | [calibrex](https://pypi.org/project/calibrex/) | 0.6.5 | Calibrex Contributors | 4.1 MB | Simultaneous localization and calibration evidence framework for robotics |
+| 2026-11-24 00:38:05 | [tockward](https://pypi.org/project/tockward/) | 0.1.0 | Tockward <support@tockward.co… | 8.8 kB | Heartbeat client for Tockward: know when your cron jobs, scripts and devices go… |
+| 2026-11-24 00:39:20 | [baleia-openmetadata](https://pypi.org/project/baleia-openmetadata/) | 0.1.0 | Baleia contributors | 59.1 kB | OpenMetadata ingestion connector that discovers Baleia's semantic catalog |
+| 2026-11-24 00:45:56 | [wsign](https://pypi.org/project/wsign/) | 0.0.1 | wsign <support@wsign.io> | 2.1 kB | Official wsign e-signature SDK for Python. The full release is coming soon. |
+| 2026-11-24 00:47:26 | [platypus-server](https://pypi.org/project/platypus-server/) | 0.2.1 | aebayav | 179.7 kB | Interactive TUI and web dashboard for Linux server setup and monitoring |
+| 2026-11-24 00:54:21 | [writing-editor-mcp](https://pypi.org/project/writing-editor-mcp/) | 0.2.5 | subedikushal | 31.9 kB | A local MCP editor for evidence-based research and technical prose |
+| 2026-11-24 00:56:02 | [pangolin-agent](https://pypi.org/project/pangolin-agent/) | 0.1.2b1 |  | 134.1 kB | A lightweight, modular, interface based AI Agentic library. |
+| 2026-11-24 00:59:01 | [envodat](https://pypi.org/project/envodat/) | 0.1.0 | Linus Nwankwo | 44.2 kB | Toolkit for EnvoDat: download, load, train on and evaluate a multisensory robot… |
+| 2026-11-24 00:59:09 | [ga4gh-sdk](https://pypi.org/project/ga4gh-sdk/) | 0.1.0 |  | 20.4 MB | Python bindings for GA4GH API service clients |
+| 2026-11-24 01:08:22 | [mundosms-sdk](https://pypi.org/project/mundosms-sdk/) | 1.0.0 | MundoSMS | 20.4 kB | Cliente de la API REST v3 de MundoSMS: SMS, WhatsApp, centralita, VozPush y Num… |
+| 2026-11-24 01:08:41 | [comploss](https://pypi.org/project/comploss/) | 0.1.0 | Minh Sao Khue Luu | 76.3 kB | Component-aware loss functions and object-level metrics for segmenting small an… |
+| 2026-11-24 01:09:48 | [hepyy-glauber-cpp](https://pypi.org/project/hepyy-glauber-cpp/) | 0.1.0 |  | 134.7 kB | Standalone Monte Carlo Glauber CLI for Pb–Pb collision geometry |
+| 2026-11-24 01:10:20 | [stampcheck](https://pypi.org/project/stampcheck/) | 0.1.0 | Noah Berry | 76.9 kB | Check whether your human approval step still filters anything, or has become a… |
+| 2026-11-24 01:12:01 | [recvd](https://pypi.org/project/recvd/) | 0.1.0 |  | 20.8 kB | The Recvd API for Python: products, sales, subscriptions, usage and credits, si… |
+| 2026-11-24 01:12:04 | [zeadeck](https://pypi.org/project/zeadeck/) | 0.0.1 | Stazea | 4.4 kB | zeadeck: the control deck for every machine. Remote screens, terminals and AI a… |
+| 2026-11-24 01:18:57 | [datadouble](https://pypi.org/project/datadouble/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
+| 2026-11-24 01:19:00 | [datadouble-postgres](https://pypi.org/project/datadouble-postgres/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
+| 2026-11-24 01:19:02 | [datadouble-mysql](https://pypi.org/project/datadouble-mysql/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
+| 2026-11-24 01:19:05 | [datadouble-mssql](https://pypi.org/project/datadouble-mssql/) | 0.0.0 |  | 1.4 kB | Reserved for the Datadouble project. The first real release is coming. |
+| 2026-11-24 01:19:35 | [incur-cli](https://pypi.org/project/incur-cli/) | 0.10.0 |  | 281.6 kB | Build CLIs for agents and humans: TOON output, LLM manifests, skills, and shell… |

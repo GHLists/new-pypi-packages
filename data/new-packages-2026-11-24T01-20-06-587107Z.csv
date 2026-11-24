@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T00:23:49Z,did-it-search,0.4.0,,MIT,90749,Explain repository search failures and check for regressions in the answers search tools give coding agents.
+2026-11-24T00:24:33Z,mxs-audio,0.6.8,,MIT,44442048,A sound engine with synths fitted to recordings of real instruments
+2026-11-24T00:25:45Z,clipper-gg,0.3.5,hatermedia,MIT,1406095,"Automatic gaming highlight trimmer: audio + motion detection, lossless FFmpeg cuts, local web UI."
+2026-11-24T00:26:52Z,northkoreahub-mcp,1.0.0,North Korea Hub <hello@northkoreahub.com>,"MIT License Copyright (c) 2026 North Korea Hub Permission is hereby granted, free of charge, to any…",15083,"MCP server for North Korea Hub: live, dual-source-verified DPRK tourist-access status by nationality and the rule-change log, fetched at call time from the northkoreahub.com public API."
+2026-11-24T00:28:20Z,langchain-equibles,0.1.0,Equibles <social@equibles.com>,MIT,22805,"LangChain tools for Equibles: SEC filings, earnings call transcripts, financial statements, ownership and market data."
+2026-11-24T00:28:22Z,strands-equibles,0.1.0,Equibles <social@equibles.com>,MIT,22056,"Strands Agents tools for Equibles: SEC filings, earnings call transcripts, financial statements, ownership and market data."
+2026-11-24T00:31:52Z,langchain-findcheap,0.1.0,Findcheap <support@findcheap.ai>,MIT,31047,"LangChain tools for Findcheap, which finds where a product is sold for less: the same product and its equivalents, cheapest first."
+2026-11-24T00:36:19Z,tenthlook-core,0.1.0,,MIT,32927,"Signed, hash-chained receipts (Ed25519 + SHA-256 + SQLite) shared by Panel and Tenthcheck. Offline verification."
+2026-11-24T00:36:42Z,panel-firewall,0.1.0,,MIT,388541,"Panel checks what an AI agent says and what it does: an action firewall (MCP proxy, deterministic policy, consent, idempotency, signed receipts) and a support-bot guard."
+2026-11-24T00:36:53Z,calibrex,0.6.5,Calibrex Contributors,Apache-2.0,4061943,Simultaneous localization and calibration evidence framework for robotics
+2026-11-24T00:38:05Z,tockward,0.1.0,Tockward <support@tockward.com>,MIT,8845,"Heartbeat client for Tockward: know when your cron jobs, scripts and devices go silent."
+2026-11-24T00:39:20Z,baleia-openmetadata,0.1.0,Baleia contributors,Apache-2.0,59090,OpenMetadata ingestion connector that discovers Baleia's semantic catalog
+2026-11-24T00:45:56Z,wsign,0.0.1,wsign <support@wsign.io>,MIT,2122,Official wsign e-signature SDK for Python. The full release is coming soon.
+2026-11-24T00:47:26Z,platypus-server,0.2.1,aebayav,MIT,179718,Interactive TUI and web dashboard for Linux server setup and monitoring
+2026-11-24T00:54:21Z,writing-editor-mcp,0.2.5,subedikushal,MIT,31945,A local MCP editor for evidence-based research and technical prose
+2026-11-24T00:56:02Z,pangolin-agent,0.1.2b1,,PolyForm Noncommercial 1.0.0,134117,"A lightweight, modular, interface based AI Agentic library."
+2026-11-24T00:59:01Z,envodat,0.1.0,Linus Nwankwo,MIT,44213,"Toolkit for EnvoDat: download, load, train on and evaluate a multisensory robotics dataset"
+2026-11-24T00:59:09Z,ga4gh-sdk,0.1.0,,Apache-2.0,20364460,Python bindings for GA4GH API service clients
+2026-11-24T01:08:22Z,mundosms-sdk,1.0.0,MundoSMS,MIT,20403,"Cliente de la API REST v3 de MundoSMS: SMS, WhatsApp, centralita, VozPush y NumCheck. Firma cada petición y reintenta solo lo que es seguro repetir. Sin dependencias."
+2026-11-24T01:08:41Z,comploss,0.1.0,Minh Sao Khue Luu,MIT,76335,"Component-aware loss functions and object-level metrics for segmenting small and multiple structures (CATMIL, CC-DiceCE, ...), with nnU-Net v2 and MONAI support."
+2026-11-24T01:09:48Z,hepyy-glauber-cpp,0.1.0,,,134722,Standalone Monte Carlo Glauber CLI for Pb–Pb collision geometry
+2026-11-24T01:10:20Z,stampcheck,0.1.0,Noah Berry,MIT,76921,"Check whether your human approval step still filters anything, or has become a rubber stamp."
+2026-11-24T01:12:01Z,recvd,0.1.0,,MIT,20836,"The Recvd API for Python: products, sales, subscriptions, usage and credits, signed webhooks, and metering for OpenAI and Anthropic calls."
+2026-11-24T01:12:04Z,zeadeck,0.0.1,Stazea,MIT,4363,"zeadeck: the control deck for every machine. Remote screens, terminals and AI agents across your machines. Early placeholder for the upcoming zeadeck SDK."
+2026-11-24T01:18:57Z,datadouble,0.0.0,,MIT,1366,Reserved for the Datadouble project. The first real release is coming.
+2026-11-24T01:19:00Z,datadouble-postgres,0.0.0,,MIT,1446,Reserved for the Datadouble project. The first real release is coming.
+2026-11-24T01:19:02Z,datadouble-mysql,0.0.0,,MIT,1421,Reserved for the Datadouble project. The first real release is coming.
+2026-11-24T01:19:05Z,datadouble-mssql,0.0.0,,MIT,1420,Reserved for the Datadouble project. The first real release is coming.
+2026-11-24T01:19:35Z,incur-cli,0.10.0,,MIT,281555,"Build CLIs for agents and humans: TOON output, LLM manifests, skills, and shell completions."
