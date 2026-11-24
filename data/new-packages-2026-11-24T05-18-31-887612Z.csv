@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T04:21:15Z,meta-bridge-irsl,0.1.0,SeoWook Han,MIT,46404,"Bridge Meta Quest VR ZeroMQ JSON into typed robot_msg messages, over ZeroMQ or in-process"
+2026-11-24T04:23:34Z,counselmode-licenses,2.14.0,CounselMode LLC,Apache-2.0 AND CC-BY-4.0,446184,"Software, model and data license answers inside your AI assistant: an MCP server and agent skill. Not legal advice."
+2026-11-24T04:26:07Z,netparse-cmdb,0.8.0,,MIT,178048,网络设备配置解析器：模板 DSL + 嵌套状态栈，把华为/中兴/Nokia 配置解析成结构化 JSON
+2026-11-24T04:26:45Z,dialogrs,0.1.1,Praveen Perera,Apache-2.0,66878051,Fast speaker-attributed transcription: Parakeet speech-to-text and speaker diarization on CUDA (Linux and Windows) and Core ML (macOS)
+2026-11-24T04:31:46Z,msed,1.0.0,Rafael da Silva Santos <raf.silva@aluno.uece.br>,MIT,88112,Validate and convert MSED Minecraft recordings (Protobuf shards) to Parquet datasets.
+2026-11-24T04:43:58Z,stilebase-sdk,0.2.1,,MIT,63447,"Charge AI agents per request with x402 (USDC on Base), settled through Stilebase. People pass straight through. FastAPI, Starlette, Django, Flask, any ASGI or WSGI app."
+2026-11-24T04:44:50Z,hip3pulse,0.2.0,HIP3Pulse <HIP3Pulse@users.noreply.github.com>,MIT,27573,"Hyperliquid HIP-3 ($7B+/day) off-hours dislocation radar, Nasdaq corp-action risk, 13 Solana xStocks active-multiplier basis, and dynamic β/R² hedge Python SDK & CLI."
+2026-11-24T04:44:55Z,local-decision-store,0.1.7,The Local Decision Store Authors,Apache-2.0,1365560,Run typed decision models (Decisions API / System One compatible) locally on CPU.
+2026-11-24T04:45:01Z,wayback-html-export,1.1.0,Wayback Press <hello@waybackpress.com>,MIT,15376,Export a domain's archived HTML pages from the Wayback Machine as a plain static mirror (standard library only).
+2026-11-24T04:51:33Z,claude-agent-sdk-datacircle,0.1.0,,MIT,25326,Claude Agent SDK tools for the Datacircle API: find the best GTM APIs
+2026-11-24T04:52:40Z,aman-resilience-toolkit,0.1.0,Aman Kumar,MIT,2656,Lightweight circuit breaker and retry utilities for Python microservices.
+2026-11-24T04:54:18Z,axim-turbo,0.1.0,Cognitus Lab,Proprietary: Cognitus Lab End User License Agreement (EULA),1614367,"AXIM-Turbo™ — Cognitus Lab Universal Self-Balancing Non-Linear Chike Obi PDE, Solape SPU, Fused FSM, Multi-Precision & TorchTitan Training Engine"
+2026-11-24T04:54:18Z,vesperui,0.1.2,Giuseppe Cigala,"MIT License Copyright (c) 2026 Giuseppe Cigala Permission is hereby granted, free of charge, to any…",514839,Native Windows widgets with an evening glow.
+2026-11-24T04:55:19Z,tminus,1.0.1,,,196670,Count down to a clean Frappe/ERPNext upgrade.
+2026-11-24T04:56:02Z,tencentcloud-agentobs-instrumentation-mcp,0.1.0b3,Tencent Cloud CLS Team,Apache-2.0,20683,LoongSuite Model Context Protocol (MCP) instrumentation
+2026-11-24T04:56:03Z,importroute,0.1.0,Anish Pentyala,MIT,31516,Explain declared Python filesystem import routes without importing target packages
+2026-11-24T04:56:08Z,tencentcloud-agentobs-opentelemetry-instrumentation-anthropic,0.1.0b3,Tencent Cloud CLS Team,Apache-2.0,18357,OpenTelemetry Anthropic instrumentation
+2026-11-24T04:56:14Z,tencentcloud-agentobs-instrumentation-litellm,0.1.0b3,Tencent Cloud CLS Team,Apache-2.0,21072,LoongSuite LiteLLM instrumentation
+2026-11-24T04:56:21Z,tencentcloud-agentobs-opentelemetry-instrumentation-threading,0.1.0b3,Tencent Cloud CLS Team,Apache-2.0,9689,Thread context propagation support for OpenTelemetry
+2026-11-24T04:57:09Z,windowcross,0.1.2,Anish Pentyala,MIT,40789,Offline exact cross-partition time-window overlap audit
+2026-11-24T04:57:37Z,monopane,0.2.0,Monopane,MIT,336512,"Python SDK for the Monopane API: courses, learners, enrollments, progress and quizzes."
+2026-11-24T04:57:45Z,evaldenom,0.1.0,Anish Pentyala,MIT,54319,Offline intended-coverage and identity preflight for evaluation exports
+2026-11-24T04:57:50Z,dataandapis,0.1.0,Data and APIs,MIT,495867,"Official Python client for Data and APIs: 128 REST data APIs (VAT validation, barcode lookup, IP intelligence, sanctions screening, company data and more) behind one API key."
+2026-11-24T04:58:19Z,rgwitness,0.1.0,Anish Pentyala,MIT,101133,Check Parquet row-group statistics against unfiltered decoded values
+2026-11-24T05:01:45Z,iroai,0.1.0,Enrico Shippole,,11412,Hue-shifted pixel-art color ramps from hex colors or a reference image.
+2026-11-24T05:03:40Z,cbgram,3.1.7,"abhiadi23, SilentDemonSD",LGPL-3.0-or-later,7496688,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+2026-11-24T05:04:43Z,glados-mcp,0.2.0,halfaipg,MIT,8480692,MCP server that speaks aloud as GLaDOS (or a neutral Kokoro voice) while your AI assistant works
+2026-11-24T05:14:35Z,skillclinic,0.4.6,,MIT,51585,"Audit the AI skill files installed on your machine for validity, security risks, conflicts, and token cost."
+2026-11-24T05:17:05Z,pygments-plum,1.0.0,Elixpo and the Plumlang contributors <hello@elixpo.com>,MIT,48305,"Plumlang lexer plugin for Pygments: highlighting in Sphinx, MkDocs and anything else that uses Pygments"
+2026-11-24T05:18:09Z,pymetrix,0.1.0a20,Geoffrey Heenan,BSD-3-Clause,5173360,"Applied macroeconometrics in Python, from data to forecast report: estimation, testing, model solving, forecasting and reproducible projects, with guided forms."
