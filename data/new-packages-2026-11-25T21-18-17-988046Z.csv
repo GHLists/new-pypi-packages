@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T20:23:59Z,pqc-readiness-scanner,0.3.0,Yusuf Taha Kurt,Apache-2.0,249318,"Find quantum-vulnerable cryptography in endpoints and code, and plan your post-quantum migration."
+2026-11-25T20:25:07Z,zround,0.0.1,AutoAF <hello@getzround.com>,LicenseRef-Proprietary,2101,ZRound by AutoAF — coming soon. Name reserved; no public code.
+2026-11-25T20:33:49Z,klakix-mcp,0.1.0,Klakix <support@klakix.com>,MIT,28356,"Klakix MCP bridge for stdio MCP clients: generate AI videos, images, voiceovers and music with Veo, Kling, Seedance and Nano Banana."
+2026-11-25T20:35:41Z,veracium-memory,0.0.1,,MIT,3231,Reserved for Veracium Memory by Veracium. This placeholder contains no code.
+2026-11-25T20:35:48Z,veracium-harness,0.0.1,,MIT,3239,Reserved for Veracium Harness by Veracium. This placeholder contains no code.
+2026-11-25T20:35:49Z,veracium-control,0.0.1,,MIT,3235,Reserved for Veracium Control by Veracium. This placeholder contains no code.
+2026-11-25T20:36:41Z,healthuplink,1.0.0,,Apache-2.0,145924,Self-hosted receiver for Health Uplink: keeps the Apple Health data your iPhone sends and serves it to AI agents over MCP
+2026-11-25T20:37:40Z,vxatlas,0.1.0,The VxAtlas Authors,Apache-2.0,66078,"Identify VxWorks 5.x, 6.x and 7.x firmware images and recover their load address and symbols"
+2026-11-25T20:41:21Z,ai-editor-tree-sitter-bsl,0.1.7.17,alkoleft,MIT,307644,1C (BSL) tree-sitter grammar: ai-editor build of alkoleft/tree-sitter-bsl with an extended identifier alphabet
+2026-11-25T20:41:26Z,ai-editor-tree-engine,1.0.189,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,MIT,1213431,Format-independent parse/tree/identity/render engine used as the ai-editor server's internals
+2026-11-25T20:42:28Z,vxatlas-ghidra,0.1.0,The VxAtlas Authors,Apache-2.0,38635,"Import VxWorks firmware images into Ghidra with the base address, memory map and symbols recovered by VxAtlas"
+2026-11-25T20:44:11Z,escapement-db,0.1.2,,BSD-3-Clause,144084662,Python bindings for Escapement's epoch engine
+2026-11-25T20:44:52Z,librebots-hub,0.1.0,Libre Bots,MIT,63884,Client for the Libre Bots hub
+2026-11-25T20:44:58Z,receive-pk,1.0.0,,MIT,12686,"The official Receive SDK: send email, track who read it, verify webhooks. No dependencies."
+2026-11-25T20:45:09Z,ventsim-mcp,0.7.1,,MIT,42787,MCP server that lets AI assistants read and inspect Ventsim mine ventilation model (.vsm) files
+2026-11-25T20:45:21Z,loconym,0.0.1,,MIT,47306,"Build compact, offline reverse and forward geocoding databases from OpenStreetMap PBF files"
+2026-11-25T20:46:02Z,la-core-web-sm,3.9.8,Patrick J. Burns,MIT,16625,Latin pipeline (UD + LASLA + NER): SM model
+2026-11-25T20:46:03Z,la-core-web-md,3.9.8,Patrick J. Burns,MIT,16629,Latin pipeline (UD + LASLA + NER): MD model
+2026-11-25T20:46:04Z,la-core-web-lg,3.9.8,Patrick J. Burns,MIT,16620,Latin pipeline (UD + LASLA + NER): LG model
+2026-11-25T20:46:04Z,la-core-web-trf,3.9.9,Patrick J. Burns,MIT,14872,Latin pipeline (UD + LASLA + NER): TRF model
+2026-11-25T20:52:20Z,netbox-service-canvas,0.3.0,Jasper Claus,Apache-2.0,1800325,"Interactive canvas for NetBox: which services run where, how they talk to each other and what breaks if a host fails."
+2026-11-25T20:54:15Z,easy-volcano,0.1.0,Romain Lannes <romain.lannes@protonmail.com>,MIT,61770,Volcano plots for gene differential-expression results.
+2026-11-25T20:54:40Z,aai-pyskills,0.1.0,aai-pyskills contributors,Apache-2.0,79061,"Reusable pyskills for coding, writing, understanding, and vision across harnesses and Solveit"
+2026-11-25T20:58:49Z,netbrain-auditor,1.0.0,Peskicorp,,28093,Read-only NetBrain inventory and data quality auditor
+2026-11-25T21:01:17Z,rsetsim,0.1.0,,MIT,1569504,"Rust-powered exact set similarity search and all-pairs similarity join (Jaccard, cosine, containment) for Python"
+2026-11-25T21:01:38Z,rriblt,0.1.0,,MIT,1211781,Rust-powered Rateless IBLT: compute the difference between two remote sets with communication proportional to the difference
+2026-11-25T21:02:16Z,relcon-strange-loop,0.1.0,,,108236,Revision-aware workflows for verified agent outputs
+2026-11-25T21:02:20Z,sqlguardllm,0.1.0a1,Juan Castillo,Apache-2.0,58531,"The SQL firewall for LLM apps: validate SQL written by AI and rewrite it read-only, allowlisted, row-filtered and limited."
+2026-11-25T21:02:45Z,margin-referee,0.1.1,,MIT,34134,Should you switch models? Replay your own eval set on a candidate and get a verdict that holds up.
+2026-11-25T21:02:56Z,rheapdict,0.1.0,,MIT,1196299,Rust-powered indexed priority queue (heap + dict with decrease-key) for Python
+2026-11-25T21:06:25Z,qroid-qr,0.1.0,Qroid,MIT,45412,"Tiny QR code generator — square or round modules, SVG / PNG base64 / ASCII. From Qroid."
+2026-11-25T21:07:10Z,seatmap-pro-seating,0.1.0,Seatmap Pro,Apache-2.0,42164,Seatmap Pro seating plans for pretix and eventyay
+2026-11-25T21:13:03Z,sindhijev,0.1.0,Arsalan Kaleem,Apache-2.0,418546,Check Sindhi OCR text against the scan: per-letter dot-error flags with a 7M-parameter CPU model
+2026-11-25T21:13:56Z,mcpsheriff,0.1.0,NormaHub <manager@normahub.cc>,MIT,34577,"Test any MCP server: handshake, tools, schemas, stdout hygiene and schema drift, from one command"
+2026-11-25T21:15:48Z,pinba-python,0.2.0,,LGPL-2.1-or-later,40397,Async-safe Pinba instrumentation for Python
+2026-11-25T21:16:02Z,plotsimplify,0.1.0,,MIT,1135805,Rust-powered error-bounded time series simplification (Ramer-Douglas-Peucker) for plotting: keep only the points you can see
+2026-11-25T21:17:36Z,shirdal,1.0.0,Vicious-Cycle,LGPL-3.0-or-later,76740,"A fast, clean, context-first Python self-bot framework for Telegram."

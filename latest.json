@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 58,
-    "from": "2026-11-25T19:20:16.242299Z",
-    "path": "data/new-packages-2026-11-25T20-21-49-844319Z.csv",
-    "to": "2026-11-25T20:21:49.844319Z"
+    "count": 37,
+    "from": "2026-11-25T20:21:49.844319Z",
+    "path": "data/new-packages-2026-11-25T21-18-17-988046Z.csv",
+    "to": "2026-11-25T21:18:17.988046Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T18:10:05Z",
       "package": "cuda-coop-tile",
       "since": "2026-11-25T17:21:24.724395Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-25T16:37:07Z",
-      "package": "evoxc_hf",
-      "since": "2026-11-25T15:22:06.757076Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-25T18:46:21Z",
       "package": "exfil-proof-pkg",
       "since": "2026-11-25T18:18:45.855473Z",
@@ -29,34 +22,13 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-25T16:31:27Z",
-      "package": "mcp-diag-7f3a",
-      "since": "2026-11-25T15:22:06.757076Z",
-      "version": "1.2.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-25T16:50:03Z",
-      "package": "mcp-env-report",
-      "since": "2026-11-25T15:22:06.757076Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-25T16:53:51Z",
-      "package": "mcp-runtime-report",
-      "since": "2026-11-25T15:22:06.757076Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-25T17:59:31Z",
       "package": "xarray-org",
       "since": "2026-11-25T17:21:24.724395Z",
       "version": null
     }
   ],
-  "serial": 44173194,
+  "serial": 44175089,
   "source_truncated": false,
-  "window": "2026-11-25T20:21:49.844319Z"
+  "window": "2026-11-25T21:18:17.988046Z"
 }
