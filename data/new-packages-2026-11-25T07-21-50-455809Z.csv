@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T06:21:40Z,reel-mcp,0.1.0,Dradradre,MIT,660206,Video understanding for AI agents: an MCP server that serves a film's frames and recorded sound on one clock.
+2026-11-25T06:26:20Z,radiuma-filter,0.0.0,,"MIT License Copyright (c) 2026 radiuma_filter contributors Permission is hereby granted, free of ch…",160055,Image filtering and execution library
+2026-11-25T06:40:27Z,wleno,0.1.0,,LicenseRef-Proprietary,52060,WlEno teaching board simulator and Python control library
+2026-11-25T06:43:55Z,metric-diff,0.1.0a1,metric-diff contributors,MIT,134817,"Find out why ML metric libraries (scikit-learn, torchmetrics, torcheval, Keras, Hugging Face evaluate, MONAI) disagree on the same metric, and how to fix it."
+2026-11-25T06:47:18Z,anchordoc,0.9.3,ryanvii <ryanwuvii@gmail.com>,Apache-2.0,266346,"Structured long-PDF retrieval, cross-page evidence localization, quote verification, and auditable numerical recomputation for AI agents."
+2026-11-25T06:48:23Z,thunderduck-airflow,0.1.0,YILDIRIM ADIGUZEL,Apache-2.0,44383,"Apache Airflow provider for Thunderduck: run SQL, wait for the stored result, cancel cleanly and hand off Parquet."
+2026-11-25T06:48:52Z,lyx-modular-RAG,0.1.0,,,13256,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-25T06:55:29Z,solana-chainkit,0.1.0,Peter Nzomo <pmzomo@gmail.com>,Apache-2.0,54935,"Production-grade building blocks for USDC payments on Solana: exact amounts, safe transfers, deposit detection, RPC failover and verified Pyth prices."
+2026-11-25T06:55:36Z,repairmap,0.1.0,Cedric Conday,MIT,55922,"A checked, machine-readable table of myelin repair trials in multiple sclerosis"
+2026-11-25T06:55:38Z,repairgauge,0.1.0,Cedric Conday,MIT,1052123,"Per-lesion recovery of a myelin-sensitive MRI value between two scans, with a known-answer backtest."
+2026-11-25T06:55:42Z,repairsplit,0.1.0,Cedric Conday,MIT,75548,"Did some trial participants respond and others not, or did everyone shift a little? Methods and known-answer tests for small myelin-repair trials."
+2026-11-25T06:55:45Z,repaircase,0.1.0,Cedric Conday,MIT,16939,Scores approved drugs for a myelin repair trial in multiple sclerosis against a pre-registered rubric
+2026-11-25T06:59:16Z,amv-sentinel,2.7.0,AMEVA Engineering Team,Apache-2.0,239627,Deterministic Cost-Aware Policy Guardrails and Risk Observation SDK for Python
+2026-11-25T06:59:21Z,amv-cluster,1.0.4,Eunho Kim <amv.foundation.kr@gmail.com>,Apache-2.0,83133,Symmetric Disaggregated Mobile RAM Pooling & On-Device AI Acceleration Runtime
+2026-11-25T06:59:26Z,amv-wol,1.0.2,AMEVA Team,MIT,83564,"Lightweight, secure, Telegram-controlled Wake-on-LAN gateway for Termux and Linux"
+2026-11-25T06:59:31Z,amv-cp-bridge,1.4.0,Eunho Kim <amv.foundation.kr@gmail.com>,Apache-2.0 OR Commercial-License,260439,Sovereign Cognitive Offloading Suite & Zero-Leak REST/MCP Gateway for Microsoft 365 Copilot
+2026-11-25T07:00:11Z,ty-migrate,0.1.0,ty-migrate contributors,MIT,52550,Migrate mypy and pyright configurations and inline ignores to Astral's ty
+2026-11-25T07:00:55Z,mjguard,0.1.0,Sam Ko,Apache-2.0,9079502,"Let LLM agents drive any MuJoCo-modelled robot arm over MCP, with every motion checked in the model before it runs."
+2026-11-25T07:03:31Z,open-agent-scan,0.2.0,,Apache-2.0,2118209,"Community-led local-first security scanner for AI agents, MCP servers, and agent skills."
+2026-11-25T07:08:58Z,rd-stream,0.1.0,Lee Tucker,MIT,173465,"Regression discontinuity with robust bias-corrected inference on large data: rdrobust's estimates from one sort and compiled, threaded passes"
+2026-11-25T07:09:08Z,flet-simple-pip-mode,0.1.0,Flet contributors <you@example.com>,,37979,FletSimplePipMode control for Flet
+2026-11-25T07:14:50Z,reticula-mcp,0.0.1,Reto Stamm <reto@retostamm.com>,AGPL-3.0-or-later,27559,"Reticula MCP: a shared memory graph of small signed notes for people and their assistants, served over the Model Context Protocol."
+2026-11-25T07:19:52Z,readest-connector,0.1.0,loloshilele,MIT,76462,"MCP connector for Readest: browse, organize and download your Readest library"
