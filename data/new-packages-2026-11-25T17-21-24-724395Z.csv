@@ -1,0 +1,86 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T15:02:06Z,agent-guard-kit-sdk,0.1.0a3,AgentGuardKit Maintainers,Apache-2.0,89738,"Tenant-isolated credential brokering, deny-by-default capabilities, and typed audit sanitization for AI agents."
+2026-11-25T15:21:56Z,canonarc,0.1.0,CanonArc Contributors,MIT,192520,"Tier 1-6 Temporal Graph, Episodic Ledger, Voice Bank & Causal Time-Travel Engine for LLMs"
+2026-11-25T15:22:42Z,cleimesh,0.2.6,,MIT OR Apache-2.0,114795520,"What your agent reads can't decide what it does: MCP servers behind signed tokens, taint across servers, signed receipts."
+2026-11-25T15:28:08Z,fieldcheck-workshop,0.1.0,,,16042,Synthetic reflectance analysis for a research software workshop
+2026-11-25T15:30:50Z,truestar,0.1.0,Sharven Rane,Apache-2.0,3971936,The same answer on every chip: find where an ML model's results diverge across backends.
+2026-11-25T15:36:07Z,pmx-io,9.35.1,Mike Warriner,Proprietary,591506,"pmx in-process instrumentation for Python apps (metrics, actions, exceptions, profiling, tracing)"
+2026-11-25T15:37:32Z,nonebot-plugin-lavi,0.1.0,p0rt39,Apache-2.0,57703,一个面向二元问题的 NoneBot2 决策插件
+2026-11-25T15:38:33Z,yamer,1.0.1,Asinerum Conlang Project,MIT,8643,YAML to/from JSON File Conversion Tool
+2026-11-25T15:39:59Z,astrada,2.0.0,"Peter Swanson <email@peterswanson.tech>, Astrada <developer@astrada.co>",MIT,1026228,The Astrada API client for Python
+2026-11-25T15:44:48Z,Zaypdf,0.0.1,,,27646,
+2026-11-25T15:47:45Z,discry,0.1.0,mfdi <mfdisanchez@gmail.com>,MIT,295859,Scrape Discord web client bootstrap values
+2026-11-25T15:47:56Z,structope,1.0.0,Samir Baladi,MIT,66836,StructOPE: Off-Policy Evaluation under Structural Shift — A Pre-Registered Protocol for Auditing Estimator Rankings in Multi-Agent Systems
+2026-11-25T15:48:37Z,poop-detector,1.0.0,Yoshiaki Sakae,MIT,6016287,犬のトイレの変化を検知して通知するローカル監視ツール
+2026-11-25T15:49:24Z,dut-vault-sdk,0.1.0,,MIT,13456,"In-memory dynamic configuration SDK, mTLS gateway client, and CLI runner for DUT-AI Vault & Gateway"
+2026-11-25T15:49:24Z,provendoc,0.1.1,Aurelio <3049600963@qq.com>,MIT,4116964,"Evidence-first, domain-aware document ingestion: per-domain semantic representations with auditable Representation Stack Evaluation (RSE) for narrative, config, spreadsheet, code, and record-stream f…"
+2026-11-25T15:50:54Z,signature-improver,1.0.0,DigantaDey,Apache-2.0,34312,"Robust, CLI-friendly signature enhancement: isolate, clean, smooth and recolour signatures."
+2026-11-25T15:51:50Z,techwitness,0.1.0,Isaac E. Louzeiro,MIT,74411,"Identifies the technologies behind a website from banners, headers, HTML, JavaScript, links, cookies and TLS, with evidence for each one"
+2026-11-25T15:52:03Z,cad-deliver-mcp,0.2.0,27painter,MIT,155099,"Pre-delivery gatekeeper for CAD files: stage, verify offline, then commit. MCP server plus a CLI."
+2026-11-25T15:52:16Z,tracetamer,0.1.0,"Simon Brauburger, Max K. Earle, James Barrett",AGPL-3.0-or-later,1072799,Extract and analyse events from solid-state nanopore current traces
+2026-11-25T15:52:18Z,unifi-drive-mcp,0.1.0,,,50667,UniFi Drive MCP Server
+2026-11-25T15:52:50Z,curl-sms,1.0.0,curl-sms <help@curl-sms.com>,MIT,33353,Official Python client for the curl-sms SMS API
+2026-11-25T15:53:28Z,adaptiveST,0.6.1,Andrew Keenlyside,MIT,83043,3D structure tensors with per-voxel adaptive derivative and integration scales
+2026-11-25T15:55:33Z,agendo,0.1.0,Utkarsh,MIT,628611,Deterministic row-level rollback engine for AI agents on Postgres
+2026-11-25T15:59:17Z,lakefreight,0.3.0,,MIT,92207,"Bulk-move warehouse tables into open lakehouse files on cloud storage, for any engine to read"
+2026-11-25T16:05:40Z,apipilot,0.1.1,,Apache-2.0,94602,"ApiPilot for Python — framework-neutral core plus ASGI adapter. Envelopes, error codes, pagination, validation keys, origin, fetch-metadata, cookie rules, CSRF."
+2026-11-25T16:05:57Z,wrf-digital-twin,0.1.0,wrf-wudapt contributors,MIT,60189,Generate WRF climate cases from a lat/lon/radius/date and test land-use proposals
+2026-11-25T16:06:08Z,agenticsafetyeval,0.2.0,Rammohan Srikanth Cirigiri,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",12859468,State-verified safety evaluation for black-box session AI agents.
+2026-11-25T16:06:17Z,hy-repl-mcp,0.1.0,norci,MIT,10788,A FastMCP server for persistent Hy REPL sessions
+2026-11-25T16:10:13Z,psapkit,0.1.0,Wending Yang,"MIT License Copyright (c) 2026 psapkit contributors Permission is hereby granted, free of charge, t…",41585,General-purpose three-band PSAP telemetry decoding and absorption processing
+2026-11-25T16:11:46Z,xstack,2.0.2,Mike Malinowski,,138802,xstack is an execution framework
+2026-11-25T16:11:47Z,warps,0.0.0,,MIT,1933,Placeholder for the WARPS whole-slide registration package. Not released yet.
+2026-11-25T16:12:50Z,vibegif,0.2.0,,CC0-1.0,17360,Search vibegif's public domain animated webp/gifs and get hotlinkable URLs
+2026-11-25T16:16:05Z,enmascara,0.0.0,,MIT,1702,"Reserved name. Enmascara detects and masks CLABE, CURP, RFC and card numbers; the Python package is in development."
+2026-11-25T16:16:34Z,katra,0.0.0,,MIT,1877,Placeholder for the KATRA package. Not released yet.
+2026-11-25T16:17:50Z,finiteflow-pytools,1.0.0,Tiziano Peraro,MIT,20822,A collection of tools using the Python interface of FiniteFlow.
+2026-11-25T16:19:36Z,insai,0.0.1,Insai,Apache-2.0,11227,"Insai's tools for coding agents. Today: the Workbench CLI, MCP server and skills (nexus-workbench)."
+2026-11-25T16:20:31Z,qmost-xpca,1.0.4.dev0,Jens-Kristian Krogager <jens-kristian.krogager@univ-lyon1.fr>,,91717972,4MOST Redshift Module
+2026-11-25T16:23:03Z,onepassai,0.1.0,samadpls,Apache-2.0,56099,"A tiny open decision model: typed yes/no, choice and score answers with calibrated probabilities from one forward pass."
+2026-11-25T16:23:52Z,tokenspeed-xgrammar,0.2.9.post20261125,MLC Team,Apache 2.0,13320108,"Efficient, Flexible and Portable Structured Generation"
+2026-11-25T16:25:43Z,glosslayer-flowfile,0.1.0,Gloss contributors,Apache-2.0,33260,Gloss plugin for the Flowfile catalog: catalog seam plus lineage-based proposals.
+2026-11-25T16:26:13Z,ukbankcheck,0.1.0,Raza,MIT,109797,Validate UK sort codes and account numbers using Vocalink modulus checking.
+2026-11-25T16:26:44Z,fbxtra,1.3.1,Mike Malinowski,,53534,fbxtra is a utility library to help make interacting with the fbx sdk easier
+2026-11-25T16:28:15Z,dh-slim,1.4.7,Isaac Onagh,,148875,"Typed filesystem, terminal, and parallel-processing utilities"
+2026-11-25T16:28:18Z,scte35-2,2026.11.25,AdrianofDoom <spam@iodisco.com>,Sleepycat,155004,threefive - the #1 SCTE-35 tool worldwide.
+2026-11-25T16:28:58Z,dagnose,0.1.0,naresy,Apache-2.0,399000,Open source AI on-call engineer for Apache Airflow: diagnoses failed tasks with evidence
+2026-11-25T16:30:11Z,streamparity,0.2.0,Jaskaran Singh,MIT,20233,Research-to-production consistency testing for numerical and streaming pipelines
+2026-11-25T16:32:26Z,pynotas-br,0.8.1,Marinho Brandão,,1410395,"Emissão de NF-e e NFC-e em Python, com Reforma Tributária (IBS/CBS) e Simples Nacional"
+2026-11-25T16:33:29Z,GenPatientProfile,0.1.0,"Arthur LAMARD <arthur.lamard@chu-brest.fr>, Basile FUCHS <basile.fuchs@chu-brest.fr>, Claire DECHAU…",CC-BY-NC-SA-4.0,469060,Génération de profils patients et de scénarios cliniques synthétiques
+2026-11-25T16:37:10Z,jwt-sessions,0.1.0,,MIT,31964,"First-party JWT auth for FastAPI with rotating, reuse-detecting refresh tokens."
+2026-11-25T16:41:59Z,keyp-cli,0.0.1,David Sanchez,,2437,Placeholder for keyp. Not released yet.
+2026-11-25T16:44:29Z,qucelerate-ai-gateway,0.2.0,QuCelerate <opensource@qucelerate.com>,MIT,44514,Client for the QuCelerate AI Gateway inference API (contract 1.0.0)
+2026-11-25T16:47:34Z,mcp-sysinfo-tools,1.0.0,,MIT,3064,Read-only system information tools for MCP clients
+2026-11-25T16:47:52Z,ccFBApy,0.1.0,Abdelmoneim Amer Desouki <dr.desouki@gmail.com>,GPL-3.0-only,8557192,"Cost constrained flux balance analysis (MOMENT, ccFBA) with COBRApy: Python port of the R package sybilccFBA"
+2026-11-25T16:49:17Z,victris-arena-sim,0.90.0,Victris AI,MIT,861424,"Victris Arena's simulator for Python: the ladder's own match code in embedded V8, with Gymnasium and PettingZoo environments"
+2026-11-25T16:50:56Z,eclipsekit,0.1.0a1,Boncan Dragos-Eduard-Gabriel,Apache-2.0,779377,A modular Python engine for solar- and lunar-eclipse circumstances
+2026-11-25T16:51:09Z,lyfeninja-blkseal,0.1.0,lyfe.ninja LLC,Apache-2.0,18719,Python SDK for signing and verifying content with BlkSeal
+2026-11-25T16:51:12Z,omnimissense,0.2.0,,MIT,70855,"Score missense variants in any species with protein language models, straight from a VCF."
+2026-11-25T16:51:47Z,hf-vllm-recipe,0.0.1,Alvaro Bartolome <alvarobartt@gmail.com>,MIT,42600,A Hugging Face CLI extension to generate vLLM serve commands.
+2026-11-25T16:54:08Z,vertebra-oracle,0.3.0,,MIT,543353,Native Rust Oracle Thin 26ai client and pool extension for Vertebra.
+2026-11-25T16:54:09Z,vertebra-postgres,0.3.0,,MIT,993996,Native Rust PostgreSQL Protocol 3.0 client and pool extension for Vertebra.
+2026-11-25T16:54:10Z,vertebra-sqlite,0.3.0,,MIT,484126,Native Rust SQLite client extension for Vertebra.
+2026-11-25T16:54:11Z,fetchx-sdk,0.2.0,FetchAll Inc.,MIT,127312,Python SDK for the FetchX API: get any public URL with one API call.
+2026-11-25T16:54:11Z,vertebra-storage,0.3.0,,MIT,400862,Native Rust multi-cloud object storage extension for Vertebra.
+2026-11-25T16:54:40Z,commissura,0.1.0,Jonathan Manca,Apache-2.0,983199,"Turn raw clinical material into standardised, de-identified, research-ready datasets"
+2026-11-25T16:55:11Z,traceimport,0.1.0,,,4575,Trace Python package imports
+2026-11-25T16:56:54Z,seedstream,0.1.0,,,4202,Deterministic hierarchical random number streams
+2026-11-25T16:57:07Z,variable-resolver,0.1.0,,,14734,"Resolve partially specified variables using equations, sampling, and validation"
+2026-11-25T16:57:26Z,volantis-db,0.1.0,,GPL-3.0-only,29753483,ctypes bindings for the Volantis DB C ABI
+2026-11-25T16:58:34Z,agent-command-guard,0.1.0,,MIT,36162,A PreToolUse hook that stops a coding agent from running deletes and credential reads you can't take back
+2026-11-25T17:06:07Z,dialogpm-bot,0.1.0,Dialog,MIT,17826,"Bot API client for Dialog, the private messenger: send notifications, pictures and buttons to the people who started your bot."
+2026-11-25T17:06:36Z,odoo-addon-stock-move-force-reservation,18.0.1.0.0.3,"Akretion, Odoo Community Association (OCA)",AGPL-3,29658,Force the reservation of a move by unreserving other transfers.
+2026-11-25T17:10:37Z,beaconmap,0.1.0,,MIT,1524406,"See every server your computer talks to, live on a 3D globe. 100% local."
+2026-11-25T17:10:51Z,jarvis-harness,1.1.2,walker-null-byte,MIT,898345,"A local-first, self-improving AI agent with a web UI: any model provider, memory, tools, MCP, agents, routines and group discussions"
+2026-11-25T17:11:23Z,catalogrisk,0.1.0,Karthik Karunanithi,MIT,12146,"Weakest-link risk for AI agent tool catalogs: catalog vulnerability, effective independent decisions, tolerable error rate"
+2026-11-25T17:12:39Z,agent402-structured-tools,0.2.0,"""Cardhavok LLC (doing business as Havok Holdings LLC)"" <mike@agent402.tools>",MIT,20877,Agent402 tools for use with LangChain in Python (the applied layer of Agentic Finance): turn Agent402's catalog of 500+ pay-per-call tools and skill packs (x402 or MPP) into structured tools for Pyth…
+2026-11-25T17:13:15Z,fastsandbox,0.1.0,Aurelien Andre <aurelien.andre@aartintelligent.fr>,MIT OR Apache-2.0,8129100,Docker Sandboxes for Python: a typed async client and a declarative framework for tasks and AI agents in sandboxes
+2026-11-25T17:13:26Z,mcp-status-page,0.1.0,Angel Freire,MIT,60795,"MCP server that reports live status of developer services (GitHub, AWS, Azure, GCP, Cloudflare, OpenAI, ...) so agents can tell when a failure is upstream."
+2026-11-25T17:15:59Z,scro,0.0.1,David Sanchez,,2372,Placeholder for scro. Not released yet.
+2026-11-25T17:16:09Z,rf-shap,0.1.0,Feini Huang <feini.huang@uv.es>,MIT,227442,Cube-native tree-ensemble and SHAP diagnosis for ESM–observation relationships
+2026-11-25T17:17:54Z,agctx,0.1.1,Dmitry,MIT,65531,"Linter for AI agent context files: AGENTS.md, CLAUDE.md, GEMINI.md, SKILL.md, rules/*.md"
+2026-11-25T17:18:57Z,windows-control-center-mcp,1.0.0,,MIT,107176,"A secure, strictly local Windows Control Center Model Context Protocol (MCP) server for Antigravity, AGY CLI, Claude Desktop, and AI agents."
+2026-11-25T17:20:07Z,outerlimit-governance-agent-core,0.0.0rc1,Outerlimit,LicenseRef-Outerlimit-Commercial,4019,The shared base for Outerlimit agent governance integrations. Currently logs the usage notice.
+2026-11-25T17:20:49Z,outerlimit-governance-mcp-core,0.0.0rc1,Outerlimit,LicenseRef-Outerlimit-Commercial,4006,The shared base for Outerlimit MCP governance integrations. Currently logs the usage notice.
+2026-11-25T17:21:14Z,outerlimit-governance-agent-framework,0.0.0rc6,Outerlimit,Apache-2.0,11631,Outerlimit agent governance for Microsoft Agent Framework. Placeholder.
+2026-11-25T17:21:21Z,outerlimit-governance-fastmcp,0.0.0rc6,Outerlimit,Apache-2.0,11517,Outerlimit MCP governance for FastMCP. Placeholder.
