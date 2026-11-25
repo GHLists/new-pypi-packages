@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T18:21:19Z,splent-feature-node-monitor,0.1.5,,LGPL-3.0-or-later,84698,
+2026-11-25T18:22:36Z,django-anymail-lettermint,0.1.0,Palgakalkulaator,BSD-3-Clause,36061,Lettermint (lettermint.co) email backend and webhooks for django-anymail
+2026-11-25T18:24:15Z,ippon,0.1.0,,Apache-2.0,8045427,"Run decision models on your Mac, fast."
+2026-11-25T18:25:27Z,gepa-guard,0.1.0a1,"Mia Ojeda, League Inc.",MIT,44677,Non-regression acceptance for GEPA reflective prompt optimization
+2026-11-25T18:25:57Z,concord-cosmo,0.0.2,Rodrigo Calderon,,384446,Learning a Latent representation of the Universe
+2026-11-25T18:26:08Z,betteroffice-fonts-intl,0.4.2,OpenOOXML,Apache-2.0 AND OFL-1.1,2227992,Noto faces for international scripts for the BetterOffice Python bindings.
+2026-11-25T18:26:14Z,betteroffice-fonts-latin,0.4.2,OpenOOXML,Apache-2.0 AND OFL-1.1,4652571,"Latin, Greek, Cyrillic and Noto RTL faces for the BetterOffice Python bindings."
+2026-11-25T18:26:37Z,betteroffice-fonts-cjk,0.4.2,OpenOOXML,Apache-2.0 AND OFL-1.1,26677796,Noto CJK faces for the BetterOffice Python bindings.
+2026-11-25T18:26:53Z,optmoe,0.1.0,Axolotl AI,Apache-2.0,1045984,OPTMoE: fused expert-parallel MoE training kernels for Hopper and Blackwell
+2026-11-25T18:43:10Z,osprey-facility,2026.11.0,,BSD-3-Clause,931907,"The OSPREY facility description: facility.json, its schema, and the layers that build it"
+2026-11-25T18:49:27Z,estus,0.1.0,,AGPL-3.0-or-later,27608348,"Stdio MCP server that gives AI agents structured, policy-gated Linux operations over your own SSH"
+2026-11-25T18:49:27Z,snippetcards,0.1.0,,,5862,Python examples you can print on demand
+2026-11-25T18:51:07Z,ki18n,0.3.0,ikoch,MIT,38531,File-backed internationalization support for Python applications
+2026-11-25T18:55:52Z,agent-pty,0.7.1,dsient,MIT,49324,"SSH with persistent background PTY sessions, port forwarding, file transfer, and audit logging"
+2026-11-25T18:56:18Z,lemeept-extractor,0.4.0b0,Reginaldo Leandro Plácido Filho,MIT,232257,"Pipeline bibliométrica universal (extração determinística, inferência LLM, curadoria e gerador de painel) para o ecossistema LEME / ProfEPT e acervos acadêmicos."
+2026-11-25T18:57:01Z,barnacles,0.1.0,Stefan Zhelev,MIT,39926,"A static gallery for marimo notebooks: one YAML file, one command."
+2026-11-25T18:58:38Z,npdrop,0.3.0,,,38578,Notebook-friendly machine-learning code templates and full-block source retrieval
+2026-11-25T19:01:56Z,openpi-d5,0.1.0,dsient <dsient@users.noreply.github.com>,,159263,Desktop control room for the pi coding agent
+2026-11-25T19:03:41Z,martin-info,1.0.0,Martin,MIT,5245,Personal information about Martin
+2026-11-25T19:05:17Z,simdsel,0.1.0,Xubai Wang <xubaiwwj@gmail.com>,MIT OR Apache-2.0,3763755,Fast HTML parsing and CSS/XPath selection (parsel-compatible subset)
+2026-11-25T19:08:31Z,wwpdb.apps.console,0.0.1,Deborah Harrus <dharrus@ebi.ac.uk>,Apache-2.0,48183,wwPDB session support
+2026-11-25T19:09:09Z,impydance,0.1.0,,GPL-3.0-or-later,92737,Equivalent-circuit models and electrochemical impedance fitting
+2026-11-25T19:09:39Z,brag-rag,0.1.0,Pakshal,MIT,34493,"RAG over DOCX/PPTX/XLSX with Docling, Chonkie and RAG-Anything"
+2026-11-25T19:09:45Z,yaakov-belch-software-factory,0.0.0,,,2301,Name reserved by the yaakov-belch-software-factory project. No functionality yet.
+2026-11-25T19:10:01Z,asiri-verify,0.1.0,Itachi,MIT,59021,Verify one Asiri sealed tender from public indexer data alone.
+2026-11-25T19:10:05Z,algo-practicals,0.2.0,,,19171,Export seven Algorithms and Advanced Data Structures practicals as C++ programs
+2026-11-25T19:11:02Z,second-source,0.5.0,Second Source contributors,Apache-2.0,700726,Independent verification of AI agents' claims against the systems they act on.
+2026-11-25T19:11:46Z,mpl-help,0.1.0,Brendt Wohlberg <brendt@ieee.org>,BSD-3-Clause,45783,Backend-independent help windows for matplotlib figures
+2026-11-25T19:15:32Z,ghijo-vcs-build-probe-20261125,0.1.0,,,1449,Inert probe of GitHub VCS build dependencies in a PyPI sdist
