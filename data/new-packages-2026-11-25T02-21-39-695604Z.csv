@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T01:21:27Z,convo-safe,0.1.0,,,4324255,Reversible prompt redaction backed by a local encrypted Keybox
+2026-11-25T01:24:05Z,agy-usage-monitor,0.1.0,,MIT,34221,Real-time usage dashboard for Antigravity CLI (agy) in the terminal status line.
+2026-11-25T01:26:04Z,dawin,1.0.3,"Byunggu Yu <byu@udc.edu>, Justin Kim <junwhan.kim@udc.edu>",MIT,49244,Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning
+2026-11-25T01:26:59Z,nanopynq,0.1.0,,MIT,1831120,PYNQ-style control of open-toolchain FPGA boards (Sipeed Tang Nano) over USB (UART or JTAG)
+2026-11-25T01:27:57Z,algobacktesting,0.1.0,Daniel Heidary,MIT,38063,"Is your backtest real? Deflated Sharpe Ratio, Probability of Backtest Overfitting, and purged cross-validation for trading research."
+2026-11-25T01:31:01Z,pyboxbuilder,0.1.0,pinkfish,Apache-2.0,826703,Declarative board game box and insert design library for PythonSCAD
+2026-11-25T01:33:43Z,olostep-haystack,0.1.0,Olostep <info@olostep.com>,Apache-2.0,40476,"Haystack integration for Olostep: live web search, scraping, crawling, answers and batch extraction for AI pipelines"
+2026-11-25T01:34:14Z,clearfills,0.5.1,"""ClearFills / MLDSAI Inc."" <desk@mldsai.com>",Apache-2.0,202119,"Deterministic Ed25519 pre-trade risk firewall, MCP server, and IBKR execution guard for AI trading agents (clearfills.com)"
+2026-11-25T01:35:02Z,starfold-server,0.4.0,,MIT AND BSD-2-Clause AND BSD-3-Clause AND ISC AND Apache-2.0 AND Unicode-3.0 AND Zlib AND OFL-1.1 A…,18511862,"The starfold server binary, its starfold command and start_server() for Python"
+2026-11-25T01:36:33Z,h3d,0.1.1,,Apache-2.0,45983,3D Extension for Uber H3 Spatial Indexing
+2026-11-25T01:40:34Z,dagrunner,0.0.0.post1,,MIT,2977,"Mission control for AI coding agent fleets: turn roadmaps into reviewed, tested, merged and released code across every repo and project at once, on any model or provider."
+2026-11-25T01:44:46Z,theeditor-speech-part2,1.0.0,Sadie Nardini,MIT,67069838,Second half of the theeditor-speech model file (install theeditor-speech instead)
+2026-11-25T01:45:03Z,theeditor-speech,1.0.0,Sadie Nardini,MIT,66274189,Whisper base speech-to-text model (CTranslate2) packaged for The Editor
+2026-11-25T01:47:13Z,teasar,0.1.1,Praveen Perera <me@praveenperera.com>,MIT,1897864,"TEASAR skeletonisation of villa's surface-track slabs, with a Metal backend for Apple GPUs and a pure-Rust CPU reference"
+2026-11-25T01:50:44Z,ffwf-tau-web,0.17.0,"Fight Fire with Fire Robotics, LLC",MIT,229519,"tau-code's web client, built, for `tau serve` to serve with no flags."
+2026-11-25T01:54:27Z,facial-geometry,0.1.0,VisualCraft Lab,MIT,6986,"Pure-math facial landmark geometry library for canthal tilt, facial thirds, golden ratio delta, and bilateral symmetry."
+2026-11-25T01:54:53Z,kpex-plugin-palace,0.3.0,Martin Köhler,GPL-3.0-or-later,36273,Palace electrostatic input from KPEX PEX25D scenes: capacitance matrices by FEM
+2026-11-25T01:55:04Z,sloppy-testing,0.1.3,Marat Abdullin <ma@xrlt.net>,MIT,129177,A Sloppy bubble workbench with immediate and input-driven testing actions
+2026-11-25T01:55:21Z,kpex-plugin-elmer,0.3.0,Martin Köhler,GPL-3.0-or-later,37064,Elmer FEM electrostatic input from KPEX PEX25D scenes: capacitance matrices by FEM
+2026-11-25T02:00:04Z,advexp-prompts,0.0.1,Alexey Ivakin,Apache-2.0,13193,Temporary PyPI name reservation; the real advexp-prompts package (prompt registries and model parameters for LLM applications) is in development
+2026-11-25T02:01:36Z,dmi-mcp,0.3.0,DMI (dmi42.com),MIT,39168,"MCP server for DMI (Discrete Modeler): building extraction, LOD models and point-cloud tools on your own Windows PC"
+2026-11-25T02:03:38Z,bimo,0.1.0,Roman Montiel,"MIT License Copyright (c) 2026 bimo Permission is hereby granted, free of charge, to any person obt…",137428,Small library for ANSI-colored terminal UIs
+2026-11-25T02:05:30Z,myosa-agent,5.9.0,Azure Ashiro (reinhald90),MIT,195057,"AI coding agent untuk terminal Linux, dengan pelindung VPS (Shield) dan persetujuan di setiap langkah berisiko"
+2026-11-25T02:09:47Z,fabrikant,0.1.0,,Apache-2.0,2384356,fabrikant — a local software factory: agentic development loops as YAML specs
+2026-11-25T02:11:40Z,diting-agent,0.1.0,,,20962479,DitingAgent: evidence-driven performance trace analysis
+2026-11-25T02:15:34Z,wb-cutting-layout,1.2.1,,,7467250,包装印刷开料排版计算 CLI（核心算法已编译为二进制）
+2026-11-25T02:17:04Z,kpex-plugin-kqcircuits,0.3.0,Martin Köhler,GPL-3.0-or-later,37459,Development scaffold for exporting KPEX scenes through KQCircuits to Elmer
