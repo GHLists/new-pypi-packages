@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-11-25T02:21:39.695604Z",
-    "path": "data/new-packages-2026-11-25T03-21-43-79102Z.csv",
-    "to": "2026-11-25T03:21:43.79102Z"
+    "count": 27,
+    "from": "2026-11-25T03:21:43.79102Z",
+    "path": "data/new-packages-2026-11-25T04-18-47-960984Z.csv",
+    "to": "2026-11-25T04:18:47.960984Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-25T02:22:20Z",
       "package": "calcgraph",
       "since": "2026-11-25T02:21:39.695604Z",
@@ -15,34 +15,27 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-25T02:45:58Z",
-      "package": "helide",
-      "since": "2026-11-25T02:21:39.695604Z",
-      "version": null
+      "created_at": "2026-11-25T04:18:19Z",
+      "package": "hhc-doc-mineru-mcp",
+      "since": "2026-11-25T03:21:43.79102Z",
+      "version": "0.1.0"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-25T02:48:03Z",
-      "package": "helide-gpu",
-      "since": "2026-11-25T02:21:39.695604Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T00:46:24Z",
       "package": "pythonscad_boxes",
       "since": "2026-11-25T00:20:33.373574Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-25T02:37:47Z",
       "package": "vllm-qaic",
       "since": "2026-11-25T02:21:39.695604Z",
       "version": null
     }
   ],
-  "serial": 44138408,
+  "serial": 44139938,
   "source_truncated": false,
-  "window": "2026-11-25T03:21:43.79102Z"
+  "window": "2026-11-25T04:18:47.960984Z"
 }

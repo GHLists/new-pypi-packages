@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T02:45:58Z,helide,0.17.0,,Apache-2.0,34723818,
+2026-11-25T02:48:03Z,helide-gpu,0.17.0,,Apache-2.0,5708491,
+2026-11-25T03:31:50Z,statcraft,0.1.0,Juan Garcia <juandavidgh2011@gmail.com>,Apache-2.0,93225281,"Engines for statistical model fitting: GLM, NLME, MCGLM, NLS and SAEM with a lazy, namespaced Python API"
+2026-11-25T03:33:11Z,kristal,0.0.1,2049lab,MIT,6370,"A multi-faceted memory framework for AI: pluggable memory facets on a shared multi-source substrate, unified consumption, auditable across apps."
+2026-11-25T03:37:46Z,currtag,0.2.1,linlian,MIT,115977,
+2026-11-25T03:38:14Z,knowledge-ykforward,0.1.0,Ykontheway,Apache-2.0,1421137,A local-first knowledge lifecycle and evaluation toolkit.
+2026-11-25T03:45:07Z,sina-crypt,2.2.0,Fabien ROY,,11140904,Python bindings for the sina_crypt cryptography library
+2026-11-25T03:47:58Z,iso2-country-codes,2026.11.250406,,MIT,183108,"ISO 3166 country codes (alpha-2, alpha-3, numeric) and ISO 3166-2 subdivisions, bundled offline. Refreshed weekly from iso2.com."
+2026-11-25T03:50:53Z,metiscraft,0.1.0,shichao,Apache-2.0,40702417,"A toolkit for training, reproducing, calibrating and serving JevLike decision models."
+2026-11-25T03:51:15Z,pytest-racekit,0.1.1,ManvGit17,Apache-2.0,58114,"Race testing for live services: release many requests from one starting gate, repeat for many rounds, and count the rounds that broke a database invariant."
+2026-11-25T03:51:58Z,xy-forever,0.1.0.dev136,,MIT,166121,"Boot your Open-XY build once on an OP-XY running XY Forever: xyf stock-os, xyf dev, xyf logs"
+2026-11-25T03:52:53Z,unstring,0.1.0,Sri Krishna Lingamaneni,MIT,36293,"Fix MCP tool calls that fail with ""expected array, received string"": repairs tool-call arguments that clients and models send as JSON strings (arrays, objects, numbers, booleans), guided by the tool'…"
+2026-11-25T03:54:58Z,syncsan,0.10.4,Shreshth Rajan,Apache-2.0,89920,Finds data races in GPU megakernels and shows what each one does to your output.
+2026-11-25T03:58:33Z,spark-sentinel,0.1.0,Rittika Sarkar,Apache-2.0,1625866,"Find performance problems in Apache Spark jobs from their event logs: skew, spill, small files, bad joins, Python UDFs and more."
+2026-11-25T04:03:25Z,ChatAuto,0.0.1,ChatArch <1073853456@qq.com>,MIT,9845,ChatAuto: ChatArch automation package scaffold
+2026-11-25T04:04:59Z,agent-office-cli,0.1.0,,MIT,52672,"Human-centered multi-department office workflow, request management, and conversation adapter framework for AI agents"
+2026-11-25T04:07:55Z,qventis-ui,0.1.1,Qventis UI Contributors,MIT,49086,"Modern component library, theme engine and application scaffolder for PySide6"
+2026-11-25T04:08:05Z,kapsl-vllm-connector,0.7.0,Kapsl contributors,Apache-2.0,177850,Out-of-tree vLLM KV participant connector for Kapsl
+2026-11-25T04:08:42Z,cmapkit,0.1.0,,MIT,185469,"Colour maps designed in CAM16-UCS: categorical palettes whose closest pair is as distinct as possible, and long maps for images of high dynamic range, both for colour-blind readers too"
+2026-11-25T04:09:48Z,dprovenancekit-cloud,0.0.1,Daniel Paul Kissel,Apache-2.0,2361,Reserved name for the DProvenanceKit hosted cloud client. Not yet released.
+2026-11-25T04:10:22Z,supaflow-python-sdk,1.0.74,Supaflow <support@supa-flow.io>,LicenseRef-Proprietary,212422,Public Python SDK for building Supaflow connectors.
+2026-11-25T04:12:39Z,apkrisk,0.1.0,Jayesh Dankhara <jayesh17296@gmail.com>,MIT,71673,"Explainable static malware risk scoring for Android APKs, using tiny Pareto-optimal ML models"
+2026-11-25T04:13:02Z,libopenzilo,0.2.0,,MPL-2.0,5022257,Unified high-performance OpenZilo interaction library
+2026-11-25T04:17:16Z,adbc-driver-kinetica,7.2.1,,Apache-2.0,39005773,Arrow ADBC driver for Kinetica
+2026-11-25T04:17:34Z,evelyn-tutor,0.1.0,Evelyn Learning <info@evelynlearning.com>,MIT,48166,"Add the Evelyn Voice Tutor to your app: signed session links, the worksheet and usage API, and webhook verification."
+2026-11-25T04:17:47Z,cpiv,0.2.2,benisobahasa,MIT,79313,"CPIV: Causal Perturbation & Intervention for Voice. Explainable attribution of the causes behind voice changes, plus a robustness benchmark."
+2026-11-25T04:17:59Z,loon-python-sdk,0.0.1,"Jake Horner <jakehorner@loon.industries>, Ryan Erickson <ryanerickson@loon.industries>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",39458,Python SDK for the Loon Industries robotic arm
