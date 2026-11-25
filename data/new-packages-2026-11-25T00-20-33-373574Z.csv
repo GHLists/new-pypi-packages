@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-24T22:31:29Z,nautobot-containerlab-orchestrator,1.0.0,James Williams,Apache-2.0,40789273,Containerlab Orchestrator
+2026-11-24T23:23:54Z,korp-map,0.1.1,,MIT OR Apache-2.0,13121,Deprecated: renamed korp-map-client. This shim installs korp-map-client and re-exports it as korp_map.
+2026-11-24T23:24:55Z,baguet,1.0,Soilore <contact@soilore.com>,LicenseRef-Baguet-EULA-1.0,8089808,BAGUET 1.0 — Algebraic Lossless Memory Engine & Zero-Decompression Compute SDK
+2026-11-24T23:27:35Z,steam-families-library,3.1.0,Iker Abad,MIT,130949,"Export your Steam family library, see which games are yours and what has entered since the last check, with a local web panel."
+2026-11-24T23:29:34Z,korp-map-client,0.1.0,,MIT OR Apache-2.0,32988,"Python data client for the korp-map server: OpenStreetMap rows as Arrow tables, geocoding"
+2026-11-24T23:37:32Z,pulse-agent-sdk,0.1.1,,MIT,109373,Python SDK for building Pulse Agent Apps
+2026-11-24T23:37:39Z,ugv-sdk-py,0.10.0,"Ruixiang Du (Weston Robot), with AgileX Robotics",Apache-2.0,7406751,Python bindings for ugv_sdk by Weston Robot & AgileX Robotics (unofficial build)
+2026-11-24T23:38:11Z,mimiq-tensorkeeper-mock,0.1.2,Guido Masella <guido.masella@qperfect.io>,,1208250,Unlicensed mock of the TensorKeeper CAMPS simulator: the MIMIQ data models with no simulation behind them
+2026-11-24T23:44:04Z,egui-workbench,1.0.0,Jose Ignacio Gonzalez,MIT OR Apache-2.0,32154652,"Native, IDE-grade workbench windows from a Python script."
+2026-11-24T23:50:47Z,shako-sdk,0.1.0,,MIT,29590,"The Shako API for Python: VMs, ports, backups, secrets and credit, with an API key."
+2026-11-24T23:53:06Z,shipyard-rl,0.1.0,Davide Ghilardi,Apache-2.0,376275,"Post-training on Harbor jobs: a config sets up a run, and a run is its record."
+2026-11-24T23:56:32Z,contextbridge-agents,0.1.0,ContextBridge Contributors,MIT,450598,Your context. Any agent. No lock-in. Universal local CLI for managing and porting AI coding agent skills.
+2026-11-24T23:59:30Z,Print3D,0.1.0,ThinkArtWork,MIT,385487,"Self-hosted 3D printing MCP server: generate, edit, render, slice, print."
+2026-11-25T00:01:03Z,earthwatch-suite,0.1.0,Charles Rieck,MIT,2811,"Remote-sensing site monitoring monorepo: satellite imagery ingestion, change detection, monitoring and alerts from free data."
+2026-11-25T00:01:04Z,fs-exam-prep,0.1.0,Charles Rieck,MIT,2768,Versioned question-bank engine for NCEES FS exam preparation (schema v1 JSON banks powering the Benchmark Prep app family).
+2026-11-25T00:01:05Z,survey-currents,0.1.0,Charles Rieck,MIT,2843,"Ocean and atmosphere data-fetch engines: NOAA OFS currents, GFS winds and 13+ satellite/model/in-situ sources for map-reel and monitoring pipelines."
+2026-11-25T00:01:06Z,survey-ortho,0.1.0,Charles Rieck,MIT,2790,"Surveyor-grade drone orthophoto pipeline layer over OpenDroneMap: CRS/datum rigor, GCP vs check-shot separation and per-job QC accuracy reports."
+2026-11-25T00:03:32Z,opentearsheet,0.1.0,OpenTearsheet contributors,Apache-2.0,78219,"Free, open-source, local-first research memos from SEC EDGAR filings (Form 4, 13F, Form ADV)."
+2026-11-25T00:03:41Z,mcp-cuc-liora,0.1.0,Your Name,MIT,7422,An MCP Server that provides a tool to get the current time with optional timezone support
+2026-11-25T00:05:34Z,nudisxs-py,2.0.0,Vadim A. Naumov and K. Kuzmin,"MIT License Copyright (c) 2022-present U.N. Owen <void@some.where> Permission is hereby granted, fr…",96928,Neutrino-nucleon deep inelastic charged/neutral current cross sections: numba port of the Fortran code by Vadim A. Naumov and Konstantin Kuzmin.
+2026-11-25T00:09:56Z,sloppy-sdk,0.1.1,Marat Abdullin <ma@xrlt.net>,MIT,87680,"Isolated, resumable Sloppy bubble sessions for Python plugins"
+2026-11-25T00:11:08Z,flouds-onnx,2.0.0,Goutam Malakar,Apache-2.0,100864,"Ollama-style ONNX model store and runtime - pull, cache, and serve ORT sessions"
+2026-11-25T00:12:33Z,aws_sdk_mturk,0.0.0,,Apache-2.0,2076,Placeholder reserving the aws_sdk_mturk name. Not yet functional.
+2026-11-25T00:12:57Z,aws_sdk_securitylake,0.0.0,,Apache-2.0,2158,Placeholder reserving the aws_sdk_securitylake name. Not yet functional.
+2026-11-25T00:13:14Z,aws_sdk_emr_containers,0.0.0,,Apache-2.0,2175,Placeholder reserving the aws_sdk_emr_containers name. Not yet functional.
+2026-11-25T00:13:29Z,aws_sdk_iotsitewise,0.0.0,,Apache-2.0,2145,Placeholder reserving the aws_sdk_iotsitewise name. Not yet functional.
+2026-11-25T00:14:09Z,aws_sdk_keyspaces,0.0.0,,Apache-2.0,1977,Placeholder reserving the aws_sdk_keyspaces name. Not yet functional.
+2026-11-25T00:14:23Z,aws_sdk_networkmanager,0.0.0,,Apache-2.0,2031,Placeholder reserving the aws_sdk_networkmanager name. Not yet functional.
+2026-11-25T00:14:38Z,aws_sdk_gamelift,0.0.0,,Apache-2.0,1969,Placeholder reserving the aws_sdk_gamelift name. Not yet functional.
+2026-11-25T00:14:54Z,aws_sdk_swf,0.0.0,,Apache-2.0,1912,Placeholder reserving the aws_sdk_swf name. Not yet functional.
+2026-11-25T00:16:07Z,aws_sdk_cloudhsm_v2,0.0.0,,Apache-2.0,2016,Placeholder reserving the aws_sdk_cloudhsm_v2 name. Not yet functional.
+2026-11-25T00:16:20Z,aws_sdk_codeguru_reviewer,0.0.0,,Apache-2.0,2080,Placeholder reserving the aws_sdk_codeguru_reviewer name. Not yet functional.
+2026-11-25T00:16:30Z,aws_sdk_omics,0.0.0,,Apache-2.0,1947,Placeholder reserving the aws_sdk_omics name. Not yet functional.
+2026-11-25T00:16:44Z,aws_sdk_s3outposts,0.0.0,,Apache-2.0,1999,Placeholder reserving the aws_sdk_s3outposts name. Not yet functional.
+2026-11-25T00:17:54Z,xtr-orm-fixtures,7.2.0,Xterr,MIT,76334,"Seed a database from fixture classes: ordered, grouped and sharing references, loaded in one transaction after an emptying in foreign-key order."
+2026-11-25T00:18:21Z,ocsf-semtools-v1-10-0,0.2.0,Eddie Allan,Apache-2.0,676508,"Typed msgspec models for OCSF 1.10.0, generated by ocsf-semtools 0.2.0."

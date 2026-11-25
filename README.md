@@ -8,39 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:18 UTC
+## Latest list — 2026-11-25 00:20 UTC
 
-New packages created between 2026-11-24 22:22 UTC and 2026-11-24 23:18 UTC.
+New packages created between 2026-11-24 23:18 UTC and 2026-11-25 00:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-24T23-18-44-148258Z.csv)
+[Full CSV](data/new-packages-2026-11-25T00-20-33-373574Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-24 22:23:26 | [hidden-moves-workspace](https://pypi.org/project/hidden-moves-workspace/) | 0.1.0a2 | Ella Inng | 22.4 kB | Bounded typed context over explicitly selected local text files. |
-| 2026-11-24 22:23:52 | [compose-application](https://pypi.org/project/compose-application/) | 0.1.0a1 | ellainng | 72.0 kB | Optional composition of typed storage, APIs and spatial interfaces. |
-| 2026-11-24 22:24:28 | [kos-connectors](https://pypi.org/project/kos-connectors/) | 1.0.0b1 | Katsenia SpA <support@katseni… | 70.3 kB | KOS (Katsenia Optimization Solver) for Pyomo, PuLP and CVXPY: LP and MILP, with… |
-| 2026-11-24 22:24:58 | [pcmcp](https://pypi.org/project/pcmcp/) | 1.1.1 | Angela Wilkinson <angie@synhu… | 285.6 kB | PCMCP: cross-platform instant file-state change bots with a stdlib-only MCP ser… |
-| 2026-11-24 22:26:17 | [kos-mcp](https://pypi.org/project/kos-mcp/) | 1.0.0b1 | Katsenia SpA <support@katseni… | 84.2 kB | The local MCP server of KOS (Katsenia Optimization Solver): solve, inspect and… |
-| 2026-11-24 22:27:30 | [vecrecall](https://pypi.org/project/vecrecall/) | 2.2.0 | snowfoxHQ | 267.8 kB | 本地优先的 AI 记忆系统：纯向量检索与组织层解耦，四层上下文，可选多 Agent 隔离与哈希链审计 |
-| 2026-11-24 22:35:20 | [prioritykit](https://pypi.org/project/prioritykit/) | 0.2.0 | John Hodge | 48.0 kB | Deterministic rules for importance-urgency scoring, P0/P1/P2 levels, and three… |
-| 2026-11-24 22:36:17 | [tradytics-mcp](https://pypi.org/project/tradytics-mcp/) | 0.1.1 | Tradytics <hello@tradytics.co… | 13.4 kB | MCP server for US stock market data: options flow, dark pool prints, dealer gam… |
-| 2026-11-24 22:40:21 | [hypnosis](https://pypi.org/project/hypnosis/) | 0.1.0a1 | ellainng | 200.9 kB | Bounded harness execution, orchestration and a Carets application. |
-| 2026-11-24 22:46:58 | [vexinter](https://pypi.org/project/vexinter/) | 0.5.7 | Vexinter Team | 5.8 MB | Verification, memory, and secure communication infrastructure for AI agents |
-| 2026-11-24 22:48:36 | [abm-market](https://pypi.org/project/abm-market/) | 1.0.1 | Iker Abad | 243.0 kB | Agent-based toy market simulator for stylized facts of financial returns |
-| 2026-11-24 22:48:43 | [gamesize](https://pypi.org/project/gamesize/) | 1.0.1 | Iker Abad | 189.8 kB | Game inventory: GB per hour, backlog plan, history and wishlist |
-| 2026-11-24 22:49:48 | [sheet-music-mcp-core](https://pypi.org/project/sheet-music-mcp-core/) | 0.3.1 | Raul Kivi <raulkivi@users.nor… | 164.9 kB | Shared helpers for the sheet-music MCP servers: errors, part selection, annotat… |
-| 2026-11-24 22:53:45 | [ssRMSD](https://pypi.org/project/ssRMSD/) | 0.1.0 |  | 70.5 kB | Self-consistency RMSD (ssRMSD) scoring for predicted antibody-antigen structure… |
-| 2026-11-24 22:55:57 | [trovir](https://pypi.org/project/trovir/) | 0.0.1 |  | 2.6 kB | Trovir: framework de agentes de IA que trabalham em equipe. Nome reservado; em… |
-| 2026-11-24 22:57:51 | [causal-toolkit-victoria](https://pypi.org/project/causal-toolkit-victoria/) | 0.1.0 | Victoria <vli3@uchicago.edu> | 14.4 kB | A Python package for causal inference methods including ATE estimation, propens… |
-| 2026-11-24 22:59:48 | [cudaq-pulse-tools](https://pypi.org/project/cudaq-pulse-tools/) | 0.1.0 | NVIDIA Corporation | 116.4 MB | Command-line compiler tools for cudaq-pulse |
-| 2026-11-24 23:00:19 | [cudaq-pulse](https://pypi.org/project/cudaq-pulse/) | 0.1.0 | NVIDIA Corporation | 139.1 MB | Pulse-level MLIR dialect and programming model for quantum control |
-| 2026-11-24 23:05:06 | [harness-proxy](https://pypi.org/project/harness-proxy/) | 0.1.0 | Davide Ghilardi | 175.1 kB | OpenAI- and Anthropic-compatible model server for agent harnesses, backed by Ti… |
-| 2026-11-24 23:05:21 | [human-thing](https://pypi.org/project/human-thing/) | 0.0.1 | Machina Ratiocinatrix <machin… | 49.2 kB | A human thing. |
-| 2026-11-24 23:07:07 | [paracosm](https://pypi.org/project/paracosm/) | 0.1.0a1 | ellainng | 15.0 kB | Deterministic worlds and optional environment minds. |
-| 2026-11-24 23:07:22 | [arrow2xmla](https://pypi.org/project/arrow2xmla/) | 0.2.0 |  | 2.0 MB | Arrow in, XMLA out: a generic, engine-free XMLA cellset writer and request pars… |
-| 2026-11-24 23:07:56 | [spectrapy-colour](https://pypi.org/project/spectrapy-colour/) | 0.3.1 | Franciszek Drągowski | 851.0 kB | Physically based spectral colour calculations and beautiful spectral plots with… |
-| 2026-11-24 23:13:14 | [polars-libpostal](https://pypi.org/project/polars-libpostal/) | 0.1.0 | Drew Adlof <drew.adlof@gmail.… | 6.4 MB | Parallel libpostal address parsing as a Polars expression. |
-| 2026-11-24 23:13:26 | [wispsy](https://pypi.org/project/wispsy/) | 0.1.0a1 | ellainng | 137.2 kB | Executable references for explicit Python capability composition. |
-| 2026-11-24 23:15:02 | [evermatter](https://pypi.org/project/evermatter/) | 0.202.0 | Hugo Ander <founder@substrate… | 15.8 MB | Local knowledge substrate for owned markdown/Obsidian vaults, exposed through M… |
-| 2026-11-24 23:16:23 | [datastreamdb](https://pypi.org/project/datastreamdb/) | 0.1.0 |  | 1.6 MB | Python bindings for datastreamdb (embedded graph database) |
-| 2026-11-24 23:18:13 | [nrs-edge](https://pypi.org/project/nrs-edge/) | 0.1.1 | Necessity Robotics <necessity… | 7.7 MB | nrs-edge: a small stereo depth network (6 M parameters). Disparity and metric d… |
+| 2026-11-24 22:31:29 | [nautobot-containerlab-orchestrator](https://pypi.org/project/nautobot-containerlab-orchestrator/) | 1.0.0 | James Williams | 40.8 MB | Containerlab Orchestrator |
+| 2026-11-24 23:23:54 | [korp-map](https://pypi.org/project/korp-map/) | 0.1.1 |  | 13.1 kB | Deprecated: renamed korp-map-client. This shim installs korp-map-client and re-… |
+| 2026-11-24 23:24:55 | [baguet](https://pypi.org/project/baguet/) | 1.0 | Soilore <contact@soilore.com> | 8.1 MB | BAGUET 1.0 — Algebraic Lossless Memory Engine & Zero-Decompression Compute SDK |
+| 2026-11-24 23:27:35 | [steam-families-library](https://pypi.org/project/steam-families-library/) | 3.1.0 | Iker Abad | 130.9 kB | Export your Steam family library, see which games are yours and what has entere… |
+| 2026-11-24 23:29:34 | [korp-map-client](https://pypi.org/project/korp-map-client/) | 0.1.0 |  | 33.0 kB | Python data client for the korp-map server: OpenStreetMap rows as Arrow tables,… |
+| 2026-11-24 23:37:32 | [pulse-agent-sdk](https://pypi.org/project/pulse-agent-sdk/) | 0.1.1 |  | 109.4 kB | Python SDK for building Pulse Agent Apps |
+| 2026-11-24 23:37:39 | [ugv-sdk-py](https://pypi.org/project/ugv-sdk-py/) | 0.10.0 | Ruixiang Du (Weston Robot), w… | 7.4 MB | Python bindings for ugv_sdk by Weston Robot & AgileX Robotics (unofficial build) |
+| 2026-11-24 23:38:11 | [mimiq-tensorkeeper-mock](https://pypi.org/project/mimiq-tensorkeeper-mock/) | 0.1.2 | Guido Masella <guido.masella@… | 1.2 MB | Unlicensed mock of the TensorKeeper CAMPS simulator: the MIMIQ data models with… |
+| 2026-11-24 23:44:04 | [egui-workbench](https://pypi.org/project/egui-workbench/) | 1.0.0 | Jose Ignacio Gonzalez | 32.2 MB | Native, IDE-grade workbench windows from a Python script. |
+| 2026-11-24 23:50:47 | [shako-sdk](https://pypi.org/project/shako-sdk/) | 0.1.0 |  | 29.6 kB | The Shako API for Python: VMs, ports, backups, secrets and credit, with an API… |
+| 2026-11-24 23:53:06 | [shipyard-rl](https://pypi.org/project/shipyard-rl/) | 0.1.0 | Davide Ghilardi | 376.3 kB | Post-training on Harbor jobs: a config sets up a run, and a run is its record. |
+| 2026-11-24 23:56:32 | [contextbridge-agents](https://pypi.org/project/contextbridge-agents/) | 0.1.0 | ContextBridge Contributors | 450.6 kB | Your context. Any agent. No lock-in. Universal local CLI for managing and porti… |
+| 2026-11-24 23:59:30 | [Print3D](https://pypi.org/project/Print3D/) | 0.1.0 | ThinkArtWork | 385.5 kB | Self-hosted 3D printing MCP server: generate, edit, render, slice, print. |
+| 2026-11-25 00:01:03 | [earthwatch-suite](https://pypi.org/project/earthwatch-suite/) | 0.1.0 | Charles Rieck | 2.8 kB | Remote-sensing site monitoring monorepo: satellite imagery ingestion, change de… |
+| 2026-11-25 00:01:04 | [fs-exam-prep](https://pypi.org/project/fs-exam-prep/) | 0.1.0 | Charles Rieck | 2.8 kB | Versioned question-bank engine for NCEES FS exam preparation (schema v1 JSON ba… |
+| 2026-11-25 00:01:05 | [survey-currents](https://pypi.org/project/survey-currents/) | 0.1.0 | Charles Rieck | 2.8 kB | Ocean and atmosphere data-fetch engines: NOAA OFS currents, GFS winds and 13+ s… |
+| 2026-11-25 00:01:06 | [survey-ortho](https://pypi.org/project/survey-ortho/) | 0.1.0 | Charles Rieck | 2.8 kB | Surveyor-grade drone orthophoto pipeline layer over OpenDroneMap: CRS/datum rig… |
+| 2026-11-25 00:03:32 | [opentearsheet](https://pypi.org/project/opentearsheet/) | 0.1.0 | OpenTearsheet contributors | 78.2 kB | Free, open-source, local-first research memos from SEC EDGAR filings (Form 4, 1… |
+| 2026-11-25 00:03:41 | [mcp-cuc-liora](https://pypi.org/project/mcp-cuc-liora/) | 0.1.0 | Your Name | 7.4 kB | An MCP Server that provides a tool to get the current time with optional timezo… |
+| 2026-11-25 00:05:34 | [nudisxs-py](https://pypi.org/project/nudisxs-py/) | 2.0.0 | Vadim A. Naumov and K. Kuzmin | 96.9 kB | Neutrino-nucleon deep inelastic charged/neutral current cross sections: numba p… |
+| 2026-11-25 00:09:56 | [sloppy-sdk](https://pypi.org/project/sloppy-sdk/) | 0.1.1 | Marat Abdullin <ma@xrlt.net> | 87.7 kB | Isolated, resumable Sloppy bubble sessions for Python plugins |
+| 2026-11-25 00:11:08 | [flouds-onnx](https://pypi.org/project/flouds-onnx/) | 2.0.0 | Goutam Malakar | 100.9 kB | Ollama-style ONNX model store and runtime - pull, cache, and serve ORT sessions |
+| 2026-11-25 00:12:33 | [aws_sdk_mturk](https://pypi.org/project/aws_sdk_mturk/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_mturk name. Not yet functional. |
+| 2026-11-25 00:12:57 | [aws_sdk_securitylake](https://pypi.org/project/aws_sdk_securitylake/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_securitylake name. Not yet functional. |
+| 2026-11-25 00:13:14 | [aws_sdk_emr_containers](https://pypi.org/project/aws_sdk_emr_containers/) | 0.0.0 |  | 2.2 kB | Placeholder reserving the aws_sdk_emr_containers name. Not yet functional. |
+| 2026-11-25 00:13:29 | [aws_sdk_iotsitewise](https://pypi.org/project/aws_sdk_iotsitewise/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_iotsitewise name. Not yet functional. |
+| 2026-11-25 00:14:09 | [aws_sdk_keyspaces](https://pypi.org/project/aws_sdk_keyspaces/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_keyspaces name. Not yet functional. |
+| 2026-11-25 00:14:23 | [aws_sdk_networkmanager](https://pypi.org/project/aws_sdk_networkmanager/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_networkmanager name. Not yet functional. |
+| 2026-11-25 00:14:38 | [aws_sdk_gamelift](https://pypi.org/project/aws_sdk_gamelift/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_gamelift name. Not yet functional. |
+| 2026-11-25 00:14:54 | [aws_sdk_swf](https://pypi.org/project/aws_sdk_swf/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_swf name. Not yet functional. |
+| 2026-11-25 00:16:07 | [aws_sdk_cloudhsm_v2](https://pypi.org/project/aws_sdk_cloudhsm_v2/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_cloudhsm_v2 name. Not yet functional. |
+| 2026-11-25 00:16:20 | [aws_sdk_codeguru_reviewer](https://pypi.org/project/aws_sdk_codeguru_reviewer/) | 0.0.0 |  | 2.1 kB | Placeholder reserving the aws_sdk_codeguru_reviewer name. Not yet functional. |
+| 2026-11-25 00:16:30 | [aws_sdk_omics](https://pypi.org/project/aws_sdk_omics/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the aws_sdk_omics name. Not yet functional. |
+| 2026-11-25 00:16:44 | [aws_sdk_s3outposts](https://pypi.org/project/aws_sdk_s3outposts/) | 0.0.0 |  | 2.0 kB | Placeholder reserving the aws_sdk_s3outposts name. Not yet functional. |
+| 2026-11-25 00:17:54 | [xtr-orm-fixtures](https://pypi.org/project/xtr-orm-fixtures/) | 7.2.0 | Xterr | 76.3 kB | Seed a database from fixture classes: ordered, grouped and sharing references,… |
+| 2026-11-25 00:18:21 | [ocsf-semtools-v1-10-0](https://pypi.org/project/ocsf-semtools-v1-10-0/) | 0.2.0 | Eddie Allan | 676.5 kB | Typed msgspec models for OCSF 1.10.0, generated by ocsf-semtools 0.2.0. |
