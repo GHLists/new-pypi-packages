@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T14:02:24Z,saknussemm,0.9.0,saknussemm contributors,,876882,"Structure-safe post-OCR correction of heritage transcriptions (ALTO, PAGE XML) — parsers, rewriters, hyphenation reconciler, span edit protocol."
+2026-11-25T14:23:04Z,positronixlab,0.1.3,Cesare Montresor,MPL-2.0,439151,A comprehensive framework to explore modularity of neural networks
+2026-11-25T14:24:03Z,melba,0.1.0,MELBA contributors,MIT,24152,A NumPy-based business data regression library
+2026-11-25T14:25:25Z,stepup-data,4.3.0a0,Toon Verstraelen <toon.verstraelen@ugent.be>,LGPL-3.0-or-later,192106,StepUp extension for data exchange and archiving
+2026-11-25T14:28:29Z,fibtrace2,0.2.0,Scott Peterman,GPLv3,354722,Hop-by-hop forwarding chain validation with ECMP graph visualization. Not a traceroute — a FIB trace.
+2026-11-25T14:29:13Z,stepup-notebook,4.3.0a0,Toon Verstraelen <toon.verstraelen@ugent.be>,LGPL-3.0-or-later,79333,StepUp extension for Jupyter notebooks
+2026-11-25T14:29:53Z,nectary,0.0.1,,Apache-2.0,2148,Nectary - early development.
+2026-11-25T14:30:20Z,dimmi-sdk,0.1.0,dimmi,MIT,3258341,"Python backend SDK for dimmi: REST API client, messenger identity tokens and webhook verification."
+2026-11-25T14:30:26Z,bank-to-datev,0.1.0,,MIT,11531,"Zero-dependency Python converter & CLI: CAMT.053 XML, MT940 and bank CSV statements to official DATEV EXTF v700 Buchungsstapel CSV (SKR03/SKR04)."
+2026-11-25T14:30:28Z,xrechnung-validator,0.1.0,,MIT,10608,Zero-dependency Python validator & CLI for German XRechnung 2.x/3.0 XML e-invoices (UBL 2.1 & CII) against EN 16931 + BR-DE rules.
+2026-11-25T14:36:26Z,isl75lab,1.0.1,,,27930,Print ISL75 Big Data Laboratory programs and setup instructions by question.
+2026-11-25T14:38:31Z,feanor-el-aplasta-libros,0.6.3,Carlos Eduardo Ravello Joo,MIT,185193,"Feanor: Spanish PDF, Word and PowerPoint to Markdown, with per-page traceability; flattens curved book pages before OCR."
+2026-11-25T14:38:35Z,lrclean,0.1.0,Peter Wiercioch,MIT,345659,Free a full photo drive without losing a photo or breaking a Lightroom Classic catalog.
+2026-11-25T14:38:55Z,honestnines,0.0.1a0,,,3288,HonestNines Python SDK and CLI
+2026-11-25T14:39:12Z,zapind,0.1.0,nquangdungg,LGPL-3.0-only,64390,"Developer-friendly, async-first, type-safe contextual Zalo SDK for Python."
+2026-11-25T14:41:49Z,orangebeard-pytest,0.1.0,Orangebeard <info@orangebeard.io>,Apache-2.0,37094,Orangebeard reporting plugin for pytest (including pytest-playwright)
+2026-11-25T14:42:22Z,efatura-tr,0.1.0,Arda Zeybek <179981861+ardazeybek-dev@users.noreply.github.com>,MIT,964491,"Read Turkish e-Fatura / e-Arşiv (UBL-TR) invoice XML into typed Python objects, JSON or CSV, and check that the totals add up."
+2026-11-25T14:43:07Z,stepup-report,4.3.0a0,Toon Verstraelen <toon.verstraelen@ugent.be>,LGPL-3.0-or-later,145960,StepUp extension for reproducible reports
+2026-11-25T14:43:56Z,hbag,0.3.0,HBAG contributors,Apache-2.0,29284,Sparse x Dense matrix multiply with adaptive OpenMP scheduling
+2026-11-25T14:44:28Z,figuratively,1.0.1,Abhishek Bohare,MIT,150811,"Figures, figuratively speaking: one call from a ROOT file to a publication plot (no ROOT install needed)."
+2026-11-25T14:46:53Z,cdec,0.1.0,Soeren Sparmann <sparmann@mail.uni-paderborn.de>,MIT,3816905,"Download Earth observation rasters (NDVI, EVI, true colour, DEM, land cover, ...) from the Copernicus Data Space openEO backend."
+2026-11-25T14:47:45Z,de-censor,0.7.0,,Apache-2.0,55324,"Censor — audit a DE Arsenal project or dataset and grade it, with evidence and fixes"
+2026-11-25T14:52:44Z,caesium-toolkit,0.0.1,,,3912,A beginner-friendly toolkit to make Python and life easy.
+2026-11-25T14:55:18Z,skymiid_agentic_terminal,0.1.0,,,5249,An mcp which add terminal capabilities to an agent
+2026-11-25T14:56:53Z,audcom,0.1.1,,MIT,333737,"Biblioteca, CLI e portal web de comunicação de auditoria (TCE-RJ)"
+2026-11-25T14:57:04Z,fusion-metrics,1.0.1,Vu Viet Anh <vietanhresearcher@gmail.com>,MIT (see LICENSE and NOTICE for third-party-derived metrics),50812,"Objective image-fusion quality metrics (Q_ABF, MI, NCIE, FMI, FSIM, VIF, ...) ported line by line from MATLAB and verified to round-off precision"
+2026-11-25T14:58:22Z,dokimi-io,0.1.0,,"MIT License Copyright (c) 2026 The dokimi authors Permission is hereby granted, free of charge, to…",723094,Test orchestration framework for functional and non-functional validation of Kubernetes clusters
+2026-11-25T15:00:48Z,azathoth-team,0.0.1,"Eldritch, Inc.",MIT,5093,"Placeholder held by Eldritch, Inc.: azathoth-team is not distributed on PyPI."
+2026-11-25T15:00:52Z,eldritch-licensing,0.0.1,"Eldritch, Inc.",MIT,5154,"Placeholder held by Eldritch, Inc.: eldritch-licensing is not distributed on PyPI."
+2026-11-25T15:01:08Z,devicetestrunner,1.7.4,Andrew Wang,,69836,A test orchestration framework for device validation
+2026-11-25T15:03:54Z,pywave3d,0.2.0,David Sinden,"MIT License Copyright (c) 2026 David Sinden Permission is hereby granted, free of charge, to any pe…",130995,Nonlinear ultrasound beams by a pseudo-spectral spatial-marching scheme
+2026-11-25T15:04:16Z,uppercut-retro-pixels,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,32853,"Retro console pixel formats as pure functions: RGB565, ARGB4444, ARGB1555, RGBA5551 and BGR555, R/B swap, block swizzle, RLE, palette ramps and a glyph-atlas packer."
+2026-11-25T15:05:22Z,uppercut-gba-asset-export,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,25160,"Export indexed pixel art for the Game Boy Advance: BGR555 palettes, 4bpp tile words, grit-style C files, 4bpp BMP and Butano JSON, and GIMP palettes."
+2026-11-25T15:06:27Z,uppercut-gba-rom-verify,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,23314,"Check a Game Boy Advance ROM header and its devkitARM ELF, and report the ROM's SHA-256."
+2026-11-25T15:06:29Z,kos-cloud,1.0.0b1,Katsenia SpA <support@katsenia.com>,Apache-2.0,66135,Python client for KOS Cloud: solve LP and MIP models on the KOS solver service
+2026-11-25T15:06:38Z,cheffelo-model-registry,0.0.0,Cheffelo,,1684,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-25T15:06:39Z,cheffelo-project-owners,0.0.0,Cheffelo,,1683,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-25T15:06:40Z,cheffelo-pydantic-argparser,0.0.0,Cheffelo,,1740,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-25T15:06:41Z,cheffelo-pydantic-form,0.0.0,Cheffelo,,1670,Placeholder reserving the name of an internal Cheffelo package.
+2026-11-25T15:07:32Z,uppercut-pcsx2-pine,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,36002,"A client for PCSX2's PINE socket: read and write PS2 memory, batch reads, title, status, game id, save states, with an optional write allowlist."
+2026-11-25T15:07:44Z,mkdoo,0.1.0rc1,aaronlyy,MIT,6525,Scaffold new Odoo addons from the command line
+2026-11-25T15:08:09Z,glyphly,0.1.0a1,Jordan Manoj,Apache-2.0,72264,"OCR for Python with nothing to install but the package: words, boxes and confidences, no Tesseract."
+2026-11-25T15:08:09Z,symphony-forge,1.2.48,,,2567686,Forge: one small tool that takes a story from approval to a merged pull request.
+2026-11-25T15:09:05Z,nextdocs-codegraph,0.1.0,Nextdocs,MIT,731219,"Static code graph: tree-sitter symbols, calls, routes, infrastructure and data access, in one SQLite file"
+2026-11-25T15:10:30Z,bf16-hermes-plugin,0.1.0,BF16 Team <hello@bf16.ai>,MIT,7865,Official bf16.ai 1M-context uncensored LLM model provider plugin for Hermes Agent
+2026-11-25T15:10:31Z,bf16ai,0.1.0,BF16 Team <hello@bf16.ai>,MIT,10978,Official zero-dependency Python SDK for bf16.ai — uncensored 1M-context LLM inference API with prompt caching and strict Zero Data Retention.
+2026-11-25T15:11:57Z,primvaria-contract,0.1.0b1,Daniel Régis Sarmento Caon,MIT,36249,"The Primvaria OpenUSD contract: the code the Granulaire, Maillage, Filaire and Quincaillerie generators share to write and check their files (identity, variation, packs, ground, engine layers)."
+2026-11-25T15:13:15Z,mosaico-base-agent,0.4.2,,,51693,
+2026-11-25T15:14:07Z,rashid-core,0.5.0,Portolan contributors,Apache-2.0,1270733,Validator and linter for Portolan catalogs
+2026-11-25T15:15:57Z,hermetic-agent,0.1.0,Hermetic contributors,MIT,449168,"Agentic tester for REST microservices: infers dependencies, provisions mocks, generates and runs tests."
+2026-11-25T15:18:46Z,sam-link-sdk,0.1.0,Solace Corporation,Apache-2.0,473126,Solace Agent Mesh Link SDK: lets agents built with other frameworks join a Solace Agent Mesh as first-class agents
+2026-11-25T15:20:23Z,packlens,0.1.0,Sam3360,MIT,131094,Inspect archives. Understand contents.
