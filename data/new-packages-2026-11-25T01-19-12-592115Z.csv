@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T00:27:20Z,binds,0.1.0,Borisav Damnjanovic,MIT,8859,Functional programming abstractions for Python
+2026-11-25T00:27:48Z,calendar-studio,0.1.0,Jacobo León,MIT,64742,"Explicit business calendars, composable rules and reproducible calendar artifacts"
+2026-11-25T00:30:00Z,phx-filters-pydantic,1.0.0a1,Phoenix Zerin <phx@phx.nz>,MIT,37855,Pydantic integration for Filters
+2026-11-25T00:36:02Z,fly-os,0.1,,,7828,Fly Bot OS command line tool (fly_os): prints the version and the manifesto.
+2026-11-25T00:36:45Z,nvs-observation,0.1.0.dev0,Gemmina Intelligence LLC,Apache-2.0,86499,NVS observation-side capture and edge integration (Apache-2.0)
+2026-11-25T00:37:32Z,zeroday-cli,0.1.0,,MIT,1238838,zeroday: an interactive AI agent CLI with MCP and Agent Skills support
+2026-11-25T00:38:39Z,quantr-engine,0.1.0,xiefujin <490021684@qq.com>,GPL-3.0-or-later,177388,"Deterministic, auditable quantitative research engine (PIT data, factors, backtests, schema-validated reports)."
+2026-11-25T00:44:03Z,loggly-sdk,4.0.0,,MIT,87704,"Python client and command-line tools for searching, analyzing and sending Loggly events"
+2026-11-25T00:45:25Z,pydllaiv,2.1.0,,MIT,88954,"Coding agent CLI/library: brain on Google Colab (Ollama + tunnel), execution local on Windows / Linux / macOS / Termux / Pydroid 3"
+2026-11-25T00:51:52Z,orrin,1.0.0,snehoza,MIT,139139,"Run several coding agents on one machine: detached jobs with completion markers, a fair machine lock, short waits, a lane board, status, tidy and protected data."
+2026-11-25T00:54:55Z,oscal-mcp,1.1.0,Brian Ruf <Brian@RufRisk.com>,MIT,365752,"MCP Server that wraps the oscal Python library to enable an Agentic AI to validate, convert, query and mutate OSCAL content."
+2026-11-25T00:57:07Z,m7-jax,0.2.0,Reflective,Apache-2.0 AND BSD-3-Clause,84768237,Fortran-validated ECHAM-HAM M7 aerosol microphysics in JAX
+2026-11-25T00:58:20Z,nvs-runtime,1.0.0,GemminAI,Apache-2.0,517045,NVS Runtime — provider-agnostic execution substrate for layer-oriented AI systems
+2026-11-25T01:01:14Z,rms-psiops,1.0.0,"""Mark R. Showalter"" <mshowalter@seti.org>",Apache-2.0,325963,"Photometrically accurate Science Image Operations: shift, rotate, zoom, resample, and filter scientific images while conserving total signal, built on NumPy and SciPy."
+2026-11-25T01:02:39Z,goatnotify-celery,0.3.0,Louis Midson LAJEANTY,MIT,7605,"Celery queue for GoatNotify, with delivery receipts that make retries idempotent."
+2026-11-25T01:05:08Z,fair-agentbox,0.0.0,AgentBox contributors,Apache-2.0,352881,A distributed container orchestrator for AI agents
+2026-11-25T01:06:17Z,weasyprint-thermal,0.1.0,"""jhon.tafur"" <jhon.tafur0590@gmail.com>",,9842,A Python library to generate dynamic-height PDF tickets for thermal printers using WeasyPrint
+2026-11-25T01:08:52Z,codex-proc,0.1.0,,,219418,Sample new processes in local Codex process trees on Linux
+2026-11-25T01:09:28Z,goatnotify-dramatiq,0.3.0,Louis Midson LAJEANTY,MIT,8542,"Dramatiq queue for GoatNotify, with delivery receipts that make retries idempotent."
+2026-11-25T01:10:04Z,codeasier-gitcode-mcp,0.3.0,Codeasier,MIT,152805,"GitCode repository, code publishing, issue, and pull request tools for MCP clients"
+2026-11-25T01:10:39Z,goatnotify-rq,0.3.0,Louis Midson LAJEANTY,MIT,7205,"RQ queue for GoatNotify, with delivery receipts that make retries idempotent."
+2026-11-25T01:10:57Z,dex-connector-smartsheet,0.1.0,,MIT,88661,Smartsheet connector for Dex Flows
+2026-11-25T01:11:55Z,shipready-mcp,0.1.0,Shipmate <hello@shipmate.agency>,MIT,18919,"Zero-dependency MCP server by Shipmate for local Next.js, Supabase, and Stripe pre-launch security checks."
