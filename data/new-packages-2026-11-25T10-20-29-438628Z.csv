@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T09:18:48Z,vegaml-learn,0.20.0,Nandakishor M,PolyForm-Noncommercial-1.0.0,143778,"Continuous learning for vega (landscape learning, teacher loop, vega Proxy). NONCOMMERCIAL licence: commercial use needs a paid licence, embedding.in/licence."
+2026-11-25T09:20:43Z,lockward,0.2.2,Breaktrough,Apache-2.0,17603,"Lockfile and policy gate for AI agent skills, MCP servers, hooks and rules (runs the signed Lockward binary)"
+2026-11-25T09:20:55Z,dreamference,0.0.1,dgxcoder,AGPL-3.0-or-later,1605,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:20:56Z,ragon-admin,0.0.1,dgxcoder,AGPL-3.0-or-later,1597,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:20:57Z,ragon,0.0.1,dgxcoder,AGPL-3.0-or-later,1521,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T09:28:19Z,wt-india-eod,1.1.1,WealthTechnical LLP,MIT,26007,"Work with the free WealthTechnical NSE/BSE EOD Downloader's local data in Python - watchlists, indices, market breadth, sector rotation, quality checks and exports for NT8, AmiBroker, MetaStock, Meta…"
+2026-11-25T09:28:35Z,wt-nt8-eod,1.1.1,WealthTechnical LLP,MIT,22618,"Read, check and export NinjaTrader 8 end-of-day files (incl. the free WealthMetaStockToNT8 Converter's output) in Python - CSV, Parquet, SQLite, NT8, AmiBroker, MetaStock, MetaTrader 5, WealthTechnic…"
+2026-11-25T09:29:25Z,sbombox-core,0.1.1,sia-sbombox <sia@sbombox.com>,Apache-2.0,243923,"SBOMBox core library - parse, validate, score, and check compliance of SBOMs"
+2026-11-25T09:29:32Z,rosfix,0.2.3,,MIT OR Apache-2.0,24889369,"Static checker for silent ROS 2 misconfigurations (parameters, topics, QoS, executors, ros2_control, Nav2, launch/packaging, SROS2)"
+2026-11-25T09:30:47Z,tencentcloud-agentobs-python-agent,0.1.0b5,Tencent Cloud CLS Team,Apache-2.0,3034,"Tencent Cloud AgentObs Python agent: zero-code instrumentation of AI agent frameworks, exporting to CLS"
+2026-11-25T09:33:52Z,onedoorai,1.1.0,Rakesh Gupta <rakesh@getpipewright.dev>,Apache-2.0,11017389,"One door to AI: the Python parts of an open-source LLM gateway on Google Cloud (LiteLLM, Model Armor)"
+2026-11-25T09:34:01Z,rangecontract,0.1.0,,MIT,46547,Deterministic Git change-contract verification
+2026-11-25T09:34:16Z,foldjet-engine-kernels-sm100-cu129,1.0.0,,MIT AND Apache-2.0 AND BSD-3-Clause,52943062,"foldjet-engine prebuilt kernels for sm100-cu129 (B200, sm_100a, part 1 of 2; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by foldjet-engine==1.0.0"
+2026-11-25T09:34:30Z,foldjet-engine-kernels-sm100-cu129-part2,1.0.0,,MIT AND Apache-2.0 AND BSD-3-Clause,52988658,"foldjet-engine prebuilt kernels for sm100-cu129 (B200, sm_100a, part 2 of 2; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by foldjet-engine==1.0.0"
+2026-11-25T09:34:45Z,isoexec,0.1.0,"Alexander Jiang <zander.jiang@gmail.com>, Wil Jiang <waynechuang97@gmail.com>, Han-Ju Chen <eric901…",Apache-2.0,10210128,A shared numerical model for exact trainer and rollout execution
+2026-11-25T09:39:07Z,dragino-lorawan,0.1.0,Tom Frenzel,Apache-2.0,31838,Dragino LoRaWAN device models and command-line reader
+2026-11-25T09:39:23Z,abdullajonova-ziyoda,0.1.0,,,2496,
+2026-11-25T09:39:30Z,tenantbudget,0.1.1,,MIT,92403,"Per-tenant LLM spend metering and hard budgets, as a library. No proxy."
+2026-11-25T09:40:23Z,rotarex-dimes-ble,0.1.0,ROTAREX <develop@rotarex.com>,MIT,11678,Parser for Rotarex Dimes Wave Bluetooth Low Energy advertisements
+2026-11-25T09:40:44Z,sbombox,0.1.1,sia-sbombox <sia@sbombox.com>,Apache-2.0,62904,"SBOMBox CLI - generate, score, and manage SBOMs from the command line"
+2026-11-25T09:42:28Z,mirabase,0.4.0,Mirabase,Apache-2.0,269308,"Python SDK for the Mirabase Developer API: files, knowledge and memory for agents"
+2026-11-25T09:42:43Z,trend-following-pytorch,0.1.0,,MIT OR Apache-2.0,135635,"Minimal core of systematic trend following in PyTorch: causal EWMA filters, closed-form normalisation, volatility-targeted positions"
+2026-11-25T09:44:38Z,odoo-addon-sale-stock-qty-by-warehouse,18.0.1.0.0.4,"ACSONE SA/NV, Akretion, Odoo Community Association (OCA)",AGPL-3,33337,Display the stock quantity by warehouse on sale order lines
+2026-11-25T09:45:42Z,triordinal-dtree-explorer,3.1.0,Enis Olgac <enis@digraphs.info>,MIT,118756,"DTree Explorer: encode a directed tree with DTree 3.0 (one list, the structure in the nodes), DTree 2.x (two lists) or EulerTree and watch it step by step, in the browser"
+2026-11-25T09:46:31Z,cgemod,1.2.0,"Yusuf Toyin Yusuf <ytoyinyusuf@gmail.com>, ""A. A. Kilishi"" <meetkilishi@yahoo.com>",MIT,553424,"Computable general equilibrium (CGE) modelling from a social accounting matrix: SAM workflow, calibration, simulation, dynamics, poverty microsimulation, sensitivity analysis, validation and scenarios"
+2026-11-25T09:47:09Z,studyrag,0.1.0,Abubakar Idrees,MIT,107475,"A private, offline study assistant: grounded Q&A with citations over your own slides, PDFs and notes (OCR included)."
+2026-11-25T09:47:20Z,studyrag-mcp,0.1.0,Abubakar Idrees,MIT,37283,"MCP server: search, read and fact-check your own study notes (StudyRAG) from Claude Code, Claude Desktop, Cursor or any MCP client."
+2026-11-25T09:49:30Z,actas,2.0.0,,MIT,218374,"Act as the right identity (LLM provider, cloud accounts, GitHub, git, secrets) for every project, in every terminal and agent."
+2026-11-25T09:49:52Z,minitrain,0.1.0,,MIT,83525,Mini-models. Mini-data. Uni-recipe.
+2026-11-25T09:52:25Z,tabsil,0.1.0,Aiden-Jeon,Apache-2.0,128782,"TabSil: a tabular foundation model for classification and regression, trained on synthetic priors"
+2026-11-25T09:54:09Z,hegemony-steps-netbox,0.57.0,,AGPL-3.0-or-later,52861,"NetBox step handlers for Hegemony (REST calls, IP address management, config rendering)"
+2026-11-25T09:54:11Z,hegemony-transport-netmiko,0.57.0,,AGPL-3.0-or-later,38744,Netmiko network-CLI device transport for Hegemony
+2026-11-25T09:54:13Z,hegemony-transport-scrapli,0.57.0,,AGPL-3.0-or-later,33530,Scrapli network-CLI device transport for Hegemony
+2026-11-25T09:54:15Z,hegemony-transport-asyncssh,0.57.0,,AGPL-3.0-or-later,26919,AsyncSSH exec-channel device transport for Hegemony
+2026-11-25T09:54:53Z,oxcrypto,0.1.0,,(MIT OR Apache-2.0) AND ((MIT OR Apache-2.0) AND Unicode-3.0) AND (Apache-2.0) AND (Apache-2.0 AND…,303962895,Rust-based cryptographic infrastructure for Python
+2026-11-25T09:54:58Z,syncso,0.1.0,,MIT,16871,"Official Python client for the SyncSo API: live events and things to do, searched and recommended."
+2026-11-25T09:56:31Z,SabreBat,0.1.0,,GPL-3.0-only,48294,"Battery level of the Corsair Sabre v2 Pro wireless mouse on Linux: in the terminal, in a status bar or in a desktop notification"
+2026-11-25T09:57:09Z,sessionweave-sdk,0.13.0,ReInventYourSolutions,Apache-2.0,66972,Async Python client for the SessionWeave broker (REST + WebSocket)
+2026-11-25T10:03:44Z,torch-iris,0.16.0,Aditya Anil Raut,Apache-2.0,673900,OpenCL PyTorch backend extension for Intel Iris Xe GPUs on 64-bit Windows
+2026-11-25T10:04:55Z,scootaloo,0.1.0,voxathon,MIT,36673,"A terminal client (CLI + TUI) for Bonnet, the federated agent BBS"
+2026-11-25T10:07:53Z,batchcall,0.1.0,,"MIT License Copyright (c) 2026 guofei9987 Permission is hereby granted, free of charge, to any pers…",27619,Resumable concurrent batch calls with adaptive concurrency and JSONL persistence
+2026-11-25T10:10:03Z,civil3d-mcp,1.2.0,Waris Mehmood (Buro Happold),,178405,"MCP server that reads and edits a live, open Autodesk Civil 3D drawing, and designs drainage networks (Buro Happold)."
+2026-11-25T10:11:49Z,robios,0.1.0,,,215033,"Minimal embodied runtime with replaceable policy, evidence and execution plugins"
+2026-11-25T10:13:22Z,grow-oidc,0.1.1,Grow Codes <opensource@grow.codes>,Apache-2.0,138833,"Grow Codes SDK for OIDC (unofficial, community maintained)"
+2026-11-25T10:13:41Z,aimnetex,0.1.0,Mikołaj Martyka,,1024516,"Multi-state AIMNet2 neural network potentials for ground and excited states (MS-AIOAIMNet2), used by MLatom for OMNI-P3x"
+2026-11-25T10:14:13Z,forexnewsradar,1.0.0,ForexNewsRadar <support@forexnewsradar.com>,MIT,20564,"Fail-closed Forex & Gold (XAU/USD, EUR/USD) macro news direction (BUY/SELL) and T-5m volatility VETO client for Python trading bots and AI agents. EUR/USD free forever, zero API key."
+2026-11-25T10:15:30Z,myopenfund-vault-query,0.1.0,Marc Jeulin,MIT,30613,"Read-only queries over the MyOpenFund vault: documents, corpus stats, run health."
+2026-11-25T10:17:07Z,msIO,1.0.3,Yannick Zander,MIT,315337,Reading and writing functions for different mass spectrometry related file types
+2026-11-25T10:17:24Z,chronosapien,0.1.0,Ravencentric <me@ravencentri.cc>,MPL-2.0,7523876,Parse human-readable durations into Python timedelta values and calendar spans.
+2026-11-25T10:19:13Z,onice,0.1.0,onice <support@onice.dev>,MIT,50559,Python client and MCP server of the onice.dev API: advanced NHL statistics
+2026-11-25T10:19:16Z,onice-mcp,0.1.0,onice <support@onice.dev>,MIT,4278,"MCP server for the onice.dev API: lets Claude, Cursor and ChatGPT ask for NHL statistics"
