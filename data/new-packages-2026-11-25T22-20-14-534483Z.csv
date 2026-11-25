@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T21:20:28Z,wb-sdk-pro,2.2.0,eminsk <M_N_Nik@yahoo.com>,MIT,251639,"All-in-One Wildberries SDK, 7-Tab Desktop GUI, CLI & MCP Server: CDN card extraction, feedbacks1/2 sharding, WB Wallet pricing, Search Rank Tracker, Smart Review Analyzer, and Excel export"
+2026-11-25T21:21:19Z,fuzzyclust,1.0,János Abonyi <janos@abonyilab.com>,MIT,863185,"Fuzzy clustering and data analysis toolbox: FCM, GK, GG, validity indices, fuzzy Sammon mapping, Takagi-Sugeno identification, time-series segmentation and more, scikit-learn compatible."
+2026-11-25T21:22:12Z,cere,0.1.12,Cere Network,Apache-2.0,23708759,"DDC sandboxes: the cere CLI and the Python SDK for gVisor sandboxes on DDC nodes, and agents that run in them"
+2026-11-25T21:22:45Z,docs2mcp-cli,0.1.0,Domingos Pelezo,MIT,184527,"Turn messy API docs into curated, task-shaped MCP servers, with an eval that measures whether agents do better."
+2026-11-25T21:24:42Z,slimstack,0.0.1,Sooriya,MIT,16733,"The unbloated AI stack: minimal, zero-dependency inference and agent primitives."
+2026-11-25T21:24:52Z,omnicode-ai,0.8.0,OmniCode contributors,Proprietary — All rights reserved,56816,"Transparent multi-model terminal coding agent — one agent, every model, under your control"
+2026-11-25T21:29:23Z,werty-kila,1.0.0,,,477,Generated package for werty-kila
+2026-11-25T21:29:34Z,semaine-infoto,0.1.1,Isao Perregaux,MIT,9217,"Bibliothèque MicroPython pour ESP32 : servo, LED, potentiomètre, photorésistance, bouton et temps de pose."
+2026-11-25T21:29:48Z,rptrhash,0.1.0,,MIT,2529959,Rust-powered PtrHash minimal perfect hash functions for Python: map n keys to range(n) in ~3 bits/key
+2026-11-25T21:32:28Z,scribble-video,0.2.0,,MIT,29602,Turn a video (or a YouTube link) into a pencil-and-ink sketch
+2026-11-25T21:33:17Z,varlin,0.1.0,Michelle Kelly,MIT,1641,"Fast, guarded runtime for production AI systems"
+2026-11-25T21:35:57Z,viberoid,0.1.0,Viberoid Developers,MIT,6409,Python SDK for Vibe Messenger Bot API
+2026-11-25T21:38:09Z,deimos-stream,0.2.0,Martian Academy <research@martian.academy>,MIT,180913,Universal Low-VRAM Sparse MoE & LLM Merkle-Paged Streaming Engine (MLX • CUDA • C++17)
+2026-11-25T21:38:17Z,training-structures-step,2026.11.25,Paul Saxe,BSD-3-Clause,354319,A SEAMM plug-in for Training Structures
+2026-11-25T21:39:14Z,schema-to-synth,0.1.0,Luigi,Elastic-2.0,95665,"Synthetic data from your schemas. FK-aware, air-gapped, 100-row cap."
+2026-11-25T21:40:47Z,beeai-datacircle,0.1.0,,MIT,23408,BeeAI Framework tools for the Datacircle API: find the best GTM APIs
+2026-11-25T21:42:16Z,link-assistant-router,1.25.4,,Unlicense,227051,Official typed Router operations and testing helpers
+2026-11-25T21:44:49Z,opac-client,1.0.1,AbsysNet Opac Client contributors,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",94855,Cliente Python sin dependencias externas para buscar en catálogos AbsysNet Opac compatibles.
+2026-11-25T21:45:06Z,datadouble-oracle,0.0.0,,MIT,1430,Reserved for the Datadouble project. The first real release is coming.
+2026-11-25T21:45:08Z,datadouble-mongodb,0.0.0,,MIT,1438,Reserved for the Datadouble project. The first real release is coming.
+2026-11-25T21:45:10Z,datadouble-redis,0.0.0,,MIT,1418,Reserved for the Datadouble project. The first real release is coming.
+2026-11-25T21:45:12Z,datadouble-elasticsearch,0.0.0,,MIT,1487,Reserved for the Datadouble project. The first real release is coming.
+2026-11-25T21:46:44Z,agent-space-protocol,0.1.0,,Apache-2.0,307061,"Python SDK for the Agent Space Protocol: participants, spaces, transports and identity"
+2026-11-25T21:50:29Z,mcp-injection-bench,0.1.1,dotcael,MIT,26960,Deterministic prompt-injection benchmark for tool-using AI agents
+2026-11-25T21:54:00Z,gravitywell,0.1.0,slatecipher,MIT,152971,"A third-party, typed Python client for the Pi-hole v6 REST API"
+2026-11-25T21:56:14Z,gemini-usage-limits,0.1.0,gemini-usage contributors,MIT,37069,"CLI for Antigravity plan usage and rate limits, with Antigravity CLI fallback and warning thresholds."
+2026-11-25T21:59:57Z,iasp-build,0.1.4,,PolyForm-Noncommercial-1.0.0,338421,Pandoc-based build tools for manuscripts using the Informative Authoring Semantics Profile
+2026-11-25T22:01:51Z,swanlabs,0.0.1,"""Swan Labs, LLC"" <info@swanlabs.si>",Apache-2.0,5202,"Official public Python package and verification metadata utilities for Swan Labs, LLC (https://swanlabs.si)."
+2026-11-25T22:01:54Z,swanlabs-sdk,0.0.1,"""Swan Labs, LLC"" <info@swanlabs.si>",Apache-2.0,5104,"Official public Python SDK for Swan Labs, LLC verification and telemetry APIs (https://swanlabs.si)."
+2026-11-25T22:03:44Z,wacli-mcp,0.1.0,zanellig,MIT,90110,"MCP server that lets AI agents read your WhatsApp and send replies you confirm, through the wacli CLI."
+2026-11-25T22:04:04Z,mintfig,0.2.0,Ben Blaiszik,MIT,756107,"Message-first figures for agents explaining scientific results to people, plus journal-ready plates with preflight QA and reproducible bundles."
+2026-11-25T22:04:14Z,skytwin,0.1.0,Shane Ryall,GPL-3.0-or-later,5421755,"Synthetic star-field images with satellite streaks, instrument defects and an exact answer key for every frame"
+2026-11-25T22:07:25Z,vlc-check,1.0.0,Matthew Moore,MIT,73369,VLC-1 conformance checker: grades agentic-workflow logs against the Verifiable Log Checker completeness spec (CC0). Checker MIT.
+2026-11-25T22:09:27Z,celedon-davinci-sdk,0.2.0,"""Celedon Solutions, Inc"" <support@celedon.solutions>",MIT,1020892,Official Python SDK for the Davinci API
+2026-11-25T22:10:08Z,agent-reel,0.1.0,,MIT,841157,"Replay, scrub and share AI coding agent sessions as a single self-contained HTML file."
+2026-11-25T22:10:44Z,goabase-tui,1.0.0,postsonde,GPL-3.0-or-later,38442,Terminal user interface for browsing Goa & Psytrance parties from Goabase
+2026-11-25T22:14:41Z,zazen-tui,0.1.0,postsonde,GPL-3.0-only,43465,"Minimalist Zazen & Kinhin meditation TUI with a rotating spiral, singing bowl audio, and Dracula dark theme."
+2026-11-25T22:15:54Z,xmilib,1.0.7,"Philip Young, Henri Kuiper",GPLv2,108080,Open and extract (unload) XMI/AWS/HET mainframe files.
+2026-11-25T22:15:57Z,asma-tui,0.1.0,postsonde,GPL-3.0-or-later,38957,A terminal user interface (TUI) for learning and practicing the 99 Names of Allah (Asma-ul-Husna) with flashcards and quiz mode in Dracula theme.
+2026-11-25T22:16:30Z,planlock-mcp,1.0.0,mahirfatih,MIT,40034,"Plan Lock MCP: one-at-a-time plan execution enforcer for local LLMs, exposed as an MCP server."
+2026-11-25T22:18:33Z,watchless,0.0.1,watchless,MIT,2910,Name reservation. Watchless is a YouTube-to-transcript tool; the real release follows shortly.
+2026-11-25T22:19:57Z,charmlibs-interfaces-vault-kv,1.0.0,The TLS team at Canonical,Apache-2.0,58003,The charmlibs.interfaces.vault_kv package.
