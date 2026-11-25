@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T07:15:56Z,tomojax-studio,1.0.0rc4,Tristan Manchester <tmanchester96@gmail.com>,GPL-3.0-only,16405029,Native desktop workspace for TomoJAX tomography projects
+2026-11-25T08:23:31Z,graphmill,0.1.1,Muhammad Mirza Fahmi,MIT,85968,"dbt-style modeling for graphs: load warehouse data into Neo4j, derive relationships in Cypher, export results back."
+2026-11-25T08:26:53Z,pyplai-mcp,0.1.0,Pedro Luis Soto Santos,MIT,38113,MCP server that lets language models play board games with pyplAI's search algorithms as tools
+2026-11-25T08:28:32Z,isoline,0.8.0,Shubh Wade <shubhwade@gmail.com>,MIT,164345,"Financial statements, measured precisely: Piotroski, Altman and Beneish scores, quality metrics, compare, screen and reports"
+2026-11-25T08:29:36Z,dlrand,0.1.0,Alexander Rompas <a.rompas@gmail.com>,MIT,627098,"Exact, reproducible random variate generation: C engines (xoshiro256++, DL Ziggurat, PTRS/BTRS, alias, rejection) with a Python interface"
+2026-11-25T08:30:01Z,fusion-link,0.1.0,dahai80,Apache-2.0,9495106,"Fusion device-side connection daemon: outbound WSS to the cloud broker, task relay to local fusion-gateway"
+2026-11-25T08:32:00Z,chemotion-crate,402.0.0,Shashank S. Harivyasi,MIT,462513,"Export a Chemotion ELN collection as an .eln RO-Crate, and read one back"
+2026-11-25T08:33:17Z,workcrew,0.0.0,The workcrew authors,MIT,2001,One command starts a crew of coding agents that pick work off a shared board. (Name reserved; first release in preparation.)
+2026-11-25T08:35:21Z,sme-sim-common,1.0.0,,MIT,148663,"Shared web shell, brand, i18n and Python helpers for the smart-edge simulator family"
+2026-11-25T08:36:21Z,jbcc,0.1.0,,MIT AND Unicode-3.0,189116,An experimental jBC/jBASE to C compiler
+2026-11-25T08:37:21Z,agent-ops-otel-sdk,0.1.0,Agent Ops Contributors,Apache-2.0,31183,Thin OpenTelemetry SDK for Agent Ops
+2026-11-25T08:41:14Z,subnova,0.0.1,,MIT,2126,Placeholder release reserving the SubNova package name
+2026-11-25T08:42:44Z,rmda,0.1.0,Aslak Fellman <aslak.fellman@helsinki.fi>,MIT OR Apache-2.0,12569242,"RMDA (Rust MD Analysis): structural analysis of atomistic MD frames (CNA, PTM, grains, per-grain defects, voids) in Rust, with a CLI and Python bindings"
+2026-11-25T08:44:14Z,rb-sitemap-xml,0.3.4,,,77210,"Parse and generate sitemap.xml: files, images, hreflang."
+2026-11-25T08:44:19Z,rb-spider,0.8.6,Roman Bolandau,MIT,971869,SEO crawler for technical site audits: a Screaming Frog alike.
+2026-11-25T08:44:22Z,darwin-config,0.2.0,Hong,,49808,"Layered, recursive configuration loader for JSON and YAML with variables, refs and schema validation"
+2026-11-25T08:44:24Z,rb-textcheck,0.3.6,Roman Bolandau,MIT,224084,"Deterministic text quality checks by a quality profile, with no network and no LLM."
+2026-11-25T08:46:18Z,spirez,0.2.0,m09,Apache-2.0,14490,Slay the Spire 2 run statistics.
+2026-11-25T08:47:43Z,vorn,0.1.0,LowLeery,MIT,13639,Experimental authenticated symmetric cipher based on prime-index hopping and bit diffusion. Educational use only.
+2026-11-25T08:49:06Z,peyamesh,0.1.0,Peyamesh,MIT,163182,"Official Python SDK for the Peyamesh payment gateway, with plug-and-play Django and FastAPI integrations."
+2026-11-25T08:50:44Z,chronodict,1.0.1,,MIT,1596832,A time-aware indexed Python mapping
+2026-11-25T08:52:40Z,fusion-artifacts-engine,0.7.18,,,3677281,Artifact management middleware for Fusion architecture
+2026-11-25T08:55:25Z,adk-upgrade-check,0.2.1,Reuben Alex,Apache-2.0,95282,"Find code that a Google ADK (google-adk) upgrade will break, before you upgrade."
+2026-11-25T08:57:18Z,git-patch-cli,0.2.0,,,12398,Add your description here
+2026-11-25T08:57:22Z,maskyard,0.0.1,Sebastian Goeldi,AGPL-3.0-or-later,1058354,"Build, store, and inspect chip layouts with Python and KLayout."
+2026-11-25T08:57:25Z,e5-agent-catalog,0.0.0a0,"Element5, Inc.",Proprietary,1538,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-25T08:57:26Z,e5-agent-factory,0.0.0a0,"Element5, Inc.",Proprietary,1540,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-25T08:57:27Z,e5-f2f-audit,0.0.0a0,"Element5, Inc.",Proprietary,1489,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-25T08:57:28Z,e5-f2f-coordination-notes,0.0.0a0,"Element5, Inc.",Proprietary,1650,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-25T08:59:08Z,esds-api,0.1.0,Loic Guegan,,5129,ESDS simulated node API implementation
+2026-11-25T09:02:24Z,owp-tool,0.1.0,"Malte Fritz <malte.fritz@web.de>, Jonas Freißmann <jonas.freissmann@web.de>",MIT,8644253,District heating system unit design and dispatch optimization dashboard using Mixed Integer Linear Programming (MILP).
+2026-11-25T09:03:17Z,neuralfuel,0.0.1,,GPL-3.0-only,2297,Placeholder for neuralfuel: federated learning of neural aircraft fuel-flow models.
+2026-11-25T09:03:36Z,pandas-holiday-calendars,0.1.0,Plainfold <plainfoldhq@proton.me>,MIT,30403,"pandas holiday calendars with embedded, cross-checked dates: NYSE, Federal Reserve, US federal, England and Wales, Euro T2. Works with CustomBusinessDay, bdate_range and numpy.busday_count."
+2026-11-25T09:03:59Z,fasthep-dev-workbench,2026.11.0,,,18500,Set up and inspect multi-repository development workspaces
+2026-11-25T09:04:24Z,qianliu-mcp,0.1.0,Qianliu <kefu@qianliu.com>,MIT,14027,千流（qianliu.com）MCP Server：查软件与网站的核验官网、国内直连实测状态、收费登录事实与同类替代品对比
+2026-11-25T09:08:37Z,opensot-model-interface,5.0.0,,Apache-2.0 AND MIT AND BSD-3-Clause,43170707,xbot2_interface python
+2026-11-25T09:08:46Z,opensot-viser-tools,5.0.0,,Apache-2.0 AND MIT AND BSD-3-Clause,13659,Optional visualization tools for pyopensot
+2026-11-25T09:08:52Z,pyopensot,5.0.0,,Apache-2.0,39148716,openSoT python
+2026-11-25T09:08:56Z,gamai-tripwire,0.1.0,Renato Šuster <renato@gamatrade.ba>,MIT,21704,"Detect an inbound AI agent by behaviour, not blocklists: planted canaries, spec-derived novel paths, tool switching, key probing."
+2026-11-25T09:09:07Z,pyopensot-resources,5.0.0,,Apache-2.0 AND BSD-3-Clause,33346579,Optional assets for pyopensot
+2026-11-25T09:09:38Z,india-gov-data-mcp,0.2.0,india-gov-data-mcp Contributors,MIT,59786,"MCP server for India's Open Government Data portal (api.data.gov.in) — discover, inspect, query, and aggregate 150 000+ public datasets via any AI agent."
+2026-11-25T09:09:38Z,timecore,0.1.0,Oceanus,MIT,153297,"A modern, unified, fully typed, cross-platform Python library for date, time, duration, intervals, calendars, recurrence, and scheduling."
+2026-11-25T09:11:52Z,vllm-denoisers,0.34.0a1,vllm-denoisers contributors,Apache-2.0,165833,vLLM plugin for diffusion language models
+2026-11-25T09:13:20Z,lupaxa-draw-lines,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",13063,"Draw coloured lines in the terminal with optional text on the left, centre, or right."
+2026-11-25T09:16:51Z,tqllm,1.8.0,,Apache-2.0,1712150,tqLLM: fast exact LLM serving (Apple Silicon build of tqserve)

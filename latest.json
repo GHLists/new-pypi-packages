@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-11-25T07:21:50.455809Z",
-    "path": "data/new-packages-2026-11-25T08-19-21-352712Z.csv",
-    "to": "2026-11-25T08:19:21.352712Z"
+    "count": 45,
+    "from": "2026-11-25T08:19:21.352712Z",
+    "path": "data/new-packages-2026-11-25T09-18-44-291528Z.csv",
+    "to": "2026-11-25T09:18:44.291528Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-25T08:55:28Z",
+      "package": "datagov-in-mcp",
+      "since": "2026-11-25T08:19:21.352712Z",
+      "version": "0.2.0"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-25T05:35:58Z",
       "package": "datavendor",
       "since": "2026-11-25T05:19:24.062943Z",
       "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-11-25T07:15:56Z",
-      "package": "tomojax-studio",
-      "since": "2026-11-25T06:21:13.65766Z",
-      "version": null
     }
   ],
-  "serial": 44146796,
+  "serial": 44148520,
   "source_truncated": false,
-  "window": "2026-11-25T08:19:21.352712Z"
+  "window": "2026-11-25T09:18:44.291528Z"
 }
