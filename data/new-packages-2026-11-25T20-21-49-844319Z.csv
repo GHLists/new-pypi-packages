@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T19:18:29Z,sintonia,1.0.0,KuraLabs S.R.L.,Apache-2.0,176681,"Simple, watch-TV-focused web app for live over-the-air TV"
+2026-11-25T19:22:17Z,d5i-openpi,0.2.0,dsient <dsient@users.noreply.github.com>,,177445,Desktop control room for the pi coding agent
+2026-11-25T19:26:41Z,soma-lunar,0.1.0,"Shashwat Raj, Saanvi Kakde",GPL-3.0-only,7787336,Lunar data-delivery planning under declared assumptions
+2026-11-25T19:27:50Z,odoo-addon-l10n-br-dere,18.0.1.0.0.3,"Escodoo, Odoo Community Association (OCA)",AGPL-3,234459,"Specific-regime declaration: tables, trial balance and monthly closing"
+2026-11-25T19:28:54Z,codeband-sdk,0.0.0,,,2248,Python SDK of codeband. This release only reserves the name.
+2026-11-25T19:30:43Z,runout-mcp,0.1.0,Pavel Mikhailov,MIT,73146,"Runout for Discogs: an MCP server for your Discogs Collection, Wantlist, Releases and Marketplace prices."
+2026-11-25T19:34:28Z,delstrike-check,0.1.0,DELSTRIKE <info@delstrike.com>,Apache-2.0,128947,"Free, local security checks for vibecoded apps on Supabase and Firebase. Nothing leaves your machine."
+2026-11-25T19:35:46Z,noxpy,0.1.0a1,Melih Burak Memiş,MIT,67938,"Native Python extensions written in Nox. Free-threaded first (abi3t), safe by design."
+2026-11-25T19:38:58Z,heimdall-guardian,1.0.0,Alejandro Franco,Apache-2.0,1819337,"Heimdall Guardian: local, read-only static security analysis of source code"
+2026-11-25T19:40:44Z,pyaisync,0.1.0,,MIT,160604,"One source (.ai/) for AI coding agent configuration: generates the native files for Claude Code, Cursor and OpenCode."
+2026-11-25T19:41:02Z,Paseka-spsoa,0.0.3,,,2763,Info o studentovi SPŠOA
+2026-11-25T19:42:12Z,dace-fortran,1.3,ETH Zurich and the dace-fortran authors,GPL-3.0-or-later,2067551,Fortran (HLFIR) frontend for the DaCe data-centric framework
+2026-11-25T19:42:32Z,moonlighting-factory,0.1.1,tacoda,MIT,88373,"A software factory: people decide by day, agents type by night."
+2026-11-25T19:46:04Z,docstruct-ai,0.2.1,Niraj Kakodkar,MIT,67721,"Model-agnostic OCR & structured XML/JSON extraction library. Open-weight SLMs, cloud VLMs, deterministic Pydantic/XSD schema enforcement."
+2026-11-25T19:46:40Z,kerrax,0.0.1,Benjamin Vial,MIT,4761,Differentiable pulse and comb propagation (generalized nonlinear Schrödinger and Lugiato-Lefever equations) in JAX. Early placeholder: not usable yet.
+2026-11-25T19:49:38Z,sequence-unofficial,0.1.0a3,,MIT,131890,Unofficial Python client and CLI for the Sequence climbing-training web app. Not affiliated with Sequence.
+2026-11-25T19:52:56Z,radiogem,1.0.0,Anirban Giri,MIT,5124642,Python bindings for RadioLib SX1262 LoRa module on Raspberry Pi
+2026-11-25T19:54:31Z,metaex,0.1.0,jmendoza167,MIT,649029,"Show and remove metadata from photos, documents, audio and archives, using only the Python standard library."
+2026-11-25T19:55:24Z,strands-stash-plugin,0.0.0,,,1258,Strands Stash
+2026-11-25T19:56:27Z,petab-mcp,0.1.0,Fabian Fröhlich,MIT,1805422,A local MCP server for interactively editing a PEtab (v2) model/parameters and scoring against fixed data.
+2026-11-25T19:58:07Z,hyphai,0.0.1,,,6745,Local-first agent runtime: shared inference and replicated memory across your own devices
+2026-11-25T19:59:57Z,phobos-stream,0.2.1,Martian Academy <research@martian.academy>,MIT,285523,Universal Zero-VRAM Video & Image Diffusion Streaming Engine (MLX • CUDA • MPS • ROCm • GGUF)
+2026-11-25T19:59:58Z,polars-data-profiling,0.1.0,Drew Adlof,MIT,769505,"Polars-native, lazy data profiling reports (a pandas-free fork of ydata-profiling)."
+2026-11-25T20:00:31Z,mrg-dew,0.1.3,Sphere DEW contributors,BSD-3-Clause,95620,Distributed Experiment Workflow: event-driven coordination across SPHERE experiment nodes
+2026-11-25T20:01:26Z,edgeos,0.0.1,,,1961,EdgeOS: put AI models on robot fleets and keep them updated. The command-line tool isn't released here yet.
+2026-11-25T20:01:38Z,agenttaint-provenance,1.0.0,,Apache-2.0,25239,"Provenance registry, graph, and source labeling for AgentTaint"
+2026-11-25T20:01:39Z,agenttaint,1.0.0,Marouane El Aasri,Apache-2.0,23679,AgentTaint: provenance-based tool-call firewall for MCP agents (CLI and full install)
+2026-11-25T20:01:39Z,agenttaint-core,1.0.0,,Apache-2.0,14835,"Shared types, hashing, and configuration for AgentTaint"
+2026-11-25T20:04:06Z,olympus-pantheon,0.3.0,Tyler Cromartie,MIT,368863,Governed specialist profiles and installation tooling for Hermes Agent
+2026-11-25T20:05:09Z,descope-agent-auth,0.2.0,Descope,MIT,276948,Client-side SDK for wiring a custom agent to Descope: acquire a Descope credential and exchange it for Connection/Resource tokens from the vault.
+2026-11-25T20:05:42Z,agenttaint-audit,1.0.0,,Apache-2.0,7774,Audit records for AgentTaint enforcement decisions
+2026-11-25T20:05:42Z,agenttaint-risk,1.0.0,,Apache-2.0,4144,Deterministic tool risk classification for AgentTaint
+2026-11-25T20:05:43Z,agenttaint-policy,1.0.0,,Apache-2.0,29277,Deterministic Cedar-backed policy engine for AgentTaint
+2026-11-25T20:06:48Z,quakecascade,0.1.0,Yusuf Eminoğlu <geospacephilo@gmail.com>,BSD-3-Clause,523039,"Earthquake scenario cascades for cities: ground motion, damage, debris road closure, post-event accessibility and relief allocation."
+2026-11-25T20:09:35Z,agenttaint-reconstruction,1.0.0,,Apache-2.0,24588,Provenance reconstruction evidence channels for AgentTaint
+2026-11-25T20:09:36Z,agenttaint-mcp-proxy,1.0.0,,Apache-2.0,39118,MCP security proxy enforcement boundary for AgentTaint
+2026-11-25T20:09:38Z,agenttaint-agent-sdk,1.0.0,,Apache-2.0,27541,"Instrumented AgentTaint SDK: envelopes, transforms, confirmations"
+2026-11-25T20:11:32Z,deixon-engine,0.2.0,Ashit Patel,Apache-2.0,7314694,"Engine for deixon (requirements and code modes): real-checker verdicts, lints, falsification and traceability for agent-written TLA+ and Alloy specs"
+2026-11-25T20:12:55Z,agenttaint-api,1.0.0,,Apache-2.0,2270704,FastAPI control plane for the AgentTaint dashboard
+2026-11-25T20:12:55Z,agenttaint-benchmark,1.0.0,,Apache-2.0,45895,Reproducible cross-agent security benchmark for AgentTaint
+2026-11-25T20:12:56Z,agenttaint-mock-email,1.0.0,,Apache-2.0,7762,Local mock email MCP server for AgentTaint benchmarks
+2026-11-25T20:13:26Z,cardinal-vlm,0.0.1,,Apache-2.0,13806,"Build a small vision-language model from scratch, then make a documentary of your year on your laptop."
+2026-11-25T20:13:59Z,atlaso,0.1.1,"""Atlaso Labs, Inc."" <support@atlaso.ai>",MIT,149991,"Optional client library for the Atlaso gateway: per-user scope, typed receipts, memory API."
+2026-11-25T20:14:20Z,ypea,0.1.0,Mostapha Kalami Heris,MIT,52020,"Yarpiz Evolutionary Algorithms: define an optimization problem once, solve it with any metaheuristic."
+2026-11-25T20:15:09Z,pylocfield,0.0.1,Pietro Bonfa <pietro.bonfa@posteo.net>,GPL-3.0-or-later,46154,A simple package to perform magnetic dipole sums.
+2026-11-25T20:15:33Z,agenttaint-mock-shell,1.0.0,,Apache-2.0,7403,Docker-sandboxed shell.execute MCP server for AgentTaint
+2026-11-25T20:15:36Z,agenttaint-mock-filesystem,1.0.0,,Apache-2.0,6432,Local mock filesystem MCP server for AgentTaint
+2026-11-25T20:15:38Z,agenttaint-mock-http,1.0.0,,Apache-2.0,5831,Local mock HTTP MCP server for AgentTaint
+2026-11-25T20:15:54Z,pilotwave,0.2.2,Noe Nieto <nnieto@noenieto.com>,MIT,1915988,"Django 6.x task producer + Rust worker for low-memory email delivery (Postgres queue, no broker)"
+2026-11-25T20:16:08Z,enxel,0.0.1,Artitapheiont,MIT,174261,"Write better HTML and CSS, and write it faster"
+2026-11-25T20:16:16Z,dex-connector-snowflake,0.1.0,,MIT,114768,Snowflake connector for Dex Flows
+2026-11-25T20:16:56Z,pesping,1.1.0,jpesqueda,MIT,22394,Concurrent IPv4 ICMP scanner and upgrade availability monitor
+2026-11-25T20:17:52Z,dex-connector-spotify,0.2.0,,MIT,98325,Dex-native Spotify playlist connector
+2026-11-25T20:19:06Z,the-shell,0.0.0,,,2646,Placeholder for The Shell. Not released yet.
+2026-11-25T20:19:22Z,dex-connector-square,0.1.0,,MIT,87386,Square connector for Dex Flows
+2026-11-25T20:20:38Z,phishcheck,0.1.0,,MIT,367097,Email parsing and typed phishing triage
+2026-11-25T20:21:21Z,xfermat,0.6.0,"""Aris Nikolaou (aopas software development)"" <ask@xfermat.com>",xFermat Open-Core & Commercial Dual License (v0.6.0) Copyright (c) 2026 aopas software development…,1583472,"Apple Silicon Metal GPU inference runtime: fused 2-bit/4-bit KIVI KV-cache, sub-second Safetensors loading, SDPA/FlashDecode, Mamba-2 SSD hybrids, and CRT-Ozaki II FP64"
+2026-11-25T20:21:45Z,vilok-pilak,1.0.0,,,476,Generated package for vilok-pilak

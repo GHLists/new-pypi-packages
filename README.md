@@ -8,40 +8,69 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 19:20 UTC
+## Latest list — 2026-11-25 20:21 UTC
 
-New packages created between 2026-11-25 18:18 UTC and 2026-11-25 19:20 UTC.
+New packages created between 2026-11-25 19:20 UTC and 2026-11-25 20:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-25T19-20-16-242299Z.csv)
+[Full CSV](data/new-packages-2026-11-25T20-21-49-844319Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-25 18:21:19 | [splent-feature-node-monitor](https://pypi.org/project/splent-feature-node-monitor/) | 0.1.5 |  | 84.7 kB |  |
-| 2026-11-25 18:22:36 | [django-anymail-lettermint](https://pypi.org/project/django-anymail-lettermint/) | 0.1.0 | Palgakalkulaator | 36.1 kB | Lettermint (lettermint.co) email backend and webhooks for django-anymail |
-| 2026-11-25 18:24:15 | [ippon](https://pypi.org/project/ippon/) | 0.1.0 |  | 8.0 MB | Run decision models on your Mac, fast. |
-| 2026-11-25 18:25:27 | [gepa-guard](https://pypi.org/project/gepa-guard/) | 0.1.0a1 | Mia Ojeda, League Inc. | 44.7 kB | Non-regression acceptance for GEPA reflective prompt optimization |
-| 2026-11-25 18:25:57 | [concord-cosmo](https://pypi.org/project/concord-cosmo/) | 0.0.2 | Rodrigo Calderon | 384.4 kB | Learning a Latent representation of the Universe |
-| 2026-11-25 18:26:08 | [betteroffice-fonts-intl](https://pypi.org/project/betteroffice-fonts-intl/) | 0.4.2 | OpenOOXML | 2.2 MB | Noto faces for international scripts for the BetterOffice Python bindings. |
-| 2026-11-25 18:26:14 | [betteroffice-fonts-latin](https://pypi.org/project/betteroffice-fonts-latin/) | 0.4.2 | OpenOOXML | 4.7 MB | Latin, Greek, Cyrillic and Noto RTL faces for the BetterOffice Python bindings. |
-| 2026-11-25 18:26:37 | [betteroffice-fonts-cjk](https://pypi.org/project/betteroffice-fonts-cjk/) | 0.4.2 | OpenOOXML | 26.7 MB | Noto CJK faces for the BetterOffice Python bindings. |
-| 2026-11-25 18:26:53 | [optmoe](https://pypi.org/project/optmoe/) | 0.1.0 | Axolotl AI | 1.0 MB | OPTMoE: fused expert-parallel MoE training kernels for Hopper and Blackwell |
-| 2026-11-25 18:43:10 | [osprey-facility](https://pypi.org/project/osprey-facility/) | 2026.11.0 |  | 931.9 kB | The OSPREY facility description: facility.json, its schema, and the layers that… |
-| 2026-11-25 18:49:27 | [estus](https://pypi.org/project/estus/) | 0.1.0 |  | 27.6 MB | Stdio MCP server that gives AI agents structured, policy-gated Linux operations… |
-| 2026-11-25 18:49:27 | [snippetcards](https://pypi.org/project/snippetcards/) | 0.1.0 |  | 5.9 kB | Python examples you can print on demand |
-| 2026-11-25 18:51:07 | [ki18n](https://pypi.org/project/ki18n/) | 0.3.0 | ikoch | 38.5 kB | File-backed internationalization support for Python applications |
-| 2026-11-25 18:55:52 | [agent-pty](https://pypi.org/project/agent-pty/) | 0.7.1 | dsient | 49.3 kB | SSH with persistent background PTY sessions, port forwarding, file transfer, an… |
-| 2026-11-25 18:56:18 | [lemeept-extractor](https://pypi.org/project/lemeept-extractor/) | 0.4.0b0 | Reginaldo Leandro Plácido Fil… | 232.3 kB | Pipeline bibliométrica universal (extração determinística, inferência LLM, cura… |
-| 2026-11-25 18:57:01 | [barnacles](https://pypi.org/project/barnacles/) | 0.1.0 | Stefan Zhelev | 39.9 kB | A static gallery for marimo notebooks: one YAML file, one command. |
-| 2026-11-25 18:58:38 | [npdrop](https://pypi.org/project/npdrop/) | 0.3.0 |  | 38.6 kB | Notebook-friendly machine-learning code templates and full-block source retriev… |
-| 2026-11-25 19:01:56 | [openpi-d5](https://pypi.org/project/openpi-d5/) | 0.1.0 | dsient <dsient@users.noreply.… | 159.3 kB | Desktop control room for the pi coding agent |
-| 2026-11-25 19:03:41 | [martin-info](https://pypi.org/project/martin-info/) | 1.0.0 | Martin | 5.2 kB | Personal information about Martin |
-| 2026-11-25 19:05:17 | [simdsel](https://pypi.org/project/simdsel/) | 0.1.0 | Xubai Wang <xubaiwwj@gmail.co… | 3.8 MB | Fast HTML parsing and CSS/XPath selection (parsel-compatible subset) |
-| 2026-11-25 19:08:31 | [wwpdb.apps.console](https://pypi.org/project/wwpdb.apps.console/) | 0.0.1 | Deborah Harrus <dharrus@ebi.a… | 48.2 kB | wwPDB session support |
-| 2026-11-25 19:09:09 | [impydance](https://pypi.org/project/impydance/) | 0.1.0 |  | 92.7 kB | Equivalent-circuit models and electrochemical impedance fitting |
-| 2026-11-25 19:09:39 | [brag-rag](https://pypi.org/project/brag-rag/) | 0.1.0 | Pakshal | 34.5 kB | RAG over DOCX/PPTX/XLSX with Docling, Chonkie and RAG-Anything |
-| 2026-11-25 19:09:45 | [yaakov-belch-software-factory](https://pypi.org/project/yaakov-belch-software-factory/) | 0.0.0 |  | 2.3 kB | Name reserved by the yaakov-belch-software-factory project. No functionality ye… |
-| 2026-11-25 19:10:01 | [asiri-verify](https://pypi.org/project/asiri-verify/) | 0.1.0 | Itachi | 59.0 kB | Verify one Asiri sealed tender from public indexer data alone. |
-| 2026-11-25 19:10:05 | [algo-practicals](https://pypi.org/project/algo-practicals/) | 0.2.0 |  | 19.2 kB | Export seven Algorithms and Advanced Data Structures practicals as C++ programs |
-| 2026-11-25 19:11:02 | [second-source](https://pypi.org/project/second-source/) | 0.5.0 | Second Source contributors | 700.7 kB | Independent verification of AI agents' claims against the systems they act on. |
-| 2026-11-25 19:11:46 | [mpl-help](https://pypi.org/project/mpl-help/) | 0.1.0 | Brendt Wohlberg <brendt@ieee.… | 45.8 kB | Backend-independent help windows for matplotlib figures |
-| 2026-11-25 19:15:32 | [ghijo-vcs-build-probe-20261125](https://pypi.org/project/ghijo-vcs-build-probe-20261125/) | 0.1.0 |  | 1.4 kB | Inert probe of GitHub VCS build dependencies in a PyPI sdist |
+| 2026-11-25 19:18:29 | [sintonia](https://pypi.org/project/sintonia/) | 1.0.0 | KuraLabs S.R.L. | 176.7 kB | Simple, watch-TV-focused web app for live over-the-air TV |
+| 2026-11-25 19:22:17 | [d5i-openpi](https://pypi.org/project/d5i-openpi/) | 0.2.0 | dsient <dsient@users.noreply.… | 177.4 kB | Desktop control room for the pi coding agent |
+| 2026-11-25 19:26:41 | [soma-lunar](https://pypi.org/project/soma-lunar/) | 0.1.0 | Shashwat Raj, Saanvi Kakde | 7.8 MB | Lunar data-delivery planning under declared assumptions |
+| 2026-11-25 19:27:50 | [odoo-addon-l10n-br-dere](https://pypi.org/project/odoo-addon-l10n-br-dere/) | 18.0.1.0.0.3 | Escodoo, Odoo Community Assoc… | 234.5 kB | Specific-regime declaration: tables, trial balance and monthly closing |
+| 2026-11-25 19:28:54 | [codeband-sdk](https://pypi.org/project/codeband-sdk/) | 0.0.0 |  | 2.2 kB | Python SDK of codeband. This release only reserves the name. |
+| 2026-11-25 19:30:43 | [runout-mcp](https://pypi.org/project/runout-mcp/) | 0.1.0 | Pavel Mikhailov | 73.1 kB | Runout for Discogs: an MCP server for your Discogs Collection, Wantlist, Releas… |
+| 2026-11-25 19:34:28 | [delstrike-check](https://pypi.org/project/delstrike-check/) | 0.1.0 | DELSTRIKE <info@delstrike.com> | 128.9 kB | Free, local security checks for vibecoded apps on Supabase and Firebase. Nothin… |
+| 2026-11-25 19:35:46 | [noxpy](https://pypi.org/project/noxpy/) | 0.1.0a1 | Melih Burak Memiş | 67.9 kB | Native Python extensions written in Nox. Free-threaded first (abi3t), safe by d… |
+| 2026-11-25 19:38:58 | [heimdall-guardian](https://pypi.org/project/heimdall-guardian/) | 1.0.0 | Alejandro Franco | 1.8 MB | Heimdall Guardian: local, read-only static security analysis of source code |
+| 2026-11-25 19:40:44 | [pyaisync](https://pypi.org/project/pyaisync/) | 0.1.0 |  | 160.6 kB | One source (.ai/) for AI coding agent configuration: generates the native files… |
+| 2026-11-25 19:41:02 | [Paseka-spsoa](https://pypi.org/project/Paseka-spsoa/) | 0.0.3 |  | 2.8 kB | Info o studentovi SPŠOA |
+| 2026-11-25 19:42:12 | [dace-fortran](https://pypi.org/project/dace-fortran/) | 1.3 | ETH Zurich and the dace-fortr… | 2.1 MB | Fortran (HLFIR) frontend for the DaCe data-centric framework |
+| 2026-11-25 19:42:32 | [moonlighting-factory](https://pypi.org/project/moonlighting-factory/) | 0.1.1 | tacoda | 88.4 kB | A software factory: people decide by day, agents type by night. |
+| 2026-11-25 19:46:04 | [docstruct-ai](https://pypi.org/project/docstruct-ai/) | 0.2.1 | Niraj Kakodkar | 67.7 kB | Model-agnostic OCR & structured XML/JSON extraction library. Open-weight SLMs,… |
+| 2026-11-25 19:46:40 | [kerrax](https://pypi.org/project/kerrax/) | 0.0.1 | Benjamin Vial | 4.8 kB | Differentiable pulse and comb propagation (generalized nonlinear Schrödinger an… |
+| 2026-11-25 19:49:38 | [sequence-unofficial](https://pypi.org/project/sequence-unofficial/) | 0.1.0a3 |  | 131.9 kB | Unofficial Python client and CLI for the Sequence climbing-training web app. No… |
+| 2026-11-25 19:52:56 | [radiogem](https://pypi.org/project/radiogem/) | 1.0.0 | Anirban Giri | 5.1 MB | Python bindings for RadioLib SX1262 LoRa module on Raspberry Pi |
+| 2026-11-25 19:54:31 | [metaex](https://pypi.org/project/metaex/) | 0.1.0 | jmendoza167 | 649.0 kB | Show and remove metadata from photos, documents, audio and archives, using only… |
+| 2026-11-25 19:55:24 | [strands-stash-plugin](https://pypi.org/project/strands-stash-plugin/) | 0.0.0 |  | 1.3 kB | Strands Stash |
+| 2026-11-25 19:56:27 | [petab-mcp](https://pypi.org/project/petab-mcp/) | 0.1.0 | Fabian Fröhlich | 1.8 MB | A local MCP server for interactively editing a PEtab (v2) model/parameters and… |
+| 2026-11-25 19:58:07 | [hyphai](https://pypi.org/project/hyphai/) | 0.0.1 |  | 6.7 kB | Local-first agent runtime: shared inference and replicated memory across your o… |
+| 2026-11-25 19:59:57 | [phobos-stream](https://pypi.org/project/phobos-stream/) | 0.2.1 | Martian Academy <research@mar… | 285.5 kB | Universal Zero-VRAM Video & Image Diffusion Streaming Engine (MLX • CUDA • MPS… |
+| 2026-11-25 19:59:58 | [polars-data-profiling](https://pypi.org/project/polars-data-profiling/) | 0.1.0 | Drew Adlof | 769.5 kB | Polars-native, lazy data profiling reports (a pandas-free fork of ydata-profili… |
+| 2026-11-25 20:00:31 | [mrg-dew](https://pypi.org/project/mrg-dew/) | 0.1.3 | Sphere DEW contributors | 95.6 kB | Distributed Experiment Workflow: event-driven coordination across SPHERE experi… |
+| 2026-11-25 20:01:26 | [edgeos](https://pypi.org/project/edgeos/) | 0.0.1 |  | 2.0 kB | EdgeOS: put AI models on robot fleets and keep them updated. The command-line t… |
+| 2026-11-25 20:01:38 | [agenttaint-provenance](https://pypi.org/project/agenttaint-provenance/) | 1.0.0 |  | 25.2 kB | Provenance registry, graph, and source labeling for AgentTaint |
+| 2026-11-25 20:01:39 | [agenttaint](https://pypi.org/project/agenttaint/) | 1.0.0 | Marouane El Aasri | 23.7 kB | AgentTaint: provenance-based tool-call firewall for MCP agents (CLI and full in… |
+| 2026-11-25 20:01:39 | [agenttaint-core](https://pypi.org/project/agenttaint-core/) | 1.0.0 |  | 14.8 kB | Shared types, hashing, and configuration for AgentTaint |
+| 2026-11-25 20:04:06 | [olympus-pantheon](https://pypi.org/project/olympus-pantheon/) | 0.3.0 | Tyler Cromartie | 368.9 kB | Governed specialist profiles and installation tooling for Hermes Agent |
+| 2026-11-25 20:05:09 | [descope-agent-auth](https://pypi.org/project/descope-agent-auth/) | 0.2.0 | Descope | 276.9 kB | Client-side SDK for wiring a custom agent to Descope: acquire a Descope credent… |
+| 2026-11-25 20:05:42 | [agenttaint-audit](https://pypi.org/project/agenttaint-audit/) | 1.0.0 |  | 7.8 kB | Audit records for AgentTaint enforcement decisions |
+| 2026-11-25 20:05:42 | [agenttaint-risk](https://pypi.org/project/agenttaint-risk/) | 1.0.0 |  | 4.1 kB | Deterministic tool risk classification for AgentTaint |
+| 2026-11-25 20:05:43 | [agenttaint-policy](https://pypi.org/project/agenttaint-policy/) | 1.0.0 |  | 29.3 kB | Deterministic Cedar-backed policy engine for AgentTaint |
+| 2026-11-25 20:06:48 | [quakecascade](https://pypi.org/project/quakecascade/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 523.0 kB | Earthquake scenario cascades for cities: ground motion, damage, debris road clo… |
+| 2026-11-25 20:09:35 | [agenttaint-reconstruction](https://pypi.org/project/agenttaint-reconstruction/) | 1.0.0 |  | 24.6 kB | Provenance reconstruction evidence channels for AgentTaint |
+| 2026-11-25 20:09:36 | [agenttaint-mcp-proxy](https://pypi.org/project/agenttaint-mcp-proxy/) | 1.0.0 |  | 39.1 kB | MCP security proxy enforcement boundary for AgentTaint |
+| 2026-11-25 20:09:38 | [agenttaint-agent-sdk](https://pypi.org/project/agenttaint-agent-sdk/) | 1.0.0 |  | 27.5 kB | Instrumented AgentTaint SDK: envelopes, transforms, confirmations |
+| 2026-11-25 20:11:32 | [deixon-engine](https://pypi.org/project/deixon-engine/) | 0.2.0 | Ashit Patel | 7.3 MB | Engine for deixon (requirements and code modes): real-checker verdicts, lints,… |
+| 2026-11-25 20:12:55 | [agenttaint-api](https://pypi.org/project/agenttaint-api/) | 1.0.0 |  | 2.3 MB | FastAPI control plane for the AgentTaint dashboard |
+| 2026-11-25 20:12:55 | [agenttaint-benchmark](https://pypi.org/project/agenttaint-benchmark/) | 1.0.0 |  | 45.9 kB | Reproducible cross-agent security benchmark for AgentTaint |
+| 2026-11-25 20:12:56 | [agenttaint-mock-email](https://pypi.org/project/agenttaint-mock-email/) | 1.0.0 |  | 7.8 kB | Local mock email MCP server for AgentTaint benchmarks |
+| 2026-11-25 20:13:26 | [cardinal-vlm](https://pypi.org/project/cardinal-vlm/) | 0.0.1 |  | 13.8 kB | Build a small vision-language model from scratch, then make a documentary of yo… |
+| 2026-11-25 20:13:59 | [atlaso](https://pypi.org/project/atlaso/) | 0.1.1 | "Atlaso Labs, Inc." <support@… | 150.0 kB | Optional client library for the Atlaso gateway: per-user scope, typed receipts,… |
+| 2026-11-25 20:14:20 | [ypea](https://pypi.org/project/ypea/) | 0.1.0 | Mostapha Kalami Heris | 52.0 kB | Yarpiz Evolutionary Algorithms: define an optimization problem once, solve it w… |
+| 2026-11-25 20:15:09 | [pylocfield](https://pypi.org/project/pylocfield/) | 0.0.1 | Pietro Bonfa <pietro.bonfa@po… | 46.2 kB | A simple package to perform magnetic dipole sums. |
+| 2026-11-25 20:15:33 | [agenttaint-mock-shell](https://pypi.org/project/agenttaint-mock-shell/) | 1.0.0 |  | 7.4 kB | Docker-sandboxed shell.execute MCP server for AgentTaint |
+| 2026-11-25 20:15:36 | [agenttaint-mock-filesystem](https://pypi.org/project/agenttaint-mock-filesystem/) | 1.0.0 |  | 6.4 kB | Local mock filesystem MCP server for AgentTaint |
+| 2026-11-25 20:15:38 | [agenttaint-mock-http](https://pypi.org/project/agenttaint-mock-http/) | 1.0.0 |  | 5.8 kB | Local mock HTTP MCP server for AgentTaint |
+| 2026-11-25 20:15:54 | [pilotwave](https://pypi.org/project/pilotwave/) | 0.2.2 | Noe Nieto <nnieto@noenieto.co… | 1.9 MB | Django 6.x task producer + Rust worker for low-memory email delivery (Postgres… |
+| 2026-11-25 20:16:08 | [enxel](https://pypi.org/project/enxel/) | 0.0.1 | Artitapheiont | 174.3 kB | Write better HTML and CSS, and write it faster |
+| 2026-11-25 20:16:16 | [dex-connector-snowflake](https://pypi.org/project/dex-connector-snowflake/) | 0.1.0 |  | 114.8 kB | Snowflake connector for Dex Flows |
+| 2026-11-25 20:16:56 | [pesping](https://pypi.org/project/pesping/) | 1.1.0 | jpesqueda | 22.4 kB | Concurrent IPv4 ICMP scanner and upgrade availability monitor |
+| 2026-11-25 20:17:52 | [dex-connector-spotify](https://pypi.org/project/dex-connector-spotify/) | 0.2.0 |  | 98.3 kB | Dex-native Spotify playlist connector |
+| 2026-11-25 20:19:06 | [the-shell](https://pypi.org/project/the-shell/) | 0.0.0 |  | 2.6 kB | Placeholder for The Shell. Not released yet. |
+| 2026-11-25 20:19:22 | [dex-connector-square](https://pypi.org/project/dex-connector-square/) | 0.1.0 |  | 87.4 kB | Square connector for Dex Flows |
+| 2026-11-25 20:20:38 | [phishcheck](https://pypi.org/project/phishcheck/) | 0.1.0 |  | 367.1 kB | Email parsing and typed phishing triage |
+| 2026-11-25 20:21:21 | [xfermat](https://pypi.org/project/xfermat/) | 0.6.0 | "Aris Nikolaou (aopas softwar… | 1.6 MB | Apple Silicon Metal GPU inference runtime: fused 2-bit/4-bit KIVI KV-cache, sub… |
+| 2026-11-25 20:21:45 | [vilok-pilak](https://pypi.org/project/vilok-pilak/) | 1.0.0 |  | 476 B | Generated package for vilok-pilak |

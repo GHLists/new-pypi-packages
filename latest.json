@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-25T18:18:45.855473Z",
-    "path": "data/new-packages-2026-11-25T19-20-16-242299Z.csv",
-    "to": "2026-11-25T19:20:16.242299Z"
+    "count": 58,
+    "from": "2026-11-25T19:20:16.242299Z",
+    "path": "data/new-packages-2026-11-25T20-21-49-844319Z.csv",
+    "to": "2026-11-25T20:21:49.844319Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-25T14:52:35Z",
-      "package": "RRFP",
-      "since": "2026-11-25T14:20:32.653497Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-25T18:10:05Z",
       "package": "cuda-coop-tile",
       "since": "2026-11-25T17:21:24.724395Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T16:37:07Z",
       "package": "evoxc_hf",
       "since": "2026-11-25T15:22:06.757076Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-25T18:46:21Z",
       "package": "exfil-proof-pkg",
       "since": "2026-11-25T18:18:45.855473Z",
@@ -36,48 +29,34 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-25T15:14:59Z",
-      "package": "fieldcheck",
-      "since": "2026-11-25T14:20:32.653497Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-25T16:31:27Z",
       "package": "mcp-diag-7f3a",
       "since": "2026-11-25T15:22:06.757076Z",
       "version": "1.2.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T16:50:03Z",
       "package": "mcp-env-report",
       "since": "2026-11-25T15:22:06.757076Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T16:53:51Z",
       "package": "mcp-runtime-report",
       "since": "2026-11-25T15:22:06.757076Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-25T19:18:29Z",
-      "package": "sintonia",
-      "since": "2026-11-25T18:18:45.855473Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-25T17:59:31Z",
       "package": "xarray-org",
       "since": "2026-11-25T17:21:24.724395Z",
       "version": null
     }
   ],
-  "serial": 44170950,
+  "serial": 44173194,
   "source_truncated": false,
-  "window": "2026-11-25T19:20:16.242299Z"
+  "window": "2026-11-25T20:21:49.844319Z"
 }
