@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T10:22:24Z,computerworld-cloud,0.3.0,,MIT,64422,"A small client for the hosted ComputerWorld API: templates, simulations, agents, societies and forks over HTTP."
+2026-11-25T10:22:25Z,computaco,0.0.1,,MIT,4919,"ComputaCo, from ComputaCo. This version holds the name; the real package comes later."
+2026-11-25T10:22:25Z,ragon-search,0.0.1,dgxcoder,AGPL-3.0-or-later,1611,"Name reserved for Ragon by Dreamference, a local, air-gapped agentic pair programmer. Placeholder; install Ragon from its releases."
+2026-11-25T10:23:56Z,inferplan,0.1.0a2,Muslim Aqeel,MIT,195269,"Picks the cheapest vLLM serving configuration that still meets your latency and accuracy limits, by measuring a few on your own GPU and pricing the rest."
+2026-11-25T10:24:00Z,myopenfund-vault-contract,1.1.0,Marc Jeulin,MIT,74050,"The MyOpenFund `documents` contract: manifest row fields, corpus vocabulary, validation."
+2026-11-25T10:24:21Z,computatrum,0.0.1,,MIT,4925,"Computatrum, from ComputaCo. This version holds the name; the real package comes later."
+2026-11-25T10:24:30Z,computaco-core,0.0.1,,MIT,4996,"ComputaCo core, from ComputaCo. This version holds the name; the real package comes later."
+2026-11-25T10:26:29Z,filament-api,0.8.2,Filament Software,MIT,322380,"Async Python client for the Filament platform, communicating over SignalR"
+2026-11-25T10:29:14Z,kunlun-xputop,1.7.2,huanglune,Apache-2.0 AND GPL-3.0-only,363921,"An interactive Kunlunxin-XPU process viewer and beyond, the one-stop solution for XPU process management."
+2026-11-25T10:30:26Z,useland,0.1.0,,MIT,9220,Typed wrappers over the land CLI's --json output
+2026-11-25T10:30:51Z,bandcamp-dj-sync,0.1.0,SakiiR,MIT,65127,Sync your Bandcamp library to a local folder for DJ software
+2026-11-25T10:32:49Z,google-images-api,0.1.1,CognifyAPI <support@cognifyapi.com>,MIT,16507,"Python client for the CognifyAPI Google Images API: search Google Images and get image URLs, sizes and MIME types as JSON."
+2026-11-25T10:41:26Z,sunbeam-ndr-contract,2027.1.0.dev0,,Apache-2.0,18256,Placement contract for Neutron Dynamic Routing in Sunbeam
+2026-11-25T10:41:45Z,aman-telemetry-core,0.1.0,Aman Kumar,MIT,2142,Zero-dependency microsecond execution timer and structured metric collector.
+2026-11-25T10:42:40Z,kipp-memory,0.1.0,Sarbloc,MIT,175354,Entity-based persistent memory with semantic search for AI agents
+2026-11-25T10:44:52Z,lokra,0.3.0,,Apache-2.0,176712,"Policy proxy between AI agents and databases: per-agent roles, masking, write approval, signed audit ledger."
+2026-11-25T10:52:52Z,sessionweave-broker,0.35.0,ReInventYourSolutions,Apache-2.0,1685960,MCP-native session broker for multi-agent collaboration
+2026-11-25T10:55:02Z,vbot-utils,0.1.0,VBot <vexify@yeah.net>,MIT,13061,"VBot utility library: string, date and validation helpers."
+2026-11-25T10:56:03Z,spin-up-dev-project,0.2.0,Lorenzo Wood,MIT,17269,"Spin up a new project: directory, README, git repo, private GitHub repo, then launch your coding agent."
+2026-11-25T10:56:59Z,decodo-adk,1.0.0,Decodo <support@decodo.com>,MIT,36954,Decodo Web Data API tools for Google ADK agents.
+2026-11-25T11:00:01Z,tracefast,0.1.0,TraceFast,MIT,388617,"The official Python SDK for the TraceFast API — Ethereum blocks, transactions, traces, tokens, contracts, DEX pools, the consensus layer, and what TraceFast states about an address."
+2026-11-25T11:01:17Z,ragleap-flows,0.1.0,RagLeap,MIT,39254,"Multi-tenant flows as plain JSON data: tool steps, approval checkpoints and branches, run under a tenant Scope with durable pause and resume, hard limits and an audit trail without text. Built on rag…"
+2026-11-25T11:02:24Z,drop2md,2.0.0,Thomas Juul Dyhr <docdyhr@me.com>,MIT,107696,macOS document-to-markdown converter with folder watching and LLM integration
+2026-11-25T11:03:28Z,geo-carto-engine,1.1.0,,,69816848,Remote Sensing and GIS Spatial Analysis Cartography Engine for Senior High School Geography
+2026-11-25T11:06:36Z,jevblock,0.2.0,iexcalibur,Apache-2.0,113476,"Plug-and-play decision layer: typed decisions (choice/score/noul) with calibrated confidence, gates and a learning loop, on any model."
+2026-11-25T11:09:15Z,bpilot,0.1.0,bpilot maintainers,Apache-2.0,138243,Intelligent backport helper for git repositories
+2026-11-25T11:12:28Z,fioco,1.0.1,,GPL-3.0-or-later AND BSD-2-Clause,3896826,Find and model curved structures in multidimensional data
+2026-11-25T11:14:34Z,vbot-fortune,0.1.0,VBot <vexify@yeah.net>,MIT,7732,A tiny CLI that prints a random fortune quote.
+2026-11-25T11:15:54Z,linguasqueeze,0.8.2,Sophia Akhmetova,Apache-2.0,113019,"Compress for your language, not just for your hardware: language-aware quantization for multilingual MoE LLMs"
+2026-11-25T11:16:44Z,devtape-dtp,0.4.3,,Apache-2.0,581136,Python bindings for the DevTape Protocol codec and replay sanitizer
+2026-11-25T11:17:41Z,arenahub,0.4.0,,GPL-3.0-only,1041480,"Installer and launcher for Quake III Arena, Team Arena and classic mods"
+2026-11-25T11:18:01Z,test-flask-request-id-header-middleware,0.0.2,Mohan Siddhardha Gude,MIT,14100,Python Flask Middleware to log and set Request ID in the HTTP header
+2026-11-25T11:21:16Z,anzer,0.1.0,,MIT,97958,Compiler for the Anzer authoring language
