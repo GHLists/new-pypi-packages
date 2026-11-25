@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-11-25T10:20:29.438628Z",
-    "path": "data/new-packages-2026-11-25T11-21-27-183991Z.csv",
-    "to": "2026-11-25T11:21:27.183991Z"
+    "count": 43,
+    "from": "2026-11-25T11:21:27.183991Z",
+    "path": "data/new-packages-2026-11-25T12-19-24-809032Z.csv",
+    "to": "2026-11-25T12:19:24.809032Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T08:55:28Z",
       "package": "datagov-in-mcp",
       "since": "2026-11-25T08:19:21.352712Z",
@@ -15,13 +15,13 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-25T10:50:18Z",
-      "package": "pysf2",
-      "since": "2026-11-25T10:20:29.438628Z",
+      "created_at": "2026-11-25T11:57:03Z",
+      "package": "vf-hive-app",
+      "since": "2026-11-25T11:21:27.183991Z",
       "version": null
     }
   ],
-  "serial": 44152786,
+  "serial": 44154925,
   "source_truncated": false,
-  "window": "2026-11-25T11:21:27.183991Z"
+  "window": "2026-11-25T12:19:24.809032Z"
 }

@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T10:50:18Z,pysf2,0.1.0,Stan Shumsky,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",74955,Pure-Python + numpy SoundFont 2 (.sf2) renderer: parse SF2 fonts and render structured MIDI events to offline stereo audio. One runtime dependency (numpy).
+2026-11-25T11:23:41Z,parhelyx-mcp,0.1.0,,MIT,12611,"Official MCP server for the Parhelyx scraping API: turn any URL into clean, LLM-ready Markdown."
+2026-11-25T11:25:03Z,scietex.current-amplifier-service,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,89136,Scietex microservice daemon for current amplifier monitoring and control
+2026-11-25T11:25:07Z,minimindslab-path-depth-report,0.1.0,MiniMindsLab,MIT,7545,Compute simple depth statistics for a list of filesystem paths.
+2026-11-25T11:26:54Z,test-flask-request-id-header-middleware,0.0.4,Mohan Siddhardha Gude,MIT,14104,Python Flask Middleware to log and set Request ID in the HTTP header
+2026-11-25T11:27:10Z,agentic-perimeter,0.3.0,Jonadas Techio,Apache-2.0,300562,"Passive external attack surface scanner for MCP supply-chain provenance, agent discovery, and DNS-AID/OAuth perimeter hygiene."
+2026-11-25T11:27:15Z,sboa,0.1.0,Daniel Brosnan <d.brosnan.b@gmail.com>,MIT,165711,Scheduling management for Business Operation Analysis
+2026-11-25T11:32:17Z,scalableHypothesisTestings,1.0.1,Prakhar Gandhi <gprakhar0@gmail.com>,MIT,6048,My Python package related to scaling and doing hypothesis testings
+2026-11-25T11:33:07Z,patchlint,0.2.0,RubahAnomali,MIT,53821,A beginner-friendly security linter for Dockerfiles and GitHub Actions workflows. Every finding explains why and how to fix it.
+2026-11-25T11:33:23Z,sessfork,0.1.6,Wasabi,MIT,180765,"Fork live Chrome auth sessions into headless AI agent browsers (Antigravity, Claude Code, Cursor, Playwright MCP) with zero window focus theft and zero runtime dependencies."
+2026-11-25T11:33:36Z,tomographia,0.1.1,Antonio Peña Corredor <antonio.penacorredor@irt-saintexupery.com>,MIT,257175,"Toolbox for defect analysis in X-ray CT: 3-D segmentation and defect characterisation, and interpretable 2-D patch classification with prototype networks."
+2026-11-25T11:34:26Z,marimo-gradescope,0.1.0,Agustinus Kristiadi,MIT,639232,Build Gradescope autograders from marimo notebooks.
+2026-11-25T11:40:06Z,zaymcp,0.1.0,Jiaqi Guo,MIT,114718,An MCP server for Ansys Zemax OpticStudio.
+2026-11-25T11:40:38Z,dsp-vre,0.1.0,DaSCH - Swiss National Data and Service Center for the Humanities,,78662,dsp-vre is a Python client library for the DSP-API of a DaSCH Service Platform (DSP) server.
+2026-11-25T11:40:58Z,copperhead-fang,0.2.0,Animesh Chouhan <animesh@copperhead.sh>,Apache-2.0,3301477,The Copperhead hardware kernel and the Fang authoring language
+2026-11-25T11:43:27Z,libnexapy,0.1.0,,MIT,1943439,A pure and powerful Python Nexa SDK library.
+2026-11-25T11:46:07Z,biolaser-twin,0.2.0,Karol Struniawski <karol_struniawski@sggw.edu.pl>,MIT,186630,"Physics-based biophotonic cavity simulator, feature extractor, Fisher/DoE identifiability, and PIELM/NLS inversion suite."
+2026-11-25T11:46:24Z,ordo-harness,2.2.0,BaruchLabs,MIT,153800,"Filters noisy tool output for coding agents with a small local model (Ordo 3B): test runs, builds, linters and large files become compact causal YAML. CLI and MCP server."
+2026-11-25T11:46:52Z,exomol-opacity,0.1.0,Nikolas Valsamidis,,44630,Independent LTE molecular opacity calculations and plots from ExoMol line lists
+2026-11-25T11:48:54Z,serverdeck,1.1.0,,,85205,"A lightweight, read-only server status dashboard: systemd timers, restic, containers, disks, CPU, memory and network."
+2026-11-25T11:50:49Z,python-caripasarmalam,0.1.0,Zubir Jamal,MIT,24705,Asynchronous Python client for Cari Pasar Malam (pasarmalam.app) directory
+2026-11-25T11:52:02Z,vietnam-ai-guardrail,0.1.1,Nhat Nguyet,Apache-2.0,87528,"Content guardrails for chatbots in Viet Nam: one policy with the legal basis of every category, any judge (Jev, OpenAI moderation, Azure AI Content Safety, Llama Guard, Qwen3Guard, gpt-oss-safeguard,…"
+2026-11-25T11:52:31Z,vietnam-ai-compliance-mcp,0.1.1,Nhat Nguyet,Apache-2.0,55963,"MCP server (stdio) for the foundation layer of awesome-ai-compliance-vietnam: classify a product, list its obligations, fill and check official forms, score readiness, look up Vietnamese law. Reads o…"
+2026-11-25T11:54:52Z,apibara-vehicle-auction,0.1.0,Apibara.tech,MIT,8223,Official Python SDK for the Apibara.tech Vehicle Auction Data API
+2026-11-25T11:57:32Z,quakedock,1.3.0,,GPL-3.0-only,1172408,Desktop installer and launcher for Quake
+2026-11-25T11:58:50Z,keos-linkedin-leadsync-mcp,0.1.0,,MIT,21299,"LinkedIn Lead Sync MCP server (official APIs only): OpenID profile, lead gen forms, lead responses and lead webhooks. The calling application supplies the access token."
+2026-11-25T11:58:51Z,keos-linkedin-memberdata-mcp,0.1.0,,MIT,23778,"LinkedIn Member Data Portability MCP server (official APIs only): member snapshots, activity changelog and connections. The calling application supplies the access token."
+2026-11-25T12:00:29Z,my-modular-rag,0.1.0,,,3882,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-25T12:03:32Z,cefr-exam-score-mapping,1.0.0,Cubbbix,CC-BY-4.0,25486,"Major language exams mapped to CEFR levels A1-C2: 126 rows, 12 languages, with a source for every row"
+2026-11-25T12:06:15Z,gpubox,0.1.0,Tri Dao,Apache-2.0,256434,Rent and verify GPU dev boxes with automatic cleanup where supported
+2026-11-25T12:06:16Z,boki,0.1.0,combinatrix-ai,MIT,2086945,"Business-plan modeling: typed line items, double-entry ledger, units, and explicit solving"
+2026-11-25T12:07:49Z,kvb-quality,0.1.0,Kevin Veen-Birkenbach <kevin@veen.world>,MIT,268533,One language-agnostic quality gate for staged changes and whole repositories
+2026-11-25T12:08:08Z,decision-os-gate,0.1.0,CortexBit,MIT,32119,Python client for the Decision OS Gate API -- a hosted verification/guardrail chokepoint for agentic tool calls and messages.
+2026-11-25T12:08:50Z,inspirime,0.2.0,,MIT,58601,"Inspiration library for design agents - measured palettes, dense briefs, MCP handoff"
+2026-11-25T12:10:47Z,unsat,0.1.0,noise01,Apache-2.0,267587,A Z3-inspired SMT solver in Python
+2026-11-25T12:10:52Z,feynjs,0.10.1,"Jason Oliver, Pengxuan Zhu",MIT,262020,"Feynman diagrams from text, for Sphinx and Jupyter: the feynjs engine, bundled"
+2026-11-25T12:12:28Z,conda-visualizer,0.1.0,,BSD-3-Clause,1619974,"Interactive dependency graphs for conda environments, lockfiles and DOT files"
+2026-11-25T12:13:01Z,jprod15,0.1.0,Marcelo Vázquez,,4312,Una biblioteca para consultar cursos de hack4u.
+2026-11-25T12:13:26Z,torbox-sdk,9.3.1.20261125.4,TorBox <contact@torbox.app>,Proprietary,526025,Python SDK for the TorBox API
+2026-11-25T12:15:09Z,qazsim,0.1.3,Aksultan <mukhanbetaksultan0414@gmail.com>,Apache-2.0,7104919,QazSim: quantum circuit simulator of the KazNU Quantum AI Laboratory
+2026-11-25T12:17:11Z,earningspy-glass,0.1.0,EarningSpy,Apache-2.0,297005,The official Python client for the EarningSpy API — fetch a company against its peers and chart the comparison.
+2026-11-25T12:17:36Z,odoo-addon-sale-order-merge,17.0.1.0.0.1,"Opener B.V., Odoo Community Association (OCA)",AGPL-3,1026045,"Merge sale orders that are confirmed, invoiced or delivered"
+2026-11-25T12:18:32Z,mdbake,0.1.1,fm-labs <mdbake@fmlabs.dev>,MIT,76799,Bake HTML sites from MarkDown
