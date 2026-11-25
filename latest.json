@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-11-25T12:19:24.809032Z",
-    "path": "data/new-packages-2026-11-25T13-18-44-820639Z.csv",
-    "to": "2026-11-25T13:18:44.820639Z"
+    "count": 49,
+    "from": "2026-11-25T13:18:44.820639Z",
+    "path": "data/new-packages-2026-11-25T14-20-32-653497Z.csv",
+    "to": "2026-11-25T14:20:32.653497Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-25T12:22:49Z",
-      "package": "odoo_addon_l10n_es_deca_oca",
-      "since": "2026-11-25T12:19:24.809032Z",
+      "created_at": "2026-11-25T13:24:15Z",
+      "package": "ikuti-gerakmu",
+      "since": "2026-11-25T13:18:44.820639Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-25T14:02:24Z",
+      "package": "saknussemm",
+      "since": "2026-11-25T13:18:44.820639Z",
       "version": null
     }
   ],
-  "serial": 44157299,
+  "serial": 44159831,
   "source_truncated": false,
-  "window": "2026-11-25T13:18:44.820639Z"
+  "window": "2026-11-25T14:20:32.653497Z"
 }

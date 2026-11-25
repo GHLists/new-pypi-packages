@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T12:22:49Z,odoo-addon-l10n-es-deca-oca,19.0.1.0.0.2,"Acysos S.L., Odoo Community Association (OCA)",AGPL-3,38032,Document for electronic Control of Administration (DeCA)
+2026-11-25T13:19:06Z,qbosdkonline,0.1.0,,MIT,114791,QuickBooks Online integration SDK
+2026-11-25T13:19:09Z,boundannbatch,0.1.0,Selman Ozleyen,"MIT License Copyright (c) 2026, Selman Ozleyen Permission is hereby granted, free of charge, to any…",84112,Declarative multi-source streaming over annbatch
+2026-11-25T13:19:27Z,darwin-cli,0.2.2,Hong,,55316,"Declaration-driven CLI engine with dynamic params, dependency inference and config-file constraints"
+2026-11-25T13:19:27Z,urml-legged-runtime,0.5.2,URML Maintainers,BUSL-1.1,27926,"Legged/quadruped reference runtime for URML — Boston Dynamics Spot, ANYbotics ANYmal."
+2026-11-25T13:19:30Z,urml-isaac-runtime,0.5.2,URML Maintainers,BUSL-1.1,20817,"Simulator reference runtime for URML — NVIDIA Isaac Sim physics, zero ROS."
+2026-11-25T13:19:32Z,urml-mujoco-runtime,0.5.2,URML Maintainers,BUSL-1.1,25064,"Simulator reference runtime for URML — MuJoCo physics, zero ROS."
+2026-11-25T13:19:35Z,urml-opcua-runtime,0.5.2,URML Maintainers,BUSL-1.1,22593,"Industrial-automation reference runtime for URML — OPC UA Robotics, zero ROS."
+2026-11-25T13:22:08Z,modelbinder,0.1.0,Selman Ozleyen,"MIT License Copyright (c) 2026, Selman Ozleyen Permission is hereby granted, free of charge, to any…",35357,Portable component specs and pretrained weights in the Hugging Face Hub layout
+2026-11-25T13:23:35Z,finiteflow,2.0.0,Tiziano Peraro,MIT,279674,FiniteFlow: multivariate functional reconstruction using finite fields and dataflow graphs
+2026-11-25T13:24:47Z,mcp-n8n-preflight,0.1.1,,MIT,49208,"MCP server that checks exported n8n workflow JSON for failure patterns, leaked secrets and template readiness"
+2026-11-25T13:26:04Z,scalefm,0.2.0,"Philip Alex Ambattu, Johannes Hog, Frank Hutter",Apache-2.0,486761,Automated Scaling Analysis helps deep learning experts find the optimum Architectural and Hyperparameter choices.
+2026-11-25T13:27:41Z,sttex,0.2.0,Sparse Trace LLC,MIT,51051,"Venue-aware LaTeX paper templates, build modes, and reading themes"
+2026-11-25T13:28:19Z,budget-analytics,0.1.0,,MIT,9185,"Pure budget maths in whole cents: monthly totals, spending per category, budget status and recurring payments"
+2026-11-25T13:30:42Z,ragrock,0.1.0,Vishesh Panchal,MIT,254654,PDF / DOCX / HTML / XML -> clean markdown + text for RAG pipelines.
+2026-11-25T13:32:33Z,exa-psi,0.0.0,Algorithmiq Development Team <aurora@algorithmiq.fi>,,2087,Coming soon
+2026-11-25T13:32:55Z,mangono-addon-attachment_index_css,18.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,4558,
+2026-11-25T13:33:02Z,quilr-cli-bridge,0.1.0,,LicenseRef-Proprietary AND Apache-2.0,97046,Run CLI-Anything harnesses as local MCP servers for the Quilr connector
+2026-11-25T13:33:09Z,exa-wave,0.0.0,Algorithmiq Development Team <aurora@algorithmiq.fi>,,2076,Coming soon
+2026-11-25T13:38:40Z,egqca,1.0.0,"Pedro Nunes Ferreira <nunesferreira@tugraz.at>, Dominik Spath <dominik.spath@tugraz.at>, Luka Wibme…",MIT,276360,Extended Generalized QuasiChemical Approximation
+2026-11-25T13:42:16Z,lexvira-pii,0.1.0,LexVira,Apache-2.0,25871,Deterministic Turkish and multilingual PII detection and masking.
+2026-11-25T13:42:51Z,anthropic-datacircle,0.1.0,,MIT,25700,Anthropic Python SDK tools for the Datacircle API: find the best GTM APIs
+2026-11-25T13:43:40Z,adres-tr,0.1.0,Arda Zeybek <179981861+ardazeybek-dev@users.noreply.github.com>,MIT,57328,"Split free-form Turkish addresses into province, district, neighbourhood, street, building number, floor and flat. Official list of 81 provinces and 973 districts with postal ranges, no dependencies."
+2026-11-25T13:46:01Z,spyddb,0.1.1,SpydDB Contributors,Apache-2.0,109227,Official Python driver and ORM for SpydDB
+2026-11-25T13:46:37Z,reframx,0.1.1,Research Framework Contributors,MIT,163266,"A modular, code-first framework for neural network research."
+2026-11-25T13:47:49Z,recollecting-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49919,A machine that recollects circumstances of past events.
+2026-11-25T13:48:22Z,samarth-runtime,1.0.0,SAMARTH,,34054,SAMARTH runtime: executes protected (.sme) Python modules. No encoding/protection tooling included.
+2026-11-25T13:49:30Z,turkmorph,0.2.0,Muhammet Yusuf Kaydin,Apache-2.0 (code); CC-BY-SA-4.0 (data tables),43199023,Lossless Turkish morphological tokenizer with a fast Rust runtime
+2026-11-25T13:50:24Z,dotbench,0.1,,,166097,Reproducible tool-calling and structured-output benchmarks for LLM inference endpoints.
+2026-11-25T13:54:01Z,mirqab,0.4.0,mirqab contributors,MIT,281924,"Periodic, read-only PostgreSQL performance review posted to Slack"
+2026-11-25T13:54:11Z,stalzone-dbl,0.2.0,stalzone-dbl contributors,,27581,Async lookup for the official Stalzone database
+2026-11-25T13:54:30Z,autotldr,0.2.0,Anthony Kougkas,MIT,666709,"Point it at anything. Get back what it means, in the shape you asked for."
+2026-11-25T13:55:31Z,token-shredder,0.4.0,Jochem,MIT,241123,"Convert files to compact markdown for LLM prompts: strips markup, outlines code and JSON."
+2026-11-25T13:55:41Z,zfinance,0.1.0,Oceanus,MIT,76010,"Financial data, simplified. A modern, intuitive, typed Python API for financial data, powered by yfinance."
+2026-11-25T13:56:14Z,wechat-token-saver,1.1.0,Jiang-70,MIT,24987,给 AI 精读用的公众号归档器：Markdown 正文 + 本地配图 + 图片优先级清单，只读该读的图
+2026-11-25T13:56:16Z,stalzone-api,0.1.1,,,25900,Async Python client for the Stalzone API (Stalcraft)
+2026-11-25T13:58:06Z,zfoundry-zgame,0.1.0,Jiale Wang <jialewang@bupt.edu.cn>,MIT,1295420,Deterministic Rust tactical combat simulation kernel and vectorized SMAC environment services
+2026-11-25T13:58:32Z,unismac,0.1.0,Jiale Wang <jialewang@bupt.edu.cn>,MIT,1039565,Unified multi-agent StarCraft combat environments (SMAC / SMACv2 / SMAC-Hard) with pluggable backends
+2026-11-25T14:00:09Z,sd-parse,1.3.2,Deepratna Awale,MIT,149419,"Read the prompts, models, samplers, LoRAs and settings embedded in images and videos made with Stable Diffusion and other image generators"
+2026-11-25T14:05:24Z,isgunu,0.1.0,Arda Zeybek <179981861+ardazeybek-dev@users.noreply.github.com>,MIT,27941,"Turkish public holidays with arife half days, Diyanet bayram dates and business-day arithmetic: add working days, count them, legal deadlines, bridge days. No dependencies."
+2026-11-25T14:07:56Z,paisa-parse,0.1.0,paisa-parse contributors,MIT,83874,"Hinglish & Indian-English spoken financial entity parser with confidence scores, confirm-back policy, and Pipecat/LiveKit/MCP integrations."
+2026-11-25T14:08:14Z,fiz-sdk,0.1.0,FIZ,MIT,104035,"Official Python SDK for the FIZ API: issue AT-certified invoices in Portugal (faturação certificada, ATCUD, QR code, SAF-T) from your code."
+2026-11-25T14:08:31Z,immix-datasets,0.1.0rc1,Immix,MIT,86474,The Python client for Immix Datasets — historical market data as files
+2026-11-25T14:08:49Z,open-market-calendar,0.1.0,TradingLookup,MIT,11653,"Is the stock market open right now? Market hours, holidays and early closes for NYSE, Nasdaq, NSE, PSX, NGX, Tadawul and more, from each exchange's own published list. No API key."
+2026-11-25T14:10:38Z,databricks-external-access,0.1.1,Northbridge Capital,MIT,201763,"Browse Databricks Unity Catalog and fetch tables to local Parquet files, no Databricks compute needed"
+2026-11-25T14:10:49Z,myopenfund-mcp,0.1.0,Marc Jeulin,MIT,308515,"One MCP server over the MyOpenFund bricks: official documents, pipeline health, RAG search and company data."
+2026-11-25T14:12:13Z,dbt-macro-test,0.1.0,Hirofumi Tsuda,MIT,360921,"Unit tests for dbt macros, built on dbt's native unit tests"
+2026-11-25T14:13:58Z,pymasterlib,0.1.0,mr_codelander,MIT,4536,A multifunctional Python library.
+2026-11-25T14:15:13Z,manjim,0.0.1,Krupakar S Bilichod,Apache-2.0,15373,"Zero-dependency GRC / IT audit CLI: ISO 27001 & SOC 2 audit mapping, DPDP risk register, seal/verify."
