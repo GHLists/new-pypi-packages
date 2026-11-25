@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T04:18:19Z,hhc-doc-mineru-mcp,0.1.0,hhc,MIT,11889,"MCP server that converts documents (PDF/Office/images/HTML) to markdown with LaTeX formulas, tables, and extracted images, powered by MinerU."
+2026-11-25T04:21:56Z,alogithms,1.0.3,Kirik,MIT,28770,A simple Python library
+2026-11-25T04:23:50Z,inventree-sales-order-builds,0.1.0,OMG Harness,MIT,29572,InvenTree plugin: automatically create build orders for assembly lines when a sales order is issued
+2026-11-25T04:25:58Z,slack-message-api-local,0.0.3b4912,Circles,MIT,10763,PyPI slack-message-api-local Python Package owned by Circlez.ai
+2026-11-25T04:31:02Z,capsight,0.2.0,Kx96xx,MIT,202938,"Drop in a 4G/5G packet capture, get a plain-English diagnosis of why a device couldn't attach, register or get data."
+2026-11-25T04:34:45Z,smartlab-studio-ctrl,0.2.9,,,87455,SmartLab Studio II device control using Windows UI Automation
+2026-11-25T04:38:07Z,supaflow-connector-runtime,0.1.0,Supaflow <support@supa-flow.io>,LicenseRef-Proprietary,100665,Declarative adapter for Supaflow Python source connectors.
+2026-11-25T04:38:08Z,supaflow-connector-testkit,0.1.0,Supaflow <support@supa-flow.io>,LicenseRef-Proprietary,37320,Portable testing utilities for Supaflow Python connectors.
+2026-11-25T04:38:09Z,supaflow-connector-toolchain,0.1.0,Supaflow <support@supa-flow.io>,LicenseRef-Proprietary,200800,Authoring services for Supaflow Python connectors.
+2026-11-25T04:40:53Z,nex-init,0.1.0,The Trinity <inquiries@houseoflawpc.com>,MIT,27748,Deterministic Self-Healing RCTI v3.0 Package Router and AST Synchronizer
+2026-11-25T04:45:06Z,sentinel-mcp-guard,0.1.1,Sandeep Hipparagi,MIT,45142,"Registry-ready MCP server: deterministic claim verification, declarative policy gate, Merkle-chained WORM audit ledger, and graph memory with SQLite fallback"
+2026-11-25T04:46:46Z,aviml,0.1.0,,,13308,Educational AI search and machine learning examples from AIML-LAB
+2026-11-25T04:50:37Z,job-apply-cli,0.2.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",587628,Safety-first dual-channel job discovery and application orchestrator
+2026-11-25T04:54:49Z,movie-boxoffice,0.1.0,劉志勇,MIT,15271,A Python package for movie box office search and analysis
+2026-11-25T04:55:50Z,modelmap,0.1.0,"Eric G. Suchanek, PhD",BSD-3-Clause,130595,"Find local LLM model files across Hugging Face, Ollama, oMLX, LM Studio and llama.cpp, and draw them as a treemap"
+2026-11-25T04:56:17Z,superfunctions-core,0.1.1,21n <support@superfunctions.dev>,MIT,60868,Core HTTP abstractions for the superfunctions ecosystem
+2026-11-25T04:57:28Z,lazyreqs,0.1.0,lazyreqs contributors,MIT OR Apache-2.0,9573066,Tokio-powered requests/pyureq drop-in replacement with zero-await lazy concurrency
+2026-11-25T04:58:52Z,syncora-resilience,1.0.0,Syncora Systems Core Platform <engineering@syncora.io>,Apache-2.0,16553,"Production-grade resilience engine: distributed circuit breakers, adaptive rate limiters, and exponential jitter backoff for high-load Python microservices"
+2026-11-25T04:59:12Z,aethel-telemetry,0.4.0,Aethel Infrastructure Engineering <oss@aethel.dev>,Apache-2.0,15696,"Zero-allocation structured log formatting, distributed trace propagation, and OpenTelemetry-compatible metrics instrumentation for cloud-native Python services"
+2026-11-25T05:00:28Z,langroid-datacircle,0.1.0,,MIT,22401,Langroid tools for the Datacircle API: find the best GTM APIs
+2026-11-25T05:00:37Z,di-toolkit-shopee,0.0.0,sc,BSD License,2444,A small example package
+2026-11-25T05:03:29Z,zorvex-api,0.0.1,,Apache-2.0,538827,Zorvex core API - Self-hosted Agent Protocol server
+2026-11-25T05:03:55Z,zorvex-cli,0.0.1,,Apache-2.0,61617,Zorvex CLI - Manage your self-hosted agent deployments
+2026-11-25T05:05:28Z,ases,0.1.0a1,花浩文,Apache-2.0 AND MIT AND LGPL-2.1-or-later AND SunPro,3997754,Embodied Audio Engine source and setup for CUDA and Metal
+2026-11-25T05:05:53Z,asei,0.1.0a1,花浩文,Apache-2.0 AND MIT AND LGPL-2.1-or-later AND SunPro,3997756,Embodied Audio Engine source and setup for CUDA and Metal
+2026-11-25T05:08:41Z,inventree-xero,1.5.2,Tyler Brannigan / OMG Harness,MIT,212972,"InvenTree plugin: sync purchase orders, bills, sales orders, contacts and items with Xero"
+2026-11-25T05:11:18Z,inventree-mouser,0.1.8,Tyler Brannigan / OMG Harness,MIT,140974,"Mouser for InvenTree: part import, daily Mouser order import into purchase orders, and purchase orders sent to a Mouser cart - plus mouser_lookup, a framework-free Mouser API client"
+2026-11-25T05:15:57Z,opendfx,1.0,Chris Denney,MIT AND CC-BY-4.0,351230,"The recommendations of OpenDFX for Printed Circuit Boards, a KiCad rules file and a release-file checker."
+2026-11-25T05:16:07Z,xstereo-slam,0.3.1,Necessity Robotics,Apache-2.0,2333080,"Real-time stereo visual-inertial SLAM in Python (CuPy + Numba): no C++ build step, no ROS"
+2026-11-25T05:16:25Z,sendcheck,0.1.0,Truckling,MIT,23293,Pre-send compliance checks for Australian email and SMS (Spam Act 2003)
+2026-11-25T05:18:48Z,engineering-influence,1.0.0,Adam Matthew Steinberger,MIT,5971949,Autonomous book-writing pipeline (fiction and non-fiction) that produces KDP-ready self-publishing packages.
