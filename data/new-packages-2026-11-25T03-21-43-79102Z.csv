@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T02:23:58Z,devbox-sdk,0.1.0,Huawei Cloud,MIT,103947,Python SDK for DevBox cloud sandboxes
+2026-11-25T02:25:05Z,intervals-icu-planner-mcp,0.2.0,,MIT,248152,"MCP server and CLI to push, inspect and remove whole training plans on intervals.icu, safely"
+2026-11-25T02:26:17Z,sourcesweep,1.0.1,Tegan Anderes,AGPL-3.0-only,105288,"SourceSweep: cited competitive landscape scans for biotech. US/EU trials, PubMed, preprints, SEC filings, trade press and news."
+2026-11-25T02:27:16Z,onboardrr,0.1.0,,,418451,Terminal inventory and provisioning controller for self-hosted devices
+2026-11-25T02:29:46Z,coriqo-agents,1.1.0,Abdulrafiu Rabiu,Apache-2.0,976961,"Record AI agent decisions on Coriqo's tamper-evident record, check mandates in CI, and run assurance tests on your own machines"
+2026-11-25T02:33:15Z,n3memorycore-free-antigravity,1.9.2,N3MemoryCore contributors,Apache-2.0,159790,Persistent hybrid-search memory store for Antigravity (Free Edition)
+2026-11-25T02:37:21Z,quran-text-tools,0.1.0,Nasser Ba Break,MIT,24077,"Match Uthmani Quran text with typed Arabic, and find and check quoted verses against the Mushaf"
+2026-11-25T02:45:43Z,patchops-guard,0.2.0,Superlabs,MIT,108843,"PatchOps Guard CLI — SBOM, scans, and AI fixes from your terminal."
+2026-11-25T02:48:30Z,anycompute,0.1.0,,Apache-2.0,390480,"Run short, stateless sandbox jobs across providers."
+2026-11-25T02:54:59Z,fastmcp-events,4.2.6,"Jeremiah Lowin, Nate Nowack",Apache-2.0,57143,Events for FastMCP servers and clients via the io.modelcontextprotocol/events extension (SEP-3415).
+2026-11-25T02:56:28Z,tetragon-client,0.1.0,Miguel Jacq,Apache-2.0,222968,"Typed Python client for Cilium Tetragon events, over gRPC or from JSON export files"
+2026-11-25T02:56:52Z,audiencekit,0.1.0,"Love Wins Media, Inc.","LicenseRef-AudienceKit-SDK-1.2: source-available, for use only with AudienceKit as hosted by Love W…",71608,"AudienceKit SDK for Python: an audience's venues, people, locales and events over its GraphQL API"
+2026-11-25T02:56:52Z,scalecov,0.1.0,"Hoang-Anh-Vu Nguyen, Van-Nam Nguyen",MIT License Copyright (c) 2026 Cao Vu Bui and the scalecov contributors Permission is hereby grante…,50414,"ScaleCov (coverage across scales): calibrate and check prediction intervals of spatial maps for pixels, units and groups of units"
+2026-11-25T02:57:10Z,figpress-bokeh,2026.11.24,Nathaniel Starkman,MIT,66251,A paper's figures in Bokeh: the print figure and a matching interactive web figure from one definition. In early development.
+2026-11-25T02:58:23Z,zettcode-ssh,0.5.2,Chang-LeHung,MIT,94117,A ZettCode plugin: use the coding tools in a remote workspace over OpenSSH
+2026-11-25T02:58:41Z,snappedcut,0.2.0,Illuminati Networks,MIT,29677,Python SDK for the Snapped Cut cloud render API (standard library only).
+2026-11-25T02:58:59Z,idol-mlx,0.1.1,,Apache-2.0,1832765,Photo to 3D Gaussian splat in ~15 s on a Mac: Idol + Idol Turbo on Apple Silicon (unofficial)
+2026-11-25T03:08:51Z,vppdetector,1.1.0,,AGPL-3.0-only,561023,Detect compatibility risks from variadic argument forwarding in Python library APIs
+2026-11-25T03:10:58Z,codecortex-board,0.3.0,,MIT,161071,"A project board that lives in the repository: plans, ideas and their status, for people and coding agents."
+2026-11-25T03:16:54Z,hhc-doc-markitdown-mcp,0.1.0,hhc,MIT,11194,"An npx-friendly MCP server for the ""markitdown"" library (repackaged from Microsoft markitdown-mcp, MIT)."
+2026-11-25T03:18:46Z,ever-research,0.2.0,,Apache-2.0,680049,"Local research project bindings, shared skills, and utilities"
