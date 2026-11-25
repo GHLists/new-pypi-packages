@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-11-25T06:21:13.65766Z",
-    "path": "data/new-packages-2026-11-25T07-21-50-455809Z.csv",
-    "to": "2026-11-25T07:21:50.455809Z"
+    "count": 37,
+    "from": "2026-11-25T07:21:50.455809Z",
+    "path": "data/new-packages-2026-11-25T08-19-21-352712Z.csv",
+    "to": "2026-11-25T08:19:21.352712Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-25T05:35:58Z",
       "package": "datavendor",
       "since": "2026-11-25T05:19:24.062943Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-25T07:15:56Z",
       "package": "tomojax-studio",
       "since": "2026-11-25T06:21:13.65766Z",
       "version": null
     }
   ],
-  "serial": 44144937,
+  "serial": 44146796,
   "source_truncated": false,
-  "window": "2026-11-25T07:21:50.455809Z"
+  "window": "2026-11-25T08:19:21.352712Z"
 }

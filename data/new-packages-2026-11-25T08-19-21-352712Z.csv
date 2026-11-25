@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T07:21:55Z,diplodocus,0.17.0,,MIT OR Apache-2.0,149860889,Build coherent documentation websites for polyglot software projects.
+2026-11-25T07:22:55Z,samplepaths,0.3.0,"Bassem Girgis <brgirgis@gmail.com>, Christopher Flynn <crf204@gmail.com>",MIT,113533,Generate realizations of stochastic processes
+2026-11-25T07:25:35Z,ultratransfert-mcp,0.4.5,,MIT,85942,Verified local file and knowledge exchange for AI agents
+2026-11-25T07:25:57Z,chattermob,0.0.1,,MIT,1635,Chattermob: stores the conversations of AI applications. This release only reserves the name.
+2026-11-25T07:30:03Z,peigentux,2.0.0,Todd Chapman,MIT AND MPL-2.0,117472240,"Eigen-powered dense and sparse linear algebra for NumPy/SciPy, including sparse Cholesky"
+2026-11-25T07:30:38Z,bigbluebutton-python,1.0.0,Tarek Kalaji,LGPL-3.0-or-later,35446,Python client for the BigBlueButton 3.x API
+2026-11-25T07:34:16Z,proef,0.2.0,,Apache-2.0,13908954,"Framework for agentic drug discovery — pluggable models, bio tools, labs, and sandboxes behind five core interfaces."
+2026-11-25T07:34:31Z,tui-trello,0.1.0,Phil Nicholls,MIT,430795,A keyboard-first terminal client for Trello
+2026-11-25T07:36:29Z,python-cantools,0.2.0,HIL Platform Team,LicenseRef-Proprietary,36477,"CAN bench core extracted from HIL frameworks: DBC signal mirror, tapped bus and ASC recorder"
+2026-11-25T07:39:36Z,word-vane,1.0.1,A-electric-sheep,MIT,168998,Word(.docx) 转 Markdown 转换器：合并单元格忠实还原，转换后强制一致性校验，仅依赖 python-docx 与 Pillow
+2026-11-25T07:42:52Z,diffpilot,0.0.1,Aleksei Marusich <aleksei.marusich@rocshers.com>,MIT,170625,"Project memory CLI for coding agents: requirements, rationale, instructions and changelog, powered by Codex"
+2026-11-25T07:42:52Z,mipmem,1.0.0,Pageel Contributors,MIT,334371,"Zero-Token, Zero-Dependency 4-Layer Mipmapped Cognitive Memory Engine for AI Agents"
+2026-11-25T07:48:14Z,ragconfig,0.1.0,RAGConfig contributors,MIT,18952,"Modular RAG enhancement toolkit built on LangChain: query rewriting, expansion, decomposition, routing, HyDE, hybrid search, rerank and contextual compression."
+2026-11-25T07:51:09Z,neuroseti-data,0.7.0,"""Neuroseti.ru"" <vitaliyvino@gmail.com>",MIT,18214,"Zero-dependency Python SDK & LLM tool adapters for Neuroseti.ru Open Data API (RF: FNS INN, CBR, OKVED-2, ICD-10, GRLS, Roszdravnadzor, Rospatent, Chestny ZNAK, SRO NOSTROY/NOPRIZ, RF real estate & I…"
+2026-11-25T07:52:59Z,jipaas-mcp-inspect,0.1.5,,,19868,MCP connection diagnostics for SSE and Streamable HTTP
+2026-11-25T07:55:28Z,socialapihq,0.1.3,SocialAPI <support@socialapi.sh>,Apache-2.0,299437,"The official Python SDK for SocialAPI: public social media data from TikTok, Instagram, Threads and Facebook in one schema"
+2026-11-25T07:55:41Z,omg-engine,0.0.0,,Apache-2.0,9887,Reserved for the OMG engine. No release yet.
+2026-11-25T07:56:17Z,miniworld-engine-kernels-sm100-cu129,3.0.12,,MIT AND Apache-2.0 AND BSD-3-Clause,52946434,"miniworld-engine prebuilt kernels for sm100-cu129 (B200, sm_100a, part 1 of 2; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by miniworld-engine==3.0.12"
+2026-11-25T07:56:27Z,cysight,1.1.2,jiniuse <jiniuse@gmail.com>,MIT,15280,Colored terminal output and mail dumping.
+2026-11-25T07:56:33Z,miniworld-engine-kernels-sm100-cu129-part2,3.0.12,,MIT AND Apache-2.0 AND BSD-3-Clause,52992049,"miniworld-engine prebuilt kernels for sm100-cu129 (B200, sm_100a, part 2 of 2; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by miniworld-engine==3.0.12"
+2026-11-25T07:58:47Z,grafana-alert-lint,0.1.0,Niki,Apache-2.0,94141,"Линтер провижиненных правил алертов Grafana: находит правила, которые молча не работают"
+2026-11-25T08:03:21Z,rigops,0.13.0rc1,,MIT,507745,Ops layer for a long-running agent rig: measure whether each tweak worked.
+2026-11-25T08:05:47Z,rulinglens-mcp,0.1.1,,MIT,16275,"RulingLens as an MCP server: the HS code with the CBP rulings behind it, for Claude, Cursor and any MCP client"
+2026-11-25T08:05:48Z,alban,1.0.0,Alban,MIT,3395,Module de gestion de systeme d'etudiants (reproduit TP cours)
+2026-11-25T08:05:51Z,djangocms-automation,0.1.0,Fabian Braun <fsbraun@gmx.de>,BSD-3-Clause,884986,"Workflow automation for django CMS: build workflows from plugins in the frontend editor, run them durably with retries and replay"
+2026-11-25T08:06:51Z,ufanet-async,1.0.0,Ufanet Async contributors,Apache-2.0,48520,Async Python clients for Ufanet Ucams and Smart Home services
+2026-11-25T08:07:15Z,pyxis-harness-terminal,0.1.0rc1,Onenightcarnival,MIT,22743,"PyxisHarness plugin: persistent bash tool, background jobs, PTY terminals for the Web UI"
+2026-11-25T08:07:16Z,pyxis-harness-tools,0.1.0rc1,Onenightcarnival,MIT,6321,"PyxisHarness plugin: tool registry, execution pipeline, approval gates (ctx.tools)"
+2026-11-25T08:07:18Z,pyxis-harness-web-tools,0.1.0rc1,Onenightcarnival,MIT,16611,PyxisHarness plugin: web_search through DeepSeek native search and web_fetch
+2026-11-25T08:07:20Z,pyxis-harness-web-ui,0.1.0rc1,Onenightcarnival,MIT,172968,PyxisHarness plugin: Web UI at / and the client-module registry (ctx.webui)
+2026-11-25T08:08:07Z,google-genai-datacircle,0.1.0,,MIT,22767,Google Gen AI SDK tools for the Datacircle API: find the best GTM APIs
+2026-11-25T08:08:22Z,youtube-transcript-api-client,0.1.0,YouTubeTranscriptAPI <hello@youtubetranscriptapi.com>,MIT,26406,"Official Python client for YouTubeTranscriptAPI: YouTube transcripts, search, and channel and playlist listings, with no IP blocks."
+2026-11-25T08:09:13Z,sentusb,0.1.0,ucandevices,MIT,114893,"Library, CLI and MCP server for the ucandevices SENT-to-USB converters (1 and 4 channels)"
+2026-11-25T08:13:45Z,schemaguru,0.1.0,Rupak Chakraborty,MIT,966357,"Automated schema intelligence for data warehouses: discover, measure, derive, draft and serve."
+2026-11-25T08:14:43Z,lib-shaip-python,0.0.1,Signant Health,,2132,"Reserved name. Internal Signant Health package, not published on PyPI. Install from the private index."
+2026-11-25T08:15:27Z,proteinground,0.2.1,,MIT,121821,"Cited protein facts for AI agents: an MCP server over UniProt, RCSB PDB and AlphaFold DB, with an eval that plants false-premise questions."
+2026-11-25T08:17:05Z,holiday-mcp-server,0.1.0,dev <dev@company.com>,,4778,MCP server：查询指定年份节假日，返回节假日数组，用于加班核算

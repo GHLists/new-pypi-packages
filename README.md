@@ -8,34 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 07:21 UTC
+## Latest list — 2026-11-25 08:19 UTC
 
-New packages created between 2026-11-25 06:21 UTC and 2026-11-25 07:21 UTC.
+New packages created between 2026-11-25 07:21 UTC and 2026-11-25 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-25T07-21-50-455809Z.csv)
+[Full CSV](data/new-packages-2026-11-25T08-19-21-352712Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-25 06:21:40 | [reel-mcp](https://pypi.org/project/reel-mcp/) | 0.1.0 | Dradradre | 660.2 kB | Video understanding for AI agents: an MCP server that serves a film's frames an… |
-| 2026-11-25 06:26:20 | [radiuma-filter](https://pypi.org/project/radiuma-filter/) | 0.0.0 |  | 160.1 kB | Image filtering and execution library |
-| 2026-11-25 06:40:27 | [wleno](https://pypi.org/project/wleno/) | 0.1.0 |  | 52.1 kB | WlEno teaching board simulator and Python control library |
-| 2026-11-25 06:43:55 | [metric-diff](https://pypi.org/project/metric-diff/) | 0.1.0a1 | metric-diff contributors | 134.8 kB | Find out why ML metric libraries (scikit-learn, torchmetrics, torcheval, Keras,… |
-| 2026-11-25 06:47:18 | [anchordoc](https://pypi.org/project/anchordoc/) | 0.9.3 | ryanvii <ryanwuvii@gmail.com> | 266.3 kB | Structured long-PDF retrieval, cross-page evidence localization, quote verifica… |
-| 2026-11-25 06:48:23 | [thunderduck-airflow](https://pypi.org/project/thunderduck-airflow/) | 0.1.0 | YILDIRIM ADIGUZEL | 44.4 kB | Apache Airflow provider for Thunderduck: run SQL, wait for the stored result, c… |
-| 2026-11-25 06:48:52 | [lyx-modular-RAG](https://pypi.org/project/lyx-modular-RAG/) | 0.1.0 |  | 13.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-25 06:55:29 | [solana-chainkit](https://pypi.org/project/solana-chainkit/) | 0.1.0 | Peter Nzomo <pmzomo@gmail.com> | 54.9 kB | Production-grade building blocks for USDC payments on Solana: exact amounts, sa… |
-| 2026-11-25 06:55:36 | [repairmap](https://pypi.org/project/repairmap/) | 0.1.0 | Cedric Conday | 55.9 kB | A checked, machine-readable table of myelin repair trials in multiple sclerosis |
-| 2026-11-25 06:55:38 | [repairgauge](https://pypi.org/project/repairgauge/) | 0.1.0 | Cedric Conday | 1.1 MB | Per-lesion recovery of a myelin-sensitive MRI value between two scans, with a k… |
-| 2026-11-25 06:55:42 | [repairsplit](https://pypi.org/project/repairsplit/) | 0.1.0 | Cedric Conday | 75.5 kB | Did some trial participants respond and others not, or did everyone shift a lit… |
-| 2026-11-25 06:55:45 | [repaircase](https://pypi.org/project/repaircase/) | 0.1.0 | Cedric Conday | 16.9 kB | Scores approved drugs for a myelin repair trial in multiple sclerosis against a… |
-| 2026-11-25 06:59:16 | [amv-sentinel](https://pypi.org/project/amv-sentinel/) | 2.7.0 | AMEVA Engineering Team | 239.6 kB | Deterministic Cost-Aware Policy Guardrails and Risk Observation SDK for Python |
-| 2026-11-25 06:59:21 | [amv-cluster](https://pypi.org/project/amv-cluster/) | 1.0.4 | Eunho Kim <amv.foundation.kr@… | 83.1 kB | Symmetric Disaggregated Mobile RAM Pooling & On-Device AI Acceleration Runtime |
-| 2026-11-25 06:59:26 | [amv-wol](https://pypi.org/project/amv-wol/) | 1.0.2 | AMEVA Team | 83.6 kB | Lightweight, secure, Telegram-controlled Wake-on-LAN gateway for Termux and Lin… |
-| 2026-11-25 06:59:31 | [amv-cp-bridge](https://pypi.org/project/amv-cp-bridge/) | 1.4.0 | Eunho Kim <amv.foundation.kr@… | 260.4 kB | Sovereign Cognitive Offloading Suite & Zero-Leak REST/MCP Gateway for Microsoft… |
-| 2026-11-25 07:00:11 | [ty-migrate](https://pypi.org/project/ty-migrate/) | 0.1.0 | ty-migrate contributors | 52.5 kB | Migrate mypy and pyright configurations and inline ignores to Astral's ty |
-| 2026-11-25 07:00:55 | [mjguard](https://pypi.org/project/mjguard/) | 0.1.0 | Sam Ko | 9.1 MB | Let LLM agents drive any MuJoCo-modelled robot arm over MCP, with every motion… |
-| 2026-11-25 07:03:31 | [open-agent-scan](https://pypi.org/project/open-agent-scan/) | 0.2.0 |  | 2.1 MB | Community-led local-first security scanner for AI agents, MCP servers, and agen… |
-| 2026-11-25 07:08:58 | [rd-stream](https://pypi.org/project/rd-stream/) | 0.1.0 | Lee Tucker | 173.5 kB | Regression discontinuity with robust bias-corrected inference on large data: rd… |
-| 2026-11-25 07:09:08 | [flet-simple-pip-mode](https://pypi.org/project/flet-simple-pip-mode/) | 0.1.0 | Flet contributors <you@exampl… | 38.0 kB | FletSimplePipMode control for Flet |
-| 2026-11-25 07:14:50 | [reticula-mcp](https://pypi.org/project/reticula-mcp/) | 0.0.1 | Reto Stamm <reto@retostamm.co… | 27.6 kB | Reticula MCP: a shared memory graph of small signed notes for people and their… |
-| 2026-11-25 07:19:52 | [readest-connector](https://pypi.org/project/readest-connector/) | 0.1.0 | loloshilele | 76.5 kB | MCP connector for Readest: browse, organize and download your Readest library |
+| 2026-11-25 07:21:55 | [diplodocus](https://pypi.org/project/diplodocus/) | 0.17.0 |  | 149.9 MB | Build coherent documentation websites for polyglot software projects. |
+| 2026-11-25 07:22:55 | [samplepaths](https://pypi.org/project/samplepaths/) | 0.3.0 | Bassem Girgis <brgirgis@gmail… | 113.5 kB | Generate realizations of stochastic processes |
+| 2026-11-25 07:25:35 | [ultratransfert-mcp](https://pypi.org/project/ultratransfert-mcp/) | 0.4.5 |  | 85.9 kB | Verified local file and knowledge exchange for AI agents |
+| 2026-11-25 07:25:57 | [chattermob](https://pypi.org/project/chattermob/) | 0.0.1 |  | 1.6 kB | Chattermob: stores the conversations of AI applications. This release only rese… |
+| 2026-11-25 07:30:03 | [peigentux](https://pypi.org/project/peigentux/) | 2.0.0 | Todd Chapman | 117.5 MB | Eigen-powered dense and sparse linear algebra for NumPy/SciPy, including sparse… |
+| 2026-11-25 07:30:38 | [bigbluebutton-python](https://pypi.org/project/bigbluebutton-python/) | 1.0.0 | Tarek Kalaji | 35.4 kB | Python client for the BigBlueButton 3.x API |
+| 2026-11-25 07:34:16 | [proef](https://pypi.org/project/proef/) | 0.2.0 |  | 13.9 MB | Framework for agentic drug discovery — pluggable models, bio tools, labs, and s… |
+| 2026-11-25 07:34:31 | [tui-trello](https://pypi.org/project/tui-trello/) | 0.1.0 | Phil Nicholls | 430.8 kB | A keyboard-first terminal client for Trello |
+| 2026-11-25 07:36:29 | [python-cantools](https://pypi.org/project/python-cantools/) | 0.2.0 | HIL Platform Team | 36.5 kB | CAN bench core extracted from HIL frameworks: DBC signal mirror, tapped bus and… |
+| 2026-11-25 07:39:36 | [word-vane](https://pypi.org/project/word-vane/) | 1.0.1 | A-electric-sheep | 169.0 kB | Word(.docx) 转 Markdown 转换器：合并单元格忠实还原，转换后强制一致性校验，仅依赖 python-docx 与 Pillow |
+| 2026-11-25 07:42:52 | [diffpilot](https://pypi.org/project/diffpilot/) | 0.0.1 | Aleksei Marusich <aleksei.mar… | 170.6 kB | Project memory CLI for coding agents: requirements, rationale, instructions and… |
+| 2026-11-25 07:42:52 | [mipmem](https://pypi.org/project/mipmem/) | 1.0.0 | Pageel Contributors | 334.4 kB | Zero-Token, Zero-Dependency 4-Layer Mipmapped Cognitive Memory Engine for AI Ag… |
+| 2026-11-25 07:48:14 | [ragconfig](https://pypi.org/project/ragconfig/) | 0.1.0 | RAGConfig contributors | 19.0 kB | Modular RAG enhancement toolkit built on LangChain: query rewriting, expansion,… |
+| 2026-11-25 07:51:09 | [neuroseti-data](https://pypi.org/project/neuroseti-data/) | 0.7.0 | "Neuroseti.ru" <vitaliyvino@g… | 18.2 kB | Zero-dependency Python SDK & LLM tool adapters for Neuroseti.ru Open Data API (… |
+| 2026-11-25 07:52:59 | [jipaas-mcp-inspect](https://pypi.org/project/jipaas-mcp-inspect/) | 0.1.5 |  | 19.9 kB | MCP connection diagnostics for SSE and Streamable HTTP |
+| 2026-11-25 07:55:28 | [socialapihq](https://pypi.org/project/socialapihq/) | 0.1.3 | SocialAPI <support@socialapi.… | 299.4 kB | The official Python SDK for SocialAPI: public social media data from TikTok, In… |
+| 2026-11-25 07:55:41 | [omg-engine](https://pypi.org/project/omg-engine/) | 0.0.0 |  | 9.9 kB | Reserved for the OMG engine. No release yet. |
+| 2026-11-25 07:56:17 | [miniworld-engine-kernels-sm100-cu129](https://pypi.org/project/miniworld-engine-kernels-sm100-cu129/) | 3.0.12 |  | 52.9 MB | miniworld-engine prebuilt kernels for sm100-cu129 (B200, sm_100a, part 1 of 2;… |
+| 2026-11-25 07:56:27 | [cysight](https://pypi.org/project/cysight/) | 1.1.2 | jiniuse <jiniuse@gmail.com> | 15.3 kB | Colored terminal output and mail dumping. |
+| 2026-11-25 07:56:33 | [miniworld-engine-kernels-sm100-cu129-part2](https://pypi.org/project/miniworld-engine-kernels-sm100-cu129-part2/) | 3.0.12 |  | 53.0 MB | miniworld-engine prebuilt kernels for sm100-cu129 (B200, sm_100a, part 2 of 2;… |
+| 2026-11-25 07:58:47 | [grafana-alert-lint](https://pypi.org/project/grafana-alert-lint/) | 0.1.0 | Niki | 94.1 kB | Линтер провижиненных правил алертов Grafana: находит правила, которые молча не… |
+| 2026-11-25 08:03:21 | [rigops](https://pypi.org/project/rigops/) | 0.13.0rc1 |  | 507.7 kB | Ops layer for a long-running agent rig: measure whether each tweak worked. |
+| 2026-11-25 08:05:47 | [rulinglens-mcp](https://pypi.org/project/rulinglens-mcp/) | 0.1.1 |  | 16.3 kB | RulingLens as an MCP server: the HS code with the CBP rulings behind it, for Cl… |
+| 2026-11-25 08:05:48 | [alban](https://pypi.org/project/alban/) | 1.0.0 | Alban | 3.4 kB | Module de gestion de systeme d'etudiants (reproduit TP cours) |
+| 2026-11-25 08:05:51 | [djangocms-automation](https://pypi.org/project/djangocms-automation/) | 0.1.0 | Fabian Braun <fsbraun@gmx.de> | 885.0 kB | Workflow automation for django CMS: build workflows from plugins in the fronten… |
+| 2026-11-25 08:06:51 | [ufanet-async](https://pypi.org/project/ufanet-async/) | 1.0.0 | Ufanet Async contributors | 48.5 kB | Async Python clients for Ufanet Ucams and Smart Home services |
+| 2026-11-25 08:07:15 | [pyxis-harness-terminal](https://pypi.org/project/pyxis-harness-terminal/) | 0.1.0rc1 | Onenightcarnival | 22.7 kB | PyxisHarness plugin: persistent bash tool, background jobs, PTY terminals for t… |
+| 2026-11-25 08:07:16 | [pyxis-harness-tools](https://pypi.org/project/pyxis-harness-tools/) | 0.1.0rc1 | Onenightcarnival | 6.3 kB | PyxisHarness plugin: tool registry, execution pipeline, approval gates (ctx.too… |
+| 2026-11-25 08:07:18 | [pyxis-harness-web-tools](https://pypi.org/project/pyxis-harness-web-tools/) | 0.1.0rc1 | Onenightcarnival | 16.6 kB | PyxisHarness plugin: web_search through DeepSeek native search and web_fetch |
+| 2026-11-25 08:07:20 | [pyxis-harness-web-ui](https://pypi.org/project/pyxis-harness-web-ui/) | 0.1.0rc1 | Onenightcarnival | 173.0 kB | PyxisHarness plugin: Web UI at / and the client-module registry (ctx.webui) |
+| 2026-11-25 08:08:07 | [google-genai-datacircle](https://pypi.org/project/google-genai-datacircle/) | 0.1.0 |  | 22.8 kB | Google Gen AI SDK tools for the Datacircle API: find the best GTM APIs |
+| 2026-11-25 08:08:22 | [youtube-transcript-api-client](https://pypi.org/project/youtube-transcript-api-client/) | 0.1.0 | YouTubeTranscriptAPI <hello@y… | 26.4 kB | Official Python client for YouTubeTranscriptAPI: YouTube transcripts, search, a… |
+| 2026-11-25 08:09:13 | [sentusb](https://pypi.org/project/sentusb/) | 0.1.0 | ucandevices | 114.9 kB | Library, CLI and MCP server for the ucandevices SENT-to-USB converters (1 and 4… |
+| 2026-11-25 08:13:45 | [schemaguru](https://pypi.org/project/schemaguru/) | 0.1.0 | Rupak Chakraborty | 966.4 kB | Automated schema intelligence for data warehouses: discover, measure, derive, d… |
+| 2026-11-25 08:14:43 | [lib-shaip-python](https://pypi.org/project/lib-shaip-python/) | 0.0.1 | Signant Health | 2.1 kB | Reserved name. Internal Signant Health package, not published on PyPI. Install… |
+| 2026-11-25 08:15:27 | [proteinground](https://pypi.org/project/proteinground/) | 0.2.1 |  | 121.8 kB | Cited protein facts for AI agents: an MCP server over UniProt, RCSB PDB and Alp… |
+| 2026-11-25 08:17:05 | [holiday-mcp-server](https://pypi.org/project/holiday-mcp-server/) | 0.1.0 | dev <dev@company.com> | 4.8 kB | MCP server：查询指定年份节假日，返回节假日数组，用于加班核算 |
