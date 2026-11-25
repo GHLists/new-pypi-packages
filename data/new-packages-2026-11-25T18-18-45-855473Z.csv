@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T17:21:34Z,failcast,0.1.1,,MIT,12061624,Local Rust CLI and MCP server that predicts which pytest tests will fail for a git diff
+2026-11-25T17:27:39Z,pyobfusk,0.2.0,,MIT,9652,Layered AES-256-GCM encryption with multi-round Base64 obfuscation.
+2026-11-25T17:30:37Z,drongo-geo,0.1.0,Arie Genkin,Apache-2.0,71591,Direct georeferencing for drone video: from flight telemetry to where every pixel is on the ground
+2026-11-25T17:30:46Z,serversmtp,0.3.0,,MIT,11411,Official Python SDK for the ServerSMTP transactional email API
+2026-11-25T17:30:51Z,django-serversmtp,0.1.0,,MIT,7332,Django EmailBackend for the ServerSMTP HTTP API (POST /v1/send)
+2026-11-25T17:33:51Z,aegismcp-security,3.1.0,,MIT,165090,"Active MCP Security Engine & Runtime Firewall — live introspection, runtime proxy, cross-server rules, executive reporting, Python/JS taint tracking."
+2026-11-25T17:33:59Z,anonix-gateway,0.1.0,"Adithya Nangarath, Nikhilesh Kalahasti",Apache-2.0,235173,"Self-hosted on-the-fly data masking reverse proxy, API gateway, and admin control plane powered by anonix."
+2026-11-25T17:35:15Z,np5,1.0.0,,,12446384,"Time Series Forecasting study notes (Units 1-8) with figures, viewable from Python, Jupyter or the browser"
+2026-11-25T17:36:48Z,forktex-crawl,1.0.0,FORKTEX,AGPL-3.0-or-later OR LicenseRef-ForkTex-Commercial,328694,"Harvest public APIs politely and prove what you harvested: robots.txt per RFC 9309, per-origin pacing, verified filters and a coverage report that names what it could not reach."
+2026-11-25T17:37:23Z,simple-phone,0.1.4,,GPL-2.0-or-later,2545138,SIP test phone in Python (async API) with PJSUA2 bundled
+2026-11-25T17:37:23Z,temps-plugin-sdk,0.1.0b1,,MIT OR Apache-2.0,21873,Python SDK for building Temps external plugins
+2026-11-25T17:40:07Z,ad-sn-popsyn,0.1.0,R. O'Shaughnessy,GPL-3.0-only,6197845,Differentiable supernova-kick binary population and trajectory models
+2026-11-25T17:40:22Z,gtm-tool-finder-mcp,1.0.0,Jainendra Ojha <account@onegtmlab.dev>,MIT,46346,"MCP server (stdio) to search the OneGTMLab GTM tool directory: tool API reviews, comparisons and glossary terms. Offline, no API key."
+2026-11-25T17:40:25Z,stitch-native,0.7.1,Rafael Santos,MIT,97289,"Convert Google Stitch screens (HTML + Tailwind) into native SwiftUI, Jetpack Compose and HTML. CLI + MCP server."
+2026-11-25T17:42:11Z,StrikeTwice,0.1.0,"Gwenn Guichaoua, Elodie Laine",MIT,4559801,PyTorch implementation of StrikeTwice and the Edge–Vertex Transformer
+2026-11-25T17:43:07Z,sirah-tools-gui,1.1.0,SIRAH Developers Team,GPL-3.0-only,51150722,Graphical workflows for SIRAH coarse-grained molecular dynamics
+2026-11-25T17:43:10Z,deposit-python,2.0.1,Peter Demján <peter.demjan@gmail.com>,MIT,82494,Python driver for Deposit - Graph database for scientific data collection
+2026-11-25T17:45:11Z,esbuild-bin,0.28.2,,MIT,49380300,"The official esbuild binary, repackaged as Python wheels. Unofficial; not affiliated with the esbuild project."
+2026-11-25T17:46:10Z,temps-workflows,0.1.0b1,,MIT OR Apache-2.0,20285,Durable workflow executor and client for Temps
+2026-11-25T17:47:43Z,jsift,2.1.0,Aiko Schurmann,MIT,1191545,"Python bindings for jsift, a blisteringly fast JSONL search engine (SIMD, written in Zig)"
+2026-11-25T17:48:17Z,cetprorosa,1.0.0,CETPRO Rosa de América — educación técnico productiva Lima,MIT,6262,CETPRO Rosa de América — educación técnico productiva Lima helpers. Official: https://cetprorosa.com.pe/aulavirtual/
+2026-11-25T17:51:24Z,aiofhir,0.0.0,Doug Morand,MIT,47511,Async FHIR R4 and SMART on FHIR client
+2026-11-25T17:53:54Z,hla-hapy,1.0.0,Chuan Fu Yap,GNU GPLv3,362079,Tools to HLA analysis in genomics studies.
+2026-11-25T17:54:00Z,standards-sync,0.0.9,Sebastien Rousseau <sebastian.rousseau@gmail.com>,Apache-2.0 OR MIT,49204,Keep the canonical code standards in sync with the workspace root and dotfiles copies.
+2026-11-25T17:54:40Z,foamlr,1.0.0,Ray Wallace III <rwallace3@proton.me>,,47905,A Python LR(1) shift/reduce parser generator library
+2026-11-25T17:55:37Z,kernel-ledger,0.1.0,ZacharyZcR,Apache-2.0,194443,Per-launch accounting for LLM inference on GPUs
+2026-11-25T17:55:44Z,tktl-entities,0.0.0,,,1639,
+2026-11-25T17:55:49Z,eulerase,0.1.0,,MIT,224913,Learn and explore de Bruijn graphs: Eulerian trails and contigs from sequences
+2026-11-25T17:56:06Z,cynapsa,0.0.0,Cynapsa,Proprietary,1695,Placeholder. The Cynapsa SDK is not distributed on PyPI.
+2026-11-25T17:57:57Z,maplewatch-mcp,0.1.0,Harsh Kapoor,MIT,60434,Unofficial MCP server that checks Canadian Cyber Centre security advisories against the software you actually run.
+2026-11-25T18:00:35Z,strands-stash,0.0.0,,,1192,Strands Stash
+2026-11-25T18:00:36Z,strands-stash-memory-manager,0.0.0,,,1326,Strands Stash
+2026-11-25T18:04:07Z,foldscan,0.1.0,,Apache-2.0,120121,"Scan what the agent will run, not what the file shows. A scanner for malicious AI-agent skills."
+2026-11-25T18:05:01Z,xarray-cog,0.1.0,Luca Minello <luca.minello@gmail.com>,MIT,15280446,Export xarray rasters as Cloud Optimized GeoTIFFs without GDAL
+2026-11-25T18:05:31Z,hf-sglang-recipe,0.0.1,Alvaro Bartolome <alvarobartt@gmail.com>,MIT,51495,A Hugging Face CLI extension to generate SGLang serving commands.
+2026-11-25T18:06:31Z,iowap-node-mcp,0.1.0,,MIT,5848,IOWAP container MCP HTTP surface — Streamable HTTP /mcp + Bearer over the iowap-client-mcp toolset (T-037)
+2026-11-25T18:07:04Z,beets-moreart,0.1.0,Jaedon D. Swanson,,21039,Fetch additional album artwork for beets
+2026-11-25T18:09:54Z,parsec-web,0.3.0,,Apache-2.0,96366534,"A fast, spec-following HTML parser with CSS selectors and an editable tree, with a selectolax-style API."
+2026-11-25T18:13:44Z,bielik-local,0.1.0,,,11199,Local Bielik language models powered by llama.cpp
+2026-11-25T18:18:01Z,tmdiff,0.1.0,Abhishek Srivastava <bitsabhi@gmail.com>,MIT,19766,"git diff for chat exports and logs — 100% offline, zero LLMs, pure arithmetic."
