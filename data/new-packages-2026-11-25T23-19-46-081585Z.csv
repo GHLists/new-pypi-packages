@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T22:22:51Z,debyta,1.0.0,DEBYTA <admin@debyta.com>,MIT,12804,"DEBYTA Agent Check – fraud check for AI agents and apps before they pay, buy, transfer money or log in. Signed allow / warn / block."
+2026-11-25T22:28:15Z,hijri-tui,0.1.0,postsonde,GPL-3.0-or-later,40825,"☪ Terminal UI for the Islamic Hijri calendar with lunar phases, Sunnah fasting days, and holy days in Dracula theme."
+2026-11-25T22:28:53Z,imitationlab,0.1.1,Feiyang Wu,MIT,35643658,Whole-body motion tracking for the Unitree G1 in Isaac Lab
+2026-11-25T22:29:37Z,netherframe.providers.hashicorp.awscc,1.110.0,,MIT,19456979,NF provider for hashicorp/awscc
+2026-11-25T22:29:42Z,netherframe.providers.hashicorp.azurerm,5.14.0,,MIT,6179245,NF provider for hashicorp/azurerm
+2026-11-25T22:29:45Z,netherframe.providers.hashicorp.external,2.4.2,,MIT,29343,NF provider for hashicorp/external
+2026-11-25T22:29:47Z,netherframe.providers.gitlabhq.gitlab,19.6.0,,MIT,943391,NF provider for gitlabhq/gitlab
+2026-11-25T22:29:57Z,quran-tui,0.1.0,postsonde,GPL-3.0-or-later,38859,A sleek terminal user interface (TUI) for reading and studying the Holy Quran with side-by-side translation comparison.
+2026-11-25T22:31:10Z,salah-tui,0.1.0,postsonde,GPL-3.0-or-later,50611,A terminal user interface (TUI) for Islamic prayer times with live countdown and Qibla direction in Dracula theme.
+2026-11-25T22:33:01Z,epitone,0.1.0,"""David R. Mortensen"" <dmortens@cs.cmu.edu>",MIT,106029,G2P libraries for extracting IPA transcriptions with Chao tone marks from orthographic representations
+2026-11-25T22:36:29Z,concordantmodes,0.1.0,"Mitchell Lahm, Nate Kitzmiller, Wesley D. Allen",BSD-3-Clause,793680,Concordant Mode Approach: high-level harmonic frequencies from low-level normal modes at a fraction of the cost
+2026-11-25T22:39:27Z,gemot,0.1.0,Fabian Fröhlich,MIT,1597457,"An LLM agent panel, and its judge, that builds mechanistic models through the petab-mcp server."
+2026-11-25T22:39:42Z,pyramz,0.4.0,karawash-projects <287877668+karawash-projects@users.noreply.github.com>,Apache-2.0,64354,"Original, duotone-ready SVG icons for Python: web templates, Jupyter, CLI and sprites."
+2026-11-25T22:41:09Z,tablish,1.0.0,Tab Atkins-Bittner,MIT,52137,Release automation CLI for publishing Python packages to PyPI
+2026-11-25T22:42:38Z,hmis-mcp,0.1.2,,0BSD,80424,Aggregate-only MCP server for HMIS data: reports and analytics without exporting PII
+2026-11-25T22:45:56Z,cerebras-multimodal-registry,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,2625,Name reservation only. cerebras-multimodal-registry is distributed from Cerebras's internal package index.
+2026-11-25T22:45:57Z,cerebras-observability,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,2551,Name reservation only. cerebras-observability is distributed from Cerebras's internal package index.
+2026-11-25T22:45:58Z,cerebras-pytest-maestro,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,2568,Name reservation only. cerebras-pytest-maestro is distributed from Cerebras's internal package index.
+2026-11-25T22:45:59Z,cerebras-pytest-test-infra-db,0.0.0.dev0,Cerebras Systems <support@cerebras.ai>,,2631,Name reservation only. cerebras-pytest-test-infra-db is distributed from Cerebras's internal package index.
+2026-11-25T22:46:55Z,igarape,0.2.0,,MIT,20451,"Generate Python services with an agentic SDLC for Codex, Claude Code, GitHub Copilot and OpenCode"
+2026-11-25T22:51:32Z,maiap-client,1.3.0,Kanjani AI Research & Causum <owner@ai-governance-protocol.org>,"# aiap-client License Version 1.0, August 2026 **Copyright © 2026 Kanjani AI Research & Causum. All…",105088,"Mediated AI Agency Protocol (MAIAP, formerly AIAP) client — identity, scope, and ephemeral authority for AI agents. Import name: maiap_client"
+2026-11-25T22:51:46Z,pysyzygos,1.6.0,Percy Zahl,GPL-3.0-or-later,7392480,"Asteroid occultation predictions for your observing site: JPL Horizons orbits, a local Gaia DR3 catalog, a web interface"
+2026-11-25T22:52:09Z,mypy-boto3-elb-proxy,1.44.12,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,51048,Type annotations for boto3 ELBProxy 1.44.12 service generated with mypy-boto3-builder 8.12.0
+2026-11-25T22:55:45Z,loracom,0.0.1,tsomerville2,,2593,"Mission control for training small models as agents inside harnesses: synthetic exams with hidden answer keys, teacher rollouts, scored SFT, LoRA, eval."
+2026-11-25T22:56:16Z,ab-plugin-clic,0.1.0a1,,LGPL-3.0-or-later,100697,Import published CLIC inventories into Activity Browser 3
+2026-11-25T22:56:32Z,maigp-mcp,1.1.0,,,25025,"AIGP governance adapter for MCP tool invocations — policy, scope, consent, evidence"
+2026-11-25T23:01:18Z,acoustic-outputs,0.1.0,David Sinden,MIT,242070,"Acoustic field parameters (IEC 62127-1, 61828, 62359, 61689, TS 62556 and beam metrics) from the output of frequency-domain, time-domain pseudo-spectral and FDTD solvers"
+2026-11-25T23:02:14Z,amund,0.9.1rc1,Amund <hello@amundai.com>,MIT,924534,Amund Python SDK: verdict-first performance intelligence for production AI agents.
+2026-11-25T23:04:23Z,grey-sdk,0.1.0,Grey,,217977,Grey API
+2026-11-25T23:04:37Z,jobhop,0.1.0,quietledger,MIT,228149,"Find job postings, keep track of every application, and prepare each one — then send it yourself."
+2026-11-25T23:06:02Z,roofr-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,20717,"Connect Roofr to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Roofr API key needed."
+2026-11-25T23:06:29Z,orion-itk,1.3.0,,,16485297,Orion: High Performance Readout Software for ITk Online (required EL9 + /cvmfs TDAQ 14)
+2026-11-25T23:07:04Z,opencosmorspy,1.0.0,thmsg,LGPL-3.0-only,100250,openCOSMO-RS python implementation of COSMO-RS
+2026-11-25T23:07:47Z,hipages-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,21191,"Connect hipages to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No hipages API key needed."
+2026-11-25T23:08:53Z,yelp-for-business-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,21249,"Connect Yelp for Business to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Yelp for Business API key needed."
+2026-11-25T23:08:54Z,opencosmors,1.0.0,,LGPL-3.0-only,9825547,C++ implementation of openCOSMO-RS with Python bindings
+2026-11-25T23:09:59Z,jobnimbus-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,20515,"Connect JobNimbus to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No JobNimbus API key needed."
+2026-11-25T23:11:27Z,ao3fetch,0.1.0,Tab Atkins-Bittner,MIT,93129,"Python library for scraping AO3 and AO3-compatible archives, ported from FujoWebDev/AO3.js"
+2026-11-25T23:14:17Z,edgepoint-booster,1.0.1,Henry <osas2henry@gmail.com>,,33430,Standalone extension for edgepoint (https://pypi.org/project/edgepoint/) that sharpens its general reads into specific positions by checking them against the closest lookalikes.
