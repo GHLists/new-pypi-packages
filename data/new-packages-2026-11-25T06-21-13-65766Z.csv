@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T05:19:22Z,engineering-influence-sdk,1.0.0,,MIT,12363,"Typed sync and async client for engineering-influence, the autonomous KDP-ready book-writing pipeline."
+2026-11-25T05:19:51Z,community-hierarchy,0.4.2,Maximilian Jerdee <mjerdee@santafe.edu>,MIT,10519429,"Infer communities, hierarchies, and their connection in directed graphs"
+2026-11-25T05:20:28Z,techpulse-kit-Louis,0.1.0,Louis <linyk0629@gmail.com>,MIT,14691,科技趨勢與開源專案追蹤工具（串接 Hacker News 與 GitHub 公開 API，零外部相依）
+2026-11-25T05:26:58Z,nodalir,0.0.1,Nodalir,MIT,4286,Nodalir — MEP & BIM engineering automation toolkit (early preview).
+2026-11-25T05:27:31Z,wedeo,0.3.1,,LGPL-2.1-or-later,5893639,Wedeo media toolkit and FFmpeg-compatible command-line tools
+2026-11-25T05:28:26Z,stljoiner,0.2.1,Christopher Eslick,MIT,443584,"Put split STL parts back together by matching their cut faces, and save them as one watertight solid. Web interface and command line."
+2026-11-25T05:29:11Z,inventree-woocommerce,0.6.1,Tyler Brannigan / OMG Harness,MIT,203489,"InvenTree plugin: run a WooCommerce shop from InvenTree - catalogue, stock, orders, Build Orders, credit accounts, quote requests and shipment updates."
+2026-11-25T05:34:21Z,pneo,0.99.0,Mario Juric <mjuric@uw.edu>,BSD-3-Clause,1593174,Bayesian NEO tracklet classification by ranging over topocentric distance and range-rate
+2026-11-25T05:34:38Z,mcp-time-server-1124agent,0.1.0,mcp-time-server contributors,MIT,9712,A minimal MCP server exposing a timezone-aware current-time tool.
+2026-11-25T05:38:24Z,peeters,0.1.1,Wouter Saelens <wouter.saelens@gmail.com>,MIT,67483,"FlowSOM on gated flow cytometry populations, differential abundance between conditions, and its figures"
+2026-11-25T05:38:25Z,polyui,0.1.1,Murtazo Xurramov,Apache-2.0,6067924,"Python bindings for the PolyUI core: check generative UI from LLM agents, build tool schemas, compile charts."
+2026-11-25T05:39:59Z,viro-drift,0.1.0,"""Molecular Plant Pathology Lab, ICAR-Indian Sugarcane Research Institute"" <shwetabac@gmail.com>",MIT,30665,Adaptive divergent viral discovery via 6-frame protein seed baiting and local micro-assembly
+2026-11-25T05:40:04Z,viral-genome-tools,0.1.0,"""Molecular Plant Pathology Lab, ICAR-Indian Sugarcane Research Institute"" <shwetabac@gmail.com>",MIT,28069,"Circular viral concatemer monomerization, ICTV landmark rotation, and physical circular junction scoring"
+2026-11-25T05:40:10Z,quasispecies-profiler,0.1.0,"""Molecular Plant Pathology Lab, ICAR-Indian Sugarcane Research Institute"" <shwetabac@gmail.com>",MIT,24250,Replicate-aware Beta-Binomial intra-host viral variant caller and diversity profiler
+2026-11-25T05:40:19Z,viralbio-reporting,0.1.0,"""Molecular Plant Pathology Lab, ICAR-Indian Sugarcane Research Institute"" <shwetabac@gmail.com>",MIT,22489,"Seamless circular wraparound ORF annotation, SHA-256 provenance logging, and NCBI GenBank submission builder"
+2026-11-25T05:45:50Z,omega-mini,3.3.0,4jb5nkddkb-dot,"MIT License Copyright (c) 2026 4jb5nkddkb-dot Permission is hereby granted, free of charge, to any…",33805,Omega v3.3 — Zero-dependency constrained decision & safety learning framework (Python stdlib)
+2026-11-25T05:48:43Z,molgpf,1.0.0,"Guojiang Zhao, Zheng Cheng, Jiankun Wang, Hongshuai Wang, Zhifeng Gao",MIT,91937,MolGPF: Periodic-Table-Wide Generative Pre-trained Flow Foundation Model for 3D Molecules and Transition-Metal Complexes
+2026-11-25T05:48:46Z,molgpao,1.0.0,"Guojiang Zhao, Zheng Cheng, Jiankun Wang, Hongshuai Wang, Zhifeng Gao",MIT,380831,MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing
+2026-11-25T05:48:50Z,ai-loom,2.0.0,"Guojiang Zhao, Zheng Cheng, Jiankun Wang, Hongshuai Wang, Zhifeng Gao",MIT,1502655,Loom: Predictor-Agnostic 3-Layer Weaving & Grounded RSI Platform for Calibrated 3D Molecular Generation
+2026-11-25T05:49:20Z,ghosttytheme,0.2.1,,,29826,Live Ghostty theme picker for macOS
+2026-11-25T05:53:57Z,ffmpeg-mcp-studio,0.2.0,yubraaj11,MIT,731912,"AI video editor MCP server powered by FFmpeg: auto captions, Instagram Reels / YouTube Shorts / TikTok formatting, beat-synced cuts, jump cuts, transitions, music and one-call video production for Cl…"
+2026-11-25T05:57:11Z,binal,0.1.0,Henrik Wu,MIT,46593,"Declarative, type-safe binary modeling for Python."
+2026-11-25T06:02:36Z,octo-memory,1.0.0,Levit8,Proprietary,24660,Official Python SDK for the Octo memory and context API
+2026-11-25T06:02:46Z,ap2-evidence,0.1.0,Taegyun Kim,Apache-2.0,646989,"Offline verifier for AP2 v0.2 payment evidence: mandate chains, receipts and the hash bindings between them."
+2026-11-25T06:03:03Z,tw-powercalc,0.8.0,hello world 07,MIT AND OGDL-Taiwan-1.0,68254,Taiwan residential power consumption and electricity bill calculator
+2026-11-25T06:05:46Z,l-whd,0.3.0,,,1306747,Standalone verifier for Lahu syllable structure and tone markers
+2026-11-25T06:07:18Z,envlib-api,0.3.0,Mike Kittridge <mullenkamp1@gmail.com>,Apache-2.0,719391,"The envlib data API service: an OGC API - EDR server for envlib datasets, and the refresher mirroring the envlib catalogue and dataset indexes into MongoDB"
+2026-11-25T06:09:12Z,palaver-mcp-server,13.0.0,,Apache-2.0,1800339,AI-powered MCP server with multiple model providers
+2026-11-25T06:09:57Z,odoo-apps-Odoo-Apps-Stock-Logistics-Workflow,18.0.20261125.0,,,1591,
+2026-11-25T06:10:12Z,odoo-apps-Odoo-Apps-Manufacture,18.0.20261125.0,,,1536,
+2026-11-25T06:12:07Z,odoo-addon-license_portal,16.0.1.0.0,Mint System GmbH,AGPL-3,427140,Portal view for licenses.
+2026-11-25T06:12:10Z,odoo-addon-mail_composer_mass_layout,16.0.1.0.0,Mint System GmbH,AGPL-3,422350,Render layout in mass composition mode.
+2026-11-25T06:13:52Z,qxra,0.1.0,QXRA Quantum Technologies,Apache-2.0,450693,"Differentiable quantum simulation for PyTorch: circuits, noise, large Clifford circuits and quantum annealing."
+2026-11-25T06:18:46Z,tallyjudge,0.1.0,Datawhale,Apache-2.0,1233099,TallyJudge evaluation framework for RAG and LLM applications
+2026-11-25T06:20:36Z,check-yourself-chess,0.2.0,Check Yourself Contributors,GPL-3.0-or-later,1019210,Analyze local chess PGNs with Stockfish and generate offline reports.

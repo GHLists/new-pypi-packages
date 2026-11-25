@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-11-25T04:18:47.960984Z",
-    "path": "data/new-packages-2026-11-25T05-19-24-062943Z.csv",
-    "to": "2026-11-25T05:19:24.062943Z"
+    "count": 35,
+    "from": "2026-11-25T05:19:24.062943Z",
+    "path": "data/new-packages-2026-11-25T06-21-13-65766Z.csv",
+    "to": "2026-11-25T06:21:13.65766Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T02:22:20Z",
       "package": "calcgraph",
       "since": "2026-11-25T02:21:39.695604Z",
@@ -15,20 +15,20 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-25T05:19:22Z",
-      "package": "engineering-influence-sdk",
-      "since": "2026-11-25T04:18:47.960984Z",
+      "created_at": "2026-11-25T05:35:58Z",
+      "package": "datavendor",
+      "since": "2026-11-25T05:19:24.062943Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-25T02:37:47Z",
       "package": "vllm-qaic",
       "since": "2026-11-25T02:21:39.695604Z",
       "version": null
     }
   ],
-  "serial": 44141263,
+  "serial": 44143148,
   "source_truncated": false,
-  "window": "2026-11-25T05:19:24.062943Z"
+  "window": "2026-11-25T06:21:13.65766Z"
 }

@@ -8,42 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 05:19 UTC
+## Latest list — 2026-11-25 06:21 UTC
 
-New packages created between 2026-11-25 04:18 UTC and 2026-11-25 05:19 UTC.
+New packages created between 2026-11-25 05:19 UTC and 2026-11-25 06:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-25T05-19-24-062943Z.csv)
+[Full CSV](data/new-packages-2026-11-25T06-21-13-65766Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-25 04:18:19 | [hhc-doc-mineru-mcp](https://pypi.org/project/hhc-doc-mineru-mcp/) | 0.1.0 | hhc | 11.9 kB | MCP server that converts documents (PDF/Office/images/HTML) to markdown with La… |
-| 2026-11-25 04:21:56 | [alogithms](https://pypi.org/project/alogithms/) | 1.0.3 | Kirik | 28.8 kB | A simple Python library |
-| 2026-11-25 04:23:50 | [inventree-sales-order-builds](https://pypi.org/project/inventree-sales-order-builds/) | 0.1.0 | OMG Harness | 29.6 kB | InvenTree plugin: automatically create build orders for assembly lines when a s… |
-| 2026-11-25 04:25:58 | [slack-message-api-local](https://pypi.org/project/slack-message-api-local/) | 0.0.3b4912 | Circles | 10.8 kB | PyPI slack-message-api-local Python Package owned by Circlez.ai |
-| 2026-11-25 04:31:02 | [capsight](https://pypi.org/project/capsight/) | 0.2.0 | Kx96xx | 202.9 kB | Drop in a 4G/5G packet capture, get a plain-English diagnosis of why a device c… |
-| 2026-11-25 04:34:45 | [smartlab-studio-ctrl](https://pypi.org/project/smartlab-studio-ctrl/) | 0.2.9 |  | 87.5 kB | SmartLab Studio II device control using Windows UI Automation |
-| 2026-11-25 04:38:07 | [supaflow-connector-runtime](https://pypi.org/project/supaflow-connector-runtime/) | 0.1.0 | Supaflow <support@supa-flow.i… | 100.7 kB | Declarative adapter for Supaflow Python source connectors. |
-| 2026-11-25 04:38:08 | [supaflow-connector-testkit](https://pypi.org/project/supaflow-connector-testkit/) | 0.1.0 | Supaflow <support@supa-flow.i… | 37.3 kB | Portable testing utilities for Supaflow Python connectors. |
-| 2026-11-25 04:38:09 | [supaflow-connector-toolchain](https://pypi.org/project/supaflow-connector-toolchain/) | 0.1.0 | Supaflow <support@supa-flow.i… | 200.8 kB | Authoring services for Supaflow Python connectors. |
-| 2026-11-25 04:40:53 | [nex-init](https://pypi.org/project/nex-init/) | 0.1.0 | The Trinity <inquiries@houseo… | 27.7 kB | Deterministic Self-Healing RCTI v3.0 Package Router and AST Synchronizer |
-| 2026-11-25 04:45:06 | [sentinel-mcp-guard](https://pypi.org/project/sentinel-mcp-guard/) | 0.1.1 | Sandeep Hipparagi | 45.1 kB | Registry-ready MCP server: deterministic claim verification, declarative policy… |
-| 2026-11-25 04:46:46 | [aviml](https://pypi.org/project/aviml/) | 0.1.0 |  | 13.3 kB | Educational AI search and machine learning examples from AIML-LAB |
-| 2026-11-25 04:50:37 | [job-apply-cli](https://pypi.org/project/job-apply-cli/) | 0.2.0 |  | 587.6 kB | Safety-first dual-channel job discovery and application orchestrator |
-| 2026-11-25 04:54:49 | [movie-boxoffice](https://pypi.org/project/movie-boxoffice/) | 0.1.0 | 劉志勇 | 15.3 kB | A Python package for movie box office search and analysis |
-| 2026-11-25 04:55:50 | [modelmap](https://pypi.org/project/modelmap/) | 0.1.0 | Eric G. Suchanek, PhD | 130.6 kB | Find local LLM model files across Hugging Face, Ollama, oMLX, LM Studio and lla… |
-| 2026-11-25 04:56:17 | [superfunctions-core](https://pypi.org/project/superfunctions-core/) | 0.1.1 | 21n <support@superfunctions.d… | 60.9 kB | Core HTTP abstractions for the superfunctions ecosystem |
-| 2026-11-25 04:57:28 | [lazyreqs](https://pypi.org/project/lazyreqs/) | 0.1.0 | lazyreqs contributors | 9.6 MB | Tokio-powered requests/pyureq drop-in replacement with zero-await lazy concurre… |
-| 2026-11-25 04:58:52 | [syncora-resilience](https://pypi.org/project/syncora-resilience/) | 1.0.0 | Syncora Systems Core Platform… | 16.6 kB | Production-grade resilience engine: distributed circuit breakers, adaptive rate… |
-| 2026-11-25 04:59:12 | [aethel-telemetry](https://pypi.org/project/aethel-telemetry/) | 0.4.0 | Aethel Infrastructure Enginee… | 15.7 kB | Zero-allocation structured log formatting, distributed trace propagation, and O… |
-| 2026-11-25 05:00:28 | [langroid-datacircle](https://pypi.org/project/langroid-datacircle/) | 0.1.0 |  | 22.4 kB | Langroid tools for the Datacircle API: find the best GTM APIs |
-| 2026-11-25 05:00:37 | [di-toolkit-shopee](https://pypi.org/project/di-toolkit-shopee/) | 0.0.0 | sc | 2.4 kB | A small example package |
-| 2026-11-25 05:03:29 | [zorvex-api](https://pypi.org/project/zorvex-api/) | 0.0.1 |  | 538.8 kB | Zorvex core API - Self-hosted Agent Protocol server |
-| 2026-11-25 05:03:55 | [zorvex-cli](https://pypi.org/project/zorvex-cli/) | 0.0.1 |  | 61.6 kB | Zorvex CLI - Manage your self-hosted agent deployments |
-| 2026-11-25 05:05:28 | [ases](https://pypi.org/project/ases/) | 0.1.0a1 | 花浩文 | 4.0 MB | Embodied Audio Engine source and setup for CUDA and Metal |
-| 2026-11-25 05:05:53 | [asei](https://pypi.org/project/asei/) | 0.1.0a1 | 花浩文 | 4.0 MB | Embodied Audio Engine source and setup for CUDA and Metal |
-| 2026-11-25 05:08:41 | [inventree-xero](https://pypi.org/project/inventree-xero/) | 1.5.2 | Tyler Brannigan / OMG Harness | 213.0 kB | InvenTree plugin: sync purchase orders, bills, sales orders, contacts and items… |
-| 2026-11-25 05:11:18 | [inventree-mouser](https://pypi.org/project/inventree-mouser/) | 0.1.8 | Tyler Brannigan / OMG Harness | 141.0 kB | Mouser for InvenTree: part import, daily Mouser order import into purchase orde… |
-| 2026-11-25 05:15:57 | [opendfx](https://pypi.org/project/opendfx/) | 1.0 | Chris Denney | 351.2 kB | The recommendations of OpenDFX for Printed Circuit Boards, a KiCad rules file a… |
-| 2026-11-25 05:16:07 | [xstereo-slam](https://pypi.org/project/xstereo-slam/) | 0.3.1 | Necessity Robotics | 2.3 MB | Real-time stereo visual-inertial SLAM in Python (CuPy + Numba): no C++ build st… |
-| 2026-11-25 05:16:25 | [sendcheck](https://pypi.org/project/sendcheck/) | 0.1.0 | Truckling | 23.3 kB | Pre-send compliance checks for Australian email and SMS (Spam Act 2003) |
-| 2026-11-25 05:18:48 | [engineering-influence](https://pypi.org/project/engineering-influence/) | 1.0.0 | Adam Matthew Steinberger | 6.0 MB | Autonomous book-writing pipeline (fiction and non-fiction) that produces KDP-re… |
+| 2026-11-25 05:19:22 | [engineering-influence-sdk](https://pypi.org/project/engineering-influence-sdk/) | 1.0.0 |  | 12.4 kB | Typed sync and async client for engineering-influence, the autonomous KDP-ready… |
+| 2026-11-25 05:19:51 | [community-hierarchy](https://pypi.org/project/community-hierarchy/) | 0.4.2 | Maximilian Jerdee <mjerdee@sa… | 10.5 MB | Infer communities, hierarchies, and their connection in directed graphs |
+| 2026-11-25 05:20:28 | [techpulse-kit-Louis](https://pypi.org/project/techpulse-kit-Louis/) | 0.1.0 | Louis <linyk0629@gmail.com> | 14.7 kB | 科技趨勢與開源專案追蹤工具（串接 Hacker News 與 GitHub 公開 API，零外部相依） |
+| 2026-11-25 05:26:58 | [nodalir](https://pypi.org/project/nodalir/) | 0.0.1 | Nodalir | 4.3 kB | Nodalir — MEP & BIM engineering automation toolkit (early preview). |
+| 2026-11-25 05:27:31 | [wedeo](https://pypi.org/project/wedeo/) | 0.3.1 |  | 5.9 MB | Wedeo media toolkit and FFmpeg-compatible command-line tools |
+| 2026-11-25 05:28:26 | [stljoiner](https://pypi.org/project/stljoiner/) | 0.2.1 | Christopher Eslick | 443.6 kB | Put split STL parts back together by matching their cut faces, and save them as… |
+| 2026-11-25 05:29:11 | [inventree-woocommerce](https://pypi.org/project/inventree-woocommerce/) | 0.6.1 | Tyler Brannigan / OMG Harness | 203.5 kB | InvenTree plugin: run a WooCommerce shop from InvenTree - catalogue, stock, ord… |
+| 2026-11-25 05:34:21 | [pneo](https://pypi.org/project/pneo/) | 0.99.0 | Mario Juric <mjuric@uw.edu> | 1.6 MB | Bayesian NEO tracklet classification by ranging over topocentric distance and r… |
+| 2026-11-25 05:34:38 | [mcp-time-server-1124agent](https://pypi.org/project/mcp-time-server-1124agent/) | 0.1.0 | mcp-time-server contributors | 9.7 kB | A minimal MCP server exposing a timezone-aware current-time tool. |
+| 2026-11-25 05:38:24 | [peeters](https://pypi.org/project/peeters/) | 0.1.1 | Wouter Saelens <wouter.saelen… | 67.5 kB | FlowSOM on gated flow cytometry populations, differential abundance between con… |
+| 2026-11-25 05:38:25 | [polyui](https://pypi.org/project/polyui/) | 0.1.1 | Murtazo Xurramov | 6.1 MB | Python bindings for the PolyUI core: check generative UI from LLM agents, build… |
+| 2026-11-25 05:39:59 | [viro-drift](https://pypi.org/project/viro-drift/) | 0.1.0 | "Molecular Plant Pathology La… | 30.7 kB | Adaptive divergent viral discovery via 6-frame protein seed baiting and local m… |
+| 2026-11-25 05:40:04 | [viral-genome-tools](https://pypi.org/project/viral-genome-tools/) | 0.1.0 | "Molecular Plant Pathology La… | 28.1 kB | Circular viral concatemer monomerization, ICTV landmark rotation, and physical… |
+| 2026-11-25 05:40:10 | [quasispecies-profiler](https://pypi.org/project/quasispecies-profiler/) | 0.1.0 | "Molecular Plant Pathology La… | 24.2 kB | Replicate-aware Beta-Binomial intra-host viral variant caller and diversity pro… |
+| 2026-11-25 05:40:19 | [viralbio-reporting](https://pypi.org/project/viralbio-reporting/) | 0.1.0 | "Molecular Plant Pathology La… | 22.5 kB | Seamless circular wraparound ORF annotation, SHA-256 provenance logging, and NC… |
+| 2026-11-25 05:45:50 | [omega-mini](https://pypi.org/project/omega-mini/) | 3.3.0 | 4jb5nkddkb-dot | 33.8 kB | Omega v3.3 — Zero-dependency constrained decision & safety learning framework (… |
+| 2026-11-25 05:48:43 | [molgpf](https://pypi.org/project/molgpf/) | 1.0.0 | Guojiang Zhao, Zheng Cheng, J… | 91.9 kB | MolGPF: Periodic-Table-Wide Generative Pre-trained Flow Foundation Model for 3D… |
+| 2026-11-25 05:48:46 | [molgpao](https://pypi.org/project/molgpao/) | 1.0.0 | Guojiang Zhao, Zheng Cheng, J… | 380.8 kB | MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculativ… |
+| 2026-11-25 05:48:50 | [ai-loom](https://pypi.org/project/ai-loom/) | 2.0.0 | Guojiang Zhao, Zheng Cheng, J… | 1.5 MB | Loom: Predictor-Agnostic 3-Layer Weaving & Grounded RSI Platform for Calibrated… |
+| 2026-11-25 05:49:20 | [ghosttytheme](https://pypi.org/project/ghosttytheme/) | 0.2.1 |  | 29.8 kB | Live Ghostty theme picker for macOS |
+| 2026-11-25 05:53:57 | [ffmpeg-mcp-studio](https://pypi.org/project/ffmpeg-mcp-studio/) | 0.2.0 | yubraaj11 | 731.9 kB | AI video editor MCP server powered by FFmpeg: auto captions, Instagram Reels /… |
+| 2026-11-25 05:57:11 | [binal](https://pypi.org/project/binal/) | 0.1.0 | Henrik Wu | 46.6 kB | Declarative, type-safe binary modeling for Python. |
+| 2026-11-25 06:02:36 | [octo-memory](https://pypi.org/project/octo-memory/) | 1.0.0 | Levit8 | 24.7 kB | Official Python SDK for the Octo memory and context API |
+| 2026-11-25 06:02:46 | [ap2-evidence](https://pypi.org/project/ap2-evidence/) | 0.1.0 | Taegyun Kim | 647.0 kB | Offline verifier for AP2 v0.2 payment evidence: mandate chains, receipts and th… |
+| 2026-11-25 06:03:03 | [tw-powercalc](https://pypi.org/project/tw-powercalc/) | 0.8.0 | hello world 07 | 68.3 kB | Taiwan residential power consumption and electricity bill calculator |
+| 2026-11-25 06:05:46 | [l-whd](https://pypi.org/project/l-whd/) | 0.3.0 |  | 1.3 MB | Standalone verifier for Lahu syllable structure and tone markers |
+| 2026-11-25 06:07:18 | [envlib-api](https://pypi.org/project/envlib-api/) | 0.3.0 | Mike Kittridge <mullenkamp1@g… | 719.4 kB | The envlib data API service: an OGC API - EDR server for envlib datasets, and t… |
+| 2026-11-25 06:09:12 | [palaver-mcp-server](https://pypi.org/project/palaver-mcp-server/) | 13.0.0 |  | 1.8 MB | AI-powered MCP server with multiple model providers |
+| 2026-11-25 06:09:57 | [odoo-apps-Odoo-Apps-Stock-Logistics-Workflow](https://pypi.org/project/odoo-apps-Odoo-Apps-Stock-Logistics-Workflow/) | 18.0.20261125.0 |  | 1.6 kB |  |
+| 2026-11-25 06:10:12 | [odoo-apps-Odoo-Apps-Manufacture](https://pypi.org/project/odoo-apps-Odoo-Apps-Manufacture/) | 18.0.20261125.0 |  | 1.5 kB |  |
+| 2026-11-25 06:12:07 | [odoo-addon-license_portal](https://pypi.org/project/odoo-addon-license_portal/) | 16.0.1.0.0 | Mint System GmbH | 427.1 kB | Portal view for licenses. |
+| 2026-11-25 06:12:10 | [odoo-addon-mail_composer_mass_layout](https://pypi.org/project/odoo-addon-mail_composer_mass_layout/) | 16.0.1.0.0 | Mint System GmbH | 422.4 kB | Render layout in mass composition mode. |
+| 2026-11-25 06:13:52 | [qxra](https://pypi.org/project/qxra/) | 0.1.0 | QXRA Quantum Technologies | 450.7 kB | Differentiable quantum simulation for PyTorch: circuits, noise, large Clifford… |
+| 2026-11-25 06:18:46 | [tallyjudge](https://pypi.org/project/tallyjudge/) | 0.1.0 | Datawhale | 1.2 MB | TallyJudge evaluation framework for RAG and LLM applications |
+| 2026-11-25 06:20:36 | [check-yourself-chess](https://pypi.org/project/check-yourself-chess/) | 0.2.0 | Check Yourself Contributors | 1.0 MB | Analyze local chess PGNs with Stockfish and generate offline reports. |
