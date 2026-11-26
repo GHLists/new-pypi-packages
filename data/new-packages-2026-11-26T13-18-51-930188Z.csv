@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T11:37:10Z,aetiocore-sem,0.1.3,,,2259728,Rust-backed Universal Structural Equation Modeling (Python & R Ready)
+2026-11-26T12:20:42Z,headline-antidote,0.1.0,,,1141514,"Checks that the news headline an LLM reads is the text a human reader sees: homoglyphs, hidden HTML text, invisible characters."
+2026-11-26T12:21:25Z,cad-scale-dxf,0.1.0,VisualCraft Lab,MIT,7881,"Zero-dependency Python library for 2D CAD and DXF geometry: polyline length, shoelace polygon area, DPI-to-mm scale calibration, Ramer-Douglas-Peucker simplification, and ASCII DXF export."
+2026-11-26T12:21:30Z,skifer-core,4.2.0,Julien Houbart <houbartjulien80@gmail.com>,MIT,71695,"Skifer language core: SQL-first pipeline language, contracts, capability matrix and dialect rendering (no Spark)."
+2026-11-26T12:21:32Z,skifer-databricks,4.2.0,Julien Houbart <houbartjulien80@gmail.com>,MIT,26619,"Skifer on Databricks: the MLflow ResponsesAgent serving layer (Genie supervisor, Model Serving) over the governed semantic layer."
+2026-11-26T12:21:33Z,skifer-engine,4.2.0,Julien Houbart <houbartjulien80@gmail.com>,MIT,45602,"Skifer runtime for Spark and Databricks: Spark/Delta execution of compiled pipelines, built-in loaders, streaming and materialized-view writes."
+2026-11-26T12:23:37Z,kestrom-verify,0.1.0,CAPH TECH Inc.,Apache-2.0,50153,"Check a language-model weight edit: what changed, byte for byte, and that outputs outside the declared range stayed bit-identical"
+2026-11-26T12:28:09Z,taxrail,0.1.0,TaxRail <samuelaguiar1242@gmail.com>,MIT,21068,"Autonomous pre-execution crypto & DeFi tax optimization SDK for AI agents (US IRS 1099-DA, Form 8949, HIFO/SpecID, TLH, Aave v3 borrow-vs-sell & Brazil Lei 14.754 / R$35k rule) via x402 Base USDC."
+2026-11-26T12:32:00Z,permesso,0.2.1,permesso,MIT,66707,Authorized scan + hardening reports for websites and servers
+2026-11-26T12:35:01Z,e2b-acp,0.1.0,e2b,Apache-2.0,29115,Run Agent Client Protocol (ACP) agents in E2B sandboxes
+2026-11-26T12:35:30Z,vaultody-sdk,0.0.0.dev0,Vaultody,Apache-2.0,1487,The official Vaultody SDK for Python (name reservation; the first real release is 0.1.0).
+2026-11-26T12:35:31Z,vaultody-verify,0.0.0.dev0,Vaultody,Apache-2.0,1538,Verify Vaultody API response signatures (name reservation; the first real release is 0.1.0).
+2026-11-26T12:38:56Z,camlock,0.1.0,Niels Madan,MIT,32488,Named model tasks and explicit OpenRouter connections for Python applications.
+2026-11-26T12:44:14Z,volcenginesdk-bytehouse20250730,5.0.60,volc-engine,Apache License 2.0,65890,Volcengine bytehouse20250730 SDK for Python
+2026-11-26T12:44:29Z,grumo,1.0.0,Helder Perez <contact@helderperez.com>,MIT,1160533,The programmable runtime for adaptive applications and operational systems — from web and AI to distributed and physical systems.
+2026-11-26T12:44:54Z,atesto,0.1.1,Atesto contributors,Apache-2.0,47083,Evidence gate for AI-written code: proof and review at the code head.
+2026-11-26T12:44:58Z,langchain-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,39202,Measure the runtime behaviour of a LangChain application with the NeoMundi measurement API
+2026-11-26T12:45:59Z,retrievalcheck,0.2.0,Nada Boulares <nada.boulaares@gmail.com>,MIT,40000,"Measure any RAG or AI search system in one command: recall, MRR, nDCG, answer accuracy, latency — and compare before/after."
+2026-11-26T12:46:24Z,inventree-loan,0.2.0,InvenTree Loan Contributors,MIT,288215,"Loan and return management for InvenTree, with requests, approvals, barcode/QR support and full history."
+2026-11-26T12:48:03Z,qodalis-cli-server-plugin-config-redis,1.0.0b32,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,18523,Redis config store for Qodalis CLI servers: writable settings of the config providers kept in Redis
+2026-11-26T12:48:18Z,anydeck-sdk,0.0.1,crljn.labs,LicenseRef-PolyForm-Strict-1.0.0-with-Extension-Permission,260773,Build your own action sources for Anydeck.
+2026-11-26T12:50:09Z,dixy,2.0.0,Mykyta Ishchenko,MIT,52299,"Minimalist, type-driven dependency injection for async Python."
+2026-11-26T12:54:37Z,zarrchive,0.2.0,"Raphael Jolivet, Valentin Bauer",MIT,282706,"Schema-driven Zarr v3 storage for camera sensor timeseries, driven by a YAML template."
+2026-11-26T12:55:25Z,petrophys,3.0.0,Petrophys Contributors,MIT,24770874,A comprehensive petrophysics library for well log analysis and formation evaluation
+2026-11-26T12:56:27Z,getapi,1.0.0,"""GetAPI.nl"" <info@getapi.nl>",MIT,64443,"Python-client voor GetAPI.nl: KVK, BTW/VAT, BAG-adres, WOZ, energielabel en meer Nederlandse data"
+2026-11-26T12:58:05Z,aetiocore-sem-dl,0.1.3,,,1056498,Edge-Level White-Box Causal Deep Learning backed by Rust & SEM
+2026-11-26T13:00:13Z,aicser,0.1.0,,Apache-2.0,47480,"Aicser from your terminal, scripts, CI and AI coding agents"
+2026-11-26T13:00:16Z,aisam-sdk,0.1.0,,Apache-2.0,19673,"AISAM API client: plan, review, approve and render faceless videos from code or AI agents."
+2026-11-26T13:01:37Z,pidsmaker,4.0.0,mlx-graphs contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",5754857,Intrusion detection framework based on deep learning
+2026-11-26T13:02:02Z,fpgas-online-mcp,0.0.89,,Apache-2.0,153700,Claude Code plugin with a skill for using the boards on fpgas.online
+2026-11-26T13:02:44Z,helix-layer,4.3.0,Vijay Arther,MIT,109891,"Tickets or plain words in, tested PRs out - a token-lean layer over Claude Code"
+2026-11-26T13:03:30Z,agentbridge-tg,0.1.0,,MIT,142333,"Reach Claude Code, Codex and agy sessions on your Mac from Telegram"
+2026-11-26T13:04:55Z,plottracer,0.2.0,Louie Slocombe,LGPL-3.0-or-later,462856,Recover data from images of plots.
+2026-11-26T13:05:17Z,pipecat-deepdub,0.1.0,Deepdub AI <info@deepdub.ai>,MIT,38630,Deepdub text-to-speech and speech-to-text services for Pipecat
+2026-11-26T13:05:55Z,oligomatrix,0.4.0,,,1461712,Parallel minimum-free-energy matrices for pairs of nucleotide fragments
+2026-11-26T13:05:59Z,type-rename-move,0.14.0,MotleyAI,MIT,635868,"Verified renames and moves for Python and TypeScript code: every import and reference rewritten, checked by a type-check gate against a committed baseline."
+2026-11-26T13:08:22Z,routecost,0.1.0,"Taner Karagöl <karagolt@mit.edu>, Alper Karagöl <akaragol@mit.edu>",MIT,12146,Exact deposit-agreement diagnostics and multi-step substitution route epistasis from deep mutational scans
+2026-11-26T13:08:23Z,pdb-bfactor,0.1.0,"Taner Karagöl <karagolt@mit.edu>, Alper Karagöl <akaragol@mit.edu>",MIT,9358,"Zero-dependency CLI and Python library for PDB/mmCIF B-factor score projection, multimer chain permutation, protein-RNA complex merging, and SEQRES conversion"
+2026-11-26T13:08:25Z,variantt,0.1.0,"Alper Karagöl <akaragol@mit.edu>, Taner Karagöl <karagolt@mit.edu>",MIT,13521,Polarised directional substitution asymmetry via ancestral-state reconstruction with Variant Tension (Tv) composition control
+2026-11-26T13:10:07Z,matnocr,0.1.0,Hasko7,Apache-2.0,65518,Fast local OCR for scanned PDFs on Windows.
+2026-11-26T13:12:42Z,labinacan,0.1.0,Will Sackfield,MIT,3394695,"The generic parts of an autoresearch project: its site, papers, posts, literature reviews, figures and social posts."
+2026-11-26T13:13:30Z,govrule,0.1.0,siwpan,MIT-0,53192,治理规则 DSL：四值判据 + 证据 + 基线棘轮（离线、零第三方依赖）
+2026-11-26T13:13:56Z,traqio,0.1.0,"""khufu.io"" <hello@khufu.io>",MIT,41358,"Traqio server SDK for Python — report sign-ups and conversions from your backend and tie them to the ad click (trackID) the visitor came from. Django, Flask, FastAPI."
+2026-11-26T13:14:45Z,ai-mixed-model-cost-optimization,0.1.0,,MIT,33970,"Let cheap and strong AI models work together (Scout & Rescue), and test each cost change against your current setup with a blind quality review."
+2026-11-26T13:16:02Z,dazflow,0.1.0,pedrobtz <pedrobtz@gmail.com>,MIT,572592,"A time-series modelling workflow whose every step returns tables, figures and findings ready for a model document."

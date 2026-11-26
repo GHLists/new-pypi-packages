@@ -1,34 +1,69 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-11-26T11:19:04.606527Z",
-    "path": "data/new-packages-2026-11-26T12-18-52-652704Z.csv",
-    "to": "2026-11-26T12:18:52.652704Z"
+    "count": 45,
+    "from": "2026-11-26T12:18:52.652704Z",
+    "path": "data/new-packages-2026-11-26T13-18-51-930188Z.csv",
+    "to": "2026-11-26T13:18:51.930188Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-26T11:37:10Z",
-      "package": "aetiocore-sem",
-      "since": "2026-11-26T11:19:04.606527Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-26T09:19:38Z",
       "package": "esdl-scenario-decorator",
       "since": "2026-11-26T09:18:48.779468Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-26T10:55:15Z",
       "package": "lfs-stripe",
       "since": "2026-11-26T10:22:36.289683Z",
       "version": "1.0.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-26T13:17:34Z",
+      "package": "variant-blessed-providers",
+      "since": "2026-11-26T12:18:52.652704Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-26T13:18:09Z",
+      "package": "variant-provider-aarch64",
+      "since": "2026-11-26T12:18:52.652704Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-26T13:18:47Z",
+      "package": "variant-provider-amd",
+      "since": "2026-11-26T12:18:52.652704Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-26T13:18:29Z",
+      "package": "variant-provider-intel",
+      "since": "2026-11-26T12:18:52.652704Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-26T13:18:36Z",
+      "package": "variant-provider-nvidia",
+      "since": "2026-11-26T12:18:52.652704Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-26T13:18:15Z",
+      "package": "variant-provider-x86_64",
+      "since": "2026-11-26T12:18:52.652704Z",
+      "version": null
     }
   ],
-  "serial": 44202872,
+  "serial": 44205356,
   "source_truncated": false,
-  "window": "2026-11-26T12:18:52.652704Z"
+  "window": "2026-11-26T13:18:51.930188Z"
 }
