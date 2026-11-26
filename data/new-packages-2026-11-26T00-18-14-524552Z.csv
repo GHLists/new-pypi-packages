@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-25T23:23:01Z,imbi-plugin-grafana,2.63.0,Ryan McLean <ryanm@aweber.com>,BSD-3-Clause,29983,Grafana Alerting webhook plugin for Imbi
+2026-11-25T23:23:06Z,python-dailyhadith,0.1.0,Zubir Jamal,MIT,17593,Asynchronous Python client for Daily Hadith from Sunnah.com with fallback feed support
+2026-11-25T23:23:27Z,amarok-ytmusic,0.1.1,German Rosales <rosalesgermane@gmail.com>,GPL-3.0-or-later,208336,"YouTube Music streaming, offline cache & web-auth integration bridge for Amarok 3.3+ (KDE)"
+2026-11-25T23:23:29Z,amunition,0.1.0,goldcoin10,,12118,a(muni)tion is a transit app running on the bay's 511 api
+2026-11-25T23:24:48Z,types-boto3-elb-proxy,1.44.12,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,51084,Type annotations for boto3 ELBProxy 1.44.12 service generated with mypy-boto3-builder 8.12.0
+2026-11-25T23:25:04Z,peptalk-llm,0.1.0,Marcin P. Joachimiak,MIT,280992,"Ask a frontier LLM what a protein sequence says, from sequence alone: domains, membrane features, active sites, structure and function of full-length proteins"
+2026-11-25T23:25:53Z,python-platerecognizer,0.1.0,Zubir Jamal,MIT,17463,Asynchronous Python client for the Plate Recognizer Snapshot Cloud and Local SDK API
+2026-11-25T23:33:05Z,flashstream-host-volumes-client,0.1.4,,MIT,8853,TCP client for Flashstream Host Volumes Server
+2026-11-25T23:33:30Z,dotfetch,0.27.0,dotfetch Contributors,MIT,1347833,"Universal Tool Orchestration Platform - Intelligent, secure tool orchestration for LLM-based agent systems"
+2026-11-25T23:37:37Z,equationnet,1.0.0,Cogitan,MIT,180386,"Type an equation: six simple models (three that use it, three data-only baselines), plus any of your own, are trained on your data and ranked on held-out points."
+2026-11-25T23:37:40Z,radchain,1.0.0,Cogitan,Apache-2.0 AND CC-BY-4.0,32072714,End-to-end radiation -> phonon -> quasiparticle -> logical-error simulation for superconducting qubit chips
+2026-11-25T23:39:50Z,specla,0.0.1,,Apache-2.0,155116,"Load, lint and evaluate a Specla Behavior."
+2026-11-25T23:42:06Z,databies,0.1.0,"Diego Rosales, Erick Guerra, Jonathan Diaz",MIT,197523,"Análisis estructural de vigas planas: reacciones, cortante, momento, rotación y deflexión"
+2026-11-25T23:42:36Z,tapisaurus,0.1.0,Ahmad Faiz,BSL-1.1,16268,Official Python SDK for TapisaurusDB — The AI-Native Universal Multi-Model Database Engine
+2026-11-25T23:43:32Z,citeguard-mcp,0.1.2,Luca Celebrano <luca.celebrano1@gmail.com>,MIT,44076,"Zero-config MCP Server & CLI to detect LLM hallucinated citations, verify DOIs/PMIDs/arXiv IDs, flag retracted papers, and fetch verified BibTeX from Crossref, DataCite, PubMed, OpenAlex & arXiv."
+2026-11-25T23:44:35Z,agentfree,0.0.1,Frank Zhang,MIT,1480,Reserved for https://github.com/cloudformer/agentfree
+2026-11-25T23:44:37Z,lambdamcp,0.0.1,Frank Zhang,MIT,1482,Reserved for https://github.com/cloudformer/lambdamcp
+2026-11-25T23:47:51Z,kasi-compiler,0.2.0,KASI Compiler contributors,MIT,115425,"Ahead-of-time Python compiler: AST, type inference, C, native executable"
+2026-11-25T23:49:57Z,azio-perti,1.0.0,,,473,Generated package for azio-perti
+2026-11-25T23:49:59Z,oil-price-v2-xethhung12,0.0.1,Xeth Hung <admin@xethh.me>,GPL-3.0-only,107410,"Hong Kong fuel discount data: fetches the Consumer Council pages, decodes them to station/weekday/benefit-level JSON, and publishes a static bilingual (TC/EN) HTML page."
+2026-11-25T23:51:05Z,wrtds-py,1.0.0,Manuel Alvarez Chaves,MIT,29028,"Python implementation of the WRTDS and WRTDS-Kalman water quality models, adapted from the USGS EGRET R package"
+2026-11-25T23:51:38Z,intentdataflow,0.3.10,Thiago Egon Lange,Apache-2.0,652665,"Control layer for data pipelines: column lineage, preventive checks, orchestrator visibility and impact of external jobs"
+2026-11-25T23:57:42Z,searlo,0.2.0,Searlo <hello@searlo.tech>,MIT,26543,"Official Python client for the Searlo API — search, web data, AI answers and email verification"
+2026-11-26T00:03:00Z,code-daza,1.0.0,Dazaeev,MIT,33696,"Universal Autonomous AI Engineering, Architecture & UI/UX CLI Agent powered by Gemini 3.7 Flash"
+2026-11-26T00:03:10Z,fourohtwo,0.1.0,Fourohtwo,MIT,20499,"One agent key that pays any x402 API: USDG on Robinhood Chain or USDC on Base, with free trial calls."
+2026-11-26T00:08:12Z,everygraph,0.0.0,,Apache-2.0 OR MIT,2042,Everygraph: a single-machine graph engine. Placeholder until the first release.
+2026-11-26T00:11:07Z,langchain-searlo,0.1.0,Searlo <hello@searlo.tech>,MIT,24250,LangChain integration for Searlo: live search results as clean JSON.
+2026-11-26T00:12:13Z,waylingo,0.1.0,Waylingo contributors,MIT OR Apache-2.0,21633415,"Natural-language trip requests to routes with stops, as GeoJSON. Bring your own map provider and LLM."
