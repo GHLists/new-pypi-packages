@@ -8,31 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 04:18 UTC
+## Latest list — 2026-11-26 05:20 UTC
 
-New packages created between 2026-11-26 03:20 UTC and 2026-11-26 04:18 UTC.
+New packages created between 2026-11-26 04:18 UTC and 2026-11-26 05:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-26T04-18-14-842127Z.csv)
+[Full CSV](data/new-packages-2026-11-26T05-20-41-100644Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-26 03:21:48 | [loghunt](https://pypi.org/project/loghunt/) | 0.2.0 | Thanut Jongteerathanachote | 252.2 kB | Hunt bots, scanners and botnets in nginx/apache access logs. Every flag comes w… |
-| 2026-11-26 03:23:48 | [repo-ffwd](https://pypi.org/project/repo-ffwd/) | 0.0.0.dev0 |  | 1.8 kB | Reserved package name; project under development. |
-| 2026-11-26 03:27:18 | [gras-engine](https://pypi.org/project/gras-engine/) | 0.1.0 | Mauricio Maroto <maulberto3@h… | 523.2 kB | Neural architecture search by genetic programming: a step-race that evolves, tr… |
-| 2026-11-26 03:29:33 | [mendari](https://pypi.org/project/mendari/) | 0.1.0 | Mendari contributors | 3.9 MB | Open-source governance and evaluation for healthcare AI agents: policy, human r… |
-| 2026-11-26 03:30:31 | [feraterra-sdk](https://pypi.org/project/feraterra-sdk/) | 4.9.1 |  | 273.7 kB | FeraTerra / Arena Exchange official zero-dependency Python REST/WS, 64-byte HFT… |
-| 2026-11-26 03:36:00 | [rhinotape](https://pypi.org/project/rhinotape/) | 0.4.0 | rhinotape contributors | 748.1 kB | Record, replay, and assert on LLM HTTP & SSE streaming calls (tokens, cost, too… |
-| 2026-11-26 03:42:01 | [chatgpt-float](https://pypi.org/project/chatgpt-float/) | 1.0.0 |  | 23.9 kB | Floating, always-on-top ChatGPT window toggled with Alt+Space (Linux, Windows,… |
-| 2026-11-26 03:46:05 | [openai-mock](https://pypi.org/project/openai-mock/) | 4.0.0 | GPT-Zero Contributors | 183.5 kB | Offline multi-protocol mock LLM server (OpenAI Chat Completions / Responses / A… |
-| 2026-11-26 03:47:37 | [django-notion-sync](https://pypi.org/project/django-notion-sync/) | 0.1.0 |  | 182.9 kB | Sync Django models with Notion databases: inline calls, a retrying outbox, and… |
-| 2026-11-26 03:55:14 | [turbo-desktop-mcp](https://pypi.org/project/turbo-desktop-mcp/) | 0.1.0 |  | 175.9 kB | UIA-based MCP server for driving Windows desktop apps with compact snapshots an… |
-| 2026-11-26 03:56:09 | [user-xinli-project](https://pypi.org/project/user-xinli-project/) | 1.0.0 | user-xinli | 14.0 kB | 基于 ACPs-SDK 的双智能体心理咨询系统：InterviewAgent 负责访谈与分析，PsychologyAgent 负责给出解决方案 |
-| 2026-11-26 04:02:23 | [zero-grep](https://pypi.org/project/zero-grep/) | 0.1.1 | zero-grep contributors | 4.6 MB | Fast, indexed code search for large repositories |
-| 2026-11-26 04:07:38 | [deepvis](https://pypi.org/project/deepvis/) | 0.1.0 | bozcomlekci | 2.7 MB | See inside any neural network — PyTorch, JAX, Keras, ONNX or a saved file: ever… |
-| 2026-11-26 04:07:44 | [openfoundry-agent-framework](https://pypi.org/project/openfoundry-agent-framework/) | 0.1.0 | Sharjeel Baig | 45.3 kB | Run the Microsoft Agent Framework SDK against a local openFoundry project — no… |
-| 2026-11-26 04:08:48 | [mind-recursive](https://pypi.org/project/mind-recursive/) | 0.1.0 | Mind Lab | 298.3 kB | Python SDK for the Mind Recursive platform: custom training loops, managed trai… |
-| 2026-11-26 04:11:43 | [agentenv-vfs](https://pypi.org/project/agentenv-vfs/) | 0.4.2 |  | 116.1 kB | agent-env plugin: any env's MCP tools as shell commands in a Mirage workspace (… |
-| 2026-11-26 04:15:12 | [jatai](https://pypi.org/project/jatai/) | 0.0.1 | Tarlis Tortelli | 29.0 kB | TODO: describe jatai |
-| 2026-11-26 04:15:16 | [pcb-guardrails](https://pypi.org/project/pcb-guardrails/) | 0.2.2 | Yuki Watanabe | 175.9 kB | Independent checks of what the PCB fab actually receives (Gerber + drill vs. sc… |
-| 2026-11-26 04:16:35 | [kgcss](https://pypi.org/project/kgcss/) | 1.0.0 | Kovid Goyal <kovid@kovidgoyal… | 15.2 MB | Fast and comprehensive CSS handling: tokenizing, parsing, a mutable object mode… |
-| 2026-11-26 04:16:59 | [wzw-utils](https://pypi.org/project/wzw-utils/) | 0.1.3 |  | 4.5 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-11-26 04:20:37 | [zdeck-plugin-sdk](https://pypi.org/project/zdeck-plugin-sdk/) | 0.1.0 | zDeck contributors | 23.5 kB | Python SDK for trusted local zDeck stdio plugins |
+| 2026-11-26 04:23:46 | [mcp-cuc-jyf](https://pypi.org/project/mcp-cuc-jyf/) | 0.1.1 | Your Name | 7.5 kB | An MCP Server that provides a tool to get the current time with optional timezo… |
+| 2026-11-26 04:24:18 | [sldx-api](https://pypi.org/project/sldx-api/) | 1.0.0 | SLDX Tech | 7.7 kB | SDK oficial em Python para consumo da SLDX API (Cotações B3, FIIs, Dividendos,… |
+| 2026-11-26 04:28:26 | [kanso-py](https://pypi.org/project/kanso-py/) | 0.4.0 |  | 115.9 kB | An explicitly composed asyncio scraping runtime |
+| 2026-11-26 04:29:24 | [helix-voice](https://pypi.org/project/helix-voice/) | 0.1.0 | Helix Voice | 94.6 kB | Helix Voice API |
+| 2026-11-26 04:31:41 | [dreamsports-mlops-client](https://pypi.org/project/dreamsports-mlops-client/) | 0.1.4 |  | 105.6 kB | Track MLOps platform experiments from any self-managed machine: metrics, artifa… |
+| 2026-11-26 04:31:52 | [coremind-knowledge-mcp](https://pypi.org/project/coremind-knowledge-mcp/) | 0.1.0 |  | 15.8 kB | Local, versioned document retrieval and citations over Streamable HTTP MCP |
+| 2026-11-26 04:31:52 | [coremind-ontology-mcp](https://pypi.org/project/coremind-ontology-mcp/) | 0.1.0 |  | 15.2 kB | CoreMind optional RDF and SHACL MCP service |
+| 2026-11-26 04:31:58 | [coremind-memory-mcp](https://pypi.org/project/coremind-memory-mcp/) | 0.1.0 |  | 11.3 kB | Hindsight-backed, host-authorized memory for Streamable HTTP MCP clients |
+| 2026-11-26 04:36:07 | [ultratransfer-mcp](https://pypi.org/project/ultratransfer-mcp/) | 0.4.13 |  | 175.5 kB | Verified local file and knowledge exchange for AI agents |
+| 2026-11-26 04:38:28 | [pyearthforge](https://pypi.org/project/pyearthforge/) | 0.1.0 | msndma2025 | 188.6 kB | Lazy, memory-efficient raster processing and visualization for GeoTIFFs, with v… |
+| 2026-11-26 04:41:37 | [ccvet](https://pypi.org/project/ccvet/) | 0.0.1 |  | 94.0 kB | A risk-classifying PreToolUse permission hook for Claude Code. Auto-approves sa… |
+| 2026-11-26 04:42:42 | [devlooped-jqlite](https://pypi.org/project/devlooped-jqlite/) | 1.0.0b0 | Daniel Cazzulino | 345.0 kB | jqlite, the portable profile of the jq language: the Python port of the JQLite… |
+| 2026-11-26 04:46:03 | [causilo-db](https://pypi.org/project/causilo-db/) | 0.2.0 | "Nums AI Inc." <api@nums.worl… | 178.3 kB | Predict the blank cells of a database column with the hosted Causilo API. |
+| 2026-11-26 04:50:10 | [geocif-studio](https://pypi.org/project/geocif-studio/) | 0.1.0 | Ritvik Sahajpal <ritvik@umd.e… | 113.4 kB | Guided localhost & desktop GUI for geoprepare, geomerge, geocif, and yield_outl… |
+| 2026-11-26 04:51:26 | [gleefultransformer](https://pypi.org/project/gleefultransformer/) | 0.0.1 |  | 174.8 kB | Run, stream, and fine-tune chat models in Python, with optional document retrie… |
+| 2026-11-26 04:54:23 | [reviewproof](https://pypi.org/project/reviewproof/) | 0.0.0 | The ReviewProof Authors | 18.5 kB | Rubber-stamp detector for AI oversight: proves whether human reviewers of AI ou… |
+| 2026-11-26 05:01:55 | [fontpkg-saira-semi-condensed](https://pypi.org/project/fontpkg-saira-semi-condensed/) | 0.72 |  | 423.9 kB | Saira Semi Condensed font family, packaged for Python by fontpkg |
+| 2026-11-26 05:01:57 | [fontpkg-italianno](https://pypi.org/project/fontpkg-italianno/) | 1.100 |  | 115.4 kB | Italianno font family, packaged for Python by fontpkg |
+| 2026-11-26 05:01:58 | [fontpkg-noto-nastaliq-urdu](https://pypi.org/project/fontpkg-noto-nastaliq-urdu/) | 3.9 |  | 368.6 kB | Noto Nastaliq Urdu font family, packaged for Python by fontpkg |
+| 2026-11-26 05:02:00 | [fontpkg-unna](https://pypi.org/project/fontpkg-unna/) | 2.7 |  | 164.6 kB | Unna font family, packaged for Python by fontpkg |
+| 2026-11-26 05:06:10 | [nimaid-noto-emoji](https://pypi.org/project/nimaid-noto-emoji/) | 0.6.0 | Ghazali | 8.2 MB | Noto Color Emoji font for nimaid (colour emoji in Mermaid diagrams). |
+| 2026-11-26 05:06:30 | [nimaid](https://pypi.org/project/nimaid/) | 0.6.0 | Ghazali | 13.1 MB | Mermaid diagrams to PNG, GIF and SVG. Pure Nim core, no dependencies, no browse… |
+| 2026-11-26 05:07:16 | [aws-signin-url](https://pypi.org/project/aws-signin-url/) | 0.1.0 | Chowdhury Faizal Ahammed | 335.4 kB | Turn AWS credentials (IAM user keys, roles, or named profiles) into a one-click… |
+| 2026-11-26 05:08:51 | [rtl-docx](https://pypi.org/project/rtl-docx/) | 0.3.0 | Amin | 107.7 kB | RTL-first Word workflow for coding agents: Markdown builds, tracked edits, temp… |
+| 2026-11-26 05:10:30 | [colombia-utils](https://pypi.org/project/colombia-utils/) | 0.1.0 | Kilian Vega | 13.4 kB | Colombian holidays, business days and NIT check digits. Zero dependencies. |
+| 2026-11-26 05:16:26 | [belcore](https://pypi.org/project/belcore/) | 0.1.0 |  | 9.6 kB | Python client for the Belcore API: long-term memory and an emotion state for ch… |
+| 2026-11-26 05:16:48 | [langchain-belcore](https://pypi.org/project/langchain-belcore/) | 0.1.0 |  | 8.7 kB | LangChain chat model for Belcore: long-term memory and an emotion state for cha… |
+| 2026-11-26 05:17:23 | [leashscan](https://pypi.org/project/leashscan/) | 0.1.1 |  | 60.2 kB | Is your AI agent on a leash? Scan what Claude Code, Cursor, Codex, Copilot and… |
+| 2026-11-26 05:17:37 | [composebus](https://pypi.org/project/composebus/) | 0.1.0 |  | 192.4 kB | ComposeBus kernel — the bare, transport-agnostic ComposeIO bus |
+| 2026-11-26 05:17:44 | [composeio](https://pypi.org/project/composeio/) | 0.0.0 |  | 4.3 kB | Name reserved for the ComposeIO project (https://github.com/740Dave/composeio).… |
+| 2026-11-26 05:17:46 | [compose-plugins](https://pypi.org/project/compose-plugins/) | 0.0.0 |  | 4.4 kB | Name reserved for the ComposeIO project (https://github.com/740Dave/composeio).… |
+| 2026-11-26 05:19:01 | [boilerplate-ml](https://pypi.org/project/boilerplate-ml/) | 0.1.0 | Aditya Shukla | 22.8 kB | A lightweight, uv-powered starting point for data science and machine learning… |
