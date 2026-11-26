@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T14:23:03Z,telegram-bulk-uploader,1.2.0,Aditya Sanjay Agrawal <966524b@gmail.com>,"MIT License Copyright (c) 2026 Aditya Sanjay Agrawal Permission is hereby granted, free of charge,…",52074,"The fastest Telegram uploader on the internet. Fault-tolerant bulk uploader with Arc & Okala Glass UI, 16x parallel MTProto engine, and lossless FFmpeg splitting."
+2026-11-26T14:23:36Z,gnitz-server,0.1.10,Christian Schramm,MIT OR Apache-2.0,7572725,"The gnitz server, a SQL database whose views are all materialized and incrementally updated"
+2026-11-26T14:23:55Z,volcenginesdk-transitrouter20260601,5.0.60,volc-engine,Apache License 2.0,273200,Volcengine transitrouter20260601 SDK for Python
+2026-11-26T14:24:32Z,israel-companies,1.0.0,Aiterra <info@aiterra.co.il>,MIT,25052,"Look up Israeli companies in the Registrar of Companies (רשם החברות) on data.gov.il by number (ח.פ.) or name, with checksum validation and Hebrew explanations of every company status"
+2026-11-26T14:25:58Z,demantoid,0.2.0,Nikita Moroshkin,MIT,6008,A tiny library for recording evolutionary algorithm metrics into TimescaleDB
+2026-11-26T14:26:24Z,nemotron-image-mlx,0.1.0,Felix Brener,LicenseRef-NVIDIA-License,78576,NVIDIA's Nemotron-Labs-Image-30B-A3B (autoregressive Mamba2/MoE image generator) on Apple Silicon with MLX
+2026-11-26T14:27:05Z,riley-tor-runtime,16.0.1,,,4285484,Optional Linux x86-64 Tor runtime for Riley web tools
+2026-11-26T14:27:32Z,dateoxide,0.1.0,,MIT OR Apache-2.0,6658296,"Blazing-fast, low-memory, multilingual natural-language date parser written in Rust — a drop-in accelerator for Python's dateparser."
+2026-11-26T14:27:36Z,leakpulse,0.4.0,StackPulse Lab <360556499+stackpulse-lab@users.noreply.github.com>,MIT,72882,"Zero-dependency secret scanner for worktrees, staged changes and git history"
+2026-11-26T14:29:52Z,srcx5,1.5.1,R. A. Elu,Apache-2.0,66737,"SRC-X.5: an open record of sealed claims, verified at the source (specification, node, MCP and A2A, Python standard library only)"
+2026-11-26T14:30:03Z,fastmcp-datacircle,0.1.1,,MIT,21463,FastMCP tools for the Datacircle API: find the best GTM APIs
+2026-11-26T14:30:30Z,epub-spine-report,0.1.0,js-upup,MIT,10203,Inspect EPUB reading order and spot missing spine documents from the command line.
+2026-11-26T14:30:52Z,astrocook,2.9.1,Guido Cupani <guido.cupani@inaf.it>,GPL-3.0-or-later,6077048,"A thousand recipes to cook a spectrum: analysis of quasar spectra (continuum, absorption systems, Voigt fitting)"
+2026-11-26T14:31:57Z,thuztra,0.1.0,Thuztra <team@thuztra.com>,Apache-2.0,61758,"Published overfitting checks for trading strategy backtests, each reported on its own."
+2026-11-26T14:34:20Z,hermes-agent-ng,0.23.3.post2,Nous Research,MIT,57815814,"The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere"
+2026-11-26T14:35:15Z,cronpulse-cli,0.6.1,StackPulse Lab <360556499+stackpulse-lab@users.noreply.github.com>,MIT,82986,"Zero-dependency cron and systemd timer explainer, run preview, never-fires and drift checks"
+2026-11-26T14:35:50Z,hkid-utils,1.2.1,,MIT,1052805,"Validate, calculate check digits for, and format Hong Kong identity card numbers"
+2026-11-26T14:37:13Z,gumption,0.0.1,,,1643,Task monitoring — coming soon
+2026-11-26T14:37:35Z,valueproof,0.5.0,,MIT,62004,"Prove an AI cost cut on your own traffic before you ship it: cheap and strong models working together (Scout & Rescue), measured by cost per outcome with a blind quality review."
+2026-11-26T14:38:45Z,hwp-mcp-plus,0.1.0,,,134873,한글(HWP) 프로그램을 Claude 등 MCP 클라이언트에서 조작하는 MCP 서버 (Windows 전용)
+2026-11-26T14:40:18Z,ravl-cli,0.4.1,Kevin Trethewey,MPL-2.0,100346,"Reflect, Act, Verify, Learn: loops for outcomes that recur. Each run checks its own result and leaves guidance for the next."
+2026-11-26T14:40:44Z,vggtmu,1.0.0,"Ludvig Dillén, David Nordström",MIT,102027,VGGT-μ: lightweight relative pose regression at scale.
+2026-11-26T14:41:38Z,targeted-mutation,0.1.0,,Apache-2.0,174656,Observation-guided mutation testing for Python and pytest
+2026-11-26T14:42:03Z,algorithm-lib-scratch,0.1.0,Your Name <you@example.com>,MIT,36225,从零实现的评估指标、分组分层数据划分、鲁棒预处理器与三种分类器（KNN / Softmax 逻辑回归 / CART）。
+2026-11-26T14:43:23Z,beat-the-syllabus,1.0.0,Youssef Jdidou <youssef.jdidou@gmail.com>,MIT,25210,Structural baselines and lift-over-structure reports for the offline evaluation of educational recommender systems
+2026-11-26T14:44:29Z,warplens,1.0.0,,Apache-2.0,3723657,"Understand a Blackwell GPU by watching it run, on your CPU."
+2026-11-26T14:46:02Z,serpentbox,0.1.0,你的名字,MIT,3031,一个简单好用的 Python 打包工具
+2026-11-26T14:48:08Z,earlywarn,0.4.0,,MIT,89172,Computing clinical early warning scores (e.g. NEWS) on time‐series vital sign data
+2026-11-26T14:51:06Z,simple-sessions,0.1.0,samedit66,Apache-2.0,136385,"Typed, server-side sessions for FastAPI"
+2026-11-26T14:54:07Z,open-tabular-priors,0.1.1,,EUPL-1.2,219587,Composable synthetic priors for supervised tabular learning
+2026-11-26T14:54:43Z,flux-node-signer,0.3.0,David White,MIT,101976,"Signs for fluxnodes from a workstation: a manager key, bindings, starts and restarts"
+2026-11-26T14:56:36Z,g3w-admin-filemanager,0.0.1,,Mozilla Public License 2.0 (MPL 2.0),12540959,File management plugin for G3W-SUITE
+2026-11-26T14:57:57Z,hegemony-probe-net,0.57.2,,AGPL-3.0-or-later,29476,Network reachability probes (tcp/icmp/http/dns) for Hegemony
+2026-11-26T14:57:59Z,hegemony-notification-shoutrrr-presets,0.3.3,,AGPL-3.0-or-later,15875,Friendly Shoutrrr-backed notification presets for Hegemony
+2026-11-26T14:58:01Z,hegemony-notification-webhook-presets,0.3.3,,AGPL-3.0-or-later,16337,"Webhook-based notification presets (Webex, Microsoft Teams) for Hegemony"
+2026-11-26T14:58:03Z,hegemony-secret-vault,0.3.6,,AGPL-3.0-or-later,25233,HashiCorp Vault and OpenBao secret backend plugin for Hegemony
+2026-11-26T14:58:49Z,dazapiz,0.1.0,pedrobtz <pedrobtz@gmail.com>,MIT,166037,"The Azure helpers azure-identity lacks: your az login carried into Spark, DuckDB and any Azure REST API."
+2026-11-26T14:59:24Z,pip-search-ng,0.5.1,"Victor Garric <victor.garric@gmail.com>, ""Peter A."" <ink.splatters@pm.me>",MIT License Copyright (c) 2026 Victor Garric Copyright (c) 2026 Peter A. Permission is hereby grant…,817461,
+2026-11-26T15:00:05Z,rowx-sqlite,0.4.2,Matt LeMay <mplemay@users.noreply.github.com>,MIT,3142613,SQLite backend for rowx
+2026-11-26T15:00:11Z,fjallstation,0.1.1,Zeng Peng,Apache-2.0,865922,A data and RL environment API for LLM training in the built environment.
+2026-11-26T15:02:16Z,specstream-agentcore-mcp,1.0.0,SpecStream <support@specstream.ai>,MIT,16874,SpecStream's MCP server packaged for Amazon Bedrock AgentCore Runtime.
+2026-11-26T15:02:20Z,airflow-provider-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,26743,"SpecStream for Apache Airflow: the live web data engine. Search API, Extract API and Deep Search operators and a hook."
+2026-11-26T15:02:24Z,arcade-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,24370,"SpecStream for Arcade: Deep Search lists from the live web with the source page of every row, plus the Search API and the Extract API."
+2026-11-26T15:02:28Z,dagster-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,21493,"SpecStream for Dagster: the live web data engine. A resource for the Search API, the Extract API and Deep Search."
+2026-11-26T15:03:01Z,beacox-gdb-mcp,0.6.0,BeaCox,MIT,290277,Multi-session Model Context Protocol server for GDB and gdbserver.
+2026-11-26T15:03:43Z,omda-tools,0.1.0,Mallikarjunayya Hiremath Sangamesh,Apache-2.0,57357,Reference checks and schema validator for the Open Mobile Document Agent (OMDA) specification
+2026-11-26T15:04:16Z,causal-toolkit-ambersophia,0.1.1,Amber Keahey <amber.keahey.7@gmail.com>,MIT,13957,"A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
+2026-11-26T15:05:29Z,g3w-admin-qplotly,0.0.1,,Mozilla Public License 2.0 (MPL 2.0),2890596,DataPlotly integration for G3W-ADMIN
+2026-11-26T15:06:46Z,fraise-mcp,0.1.1,René-Jean Corneille,,29270,"Fraise MCP server: remember and recall over a running Fraise daemon, with vectors embedded locally"
+2026-11-26T15:11:47Z,DeepOneCalculator,1.0.0,,GPL-3.0-only,128314460,"Pretrained DeepOne SpCas9, SpCas9-NG and SpG insertion predictions"
+2026-11-26T15:12:12Z,adstack,0.2.0,Adstack contributors,Apache-2.0,128380,"Advertising campaigns as code: declarative configuration, reviewable plans, safe applies, and an MCP server for AI assistants."
+2026-11-26T15:15:45Z,evolve-os,0.1.0,yangdw2026 <yangdw2021@gmail.com>,MIT,3322400,"Local self-evolving code loop (Rust): multi-island MAP-Elites search with budget-guarded LLMs, sandboxed evaluation and holdout-gated rollback. Installs the `evolve` CLI."
