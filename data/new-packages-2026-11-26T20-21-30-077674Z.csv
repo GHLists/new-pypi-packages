@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T19:21:39Z,pytest-channelstack,0.0.0.dev0,,MIT,3785,"Reserved for channelstack's pytest plugin: test the apps and agents you build for Slack, GitHub, Linear, Notion, Resend and Gmail. The first release follows."
+2026-11-26T19:21:43Z,jobdeck,0.2.1,Manny Ruesch,MIT,3973081,"A private, local command center for ANY job search: ranks offers against your profile, with any LLM (API key, local model, or copy-paste with your ChatGPT/Claude/Gemini subscription)."
+2026-11-26T19:22:14Z,PharaghY-codal,0.3.1,PharaghY,MIT,672095,Python library to extract raw financial data from Codal (codal.ir) for fundamental analysis of Iranian listed companies.
+2026-11-26T19:22:31Z,todo-ticker,0.1.0,,,43496,"Find, list and tick off markdown-style todos hiding in source code comments"
+2026-11-26T19:23:43Z,hazebrowser,0.1.1,Giovane Limas Salvi,MIT,101147,"Webdriver proprio sobre o Chrome instalado, falando CDP direto (sem Runtime.enable), com mouse e teclado de pessoa."
+2026-11-26T19:23:58Z,pyimatrix,0.1.0,iMatrix Systems,Apache-2.0,127032,Async Python client for the iMatrix Cloud integration API
+2026-11-26T19:24:31Z,cogmatplot,0.1.0,Cogency <mathew@cogency.co.za>,MIT,63704,"MATLAB-style 2D and 3D figures, inline or on another monitor"
+2026-11-26T19:28:38Z,branching-story-mcp,1.0.0,Ouba Studio <team@ouba.art>,MIT,76438,Zero-dependency MCP server for the branching-story-kit story-state kernel and the 2026 Consumer AI Story Continuity Benchmark.
+2026-11-26T19:28:51Z,evidence-ledger-policy-gate,0.7.12,Furox-Art <177975472+Furox-Art@users.noreply.github.com>,Apache-2.0,530690,"Deterministic security reasoning core: hash-chained evidence ledger, attack-path rule engine, and a fail-closed policy gate. LLMs may produce evidence and explain decisions; they never cross the deci…"
+2026-11-26T19:29:43Z,aws_sdk_cognito_sync,0.0.0,,Apache-2.0,2161,Placeholder reserving the aws_sdk_cognito_sync name. Not yet functional.
+2026-11-26T19:30:04Z,aws_sdk_codecatalyst,0.0.0,,Apache-2.0,2157,Placeholder reserving the aws_sdk_codecatalyst name. Not yet functional.
+2026-11-26T19:30:22Z,aws_sdk_ssm_incidents,0.0.0,,Apache-2.0,2165,Placeholder reserving the aws_sdk_ssm_incidents name. Not yet functional.
+2026-11-26T19:30:27Z,boerules,1.0.0,BOE,MIT,17369,Python client for the BOE business rule engine: register and execute.
+2026-11-26T19:30:41Z,aws_sdk_docdb_elastic,0.0.0,,Apache-2.0,2170,Placeholder reserving the aws_sdk_docdb_elastic name. Not yet functional.
+2026-11-26T19:31:14Z,aws_sdk_frauddetector,0.0.0,,Apache-2.0,2021,Placeholder reserving the aws_sdk_frauddetector name. Not yet functional.
+2026-11-26T19:31:28Z,aws_sdk_pinpoint_email,0.0.0,,Apache-2.0,2036,Placeholder reserving the aws_sdk_pinpoint_email name. Not yet functional.
+2026-11-26T19:31:42Z,aws_sdk_forecast,0.0.0,,Apache-2.0,1971,Placeholder reserving the aws_sdk_forecast name. Not yet functional.
+2026-11-26T19:31:59Z,aws_sdk_mediapackage_vod,0.0.0,,Apache-2.0,2051,Placeholder reserving the aws_sdk_mediapackage_vod name. Not yet functional.
+2026-11-26T19:33:17Z,aws_sdk_service_catalog_appregistry,0.0.0,,Apache-2.0,2180,Placeholder reserving the aws_sdk_service_catalog_appregistry name. Not yet functional.
+2026-11-26T19:33:34Z,aws_sdk_kinesis_video_webrtc_storage,0.0.0,,Apache-2.0,2196,Placeholder reserving the aws_sdk_kinesis_video_webrtc_storage name. Not yet functional.
+2026-11-26T19:34:20Z,aws_sdk_geo_maps,0.0.0,,Apache-2.0,1985,Placeholder reserving the aws_sdk_geo_maps name. Not yet functional.
+2026-11-26T19:35:03Z,shelduck,0.0.0,RenChu Wang <patrick1031wang@gmail.com>,MIT,3759,A pattern analysis library
+2026-11-26T19:35:18Z,aws_sdk_outposts,0.0.0,,Apache-2.0,1978,Placeholder reserving the aws_sdk_outposts name. Not yet functional.
+2026-11-26T19:37:37Z,flowmapper.org,0.3.0,"GeoSocial Lab, University of Iowa",MIT,1278569,"Python companion to FlowMapper.org: read, analyse, map and write FlowMapper project files."
+2026-11-26T19:39:38Z,slr-pipeline-ui,1.0.0,Md Faizun Nur Islam,MIT License Copyright (c) 2026 Md Faizun Nur Islam (slr-pipeline-ui: the desktop app in src/slr_des…,540948,"Desktop app for running a systematic literature review end to end: search, dedup, screening, full-text assessment, extraction, PRISMA 2020 figures and an audit trail. A redesigned UI built on slr-pip…"
+2026-11-26T19:42:40Z,straitly,0.1.0,,MIT,6289,Straitly: one OpenAI-compatible API key for many models. Returns the OpenAI client pointed at Straitly.
+2026-11-26T19:48:54Z,invariacore,0.2.1,Chatchawich Chaihong <6610130021@email.psu.ac.th>,MIT OR Apache-2.0,731634,Pure-Rust White-Box Cyber-Physical Security & Invariant Engine
+2026-11-26T19:49:26Z,raystorm-cli,0.1.0,Ayudh Inc.,Apache-2.0,38353,"Command line for the Raystorm cloud render farm: upload a scene, submit a render and follow it, from a terminal or a pipeline."
+2026-11-26T19:50:28Z,mcp-proxy-inspect,0.1.0,Ram Pangeni,MIT,568712,"DevTools for MCP servers: a transparent stdio proxy with a live web dashboard, schema-driven conformance tests, fault injection, and record/replay/mock for CI."
+2026-11-26T19:51:24Z,invariacore-dl,0.2.1,Chatchawich Chaihong,MIT OR Apache-2.0,739247,White-box differentiable cyber-physical security & adversarial Nash training
+2026-11-26T19:52:36Z,bittensor-mcp,0.1.1,Smart Guy,MIT,56135,"Read-only MCP server for the Bittensor chain: subnets, metagraphs, neurons, accounts, windowed net TAO flow and the SDK's ~100 chain reads."
+2026-11-26T19:53:14Z,pybunseki,0.1.0,,,3734914,Audio analysis library written in C++ and Python
+2026-11-26T20:00:51Z,whyblame,1.0.0,"Aniket Singh Kushwaha, Aarish, Aftab",Apache-2.0,197886,"git blame tells you who. whyblame tells you why: trace any line past reformats to the change and ticket that explain it, for you and your AI agents (MCP)."
+2026-11-26T20:00:59Z,langchain-straitly,0.1.0,Straitly,MIT,10023,"LangChain chat model for Straitly, an OpenAI-compatible AI gateway"
+2026-11-26T20:01:14Z,kamanu,0.1.0,Kenneth Amoah Nyame,Apache-2.0,2342721,"Checks whether a spending limit on an AI agent holds, and says how sure it is: the most that can be spent, the most that can be wrongly refused, and the shortest trace behind each"
+2026-11-26T20:01:45Z,napari-nd2-loader,0.1.0,"Nils Friederich, Philip Kohle, Mona Wellhäusser, Lennart Hilbert, Ralf Mikut",Apache-2.0,578428,"Read Nikon ND2 files in napari, choosing channels, positions and memory strategy before loading"
+2026-11-26T20:02:17Z,dev-wrapped,0.1.0,Ram Pangeni,MIT,406401,"Your year as a developer, as a shareable card: shell history, git and AI-agent sessions, 100% local."
+2026-11-26T20:04:54Z,grokmap,0.2.0,K. L. Aadithya,MIT,95025,Measure comprehension debt: the AI-written code in your repo that nobody understands.
+2026-11-26T20:05:20Z,cavalry-client,0.0.0,,Apache-2.0,414998,"A development build that holds this name for the Python client of Cavalry, which is not released yet. Not for use."
+2026-11-26T20:05:23Z,rovidence-eval,0.1.0,Rovidence <hello@rovidence.com>,MIT,177172,"Vendor-neutral robot pilot acceptance checks: availability, MTBF, MTTR, mission success, interventions, cost per task and payback, scored against your Go/No-Go gates."
+2026-11-26T20:08:10Z,torpaido,0.1.0a1,Taidal <info@gearlux.ai>,PolyForm-Noncommercial-1.0.0,143537,High-performance compilation and optimization engine for record pipelines and PyTorch models.
+2026-11-26T20:08:35Z,corveil-litellm,0.5.0,"Corveil, Inc.",Apache-2.0,38846,LiteLLM proxy callback that sends each conversation to Corveil.
+2026-11-26T20:08:36Z,t1archiver,0.1.1,twinpigs,MIT,53820,Torso T-1 performance archiver: project backup -> per-pattern MIDI files
+2026-11-26T20:14:07Z,clarent-methods,0.1.0,Joaquín Cuevas Muñoz,Apache-2.0,484532,"Classic decision, optimization and engineering methodologies as executable developer tools."
+2026-11-26T20:15:02Z,voxriva-sdk,0.1.1,,MIT,32176,Typed synchronous and asynchronous clients for Voxriva notifications
+2026-11-26T20:15:22Z,kritalon,0.0.1,,Apache-2.0,942274,"Evidence-first security testing for LLM applications: report what was proven, not what looked bad."
+2026-11-26T20:16:33Z,tokenblame,2.1.1,espressolee,Apache-2.0,143492,"Offline AI coding token ledger with 1:1 Git commit provenance, Squash-Merge-resilient 30-day git-blame survival rates, and root-cause burn forensics"
+2026-11-26T20:17:28Z,AskTim,0.1.0,Tim Hearn,,322511,"AskTim! - an AI helper for bioinformatics students that keeps their data out of the AI, at the command line and in Jupyter and Colab notebooks."
+2026-11-26T20:19:50Z,careerforge,0.5.1,rafijurrahman <145068278+rafijurrahman@users.noreply.github.com>,MIT,299674,"A universal, local-first, privacy-focused job application and career automation engine."
