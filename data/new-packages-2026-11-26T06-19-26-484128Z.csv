@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T05:21:48Z,factlattice,0.0.0,,MIT,4167,Name reserved for the FactLattice project (https://github.com/740Dave/factlattice). No functional release yet.
+2026-11-26T05:22:33Z,forgeproof-cli,0.2.0,Illia Hladkyi <ihladkyi@realityoptimizer.app>,Apache-2.0,715463,"Deterministic regression gate for code-generating agents, with reference implementations from the AURA pattern library."
+2026-11-26T05:23:51Z,dopic-passport-specs,1.0.0,Dopic Studio <support@dopic.app>,MIT,120594,"Official passport, visa, and ID photo dimensions (mm, px, 300 DPI, head-height ratios) for 122 countries and 2,400+ document types."
+2026-11-26T05:26:26Z,etharc,0.1.0,Oceanus,MIT,87228,"A modern, fully typed Python SDK for Ethereum and EVM-compatible chains."
+2026-11-26T05:27:11Z,sunsetwatch,0.2.0,Siddharth Shankar,MIT,27914,"Scan a codebase for retired AI model IDs and archived MCP server packages, checked against a deprecation registry."
+2026-11-26T05:31:11Z,s3rag,0.0.1,Frank Zhang,MIT,1430,Reserved for https://github.com/cloudformer/s3rag
+2026-11-26T05:32:37Z,runhpc-hq,0.27.0,,,17853659,HyperQueue executable for RunHPC
+2026-11-26T05:33:28Z,runhpc,0.1.1,zy_peng,,90245,"Python utilities for configuring, diagnosing, and monitoring HPC runs, with HyperQueue job execution on Slurm."
+2026-11-26T05:35:22Z,sme-modbus-sim,0.3.2,,MIT,421012,SME ModbusSim: a free Modbus TCP / RTU / UDP / TLS device simulator with a web UI
+2026-11-26T05:35:45Z,equation-plotter-mcp,1.0.0,Srikant Tallapragada,MIT,145805,"Plot and analyse equations: exact symbolic analysis (domain, intercepts, turning points, asymptotes, conics) plus a rendered graph, as JSON, a CLI and an MCP server."
+2026-11-26T05:36:45Z,agent-mission-control,0.1.0,robll-v1,MIT,572258,Local-first cross-agent code review workbench and CLI for uncommitted local changes and GitHub PRs
+2026-11-26T05:37:26Z,branching-story-kit,1.0.0,Ouba Studio <team@ouba.art>,MIT,48686,"Zero-dependency branching narrative engine for interactive fiction, visual novels, and romance story apps: story-graph state tracking, gated choices, persistent memory log, save/export, static valida…"
+2026-11-26T05:39:57Z,sme-bacnet-sim,0.5.0,,MIT,448542,SME BACnetSim: a free BACnet/IP device simulator with a web UI
+2026-11-26T05:44:41Z,memoire-engine,0.1.0,,MIT,35397382,Local-first semantic memory engine for AI coding agents
+2026-11-26T05:45:22Z,ni-rua-harness,0.1.0,Nerve Intelligence,MIT,19837737,Agent harness for embodied manipulation: a model-led Codex session with one robot execution gateway
+2026-11-26T05:45:37Z,group-by-vibes,0.1.0,Felipe Campos Penha <felipe.penha@owasp.org>,Apache-2.0,117952,Standalone deterministic Text2SQL evaluation package powered by sqlglot
+2026-11-26T05:46:01Z,memoire-mcp,0.1.0,,MIT,37594,MCP Server for the Memoire semantic memory engine
+2026-11-26T05:54:18Z,darwin-logger,0.1.0,Hong,,22782,Zero-dependency structured logging for Darwin CLI and data tools
+2026-11-26T05:56:38Z,shircrypt,1.0.3,Vicious-Cycle,LGPL-3.0-or-later,998447,"Modern, memory-safe, abi3 Rust cryptographic extension for MTProto 2.0."
+2026-11-26T06:02:58Z,oilprops,0.1.0,Kanishk Teotia,MIT,59149,"Universal thermophysical, transport, caloric, and PVT property library for petroleum oils, industrial fuel oils, hydrocarbons, and pseudocomponents."
+2026-11-26T06:03:20Z,langchain-clawifi,0.1.0,ReARC Labs Inc.,MIT,41062,LangChain tools for Clawifi web search and page reading.
+2026-11-26T06:03:26Z,llama-index-tools-clawifi,0.1.0,ReARC Labs Inc.,MIT,34600,LlamaIndex tool spec for Clawifi web search and page reading.
+2026-11-26T06:03:33Z,langchain-bilinc,0.1.0,ReARC Labs Inc.,MIT,19837,LangChain memory tools and retriever for Bilinc agent memory.
+2026-11-26T06:03:38Z,llama-index-memory-bilinc,0.1.0,ReARC Labs Inc.,MIT,18896,LlamaIndex memory block backed by Bilinc agent memory.
+2026-11-26T06:03:41Z,rr-pf,3.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",42753,"Exact rational numbers and rational enclosures, with a Fraction-based test oracle and a Lean 4 correspondence."
+2026-11-26T06:04:20Z,aneup,0.1.1,,MIT,5156539,"ANE-native 2x/4x video and image upscaler for Apple Silicon, with VideoToolbox HEVC delivery"
+2026-11-26T06:05:56Z,agents-for-everything,0.1.0,rupeshbharambe24 <rupeshbharambe2004@gmail.com>,Apache-2.0,37325,"Core runtime, manifest loader, safety guardrails, MCP bridge, and exporters for Agents for Everything (afe/v1)"
+2026-11-26T06:12:43Z,tokenspeed-mla-windows,2.0.12,,MIT License Copyright (c) 2026 LightSeek Foundation <contact@lightseek.org> Permission is hereby gr…,508038,Speed-of-light TokenSpeed MLA kernels.
+2026-11-26T06:14:18Z,firefly-bridge,0.4.0,"Phuderoso (human, project director), PHASEONE (Grok agent, coordinator), Firefly (Grok agent, lead…",Apache-2.0,453170,"Signed (HMAC), deny-by-default IPC and wake bridge for AI agent terminals."
+2026-11-26T06:14:40Z,FastMcsplit,0.0.1,"Wilfried Agbeto, Camille Coti, Vladimir Reinharz",,159465,Native C++ maximum common induced subgraph solver for Python and NetworkX
+2026-11-26T06:15:48Z,locjson,0.1.0,Enes Yağız,MIT,141320,"Typed, zero-dependency JSON localization for Python"
+2026-11-26T06:16:33Z,langchain-bf16,0.1.0,BF16 Team <hello@bf16.ai>,MIT,7453,Official LangChain integration for bf16.ai (1M-context uncensored open-weight LLMs with Zero Data Retention).
+2026-11-26T06:16:45Z,llama-index-llms-bf16,0.1.0,BF16 Team <hello@bf16.ai>,MIT,7219,Official LlamaIndex LLM integration for bf16.ai (1M-context uncensored open-weight LLMs with Zero Data Retention).
+2026-11-26T06:17:23Z,urban-archimate,0.1.0,urban-archimate contributors,MIT,1916023,"ArchiMate diagram editor web component (<urban-archimate>), served from FastAPI / Starlette"
+2026-11-26T06:18:16Z,infinity-core-api,0.9.0,tekChansin,MIT,29972,"Write extensions for Infinity Core: control it, read its library, and give it lyrics, album and artist information, covers, amp volume and more."
