@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T20:22:27Z,nebula-chain-sdk,0.1.0,,,8260,Minimal Python client for the Nebula chain RPC
+2026-11-26T20:22:38Z,dramaapi,0.1.0,DramaAPI,MIT,11608,"Python client for DramaAPI: search 20+ short-drama platforms (DramaBox, ReelShort, ShortMax, GoodShort…), list episodes and get stream URLs."
+2026-11-26T20:26:09Z,pinchana-core,26.11.17,,MIT,44008,"Shared models, storage, and VPN controller for scraper services"
+2026-11-26T20:27:07Z,pinchana-bluesky,26.11.17,,MIT,13021,Public Bluesky post scraper for Pinchana
+2026-11-26T20:27:12Z,pinchana-apple-music,26.11.17,,MIT,15293,Apple Music track downloader for Pinchana
+2026-11-26T20:28:44Z,pysdic-blender,1.1.0,Artezaru <artezaru.github@proton.me>,GPL-3.0-or-later,95973,Rendering of synthetic images for pysdic (stereo digital image correlation) with Blender
+2026-11-26T20:29:08Z,jenkins-lint,0.0.1,Xianpeng Shen,MIT,3962,"Future name of jenkinsfilelint, a Jenkinsfile linter. This release installs jenkinsfilelint."
+2026-11-26T20:29:32Z,pinchana-coub,26.11.17,,MIT,18569,Coub scraper service for Pinchana
+2026-11-26T20:29:34Z,xpenvo,0.1.0,Xpenvo <agents@xpenvo.com>,MIT,14491,"Hard spending limits for AI agents: helpers for the Xpenvo Agents proxy (OpenAI, Anthropic, Gemini, Mistral, OpenRouter, Azure OpenAI, Amazon Bedrock)."
+2026-11-26T20:30:01Z,foragent,0.1.0,"""SJK Systems, Inc."" <support@foragent.io>",MIT,79677,"Private phone numbers that let AI agents call and collaborate across any setup, with owner approval."
+2026-11-26T20:31:07Z,pinchana-inst,26.11.17,,MIT,31142,Instagram scraper plugin for Pinchana
+2026-11-26T20:31:07Z,pinchana-shorts,26.11.17,,MIT,15418,YouTube Shorts scraper service
+2026-11-26T20:31:10Z,pinchana-deezer,26.11.17,,MIT,11547,Deezer music downloader for Pinchana
+2026-11-26T20:31:30Z,dip-practicals-kit,0.1.0,DIP Practicals,MIT,36101,Generates all Digital Image Processing (DIP) syllabus practical programs into a roll-number folder on your Desktop.
+2026-11-26T20:32:35Z,pinchana-spotify,26.11.17,,MIT,12053,Spotify music downloader for Pinchana
+2026-11-26T20:32:36Z,pinchana-soundcloud,26.11.17,,MIT,9757,SoundCloud music downloader for Pinchana
+2026-11-26T20:32:37Z,pinchana-threads,26.11.17,,MIT,31186,Threads (Meta) scraper plugin for Pinchana
+2026-11-26T20:33:42Z,pinchana-ytgroups,26.11.17,,MIT,13368,Optimized YouTube videos for Pinchana Telegram groups
+2026-11-26T20:33:44Z,pinchana-twitter,26.11.17,,MIT,27053,Twitter/X scraper plugin for Pinchana
+2026-11-26T20:33:45Z,sphinx-doorstop,0.0.1,M.J.W. Snippe,LGPL-3.0-or-later,13746,A Sphinx extension allowing to include Doorstop documents and items in your Sphinx build.
+2026-11-26T20:33:46Z,pinchana-tiktok,26.11.17,,MIT,50999,TikTok scraper service
+2026-11-26T20:34:58Z,pinchana-ytmusic,26.11.17,,MIT,9468,YouTube Music downloader for Pinchana
+2026-11-26T20:36:00Z,pinchana-scraper,26.11.17,,MIT,9987,One Python package for importing all Pinchana scrapers
+2026-11-26T20:37:05Z,iq-stream,0.1.0,Neuron Core,MIT,86898,Python client for the IQ-Stream server: publish an agent's answer to browsers over Server-Sent Events
+2026-11-26T20:38:25Z,bankstatementparser-loader-bacs,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,27700,BACS Standard 18 / Faster Payments UK banking statement loader for bankstatementparser.
+2026-11-26T20:38:29Z,bankstatementparser-loader-cfonb,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,32413,French CFONB 120 / AFB120 fixed-width banking statement loader for bankstatementparser.
+2026-11-26T20:38:29Z,vibee-live,0.1.0,Flieber,Proprietary,147431,Brings a person's own agent into a product: pushed events become turns in their agent's session.
+2026-11-26T20:38:32Z,bankstatementparser-loader-camt054,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,31242,ISO 20022 CAMT.054 Bank-to-Customer Debit/Credit Notification loader for bankstatementparser.
+2026-11-26T20:38:58Z,terminalmsg,1.0.0,"AltayHR, Turkhackteam.org",LicenseRef-Proprietary,257092,"Terminal için uçtan uca şifreli mesajlaşma, gruplar, Kod Bulutu ve yapay zeka asistanı. Terminal artık kod yuvası."
+2026-11-26T20:39:25Z,pyocr-toolkit,0.3.0,utkarsh5026,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",306596,"Inspect and compare PDF/image text extraction - native text, Tesseract OCR and LLMs (Claude, GPT, Gemini, Azure, local) - in your browser."
+2026-11-26T20:43:07Z,zynx,1.0.0,Your Name,,4769,My personal Python library
+2026-11-26T20:43:31Z,litellm-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,34080,Measure every completion that goes through LiteLLM with the NeoMundi measurement API
+2026-11-26T20:44:14Z,iq-stream-agno,0.1.0,Neuron Core,MIT,64273,"Publish Agno agent, team and workflow runs to browsers through an IQ-Stream server"
+2026-11-26T20:44:42Z,pancite,0.3.0,Anthony Kougkas,Apache-2.0,487013,"Evidence-backed scholarly discovery and citation tools for MCP, from open metadata to institutional databases."
+2026-11-26T20:47:03Z,zerya-discord-mcp,1.1.0,Zerya,Apache-2.0,207183,Permission-aware search over your Discord history for Claude and other AI agents (MCP server library)
+2026-11-26T20:47:56Z,iq-stream-crewai,0.1.0,Neuron Core,MIT,60471,"Publish a CrewAI run to browsers through an IQ-Stream server, as AG-UI events or CrewAI's own"
+2026-11-26T20:49:58Z,geomaster,0.0.1,Greenstone Energy,MIT,7825,"Python tools for geosteering and well data from GeoMaster: survey calculations, with LAS and more to come."
+2026-11-26T20:51:31Z,iq-stream-haystack,0.1.0,Neuron Core,MIT,73424,Publish Haystack agent and pipeline runs to browsers through an IQ-Stream server
+2026-11-26T20:53:39Z,guelmimcq,0.1.0,GuelmimCQ Team,,17472,"Fast, interactive terminal-based MCQ client with built-in telemetry."
+2026-11-26T20:54:51Z,khipu-weave,0.1.0,,MIT,343966,Configurable LLM-assisted cleaning of tabular data
+2026-11-26T20:55:59Z,redis-adbc-integrations,0.0.31,,Apache-2.0,55229,Optional framework adapters for the Redis ADBC driver
+2026-11-26T20:57:26Z,iq-stream-langchain,0.1.0,Neuron Core,MIT,67510,Publish a LangGraph or LangChain agent run to browsers through an IQ-Stream server
+2026-11-26T20:58:19Z,jenkins-lint-engine,0.0.1,Xianpeng Shen,MIT,4036,"Future name of jenkinsfilelint-engine, the offline engine of jenkins-lint. This release contains no engine."
+2026-11-26T20:58:20Z,shrink-mcp,0.4.2,humer90000,"MIT License Copyright (c) 2026 humer90000 Permission is hereby granted, free of charge, to any pers…",40346,"Fewer tokens for coding agents. Shrink git diffs, test logs, and repo trees. MCP for Cursor, Claude Code, Codex, and VS Code."
+2026-11-26T21:01:04Z,iq-stream-llamaindex,0.1.0,Neuron Core,MIT,57655,Publish LlamaIndex workflow and agent runs to browsers through an IQ-Stream server
+2026-11-26T21:13:01Z,lex1dx,0.1.1,N. Sriram,MIT,2156570,Fast 1-D k-means with a 0.01% relative-excess-SSE tolerance
+2026-11-26T21:13:22Z,tracegram,0.1.0,Sjoerd Vink,MIT,1058039,"A grammar of agent processes, with declarative views compiled to Vega."
+2026-11-26T21:14:16Z,aamio-tcp,0.1.0,AI SENSE AS,MIT,39470,"aamio over TCP: a transport under contract 3 between a side that listens and a side that connects out to it, also from behind NAT, a firewall or an HTTP proxy, with TLS checked against a pin or the s…"
+2026-11-26T21:14:19Z,aamio-sim-radio,0.1.0,AI SENSE AS,MIT,16649,"A simulated radio for aamio: a transport under contract 3 over UDP on 127.0.0.1, with small frames, a slow rate, and frames that are lost, doubled or put out of order. Nothing leaves this machine."
