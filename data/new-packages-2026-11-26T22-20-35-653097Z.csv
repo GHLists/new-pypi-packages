@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T21:19:00Z,frankensettings,0.1.0,non7top,MIT,39684,"Keep one settings.json in sync between a public template and a private live file: merge, pull back, and scrub local paths."
+2026-11-26T21:20:19Z,raystorm,0.1.0,Ayudh Inc.,Apache-2.0,38435,"Command line for the Raystorm cloud render farm: upload a scene, submit a render and follow it, from a terminal or a pipeline."
+2026-11-26T21:23:51Z,mlflow-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,43664,Measure the model calls MLflow already traces with the NeoMundi measurement API
+2026-11-26T21:26:53Z,kneepad,0.3.0,,MIT,258537,"Local safety layer for AI coding agents on Linux, macOS and Windows: blocks or snapshots destructive commands, with a footgun database and a tamper-evident audit log."
+2026-11-26T21:27:25Z,postloom,0.1.0,Dr. Mahdi Habibi,FSL-1.1-ALv2,3059130,"A private, local-first memory of your LinkedIn articles, posts, comments and the people in them: search, chat, a knowledge graph and reply drafts, with any LLM."
+2026-11-26T21:28:48Z,giantlayers,0.1.0a1,,MIT,1157364,Experimental spherical LTE model atmospheres for cool giant stars
+2026-11-26T21:29:50Z,ak-sqlite3,0.1.0,dapk,MIT,13913,SQLite database wrapper class for managing structured data storage with JSON serialization
+2026-11-26T21:31:37Z,slip2sure,2.0.1,Slip2Sure Team <dev@slip2sure.com>,MIT,47200,SDK for the Slip2Sure slip verification API (Thai bank slips and TrueMoney Wallet)
+2026-11-26T21:34:08Z,maintnote,0.2.0,Thomas King <king@t-king.de>,GPL-3.0-or-later,138115,Python library implementing IETF draft-gunter-calext-maintenance-notifications-00 for machine-parseable iCalendar network maintenance notifications.
+2026-11-26T21:40:20Z,cadskill,0.1.0,,,709040,"3D CAD for Claude and Codex: build, inspect and export solid models by writing CadQuery scripts."
+2026-11-26T21:44:04Z,mogs,0.7.0,Agustinus Kristiadi,MIT,696068,Build Gradescope autograders from marimo notebooks.
+2026-11-26T21:47:58Z,tokenbench,2.1.0,TokenBench,MIT,23375,Zero-dependency local GPU VRAM & LLM compatibility checker with Ollama and vLLM launch commands
+2026-11-26T21:51:08Z,ingenium,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,5979,Ingenium
+2026-11-26T21:52:21Z,inovonics-echostream-processor,1.5.1,technochris1,GPL-3.0-only,71070,Reusable transport-free Inovonics EchoStream protocol core with runtime-specific adapters.
+2026-11-26T21:52:35Z,pyfex,0.1.0,,MIT,9294,Lightweight zero-dependency utility to fetch and execute remote Python scripts.
+2026-11-26T21:55:12Z,nolio,0.1.0,,MIT,18033,Cliente de Python para la API de WhatsApp de Nolio (nolio.pe)
+2026-11-26T21:57:41Z,panmind,0.5.0,Anthony Kougkas,Apache-2.0,361301,Behavioral genome for AI agents with drift detection and profile negotiation
+2026-11-26T21:58:01Z,panclip,1.0.0,Anthony Kougkas,Apache-2.0,443086,AI-powered clipboard management MCP server for Claude Code
+2026-11-26T22:05:38Z,eoread,2.0.0,HYGEOS team,Apache-2.0,1979865,Modular implementation of satellite data input/output relying on xarray.
+2026-11-26T22:06:41Z,docker-tiny-mcp,0.1.1,,Apache-2.0,113611,"An MCP server for Docker, over aiohttp-tiny-mcp."
+2026-11-26T22:09:37Z,snodra-messaging-sql,0.5.0,,Apache-2.0,67765,The PostgreSQL and MySQL message store for the Snodra messaging suite.
+2026-11-26T22:09:39Z,snodra-messaging-mongo,0.5.0,,Apache-2.0,46744,The MongoDB message store for the Snodra messaging suite.
+2026-11-26T22:09:44Z,snodra-messaging-kafka,0.5.0,,Apache-2.0,51255,The Kafka event store for the Snodra messaging suite.
+2026-11-26T22:11:44Z,atlarix,15.20.0,Norah Labs,Proprietary,390806952,AI coding agent in your terminal that works with any model
+2026-11-26T22:14:24Z,distillpca,0.1.0,Enrico Shippole,,2208,Add your description here
+2026-11-26T22:15:36Z,xerr,0.1.0,,MIT,84858,"Explain error messages in plain English, with fixes. Offline, zero dependencies, 100+ rules."
+2026-11-26T22:16:23Z,datacircle-mcp,0.1.0,,MIT,22826,MCP Python SDK tools for the Datacircle API: find the best GTM APIs
+2026-11-26T22:19:18Z,tezif,0.0.1,soulmachine <soulmachine@gmail.com>,MIT,1630,Tezif. Name reserved; the product is coming soon. https://tezif.com
+2026-11-26T22:19:20Z,celfu,0.0.1,soulmachine <soulmachine@gmail.com>,MIT,1630,Celfu. Name reserved; the product is coming soon. https://celfu.com
+2026-11-26T22:20:05Z,quantaseal,0.1.0,QuantaSeal <sdk@quantaseal.io>,Apache-2.0,88116,Python SDK for QuantaSeal - Universal Quantum-Safe Security Middleware

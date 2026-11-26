@@ -8,60 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 21:18 UTC
+## Latest list — 2026-11-26 22:20 UTC
 
-New packages created between 2026-11-26 20:21 UTC and 2026-11-26 21:18 UTC.
+New packages created between 2026-11-26 21:18 UTC and 2026-11-26 22:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-26T21-18-48-711173Z.csv)
+[Full CSV](data/new-packages-2026-11-26T22-20-35-653097Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-26 20:22:27 | [nebula-chain-sdk](https://pypi.org/project/nebula-chain-sdk/) | 0.1.0 |  | 8.3 kB | Minimal Python client for the Nebula chain RPC |
-| 2026-11-26 20:22:38 | [dramaapi](https://pypi.org/project/dramaapi/) | 0.1.0 | DramaAPI | 11.6 kB | Python client for DramaAPI: search 20+ short-drama platforms (DramaBox, ReelSho… |
-| 2026-11-26 20:26:09 | [pinchana-core](https://pypi.org/project/pinchana-core/) | 26.11.17 |  | 44.0 kB | Shared models, storage, and VPN controller for scraper services |
-| 2026-11-26 20:27:07 | [pinchana-bluesky](https://pypi.org/project/pinchana-bluesky/) | 26.11.17 |  | 13.0 kB | Public Bluesky post scraper for Pinchana |
-| 2026-11-26 20:27:12 | [pinchana-apple-music](https://pypi.org/project/pinchana-apple-music/) | 26.11.17 |  | 15.3 kB | Apple Music track downloader for Pinchana |
-| 2026-11-26 20:28:44 | [pysdic-blender](https://pypi.org/project/pysdic-blender/) | 1.1.0 | Artezaru <artezaru.github@pro… | 96.0 kB | Rendering of synthetic images for pysdic (stereo digital image correlation) wit… |
-| 2026-11-26 20:29:08 | [jenkins-lint](https://pypi.org/project/jenkins-lint/) | 0.0.1 | Xianpeng Shen | 4.0 kB | Future name of jenkinsfilelint, a Jenkinsfile linter. This release installs jen… |
-| 2026-11-26 20:29:32 | [pinchana-coub](https://pypi.org/project/pinchana-coub/) | 26.11.17 |  | 18.6 kB | Coub scraper service for Pinchana |
-| 2026-11-26 20:29:34 | [xpenvo](https://pypi.org/project/xpenvo/) | 0.1.0 | Xpenvo <agents@xpenvo.com> | 14.5 kB | Hard spending limits for AI agents: helpers for the Xpenvo Agents proxy (OpenAI… |
-| 2026-11-26 20:30:01 | [foragent](https://pypi.org/project/foragent/) | 0.1.0 | "SJK Systems, Inc." <support@… | 79.7 kB | Private phone numbers that let AI agents call and collaborate across any setup,… |
-| 2026-11-26 20:31:07 | [pinchana-inst](https://pypi.org/project/pinchana-inst/) | 26.11.17 |  | 31.1 kB | Instagram scraper plugin for Pinchana |
-| 2026-11-26 20:31:07 | [pinchana-shorts](https://pypi.org/project/pinchana-shorts/) | 26.11.17 |  | 15.4 kB | YouTube Shorts scraper service |
-| 2026-11-26 20:31:10 | [pinchana-deezer](https://pypi.org/project/pinchana-deezer/) | 26.11.17 |  | 11.5 kB | Deezer music downloader for Pinchana |
-| 2026-11-26 20:31:30 | [dip-practicals-kit](https://pypi.org/project/dip-practicals-kit/) | 0.1.0 | DIP Practicals | 36.1 kB | Generates all Digital Image Processing (DIP) syllabus practical programs into a… |
-| 2026-11-26 20:32:35 | [pinchana-spotify](https://pypi.org/project/pinchana-spotify/) | 26.11.17 |  | 12.1 kB | Spotify music downloader for Pinchana |
-| 2026-11-26 20:32:36 | [pinchana-soundcloud](https://pypi.org/project/pinchana-soundcloud/) | 26.11.17 |  | 9.8 kB | SoundCloud music downloader for Pinchana |
-| 2026-11-26 20:32:37 | [pinchana-threads](https://pypi.org/project/pinchana-threads/) | 26.11.17 |  | 31.2 kB | Threads (Meta) scraper plugin for Pinchana |
-| 2026-11-26 20:33:42 | [pinchana-ytgroups](https://pypi.org/project/pinchana-ytgroups/) | 26.11.17 |  | 13.4 kB | Optimized YouTube videos for Pinchana Telegram groups |
-| 2026-11-26 20:33:44 | [pinchana-twitter](https://pypi.org/project/pinchana-twitter/) | 26.11.17 |  | 27.1 kB | Twitter/X scraper plugin for Pinchana |
-| 2026-11-26 20:33:45 | [sphinx-doorstop](https://pypi.org/project/sphinx-doorstop/) | 0.0.1 | M.J.W. Snippe | 13.7 kB | A Sphinx extension allowing to include Doorstop documents and items in your Sph… |
-| 2026-11-26 20:33:46 | [pinchana-tiktok](https://pypi.org/project/pinchana-tiktok/) | 26.11.17 |  | 51.0 kB | TikTok scraper service |
-| 2026-11-26 20:34:58 | [pinchana-ytmusic](https://pypi.org/project/pinchana-ytmusic/) | 26.11.17 |  | 9.5 kB | YouTube Music downloader for Pinchana |
-| 2026-11-26 20:36:00 | [pinchana-scraper](https://pypi.org/project/pinchana-scraper/) | 26.11.17 |  | 10.0 kB | One Python package for importing all Pinchana scrapers |
-| 2026-11-26 20:37:05 | [iq-stream](https://pypi.org/project/iq-stream/) | 0.1.0 | Neuron Core | 86.9 kB | Python client for the IQ-Stream server: publish an agent's answer to browsers o… |
-| 2026-11-26 20:38:25 | [bankstatementparser-loader-bacs](https://pypi.org/project/bankstatementparser-loader-bacs/) | 0.0.35 | Sebastien Rousseau | 27.7 kB | BACS Standard 18 / Faster Payments UK banking statement loader for bankstatemen… |
-| 2026-11-26 20:38:29 | [bankstatementparser-loader-cfonb](https://pypi.org/project/bankstatementparser-loader-cfonb/) | 0.0.35 | Sebastien Rousseau | 32.4 kB | French CFONB 120 / AFB120 fixed-width banking statement loader for bankstatemen… |
-| 2026-11-26 20:38:29 | [vibee-live](https://pypi.org/project/vibee-live/) | 0.1.0 | Flieber | 147.4 kB | Brings a person's own agent into a product: pushed events become turns in their… |
-| 2026-11-26 20:38:32 | [bankstatementparser-loader-camt054](https://pypi.org/project/bankstatementparser-loader-camt054/) | 0.0.35 | Sebastien Rousseau | 31.2 kB | ISO 20022 CAMT.054 Bank-to-Customer Debit/Credit Notification loader for bankst… |
-| 2026-11-26 20:38:58 | [terminalmsg](https://pypi.org/project/terminalmsg/) | 1.0.0 | AltayHR, Turkhackteam.org | 257.1 kB | Terminal için uçtan uca şifreli mesajlaşma, gruplar, Kod Bulutu ve yapay zeka a… |
-| 2026-11-26 20:39:25 | [pyocr-toolkit](https://pypi.org/project/pyocr-toolkit/) | 0.3.0 | utkarsh5026 | 306.6 kB | Inspect and compare PDF/image text extraction - native text, Tesseract OCR and… |
-| 2026-11-26 20:43:07 | [zynx](https://pypi.org/project/zynx/) | 1.0.0 | Your Name | 4.8 kB | My personal Python library |
-| 2026-11-26 20:43:31 | [litellm-neomundi](https://pypi.org/project/litellm-neomundi/) | 0.1.0 | Sebastien FAVRE <sebastien@ne… | 34.1 kB | Measure every completion that goes through LiteLLM with the NeoMundi measuremen… |
-| 2026-11-26 20:44:14 | [iq-stream-agno](https://pypi.org/project/iq-stream-agno/) | 0.1.0 | Neuron Core | 64.3 kB | Publish Agno agent, team and workflow runs to browsers through an IQ-Stream ser… |
-| 2026-11-26 20:44:42 | [pancite](https://pypi.org/project/pancite/) | 0.3.0 | Anthony Kougkas | 487.0 kB | Evidence-backed scholarly discovery and citation tools for MCP, from open metad… |
-| 2026-11-26 20:47:03 | [zerya-discord-mcp](https://pypi.org/project/zerya-discord-mcp/) | 1.1.0 | Zerya | 207.2 kB | Permission-aware search over your Discord history for Claude and other AI agent… |
-| 2026-11-26 20:47:56 | [iq-stream-crewai](https://pypi.org/project/iq-stream-crewai/) | 0.1.0 | Neuron Core | 60.5 kB | Publish a CrewAI run to browsers through an IQ-Stream server, as AG-UI events o… |
-| 2026-11-26 20:49:58 | [geomaster](https://pypi.org/project/geomaster/) | 0.0.1 | Greenstone Energy | 7.8 kB | Python tools for geosteering and well data from GeoMaster: survey calculations,… |
-| 2026-11-26 20:51:31 | [iq-stream-haystack](https://pypi.org/project/iq-stream-haystack/) | 0.1.0 | Neuron Core | 73.4 kB | Publish Haystack agent and pipeline runs to browsers through an IQ-Stream server |
-| 2026-11-26 20:53:39 | [guelmimcq](https://pypi.org/project/guelmimcq/) | 0.1.0 | GuelmimCQ Team | 17.5 kB | Fast, interactive terminal-based MCQ client with built-in telemetry. |
-| 2026-11-26 20:54:51 | [khipu-weave](https://pypi.org/project/khipu-weave/) | 0.1.0 |  | 344.0 kB | Configurable LLM-assisted cleaning of tabular data |
-| 2026-11-26 20:55:59 | [redis-adbc-integrations](https://pypi.org/project/redis-adbc-integrations/) | 0.0.31 |  | 55.2 kB | Optional framework adapters for the Redis ADBC driver |
-| 2026-11-26 20:57:26 | [iq-stream-langchain](https://pypi.org/project/iq-stream-langchain/) | 0.1.0 | Neuron Core | 67.5 kB | Publish a LangGraph or LangChain agent run to browsers through an IQ-Stream ser… |
-| 2026-11-26 20:58:19 | [jenkins-lint-engine](https://pypi.org/project/jenkins-lint-engine/) | 0.0.1 | Xianpeng Shen | 4.0 kB | Future name of jenkinsfilelint-engine, the offline engine of jenkins-lint. This… |
-| 2026-11-26 20:58:20 | [shrink-mcp](https://pypi.org/project/shrink-mcp/) | 0.4.2 | humer90000 | 40.3 kB | Fewer tokens for coding agents. Shrink git diffs, test logs, and repo trees. MC… |
-| 2026-11-26 21:01:04 | [iq-stream-llamaindex](https://pypi.org/project/iq-stream-llamaindex/) | 0.1.0 | Neuron Core | 57.7 kB | Publish LlamaIndex workflow and agent runs to browsers through an IQ-Stream ser… |
-| 2026-11-26 21:13:01 | [lex1dx](https://pypi.org/project/lex1dx/) | 0.1.1 | N. Sriram | 2.2 MB | Fast 1-D k-means with a 0.01% relative-excess-SSE tolerance |
-| 2026-11-26 21:13:22 | [tracegram](https://pypi.org/project/tracegram/) | 0.1.0 | Sjoerd Vink | 1.1 MB | A grammar of agent processes, with declarative views compiled to Vega. |
-| 2026-11-26 21:14:16 | [aamio-tcp](https://pypi.org/project/aamio-tcp/) | 0.1.0 | AI SENSE AS | 39.5 kB | aamio over TCP: a transport under contract 3 between a side that listens and a… |
-| 2026-11-26 21:14:19 | [aamio-sim-radio](https://pypi.org/project/aamio-sim-radio/) | 0.1.0 | AI SENSE AS | 16.6 kB | A simulated radio for aamio: a transport under contract 3 over UDP on 127.0.0.1… |
+| 2026-11-26 21:19:00 | [frankensettings](https://pypi.org/project/frankensettings/) | 0.1.0 | non7top | 39.7 kB | Keep one settings.json in sync between a public template and a private live fil… |
+| 2026-11-26 21:20:19 | [raystorm](https://pypi.org/project/raystorm/) | 0.1.0 | Ayudh Inc. | 38.4 kB | Command line for the Raystorm cloud render farm: upload a scene, submit a rende… |
+| 2026-11-26 21:23:51 | [mlflow-neomundi](https://pypi.org/project/mlflow-neomundi/) | 0.1.0 | Sebastien FAVRE <sebastien@ne… | 43.7 kB | Measure the model calls MLflow already traces with the NeoMundi measurement API |
+| 2026-11-26 21:26:53 | [kneepad](https://pypi.org/project/kneepad/) | 0.3.0 |  | 258.5 kB | Local safety layer for AI coding agents on Linux, macOS and Windows: blocks or… |
+| 2026-11-26 21:27:25 | [postloom](https://pypi.org/project/postloom/) | 0.1.0 | Dr. Mahdi Habibi | 3.1 MB | A private, local-first memory of your LinkedIn articles, posts, comments and th… |
+| 2026-11-26 21:28:48 | [giantlayers](https://pypi.org/project/giantlayers/) | 0.1.0a1 |  | 1.2 MB | Experimental spherical LTE model atmospheres for cool giant stars |
+| 2026-11-26 21:29:50 | [ak-sqlite3](https://pypi.org/project/ak-sqlite3/) | 0.1.0 | dapk | 13.9 kB | SQLite database wrapper class for managing structured data storage with JSON se… |
+| 2026-11-26 21:31:37 | [slip2sure](https://pypi.org/project/slip2sure/) | 2.0.1 | Slip2Sure Team <dev@slip2sure… | 47.2 kB | SDK for the Slip2Sure slip verification API (Thai bank slips and TrueMoney Wall… |
+| 2026-11-26 21:34:08 | [maintnote](https://pypi.org/project/maintnote/) | 0.2.0 | Thomas King <king@t-king.de> | 138.1 kB | Python library implementing IETF draft-gunter-calext-maintenance-notifications-… |
+| 2026-11-26 21:40:20 | [cadskill](https://pypi.org/project/cadskill/) | 0.1.0 |  | 709.0 kB | 3D CAD for Claude and Codex: build, inspect and export solid models by writing… |
+| 2026-11-26 21:44:04 | [mogs](https://pypi.org/project/mogs/) | 0.7.0 | Agustinus Kristiadi | 696.1 kB | Build Gradescope autograders from marimo notebooks. |
+| 2026-11-26 21:47:58 | [tokenbench](https://pypi.org/project/tokenbench/) | 2.1.0 | TokenBench | 23.4 kB | Zero-dependency local GPU VRAM & LLM compatibility checker with Ollama and vLLM… |
+| 2026-11-26 21:51:08 | [ingenium](https://pypi.org/project/ingenium/) | 0.0.1 | Machina Ratiocinatrix <machin… | 6.0 kB | Ingenium |
+| 2026-11-26 21:52:21 | [inovonics-echostream-processor](https://pypi.org/project/inovonics-echostream-processor/) | 1.5.1 | technochris1 | 71.1 kB | Reusable transport-free Inovonics EchoStream protocol core with runtime-specifi… |
+| 2026-11-26 21:52:35 | [pyfex](https://pypi.org/project/pyfex/) | 0.1.0 |  | 9.3 kB | Lightweight zero-dependency utility to fetch and execute remote Python scripts. |
+| 2026-11-26 21:55:12 | [nolio](https://pypi.org/project/nolio/) | 0.1.0 |  | 18.0 kB | Cliente de Python para la API de WhatsApp de Nolio (nolio.pe) |
+| 2026-11-26 21:57:41 | [panmind](https://pypi.org/project/panmind/) | 0.5.0 | Anthony Kougkas | 361.3 kB | Behavioral genome for AI agents with drift detection and profile negotiation |
+| 2026-11-26 21:58:01 | [panclip](https://pypi.org/project/panclip/) | 1.0.0 | Anthony Kougkas | 443.1 kB | AI-powered clipboard management MCP server for Claude Code |
+| 2026-11-26 22:05:38 | [eoread](https://pypi.org/project/eoread/) | 2.0.0 | HYGEOS team | 2.0 MB | Modular implementation of satellite data input/output relying on xarray. |
+| 2026-11-26 22:06:41 | [docker-tiny-mcp](https://pypi.org/project/docker-tiny-mcp/) | 0.1.1 |  | 113.6 kB | An MCP server for Docker, over aiohttp-tiny-mcp. |
+| 2026-11-26 22:09:37 | [snodra-messaging-sql](https://pypi.org/project/snodra-messaging-sql/) | 0.5.0 |  | 67.8 kB | The PostgreSQL and MySQL message store for the Snodra messaging suite. |
+| 2026-11-26 22:09:39 | [snodra-messaging-mongo](https://pypi.org/project/snodra-messaging-mongo/) | 0.5.0 |  | 46.7 kB | The MongoDB message store for the Snodra messaging suite. |
+| 2026-11-26 22:09:44 | [snodra-messaging-kafka](https://pypi.org/project/snodra-messaging-kafka/) | 0.5.0 |  | 51.3 kB | The Kafka event store for the Snodra messaging suite. |
+| 2026-11-26 22:11:44 | [atlarix](https://pypi.org/project/atlarix/) | 15.20.0 | Norah Labs | 390.8 MB | AI coding agent in your terminal that works with any model |
+| 2026-11-26 22:14:24 | [distillpca](https://pypi.org/project/distillpca/) | 0.1.0 | Enrico Shippole | 2.2 kB | Add your description here |
+| 2026-11-26 22:15:36 | [xerr](https://pypi.org/project/xerr/) | 0.1.0 |  | 84.9 kB | Explain error messages in plain English, with fixes. Offline, zero dependencies… |
+| 2026-11-26 22:16:23 | [datacircle-mcp](https://pypi.org/project/datacircle-mcp/) | 0.1.0 |  | 22.8 kB | MCP Python SDK tools for the Datacircle API: find the best GTM APIs |
+| 2026-11-26 22:19:18 | [tezif](https://pypi.org/project/tezif/) | 0.0.1 | soulmachine <soulmachine@gmai… | 1.6 kB | Tezif. Name reserved; the product is coming soon. https://tezif.com |
+| 2026-11-26 22:19:20 | [celfu](https://pypi.org/project/celfu/) | 0.0.1 | soulmachine <soulmachine@gmai… | 1.6 kB | Celfu. Name reserved; the product is coming soon. https://celfu.com |
+| 2026-11-26 22:20:05 | [quantaseal](https://pypi.org/project/quantaseal/) | 0.1.0 | QuantaSeal <sdk@quantaseal.io> | 88.1 kB | Python SDK for QuantaSeal - Universal Quantum-Safe Security Middleware |
