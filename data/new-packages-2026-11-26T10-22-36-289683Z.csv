@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T09:19:56Z,wrasse,1.0.0b1,Jiaming Shi,"MIT License Copyright (c) 2026 Jiaming Shi Permission is hereby granted, free of charge, to any per…",193575,"Security audit for AI-written code — deterministic, offline, no API key."
+2026-11-26T09:22:59Z,colibri-artifacts,0.1.0,,,20979,Command-line client for the Colibri Artifacts repository
+2026-11-26T09:23:24Z,foxtana,0.1.0,JOSFOX LLC,Apache-2.0,5290,"Native .jos AI CLI, stdio MCP server, and Agent2Agent contract runner for JOSFOX Cloud."
+2026-11-26T09:23:25Z,josfox,0.1.0,JOSFOX LLC,Apache-2.0,3336,"Account, vault kickoff, and Jost onboarding CLI for JOSFOX Cloud and .jos environments."
+2026-11-26T09:25:41Z,yeaply,0.1.0,LOUMI Education LLC,MIT,34693,"Ask a person for a decision on their phone, end to end encrypted. One call."
+2026-11-26T09:28:42Z,etas,4.0.0,"Leila Mizrahi <leila.mizrahi@sed.ethz.ch>, Nicolas Schmid <nicolas.schmid@sed.ethz.ch>",MIT,14565384,"Epidemic-Type Aftershock Sequence (ETAS) model: inversion, simulation, forecasting"
+2026-11-26T09:29:19Z,cineforge,0.2.0,Sandip Mandal,Apache-2.0,25643236,"Autonomous AI Film & Video Production Platform with CLI, MCP Server, and Backlot Studio"
+2026-11-26T09:33:14Z,robofacts,0.1.1,Alejandro Lorite Mora,Apache-2.0,746424,"RoboFACTS, declarative experiment design for robot trials: campaigns, a T-0 gate, a runner, a coverage index, a linter and named analyses. Python only: a backend package supplies how a stack starts a…"
+2026-11-26T09:37:57Z,govmc-cli,0.1.0,,MIT,47620333,"Go CLI, TUI, MCP and local VMware management workbench"
+2026-11-26T09:37:58Z,dots-esdl-decorator,1.0.1,"Leo van Schooten <l.g.t.v.schooten@tue.nl>, Gijs Verhoeven <g.verhoeven.1@tue.nl>",MIT,44557,"ESDL decorator CLI to add weather, markets and assets to an ESDL file"
+2026-11-26T09:39:45Z,kestrelx,0.0.1,,,12225965,"Scenario-agnostic agent core for Python, backed by Rust"
+2026-11-26T09:40:57Z,eett-utils,0.1.3,,,3317,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-26T09:42:24Z,sqlmesh-observability,0.1.0a2,,Apache-2.0,230905,Elementary-style data observability for SQLMesh projects
+2026-11-26T09:42:34Z,strim-labs,0.1.0,STRIM Labs Team,MIT,10777,"STRIM Labs telemetry and runtime API discovery middleware for Python (FastAPI, Flask, Starlette)"
+2026-11-26T09:43:14Z,test-package-raf,1.0.0,Test Package,LicenseRef-Test-License-1.0,3158,Test package for license metadata discovery.
+2026-11-26T09:43:47Z,louis-py,0.1.0,,LGPL-2.1-or-later,7102641,Python bindings for the louis-rs braille translator
+2026-11-26T09:44:21Z,fikus,0.2.0,Autorzy projektu Fikus,Apache-2.0 AND CC-BY-4.0,449084,"Wersjonowane parametry przepisów dla JDG w Polsce, udostępniane przez MCP"
+2026-11-26T09:45:43Z,denowrap,1.0.0,EBalle7,MIT,62559427,Lightweight helpers for wrapping Deno runtime artifacts from Python.
+2026-11-26T09:46:03Z,audio-prom,0.9.2,,,493212,预编译的语音增强运行时，模型由调用方自行提供
+2026-11-26T09:49:53Z,hackfloor,0.2.0,Ranjeet Dhumal <ranjeetrdhumal@gmail.com>,Apache-2.0,144644,Prove that agents which don't solve the task can't score: adversarial probes for RL environment graders and agent benchmarks.
+2026-11-26T09:51:08Z,dotjos,0.1.0,JOSFOX LLC,Apache-2.0,15209,"Official .jos (JSON Operating System) Python CLI & MCP server: validate, normalize, run .jos atoms/flows, verify hash-chained ledgers, and serve MCP over stdio."
+2026-11-26T09:51:10Z,josctl,0.1.0,JOSFOX LLC,Apache-2.0,14987,Control CLI & MCP server for .jos (JSON Operating System) in Python — companion to @josfox/josctl.
+2026-11-26T09:51:21Z,apexgrid,1.0.0,,MIT,563633,Formula 1 race outcome prediction engine using FastF1 telemetry and Monte Carlo simulation
+2026-11-26T09:53:03Z,personal-work-dashboard,1.0.2,Aditya Nair,MIT,182659,"A local day / week / month view of your own git commits, plus a current-tasks board your AI agent keeps in sync."
+2026-11-26T09:54:53Z,cellppdmod2,2.0.0,"""Raghava's Group, Department of Computational Biology, IIIT-Delhi"" <raghava@iiitd.ac.in>","CellPPD-MOD 2.0 Copyright (c) 2026 Raghava's Group, Department of Computational Biology, Indraprast…",2126795,"Prediction and design of cell-penetrating peptides containing natural, chemically modified and non-natural residues"
+2026-11-26T09:54:57Z,sanititext,1.0.0,SanitiText Engineering,MIT,20125,Official Python client for SanitiText sub-millisecond edge moderation and username defense API.
+2026-11-26T09:57:11Z,emoge,0.1.1,coredegon,0BSD,44935,"Research packages: fuzzy color models, and more to come."
+2026-11-26T09:58:50Z,yfinance-agent-mcp,0.1.0,Nikolay Kostadinov,MIT,102897,"Read-only yfinance MCP server for AI trading-research agents: quotes, price history, news, screeners, fundamentals, options and live prices."
+2026-11-26T10:02:19Z,PostBOUND-Playground,0.1.0,,GPL-3.0-or-later,573373,"A curated collection of interesting and novel ideas in query optimization for relational database systems, implemented using the PostBOUND framework."
+2026-11-26T10:02:40Z,diffdesk,0.1.1,,MIT AND OFL-1.1,1304235,"Local, file-based review desk for commits made by agents or people"
+2026-11-26T10:05:43Z,checkcases,0.1.0,PyChallenge,MIT,10711,Check a Python function against example inputs with clear pass/fail output. Handy for practice exercises.
+2026-11-26T10:06:51Z,drift-dev-env,0.1.0,,Apache-2.0,70577,Track changes in local development environments.
+2026-11-26T10:07:41Z,licenserail,0.1.0,Codeo Solutions Limited,MIT,21373,"LicenseRail client SDK: offline license verification, activation, refresh, floating leases and the management API."
+2026-11-26T10:09:28Z,ask-yi-i-ching,2.0.0,manpo <manpo@askyi.app>,MIT AND CC-BY-4.0,65706,"The I Ching in Chinese and English (The Ask Yi I Ching, translated by manpo) as data, with a three-coin cast."
+2026-11-26T10:10:28Z,aiohikvision,0.1.0,Webysther Sperandio,Apache-2.0,273530,"Asyncio library for Hikvision devices: ISAPI (cameras, recorders, door stations) and the SIP calls of door stations"
+2026-11-26T10:11:27Z,jig3d,0.1.2,,GPL-3.0-or-later,188197,Agent-native procedural 3D solid & SubD modelling library and visual workshop for deterministic glTF 2.0 (.glb) meshes
+2026-11-26T10:11:47Z,defog-adapt,0.1.0,Jonas Teufel <jonseb1998@gmail.com>,MIT,3153743,"Frozen-base adapters, Feynman-Kac steering and RL fine-tuning for DeFoG discrete flow matching on graphs (molecules)."
+2026-11-26T10:11:55Z,dace-tactics,0.1.2,Yakup Budanaz <ybudanaz@ethz.ch>,GPL-3.0-or-later,950504,"Reproducible transformation-based agents and a harness for DaCe: tactics applied as legal moves, replayed as recipes."
+2026-11-26T10:16:08Z,geki-tunnel,0.1.2,,MIT,5575147,The GEKI tunnel agent: reach services on localhost of a server
+2026-11-26T10:19:01Z,agent-stoploss,1.0.0,Nataliya Agafonova,Apache-2.0,135561,Stop AI agents from burning tokens on broken tools.
+2026-11-26T10:20:14Z,aeronet-oc-db,1.2.1,,Apache-2.0,155578,"AERONET-OC version 3 database: download, update, netCDF/Parquet conversion and readers for satellite validation"
+2026-11-26T10:21:32Z,sqlanswer,0.1.0,SQLCrab,MIT,14814,Print SQL results as clean tables and check if two queries return the same rows. Handy for SQL practice.
+2026-11-26T10:21:50Z,powerbi-metrics-book,0.1.0,,Apache-2.0,271520,"The pbmb command for Power BI Metrics Book: read the book, run queries and administer a deployment."
