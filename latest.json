@@ -1,48 +1,34 @@
 {
   "list": {
-    "count": 34,
-    "from": "2026-11-26T10:22:36.289683Z",
-    "path": "data/new-packages-2026-11-26T11-19-04-606527Z.csv",
-    "to": "2026-11-26T11:19:04.606527Z"
+    "count": 39,
+    "from": "2026-11-26T11:19:04.606527Z",
+    "path": "data/new-packages-2026-11-26T12-18-52-652704Z.csv",
+    "to": "2026-11-26T12:18:52.652704Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-26T11:16:49Z",
-      "package": "arq-rs-worker",
-      "since": "2026-11-26T10:22:36.289683Z",
+      "created_at": "2026-11-26T11:37:10Z",
+      "package": "aetiocore-sem",
+      "since": "2026-11-26T11:19:04.606527Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-26T07:50:03Z",
-      "package": "cubepath",
-      "since": "2026-11-26T07:18:45.476785Z",
-      "version": "99.0.2"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-26T09:19:38Z",
       "package": "esdl-scenario-decorator",
       "since": "2026-11-26T09:18:48.779468Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-26T10:55:15Z",
       "package": "lfs-stripe",
       "since": "2026-11-26T10:22:36.289683Z",
       "version": "1.0.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-26T07:25:48Z",
-      "package": "oisigma-calibration",
-      "since": "2026-11-26T07:18:45.476785Z",
-      "version": "0.1.0"
     }
   ],
-  "serial": 44200586,
+  "serial": 44202872,
   "source_truncated": false,
-  "window": "2026-11-26T11:19:04.606527Z"
+  "window": "2026-11-26T12:18:52.652704Z"
 }
