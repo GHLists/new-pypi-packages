@@ -1,0 +1,67 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T13:19:34Z,llama-index-tools-webrouter,0.1.0,Nimble,Apache-2.0,16922,"LlamaIndex tool spec for WebRouter: keyless web search and page extraction, routed across providers."
+2026-11-26T13:19:45Z,intellio,0.1.0,Intellio Team,,61566,Official Intellio Python SDK
+2026-11-26T13:19:46Z,quarky-intellio,0.1.0,Intellio Team,,61723,Official Intellio Python SDK
+2026-11-26T13:19:49Z,dentindices,1.0.0,Hossein Boustani Hezarani,MIT,184585,"Oral-health epidemiology indices with cited, tested rules: DMFT/DMFS (WHO 2013), SiC/SaC, PUFA, BPE, CPITN, CPI, BEWE, plaque and gingival indices, OHI-S, Dean/CFI, DAI, and CDC/AAP and ACES (2018 cl…"
+2026-11-26T13:19:55Z,pkstat,0.1.0,pkstat,MIT,33106,Reference code templates and study notes for Python data analysis and supervised machine learning.
+2026-11-26T13:20:37Z,novakit,0.1.0,bigrivi,Apache-2.0,367196,"Embeddable Python runtime for LLM agents, tools, events, and conversations."
+2026-11-26T13:22:41Z,wattnet-client,1.0.0,Jaime Iglesias Blanco,Apache-2.0,75614,"Official Python client for the wattnet API: electricity generation, load, and carbon and water footprint data as pandas DataFrames"
+2026-11-26T13:22:49Z,rag-with-oag,0.2.0,Sami Özsoy,MIT,1652758,"RAG, ontology-augmented generation (OAG) and hybrid retrieval over a single FalkorDB graph."
+2026-11-26T13:22:52Z,import-validate,2.0,Wouter Abels <wouter.abels@rws.nl>,,45898,Package to validate and check AquaDesk importdata
+2026-11-26T13:22:53Z,moroccokit,0.1.0,Mohamed Salim Boukhari,MIT,21141,"Small, dependency-free helpers for Moroccan data: phone numbers, CIN, RIB/IBAN, MAD amounts (in figures and in French words) and regions."
+2026-11-26T13:25:13Z,small-text-mmo-engine,0.41.1,,Apache-2.0,1372964,"A minimal, hackable text-based MMORPG engine with an ML agent stack."
+2026-11-26T13:26:23Z,uvraster,0.1.0,,MIT,23764,Render textured 2D triangle meshes to an RGBA image
+2026-11-26T13:26:29Z,textcase-b11200055,0.1.0,textcase_b11200055 contributors,MIT,28019,Zero-dependency Python library and CLI for text case transformations (文字大小寫變換工具)
+2026-11-26T13:28:37Z,pyrolisten,0.1.0,Maharam Ali Khan <psupdates74@gmail.com>,MIT,11385,"listen() and ask() for Pyrogram, Kurigram and other Pyrogram forks"
+2026-11-26T13:29:45Z,gpt-researcher-webrouter,0.1.0,Nimble,Apache-2.0,18507,"GPT Researcher retriever plugin for WebRouter: keyless web search, routed across providers."
+2026-11-26T13:31:22Z,adblane,0.1.0,,MIT,49437,Cancellable ADB sessions with bounded reads and foreground/background scheduling
+2026-11-26T13:31:40Z,foldjet-engine-kernels-sm90-cu129,1.0.0,,MIT AND Apache-2.0 AND BSD-3-Clause,102998347,foldjet-engine prebuilt kernels for sm90-cu129 (H100; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by foldjet-engine==1.0.0
+2026-11-26T13:32:03Z,foldjet-engine-kernels-sm80-cu129,1.0.0,,MIT AND Apache-2.0 AND BSD-3-Clause,34064497,foldjet-engine prebuilt kernels for sm80-cu129 (A100; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by foldjet-engine==1.0.0
+2026-11-26T13:32:15Z,probate-court-checks,0.2.1,Harsh Bhanushali <bhanushaliharsh434@gmail.com>,MIT,32458,"Deterministic, dependency-free text checks that flag likely prompt-injection and memory-poisoning in agent inboxes and memories."
+2026-11-26T13:32:29Z,foldjet-engine-kernels-sm120-cu129,1.0.0,,MIT AND Apache-2.0 AND BSD-3-Clause,35933782,"foldjet-engine prebuilt kernels for sm120-cu129 (RTX 5090, sm_120a; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by foldjet-engine==1.0.0"
+2026-11-26T13:32:43Z,probate-memory-court,0.2.1,Harsh Bhanushali <bhanushaliharsh434@gmail.com>,MIT,69813,"Memory with a court, for any AI agent: an MCP server that puts every memory on trial before it is saved, so a poisoned one is never remembered."
+2026-11-26T13:32:47Z,probate-client,0.1.1,Harsh Bhanushali <bhanushaliharsh434@gmail.com>,MIT,19968,Typed sync and async client for the Probate Courthouse public API.
+2026-11-26T13:32:50Z,foldjet-engine,1.0.0,,MIT AND Apache-2.0 AND BSD-3-Clause,14188690,"CUDA / Triton kernels for AlphaFold3-style modules on H100, A100, RTX 5090 and B200 (prebuilt kernels wheels), with a PyTorch reference backend per module, FP8 routes, accuracy and speed measurers, a…"
+2026-11-26T13:33:39Z,awpermit,0.2.0,,Apache-2.0,67051,"Let an agent through your door with a scope, a spend cap, and someone accountable — Ed25519 permits a platform verifies offline."
+2026-11-26T13:34:17Z,proteus2py,0.1.0,DontforgetAntaiku,MIT,898353,"Script Proteus 8 from Python and AI assistants: headless ProSPICE simulation (SPICE decks, OP/AC/transient/DC/noise), Proteus's own graphs and screenshots, MCP server. Linux (sandboxed Wine)."
+2026-11-26T13:36:56Z,bmailu,0.1.0,,MIT,19194,Official Python SDK for the Bmailu Email API
+2026-11-26T13:38:04Z,eed-gym,1.1.0,,MIT,69319,"EED Gym: a Gymnasium benchmark for calibrated, empathic refusal in human-robot interaction"
+2026-11-26T13:38:19Z,netinfra-free100bonus-master-1bdbe,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,9301,Technical network verification and high-availability endpoint registry for Free100Bonus-Master-Blast-2026
+2026-11-26T13:39:34Z,vbot-api,1.0.0,VBot <vexify@yeah.net>,MIT,9959,Zero-dependency Python client for the VBot API at api.vbot.de5.net
+2026-11-26T13:44:32Z,laifen-ble,0.1.0,Jakub Znamenáček,MIT,15988,Bluetooth LE library for Laifen Wave electric toothbrushes
+2026-11-26T13:44:59Z,scrapy-spider-monitor,0.1.0,,MIT,12380,Scrapy extension that records per-field fill rates in job stats for Spider Monitor.
+2026-11-26T13:46:11Z,velochem,1.0.0,,,14961151,CPU inference for the VeloChem 100-endpoint molecular model
+2026-11-26T13:47:04Z,odoo-addon-shopfloor-release-channel-split,16.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,22800,This module is a glue module between shopfloor and stock_release_channel module in order to keep release channel on a picking in the split flow
+2026-11-26T13:47:59Z,claude-lb,0.7.0,claude-lb contributors,MIT,16904209,"Anthropic API key load balancer & proxy with usage tracking, rate-limit-aware routing, and a dashboard"
+2026-11-26T13:48:18Z,harness2-cli-t,0.1.0,"Google LLC, The Harness2 Authors",Apache-2.0,415326,Independent distribution of the Harness² CLI for tuning coding agents on your own tasks
+2026-11-26T13:48:29Z,usif,1.0.0,"""haidi@hfut.edu.cn"" <haidi@hfut.edu.cn>",LicenseRef-USIF-NonCommercial,315844,"Exact, compact and queryable storage for atomistic structures"
+2026-11-26T13:49:37Z,masa-scan,1.3.0,Guerfi Ahmed Yacine <ay.guerfi@esi-sba.dz>,MIT,177989,Mobile App Security Analyzer - static security assessment of Android APKs and iOS IPAs with OWASP Mobile Top 10 compliance reporting
+2026-11-26T13:50:03Z,gemini-headless-cli,0.1.0,,Apache-2.0,39153593,Unofficial fork of google-gemini/gemini-api-cli. Not affiliated with Google.
+2026-11-26T13:50:46Z,kintsugi-harness,3.1.1,Tu Nguyen,Apache-2.0,1953988,"Kintsugi Harness v3.1.1 — Zero-dependency Rust & Python security guardrails, 7-Domain Typed Obligation Prover, 80-Entry Low-Tier Pitfall Lexicon (LT-001..LT-080), 9 Signature-Guarded Capsules, Cloud…"
+2026-11-26T13:52:08Z,persforest,0.3.0,Fabian Lenzen,MIT AND BSD-3-Clause,10490824,"Persistence forests, cycle progression barcodes and measurement landscapes for codimension-one persistent homology."
+2026-11-26T13:53:04Z,awbench,0.1.0,,Apache-2.0,120642,"A hard-oracle benchmark for a served model -- no LLM judge, and no comparison across different item sets."
+2026-11-26T13:53:18Z,awcap,0.1.0,,Apache-2.0,53019,"Aither World capabilities: describe a capability once and reach it the same way from CLI, Python, MCP and relay."
+2026-11-26T13:53:18Z,awgov,0.1.8,,Apache-2.0,175897,"The platform's Policy Decision Point for agent tool calls -- allow, deny plus the lane to use instead, or needs-owner."
+2026-11-26T13:54:32Z,lgbm-boost,0.1.0,Kirill Sholokhov,MIT,8840120,High-throughput SIMD batch inference engine for LightGBM models (V-QuickScorer & Tiled Branchless AVX2/AVX-512)
+2026-11-26T13:57:35Z,qciconnect-mcp,0.1.0,"DLR-SC, Thomas Keitzl",Apache-2.0,43707,MCP server exposing the DLR QCI Connect quantum computing platform to LLM agents.
+2026-11-26T13:58:57Z,plainontology,0.1.1,Christopher Furacão,MIT,175275,"Write down the ontology and semantic layer a system already has as one plain text file: editable, diffable, exportable to OWL/SKOS and LinkML, and served to AI agents over MCP."
+2026-11-26T13:59:16Z,invoice-registration-reference,0.1.0,Agorail Labs,Apache-2.0,32374,Offline Python reference verifier for invoice-registration evidence in UCP checkout and order payloads
+2026-11-26T14:00:56Z,israel-tax,1.0.0,Aiterra <info@aiterra.co.il>,MIT,37185,"Israeli tax and payroll calculators for 2026: net salary (מס הכנסה, ביטוח לאומי, מס בריאות, פנסיה), gross from net, VAT 18%, purchase tax (מס רכישה), self-employed tax, severance pay, credit points,…"
+2026-11-26T14:01:05Z,fvs-client,0.1.0,fvs_client contributors,Apache-2.0,160292,Typed Python SDK (sync + async) for the FHIR Validation Service HTTP API.
+2026-11-26T14:01:10Z,israel-bank-branches,1.0.0,Aiterra <info@aiterra.co.il>,MIT,19565,"Israeli bank branches and bank codes from the Bank of Israel open data on data.gov.il: find a branch by bank and branch number, search by city or street, nearest branches, SWIFT codes"
+2026-11-26T14:02:49Z,solarops,0.1.0,Junaid Bashir <junaidbashir392@gmail.com>,MIT,124138,"Offline quality checks, preprocessing, metrics and reports for solar PV power time series"
+2026-11-26T14:03:43Z,readlint,0.3.0,readlint.com,Apache-2.0,205660,Python SDK and command-line client for readlint.com
+2026-11-26T14:04:51Z,meshck,0.1.0,David Straub,MIT,80822,Check and repair triangle meshes (STL) before additive manufacturing
+2026-11-26T14:05:29Z,nnk-tp-canary-poc,0.0.1,,MIT,3121,Content-leak study canary for PyPI trusted-publishing name-reuse test (self-owned).
+2026-11-26T14:07:23Z,rtl-sdr-analyzer,3.0.0b1,"""Alejandro Martín (AMSTech)"" <info@amstech.dev>",MIT,750791,"Real-time RF spectrum analyzer, signal detector, and wideband sweeper by AMSTech"
+2026-11-26T14:09:42Z,lifefrom-units,1.0.0,"LifeFrom, Julian Caraulani",MIT,84046,"Normalise clinical lab unit spellings and convert lab values with sourced, analyte-specific factors."
+2026-11-26T14:10:18Z,github-statistics,0.1.0,The Linux Foundation <mwatkins@linuxfoundation.org>,Apache-2.0,303710,"Daily, visual activity statistics for GitHub organisations and repositories"
+2026-11-26T14:10:41Z,adk-kosa8,0.1.0,kosa8,MIT,40496,kosa8 Cloud microVM sandboxes for Google's Agent Development Kit: a code executor and an MCP toolset
+2026-11-26T14:12:31Z,langchain-aperiodic,0.1.0,Aperiodic,MIT,43801,"An integration package connecting Aperiodic and LangChain: point-in-time market data for perpetual futures on Binance, OKX and Hyperliquid"
+2026-11-26T14:13:29Z,chronon-profiler,0.17.1,Hudson River Trading,MIT,223902631,Out-of-process profiler for Python and native stacks
+2026-11-26T14:15:46Z,usbkey-guard,1.0.0,,MIT,59471,"USB-key-gated AES-GCM vault for Windows (headless, TUI, no GUI)"
+2026-11-26T14:16:53Z,bdiff,0.1.0,Albert Lie,MIT,333908,"What did my fine-tune change? Sample two model versions on the same prompts, have a judge describe the differences, name them as categories, and test each one against a same-model control."
+2026-11-26T14:16:55Z,petroharness,1.2.0,PetroHarness Contributors,CC-BY-4.0,1853392,"Answers petrophysics questions about an interval of a well from its raw LAS: Petrophys calculates, the harness investigates and records, a language model interprets"
+2026-11-26T14:18:37Z,geochip,3.0.0,GeoChip CLI Contributors,MIT,72865,"GeoChip CLI: Interactive geospatial pipeline for multi-satellite imagery ingestion, raster chipping, and Roboflow annotation."
+2026-11-26T14:18:55Z,dagtab-agent,0.1.0,,MIT,73410,Open-source Apache Airflow plugin for DagTab BigQuery cost attribution
+2026-11-26T14:20:26Z,falkin-call-verify,0.1.0,Falkin <support@falkin.com>,Apache-2.0,27221,Canonicalise and hash customer numbers for Falkin's Call Verify API
