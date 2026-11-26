@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T22:22:20Z,spin-colour-kernel,1.5.0,"Carlos Andrés Canamejoy-Alegría, Juan Sebastián Méndez-Rondón, Andrés Marino Álvarez-Meza, Jorge Iv…",MIT,475924,"Exact replica-batched multi-colour Metropolis kernels for classical O(n) spin models on crystals with a basis, generated for GPUs"
+2026-11-26T22:22:53Z,promptready,0.1.0,,MIT,8211,"Empaqueta un repo en un solo .txt limpio y con conteo de tokens, listo para pegar en una IA"
+2026-11-26T22:24:45Z,certiflow-ue,0.1.0,"Yue Li, Shujuan Chen, Ying Jin",MIT,60700,Certified accuracy for user-equilibrium traffic assignment and scheme appraisal
+2026-11-26T22:25:43Z,mckg-build,0.1.0,,"MIT License Copyright (c) 2025 Gabriel Ferrer Permission is hereby granted, free of charge, to any…",45501,Build a SurrealDB knowledge graph from a Minecraft modpack
+2026-11-26T22:25:50Z,bertopic-ja,0.1.2,,MIT,185897,日本語の文書から、どんなトピックが話されているかを探索するための BERTopic。Sudachi でトピック語を分かち書きします。
+2026-11-26T22:27:20Z,osel,0.1.0a1,The OSEL contributors,MIT,63952,"Local-first, reproducible evaluation runs: define, run, record, compare, and check for regressions."
+2026-11-26T22:30:51Z,netherframe.providers.hashicorp.google,8.12.0,,MIT,10169286,NF provider for hashicorp/google
+2026-11-26T22:31:42Z,netherframe.providers.hashicorp.null,3.3.2,,MIT,31236,NF provider for hashicorp/null
+2026-11-26T22:31:45Z,stromacore,0.1.1,,MIT OR Apache-2.0,1137079,Pure-Rust 4-Stratum Tabular & Sequence Engine
+2026-11-26T22:32:46Z,netherframe.providers.hashicorp.random,3.9.1,,MIT,65024,NF provider for hashicorp/random
+2026-11-26T22:36:06Z,nbastat,0.1.1,,MIT,38332,"Python client for the NBA Stat REST API: teams, players, game logs, schedules, scores, box scores, injuries, lineups and DraftKings salaries."
+2026-11-26T22:37:02Z,impacta,0.0.1,Anase Douramane <267314763+AnaseDouramane@users.noreply.github.com>,MIT,81642,Run only the tests your change affects.
+2026-11-26T22:37:12Z,kohaku-mcp,0.1.0,dgtlchika,MIT,22460,A personal MCP server that wraps a private relay REST API as stdio tools (relay_read / relay_post).
+2026-11-26T22:37:30Z,gpusync,0.1.0,"GalTechDev, ThePhoenix78",MIT,18148957,"Write GPU kernels in Python and run them on any GPU (CUDA, Metal, Vulkan, DX12, OpenCL)."
+2026-11-26T22:39:37Z,bankstatementparser-loader-sepa,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,30755,ISO 20022 SEPA PAIN.002 Payment Status & PAIN.008 Direct Debit loader for bankstatementparser.
+2026-11-26T22:39:41Z,bankstatementparser-transport-ebics,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,30863,EBICS 3.0 / 2.5 request builder and statement payload parser for bankstatementparser.
+2026-11-26T22:39:55Z,bankstatementparser-writer-ofx,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,24731,Open Financial Exchange (OFX) structured export writer for bankstatementparser.
+2026-11-26T22:40:19Z,dex-connector-superdurable-email,0.1.1,,MIT,160903,Dex-native IMAP and SMTP email connector
+2026-11-26T22:41:10Z,delaunay-watershed,0.8.0,Turlier lab <virtualembryo@gmail.com>,GPL-3.0-or-later,5331,Geometrical reconstruction of cell assemblies from 3-D and 2-D instance segmentations: installs dw3d and dw2d
+2026-11-26T22:41:46Z,dex-connector-superdurable-llm,0.2.0,,MIT,116995,Super Durable LLM connector for Dex Flows
+2026-11-26T22:41:49Z,pyquickly,0.1.0,foxange <slcfox@foxmail.com>,MIT,168426,"Speed up Python in every direction, starting with deterministic 64-bit primality testing (pure Python + C++ extension)"
+2026-11-26T22:43:14Z,dex-connector-superdurable-oauth2-http,0.2.0,,MIT,119030,Dex-native OAuth 2.0 HTTP connector
+2026-11-26T22:43:31Z,bankstatementparser-writer-qif,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,23283,Quicken Interchange Format (QIF) structured export writer for bankstatementparser.
+2026-11-26T22:43:36Z,bankstatementparser-writer-swift,0.0.35,Sebastien Rousseau,Apache-2.0 OR MIT,24837,SWIFT MT940 and MT942 financial statement exporter for bankstatementparser.
+2026-11-26T22:44:58Z,openai-agents-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,38749,Measure every model call an OpenAI Agents SDK run makes with the NeoMundi measurement API
+2026-11-26T22:45:32Z,vieforge,0.4.1,VieForge Contributors,MIT,828843,"VieForge — Code First, Local LLM Second, Cloud Last. 3-Tier Hybrid AI Agent Harness for checkpointed, budget-guarded local execution."
+2026-11-26T22:50:31Z,archivebox-proxy,0.1.0,,MIT,28220095,Caching proxy with automatic ArchiveBox captures and archive replay
+2026-11-26T22:52:29Z,otel-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,35566,"Measure model calls an application already traces with OpenTelemetry, with the NeoMundi measurement API"
+2026-11-26T22:53:22Z,snodra-messaging-rabbitmq,0.6.0,,Apache-2.0,65814,The RabbitMQ Streams event store for the Snodra messaging suite.
+2026-11-26T22:57:08Z,python-rekor-monitor-dh2591,0.1.0,Dina Himed,MIT,15410,A Python tool for monitoring and verifying Sigstore Rekor transparency log entries
+2026-11-26T22:58:33Z,tarsier-geo,1.0.0rc1,Tarsier Contributors,Apache-2.0,5379796,"Health, statistics, quality, and change history dashboards for geospatial databases."
+2026-11-26T22:58:50Z,agent-tessera-server,0.8.0,Agent Tessera contributors,Apache-2.0,1548913,Control plane server for Agent Tessera.
+2026-11-26T22:58:53Z,agent-tessera,0.8.0,Agent Tessera contributors,Apache-2.0,368861,"Identity, permissions, and governance for AI agents, whatever LLM they call."
+2026-11-26T23:02:10Z,queuemo-findings,1.0.0,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,38104,
+2026-11-26T23:07:37Z,navex-mcp,0.3.0,pecorio-dev,MIT,14661,MCP server for navex: browser-less HTTP scenario runner and scraper with validated selectors
+2026-11-26T23:09:02Z,polydyno,0.2.0,Parrot Software,"MIT License Copyright (c) 2026 Parrot Integrated Software Development Permission is hereby granted,…",109145,"Polydyno — 50-turn PostgreSQL context drift benchmark (PolyScore, Eddy-Current load, tamper-evident workload)."
+2026-11-26T23:14:17Z,paper-sources-mcp,0.1.0,Jayoung Ryu,MIT,48095,"MCP server pooling scholarly search across OpenAlex, Europe PMC, PubMed, arXiv and bioRxiv/medRxiv, with open full text."
+2026-11-26T23:14:23Z,streamlit-table-filter,0.1.0,,MIT,1361086,A table-based multi-select filter for Streamlit apps.
+2026-11-26T23:15:14Z,gurp-sdk,1.0.0,,MIT,590,"SDK for the fictional Gurp Protocol (website research, not a real product)"
+2026-11-26T23:19:41Z,xtim,4.2.1,The xtim Authors,,25841924,Stim-superset simulator for magic-state preparation: the exact per-shot fidelity of the prepared output under circuit noise.
+2026-11-26T23:19:55Z,mcp-rbac-gateway,0.1.0,Pavankalyan Maturi,MIT,119492,"A lightweight security, RBAC, and audit gateway for Model Context Protocol (MCP) servers and AI agents."
