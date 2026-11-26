@@ -8,39 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 00:18 UTC
+## Latest list — 2026-11-26 01:20 UTC
 
-New packages created between 2026-11-25 23:19 UTC and 2026-11-26 00:18 UTC.
+New packages created between 2026-11-26 00:18 UTC and 2026-11-26 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-26T00-18-14-524552Z.csv)
+[Full CSV](data/new-packages-2026-11-26T01-20-51-958077Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-25 23:23:01 | [imbi-plugin-grafana](https://pypi.org/project/imbi-plugin-grafana/) | 2.63.0 | Ryan McLean <ryanm@aweber.com> | 30.0 kB | Grafana Alerting webhook plugin for Imbi |
-| 2026-11-25 23:23:06 | [python-dailyhadith](https://pypi.org/project/python-dailyhadith/) | 0.1.0 | Zubir Jamal | 17.6 kB | Asynchronous Python client for Daily Hadith from Sunnah.com with fallback feed… |
-| 2026-11-25 23:23:27 | [amarok-ytmusic](https://pypi.org/project/amarok-ytmusic/) | 0.1.1 | German Rosales <rosalesgerman… | 208.3 kB | YouTube Music streaming, offline cache & web-auth integration bridge for Amarok… |
-| 2026-11-25 23:23:29 | [amunition](https://pypi.org/project/amunition/) | 0.1.0 | goldcoin10 | 12.1 kB | a(muni)tion is a transit app running on the bay's 511 api |
-| 2026-11-25 23:24:48 | [types-boto3-elb-proxy](https://pypi.org/project/types-boto3-elb-proxy/) | 1.44.12 | Vlad Emelianov <vlad.emeliano… | 51.1 kB | Type annotations for boto3 ELBProxy 1.44.12 service generated with mypy-boto3-b… |
-| 2026-11-25 23:25:04 | [peptalk-llm](https://pypi.org/project/peptalk-llm/) | 0.1.0 | Marcin P. Joachimiak | 281.0 kB | Ask a frontier LLM what a protein sequence says, from sequence alone: domains,… |
-| 2026-11-25 23:25:53 | [python-platerecognizer](https://pypi.org/project/python-platerecognizer/) | 0.1.0 | Zubir Jamal | 17.5 kB | Asynchronous Python client for the Plate Recognizer Snapshot Cloud and Local SD… |
-| 2026-11-25 23:33:05 | [flashstream-host-volumes-client](https://pypi.org/project/flashstream-host-volumes-client/) | 0.1.4 |  | 8.9 kB | TCP client for Flashstream Host Volumes Server |
-| 2026-11-25 23:33:30 | [dotfetch](https://pypi.org/project/dotfetch/) | 0.27.0 | dotfetch Contributors | 1.3 MB | Universal Tool Orchestration Platform - Intelligent, secure tool orchestration… |
-| 2026-11-25 23:37:37 | [equationnet](https://pypi.org/project/equationnet/) | 1.0.0 | Cogitan | 180.4 kB | Type an equation: six simple models (three that use it, three data-only baselin… |
-| 2026-11-25 23:37:40 | [radchain](https://pypi.org/project/radchain/) | 1.0.0 | Cogitan | 32.1 MB | End-to-end radiation -> phonon -> quasiparticle -> logical-error simulation for… |
-| 2026-11-25 23:39:50 | [specla](https://pypi.org/project/specla/) | 0.0.1 |  | 155.1 kB | Load, lint and evaluate a Specla Behavior. |
-| 2026-11-25 23:42:06 | [databies](https://pypi.org/project/databies/) | 0.1.0 | Diego Rosales, Erick Guerra,… | 197.5 kB | Análisis estructural de vigas planas: reacciones, cortante, momento, rotación y… |
-| 2026-11-25 23:42:36 | [tapisaurus](https://pypi.org/project/tapisaurus/) | 0.1.0 | Ahmad Faiz | 16.3 kB | Official Python SDK for TapisaurusDB — The AI-Native Universal Multi-Model Data… |
-| 2026-11-25 23:43:32 | [citeguard-mcp](https://pypi.org/project/citeguard-mcp/) | 0.1.2 | Luca Celebrano <luca.celebran… | 44.1 kB | Zero-config MCP Server & CLI to detect LLM hallucinated citations, verify DOIs/… |
-| 2026-11-25 23:44:35 | [agentfree](https://pypi.org/project/agentfree/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/agentfree |
-| 2026-11-25 23:44:37 | [lambdamcp](https://pypi.org/project/lambdamcp/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/lambdamcp |
-| 2026-11-25 23:47:51 | [kasi-compiler](https://pypi.org/project/kasi-compiler/) | 0.2.0 | KASI Compiler contributors | 115.4 kB | Ahead-of-time Python compiler: AST, type inference, C, native executable |
-| 2026-11-25 23:49:57 | [azio-perti](https://pypi.org/project/azio-perti/) | 1.0.0 |  | 473 B | Generated package for azio-perti |
-| 2026-11-25 23:49:59 | [oil-price-v2-xethhung12](https://pypi.org/project/oil-price-v2-xethhung12/) | 0.0.1 | Xeth Hung <admin@xethh.me> | 107.4 kB | Hong Kong fuel discount data: fetches the Consumer Council pages, decodes them… |
-| 2026-11-25 23:51:05 | [wrtds-py](https://pypi.org/project/wrtds-py/) | 1.0.0 | Manuel Alvarez Chaves | 29.0 kB | Python implementation of the WRTDS and WRTDS-Kalman water quality models, adapt… |
-| 2026-11-25 23:51:38 | [intentdataflow](https://pypi.org/project/intentdataflow/) | 0.3.10 | Thiago Egon Lange | 652.7 kB | Control layer for data pipelines: column lineage, preventive checks, orchestrat… |
-| 2026-11-25 23:57:42 | [searlo](https://pypi.org/project/searlo/) | 0.2.0 | Searlo <hello@searlo.tech> | 26.5 kB | Official Python client for the Searlo API — search, web data, AI answers and em… |
-| 2026-11-26 00:03:00 | [code-daza](https://pypi.org/project/code-daza/) | 1.0.0 | Dazaeev | 33.7 kB | Universal Autonomous AI Engineering, Architecture & UI/UX CLI Agent powered by… |
-| 2026-11-26 00:03:10 | [fourohtwo](https://pypi.org/project/fourohtwo/) | 0.1.0 | Fourohtwo | 20.5 kB | One agent key that pays any x402 API: USDG on Robinhood Chain or USDC on Base,… |
-| 2026-11-26 00:08:12 | [everygraph](https://pypi.org/project/everygraph/) | 0.0.0 |  | 2.0 kB | Everygraph: a single-machine graph engine. Placeholder until the first release. |
-| 2026-11-26 00:11:07 | [langchain-searlo](https://pypi.org/project/langchain-searlo/) | 0.1.0 | Searlo <hello@searlo.tech> | 24.2 kB | LangChain integration for Searlo: live search results as clean JSON. |
-| 2026-11-26 00:12:13 | [waylingo](https://pypi.org/project/waylingo/) | 0.1.0 | Waylingo contributors | 21.6 MB | Natural-language trip requests to routes with stops, as GeoJSON. Bring your own… |
+| 2026-11-26 00:18:39 | [python-apims](https://pypi.org/project/python-apims/) | 0.2.0 | Zubir Jamal | 12.5 kB | Asynchronous Python client for Malaysia DOE APIMS (Air Pollutant Index Manageme… |
+| 2026-11-26 00:18:42 | [python-metmalaysia](https://pypi.org/project/python-metmalaysia/) | 0.1.0 | Zubir Jamal | 19.9 kB | Asynchronous Python client for MET Malaysia API and data.gov.my weather services |
+| 2026-11-26 00:18:44 | [python-rapidbus](https://pypi.org/project/python-rapidbus/) | 0.1.0 | Zubir Jamal | 13.1 kB | Asynchronous Python client and dependency-free GTFS-Realtime decoder for Malays… |
+| 2026-11-26 00:20:17 | [hi-puter](https://pypi.org/project/hi-puter/) | 0.1.0 | Prosper Success | 134.8 kB | Offline-first local voice assistant for Windows and Linux |
+| 2026-11-26 00:21:05 | [fastdrc-gdscheck](https://pypi.org/project/fastdrc-gdscheck/) | 0.0.1 |  | 53.7 kB | A FastDRC backend for gdscheck: drawn design rules written as a gdscheck PDK |
+| 2026-11-26 00:29:20 | [cmsdk3](https://pypi.org/project/cmsdk3/) | 2.3.2 | "CMLabs (Communicative Machin… | 10.8 MB | CMSDK Python binding (SWIG): DataMessage, PsyAPI cranks, NetworkManager and the… |
+| 2026-11-26 00:29:47 | [ctcc-x402](https://pypi.org/project/ctcc-x402/) | 1.0.0 | "Cinque Port (Pavilion)" <hel… | 12.3 kB | Deterministic smart-contract authority and control inspection for AI agents on… |
+| 2026-11-26 00:41:03 | [smarthivesms](https://pypi.org/project/smarthivesms/) | 1.0.1 | Smarthive Tech Solution <supp… | 28.1 kB | Official Python SDK for SmarthiveSMS — Nigerian & African SMS (TRX DND-bypass &… |
+| 2026-11-26 00:42:51 | [ficgen](https://pypi.org/project/ficgen/) | 0.1.0 | Tab Atkins-Bittner | 118.9 kB | Static site generator for personal fiction archives using Markdown and KDL meta… |
+| 2026-11-26 00:44:21 | [replaygate](https://pypi.org/project/replaygate/) | 0.1.0 | surajjunni | 82.0 kB | Catch quality regressions from prompt and model changes by selectively replayin… |
+| 2026-11-26 00:44:47 | [ocris](https://pypi.org/project/ocris/) | 0.1.0 | Lukas | 112.1 kB | Lightweight multilingual 360-degree & curved OCR on NetCL (OpenCL, Vulkan, CPU) |
+| 2026-11-26 00:45:17 | [cloudsweep-aws](https://pypi.org/project/cloudsweep-aws/) | 1.0.0 | Abdullah Tahir | 13.3 kB | Find forgotten AWS resources that are costing you money. |
+| 2026-11-26 00:48:44 | [bunko](https://pypi.org/project/bunko/) | 0.3.0 | Ivan Arevalo | 375.9 kB | A read-only file server that renders Markdown, HTML, tables, Office files, imag… |
+| 2026-11-26 00:48:44 | [focal-rs](https://pypi.org/project/focal-rs/) | 0.5.0 | Jackson Ferguson <jackson.fer… | 29.7 MB | Extract clean, token-efficient codebase context, diffs, and CI logs for LLM wor… |
+| 2026-11-26 00:50:39 | [rowmonitor-runcheck](https://pypi.org/project/rowmonitor-runcheck/) | 0.1.0 | kharipara | 52.4 kB | Check the last Airflow DAG run or dbt Core invocation and send a short alert. |
+| 2026-11-26 00:57:41 | [rag-shield](https://pypi.org/project/rag-shield/) | 0.1.0 | Nirbhay Aggarwal | 141.1 kB | Change control for the documents a RAG pipeline reads: edit scoring, held edits… |
+| 2026-11-26 00:59:17 | [axiom-scan](https://pypi.org/project/axiom-scan/) | 0.6.0 | Helion Works <contact@helionw… | 695.3 kB | Axiom by Helion Works: a security scanner for AI agent tooling. Scans MCP (Mode… |
+| 2026-11-26 01:01:01 | [auto-mas-bettergi-adapter](https://pypi.org/project/auto-mas-bettergi-adapter/) | 0.1.0 | AUTO-MAS Team | 467.6 kB | BetterGI specialized script adapter for AUTO-MAS |
+| 2026-11-26 01:01:30 | [ozon-sdk-pro](https://pypi.org/project/ozon-sdk-pro/) | 1.0.0 | eminsk <M_N_Nik@yahoo.com> | 500.0 kB | All-in-One Ozon Sync/Async SDK, CLI, Native MCP Server, Free/Paid AI (g4f, Olla… |
+| 2026-11-26 01:01:58 | [pdf2md-cli](https://pypi.org/project/pdf2md-cli/) | 1.1.3 | Frederico Pinto | 56.5 kB | Convert PDF files to Markdown via the pymupdf4llm converter (PyMuPDF) |
+| 2026-11-26 01:08:03 | [maigp-langgraph](https://pypi.org/project/maigp-langgraph/) | 1.0.0 |  | 32.6 kB | MAIGP governance adapter for LangGraph: blocks model calls and tool calls the g… |
+| 2026-11-26 01:08:22 | [maigp-agno](https://pypi.org/project/maigp-agno/) | 1.0.0 |  | 28.3 kB | MAIGP governance adapter for the Agno agent framework: blocks model calls and t… |
+| 2026-11-26 01:12:20 | [cobnox](https://pypi.org/project/cobnox/) | 4.3.0 | Muhammad Ahmad (Aelionyxe / C… | 48.8 MB | Cobnox — Sovereign AI, Real Robotics RL & Native MAMC Compiler (Linux, Google C… |
+| 2026-11-26 01:14:00 | [llama-index-llms-modal](https://pypi.org/project/llama-index-llms-modal/) | 0.1.0 | Modal | 9.0 kB | llama-index llms Modal integration |
+| 2026-11-26 01:15:33 | [scrapepolicy](https://pypi.org/project/scrapepolicy/) | 0.1.0 | Biliarto Sastro Cemerson | 15.2 kB | Inspect a website's robots.txt, sitemaps, terms of use, about and contact pages. |
+| 2026-11-26 01:16:53 | [pipecat-gmicloud-llm](https://pypi.org/project/pipecat-gmicloud-llm/) | 0.1.0 | Jayanng | 20.7 kB | Pipecat LLM service for GMI Cloud's OpenAI-compatible inference API (GLM, DeepS… |

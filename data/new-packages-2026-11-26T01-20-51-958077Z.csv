@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T00:18:39Z,python-apims,0.2.0,Zubir Jamal,MIT,12479,Asynchronous Python client for Malaysia DOE APIMS (Air Pollutant Index Management System)
+2026-11-26T00:18:42Z,python-metmalaysia,0.1.0,Zubir Jamal,MIT,19891,Asynchronous Python client for MET Malaysia API and data.gov.my weather services
+2026-11-26T00:18:44Z,python-rapidbus,0.1.0,Zubir Jamal,MIT,13079,Asynchronous Python client and dependency-free GTFS-Realtime decoder for Malaysian Prasarana bus transit
+2026-11-26T00:20:17Z,hi-puter,0.1.0,Prosper Success,,134784,Offline-first local voice assistant for Windows and Linux
+2026-11-26T00:21:05Z,fastdrc-gdscheck,0.0.1,,Apache-2.0,53746,A FastDRC backend for gdscheck: drawn design rules written as a gdscheck PDK
+2026-11-26T00:29:20Z,cmsdk3,2.3.2,"""CMLabs (Communicative Machines)"" <support@cmlabs.com>","EXTENDED BSD License Redistribution and use in source and binary forms, with or without modificatio…",10777277,"CMSDK Python binding (SWIG): DataMessage, PsyAPI cranks, NetworkManager and the rest of the CMSDK C++ library used by Psyclone"
+2026-11-26T00:29:47Z,ctcc-x402,1.0.0,"""Cinque Port (Pavilion)"" <hello@pspt.ltd>",MIT,12347,Deterministic smart-contract authority and control inspection for AI agents on Base Mainnet via x402 v2 micropayments ($0.01 USDC).
+2026-11-26T00:41:03Z,smarthivesms,1.0.1,Smarthive Tech Solution <support@smarthivesms.com>,MIT,28140,"Official Python SDK for SmarthiveSMS — Nigerian & African SMS (TRX DND-bypass & MKT), WhatsApp OTP, Voice OTP, and Transactional Email API."
+2026-11-26T00:42:51Z,ficgen,0.1.0,Tab Atkins-Bittner,MIT,118893,Static site generator for personal fiction archives using Markdown and KDL metadata
+2026-11-26T00:44:21Z,replaygate,0.1.0,surajjunni,MIT,81964,Catch quality regressions from prompt and model changes by selectively replaying your agent's real past runs
+2026-11-26T00:44:47Z,ocris,0.1.0,Lukas,"MIT License Copyright (c) 2026 Lukas Permission is hereby granted, free of charge, to any person ob…",112052,"Lightweight multilingual 360-degree & curved OCR on NetCL (OpenCL, Vulkan, CPU)"
+2026-11-26T00:45:17Z,cloudsweep-aws,1.0.0,Abdullah Tahir,MIT,13274,Find forgotten AWS resources that are costing you money.
+2026-11-26T00:48:44Z,bunko,0.3.0,Ivan Arevalo,MIT,375877,"A read-only file server that renders Markdown, HTML, tables, Office files, images, and video in the browser"
+2026-11-26T00:48:44Z,focal-rs,0.5.0,Jackson Ferguson <jackson.ferguson0@gmail.com>,,29741144,"Extract clean, token-efficient codebase context, diffs, and CI logs for LLM workflows."
+2026-11-26T00:50:39Z,rowmonitor-runcheck,0.1.0,kharipara,MIT,52366,Check the last Airflow DAG run or dbt Core invocation and send a short alert.
+2026-11-26T00:57:41Z,rag-shield,0.1.0,Nirbhay Aggarwal,Apache-2.0,141056,"Change control for the documents a RAG pipeline reads: edit scoring, held edits, signed provenance and a retrieval-time trust filter"
+2026-11-26T00:59:17Z,axiom-scan,0.6.0,Helion Works <contact@helionworks.com>,Apache-2.0,695255,"Axiom by Helion Works: a security scanner for AI agent tooling. Scans MCP (Model Context Protocol) servers and agent tooling for tool poisoning, prompt injection, credential theft and supply-chain at…"
+2026-11-26T01:01:01Z,auto-mas-bettergi-adapter,0.1.0,AUTO-MAS Team,AGPL-3.0-or-later,467577,BetterGI specialized script adapter for AUTO-MAS
+2026-11-26T01:01:30Z,ozon-sdk-pro,1.0.0,eminsk <M_N_Nik@yahoo.com>,MIT,499991,"All-in-One Ozon Sync/Async SDK, CLI, Native MCP Server, Free/Paid AI (g4f, Ollama, OpenAI, DeepSeek, OpenRouter) & optional CustomTkinter Desktop GUI ([gui]): Composer API extraction, Seller INN look…"
+2026-11-26T01:01:58Z,pdf2md-cli,1.1.3,Frederico Pinto,AGPL-3.0-or-later,56532,Convert PDF files to Markdown via the pymupdf4llm converter (PyMuPDF)
+2026-11-26T01:08:03Z,maigp-langgraph,1.0.0,,,32566,MAIGP governance adapter for LangGraph: blocks model calls and tool calls the governance authority does not allow (fail closed)
+2026-11-26T01:08:22Z,maigp-agno,1.0.0,,,28273,MAIGP governance adapter for the Agno agent framework: blocks model calls and tool calls the authority does not allow
+2026-11-26T01:12:20Z,cobnox,4.3.0,Muhammad Ahmad (Aelionyxe / Cobnox Technologies),,48787706,"Cobnox — Sovereign AI, Real Robotics RL & Native MAMC Compiler (Linux, Google Colab & Windows)"
+2026-11-26T01:14:00Z,llama-index-llms-modal,0.1.0,Modal,MIT,8960,llama-index llms Modal integration
+2026-11-26T01:15:33Z,scrapepolicy,0.1.0,Biliarto Sastro Cemerson,MIT,15189,"Inspect a website's robots.txt, sitemaps, terms of use, about and contact pages."
+2026-11-26T01:16:53Z,pipecat-gmicloud-llm,0.1.0,Jayanng,BSD-2-Clause,20739,"Pipecat LLM service for GMI Cloud's OpenAI-compatible inference API (GLM, DeepSeek, Gemini, Qwen and more)."
