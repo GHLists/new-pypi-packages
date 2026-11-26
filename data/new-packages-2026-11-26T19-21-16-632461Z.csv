@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T18:20:45Z,my-new-tool,0.2.1,Soxoj <soxoj@protonmail.com>,MIT,58109,"A universal, AI-native skeleton for OSINT CLI tools, libraries, microservices and MCP servers."
+2026-11-26T18:23:18Z,tplink-modem,0.3.0,Yakup Emre Yerli,GPL-3.0-or-later,44351,"Command line and MCP server for TP-Link routers and ISP modems: devices, Wi-Fi signal, logs, presence history, settings"
+2026-11-26T18:25:31Z,tenkyu,0.2.0,Tenkyu contributors,MIT,147452,Stop free-tier and credit farming in AI apps: explainable signup scoring.
+2026-11-26T18:27:09Z,symbfitrs,0.1.0,William Dennis,MIT,1579684,Fast nonlinear least-squares fitting on millisecond CPU budgets.
+2026-11-26T18:30:08Z,evdc-network-api,0.1.0,markoceri,AGPL-3.0-or-later,119157,Unofficial Python client for the EVDC EV charging network API
+2026-11-26T18:30:09Z,pypress-toolkit,1.0.1,Jens Rehpöhler,MIT,5462840,"Serve a folder of Markdown files as a documentation site, no build step."
+2026-11-26T18:31:48Z,beru-ai,0.1.0,,MIT,51921,Official Python client for Beru: cited answers and per-user memory from your documents.
+2026-11-26T18:32:01Z,bidrock-public,0.1.0,,,42567,Python client for anonymous Bidrock public tender reads and downloads
+2026-11-26T18:32:51Z,optimalspec,0.2.1,SuHyun Bae,"MIT License Copyright (c) 2026 SuHyun Bae Permission is hereby granted, free of charge, to any pers…",448270,Renewal-Reward Optimal Control for Grammar-Coupled Self-Speculative Decoding on Hugging Face Models
+2026-11-26T18:33:23Z,gs-quant-auth,4.8.0,,,463,Generated package for gs-quant-auth
+2026-11-26T18:35:19Z,mstutils,0.1.1,mstytn,,6400,This package contains some useful functions for image processing and torch gpu releasing. To run in Google Colab
+2026-11-26T18:35:33Z,blitzb64,0.1.0,,MIT,308762,High-speed multithreaded AVX2 C++ Base64 and file-to-Base64 / Base64-to-file library
+2026-11-26T18:37:42Z,driftcheck-gui,0.1.0,McZane,MIT,13610,Offline desktop tool for detecting dataset shift between training and new data
+2026-11-26T18:39:19Z,interlinked-client,0.0.0,,Apache-2.0,2038,Reserved for the Interlinked project (https://interlinked.network). Placeholder with no functionality.
+2026-11-26T18:39:43Z,ckanext-breakingnews,0.1.1,Toronto Open Data <opendata@toronto.ca>,AGPL-3.0-or-later,229464,Resource change tracking for CKAN
+2026-11-26T18:40:11Z,batched-birch,0.1.0,Illia Bielov,Apache-2.0,253266,"Set-wise (batched) BIRCH clustering over embedding vectors, NumPy-only core."
+2026-11-26T18:41:14Z,graphmerge,0.1.0,GraphMerge Contributors,Apache-2.0,77613,Parallel AI Agent Collaboration via Graph-Structured Distributed Block Optimization (arXiv:2610.30074)
+2026-11-26T18:41:52Z,anker-eufy-security,0.1.0,"Alar Aun, abz2much",MIT,2814066,"Asyncio client for eufy Security: local P2P to the HomeBase, the eufy cloud, and push events."
+2026-11-26T18:42:41Z,agentoclock,0.1.0,Skander Ben Hamda,MIT,112279,"Reads your own Claude Code and Codex logs, measures how fast your agent really works, and leaves that record where the agent reads it."
+2026-11-26T18:43:08Z,worldlock,0.1.0,Worldlock Contributors,MIT,132264,"3D-consistent video generation with persistent world geometry, dual-pass conditioning, and low-VRAM support."
+2026-11-26T18:49:30Z,polycracker-ecu,1.0.0,Parrot Integrated Software Development <parrotsoftwarebc@gmail.com>,MIT,10931,Local CLI wrapper and release installer for Polycracker ECU - deterministic Python AST token compression.
+2026-11-26T18:50:08Z,descriptorkit,1.0.0,"Vignesh Vaidyanathan <info@hololinked.dev>, HoloViz <developers@holoviz.org>",BSD-3-Clause,112014,"Typed, validated and observable class attributes built on Python descriptors, derived from HoloViz param"
+2026-11-26T18:51:51Z,repo2brief,0.3.0,Ram Pangeni,MIT,526334,"Turn any codebase into an onboarding brief: architecture map, reading order, dependency graph and glossary, as one HTML page."
+2026-11-26T18:52:51Z,sphygmo,0.1.0,,Apache-2.0,46116,Bridge between BLE blood pressure monitors and health data sinks
+2026-11-26T18:54:49Z,tupla-agent-core,0.1.0,Tupla Studio,LicenseRef-Proprietary,62020637,"Core del agente comercial (LangGraph + deepagents): turno, herramientas, guardas, memoria y prompts."
+2026-11-26T18:55:47Z,luftfly-mcp,1.0.0,NaNXOR Enterprise <info@nanxor.com>,MIT,38818,"MCP server for the LuftFly Data API: airports, weather, forecasts, climate, US flight performance, holidays, time zones, currencies and travel advisories for AI assistants"
+2026-11-26T18:56:07Z,vram-stream,0.4.0,,MIT,75205,"CUDA RAM mapping, adaptive VRAM caching and PyTorch training offload"
+2026-11-26T18:56:46Z,deterministic-media-enhancer,1.0.0rc5,,MIT,8326,Offline model-free image and video restoration skill
+2026-11-26T18:57:26Z,openqcore,0.1.0,OpenQCore <developers@openqcore.com>,MIT,57678,"Official Python SDK for the OpenQCore API: chat, voice, Iris (images, video, OCR), knowledge and more."
+2026-11-26T18:58:35Z,doescap,1.0.0,GhoSty,MIT,57577,"DoesCap: Fast, lightweight cross-platform hCaptcha relay and solver library built by GhoSty, supporting Windows, macOS, Linux, and Android (Termux)."
+2026-11-26T18:59:16Z,cleandata-toolkit,0.1.0,Nabeela Hussain,MIT,6670,A simple Python toolkit for identifying and cleaning missing data
+2026-11-26T19:00:47Z,scientific-toolkit,0.5.0,Furox-Art,MIT,107583,Provider-neutral MCP gateway for Furox-Art scientific and verification tools
+2026-11-26T19:01:13Z,deterministic-recipe-scaffolder,0.5.0,Furkan,MIT,129165,Deterministic Python project scaffolding from a validated spec.
+2026-11-26T19:04:22Z,minixml,0.6.3,Per Kraulis,,13216,"Minimalist module for reading, writing, creating and editing an XML element tree."
+2026-11-26T19:05:34Z,crunchtools,0.0.1,Scott McCarty,AGPL-3.0-or-later,2102,Reserved name for Crunchtools. This package contains no code.
+2026-11-26T19:08:10Z,horatio-solver,0.4.2,Ian Davis,Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0,8567292,"Horatio: a convex, linear and mixed-integer conic optimization solver, with a cvxpy interface"
+2026-11-26T19:12:56Z,agent-commit-evals,0.2.0,,MIT,14657,Offline evaluation of agent commit gates under synthetic state changes.
+2026-11-26T19:16:54Z,ejaan,0.1.0,,MIT,54959,Pemeriksa ejaan bahasa Indonesia untuk Markdown dan teks biasa
+2026-11-26T19:17:14Z,handlesapi,0.1.0,Handles API <support@handlesapi.com>,MIT,119377,"Typed Python client for the Handles API: public social media data for X, Instagram, TikTok, YouTube, Telegram, Bluesky, Twitch, Kick and LinkedIn."
+2026-11-26T19:17:53Z,sqlctx-rs,0.14.0,,AGPL-3.0-only,97310894,Standalone Rust runtime bindings for sqlctx
+2026-11-26T19:18:06Z,sqlctx-dax,0.14.0,,AGPL-3.0-only,2220591,Python bindings for dax-parser
+2026-11-26T19:19:32Z,cotrail,0.7.1,,,1785044,cotrail: local decision memory for AI coding assistants (MCP server for Claude Code)
