@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T07:19:15Z,viro-networks,0.1.0,"""Molecular Plant Pathology Lab, ICAR-Indian Sugarcane Research Institute"" <shwetabac@gmail.com>",MIT,31031,Compositional virome co-occurrence consensus networks and Sloan neutral community model solver
+2026-11-26T07:19:27Z,virome-suite,0.1.0,"""Molecular Plant Pathology Lab, ICAR-Indian Sugarcane Research Institute"" <shwetabac@gmail.com>",MIT,58085,"Integrated Python Ecosystem for Divergent Viral Discovery, Circular Landmark Curation, Replicate Quasispecies Profiling, Seam-Aware Annotation, and Co-Occurrence Networks"
+2026-11-26T07:19:38Z,waybar2qs,0.1.0,waybar2qs contributors,MIT,101885,Transpile Waybar (config.jsonc + style.css) into modular Quickshell (shell.qml) projects
+2026-11-26T07:20:40Z,market-lens-mcp,0.1.1,market-lens-mcp contributors,MIT,113962,"한국 주식 리서치용 MCP 서버 (DART 공시·재무, 금융위원회 시세)"
+2026-11-26T07:23:07Z,sidereel,0.1.0,Nate Bosma,MIT,228748,"Sidereel, an interactive N-body sandbox with a Qt desktop."
+2026-11-26T07:24:22Z,watchtower15,1.0.0,WatchTower15 <contact@watchtower15.com>,MIT,1790888,"The WatchTower15 SDK for Python: the public API, metrics and log ingest, and framework integrations"
+2026-11-26T07:25:16Z,leanprompt-cli,0.0.1,PodWarden Team,Apache-2.0,10726,Stop paying for the same prompt twice: the Python side of leanprompt (usage logger for LLM-calling apps). Coming soon.
+2026-11-26T07:26:58Z,milliframe,0.0.1,Milliframe,Apache-2.0,14660,Client for the Milliframe API. The API is not open yet: this release reports its status.
+2026-11-26T07:27:36Z,nitincolors,1.0.0,Nitin Lohan,MIT,1418830,"Nitin's colormap library: 980+ scientific colour tables with merge, crop, shift, discrete and level tools for Matplotlib"
+2026-11-26T07:28:08Z,circyto,0.11.0,Yu-Chen Liu,MIT,2455261,"A Python CLI toolkit for single-cell circRNA detection, detector orchestration, matrix generation, and multimodal export."
+2026-11-26T07:28:14Z,heimur,0.0.1,,,2047,"Placeholder: this name is reserved for heimur, a home for compute jobs. Nothing to use yet."
+2026-11-26T07:29:44Z,document-to-markdown,0.6.1,,MIT License (with Commons Clause License Condition v1.0) Copyright (c) 2026 hotroso Permission is h…,117712,"100% local PDF, Office (DOCX, PPTX, Excel), Email, HTML, CSV, and image to AI-friendly Markdown converter"
+2026-11-26T07:31:46Z,VSSVidura,0.2.0,,,747262,Universal agent orchestrator — skill-driven AI agents for software development workflows
+2026-11-26T07:32:05Z,hojo-asr-fa,0.1.0,HojoAI <develop@hojoai.com>,Apache-2.0,168023,HOJO ASR inference library accelerated with Flash Attention
+2026-11-26T07:32:55Z,fivesocket-mt5-mcp,1.0.1,FiveSocket <hello@fivesocket.com>,MIT,6125,"MT5 MCP server for Claude Desktop, Cursor, VS Code and any stdio MCP client: connects a MetaTrader 5 account through FiveSocket's hosted MT5 MCP server with OAuth sign-in, no Windows or MT5 terminal."
+2026-11-26T07:33:45Z,cubie-npu,0.1.0,Aseel Ahmed,MIT,36257,Python bindings to run Allwinner A733 (VIPLite) .nb models on the Radxa Cubie A7A NPU
+2026-11-26T07:38:44Z,bloomcredit-python,99.2.0,,,3860,BloomCredit Python package with Discord exploit notification
+2026-11-26T07:39:30Z,adsenseready-ai,2026.11.3,Oathan Rex <oathanrex@gmail.com>,MIT,181105,"7-pillar Google AdSense readiness audit CLI and MCP server for blogs, SaaS, and docs"
+2026-11-26T07:39:37Z,aman-saga-flow,0.1.0,Aman Kumar,MIT,2131,Lightweight transaction coordinator with compensating rollbacks.
+2026-11-26T07:45:37Z,mathtran,0.1.0,codemee,GPL-3.0-or-later,1165098,"Image math formula to LaTeX, with live preview and SVG / PDF / .tex export (CLI, web and desktop app)"
+2026-11-26T07:46:35Z,thunderid,0.0.1a1,The ThunderID Authors,Apache-2.0,153756,Async Python client for the ThunderID open-source IAM stack
+2026-11-26T07:48:19Z,openajar,0.7.0,Ramunas Sabalys,Apache-2.0,9567531,"Self-hosted cloud dev environments for AI coding agents: a disposable VM with a terminal and a real browser for Claude Code, Codex and any MCP client."
+2026-11-26T07:51:40Z,py-type-narrower,0.1.0,Didier Marin <mail@didiermarin.com>,MIT,172889,Analyze and narrow overly broad Python type annotations using LibCST and configurable type-checker soundness verification
+2026-11-26T07:51:41Z,merakiadm-mcp,0.0.1,AIKAWA Shigechika,MIT,102700,"Read-only MCP server for Cisco Meraki Dashboard administrators: bounded health, wireless, client, change-log and event summaries, and a size-limited read of any GET operation with secrets masked"
+2026-11-26T07:51:51Z,voxo,0.0.1,pybass,MIT,3084,A speech-to-text service for your own server.
+2026-11-26T07:53:48Z,qubot-drivers,0.1.0,PUDAP,MIT,919175,Qubot gantry and end-effector drivers for PUDA edges.
+2026-11-26T07:56:38Z,dmlops,0.2.10,,Proprietary,24674454,"Track MLOps platform experiments from any self-managed machine: metrics, artifacts, weights, and failure/cancel state reporting."
+2026-11-26T07:58:04Z,wink-diffusion,0.1.1,,Apache-2.0,20564920,Complex-valued pixel diffusion — the visual counterpart to TARDITS
+2026-11-26T07:58:55Z,ethswarm-chain-sync,0.1.0,,,115810,Sync Swarm storage-incentives contract events into a local JSONLines cache
+2026-11-26T08:02:38Z,pipecat-harny,0.1.0,Harny <build@harny.ai>,Apache-2.0,22030,Harny for Pipecat voice agents: long-term memory of each customer that keeps up when facts change.
+2026-11-26T08:03:39Z,strands-harny,0.1.0,Harny <build@harny.ai>,Apache-2.0,20301,Harny for Strands agents: long-term memory of each customer that keeps up when facts change.
+2026-11-26T08:03:43Z,agrometpy,0.9.0,Deep Mohan Mahala <deep.mohan@icar.org.in>,MIT,906972,Scientific Agro-Meteorology for Python
+2026-11-26T08:07:39Z,chartlet,0.28.0,,MIT,1950960,"Compile structured data into deterministic, accessible static charts"
+2026-11-26T08:08:50Z,postgis-upload-ingestion,0.1.0,Alexandros Liaskos,AGPL-3.0-only,60942,"Secure ingestion of geospatial uploads into PostGIS: reads CSV, Excel, GeoJSON, GeoPackage, KML, FlatGeobuf and shapefiles (also in ZIP archives) into a table with GDAL, safely, and profiles their co…"
+2026-11-26T08:10:31Z,rh-pycordis-kernel,0.3.0,Felix-Zhenghao,MIT,58800,"The harness core, released as one package: session log and JSONL writer, tool service, agent loop and inbox, system prompt service, environment pool, launcher, model host and flush policy. Contains n…"
+2026-11-26T08:10:33Z,rh-pycordis-tool-sam3,0.2.0,Felix-Zhenghao,MIT,4487,"Label object bounding boxes or instance segmentation masks in a camera image using SAM3 (Segment Anything 3) by Meta, run locally. Provides the tool `segment_instances_sam3`; the labelled image repla…"
+2026-11-26T08:10:34Z,saltext.noderings,0.1.0,NodeRings <partners@noderings.com>,Apache Software License,151761,"Salt Extension for ordering servers and managing DNS, firewalls and SSH keys on the NodeRings cloud marketplace"
+2026-11-26T08:10:35Z,rh-pycordis-deepseek-harness,0.1.0,Felix-Zhenghao,MIT,3152,"Run a DeepSeek Harness agent as a subroutine through its Python SDK: a call takes a prompt, a DSH session id and a configuration, and returns the agent's reply. Provides the service `dsh` and the `ds…"
+2026-11-26T08:10:36Z,rh-pycordis-tool-affordance,0.1.0,Felix-Zhenghao,MIT,4981,"Mark where the gripper should make contact for a stated goal, as predicted by a vision-language model called through OpenRouter that looks at every camera view. Provides the tool `label_affordance_po…"
+2026-11-26T08:11:46Z,duyi-utils-jkx,0.1.4,,,4786,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-26T08:16:30Z,done-coding-schema-api,0.0.1a0,,MIT,32366,跨前后端通用接口结构的 Pydantic 模型与常量
+2026-11-26T08:17:51Z,pyxis-harness-workspace,0.1.0rc1,Onenightcarnival,MIT,19325,PyxisHarness plugin: agent workspace and deepagents backend
+2026-11-26T08:17:53Z,pyxis-harness-workspace-changes,0.1.0rc1,Onenightcarnival,MIT,17311,"PyxisHarness plugin: files changed per turn, from git work-tree snapshots"
+2026-11-26T08:18:21Z,studysystem,1.0.0,mohammadmassaf,MIT,588317,"An MCP server that plans and tracks a student's semester: courses, past exams, topics, a ranked study plan, logged hours."
+2026-11-26T08:19:31Z,m.a.t.o.u,0.9.0,,MIT,293243,A completely useless TYPE-MOON fan-made toy.
+2026-11-26T08:19:58Z,blocklearning,0.1.0,jeon-stat,MIT,25959709,"블록을 이어 딥러닝 모델을 만들고 학습하는 브라우저 화면 도구 (PyTorch, 내 PC의 GPU로 학습)"
