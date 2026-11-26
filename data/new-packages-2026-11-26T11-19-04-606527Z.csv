@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T10:28:04Z,ultrademon,1.0.0,UltraDemon Engine <support@ultrademon.site>,MIT,22325,Official Python SDK for UltraDemon: Sovereign Autonomous Agent Memory and Sub-10ms Edge Web Search.
+2026-11-26T10:31:33Z,pykevlar,2.0.1,PyKevlar Labs <licenses@pykevlar.com>,LicenseRef-PyKevlar,2663421,"28.8x faster Python obfuscator, Anti-LLM/anti-decompiler shield (stops pyinstxtractor, PyLingual, pycdc, GhidraMCP & Frida), hardware licenser, and standalone single-binary compiler."
+2026-11-26T10:32:50Z,sqlite-workqueue,0.1.0,,MIT,34679,A local persistent job queue with leases and bounded retries
+2026-11-26T10:34:44Z,unigym,0.110.0,UniGym contributors,MIT,3051239,Multi-backend robot simulation and evaluation framework
+2026-11-26T10:34:46Z,errorlens,0.2.0,ErrorLens contributors,MIT,9507,"Python SDK for ErrorLens, the open-source, self-hosted error tracker."
+2026-11-26T10:50:53Z,skyborn-backend,0.1.0,Qianye Su <suqianye2000@gmail.com>,BSD-3-Clause,58616076,"Compiled Fortran, C, and Cython computational kernels for Skyborn"
+2026-11-26T10:51:06Z,skyborn-spharm,0.1.0,Qianye Su <suqianye2000@gmail.com>,BSD-3-Clause,63842313,Modern Fortran-accelerated spherical harmonic transforms for Python (SPHEREPACK + reduced Gaussian grids)
+2026-11-26T10:51:26Z,geomake,0.1.0,Juan Miguel Recondo,MIT,22979,"Build geospatial datasets from a manifest of cached, ordered CLI steps."
+2026-11-26T10:53:16Z,bantam-cascade,0.1.0,Bantam Cascade contributors,Apache-2.0,122434,Certify the cheapest small-CPU-model plus big-LLM fallback cascade for text classification.
+2026-11-26T10:53:27Z,recallconduit,0.0.1,,MIT,8728,List Markdown notes in a local Obsidian vault via MCP
+2026-11-26T10:53:38Z,rembro,0.4.0,,MIT OR Apache-2.0,4218633,"Open a browser that uses the network of an SSH host, container, sandbox or Kubernetes pod"
+2026-11-26T10:54:25Z,boe-insights-mcp,0.1.0rc1,David Bejar,MIT,534546,"MCP server with analytical tools over Spain's BOE (Boletín Oficial del Estado) open data: law version history, amendment analysis and legislative trends."
+2026-11-26T10:54:40Z,certora-cli-alpha-feat-github-oidc-login,20261126.10.54.604998,Certora,GPL-3.0-only,176419343,Runner for the Certora Prover
+2026-11-26T10:55:11Z,lfs-postal,1.0.0,Michael Thornhill,MIT,56546,A Django app for l10n of postal addresses.
+2026-11-26T10:55:13Z,lfs-canonical,1.0.0,Maciej Wisniowski,BSD-3-Clause,11025,Provides canonical links for LFS
+2026-11-26T10:55:34Z,tracrewards,0.1.2,OUTLYR,,21531,Set crypto rewards for tickets and track user balances/payouts
+2026-11-26T10:56:48Z,skyborn-plot,0.1.0,Qianye Su <suqianye2000@gmail.com>,BSD-3-Clause,3916860,"NCL-style atmospheric and climate vector, contour, and scatter plotting with compiled C kernels"
+2026-11-26T10:57:06Z,pyxmc,1.0.9,Ivan Golubev,MIT,29913,xoshiro256 RNG + Monte-Carlo (C-extension).
+2026-11-26T10:58:08Z,template0987654321,2.0.0,Adınız Soyadınız <eposta@gmail.com>,,4448,Örnek Python paketi ve CLI aracı V2
+2026-11-26T11:00:18Z,sysmaint,0.1.0,Kennny7 <kennny7@users.noreply.github.com>,MIT,860585,"Cross-Platform System Maintenance, Security & Data Recovery Microservice by Kennny7 Microservices"
+2026-11-26T11:00:43Z,dskt,0.0.1,dskt authors,MIT,4995,A small data science toolkit.
+2026-11-26T11:00:48Z,shopee-skynet-br-lh-copilot-ops,0.0.0,sc,BSD License,2604,A small example package
+2026-11-26T11:01:48Z,my-agents-test-upload,0.1.3,ZhangKaiLun,,2659,Add your description here
+2026-11-26T11:02:01Z,secure-cli,0.1.1,,See LICENSE in securedotcom/secure-cli,6159,secure: the Secure.com command line. Downloads the signed binary for your platform and verifies its checksum.
+2026-11-26T11:04:18Z,grumo-store,0.3.2,Helder Perez,Apache-2.0,3708346,"Embedded application state engine for Python, backed by Grumo Store Rust core"
+2026-11-26T11:04:30Z,simpy-rs,0.1.0,,MIT OR Apache-2.0,2137884,"A high-performance, drop-in replacement for Python's SimPy discrete-event simulation library, backed by Rust and PyO3."
+2026-11-26T11:10:46Z,edapy-tools,0.1.1,Abdulaziz Mohamed,MIT,9138,"Fast, lightweight, and intuitive Exploratory Data Analysis (EDA) toolkit for pandas."
+2026-11-26T11:10:53Z,lut-match,0.1.0,,MIT,50856,"Fit smooth, zero-inversion .cube 3D LUTs and HaldCLUT PNGs from reference stills"
+2026-11-26T11:11:09Z,lipsync-2d,0.1.0,,Apache-2.0,108263,Real-time multilingual audio to 2D lip-sync and visemes (<15 MB ONNX/WebGPU)
+2026-11-26T11:13:00Z,weight-forensics,0.1.0,Ashish Shroti,Apache-2.0,31064,"Zero-base forensic scanner for open-weight LLMs: sparse weight edits, abliteration/Heretic/LoRA uncensoring, and emergent misalignment."
+2026-11-26T11:14:38Z,gapscan,1.1.0,GapScan contributors,Apache-2.0,1906352,"GapScan Open: a free, offline security scanner that maps every finding to OWASP, with evidence. Deterministic scanners plus optional local AI review."
+2026-11-26T11:16:26Z,arq-rs,0.1.0,,,2146307,Python package arq_rs and the arq_rs._native extension
+2026-11-26T11:17:32Z,resrijan,0.6.0,Rajib Biswas,AGPL-3.0-or-later,644083,"Digitise, analyse, fit and redraw scientific figures in journal style: data from published figures (PDF, EPS, SVG, PNG, JPG), peak fitting, deconvolution, curve fitting and journal-style plots"
+2026-11-26T11:18:43Z,targeted-sampler,0.1.0,,,14051,"Stratified, reason-bucketed sample collector with pinning, deduplication, and disk-budget rotation."
