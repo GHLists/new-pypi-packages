@@ -8,37 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 02:19 UTC
+## Latest list — 2026-11-26 03:20 UTC
 
-New packages created between 2026-11-26 01:20 UTC and 2026-11-26 02:19 UTC.
+New packages created between 2026-11-26 02:19 UTC and 2026-11-26 03:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-26T02-19-23-771446Z.csv)
+[Full CSV](data/new-packages-2026-11-26T03-20-55-434556Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-26 01:22:29 | [orchest-py](https://pypi.org/project/orchest-py/) | 0.2.0rc2 |  | 24.7 MB | Python SDK for Orchest, a skill-first agent runtime with a Rust core |
-| 2026-11-26 01:22:43 | [netbrain-lookup](https://pypi.org/project/netbrain-lookup/) | 1.0.0 | Peskicorp | 86.3 kB | NetBrain IP/MAC endpoint lookup with CLI and interactive terminal UI |
-| 2026-11-26 01:32:33 | [snodra-messaging-observability](https://pypi.org/project/snodra-messaging-observability/) | 0.1.0 |  | 16.0 kB | OpenTelemetry instrumentation for the Snodra messaging suite. |
-| 2026-11-26 01:32:36 | [snodra-messaging](https://pypi.org/project/snodra-messaging/) | 0.1.0 |  | 357.3 kB | Official Python client library of the Snodra messaging suite. |
-| 2026-11-26 01:33:29 | [rhodawk-bounty-hunter](https://pypi.org/project/rhodawk-bounty-hunter/) | 2.0.0 | RhodawkAI | 1.7 MB | RhodawkAI Bounty Hunter — AI-powered bug bounty hunting, recon to report, in yo… |
-| 2026-11-26 01:34:26 | [modelvue](https://pypi.org/project/modelvue/) | 0.2.1 | aaronchh <aaronhsu219@gmail.c… | 416.9 kB | Show the configuration of hydraulic and hydrological models (Delft3D FM, EPANET… |
-| 2026-11-26 01:36:32 | [ddbsh](https://pypi.org/project/ddbsh/) | 0.12.7 | ddbsh contributors | 22.5 MB | ddbsh, the DynamoDB shell, as a Python library: SQL-like statements against Ama… |
-| 2026-11-26 01:36:32 | [inferdiff](https://pypi.org/project/inferdiff/) | 0.1.0 | ApacheWang | 187.2 kB | Wireshark for streaming LLMs: catch HTTP 200 silent truncations, broken tool JS… |
-| 2026-11-26 01:37:40 | [libddbsh](https://pypi.org/project/libddbsh/) | 0.12.7 | ddbsh contributors | 10.9 kB | An alias of ddbsh, the DynamoDB shell as a Python library: pip install ddbsh |
-| 2026-11-26 01:47:34 | [benchtruthai](https://pypi.org/project/benchtruthai/) | 0.1.0 | Prabhu Rangaraju | 337.6 kB | Score optimization modeling predictions against solver audited ground truth (NL… |
-| 2026-11-26 01:49:36 | [flowiq](https://pypi.org/project/flowiq/) | 0.1.0 |  | 55.6 kB | Client and command line for the FlowIQ REST API |
-| 2026-11-26 01:49:44 | [flowiq-mcp](https://pypi.org/project/flowiq-mcp/) | 0.1.0 |  | 56.9 kB | A read-only MCP server for FlowIQ |
-| 2026-11-26 01:50:22 | [homiagent](https://pypi.org/project/homiagent/) | 0.1.0a1 |  | 14.1 kB | HomiAgent worklog data contracts and Markdown rendering |
-| 2026-11-26 01:51:09 | [neuralftw](https://pypi.org/project/neuralftw/) | 0.1.0 | Isaac Corley, Taylor Geospati… | 1.0 MB | Implicit Neural Representations for Earth Observation. |
-| 2026-11-26 01:53:15 | [civ6-turn-announcer](https://pypi.org/project/civ6-turn-announcer/) | 0.1.1 | John Randall | 21.3 kB | Spoken turn alerts for live multiplayer Civilization VI, read from the game's o… |
-| 2026-11-26 01:55:56 | [obsread](https://pypi.org/project/obsread/) | 0.1.0 |  | 36.8 kB | Read precise Obsidian Markdown sections and block subtrees locally |
-| 2026-11-26 01:56:55 | [truvek-comply](https://pypi.org/project/truvek-comply/) | 0.1.0 | Truckling | 29.2 kB | Pre-send compliance checks for email and SMS — Spam Act (AU), CAN-SPAM (US), CA… |
-| 2026-11-26 02:00:21 | [openadapt-kernel](https://pypi.org/project/openadapt-kernel/) | 0.1.0 | OpenAdapt <admin@openadapt.ai> | 147.5 kB | Minimal commit-boundary verification, macro-action staging, stepwise live-DOM h… |
-| 2026-11-26 02:00:54 | [pylint-explicit-return](https://pypi.org/project/pylint-explicit-return/) | 0.1.0 | Nicholas Hairs <info+pylint-e… | 23.2 kB | A Pylint plugin for requiring explicit returns |
-| 2026-11-26 02:01:49 | [danfse](https://pypi.org/project/danfse/) | 0.1.0 | Helvio Junior | 268.4 kB | Gerador da DANFSe (Documento Auxiliar da NFS-e Nacional) em PDF a partir do XML |
-| 2026-11-26 02:06:21 | [spine-memory](https://pypi.org/project/spine-memory/) | 0.2.0 |  | 69.8 kB | Hierarchical Markdown/YAML graph memory for long-horizon AI agents — git-native… |
-| 2026-11-26 02:09:25 | [Asymmetry](https://pypi.org/project/Asymmetry/) | 0.29.0 | Ben Huddart <benjamin.huddart… | 11.6 MB | A Python library, command-line tool, and desktop application for muon-spin spec… |
-| 2026-11-26 02:10:22 | [codefactory-cli](https://pypi.org/project/codefactory-cli/) | 0.20.1 |  | 500.2 kB | See a codebase as a factory floor, find what's wrong with it (copies, N+1 loops… |
-| 2026-11-26 02:14:38 | [arthurs](https://pypi.org/project/arthurs/) | 0.1.0 | Christopher Arthur | 9.0 kB | Arthurs — Christopher's own library of programs. Currently: nmap only. |
-| 2026-11-26 02:18:50 | [perishables](https://pypi.org/project/perishables/) | 0.1.0 | David Engelmann | 2.8 MB | Deterministic trust-claim auditor for Open Knowledge Format bundles and cross-e… |
-| 2026-11-26 02:19:00 | [chronicle-lob](https://pypi.org/project/chronicle-lob/) | 0.3.0 | David Engelmann | 2.4 MB | Deterministic limit order book CLI, CWAL binary encoder, and typed replay and b… |
+| 2026-11-26 02:19:20 | [simraft-kv](https://pypi.org/project/simraft-kv/) | 0.2.0 | David Engelmann | 3.3 MB | Deterministic Raft chaos simulator CLI and typed linearizability sweep SDK. |
+| 2026-11-26 02:19:59 | [dglab-kit-python](https://pypi.org/project/dglab-kit-python/) | 0.1.0 | LF112 | 84.5 kB | Python SDK for the DG-LAB App V3 and V4 WebSocket protocols. |
+| 2026-11-26 02:20:24 | [maryada](https://pypi.org/project/maryada/) | 0.3.0 |  | 2.7 MB | Outward-rounded binary64 interval arithmetic |
+| 2026-11-26 02:24:23 | [verirun](https://pypi.org/project/verirun/) | 0.2.0 | David Engelmann | 4.1 MB | Content-addressed deterministic task runner CLI and typed Merkle manifest verif… |
+| 2026-11-26 02:31:20 | [pylib-quitanda](https://pypi.org/project/pylib-quitanda/) | 0.1.0 |  | 5.1 kB | Uma saudação de exemplo para aprender a publicar pacotes Python. |
+| 2026-11-26 02:33:05 | [field-studio-sdk](https://pypi.org/project/field-studio-sdk/) | 0.1.0 |  | 30.4 kB | Typed clients and data contracts for Field Studio |
+| 2026-11-26 02:42:53 | [xqo-flows](https://pypi.org/project/xqo-flows/) | 3.2.0 | dudikkocak | 681.0 kB | Visual workflows for xqo: a FlowGram.AI editor, a flow runner and remote workers |
+| 2026-11-26 02:42:54 | [adk-connectors](https://pypi.org/project/adk-connectors/) | 0.1.0 |  | 68.8 kB | Per-user connector registry for Google ADK: users register MCP/OpenAPI/OAuth2 c… |
+| 2026-11-26 02:43:08 | [udah-scorer](https://pypi.org/project/udah-scorer/) | 0.1.0 | Guanghao Li | 40.0 kB | Deterministic U/D/A/H scores for multi-turn conversations and traceAI exports,… |
+| 2026-11-26 02:45:01 | [xqo-flows-runner](https://pypi.org/project/xqo-flows-runner/) | 3.2.0 | dudikkocak | 24.8 kB | Headless remote worker for xqo flows: runs flow steps and whole flows with its… |
+| 2026-11-26 02:48:16 | [amax](https://pypi.org/project/amax/) | 0.1.0 | OpenAirymax | 18.0 kB | AMAX 推理作业命令行（AiryMax 软件栈的作业与凭证接口） |
+| 2026-11-26 02:50:09 | [pfig](https://pypi.org/project/pfig/) | 0.1.0 | pfig maintainers <maintainers… | 1.9 MB | A tiny, strict DSL for declarative object configuration |
+| 2026-11-26 02:51:59 | [lifatoolkit](https://pypi.org/project/lifatoolkit/) | 0.1.0 | Rodrigo Alves Dias <diasrodri… | 62.4 kB | Toolkit multifisica para simulacoes (MD, MC, quantica, fluidos, spins) |
+| 2026-11-26 02:54:59 | [secondkey](https://pypi.org/project/secondkey/) | 0.2.2 | Abhishek | 151.9 kB | The second key for every AI agent action: approve, snapshot and undo destructiv… |
+| 2026-11-26 02:55:33 | [stealthmcp](https://pypi.org/project/stealthmcp/) | 0.1.0 | Levon Tumanyan | 216.2 kB | Stealth browser automation MCP server for AI coding agents on macOS |
+| 2026-11-26 02:58:17 | [onsetkit](https://pypi.org/project/onsetkit/) | 0.2.0 | Jaskaran Singh | 29.9 kB | Event-onset labels, optimal stratified sampling and temporal validation |
+| 2026-11-26 03:00:41 | [system-loopback](https://pypi.org/project/system-loopback/) | 0.1.0 | huangjunsen0406 | 69.5 kB | Zero-driver cross-platform system audio loopback capture (macOS Core Audio Tap,… |
+| 2026-11-26 03:01:15 | [sanchousf-ai-toolkit-video](https://pypi.org/project/sanchousf-ai-toolkit-video/) | 0.1.0 | sanchousf | 70.2 kB | Fast, lossless (zero-reencode) video container & track manipulation toolkit |
+| 2026-11-26 03:01:29 | [knowyouragenticai](https://pypi.org/project/knowyouragenticai/) | 0.1.0 | Orume Dominic Uririe | 10.3 kB | Know Your Agentic AI: one MCP server that reviews the code an AI agent wrote, r… |
+| 2026-11-26 03:01:49 | [exaone](https://pypi.org/project/exaone/) | 0.1.0 | RektPunk | 20.9 kB | Unofficial Python client for the EXAONE API Platform |
+| 2026-11-26 03:04:08 | [fastapi-architecture-cli](https://pypi.org/project/fastapi-architecture-cli/) | 0.1.0 | Tu nombre | 6.7 kB | Generador de estructuras para proyectos FastAPI |
+| 2026-11-26 03:04:33 | [vekta](https://pypi.org/project/vekta/) | 0.1.1 | Guillaume Latreille | 16.4 kB | NumPy-based numerical tools: grids, finite differences, Laplace solver, Fourier… |
+| 2026-11-26 03:04:54 | [leandock](https://pypi.org/project/leandock/) | 0.2.0 |  | 7.7 MB | Drop-in, zero-config, non-destructive resource optimizer wrapper for Docker Com… |
+| 2026-11-26 03:05:00 | [nby9](https://pypi.org/project/nby9/) | 0.2.0 | Prem Neupane | 50.5 kB | Generate completed 9x9 Sudoku grids quickly and measure how samples are distrib… |
+| 2026-11-26 03:10:04 | [wavefunction-field](https://pypi.org/project/wavefunction-field/) | 0.1.0a3 | Justin Hart, Viridis LLC | 17.3 MB | Pre-alpha reference implementation of the Wavefunction Field Protocol |
+| 2026-11-26 03:13:18 | [dex-connector-supabase](https://pypi.org/project/dex-connector-supabase/) | 0.1.0 |  | 90.2 kB | Supabase connector for Dex Flows |
+| 2026-11-26 03:16:20 | [logmorph](https://pypi.org/project/logmorph/) | 0.1.2 | Abhay Paul <abhaypal058@gmail… | 21.3 kB | Ultra-lightweight, zero-dependency telemetry and log shipping client for LogMor… |
+| 2026-11-26 03:16:41 | [mcp-virtual-shell](https://pypi.org/project/mcp-virtual-shell/) | 0.0.1 | TheNorthS | 659.9 kB | A bounded virtual command gateway for MCP tools |

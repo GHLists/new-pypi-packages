@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T02:19:20Z,simraft-kv,0.2.0,David Engelmann,MIT OR Apache-2.0,3332879,Deterministic Raft chaos simulator CLI and typed linearizability sweep SDK.
+2026-11-26T02:19:59Z,dglab-kit-python,0.1.0,LF112,,84520,Python SDK for the DG-LAB App V3 and V4 WebSocket protocols.
+2026-11-26T02:20:24Z,maryada,0.3.0,,MIT OR Apache-2.0,2724485,Outward-rounded binary64 interval arithmetic
+2026-11-26T02:24:23Z,verirun,0.2.0,David Engelmann,MIT OR Apache-2.0,4104794,Content-addressed deterministic task runner CLI and typed Merkle manifest verification SDK.
+2026-11-26T02:31:20Z,pylib-quitanda,0.1.0,,,5092,Uma saudação de exemplo para aprender a publicar pacotes Python.
+2026-11-26T02:33:05Z,field-studio-sdk,0.1.0,,MIT,30366,Typed clients and data contracts for Field Studio
+2026-11-26T02:42:53Z,xqo-flows,3.2.0,dudikkocak,MIT,680964,"Visual workflows for xqo: a FlowGram.AI editor, a flow runner and remote workers"
+2026-11-26T02:42:54Z,adk-connectors,0.1.0,,Apache-2.0,68806,"Per-user connector registry for Google ADK: users register MCP/OpenAPI/OAuth2 connectors, the ADK runner picks them up at request time."
+2026-11-26T02:43:08Z,udah-scorer,0.1.0,Guanghao Li,MIT,40020,"Deterministic U/D/A/H scores for multi-turn conversations and traceAI exports, standard library only."
+2026-11-26T02:45:01Z,xqo-flows-runner,3.2.0,dudikkocak,MIT,24803,Headless remote worker for xqo flows: runs flow steps and whole flows with its own agents
+2026-11-26T02:48:16Z,amax,0.1.0,OpenAirymax,Apache-2.0,18015,AMAX 推理作业命令行（AiryMax 软件栈的作业与凭证接口）
+2026-11-26T02:50:09Z,pfig,0.1.0,pfig maintainers <maintainers@pfig.dev>,Apache-2.0,1919576,"A tiny, strict DSL for declarative object configuration"
+2026-11-26T02:51:59Z,lifatoolkit,0.1.0,Rodrigo Alves Dias <diasrodri@gmail.com>,MIT,62352,"Toolkit multifisica para simulacoes (MD, MC, quantica, fluidos, spins)"
+2026-11-26T02:54:59Z,secondkey,0.2.2,Abhishek,Apache-2.0,151914,"The second key for every AI agent action: approve, snapshot and undo destructive commands."
+2026-11-26T02:55:33Z,stealthmcp,0.1.0,Levon Tumanyan,MIT,216233,Stealth browser automation MCP server for AI coding agents on macOS
+2026-11-26T02:58:17Z,onsetkit,0.2.0,Jaskaran Singh,MIT,29888,"Event-onset labels, optimal stratified sampling and temporal validation"
+2026-11-26T03:00:41Z,system-loopback,0.1.0,huangjunsen0406,MIT,69545,"Zero-driver cross-platform system audio loopback capture (macOS Core Audio Tap, Windows WASAPI, Linux PipeWire/PulseAudio) for Python Voice AI, AEC, and transcription."
+2026-11-26T03:01:15Z,sanchousf-ai-toolkit-video,0.1.0,sanchousf,MIT,70183,"Fast, lossless (zero-reencode) video container & track manipulation toolkit"
+2026-11-26T03:01:29Z,knowyouragenticai,0.1.0,Orume Dominic Uririe,MIT,10297,"Know Your Agentic AI: one MCP server that reviews the code an AI agent wrote, reports the errors in it, and keeps a tamper-evident receipt of what it did."
+2026-11-26T03:01:49Z,exaone,0.1.0,RektPunk,,20851,Unofficial Python client for the EXAONE API Platform
+2026-11-26T03:04:08Z,fastapi-architecture-cli,0.1.0,Tu nombre,,6709,Generador de estructuras para proyectos FastAPI
+2026-11-26T03:04:33Z,vekta,0.1.1,Guillaume Latreille,MIT,16365,"NumPy-based numerical tools: grids, finite differences, Laplace solver, Fourier series, and ODE integrators"
+2026-11-26T03:04:54Z,leandock,0.2.0,,MIT,7673404,"Drop-in, zero-config, non-destructive resource optimizer wrapper for Docker Compose"
+2026-11-26T03:05:00Z,nby9,0.2.0,Prem Neupane,MIT,50531,Generate completed 9x9 Sudoku grids quickly and measure how samples are distributed.
+2026-11-26T03:10:04Z,wavefunction-field,0.1.0a3,"Justin Hart, Viridis LLC",Apache-2.0,17333500,Pre-alpha reference implementation of the Wavefunction Field Protocol
+2026-11-26T03:13:18Z,dex-connector-supabase,0.1.0,,MIT,90166,Supabase connector for Dex Flows
+2026-11-26T03:16:20Z,logmorph,0.1.2,Abhay Paul <abhaypal058@gmail.com>,MIT,21317,"Ultra-lightweight, zero-dependency telemetry and log shipping client for LogMorph."
+2026-11-26T03:16:41Z,mcp-virtual-shell,0.0.1,TheNorthS,MIT,659894,A bounded virtual command gateway for MCP tools
