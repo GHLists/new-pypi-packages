@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T03:21:48Z,loghunt,0.2.0,Thanut Jongteerathanachote,MIT,252166,"Hunt bots, scanners and botnets in nginx/apache access logs. Every flag comes with a reason."
+2026-11-26T03:23:48Z,repo-ffwd,0.0.0.dev0,,,1775,Reserved package name; project under development.
+2026-11-26T03:27:18Z,gras-engine,0.1.0,Mauricio Maroto <maulberto3@hotmail.com>,MIT,523180,"Neural architecture search by genetic programming: a step-race that evolves, trains and ranks flodl networks"
+2026-11-26T03:29:33Z,mendari,0.1.0,Mendari contributors,Apache-2.0,3936758,"Open-source governance and evaluation for healthcare AI agents: policy, human review, audit and published evaluations."
+2026-11-26T03:30:31Z,feraterra-sdk,4.9.1,,MIT,273738,"FeraTerra / Arena Exchange official zero-dependency Python REST/WS, 64-byte HFT binary wire, ArenaITCH L3, CCXT adapter, 24-tool MCP gateway, and EVM Clearinghouse client SDK."
+2026-11-26T03:36:00Z,rhinotape,0.4.0,rhinotape contributors,MIT,748122,"Record, replay, and assert on LLM HTTP & SSE streaming calls (tokens, cost, tool calls) in pytest."
+2026-11-26T03:42:01Z,chatgpt-float,1.0.0,,MIT,23922,"Floating, always-on-top ChatGPT window toggled with Alt+Space (Linux, Windows, macOS)"
+2026-11-26T03:46:05Z,openai-mock,4.0.0,GPT-Zero Contributors,Apache-2.0,183534,Offline multi-protocol mock LLM server (OpenAI Chat Completions / Responses / Anthropic Messages) for agentic benchmarks
+2026-11-26T03:47:37Z,django-notion-sync,0.1.0,,MIT,182939,"Sync Django models with Notion databases: inline calls, a retrying outbox, and edits synced back through webhooks."
+2026-11-26T03:55:14Z,turbo-desktop-mcp,0.1.0,,MIT,175867,UIA-based MCP server for driving Windows desktop apps with compact snapshots and delta diffs
+2026-11-26T03:56:09Z,user-xinli-project,1.0.0,user-xinli,MIT,13966,基于 ACPs-SDK 的双智能体心理咨询系统：InterviewAgent 负责访谈与分析，PsychologyAgent 负责给出解决方案
+2026-11-26T04:02:23Z,zero-grep,0.1.1,zero-grep contributors,MIT,4620161,"Fast, indexed code search for large repositories"
+2026-11-26T04:07:38Z,deepvis,0.1.0,bozcomlekci,MIT,2657860,"See inside any neural network — PyTorch, JAX, Keras, ONNX or a saved file: every layer drawn from its own numbers, unrolled into math, editable, live while it trains, with a 3Blue1Brown aesthetic."
+2026-11-26T04:07:44Z,openfoundry-agent-framework,0.1.0,Sharjeel Baig,Apache-2.0,45338,"Run the Microsoft Agent Framework SDK against a local openFoundry project — no Azure subscription, no Entra tenant."
+2026-11-26T04:08:48Z,mind-recursive,0.1.0,Mind Lab,MIT,298318,"Python SDK for the Mind Recursive platform: custom training loops, managed training, deployment and inference"
+2026-11-26T04:11:43Z,agentenv-vfs,0.4.2,,Apache-2.0,116124,agent-env plugin: any env's MCP tools as shell commands in a Mirage workspace (agentvfs)
+2026-11-26T04:15:12Z,jatai,0.0.1,Tarlis Tortelli,GPL-3.0-or-later,28983,TODO: describe jatai
+2026-11-26T04:15:16Z,pcb-guardrails,0.2.2,Yuki Watanabe,MIT,175900,"Independent checks of what the PCB fab actually receives (Gerber + drill vs. schematic netlist), for AI-assisted and human PCB design."
+2026-11-26T04:16:35Z,kgcss,1.0.0,Kovid Goyal <kovid@kovidgoyal.net>,BSD-3-Clause,15175225,"Fast and comprehensive CSS handling: tokenizing, parsing, a mutable object model, serialization, selector matching, media queries, colors, fonts and shorthands, with a C99 backend"
+2026-11-26T04:16:59Z,wzw-utils,0.1.3,,,4504,一个用于学习 Python 公共库构建和发布的示例工程
