@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-26T05:20:41.100644Z",
-    "path": "data/new-packages-2026-11-26T06-19-26-484128Z.csv",
-    "to": "2026-11-26T06:19:26.484128Z"
+    "count": 27,
+    "from": "2026-11-26T06:19:26.484128Z",
+    "path": "data/new-packages-2026-11-26T07-18-45-476785Z.csv",
+    "to": "2026-11-26T07:18:45.476785Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-26T03:33:36Z",
       "package": "zabob-retire",
       "since": "2026-11-26T03:20:55.434556Z",
       "version": null
     }
   ],
-  "serial": 44189987,
+  "serial": 44191704,
   "source_truncated": false,
-  "window": "2026-11-26T06:19:26.484128Z"
+  "window": "2026-11-26T07:18:45.476785Z"
 }

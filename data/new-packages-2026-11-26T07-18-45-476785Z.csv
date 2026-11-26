@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T06:22:01Z,llm-modelcheck,0.4.0,上海治历科技有限公司（治历科技） <viveyan@126.com>,MIT,91676,检测大模型 API 端点是否在掺水（换模型 / 降级 / 功能阉割）。零依赖，支持 OpenAI 兼容 / Anthropic / Gemini；只做证伪不做证真。
+2026-11-26T06:26:19Z,skillshare-cli,0.32.0,,MIT,69617985,Share skills across AI CLI tools
+2026-11-26T06:28:37Z,agents-for-everything-cli,0.1.1,,Apache-2.0,19781,"CLI (`agents-for-everything` / `afe`) for searching, adding, validating, testing, and exporting afe/v1 agents"
+2026-11-26T06:29:10Z,strands-lancedb-memory,0.1.0,Shreyas Gosavi,Apache-2.0,42337,"Embedded, tenant-scoped LanceDB memory store for Strands Agents"
+2026-11-26T06:30:00Z,life-admin-mcp,1.0.1,Bishal Karki,MIT,85971,"MCP server that finds recurring subscriptions in your bank statement CSV, tracks trials, bills and expiring documents, and suggests what to cancel. Local storage, no network calls."
+2026-11-26T06:31:12Z,openswe,0.0.1,OpenSWE <support@openswe.net>,MIT,1651,Reserved for OpenSWE (https://github.com/OpenSWE).
+2026-11-26T06:37:34Z,idlefree-mcp,0.1.0,Frank Zhang,MIT,19008,"MCP tools for the IdleFree family: check and reserve PyPI names, more tools as the series grows."
+2026-11-26T06:39:03Z,griptape-datacircle,0.1.0,,MIT,19657,A Griptape tool for the Datacircle API: find the best GTM APIs
+2026-11-26T06:43:44Z,AlkaMEE,0.1.0,,,253293,A minimal Python package for magnetoelectric effect
+2026-11-26T06:48:45Z,falx,0.7.0,minamikik <minamikik@users.noreply.github.com>,MIT,313651,Python library and CLI wrapper for fal.ai queue APIs
+2026-11-26T06:54:10Z,dns-sentinel,0.1.1,DNS Sentinel contributors,MIT,24874,"A practical, read-only DNS configuration security auditor"
+2026-11-26T06:54:14Z,trading-engine-interface,0.56.25,Martian Mobile,MIT,82761,"Strategy contract for the Martian Mobile trading engine: StrategyProtocol, models, enums and the maker-fill kernel"
+2026-11-26T06:56:34Z,baatzo,0.1.0,Aashita Technosoft Private Limited,MIT,12540,"Send WhatsApp templates with the Baatzo API, read their status and verify webhooks."
+2026-11-26T06:57:20Z,actentra,0.1.0a0,,Apache-2.0,463868,"Lightweight, local-first deterministic execution boundary for AI agents."
+2026-11-26T06:58:45Z,pindrift,0.1.0,SHer3061,MIT,140929,"Continuous drift monitoring for MCP servers and agent skills. Scan once, pin the manifest, detect silent redefinition."
+2026-11-26T07:01:10Z,llm-d-validate,0.1.1,The llm-d Authors,Apache-2.0,1489701,Roll out llm-d with confidence: contract and regression testing for deployed llm-d model serving stacks
+2026-11-26T07:03:27Z,codex-desk,0.1.0a29,,MIT,87963,Find saved Codex answers and continue native conversations in a local workbench
+2026-11-26T07:05:34Z,signal-chain-generator,0.1.0,,Apache-2.0,1035777,"Type a song, pick a guitar, get a dialled-in HX Stomp XL preset - pushed straight to the pedal."
+2026-11-26T07:06:32Z,asterust,0.1.0,,MIT OR Apache-2.0,4517296,Hierarchical network device config parsing with typed platform views (IOS XR).
+2026-11-26T07:10:50Z,qieyun-tts-mcp,0.2.0,LIU Jin-zhu,MIT,23793,切韵TTS 查字与拟音 MCP Server：汉字切韵音系转写、《广韵》释义与中古音韵地位查询、单字拟音音频、声母韵母反查小韵辖字
+2026-11-26T07:13:18Z,openfoci,0.1.0,OpenFOCI Contributors,MIT,60799,"Open-source BLE driver, telemetry engine, and local-first biofeedback visualizer for FOCI wearables."
+2026-11-26T07:14:38Z,manina,0.0.1,Manina AI,Apache-2.0,1810,Manina AI: fast on-device action models for phone agents. Client coming soon.
+2026-11-26T07:14:39Z,manina-ai,0.0.1,Manina AI,Apache-2.0,1839,Manina AI: fast on-device action models for phone agents. Client coming soon.
+2026-11-26T07:15:23Z,stagetui,0.1.0a1,,MIT OR Apache-2.0,111989890,"Rust-first TUI engine for agent harnesses and humans: rich terminal apps, headless snapshots, flawless Arabic/RTL."
+2026-11-26T07:16:07Z,unique-sheetreview,0.1.0,Unique50101,MIT,12779,Scan CSV and Excel files and mark data quality issues directly on a review copy.
+2026-11-26T07:17:40Z,smswire,0.2.0,,MIT,35602,Official Python SDK for SMSWire: send SMS and one-time codes through your own Android phones.
+2026-11-26T07:17:53Z,chathedge,0.0.1,ChatHedge <support@chathedge.com>,MIT,1820,Reserved for ChatHedge. The product is coming soon. https://chathedge.com
