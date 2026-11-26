@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T08:20:22Z,playwright-rust,0.51.0,playwright_rust contributors,MIT,27271043,Playwright-compatible Python API backed by a Rust browser core
+2026-11-26T08:22:05Z,zarr-kvikio,0.1.0,Severin Dicks,MIT,86890,A zarr-python codec pipeline that reads chunks straight into GPU memory with KvikIO and decodes them with nvCOMP
+2026-11-26T08:24:54Z,wiaudit,0.1.8,,Apache-2.0,87519,Fix AADSTS700213 and audit GitHub Actions to Azure OIDC: finds risky federated credentials (workload identity federation) in Entra ID and explains why azure/login cannot get a token.
+2026-11-26T08:25:40Z,r3trace,0.6.51,Michael Theologitis,MIT AND Apache-2.0,743657,"Just-in-time reasoning over a collection of documents: surface relevance, structure it, reason over it."
+2026-11-26T08:29:53Z,xippios-usda-fas,0.1.0,XIPPIOS GmbH,Apache-2.0,48860,Shared code of the USDA FAS sources
+2026-11-26T08:29:59Z,agenthon-quant-lab,0.3.1,,MIT AND CC-BY-4.0 AND CC-BY-SA-4.0,5108468,Reproduce a cost-aware Bitcoin momentum study with independent portfolio verification
+2026-11-26T08:30:25Z,maas-python-sdk,0.1.0,MaaS SDK contributors,MIT,103057,"Python SDK for the MaaS platform (OCR, TTS and ASR)"
+2026-11-26T08:32:29Z,offerbound,0.1.0,Mohammad Fadhel Hasbullah,MIT,255066,Local-first job hunt copilot
+2026-11-26T08:34:25Z,kuberay-client,1.8.0,,Apache-2.0,37237,Python Client for Kuberay
+2026-11-26T08:35:11Z,hashirai-sdk,0.0.0,,,1718,Name reserved. The Hashirai SDK is distributed privately.
+2026-11-26T08:35:15Z,portail,0.1.0a1,Gert Behiels,PolyForm-Noncommercial-1.0.0,218417,"A framework for workspace web apps: serving, stop/restart/list, page events, the MCP server base and a filter language."
+2026-11-26T08:39:59Z,black-rainbow,0.1.0,,MIT,79504,"Dependency-free, function-first terminal user interfaces"
+2026-11-26T08:41:50Z,ducklet,0.0.1,,,2450,"Placeholder for ducklet, an in-browser DuckDB workspace at ducklet.dev. No code yet."
+2026-11-26T08:41:55Z,aviateka-mcp,0.4.1,Aviateka contributors,MIT,99911,"Aviateka: open catalog of aircraft, WIG craft and hydrofoil design tools (RU/EN) with calculators, as an MCP server"
+2026-11-26T08:43:21Z,apiverify,0.1.2,,MIT,38642,"Source-backed check of whether a Python API exists in an exact package version. Answers verified, not_found, or cannot_verify."
+2026-11-26T08:44:04Z,astropals,0.0.1,Sriram Sankar,,2871,PALS (PArticle-Linked Spectra): synthetic HI cubes whose every spectral feature is linked to the simulation particles that produce it. Placeholder release; the first working version follows the PALS…
+2026-11-26T08:45:45Z,sshcnfgr,0.2.0b1,Thomas Baer <thomas.baer@tbaer.de>,MIT,91853,"TUI, optional Qt6 GUI, and CLI to manage OpenSSH host configs from a single TOML file"
+2026-11-26T08:47:30Z,mirascope-datacircle,0.1.0,,MIT,19949,Mirascope tools for the Datacircle API: find the best GTM APIs
+2026-11-26T08:48:47Z,rufee,0.2.0,,,1305679,"peewee's SQL rendering Context, implemented in Rust"
+2026-11-26T08:50:40Z,odoo-addon-sy-crm-salesperson-planner-extended-phonecall-summary-predefined,18.0.1.0.0.1,Sygel,AGPL-3,38504,Use predefined summaries when rescheduling visits as phone calls
+2026-11-26T08:51:45Z,xstars,1.3.1,Yuxing Dai (@Frankkk1912),MIT,332779,"Excel and WPS wet-lab statistics and figures for Western blot (WB), qPCR, CCK-8, and ELISA. Not the astronomy XSTAR code."
+2026-11-26T08:52:15Z,zabob-retirement,1.0.0b1,,MIT,12045263,"Zabob Retirement: a retirement simulator for your future, with scenario comparison and Monte Carlo ensembles"
+2026-11-26T08:52:26Z,misumi-mcp,0.1.0,Jason Chueh,"MIT License Copyright (c) 2026 Jason Chueh Permission is hereby granted, free of charge, to any per…",387426,讓 AI agent 使用 MISUMI 台灣型錄的 MCP server：搜尋零件、查規格與價格、下載 CAD，密碼不經過 LLM
+2026-11-26T08:52:43Z,xml-encoding-detector,0.1.0,namnv0410,MIT,7790,Lightweight XML encoding detector for Python.
+2026-11-26T08:53:41Z,rh-pycordis-action-memory,0.1.0,Felix-Zhenghao,MIT,2496,Remind the model what the robot just did by adding the last five executed actions to every turn. Provides one user message per turn and no tool.
+2026-11-26T08:53:43Z,rh-pycordis-libero-atomic-action-interpreter,0.1.0,Felix-Zhenghao,MIT,3395,"Interpret an atomic action and its step size as the action command LIBERO's Franka can execute, with the number of environment steps needed to carry it out. Provides the service `libero_atomic_action…"
+2026-11-26T08:53:44Z,rh-pycordis-libero-atomic-action,0.1.0,Felix-Zhenghao,MIT,7091,"Let the model move the robot in LIBERO one atomic action at a time: translate up to 5 cm, rotate up to 20 degrees, open or close the gripper, or hold. Provides the turn-ending tool `action_libero_ato…"
+2026-11-26T08:53:46Z,rh-pycordis-libero-env,0.1.0,Felix-Zhenghao,MIT,4873,"Run LIBERO manipulation tasks in simulation, from a fork. Builds one environment per run and registers it with the environment pool. Provides the task instruction, the success check and procedural sc…"
+2026-11-26T08:55:21Z,langgraph-checkpoint-opengauss,0.1.0rc1,Chao Li,MIT,43159,openGauss checkpoint and store backends for LangGraph
+2026-11-26T08:56:41Z,openmapp-analyses,1.0.1,Arpita Mondal,,58863,"Which reinterpretation and analysis-preservation tools implement which experimental analyses, and which analyses have a published statistical model"
+2026-11-26T08:58:18Z,ad-cli,0.1.0,ad-cli contributors,Apache-2.0,138036,"ad — Ascend Infra command line. Auto-discovered, AI-friendly."
+2026-11-26T08:58:19Z,cann-cli,0.1.0,cann-cli contributors,Apache-2.0,138285,"cann — CANN Infra command line. Auto-discovered, AI-friendly."
+2026-11-26T08:58:21Z,ogd-cli,0.1.0,ogd-cli contributors,Apache-2.0,138230,"ogd — openGauss Infra command line. Auto-discovered, AI-friendly."
+2026-11-26T08:58:22Z,oud-cli,0.1.0,oud-cli contributors,Apache-2.0,138182,"oud — openUBMC Infra command line. Auto-discovered, AI-friendly."
+2026-11-26T09:02:08Z,orca-gitcode-linker,0.1.0,Codeasier,MIT,30296,Expose GitCode merge request state to Orca through a local Gitea-compatible API
+2026-11-26T09:02:27Z,examen-civique-france,1.0.0,Nesra Vomigarbi <data@examen-civique-test.fr>,MIT AND CC-BY-4.0,73635,Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025.
+2026-11-26T09:03:35Z,categorical-value-grouping,0.1.0,Alexandros Liaskos,AGPL-3.0-only,48143,"Categorical value grouping for thematic symbology: named groups of the values of a field, checked, carried over to new data, coloured, counted in a legend and written as a map style expression, with…"
+2026-11-26T09:03:51Z,sse-claim-audit,0.1.0,,MIT,16963,Offline static audit of live HTTP push-channel documentation
+2026-11-26T09:03:59Z,graphql-claim-audit,0.1.0,,MIT,18901,Offline static audit of documented query-interface capabilities
+2026-11-26T09:04:07Z,grpc-claim-audit,0.1.0,,MIT,16038,Offline static audit of documented remote-procedure-call capabilities
+2026-11-26T09:04:15Z,mqtt-claim-audit,0.1.0,,MIT,15783,Offline documentation and messaging transport evidence audit
+2026-11-26T09:06:00Z,duyi-utils-xmj,0.1.3,,,4912,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-26T09:06:11Z,mox-agyusage,0.0.1,Morgan Chen,,2107897,AgyUsage CLI Application
+2026-11-26T09:06:34Z,axislar-core,0.10.1,authorlarciss <author.larciss@gmail.com>,MIT,111485,"AxisLar core — многомерное ядро: оси, фасеты, объекты (без продукта и плагинов)"
+2026-11-26T09:06:37Z,agoralar-analyzer-text,0.1.1,,MIT,5678,Текстовый предпросмотр как артефакт AxisLar (плагин AgoraLar)
+2026-11-26T09:06:38Z,agoralar-source-filesystem,0.3.1,,MIT,6502,Файловое дерево как источник объектов для AxisLar (плагин AgoraLar)
+2026-11-26T09:06:39Z,agoralar-source-http,0.2.1,,MIT,7844,HTTP JSON API как источник объектов для AxisLar (плагин AgoraLar)
+2026-11-26T09:07:29Z,hecke-mass,0.1.0,,MIT,955759,"Exact finite-table class mass, Hecke, and orbit arithmetic"
+2026-11-26T09:15:43Z,ictgw-auth,1.0.0,henry <henry.chou0312@gmail.com>,MIT,9412,Command-line login for the ICT campus network (gw.ict.ac.cn)
+2026-11-26T09:17:52Z,strk,0.0.1,,,2813,"Name reserved for Struktur, a local control plane for AI coding agents. Not released yet."
+2026-11-26T09:17:53Z,struktur,0.0.1,,,2907,Name reserved for Struktur; the package will be published as strk. Not released yet.
