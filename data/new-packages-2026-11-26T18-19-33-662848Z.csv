@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T17:20:55Z,protothor,0.4.0b1,"Alexander Engelsberger, Julius Voigt, Thomas Pfaff",MIT,273525,ProtoThor is a PyTorch Lightning based library for prototype based learning.
+2026-11-26T17:22:52Z,mcp-terminal-client-dev,0.1.92,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,MIT,20278,Async Python client for the mcp-terminal server. Hides all networking behind typed per-command methods.
+2026-11-26T17:23:08Z,24captcha-python,0.1.0,24Captcha <info@24captcha.online>,MIT,16879,Python module for easy integration with 24Captcha API
+2026-11-26T17:23:31Z,captchala,1.0.0,CaptchaLa <supply@captcha.la>,MIT,66131,"Official CaptchaLa server-side SDK for Python: validate CAPTCHA pass tokens, issue server tokens, moderate content."
+2026-11-26T17:26:25Z,nti-otel,0.1.0,,Apache-2.0,14974,"Tamper-evident records for AI agent tool calls, from an existing OpenTelemetry pipeline"
+2026-11-26T17:26:32Z,d2lang,0.9.0,,MPL-2.0,103844959,The official D2 diagram scripting language CLI
+2026-11-26T17:27:06Z,cwa,0.0.1,,MIT,1692,Python client for Taiwan Central Weather Administration (CWA) open data (work in progress).
+2026-11-26T17:27:28Z,geeode,1.0.5,"Devin Routh <devin.routh@uzh.ch>, Claudia Röösli <claudia.roeoesli@geo.uzh.ch>",BSD-3-Clause,46566,A Google Earth Engine package for Optimization via Differential Evolution
+2026-11-26T17:27:45Z,du-ml-practicals,0.1.2,,,16305,Export twelve machine learning practicals as Python scripts
+2026-11-26T17:28:07Z,permitplane-client,0.1.0a1,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",522320,PermitPlane application licensing client
+2026-11-26T17:28:29Z,carrybrain,0.1.0,,MIT,9935,"Python client for the Carrybrain API: memories, rules and skills for AI agents"
+2026-11-26T17:31:37Z,hartree-gto,1.0.0,Akshat Shukla,BSD-3-Clause,3497422,"Molecular electrostatics from fitted Gaussian densities and multipoles, with analytic forces, torques and stress"
+2026-11-26T17:31:59Z,ghostrow,1.0.0,Ghostrow Labs LLC,Proprietary (https://ghostrow.com/legal/eula),243032520,"Realistic, consistent test data from your database schema. Offline, seeded, no real personal data."
+2026-11-26T17:32:34Z,meltdown-terminal,2.2.0,Chirag Bhandarkar,MIT,61846,"A stressful, fast-typing survival game that runs entirely in your terminal."
+2026-11-26T17:33:49Z,pyflowlog,0.1.0,,MIT,8689,Prefix every log line with a trace id to follow one flow
+2026-11-26T17:35:14Z,ctxline,0.1.1,Eric Wafula,MIT,16625,A Claude Code status line for context and usage limits
+2026-11-26T17:35:45Z,vibecap,2.0.1,,,33420,Automatic video captions using Groq Whisper and FFmpeg
+2026-11-26T17:37:52Z,xynx,1.0.0,Your Name,,5423,My personal Python library
+2026-11-26T17:42:23Z,django-analytics-tags,0.1.0,T-101,MIT,15413,Simple Umami and Plausible analytics template tags for Django.
+2026-11-26T17:47:08Z,arc56-generated-bdutt-f32c3c6e,1.1.2026112517,BDutta18,,142329,Generated ARC-56 Algorand smart-contract clients for BDutta18/AlgoWagers.
+2026-11-26T17:47:32Z,projectrio,1.0.0,MattGree <MattGreeMSSB@gmail.com>,MIT,1340548,"Project Rio for Python: Mario Superstar Baseball stat files, game data and the Rio web API"
+2026-11-26T17:52:25Z,kv-routing-sim,0.1.0,Harshit,MIT,386275,Trace-driven simulator of multi-replica LLM KV-cache routing policies; its cache model was checked against a live vLLM 0.30.0 on a T4
+2026-11-26T17:53:16Z,mxi,1.3.4rc2,Graeme Winter <graeme.winter@gmail.com>,BSD-3-Clause AND MPL-2.0 AND MIT AND BSD-2-Clause AND LicenseRef-HDF5 AND Zlib AND GPL-2.0-or-later,18632606,"mxi, for macromolecular crystallography: the programs, and in Python its interface (mxi-ui), viewer (mxi-view), the referee mxeq and mxi_tools"
+2026-11-26T17:53:22Z,mxi-cuda,1.3.4rc2,Graeme Winter <graeme.winter@gmail.com>,BSD-3-Clause AND MPL-2.0 AND MIT AND BSD-2-Clause AND LicenseRef-HDF5 AND Zlib AND GPL-2.0-or-later…,12746691,"mxi, for macromolecular crystallography: the programs, and in Python its interface (mxi-ui), viewer (mxi-view), the referee mxeq and mxi_tools"
+2026-11-26T17:54:26Z,arc56-generated-marot-9a125d04,1.2.2026072010,marotipatre,,20788,Generated ARC-56 Algorand smart-contract clients for marotipatre/Hackathon-QuickStart-template.
+2026-11-26T17:55:19Z,timeplus-agentguard-codex-plugin,0.1.1,,Apache-2.0,15250,AgentGuard monitoring plugin for OpenAI Codex
+2026-11-26T17:55:30Z,arc56-generated-marot-7649302e,1.2.2026072010,marotipatre,,21643,Generated ARC-56 Algorand smart-contract clients for marotipatre/Vibekit-project.
+2026-11-26T17:56:33Z,arc56-generated-mbhat-a547211e,1.2.2026072010,MBhatti26,,11845,Generated ARC-56 Algorand smart-contract clients for MBhatti26/algorand_carbon_wallet.
+2026-11-26T17:56:51Z,uiforge-mcp,0.15.0,,MIT,6329385,"Local deterministic UI design studio & MCP server (Human UI Mode, MCP Mode, Combined Mode). PBR materials, animations, game engines, .NET/C++ desktop & web/React."
+2026-11-26T17:59:34Z,urban-bpmn,0.1.1,urban-bpmn contributors,MIT,2016039,"BPMN 2.0 process editor web component (<urban-bpmn>), served from FastAPI / Starlette"
+2026-11-26T17:59:58Z,antchain-antdigital-insurancesaas,1.1.0,Ant Chain SDK,Apache License 2.0,34282,Ant Chain INSURANCESAAS SDK Library for Python
+2026-11-26T18:02:10Z,webcite,0.1.0,Webcite,MIT,92663,"Parse documents to Markdown and verify claims against sources, with citations bound to quotes. Python SDK for the Webcite API."
+2026-11-26T18:02:14Z,iclltuning,1.0.0,Vignesh Shanmugasundaram <vigneshh2000@gmail.com>,,7744318,Hyperparameter Tuning on models present within Imbalanced Classification via Layered Learning (ICLL) method
+2026-11-26T18:02:20Z,agentvault-mls,0.1.2,MotiveFlow LLC,Apache-2.0 OR MIT,10976827,AgentVault's patched UniFFI Python bindings for mls-rs (RFC 9420 MLS)
+2026-11-26T18:02:56Z,langchain-webcite,0.1.0,Webcite,MIT,32736,"LangChain tools and retriever for Webcite: verify claims with citations bound to source passages, search sources, and parse documents to Markdown."
+2026-11-26T18:03:00Z,webcite-haystack,0.1.0,Webcite,MIT,32906,"Haystack components for Webcite: parse documents to Markdown, search sources, and verify claims with citations bound to source passages."
+2026-11-26T18:05:00Z,jetpack-sdk,0.1.1,JetPack Contributors,MIT OR Apache-2.0,23313,Lightweight Python Worker SDK for JetPack local IPC and proxy orchestration
+2026-11-26T18:05:37Z,bindview,0.1.0,Jakob Steuer,MIT,2766401,"Publication-quality figures of molecular interactions: small molecules, peptides, RNA, DNA and proteins, from one structure to an ensemble."
+2026-11-26T18:07:50Z,felupe-contact,0.1.0,Andreas Dutzler <a.dutzler@gmail.com>,GPL-3.0-or-later,161568,Contact Extension-package for FElupe.
+2026-11-26T18:09:41Z,gitsaga,0.1.0,Ram Pangeni,MIT,4412438,"The story of your repo in 60 seconds: a narrated, animated timeline of a git history with automatic milestone detection. One self-contained HTML file, optional GIF/MP4."
+2026-11-26T18:10:57Z,mcms-components,0.1.0,MikemathuKE,,58726,"Defines the reusable, declarative components that make up an MCMS site"
+2026-11-26T18:10:58Z,mcms-content,0.1.0,MikemathuKE,,35330,It provides a canonical MCMS representation of fields while allowing Django to remain the source of truth for database structure and persistence
+2026-11-26T18:10:59Z,mcms-core,0.1.0,MikemathuKE,,14026,Provides shared infrastructure and foundational abstractions used across the Modular CMS packages
+2026-11-26T18:11:00Z,mcms-data,0.1.0,MikemathuKE,,15517,Provides declarative data binding and runtime data resolution for MCMS
+2026-11-26T18:12:05Z,ocpp-sdk,1.0.0,Fauz Ecum,MIT,294796,"Async Python SDK for OCPP-J (1.6J, 2.0.1, 2.1): charge point and central system roles."
+2026-11-26T18:12:31Z,quantset,0.1.1,QuantSet <hello@quantset.dev>,MIT,22496,"Build AI hedge funds, autonomous trading agents & quant backtests in Python: 90,000+ global stocks (67 countries, 64yr history), reconciled SEC EDGAR XBRL financials, 4,899 ETF look-throughs, Wall St…"
+2026-11-26T18:12:43Z,silicon-cafe-tools,0.1.0,"""Silicon Café (1VR)"" <ikingst-ops@muse.ai>",MIT,28538,"LangChain and CrewAI tools for the 1VR Skill Store (3,175 agent skills), backed by the live Skill Store MCP server."
+2026-11-26T18:14:28Z,cacherift,0.2.0,,Apache-2.0,225702,"An open-source Python toolkit for detecting, diagnosing, and repairing silent prompt cache failures in multi-turn AI agents."
