@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T15:22:22Z,mcpico,0.1.0,,MIT,142655,"A lightweight, fully typed Python SDK for the Model Context Protocol"
+2026-11-26T15:23:11Z,pycub-studio,1.0.0,Lukas Rustler,Creative Commons Attribution 4.0 International (CC BY 4.0),95679965,"pyCub Studio - Cross-platform GUI, Blockly & Python IDE for iCub in PyBullet"
+2026-11-26T15:24:54Z,gramsort,1.0.0,,MIT,35252,"The open-source Instagram export manager: organize, caption, and deduplicate Meta Takeout downloads."
+2026-11-26T15:25:39Z,weaveforge-py,0.0.1.dev0,,,1874,Reserved name for the WeaveForge Python SDK. Not yet released publicly.
+2026-11-26T15:27:01Z,deffsss,0.3.2,,,11374,Create numbered Python templates beside your script or replace it.
+2026-11-26T15:27:02Z,hearthside,0.2.0,Frank Lynam,MIT,15547,"The chat terminal for hobkin: multi-line input that's yours, output above it, a status bar. Install it beside hobkin and `hobkin chat` uses it."
+2026-11-26T15:28:31Z,adaptive-learning-engine,0.2.0,Iftekhar Pranto,MIT,61010,"Bayesian knowledge tracing, personalised spaced repetition, item difficulty and dropout prediction as small, tested Python functions."
+2026-11-26T15:29:04Z,ecommerce-chat-agent,0.1.0,E-Commerce Chat Agent Maintainers,"MIT License Copyright (c) 2026 ecommerce-chat-agent contributors Permission is hereby granted, free…",35789,"Embeddable FastAPI router, WebSocket manager, and tiered AI/human session orchestrator for e-commerce stores."
+2026-11-26T15:29:20Z,venture-engine-sdk,0.1.0,,MIT,9573,"Zero-dependency Python 3.12 stdlib client SDK for the Venture Engine Unified EVM Risk, Gas & Invariant Gateway."
+2026-11-26T15:29:24Z,lectura-nlp-fr,2.0.0,"""Maxime Carrière (Lectura)"" <admin@lectura.world>",AGPL-3.0-or-later,771963,"French NLP (Lectura NLP-FR v1): text to phonetics and back, grammatical analysis, pedagogical spelling and grammar corrector, lexicon; through the Lectura public API or local models (no model include…"
+2026-11-26T15:29:28Z,lectura-nlp-en,1.0.0,"""Maxime Carrière (Lectura)"" <admin@lectura.world>",AGPL-3.0-or-later,440150,"English NLP (Lectura NLP-EN v1): text to phonetics and back (General American), grammatical analysis, pedagogical spelling and grammar corrector, lexicon; through the Lectura public API or local mode…"
+2026-11-26T15:29:31Z,lectura-traducteur,1.0.0,"""Maxime Carrière (Lectura)"" <admin@lectura.world>",AGPL-3.0-or-later,102800,"French <-> English translation (Lectura Traducteur): protected formulas (dates, times, currencies, measures), word alignment and in-context glossary, through the Lectura public API or local models (n…"
+2026-11-26T15:35:04Z,apemind-sdk,0.1.1,ApeCloud <support@apecloud.com>,Apache-2.0,94960,Official Python SDK for ApeMind (auto-generated from the public OpenAPI specification).
+2026-11-26T15:38:11Z,pethost-toolsets,0.1.0,Pethost,MIT,118074,"Claude's computer and browser toolsets and OpenAI's computer use, by toolsets and by code, on Pethost Agent Sandboxes."
+2026-11-26T15:41:36Z,enet2,2.7.2,Metehan Özbek <mthnzbk@gmail.com>,MIT,305382,Modern Python bindings for zpl-c/enet reliable UDP networking library
+2026-11-26T15:41:38Z,mincorr,0.3.0,Denis Demin,MIT,3688184,"Fast correlation matrices (Pearson, Spearman, Kendall, biweight midcorrelation, Hellinger correlation) computed in Rust"
+2026-11-26T15:42:36Z,mgsl,0.1.1,Tom Hilder <thilder@flatironinstitute.org>,GPL-3.0-or-later,99751,Metric Gaussian Stochastic Localisation in JAX
+2026-11-26T15:44:47Z,clearcaption,0.2.0,ClearCaption <21karrat@gmail.com>,MIT,10986,"YouTube transcripts that work from cloud servers (AWS, GCP, Colab): drop-in fallback for youtube-transcript-api, with timestamped translation."
+2026-11-26T15:47:52Z,quaderno,1.0.0,Santiago Arraga González,GPL-3.0-or-later,293382,Python API and command-line client for the Fujitsu QUADERNO e-paper tablet over USB and Wi-Fi
+2026-11-26T15:49:12Z,btai,0.1.1,Bernard,All rights reserved.,16494,btai.work public workflow launcher (catalog cache + zip fetch)
+2026-11-26T15:49:13Z,aioprecioscarburantes,0.1.0,jjprz,MIT,14046,Async client for Spanish fuel prices from the Ministry's PreciosCarburantes service
+2026-11-26T15:50:01Z,ebrowser,0.1.0,devanksinghchaudhary,MIT,60748,Browser loop for decision model to control the actual browser
+2026-11-26T15:50:09Z,pyfoil2d,0.1.2,,,2856697,轻量级 2D 游戏物理引擎，做矩形和圆的重叠检测。
+2026-11-26T15:51:55Z,diffneusim,1.0.0,,Apache-2.0 AND MIT AND CC-BY-3.0 AND LicenseRef-BSD-3-Clause-NC-MoBL-ARMS AND LicenseRef-BSD-3-Clau…,40428809,"A differentiable musculoskeletal simulator on the GPU, and the training pipelines of the DiffNeuSim paper"
+2026-11-26T15:54:47Z,filter2c,0.1.0,Abhishek Vijay Potekar,MIT,58863,"Design digital filters with SciPy and generate verified, dependency-free C code for microcontrollers."
+2026-11-26T15:54:56Z,sjtu-thesis,0.1.0,Joe Hoye Dow <luxunisgod123@gmail.com>,MIT,89465,"CLI for searching, downloading and managing SJTU degree theses"
+2026-11-26T15:55:50Z,uppercut-mgba-smoke,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,49201,"Run a Game Boy Advance ROM in native mGBA in an isolated sandbox: key taps, frame stepping, RAM probe, screenshots and Lua assertions, with the screenshots checked."
+2026-11-26T15:56:37Z,uppercut-iso9660,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,35114,"Read ISO 9660 disc images (2048-byte and raw 2352-byte sectors): walk directories, extract files with a SHA-256, and find a PlayStation 2 disc's SYSTEM.CNF and boot ELF."
+2026-11-26T15:57:13Z,qmgateway,0.1.0,,MIT,38827,Send SMS and one-time passwords with QMGateway. No dependencies.
+2026-11-26T15:57:34Z,uppercut-tts-worker,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,28583,"The JSON-lines protocol for a resident text-to-speech worker process, a GPU lock that queues, and a resumable job runner. Standard library only; no voice, sample or model is included."
+2026-11-26T15:58:17Z,libcloud-noderings,0.1.0,NodeRings <partners@noderings.com>,Apache-2.0,76565,Apache Libcloud compute and DNS drivers for NodeRings
+2026-11-26T15:58:35Z,uppercut-revisioned-file,0.1.0,Uppercut Labs <packages@uppercut-labs.com>,MIT,18098,"Atomic file writes (fsynced temporary file, os.replace, directory fsync) and a whole-file store with opaque revisions, 409-style conflicts and fsynced backups."
+2026-11-26T15:59:51Z,myle,0.1.0,,Apache-2.0,458660,The official Python SDK of the Myle API (https://api.myleapp.fr)
+2026-11-26T16:05:48Z,anb-console,1.0.1,Александр Бабаев,,108489,Простой менеджер консоли
+2026-11-26T16:07:18Z,symbolical-engine,1.0.0.0,,GPL-3.0-or-later,841492,"The calculation of Symbolical, the mathematical worksheet with 2D notation and units, without its window"
+2026-11-26T16:07:19Z,spotahead,0.0.1,"Ashkan Shahsavari, Ali Atabaigi",PolyForm-Noncommercial-1.0.0,6610,"SpotAhead: day-ahead forecast of the Belgian electricity price, every quarter hour. Placeholder release, full package coming."
+2026-11-26T16:08:00Z,symbolical-app,1.0.0.0,,GPL-3.0-or-later,8200569,Mathematical worksheet application with 2D notation and units
+2026-11-26T16:10:07Z,errand-lib,2026.11.26.2,Hugo Leclerc,MIT,110670,"What a project declares to errand, and what a run written in Python says to it"
+2026-11-26T16:11:15Z,advexp-prompts-solo,0.0.1,Alexey Ivakin,Apache-2.0,13492,Temporary PyPI name reservation; the real advexp-prompts-solo package (the free single-editor edition of the advexp.prompts console) is in development
+2026-11-26T16:11:26Z,mcph,0.0.1,Libor Krzyzanek,,3338,Add your description here
+2026-11-26T16:11:46Z,synrag,1.16.1,,Apache-2.0,51841,"Python client for the synrag retrieval engine: search, agent-ready context with citations, live updates"
+2026-11-26T16:12:27Z,synrag-mcp,1.16.1,,Apache-2.0,12610,"MCP server for synrag: hybrid search and compact, cited context over your documents for Claude, Cursor and any MCP client, on a plain CPU"
+2026-11-26T16:12:32Z,ouddm,0.4.4,Subir Hait <haitsubi@msu.edu>,MIT,78338,Exact likelihood and study design for drift diffusion models with Ornstein-Uhlenbeck drift dynamics
+2026-11-26T16:13:57Z,advexp-prompts-pro,0.0.1,Alexey Ivakin,Apache-2.0,13580,Defensive PyPI name reservation; the full advexp-prompts-pro plugin is distributed through a private package index after purchase and never appears on the public PyPI
+2026-11-26T16:14:24Z,tabledig,1.0.0,Perarulalan L,MIT,506080,"Pull named attributes (row labels) and their values out of table-style PDFs: financial statements, invoices, reports."
+2026-11-26T16:16:11Z,XPOSim,0.38.0,,MIT,1976559,"Scalar paraxial X-ray wave optics with NumPy, CuPy, PyTorch and JAX"
+2026-11-26T16:16:49Z,scrapescope,0.1.0,ipvolt,MIT,1040575,A local metering proxy that shows where a scraper's or browser agent's proxy bytes go.
+2026-11-26T16:16:53Z,advexp-prompts-enterprise,0.0.1,Alexey Ivakin,Apache-2.0,13755,Defensive PyPI name reservation; the advexp-prompts-enterprise plugin package is distributed through a private package index after purchase and never appears on the public PyPI
