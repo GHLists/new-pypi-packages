@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T16:46:24Z,reportdesigner,0.4.5,,Apache-2.0,9337225,"ReportDesigner engine for Python (Django, Flask, FastAPI, scripts): JSON report + data -> HTML/PDF. Native Rust core."
+2026-11-27T17:22:55Z,alkax-mcp,0.1.0,,LicenseRef-Alkax-Proprietary,11386,Local read-only Alkax digital-address MCP server
+2026-11-27T17:25:38Z,trackflow-python-cuda,0.6.1,Ouail Bendidi,Apache-2.0,217413,"Stream or export multi-object tracks with ONNX and optional Transformers detectors, ByteTrack, BoT-SORT, OC-SORT or BoostTrack, text search, floorplan projection, and anonymization. (NVIDIA CUDA buil…"
+2026-11-27T17:25:40Z,trackflow-python-tensorrt,0.6.1,Ouail Bendidi,Apache-2.0,217531,"Stream or export multi-object tracks with ONNX and optional Transformers detectors, ByteTrack, BoT-SORT, OC-SORT or BoostTrack, text search, floorplan projection, and anonymization. (NVIDIA TensorRT…"
+2026-11-27T17:32:30Z,mpstab,0.1.0,"Matteo Robbiati, Giulio Crognaletti, Mattia Robbiano, Roberto Di Lauro, Michele Grossi",Apache-2.0,3654267,Hybrid stabilizer tensor-network simulator for quantum circuits
+2026-11-27T17:38:26Z,proxy-market,0.1.0,,ISC,34804,Python client for the Proxy Market API
+2026-11-27T17:40:48Z,iso21423,0.1.0,,Apache-2.0,96495,ROS-free Python SDK for ISO 21423 (IMR / IMRFM) over MQTT
+2026-11-27T17:42:33Z,slideshow-assistant,0.1.0,Ami Listopad,,12275,STT app running during a presentation that lets you say trigger words for the next slide.
+2026-11-27T17:44:39Z,llama-index-memory-recallix,0.1.0,,Apache-2.0,11393,"Recallix as long-term memory of LlamaIndex agents: self-hosted, no LLM calls for memory, says when it has no record."
+2026-11-27T17:48:09Z,mcp-guard-lint,0.3.1,staggerlee60,MIT,18887,Zero-dependency static security and hygiene linter for MCP server configurations.
+2026-11-27T17:48:35Z,aha-hal,0.1.0,,GPL-3.0-or-later,234839,"Hardware access layer generated from Cheby, in C++17"
+2026-11-27T17:48:42Z,pyferrum,1.0.0,pyferrum contributors,MIT,11795748,"A Rust-core Python web framework. Hot paths in Rust, business logic in Python."
+2026-11-27T17:48:50Z,skillpy,0.0.1,"KhulnaSoft, Ltd",MIT,63330,"Library Skills, AI Agents using libraries, as intended, always up to date."
+2026-11-27T17:49:20Z,tpl-asc,1.0.1,Rohan R,MIT,82690,Thermodynamic Persistent Laplacian for Alignment-Free DNA Sequence Comparison
+2026-11-27T17:51:00Z,nslite,0.1.0,Ahad <author@example.com>,MIT,12607,A friendly school-math wrapper around NumPy and SciPy
+2026-11-27T17:53:19Z,optio-task-chat-participation,0.1.0,Kristof Csillag <kristof.csillag@deai-labs.com>,Apache-2.0,168428,An optio task through which an app's users take part in optio's agent chat as themselves
+2026-11-27T17:54:42Z,penalized-stream,0.1.0,Lee Tucker,MIT,282644,"Lasso, ridge and elastic net with absorbed fixed effects on data larger than memory, with cross-validation from one pass and post-double-selection inference"
+2026-11-27T17:55:45Z,macmonitor,1.0.0,Mohammad Alamin,MIT,94225,"MacMonitor — macOS hardware telemetry agent, Menu Bar controller, and BLE GATT peripheral for ESP32 OLED"
+2026-11-27T17:57:01Z,honestenv,0.1.0,,Apache-2.0,45180,A Harbor-compatible factory for verifiable agent tasks
+2026-11-27T17:59:06Z,filesonar,0.1.0,filesonar contributors,MIT,178724,"Local, private search over what your files contain (documents, PDFs, images), exposed to AI agents over MCP."
+2026-11-27T18:09:00Z,sop-retrieval-mcp,0.1.0,tanbopiao,MIT,26727,"Self-serve SOP retrieval MCP server: ingest local PDF/DOCX/text/Markdown SOPs, answer with document name, version and section citations. Runs fully locally over stdio."
+2026-11-27T18:11:02Z,taixuan-semantic-base,0.1.0,tanbopiao,MIT,30352,"Taixuan semantic translation base: three-state coupling adjudication with five canonical translation modes, plus an MCP server shell over stdio."
+2026-11-27T18:11:38Z,dokicasa,0.1.1,"""Dokidoc S.r.l. (DokiCasa)"" <tech@dokicasa.it>",MIT,105871,"SDK Python ufficiale di DokiCasa: Market Scanner (catasto, visure, ispezioni, censimenti, monitoraggi), sincrono e asyncio"
+2026-11-27T18:12:32Z,constraint-runtime,0.1.0,tanbopiao,Apache-2.0,50155,智能体约束运行时组件集：围栏规则引擎、影子运行器、熔断停机器、留痕重放器、结算凭证闸，附 MCP 服务壳
+2026-11-27T18:14:12Z,agent-eval-engine,0.2.0,tanbopiao,MIT,24133,"Verifiable agent evaluation engine: deterministic scoring, hash-chain audit trail, selftest CLI, MCP server shell over stdio."
+2026-11-27T18:16:22Z,rosettex,1.0.0,,MIT,25655620,"Translate scientific papers (TeX source or born-digital PDF) into another language with the original layout, for AI agent harnesses"
+2026-11-27T18:18:35Z,minecho,0.2.1,Audio Lab Utilities <lab@example.org>,MIT,4786,Runs a named audio experiment preset in a supervised child process.
