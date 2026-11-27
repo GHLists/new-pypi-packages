@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T18:20:20Z,pydantic-gui-settings-editor,1.0.0,TheTimebreaker,"This is free and unencumbered software released into the public domain. Anyone is free to copy, mod…",29263,A PySide6 / Qt based GUI editor for Pydantic(v2) settings models
+2026-11-27T18:20:32Z,waveferry,0.2.2,Audio Lab Utilities <lab@example.org>,MIT,4824,Fetch-and-fork helper for audio benchmark presets.
+2026-11-27T18:20:38Z,site-generator,0.1.1,Jordan M. Adler,MIT,44522,"Static site generator for the Valley AI sites: YAML content plus a Jinja2 template in, HTML out."
+2026-11-27T18:22:38Z,toneharbor,0.2.2,Audio Lab Utilities <lab@example.org>,MIT,4839,Session wrapper around a remote audio evaluation job.
+2026-11-27T18:24:27Z,audiorig,0.2.2,Audio Lab Utilities <lab@example.org>,MIT,4803,Transport and supervisor pair for waveform benchmark jobs.
+2026-11-27T18:25:13Z,openas,0.1.0,Gabriele Fariello,Apache-2.0,84666,"Line-by-line and chunked streaming I/O for plain and compressed files (.gz, .bz2, .xz, .zst) in text or binary mode across local paths, HTTP/HTTPS, FTP, and SSH/SFTP."
+2026-11-27T18:27:28Z,awcams,0.1.0,AitherOS,Apache-2.0,94381,"Private camera recording and one-line event summaries, on storage you own"
+2026-11-27T18:29:14Z,pr-forge-ai,0.5.0,Shubhransh Gupta,MIT,77798,Token-efficient PR-to-Production autonomous agent with Xcode 27 iOS skills and Zero-Bloat Swift.
+2026-11-27T18:30:30Z,openai-agents-fidem,0.1.0,Fidem <hola@fidemcheck.com>,MIT,11336,"Check which company operates an online shop before an AI agent pays. Fidem shop check as an OpenAI Agents SDK tool. Free, no API key."
+2026-11-27T18:30:33Z,crewai-fidem,0.1.0,Fidem <hola@fidemcheck.com>,MIT,11338,"Check which company operates an online shop before an AI agent pays. Fidem shop check as a CrewAI tool. Free, no API key."
+2026-11-27T18:31:04Z,a2a-matrix-quad-oracle,2.0.1,Edmund Hu <edmundhu@helloyunivia.com>,MIT,26885,"A2A Data Matrix Quad-Oracle — Deterministic MCP & x402 Oracles for Schedule-A/EmpCo, GSA SaaS Floors, FMC 541 Demurrage & NDAA 5949 IC Provenance"
+2026-11-27T18:32:22Z,libo11y,0.1.0,James Ainslie,Apache-2.0,203982,"Opinionated, elegant observability for Python built purely on OpenTelemetry."
+2026-11-27T18:32:32Z,awcrowd,0.1.0,Aitherium <hello@aitherium.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",64534,"Ask your crowd, keep every answer, and ask the answers a question: one model for poll votes, form answers, feedback posts and ratings, with consent, withdrawal, cited answers and an anonymised export."
+2026-11-27T18:33:15Z,kelpie-groupfinder,0.1.0,Sam Philipsborn,MIT,79094,The kelpie galaxy group finder: an iterative halo-based group finder for redshift surveys
+2026-11-27T18:34:25Z,driverkit,0.1.0,driverkit contributors,MIT,374774,The driverkit relay and MCP server: drive a driverkit-mounted web app from Python.
+2026-11-27T18:35:59Z,phonesimulator,3.13.0,Soflution Ltd,Apache-2.0,3344727,"Mirror and drive iOS Simulators, real iPhones, Android devices and macOS apps from Claude Code, CLI agents and the browser."
+2026-11-27T18:37:17Z,farstar,0.0.1,,MIT,1754,Farstar: the session layer for any sandbox. Placeholder release; the SDK is in development.
+2026-11-27T18:40:10Z,swadesh,0.1.0,,AGPL-3.0-or-later,3424167,"Bit-exact sacreBLEU-compatible BLEU/chrF/TER in Rust, AGPL-3.0; commercial licence available."
+2026-11-27T18:40:55Z,qmpass-cli,0.2.0,Qmpass,LicenseRef-Proprietary,37157,Run Qmpass release gate evaluations from your CI/CD pipeline.
+2026-11-27T18:41:58Z,b4n1-telemetry,0.1.1,,"Business Source License 1.1 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Rese…",16670,"Drop-in error reporting to a b4n1-telemetry collector: logging + uncaught exceptions, stdlib only."
+2026-11-27T18:42:05Z,questcast,4.1.2,,MIT,110542,Drafts X and LinkedIn posts from an author profile and a topic chosen at run time.
+2026-11-27T18:42:13Z,mangono-addon-mail_private_chat_restrict,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,7363,
+2026-11-27T18:42:15Z,mangono-addon-auth_security_full_install,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,3748,
+2026-11-27T18:42:18Z,mangono-addon-security_audit_log,19.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,20534,
+2026-11-27T18:42:32Z,b4n1-notary,0.2.1,,"Business Source License 1.1 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Rese…",19389800,"Authorship integrity and sealing: stamp, verify and list the proofs of a project. Bundles the engine, no compiler needed."
+2026-11-27T18:42:46Z,flashdate,1.5.1.1,Scrapinghub <opensource@zyte.com>,BSD-3-Clause,846988,"A faster dateparser: same API and results, common date formats read in microseconds"
+2026-11-27T18:43:23Z,jobboard,0.0.1,ShadowStrike <r@strategos.au>,Proprietary,3624,Reserved name — Jobboard. by ShadowStrike.
+2026-11-27T18:43:37Z,arc56-generated-mekal-01979841,1.2.2026072010,MekalaKaveri18,,18895,Generated ARC-56 Algorand smart-contract clients for MekalaKaveri18/Medi_Setu.
+2026-11-27T18:44:15Z,relock-memory,0.1.1,Praveen Kumar,Apache-2.0,203578,"Agent memory that unlocks on recall, rewrites on surprise, and re-locks. Prediction-error-gated, in-place memory reconsolidation for LLM agents."
+2026-11-27T18:44:41Z,arc56-generated-mekal-51752b0a,1.2.2026072010,MekalaKaveri18,,18931,Generated ARC-56 Algorand smart-contract clients for MekalaKaveri18/Project-2.
+2026-11-27T18:45:05Z,infinity-loop,0.1.0,Mark,,5316,Простой декоратор для бесконечного повтора функций
+2026-11-27T18:45:45Z,arc56-generated-meric-962270ca,1.2.2026072010,mericcintosun,,11812,Generated ARC-56 Algorand smart-contract clients for mericcintosun/alvion.
+2026-11-27T18:46:50Z,arc56-generated-meric-a459d38e,1.2.2026072010,mericcintosun,,23524,Generated ARC-56 Algorand smart-contract clients for mericcintosun/alvion-algorand.
+2026-11-27T18:48:50Z,pielog,0.1,Vitaly Magerya,GPL-3.0-or-later,29138,Hierarchical logging & execution tracing
+2026-11-27T18:50:33Z,netz-protocol,0.1.104,The Netz contributors,Apache-2.0,90826,"Dependency-free CBOR, sync, content, and durable-blob core for Netz"
+2026-11-27T18:50:51Z,pve-install-hetzner,2.0.0,foundata GmbH,GPL-3.0-or-later,134289,Install Proxmox VE on a Hetzner dedicated server from the Linux rescue system
+2026-11-27T18:52:35Z,miter,0.1.0,Kacper Piotrowski,Apache-2.0,17955949,Gradient-boosted decision trees with random oblique splits
+2026-11-27T18:54:12Z,tasksai-agent-skills,0.3.2,TasksAI,MIT,42935,"Free MCP discovery and budget-limited, single-use TasksAI skill purchases"
+2026-11-27T18:55:30Z,slopmonkey,1.0.0,Slop Monkey <support@slopmonkey.app>,MIT,14785,Free AI humanizer API client: make AI writing sound like you wrote it. Free to start.
+2026-11-27T18:56:48Z,pytest-systemd-slice,0.1.0,Michał Pasternak <michal.dtz@gmail.com>,MIT,29105,"Run each pytest session (with all xdist workers) in its own systemd scope inside a user slice, so memory limits and systemd-oomd hit the tests, not your desktop."
+2026-11-27T18:57:47Z,dreamlake-dash,0.1.0,"Ge Yang, Tom Tao",MIT,218345,"DreamLake experiment recording: metrics, tracks, artifacts and run lifecycle"
+2026-11-27T18:58:56Z,purgekv,0.4.1,,MIT,62144,An SSD tier for MLX KV caches on Apple Silicon: purgekv-server is mlx_lm.server that reloads chats from SSD instead of recomputing them
+2026-11-27T18:58:58Z,raindrop-clock,0.4.1,Toshihiro Kamiya <kamiya@mbj.nifty.com>,MIT,64002,A desktop clock drawn by water droplets running down slanted glass
+2026-11-27T18:59:35Z,coincurve-fork,22.0.0,Ofek Lev <oss@ofek.dev>,MIT OR Apache-2.0,65772714,Safest and fastest Python library for secp256k1 elliptic curve operations
+2026-11-27T18:59:41Z,unigpu,0.3.0,,MIT,277325,"GPU programming in Python with the numba-cuda API, on CUDA, ROCm, Metal, OpenCL and a CPU simulator"
+2026-11-27T19:05:38Z,dex-cli,0.1.0,,MIT,73690,"Plain-English requests in, ready-to-edit data engineering shell commands out, from a tiny local model."
+2026-11-27T19:05:38Z,dreamlake-eval,0.1.0,DreamLake,MIT,103301,Pytest discovery and explicit evaluation reports for long-running trials
+2026-11-27T19:05:39Z,itu-t-documents,2026.11.1,"""Jan.Reimes"" <github@jan-reimes.de>",MIT,242092,"Download and query ITU-T meeting documents (contributions, temporary documents, collective letters, reports) via API, CLI and MCP."
+2026-11-27T19:06:27Z,rd-usr,1.0.0,Adrian Schreyer,MIT,329588,Ultrafast Shape Recognition (USR) moments and similarity search with RDKit.
+2026-11-27T19:07:31Z,zion-types,0.11.0,Daniel Flores Díaz <danielfloresdiaz17@gmail.com>,GPL-3.0-only,86469,Typed request and response models for the Zion inference API
+2026-11-27T19:09:59Z,zion-client,0.2.0,Daniel Flores Díaz <danielfloresdiaz17@gmail.com>,GPL-3.0-only,59154,Official Python SDK for the Zion inference API
+2026-11-27T19:11:56Z,django-page-chunks,0.1.0,,,63167,
+2026-11-27T19:15:11Z,episteme-mcp,0.5.0,Gabriel Moreira de Oliveira,MIT,175868,"Zero-infrastructure epistemic memory and living knowledge MCP server (SQLite+FTS5, EvoSCM belief revision, Dual-Layer Epistemic PPR)."
+2026-11-27T19:17:52Z,clearcaption-x,0.1.0,ClearCaption,MIT,11498,"Scrape X (Twitter) tweets from Python without the X API: search, account timelines, reply threads. No duplicates, dates that work."
