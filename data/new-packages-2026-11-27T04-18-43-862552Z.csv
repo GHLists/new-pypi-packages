@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T03:19:50Z,pixtreme-transport-video,0.1.1,,MIT AND BSD-3-Clause,765788,Video file module for pixtreme.transport
+2026-11-27T03:29:27Z,dryplate,0.1.1,,MIT,15396766,"Local image processing: convert, compress, resize and more, in-process."
+2026-11-27T03:30:35Z,mathfence,0.1.3,LeeGyeongPil,MIT,778126,"Normalize LLM math delimiters and escape currency dollar signs before Markdown rendering, without touching code or URLs."
+2026-11-27T03:32:59Z,chroma-salvage,0.1.1,,MIT,885220,"Read a Chroma persist folder without chromadb: find out which version wrote it and export ids, documents, metadata and embeddings as JSONL. Read-only, standard library only."
+2026-11-27T03:33:46Z,qopai-cli-suite,0.1.11,,,204645,Qopai suite with the DataHub platform CLI
+2026-11-27T03:34:40Z,musubi-framework,0.1.0,MangroveX,,19684,"Framework for converging systems, APIs and AI on Zato 4.1"
+2026-11-27T03:35:18Z,assist-budget,0.1.3,LeeGyeongPil,MIT,206329,"Measure what Home Assistant Assist sends to your LLM, trim it to fit the context window, and undo it safely."
+2026-11-27T03:35:36Z,axiomere-py,0.2.0,,MIT,1764901,Native PyO3 extension for Axiomere (builds the `_axiomere` module). The user-facing Python API is AXIOVEX/axiomere-python.
+2026-11-27T03:38:07Z,dagcert,1.0.0,Aurélien Pélissier,MIT,3326776,"Certify the decision, not the outcome: joint root certification and decision-aware Bayesian experimental design on search graphs."
+2026-11-27T03:44:57Z,opendnp3,0.1.1,,,3754434,
+2026-11-27T03:45:06Z,opendnp3-tcp,0.1.1,levyks,MIT OR Apache-2.0,5302,asyncio TCP transport for the opendnp3 BoltFFI bindings
+2026-11-27T03:47:49Z,langchain-helmswap,0.1.0,Summit Private Credit LLC,MIT,16038,LangChain tools for HelmSwap: quote and build unsigned swap transactions. The agent's wallet signs and sends. Never holds keys.
+2026-11-27T03:48:09Z,jxy-utils,0.0.1,,,4520,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-27T03:53:29Z,trello-board-cli,0.2.0,tranch <tranch.xiao@gmail.com>,MIT,26185,LLM-friendly command-line interface for Trello.
+2026-11-27T03:56:34Z,governed-receipt-verifier,0.1.1,,Apache-2.0,112711,Offline verifier for SZL governed receipts
+2026-11-27T04:05:19Z,saego,0.0.1,,MIT,2345,A macOS runtime for AI agents. Early placeholder release; work in progress.
+2026-11-27T04:07:52Z,plainfold-calendars-mcp,0.1.0,Plainfold <plainfoldhq@proton.me>,MIT,33007,"MCP server: US/NYSE/Fed business days, 9 stock exchange calendars and FX T+2 spot dates for AI assistants. Offline, MIT."
+2026-11-27T04:08:40Z,noodelapi,1.0.0,noodelTech,MIT,51464,Local OpenAI-compatible API publisher for chat.deepseek.com
+2026-11-27T04:11:33Z,cjtrade,0.5.0,Shou-Chi Chen,MIT,4879976,"Taiwan stock trading framework: brokers, market data, a simulated exchange and backtesting"
+2026-11-27T04:14:50Z,pytest-dst-vectors,0.1.0,Plainfold <plainfoldhq@proton.me>,MIT,16619,"pytest plugin: parametrize tests over DST gap, overlap and normal local times (dst-test-vectors). Offline, MIT."
+2026-11-27T04:14:53Z,armachain,0.3.0,ArmaChain Team,MIT,201973,Official Python SDK for ArmaChain -- independent L1 blockchain with integrated CEX-grade DEX
+2026-11-27T04:17:09Z,cynx,1.0.0,Your Name,,7254,My personal Python library
