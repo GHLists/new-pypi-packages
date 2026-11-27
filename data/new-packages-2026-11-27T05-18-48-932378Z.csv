@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T04:20:24Z,SingleLensFitter,0.1.0,,MIT,2130248,Single-lens (PSPL / FSPL / annual+space parallax) light-curve fitting
+2026-11-27T04:22:13Z,fastpg-cli,0.1.0,ajaxgiit,MIT,51516,"Genera proyectos FastAPI + PostgreSQL listos para trabajar: Docker (dev/prod), Alembic, JWT y correo."
+2026-11-27T04:28:21Z,atica,0.5.0,"Zabiullah Khan, Syeda Zoya, Juveria Talha, Insiya Maryam, RajuKumar Allam, Sasi Kumar A",GPL-3.0-only,1687195,"Manufacturing calculation library and desktop app: units, packaging, BOM, production, yield and purchasing."
+2026-11-27T04:29:16Z,agent-castellan,0.1.0,Hiren Kachhadiya,Apache-2.0,486706,"Least-privilege permissions for multi-agent AI systems: YAML allow/deny/ask rules, delegation that can only shrink, approvals, budgets and a tamper-evident audit log."
+2026-11-27T04:33:40Z,cluster-geometry-profiler,0.1.0,,,44540,High-dimensional geometry diagnostics for principled clustering
+2026-11-27T04:35:43Z,timtam,0.0.1,Aman Arora <aman@amaarora.github.io>,Apache-2.0,4262,"A minimal, readable PyTorch lab for training, evaluating, and ablating Decision Models (System One models)."
+2026-11-27T04:36:37Z,dex-connector-superdurable-webhook,0.1.0,,MIT,87449,Super Durable Webhook connector for Dex Flows
+2026-11-27T04:36:37Z,piu-mosso,0.1.0,Ning Wang,LGPL-3.0-or-later,98005,"Fast single-cell utilities: FAISS nearest neighbours, a fast UMAP and Seurat v3 highly variable genes"
+2026-11-27T04:41:20Z,numba-bessel,1.0.1,34j,MIT,46089,Bessel functions in numba / numba-cuda-mlir
+2026-11-27T04:41:58Z,presidio-ko,0.1.0,,MIT,37547,Korean phone number and bank account recognizers and a Korean context enhancer for Microsoft Presidio
+2026-11-27T04:44:07Z,zzh-deepep-npu-test,0.1.0.dev2,,,11946428,DeepEP for Ascend: native runtime and optional communication/GMM operators
+2026-11-27T04:45:54Z,frevana-agent-app-runner,0.1.0,,,40063,Run shared Frevana Agent Apps in a local AI agent.
+2026-11-27T04:51:06Z,emagine,0.1.0,Emagine Solutions Technology,LicenseRef-Proprietary,73958,Deploy and manage agents hosted on the Emagine platform.
+2026-11-27T04:55:19Z,e5-f2f-f2f-extractor,0.0.0a0,"Element5, Inc.",Proprietary,1584,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-27T04:55:21Z,e5-f2f-observation-tracker,0.0.0a0,"Element5, Inc.",Proprietary,1663,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-27T04:55:22Z,e5-f2f-ocr-parser,0.0.0a0,"Element5, Inc.",Proprietary,1554,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-27T04:55:24Z,e5-f2f-pdf-to-image-layer,0.0.0a0,"Element5, Inc.",Proprietary,1651,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-27T05:00:35Z,tarpit-guard,0.2.0,Maniram,MIT,30426,Flag AI-reverse-engineering tarpits (obfuscated / token-burning code) before you waste a budget analyzing them.
+2026-11-27T05:02:43Z,fontpkg-noto-sans-hebrew,3.1,,OFL-1.1,77867,"Noto Sans Hebrew font family, packaged for Python by fontpkg"
+2026-11-27T05:02:45Z,fontpkg-poiret-one,1.101,,OFL-1.1,68726,"Poiret One font family, packaged for Python by fontpkg"
+2026-11-27T05:02:47Z,fontpkg-tangerine,1.301,,OFL-1.1,73627,"Tangerine font family, packaged for Python by fontpkg"
+2026-11-27T05:02:49Z,fontpkg-rammetto-one,1.100,,OFL-1.1,42483,"Rammetto One font family, packaged for Python by fontpkg"
+2026-11-27T05:03:50Z,duyi-utils-lenovo,0.1.4,,,4699,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-27T05:05:40Z,ragbench-eval,1.1.1,Harshit Gadge,MIT,162129,"Evaluate any retriever on BEIR-format data: nDCG, recall and MRR with bootstrap confidence intervals and paired comparisons."
+2026-11-27T05:07:27Z,gh-htmlpreview,0.1.0,Jay Qi,MIT,35087,Preview HTML files from GitHub repositories in your browser.
+2026-11-27T05:11:06Z,pull-requests-san,0.1.0,Sanskrit Coders <sanskrit-programmers@googlegroups.com>,MIT,129278,Single-pane word-flow and character-level GitHub PR review tool for Sanskrit & Indic repositories
+2026-11-27T05:12:56Z,bibash-trip-budget,0.1.0,,,1742,A simple Python library to calculate total trip costs.
+2026-11-27T05:16:37Z,msentity,1.2.3,,MIT,18197033,"Python binding of the msentity C++ library (MSDS, MSP, MGF, TSV, CSV)"
+2026-11-27T05:16:53Z,msentity-similarity,2.1.0,,MIT,18199947,Spectrum similarity and .mssim files (Python binding of msentity-similarity)

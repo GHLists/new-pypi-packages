@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-11-27T03:18:49.02213Z",
-    "path": "data/new-packages-2026-11-27T04-18-43-862552Z.csv",
-    "to": "2026-11-27T04:18:43.862552Z"
+    "count": 29,
+    "from": "2026-11-27T04:18:43.862552Z",
+    "path": "data/new-packages-2026-11-27T05-18-48-932378Z.csv",
+    "to": "2026-11-27T05:18:48.932378Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-27T00:49:56Z",
-      "package": "atlas-quant",
-      "since": "2026-11-27T00:20:35.239995Z",
-      "version": "0.2.0b1"
-    }
-  ],
-  "serial": 44234051,
+  "pending": [],
+  "serial": 44235336,
   "source_truncated": false,
-  "window": "2026-11-27T04:18:43.862552Z"
+  "window": "2026-11-27T05:18:48.932378Z"
 }
