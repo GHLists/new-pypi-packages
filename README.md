@@ -8,31 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 02:18 UTC
+## Latest list — 2026-11-27 03:18 UTC
 
-New packages created between 2026-11-27 01:21 UTC and 2026-11-27 02:18 UTC.
+New packages created between 2026-11-27 02:18 UTC and 2026-11-27 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-27T02-18-45-776928Z.csv)
+[Full CSV](data/new-packages-2026-11-27T03-18-49-02213Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-27 01:22:06 | [finance-types](https://pypi.org/project/finance-types/) | 0.1.0 | Henrique Bastos <henrique@bas… | 49.1 kB | Financial scalar types with optional Django and DRF fields |
-| 2026-11-27 01:22:32 | [ares-sdk](https://pypi.org/project/ares-sdk/) | 0.2.0 | Shehtab Zaman | 128.0 kB | ARES: Automated Reasoning State Machines for parallel agent execution, determin… |
-| 2026-11-27 01:29:11 | [checknetworks](https://pypi.org/project/checknetworks/) | 2.0.0rc6 |  | 5.2 MB | The official Python client for the Check Networks API. |
-| 2026-11-27 01:33:42 | [drf-fast-output](https://pypi.org/project/drf-fast-output/) | 0.1.0 | Marco Peyfuss | 44.8 kB | Faster output serialization for Django REST Framework read endpoints |
-| 2026-11-27 01:33:45 | [crudman-fastapi](https://pypi.org/project/crudman-fastapi/) | 0.1.1 | Jinu Joseph Daniel | 136.9 kB | Zero-boilerplate CRUD for FastAPI with SQLAlchemy, Pydantic validation, OpenAPI… |
-| 2026-11-27 01:35:21 | [fast-billing-sdk](https://pypi.org/project/fast-billing-sdk/) | 1.0.0 |  | 11.8 kB | Python client for reporting completed business tasks to Seabase Billing |
-| 2026-11-27 01:37:51 | [claude-bughunter](https://pypi.org/project/claude-bughunter/) | 2.1.0 | Sachin Sharma | 177.7 kB | cbh — terminal-native recon/classify/triage/report runner for the Claude-BugHun… |
-| 2026-11-27 01:42:53 | [certo-sdk](https://pypi.org/project/certo-sdk/) | 0.3.0 | Certo | 97.1 kB | The trust & security layer for AI agents: audit them, score their trajectories,… |
-| 2026-11-27 01:46:43 | [sme-ocpp-sim](https://pypi.org/project/sme-ocpp-sim/) | 0.1.0 |  | 285.1 kB | SME OCPPSim: Free OCPP charging station simulator (OCPP 1.6J; 2.0.1 / 2.1 plann… |
-| 2026-11-27 01:47:40 | [diagramzlib](https://pypi.org/project/diagramzlib/) | 2.0.0 | "Humberto A. Sanchez II" <Hum… | 36.2 kB | Diagram XML compressor and decompressor for Pyut and umldiagrammer |
-| 2026-11-27 01:48:28 | [finlab-online](https://pypi.org/project/finlab-online/) | 1.0.0 | FinLab <finlab.company@finlab… | 239.0 kB | Open-source broker connectors and order executor for FinLab strategies. |
-| 2026-11-27 01:55:54 | [gnuplot-snippets](https://pypi.org/project/gnuplot-snippets/) | 0.1.5 | Neil Temperley | 52.1 kB | Composable gnuplot snippets for Python, for interactive and batch plotting by a… |
-| 2026-11-27 01:56:36 | [tensorcost-litellm](https://pypi.org/project/tensorcost-litellm/) | 0.1.5 | Vaadh Labs | 89.8 kB | A LiteLLM proxy guardrail that checks TensorCost budgets before each call, and… |
-| 2026-11-27 01:56:44 | [mintchip](https://pypi.org/project/mintchip/) | 0.2.0 | Ben Blaiszik | 3.9 MB | Word-sized graphics for the numbers in an agent's report: sparklines, intervals… |
-| 2026-11-27 02:04:11 | [withparallel-google-ads-audit](https://pypi.org/project/withparallel-google-ads-audit/) | 0.1.0 | Parallel AI <support@withpara… | 24.3 kB | Zero-dependency deterministic Python CLI, library, and read-only MCP stdio serv… |
-| 2026-11-27 02:04:41 | [pixtreme-transport-sequence](https://pypi.org/project/pixtreme-transport-sequence/) | 0.1.0 |  | 449.5 kB | Image sequence module for pixtreme.transport |
-| 2026-11-27 02:04:48 | [hereward](https://pypi.org/project/hereward/) | 0.0.1 |  | 1.8 kB | Hereward: a safety-first platform for AI agents. Reserved; not yet released. |
-| 2026-11-27 02:10:23 | [open-agent-security](https://pypi.org/project/open-agent-security/) | 0.1.0 | The BRACE Project | 287.7 kB | Find known-dangerous AI agent setups: disabled permission checks, unpinned MCP… |
-| 2026-11-27 02:14:38 | [kodamaembed](https://pypi.org/project/kodamaembed/) | 0.1.0 |  | 35.3 MB | Text embeddings and reranking on CPUs and GPUs |
-| 2026-11-27 02:15:09 | [ctxblame](https://pypi.org/project/ctxblame/) | 0.2.0 | kekeandzeyu | 105.9 kB | git blame for LLM agent decisions: find which context chunk caused a tool call |
+| 2026-11-27 02:19:13 | [ednhemo](https://pypi.org/project/ednhemo/) | 0.1.1 | Chekalil Aimene Charef Eddine… | 115.1 MB | Small-hemorrhage-aware intracranial hemorrhage detection on CT with a 2D U-Net. |
+| 2026-11-27 02:22:58 | [netinfra-free100bonus-unified-2astp](https://pypi.org/project/netinfra-free100bonus-unified-2astp/) | 1.0.0 | Autonomous Infrastructure Lab… | 21.9 kB | Technical network verification and high-availability endpoint registry for Free… |
+| 2026-11-27 02:24:03 | [logoprism](https://pypi.org/project/logoprism/) | 0.1.0 | LogoPrism contributors | 116.5 kB | One logo, a spectrum of possibilities: turn any SVG logo into a complete set of… |
+| 2026-11-27 02:24:53 | [proofmarks](https://pypi.org/project/proofmarks/) | 0.1.0 |  | 226.2 MB | Proofmarks marks what reads like AI slop on your page, says why, and rewrites i… |
+| 2026-11-27 02:28:02 | [hunch-lang](https://pypi.org/project/hunch-lang/) | 0.4.0 |  | 338.4 kB | A self-play-native programming language for RL environments: write the rules, l… |
+| 2026-11-27 02:31:28 | [pulumi-betterstack](https://pypi.org/project/pulumi-betterstack/) | 1.4.0 |  | 1.1 MB | A Pulumi package for managing Better Stack Account, Errors, Incidents and Telem… |
+| 2026-11-27 02:33:47 | [netinfra-free100bonus-master-0asgo](https://pypi.org/project/netinfra-free100bonus-master-0asgo/) | 1.0.0 | Autonomous Infrastructure Lab… | 21.9 kB | Technical network verification and high-availability endpoint registry for Free… |
+| 2026-11-27 02:33:55 | [graphtory](https://pypi.org/project/graphtory/) | 0.1.1 | Aditya Karnam Gururaj Rao | 517.9 kB | Agent task graphs you can trust: prep, work, verify, loop. A validated graph, n… |
+| 2026-11-27 02:35:10 | [erdostack](https://pypi.org/project/erdostack/) | 0.0.0 | usergraphtheory | 30.9 kB | Graph skills for coding agents: graph databases, graph data structures and algo… |
+| 2026-11-27 02:36:12 | [llm-openuncensored](https://pypi.org/project/llm-openuncensored/) | 0.1.0 | Dhruv Atreja | 25.2 kB | LLM plugin for uncensored and abliterated models hosted by OpenUncensored |
+| 2026-11-27 02:41:45 | [tlsfp](https://pypi.org/project/tlsfp/) | 4.0.0 |  | 5.4 MB | Browser-accurate TLS/HTTP fingerprint client (JA3/JA4, Akamai H2/H3) with a req… |
+| 2026-11-27 02:41:58 | [spawnables](https://pypi.org/project/spawnables/) | 0.1.0 | tinkrland | 13.8 kB | One front door for spawnables: pip install spawnables, then spawnables get <par… |
+| 2026-11-27 02:53:20 | [sml-practicals-toolkit](https://pypi.org/project/sml-practicals-toolkit/) | 1.0.0 |  | 13.7 kB | Statistical Machine Learning Lab Programs |
+| 2026-11-27 02:54:09 | [octopus-openfeature-provider](https://pypi.org/project/octopus-openfeature-provider/) | 0.0.0a0 | Octopus Deploy | 54.8 kB | The Octopus Deploy Python OpenFeature provider |
+| 2026-11-27 02:56:36 | [synapse-hub](https://pypi.org/project/synapse-hub/) | 4.10.0 | "Thế Vị (@TeeVee98)" <teevee9… | 7.0 MB | Enterprise AI Agent Quality Engineering & Test Automation Hub |
+| 2026-11-27 03:04:56 | [prajyot-py](https://pypi.org/project/prajyot-py/) | 1.0.0 | Prajyot | 8.9 kB | WT Final Practicals Number 4 code examples |
+| 2026-11-27 03:06:02 | [openbb-quantset](https://pypi.org/project/openbb-quantset/) | 0.1.0 | QuantSet <hello@quantset.dev> | 90.6 kB | QuantSet data provider for OpenBB: prices in 67 countries, financials for 36,00… |
+| 2026-11-27 03:07:46 | [mcp-tripwire](https://pypi.org/project/mcp-tripwire/) | 0.2.0 | NestDaddy <hello@nestdaddy.co… | 41.1 kB | Know when an MCP server silently changes the tools your AI agent trusts. Pin to… |
+| 2026-11-27 03:07:57 | [limitpilot](https://pypi.org/project/limitpilot/) | 0.3.2 | LeeGyeongPil | 610.6 kB | See Claude Code usage per account in your menu bar / tray and switch accounts b… |
+| 2026-11-27 03:08:24 | [chronist](https://pypi.org/project/chronist/) | 0.1.1 | Andreas Faust | 514.5 kB | Lightweight, self-hostable experiment tracker for ML research |
+| 2026-11-27 03:09:48 | [mtkit](https://pypi.org/project/mtkit/) | 1.16.1 | mtkit | 163.9 kB | AI 全站测试工程师:计划先行生成标准 XMind 测试用例(质量门禁把关),用例资产体检修复,交互式测试咨询与问题定位指导,使用即训练、越用越成熟 |
+| 2026-11-27 03:10:43 | [my-lib.my-lib](https://pypi.org/project/my-lib.my-lib/) | 0.0.0 |  | 2.1 kB |  |
+| 2026-11-27 03:10:52 | [pycloudrun](https://pypi.org/project/pycloudrun/) | 0.3.8 | youtian95 <youtian95@qq.com> | 57.1 kB | 把本地 Python 计算提交到自租云服务器执行：增量同步文件与环境，实时查看日志，作业结束后取回结果 |
+| 2026-11-27 03:14:03 | [llama-index-llms-gmicloud](https://pypi.org/project/llama-index-llms-gmicloud/) | 0.1.0 | Himanshu Kumar <jhahimanshu65… | 18.5 kB | LlamaIndex LLM integration for GMI Cloud's OpenAI-compatible inference API |
+| 2026-11-27 03:18:09 | [abacus-forge](https://pypi.org/project/abacus-forge/) | 0.2.0 | PAIMON contributors | 1.2 MB | Protocol-neutral ABACUS prepare, modify, execute, collect, postprocess, and exp… |

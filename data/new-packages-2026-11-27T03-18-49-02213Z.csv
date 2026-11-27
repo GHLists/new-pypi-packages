@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T02:19:13Z,ednhemo,0.1.1,"Chekalil Aimene Charef Eddine, Ouadah Mustapha",MIT,115122099,Small-hemorrhage-aware intracranial hemorrhage detection on CT with a 2D U-Net.
+2026-11-27T02:22:58Z,netinfra-free100bonus-unified-2astp,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,21915,Technical network verification and high-availability endpoint registry for Free100Bonus-Unified-Master-Blast-Batch-1
+2026-11-27T02:24:03Z,logoprism,0.1.0,LogoPrism contributors,MIT,116526,"One logo, a spectrum of possibilities: turn any SVG logo into a complete set of PNG brand assets."
+2026-11-27T02:24:53Z,proofmarks,0.1.0,,FSL-1.1-MIT,226231701,"Proofmarks marks what reads like AI slop on your page, says why, and rewrites it with the agent you already use."
+2026-11-27T02:28:02Z,hunch-lang,0.4.0,,MIT,338371,"A self-play-native programming language for RL environments: write the rules, leave the decisions blank, and hunch train fills them in."
+2026-11-27T02:31:28Z,pulumi-betterstack,1.4.0,,Apache-2.0,1096435,"A Pulumi package for managing Better Stack Account, Errors, Incidents and Telemetry resources."
+2026-11-27T02:33:47Z,netinfra-free100bonus-master-0asgo,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,21926,Technical network verification and high-availability endpoint registry for Free100Bonus-Master-Deep-Blast-Batch-1
+2026-11-27T02:33:55Z,graphtory,0.1.1,Aditya Karnam Gururaj Rao,MIT,517909,"Agent task graphs you can trust: prep, work, verify, loop. A validated graph, not the agent, decides what runs next, what must pass and who approves."
+2026-11-27T02:35:10Z,erdostack,0.0.0,usergraphtheory,MIT,30877,"Graph skills for coding agents: graph databases, graph data structures and algorithms, and graph visualization. Vendor-neutral Agent Skills."
+2026-11-27T02:36:12Z,llm-openuncensored,0.1.0,Dhruv Atreja,Apache-2.0,25163,LLM plugin for uncensored and abliterated models hosted by OpenUncensored
+2026-11-27T02:41:45Z,tlsfp,4.0.0,,,5360159,"Browser-accurate TLS/HTTP fingerprint client (JA3/JA4, Akamai H2/H3) with a requests-style Python API"
+2026-11-27T02:41:58Z,spawnables,0.1.0,tinkrland,,13764,"One front door for spawnables: pip install spawnables, then spawnables get <part>"
+2026-11-27T02:53:20Z,sml-practicals-toolkit,1.0.0,,,13683,Statistical Machine Learning Lab Programs
+2026-11-27T02:54:09Z,octopus-openfeature-provider,0.0.0a0,Octopus Deploy,Apache-2.0,54764,The Octopus Deploy Python OpenFeature provider
+2026-11-27T02:56:36Z,synapse-hub,4.10.0,"""Thế Vị (@TeeVee98)"" <teevee98@users.noreply.github.com>",MIT,6962444,Enterprise AI Agent Quality Engineering & Test Automation Hub
+2026-11-27T03:04:56Z,prajyot-py,1.0.0,Prajyot,,8886,WT Final Practicals Number 4 code examples
+2026-11-27T03:06:02Z,openbb-quantset,0.1.0,QuantSet <hello@quantset.dev>,MIT,90613,"QuantSet data provider for OpenBB: prices in 67 countries, financials for 36,000+ companies, SEC filings, ETF look-through, estimates, options and macro."
+2026-11-27T03:07:46Z,mcp-tripwire,0.2.0,NestDaddy <hello@nestdaddy.com>,MIT,41091,"Know when an MCP server silently changes the tools your AI agent trusts. Pin tool descriptions, detect drift in CI, and scan for prompt-injection patterns."
+2026-11-27T03:07:57Z,limitpilot,0.3.2,LeeGyeongPil,MIT,610574,See Claude Code usage per account in your menu bar / tray and switch accounts before a limit hits (opt-in). Zero dependencies.
+2026-11-27T03:08:24Z,chronist,0.1.1,Andreas Faust,MIT,514480,"Lightweight, self-hostable experiment tracker for ML research"
+2026-11-27T03:09:48Z,mtkit,1.16.1,mtkit,MIT,163861,"AI 全站测试工程师:计划先行生成标准 XMind 测试用例(质量门禁把关),用例资产体检修复,交互式测试咨询与问题定位指导,使用即训练、越用越成熟"
+2026-11-27T03:10:43Z,my-lib.my-lib,0.0.0,,,2104,
+2026-11-27T03:10:52Z,pycloudrun,0.3.8,youtian95 <youtian95@qq.com>,MIT,57115,把本地 Python 计算提交到自租云服务器执行：增量同步文件与环境，实时查看日志，作业结束后取回结果
+2026-11-27T03:14:03Z,llama-index-llms-gmicloud,0.1.0,Himanshu Kumar <jhahimanshu653@gmail.com>,MIT,18451,LlamaIndex LLM integration for GMI Cloud's OpenAI-compatible inference API
+2026-11-27T03:18:09Z,abacus-forge,0.2.0,PAIMON contributors,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",1174623,"Protocol-neutral ABACUS prepare, modify, execute, collect, postprocess, and export library and CLI."
