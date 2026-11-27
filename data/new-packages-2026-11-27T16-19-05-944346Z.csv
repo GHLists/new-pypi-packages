@@ -1,0 +1,64 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T15:19:33Z,refute,0.5.12,Klauber Lucilla,Apache-2.0,1967742,Find signals. Try to kill them. Keep what survives.
+2026-11-27T15:20:23Z,mosna,1.0.0,Alexis Coullomb,GPL-3.0-or-later,189052,Multi-omics spatial network analysis library
+2026-11-27T15:21:10Z,synology-fs-inspect,0.1.0,,Apache-2.0,41823105,"Read file systems inside disk images, snapshot devices and backups: NTFS, ReFS, FAT, exFAT, ext, XFS, Btrfs, APFS, ZFS, on LVM, md, LDM"
+2026-11-27T15:22:54Z,volumes,0.1.0,,MIT,108175,Python client for the Volumes API: per-capture frame sync and scene summary metadata.
+2026-11-27T15:24:19Z,dimctx,0.2.0,wagic,AGPL-3.0-or-later,71370,"dimctx = dimensional modeling context provider — MCP server giving AI coding assistants Kimball modeling judgement, bus-matrix truth, and SQL complexity checks."
+2026-11-27T15:24:30Z,agent-framework-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,26490,"Measure every model call a Microsoft Agent Framework client makes, with the NeoMundi measurement API"
+2026-11-27T15:24:40Z,aedificatoria,0.1.0,Daniel Tralamazza,MIT,188475,Architecture guard for coding agents: make design constraints executable.
+2026-11-27T15:26:49Z,historypy,1.0.0,HistoryPy contributors,MIT,277282,An evidence-aware Python toolkit for historical research and analysis
+2026-11-27T15:27:30Z,crawlingbot,1.0.0,Amirali <amirali.dst.lll@gmail.com>,MIT,29193,Python client for the Crawling Bot V2 serial/TCP command protocol
+2026-11-27T15:31:31Z,anyconv-audio-basic,1.0.1,AnyConv,MIT,8099,"AnyConv basic audio module: WAV, MP3, FLAC, Ogg, Opus, M4A, AAC, AIFF"
+2026-11-27T15:31:32Z,anyconv-document-basic,1.0.1,AnyConv,MIT,10982,"AnyConv basic document module: PDF, DOC, DOCX, ODT, RTF, PPT, PPTX and ODP"
+2026-11-27T15:31:33Z,anyconv-image-basic,1.0.1,AnyConv,MIT,12387,"AnyConv reference image module: JPEG, PNG, WebP, AVIF, HEIC, GIF, TIFF, ICO, PSD"
+2026-11-27T15:33:17Z,Libadalang,27.1rc20261126,AdaCore <support@adacore.com>,Apache-2.0,37838496,Parsing and semantic analysis for Ada code.
+2026-11-27T15:34:21Z,decodewhistle,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,4936,Whistles a remote decode job into a supervised child process.
+2026-11-27T15:34:54Z,audiowharf,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,3818,Fetch-and-fork helper for short audio experiment scripts.
+2026-11-27T15:36:14Z,qrcli-py,0.1.0,Nuzuli,MIT,26714,QR codes from your terminal. Zero dependencies.
+2026-11-27T15:37:06Z,voxlane,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,4412,Session wrapper around a remote voice experiment job.
+2026-11-27T15:38:52Z,replay8004,0.5.0,,Apache-2.0,137765,Re-execution validator for the ERC-8004 Validation Registry on Celo: checks on-chain claims made by AI agents and answers with hash-chained evidence.
+2026-11-27T15:38:58Z,wavlathe,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,4673,Transport and supervisor pair for remote waveform jobs.
+2026-11-27T15:40:54Z,sonicspool,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,4880,Whistles a remote decode job into a supervised child process.
+2026-11-27T15:40:59Z,hegemony-secret-1password,0.3.6,,AGPL-3.0-or-later,23655,1Password secret backend plugin for Hegemony
+2026-11-27T15:41:49Z,xiaoyuan-ai-calculator,0.1.0,小袁同学,MIT,6399,使用vibecoding做的一个简易计算器
+2026-11-27T15:42:48Z,speechenvoy,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,3838,Fetch-and-fork helper for short audio experiment scripts.
+2026-11-27T15:43:27Z,quod-probe,0.4.0,zenedgex labs,Apache-2.0,53632,pytest plugin that records per-test footprints for Quod
+2026-11-27T15:43:33Z,remi-enterprise-suite,1.0.5,Jesus Ramon Rivas Garcia,MIT,162670,Modular enterprise multi-agent AI framework and developer suite.
+2026-11-27T15:44:46Z,audiostint,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,4466,Session wrapper around a remote voice experiment job.
+2026-11-27T15:45:13Z,xtopen,0.4.0,41Opty41,MIT,122586,"Clean-room Parasolid XT (.x_b, .x_t, .x_p, .x_d) and Siemens NX (.prt) reader, writer, inspector, and native STEP AP214/AP242 converter"
+2026-11-27T15:45:56Z,captcha-onnx,1.0.1,hotroso,"MIT License Copyright (c) 2023 hotroso Permission is hereby granted, free of charge, to any person…",3234669,Lightweight CRNN-CTC captcha OCR library powered by ONNX Runtime with a bundled pre-trained model.
+2026-11-27T15:46:16Z,bst-gantt,0.1.0,Aedan McHale <aedan.mchale@gmail.com>,MIT,30298,Generate a Plotly Gantt chart from BuildStream CI logs
+2026-11-27T15:46:49Z,toneloop,0.1.0,Audio Lab Utilities <lab@example.org>,MIT,4669,Transport and supervisor pair for remote waveform jobs.
+2026-11-27T15:47:30Z,ocf-types,1.2.0,,"### Schema and Documentation License Version 1.0.1, April 3, 2024 Copyright (C) 2024 Open Cap Table…",53570,"Python types for the Open Cap Format (OCF), generated from the OCF JSON Schemas."
+2026-11-27T15:47:34Z,causalbase,0.1.0,"José A. Gámez, José M. Puerta",MIT,1212937,"Bayesian network structure learning and causal discovery: GES, XGES, order search, hill climbing and exact search"
+2026-11-27T15:48:39Z,cnstrtools,1.0.0,王晨菲 <202613093036@example.com>,MIT,9654,轻量级中文文本处理工具：字符统计、词频分析、文本清洗与敏感词脱敏
+2026-11-27T15:51:41Z,compsapi,0.1.0,CompsAPI,MIT,35418,"eBay sold listings API client for Python: real sold prices, comps and live listings as JSON or pandas, with 3 years of history and 12 more marketplaces."
+2026-11-27T15:52:06Z,py-envtok,1.0.0,Louie Slocombe,MIT,412198,Python toolkit for selecting compact subsets of atomistic datasets and auditing local chemical-environment coverage.
+2026-11-27T15:53:56Z,ecommerce-accounting-converter,0.1.0,,MIT,6686,Python SDK for normalizing e-commerce orders and converting CSV/JSON/XML formats via RapidAPI.
+2026-11-27T15:54:26Z,scopy-mcp-server,2.3.0,Analog Devices Inc.,GPL-3.0-or-later,53938,MCP server for controlling ADI Scopy instruments from AI assistants (requires a running Scopy)
+2026-11-27T15:54:58Z,agent-action-gate,0.2.0,aisona-lab,MIT,38623,Deterministic policy gates for AI agent tool calls.
+2026-11-27T15:56:54Z,haystack-cassandra,0.1.0,Rajagopalhertzian <rajagopalhertzian@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",31532,Cassandra Document Store for Haystack - self-hosted Apache Cassandra / DataStax Enterprise integration
+2026-11-27T15:56:55Z,hegemony-transport-support,0.59.0,,AGPL-3.0-or-later,18243,Internal code shared by Hegemony's built-in device transports (no stability promise)
+2026-11-27T15:56:57Z,hegemony-steps-git,0.59.0,,AGPL-3.0-or-later,30178,Git step handlers (commit evidence to a repository) for Hegemony
+2026-11-27T15:56:59Z,hegemony-steps-netconf,0.59.0,,AGPL-3.0-or-later,59547,"NETCONF step handlers (get, edit-config with confirmed commit, rpc) for Hegemony"
+2026-11-27T15:57:22Z,hakiki,0.1.0,David Gitau,Apache-2.0,70835,"The tech log for AI agents: a signed, tamper-evident record of what an agent did and who approved it."
+2026-11-27T15:58:32Z,yieldterminal,0.1.0,YieldTerminal Pro <yieldterminalpro@gmail.com>,MIT,32924,"Client for the YieldTerminal Pro Earnings Data API: quarterly results read from company filings, each with its filing link"
+2026-11-27T15:59:25Z,plinthkit,0.1.0,Oluwasegun Odusina,MIT,214445,"One-question project scaffolder for data engineering, data science, ML, MLOps and AI projects."
+2026-11-27T16:00:06Z,agentflight-sdk,0.1.0,Deepanshu Gautam,MIT,292638,"Black box recorder for AI agents: record, replay and debug agent runs"
+2026-11-27T16:02:24Z,tokscrape,0.5.1,Antoine Paix,MIT,69101,"Download TikTok videos, account metadata, comments, hashtag videos and search results."
+2026-11-27T16:02:39Z,isoform-grammar,0.1.0,"Taner Karagöl <karagolt@mit.edu>, Alper Karagöl <akaragol@mit.edu>",MIT,23678,Alignment-derived splice isoform deletion topology and multimer interface state-transition profiling
+2026-11-27T16:05:40Z,indigo-runtime,0.0.0,,,1604,Nombre reservado por Scanntech (MLOps). El paquete real se instala desde el índice interno de Scanntech.
+2026-11-27T16:05:42Z,indigoctl,0.0.0,,,1556,Nombre reservado por Scanntech (MLOps). El paquete real se instala desde el índice interno de Scanntech.
+2026-11-27T16:05:43Z,indigo-cli,0.0.0,,,1567,Nombre reservado por Scanntech (MLOps). El paquete real se instala desde el índice interno de Scanntech.
+2026-11-27T16:06:57Z,daskgram,0.1.1,DaskGram,MIT,25307,"Python library for DaskGram bots: the Bot API address is built in, so a bot is just Bot(token)."
+2026-11-27T16:06:58Z,duotonics,1.0.0,Michail Semoglou,MIT,35194,"Reproducible duotone image processing with OpenCV and NumPy, available as a Python CLI, library, and tkinter GUI."
+2026-11-27T16:07:04Z,mlops-io,0.0.0,,,590,Nombre reservado por Scanntech (MLOps). El paquete real se instala desde el índice interno de Scanntech.
+2026-11-27T16:09:00Z,localmend,0.1.0,rodricksz4h5,MIT,167787,"Find out why your coding agent is slow or wrong on a local model, and fix it: a diagnosing proxy for llama.cpp, Ollama and LM Studio."
+2026-11-27T16:09:31Z,tuna-sdk,0.1.0,"""tuna.am authors"" <info@tuna.am>",MIT,30172,Open tuna.am tunnels from Python code
+2026-11-27T16:09:41Z,retex-data,2026.0.0,,"# Licensing of retex-data The crate's own files (`build.rs`, `src/`, `Cargo.toml`, the list `core.t…",9673967,TeX Live packages for retex without a TeX Live installation: the archive of its bundle core
+2026-11-27T16:09:45Z,dawnfix,0.3.0,Dawnfix,FSL-1.1-ALv2,300297,"Dawnfix, the AI SRE that runs in your own GitHub Actions: the read-only prod log tick (dawnfix) and the free tools logbill, parity, sweeper, leastpriv, receipt and fleet. Logs stay in your accounts."
+2026-11-27T16:11:40Z,chatsaver,0.1.0,Pierre Delaunay <pierre.delaunay@mila.quebec>,BSD-3-Clause,1492116,"Resumable session wrapper around LLM inference servers (vLLM, llama.cpp, ...)"
+2026-11-27T16:14:27Z,agentscope-datacircle,0.1.0,,MIT,27687,AgentScope tools for the Datacircle API: find the best GTM APIs
+2026-11-27T16:15:14Z,daemonlib,0.0.1,Christos Synodinos,MIT,5315,"Async subprocesses that run together, validated by enforced. In development: this release reserves the name."
+2026-11-27T16:15:29Z,xai-claims,0.1.0,Şadi Evren Şeker,MIT,35437,"Compile explanation outputs (SHAP, LIME, dalex, EBM, hermai, Anchors, counterfactuals) into explicit claims and test each claim by intervening on the model, under explicit readings."
+2026-11-27T16:16:55Z,harpyq,0.0.0,Sensible Basics,LicenseRef-Proprietary,3084,"HarpyQ: platform-agnostic test framework by Sensible Basics (name reserved, first release coming soon)"
