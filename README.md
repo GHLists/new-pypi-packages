@@ -8,32 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 01:21 UTC
+## Latest list — 2026-11-27 02:18 UTC
 
-New packages created between 2026-11-27 00:20 UTC and 2026-11-27 01:21 UTC.
+New packages created between 2026-11-27 01:21 UTC and 2026-11-27 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-27T01-21-21-470369Z.csv)
+[Full CSV](data/new-packages-2026-11-27T02-18-45-776928Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-27 00:19:56 | [orbitar-jth](https://pypi.org/project/orbitar-jth/) | 2.0.0 | The orbitaR developers | 38.1 MB | The JTH v2.0 PAW-XML datasets of family jth-2.0 for orbitar |
-| 2026-11-27 00:20:36 | [orbitar](https://pypi.org/project/orbitar/) | 0.0.1 | The orbitaR developers | 3.1 MB | Quantum simulation at native speed, powered by Rust. |
-| 2026-11-27 00:22:04 | [qqfrontier](https://pypi.org/project/qqfrontier/) | 0.1.1 | Merwan Roudane <merwanroudane… | 534.1 kB | Frontier quantile-on-quantile econometrics: QQ connectedness, cross-quantilogra… |
-| 2026-11-27 00:22:21 | [mahadasha](https://pypi.org/project/mahadasha/) | 0.1.0 | "Mahadasha.com" <support@maha… | 23.8 kB | Official Python SDK for the Mahadasha Swiss Ephemeris Vedic Astrology API (Kund… |
-| 2026-11-27 00:26:35 | [agentjam](https://pypi.org/project/agentjam/) | 0.3.0 |  | 610.9 kB | Allow your agents to discover, message, and delegate tasks to any other agent o… |
-| 2026-11-27 00:31:15 | [omnitax](https://pypi.org/project/omnitax/) | 0.1.0 | Thomas Roder, Abrinca Genomics | 213.9 kB | Biological taxonomies (NCBI, GTDB and a few more) as Python objects, in one SQL… |
-| 2026-11-27 00:33:51 | [ownserver](https://pypi.org/project/ownserver/) | 0.1.0 |  | 30.8 kB | A small static file server with optional live reload and ngrok tunnels. |
-| 2026-11-27 00:49:04 | [eptx](https://pypi.org/project/eptx/) | 1.0.0 | Eptx <contact@eptx.space> | 19.7 kB | Official Python client for the Eptx API: background removal, captions, noise re… |
-| 2026-11-27 00:49:57 | [ldr-integrations-google-displayvideo](https://pypi.org/project/ldr-integrations-google-displayvideo/) | 0.1.0 | Sam Kenney <sam.kenney@louder… | 434.0 kB | Async Google API client library for displayvideo |
-| 2026-11-27 00:57:01 | [hpc-core](https://pypi.org/project/hpc-core/) | 0.1.0 |  | 90.0 kB | Dependency-free contract, transport interface and Slurm adapter for DataSpark H… |
-| 2026-11-27 00:58:00 | [margin-commit-graph](https://pypi.org/project/margin-commit-graph/) | 0.1.0 | Waddah Ali | 55.5 kB | Draws a repository's history as its tree and tells the story in it. |
-| 2026-11-27 00:58:29 | [happycheng](https://pypi.org/project/happycheng/) | 0.1.0 | happycheng <happycheng@exampl… | 27.1 kB | happycheng — 原始 .py 文件原样分发（单文件顶层模块） |
-| 2026-11-27 00:59:34 | [pyiol2-client](https://pypi.org/project/pyiol2-client/) | 0.1.0 | Ezequiel Primon <ezeprimo@gma… | 294.9 kB | Cliente Python para la API de IOL Inversiones (REST v1 + WebSocket de market da… |
-| 2026-11-27 01:03:27 | [py-lmobile-sdk](https://pypi.org/project/py-lmobile-sdk/) | 1.0.1 | guolei <174000902@qq.com> | 32.6 kB | 微网通联短信平台 Python SDK - 同步接口调用（官方文档: https://www.lmobile.cn/ApiPages/index.html） |
-| 2026-11-27 01:04:08 | [cnnsim](https://pypi.org/project/cnnsim/) | 0.4.0 | Thorsten Kranz | 72.9 kB | Chua–Yang cellular neural networks in PyTorch: GPU simulation and training |
-| 2026-11-27 01:06:25 | [pixellens](https://pypi.org/project/pixellens/) | 0.1.0 | Abolfazl Moeini | 73.5 kB | Local-first CLI for converting animations/icons/3D images to SVG/AVIF/WebP with… |
-| 2026-11-27 01:09:05 | [wpls](https://pypi.org/project/wpls/) | 0.1.0 | AJ Slater | 125.2 kB | Lists the wallpaper file path currently showing on each desktop/space on macOS. |
-| 2026-11-27 01:09:43 | [nave-xai](https://pypi.org/project/nave-xai/) | 0.1.4 | Ahcène Boubekki | 34.5 MB | NAVE (Neuro-Activated Vision Explanations): concept-based explanations of visio… |
-| 2026-11-27 01:16:37 | [django-typed-fields](https://pypi.org/project/django-typed-fields/) | 0.1.0 | Henrique Bastos <henrique@bas… | 23.6 kB | Django fields for typed values and scalar compound values |
-| 2026-11-27 01:17:41 | [jsspector](https://pypi.org/project/jsspector/) | 0.1.1 |  | 18.0 MB | Static and dynamic security analyzer for JavaScript and TypeScript |
-| 2026-11-27 01:17:48 | [pyrn](https://pypi.org/project/pyrn/) | 0.1.0 |  | 25.7 MB | Rust-powered Python/pytest Test Impact Analysis, content-addressed test caching… |
+| 2026-11-27 01:22:06 | [finance-types](https://pypi.org/project/finance-types/) | 0.1.0 | Henrique Bastos <henrique@bas… | 49.1 kB | Financial scalar types with optional Django and DRF fields |
+| 2026-11-27 01:22:32 | [ares-sdk](https://pypi.org/project/ares-sdk/) | 0.2.0 | Shehtab Zaman | 128.0 kB | ARES: Automated Reasoning State Machines for parallel agent execution, determin… |
+| 2026-11-27 01:29:11 | [checknetworks](https://pypi.org/project/checknetworks/) | 2.0.0rc6 |  | 5.2 MB | The official Python client for the Check Networks API. |
+| 2026-11-27 01:33:42 | [drf-fast-output](https://pypi.org/project/drf-fast-output/) | 0.1.0 | Marco Peyfuss | 44.8 kB | Faster output serialization for Django REST Framework read endpoints |
+| 2026-11-27 01:33:45 | [crudman-fastapi](https://pypi.org/project/crudman-fastapi/) | 0.1.1 | Jinu Joseph Daniel | 136.9 kB | Zero-boilerplate CRUD for FastAPI with SQLAlchemy, Pydantic validation, OpenAPI… |
+| 2026-11-27 01:35:21 | [fast-billing-sdk](https://pypi.org/project/fast-billing-sdk/) | 1.0.0 |  | 11.8 kB | Python client for reporting completed business tasks to Seabase Billing |
+| 2026-11-27 01:37:51 | [claude-bughunter](https://pypi.org/project/claude-bughunter/) | 2.1.0 | Sachin Sharma | 177.7 kB | cbh — terminal-native recon/classify/triage/report runner for the Claude-BugHun… |
+| 2026-11-27 01:42:53 | [certo-sdk](https://pypi.org/project/certo-sdk/) | 0.3.0 | Certo | 97.1 kB | The trust & security layer for AI agents: audit them, score their trajectories,… |
+| 2026-11-27 01:46:43 | [sme-ocpp-sim](https://pypi.org/project/sme-ocpp-sim/) | 0.1.0 |  | 285.1 kB | SME OCPPSim: Free OCPP charging station simulator (OCPP 1.6J; 2.0.1 / 2.1 plann… |
+| 2026-11-27 01:47:40 | [diagramzlib](https://pypi.org/project/diagramzlib/) | 2.0.0 | "Humberto A. Sanchez II" <Hum… | 36.2 kB | Diagram XML compressor and decompressor for Pyut and umldiagrammer |
+| 2026-11-27 01:48:28 | [finlab-online](https://pypi.org/project/finlab-online/) | 1.0.0 | FinLab <finlab.company@finlab… | 239.0 kB | Open-source broker connectors and order executor for FinLab strategies. |
+| 2026-11-27 01:55:54 | [gnuplot-snippets](https://pypi.org/project/gnuplot-snippets/) | 0.1.5 | Neil Temperley | 52.1 kB | Composable gnuplot snippets for Python, for interactive and batch plotting by a… |
+| 2026-11-27 01:56:36 | [tensorcost-litellm](https://pypi.org/project/tensorcost-litellm/) | 0.1.5 | Vaadh Labs | 89.8 kB | A LiteLLM proxy guardrail that checks TensorCost budgets before each call, and… |
+| 2026-11-27 01:56:44 | [mintchip](https://pypi.org/project/mintchip/) | 0.2.0 | Ben Blaiszik | 3.9 MB | Word-sized graphics for the numbers in an agent's report: sparklines, intervals… |
+| 2026-11-27 02:04:11 | [withparallel-google-ads-audit](https://pypi.org/project/withparallel-google-ads-audit/) | 0.1.0 | Parallel AI <support@withpara… | 24.3 kB | Zero-dependency deterministic Python CLI, library, and read-only MCP stdio serv… |
+| 2026-11-27 02:04:41 | [pixtreme-transport-sequence](https://pypi.org/project/pixtreme-transport-sequence/) | 0.1.0 |  | 449.5 kB | Image sequence module for pixtreme.transport |
+| 2026-11-27 02:04:48 | [hereward](https://pypi.org/project/hereward/) | 0.0.1 |  | 1.8 kB | Hereward: a safety-first platform for AI agents. Reserved; not yet released. |
+| 2026-11-27 02:10:23 | [open-agent-security](https://pypi.org/project/open-agent-security/) | 0.1.0 | The BRACE Project | 287.7 kB | Find known-dangerous AI agent setups: disabled permission checks, unpinned MCP… |
+| 2026-11-27 02:14:38 | [kodamaembed](https://pypi.org/project/kodamaembed/) | 0.1.0 |  | 35.3 MB | Text embeddings and reranking on CPUs and GPUs |
+| 2026-11-27 02:15:09 | [ctxblame](https://pypi.org/project/ctxblame/) | 0.2.0 | kekeandzeyu | 105.9 kB | git blame for LLM agent decisions: find which context chunk caused a tool call |

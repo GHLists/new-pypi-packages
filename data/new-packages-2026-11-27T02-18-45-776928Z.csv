@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T01:22:06Z,finance-types,0.1.0,Henrique Bastos <henrique@bastos.net>,MIT,49134,Financial scalar types with optional Django and DRF fields
+2026-11-27T01:22:32Z,ares-sdk,0.2.0,Shehtab Zaman,MIT,127966,"ARES: Automated Reasoning State Machines for parallel agent execution, deterministic verification, and long/broken contexts."
+2026-11-27T01:29:11Z,checknetworks,2.0.0rc6,,MIT,5154889,The official Python client for the Check Networks API.
+2026-11-27T01:33:42Z,drf-fast-output,0.1.0,Marco Peyfuss,MIT,44758,Faster output serialization for Django REST Framework read endpoints
+2026-11-27T01:33:45Z,crudman-fastapi,0.1.1,Jinu Joseph Daniel,MIT,136861,"Zero-boilerplate CRUD for FastAPI with SQLAlchemy, Pydantic validation, OpenAPI, uploads, caching and export."
+2026-11-27T01:35:21Z,fast-billing-sdk,1.0.0,,,11763,Python client for reporting completed business tasks to Seabase Billing
+2026-11-27T01:37:51Z,claude-bughunter,2.1.0,Sachin Sharma,MIT,177717,cbh — terminal-native recon/classify/triage/report runner for the Claude-BugHunter skill bundle
+2026-11-27T01:42:53Z,certo-sdk,0.3.0,Certo,Apache-2.0,97127,"The trust & security layer for AI agents: audit them, score their trajectories, and guard their tool calls."
+2026-11-27T01:46:43Z,sme-ocpp-sim,0.1.0,,MIT,285097,"SME OCPPSim: Free OCPP charging station simulator (OCPP 1.6J; 2.0.1 / 2.1 planned) for CSMS and EMS testing, including Smart Charging."
+2026-11-27T01:47:40Z,diagramzlib,2.0.0,"""Humberto A. Sanchez II"" <Humberto.A.Sanchez.II@gmail.com>",AGPL-1.0-or-later,36201,Diagram XML compressor and decompressor for Pyut and umldiagrammer
+2026-11-27T01:48:28Z,finlab-online,1.0.0,FinLab <finlab.company@finlab.tw>,GPL-3.0-or-later,238990,Open-source broker connectors and order executor for FinLab strategies.
+2026-11-27T01:55:54Z,gnuplot-snippets,0.1.5,Neil Temperley,,52068,"Composable gnuplot snippets for Python, for interactive and batch plotting by advanced users"
+2026-11-27T01:56:36Z,tensorcost-litellm,0.1.5,Vaadh Labs,Apache-2.0,89836,"A LiteLLM proxy guardrail that checks TensorCost budgets before each call, and a logger that reports spend back."
+2026-11-27T01:56:44Z,mintchip,0.2.0,Ben Blaiszik,MIT,3880524,"Word-sized graphics for the numbers in an agent's report: sparklines, intervals, before/after and pass/fail chips in text, Markdown or HTML, from one shell command."
+2026-11-27T02:04:11Z,withparallel-google-ads-audit,0.1.0,Parallel AI <support@withparallel.ai>,MIT,24301,"Zero-dependency deterministic Python CLI, library, and read-only MCP stdio server from Parallel AI (withparallel.ai) for Google Ads CSV export parsing, 30.4x budget pacing, and negative keyword colli…"
+2026-11-27T02:04:41Z,pixtreme-transport-sequence,0.1.0,,MIT AND BSD-3-Clause,449529,Image sequence module for pixtreme.transport
+2026-11-27T02:04:48Z,hereward,0.0.1,,LicenseRef-Proprietary,1755,Hereward: a safety-first platform for AI agents. Reserved; not yet released.
+2026-11-27T02:10:23Z,open-agent-security,0.1.0,The BRACE Project,CC-BY-4.0,287746,"Find known-dangerous AI agent setups: disabled permission checks, unpinned MCP servers, secrets in agent config, lethal capability combinations."
+2026-11-27T02:14:38Z,kodamaembed,0.1.0,,Apache-2.0,35313192,Text embeddings and reranking on CPUs and GPUs
+2026-11-27T02:15:09Z,ctxblame,0.2.0,kekeandzeyu,MIT,105861,git blame for LLM agent decisions: find which context chunk caused a tool call
