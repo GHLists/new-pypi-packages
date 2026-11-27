@@ -1,62 +1,62 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-11-27T20:20:00.565701Z",
-    "path": "data/new-packages-2026-11-27T21-19-07-750619Z.csv",
-    "to": "2026-11-27T21:19:07.750619Z"
+    "count": 34,
+    "from": "2026-11-27T21:19:07.750619Z",
+    "path": "data/new-packages-2026-11-27T22-18-58-543332Z.csv",
+    "to": "2026-11-27T22:18:58.543332Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-27T20:30:13Z",
       "package": "Pilotstats",
       "since": "2026-11-27T20:20:00.565701Z",
       "version": null
     },
     {
-      "attempts": 3,
-      "created_at": "2026-11-27T19:10:25Z",
-      "package": "betterleaks-cli",
-      "since": "2026-11-27T18:18:59.105397Z",
+      "attempts": 1,
+      "created_at": "2026-11-27T21:37:46Z",
+      "package": "betterleaks-pypi",
+      "since": "2026-11-27T21:19:07.750619Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-27T21:33:59Z",
+      "package": "livekit-plugins-finesse",
+      "since": "2026-11-27T21:19:07.750619Z",
       "version": null
     },
     {
       "attempts": 3,
-      "created_at": "2026-11-27T19:10:38Z",
-      "package": "betterleaks-sdk",
-      "since": "2026-11-27T18:18:59.105397Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
       "created_at": "2026-11-27T19:28:32Z",
       "package": "qwen-tts-cpu",
       "since": "2026-11-27T19:19:13.365913Z",
       "version": "0.3.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-27T19:34:17Z",
       "package": "qwen-tts-runtime",
       "since": "2026-11-27T19:19:13.365913Z",
       "version": "0.3.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-27T19:30:24Z",
       "package": "qwentts-gradio",
       "since": "2026-11-27T19:19:13.365913Z",
       "version": "0.3.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-27T19:32:21Z",
       "package": "qwenvox-tts-3",
       "since": "2026-11-27T19:19:13.365913Z",
       "version": "0.3.0"
     }
   ],
-  "serial": 44271366,
+  "serial": 44272997,
   "source_truncated": false,
-  "window": "2026-11-27T21:19:07.750619Z"
+  "window": "2026-11-27T22:18:58.543332Z"
 }

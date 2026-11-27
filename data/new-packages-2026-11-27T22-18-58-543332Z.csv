@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T19:10:25Z,betterleaks-cli,2.0.0rc16,Betterleaks Contributors,"MIT License Copyright (c) 2026 Zachary Rice Permission is hereby granted, free of charge, to any pe…",68670514,"Standalone CLI for Betterleaks, the high-performance secret and credential detection engine."
+2026-11-27T19:10:38Z,betterleaks-sdk,2.0.0rc16,Betterleaks Contributors,"MIT License Copyright (c) 2026 Zachary Rice Permission is hereby granted, free of charge, to any pe…",33788326,"Native Python SDK for Betterleaks, the high-performance secret and credential detection engine."
+2026-11-27T21:19:30Z,llama-mcp-bridge,1.0.4.post1,,MIT,390987,Hardware-aware local LLM MCP bridge powered by llama.cpp router mode
+2026-11-27T21:19:48Z,platino-scan,1.5.1,,Apache-2.0,49117,"Grafo de imports con tres fallas estructurales: ciclos, capas y barriles."
+2026-11-27T21:21:57Z,xcorr-signals,2026.11.4,"""Jan.Reimes"" <jan.reimes@head-acoustics.com>",MIT,682157,"Fast cross-correlation for determining and compensating delay between audio signal channels, implemented in Rust"
+2026-11-27T21:34:00Z,lastword-cc,0.1.1,kxzongoing,MIT,152317,"A permanent, browsable archive of your Claude Code session transcripts, before they're deleted."
+2026-11-27T21:38:03Z,heurica-tap,0.1.0,Heurica <hello@heurica.dev>,MIT,45245,"Text Action Protocol (TAP): tool use through plain text, with a lenient reply parser and a small agent loop."
+2026-11-27T21:39:26Z,exex-ml,0.5.0,Yicheng Luo <ethanluoyc@gmail.com>,MIT,233999,Explicit experiment execution on local machines and Slurm clusters
+2026-11-27T21:39:27Z,bnbingo,0.1.0,Levon Tumanyan,MIT,240524,"Search, verify, and score Airbnb stays against your own criteria"
+2026-11-27T21:40:07Z,shifter-engine,0.1.0,,Apache-2.0,501311100,Local inference engine and Shifter quantization library
+2026-11-27T21:43:36Z,raspador-compliant,0.1.0,,BSD-3-Clause,302890,"Raspagem web compliant sobre o Scrapling: robots.txt obrigatório, User-Agent identificado, sem evasão anti-bot."
+2026-11-27T21:45:38Z,langchain-serp-acedatacloud,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,7067,Google web search through Ace Data Cloud for LangChain
+2026-11-27T21:46:05Z,vectorguard-agentproof,1.1.0,Pavon Dunbar <pavon@vectorguardlabs.com>,MIT,646301,"Agent identity: verify which AI agent is calling and which human or business is accountable, using verifiable credentials and signed HTTP requests"
+2026-11-27T21:48:04Z,roadhouse-sh,0.0.0,,,1387,Roadhouse: the bouncer for AI agents on ClickHouse. Coming soon: https://github.com/roadhouse-sh
+2026-11-27T21:48:07Z,mcp-roadhouse,0.0.0,,,1403,Roadhouse: the bouncer for AI agents on ClickHouse. Coming soon: https://github.com/roadhouse-sh
+2026-11-27T21:48:25Z,rtcloud,1.0.0,RT Cloud,MIT,17745,"Biblioteca oficial da RTCloud para Python: aplicações, arquivos, variáveis, snapshots, bancos e equipes pela API pública."
+2026-11-27T21:50:31Z,py-quantum-verifier,0.1.0,,MIT,45989,"Deterministic pre-flight verification for quantum circuits: catches silent transpiler blowups, topology traps and noise-only 'signals' before you spend hardware time."
+2026-11-27T21:50:53Z,ovoz,0.1.0,Ziyodullo,MIT,188337,Offline o'zbekcha nutq: ovoz → matn (STT) va matn → ovoz (TTS). Torch kerak emas
+2026-11-27T21:50:59Z,mars-rec,0.1.0,MARS-Gym Authors,MIT,290531,"MARS-Rec: framework to model, train, and evaluate deep-learning recommendation systems (successor of MARS-Gym Lite)."
+2026-11-27T21:51:46Z,draco-harness,0.1.0,Amartya Ranjan,MIT,140252,"Embeddable agent runtime: harness, routing, tools, security, state and observability, with optional adapters"
+2026-11-27T21:54:51Z,olyzon-sdk,0.0.0,,,1977,The olyzon.ai platform SDK. Placeholder: the first release is coming.
+2026-11-27T21:56:55Z,co-crawfish,0.1.0,Ben Rich <benjamin.rich@colorado.edu>,MIT,237429,"Bonding analysis (pDOS, pCOHP, pCOOP, pCOBI, pCOMO) on JDFTx calculations"
+2026-11-27T21:57:36Z,agastya-shield,0.1.0,Agastya Sharma,MIT,67973,"Security layer for LLM apps: redact PII and secrets (Aadhaar, PAN, UPI, cards, API keys), detect prompt injection (incl. Hindi and invisible-Unicode attacks), and scan model output. Zero dependencies."
+2026-11-27T21:58:49Z,pact-harness,0.1.3,Michael Wojcik,MIT,252274,Platform-neutral harness that runs PACT on any agentic coding platform
+2026-11-27T21:58:56Z,acuto,0.1.1,Yifeng Xiao,Apache-2.0,188364,"A symbolic control layer for LLM agents: contracts over tool calls, compiled to automata that mask, route and verify every step"
+2026-11-27T21:59:10Z,akshauhini,0.1.0,Abhineet Pandey,Apache-2.0,778465,"Live visual monitoring for multi-agent applications, with a read-only view of local coding agents (Claude Code, Codex CLI, Gemini CLI) and offline LLM analysis."
+2026-11-27T22:00:15Z,markovq,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",166126,Classical and quantum stochastic dynamics
+2026-11-27T22:02:03Z,llmfit-local,0.1.0,Staggerlee60,MIT,29127,"Zero-dependency CLI that inspects your CPU, RAM, and GPU/VRAM to recommend local open-weight LLMs and quantization levels."
+2026-11-27T22:05:26Z,diffdb-core,0.1.0,Sarath Mohan,MIT,158523,"Cross-database table diffing by recursive checksum bisection, with declarative YAML SQL dialects"
+2026-11-27T22:07:30Z,rjdoa,0.2.0,Finley Boulton,MIT,150638,Bayesian wideband DoA estimation and detection with reversible-jump MCMC and SMC samplers.
+2026-11-27T22:08:30Z,ll-pyv,0.1.0,ll-tg contributors,MIT,25070,A language-only Python Telegram bot runtime with durable delivery and remote API schema support
+2026-11-27T22:11:33Z,statsfolder,0.1.0,Sermet Pekin <sermet.pekin@gmail.com>,GPL-3.0-or-later,180436,"Beautiful, offline folder analytics with HTML reports and a Streamlit dashboard."
+2026-11-27T22:15:47Z,arth-semlayer,0.1.0,Rituraj Singh,Apache-2.0,349620,Certification-gated semantic layer MCP server for BigQuery and DuckDB with default-deny RBAC.
+2026-11-27T22:16:53Z,codegraph-lsp,0.1.0,Murat Can Ozdemir,MIT,94088,"Code coupling graphs from your LSP servers (gopls, pyright), clustered with Leiden"
