@@ -1,0 +1,16 @@
+created_at,package,version,author,license,size,summary
+2026-11-26T23:21:41Z,fkpt2,0.1.0,Mario A. Rodriguez-Meza,"MIT License Copyright (c) 2024 Mario A. Rodriguez-Meza Permission is hereby granted, free of charge…",1030525,One-loop redshift-space power spectrum multipoles
+2026-11-26T23:22:40Z,trustcomponent,0.0.1b1,Trustcaptcha GmbH <mail@trustcomponent.com>,MIT,205879,"Official TrustComponent SDK for Python: TrustCaptcha, TrustAnalytics, TrustMonitoring, Trust VAT Checker and the platform API."
+2026-11-26T23:22:48Z,gurp-vaults-sdk,0.0.1,,MIT,540,Placeholder gurpuvtelh20
+2026-11-26T23:25:22Z,graphe-code,0.1.1,,MIT,173700,"The code graph of a host project: what calls what, what cites what."
+2026-11-26T23:26:15Z,py-euvd,0.2.0,Dominik Muhs,Apache-2.0,76014,Dependency-free Python client for the EU Vulnerability Database (EUVD) API
+2026-11-26T23:26:19Z,langfuse-neomundi,0.1.0,Sebastien FAVRE <sebastien@neomundi.org>,Apache-2.0,28565,Write NeoMundi measurements back into Langfuse as scores on the trace
+2026-11-26T23:27:26Z,odcr,0.2.0,"sulfibashy, odcr contributors",Apache-2.0,154599,"Open Data Contract Runtime: enforce ODCS data contracts where data lands, reconcile source and target, and trace every batch end to end, on any database, lake or cloud."
+2026-11-26T23:50:19Z,yukipdf,1.0,,,26881,
+2026-11-26T23:55:30Z,topwater,0.1.0a4,,MIT,803738,Give your agent one `bash` tool backed by a simulated Linux shell and your own Python tools.
+2026-11-27T00:01:23Z,paybound,0.1.0,,Apache-2.0,53611,"Paybound: let AI agents pay on BNB Smart Chain only what a person approved. Testnet only, not audited."
+2026-11-27T00:03:35Z,fhoat,0.1.1,Karthik Rajgopal <karthik.rajgopal@hotmail.com>,MIT,94590,Oat UI for FastHTML: a drop-in for Pico
+2026-11-27T00:08:40Z,hfpin,0.1.0,Dip Pansuriya,MIT,25090,Pin Hugging Face models and datasets in your code to exact commits
+2026-11-27T00:15:08Z,embedsleuth,0.1.0,,,128104,Evidence-based embedded diagnostics for AI hosts via MCP
+2026-11-27T00:16:06Z,tree-sitter-mib,0.3.0,Eric Brown,MIT,429537,SNMP MIB (SMIv1/SMIv2) grammar for tree-sitter
+2026-11-27T00:18:36Z,ontometer-corpus,0.1.0,"Alexander Belikov <alexander@growgraph.dev>, David Bareham <d.bareham@liverpool.ac.uk>",Apache-2.0,666701,"The OntoMeter Corpus of public ontologies: derivation pipeline, table loaders and paper analysis"

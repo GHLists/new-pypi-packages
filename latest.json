@@ -1,20 +1,13 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-11-26T22:20:35.653097Z",
-    "path": "data/new-packages-2026-11-26T23-21-29-06879Z.csv",
-    "to": "2026-11-26T23:21:29.06879Z"
+    "count": 15,
+    "from": "2026-11-26T23:21:29.06879Z",
+    "path": "data/new-packages-2026-11-27T00-20-35-239995Z.csv",
+    "to": "2026-11-27T00:20:35.239995Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-11-26T19:21:48Z",
-      "package": "httpnex",
-      "since": "2026-11-26T19:21:16.632461Z",
-      "version": "0.1.1"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-26T20:30:44Z",
       "package": "iq-stream-python",
       "since": "2026-11-26T20:21:30.077674Z",
@@ -22,13 +15,20 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-11-27T00:19:56Z",
+      "package": "orbitar-jth",
+      "since": "2026-11-26T23:21:29.06879Z",
+      "version": "2.0.0"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-26T22:20:41Z",
       "package": "strotmacore",
       "since": "2026-11-26T22:20:35.653097Z",
       "version": null
     }
   ],
-  "serial": 44226981,
+  "serial": 44228318,
   "source_truncated": false,
-  "window": "2026-11-26T23:21:29.06879Z"
+  "window": "2026-11-27T00:20:35.239995Z"
 }
