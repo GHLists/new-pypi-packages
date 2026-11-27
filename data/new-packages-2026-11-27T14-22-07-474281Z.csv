@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T13:21:56Z,ds-provider-aic-py-lib,0.1.0a1,Kristopy <hello@grasplabs.com>,Apache-2.0,41198,DS package for ds-provider-aic-py-lib
+2026-11-27T13:25:02Z,cima-d3tools,3.0.0,Luca Trotter <luca.trotter@cimafoundation.org>,EUPL-1.2,301333,"A package of common tools for the door, dam and dryes packages of CIMA Research Foundation"
+2026-11-27T13:25:40Z,cuttle-pii,0.1.0,,GPL-3.0-or-later,245648,Offline CLI for anonymizing and defanging sensitive text
+2026-11-27T13:27:25Z,cell-type-annotation,0.4.2,quadbio,MIT,200100,"Method routing, evidence checks, label hierarchies and reports for evidence-driven cell-type annotation."
+2026-11-27T13:27:52Z,analysis-workflow,0.13.0,quadbio,MIT,157508,"Task paths, additive AnnData write-back and layout checks for agent-run analysis repos."
+2026-11-27T13:28:50Z,uzmorph-net,0.1.0,Ulugbek Salaev,MIT,33719720,Multi-task neural morphological analyzer and lemmatizer for Uzbek
+2026-11-27T13:30:22Z,mindvoice-sdk,0.1.0,,,84115,Клиент публичного API MindVoice для Python
+2026-11-27T13:31:07Z,twocents-xchange-rate,0.2.0,FedericoCantarelli,,30811,Get exchange rates from Banca d'Italia. Available as a Python module and a CLI.
+2026-11-27T13:31:19Z,antarya,0.1.0,,MIT,30372,Python SDK for the Antarya API.
+2026-11-27T13:31:36Z,megasast,0.2.0,Matt Stanchek <matt@stanchek.com>,GPL-3.0-only,136246,Simple SAST tool for large monorepos with valid SARIF output
+2026-11-27T13:33:26Z,sei_dev,0.0.1,Sei <support@sei.dev>,,1593,Reserved for Sei (https://sei.dev)
+2026-11-27T13:33:43Z,wimsta-formulas,1.0.1,WIMSTA <hello@wimsta.com>,Apache-2.0,70774,"WIMSTA Formula Registry: body-fat, BMI, waist-to-height, max heart rate and BMR equations with primary sources."
+2026-11-27T13:34:48Z,passwordstore-reader,0.1.0,Oliver Stolpe,MIT,10699,Simple python library to access an existing pass password store in your scripts.
+2026-11-27T13:36:00Z,zws-project,0.1.0,zhaoweisong,,2547,Add your description here
+2026-11-27T13:38:31Z,cosmo3d,0.0.1,,,34164,Engine 3D em um único arquivo
+2026-11-27T13:38:45Z,stabilizer-synth,0.1.0,Joaquin <joaquin@users.noreply.github.com>,MIT,16879,Fast SAT-based synthesis of non-CSS quantum stabilizer codes with group symmetries and 2D layout optimization
+2026-11-27T13:39:00Z,bessel-audio,0.3.0,Charles <charles@asrena.ai>,,17693,Bessel Transcribe and Decision client with explicit submission and bounded job recovery
+2026-11-27T13:41:57Z,elsehold,0.1.0,Residual Labs <contact@residual-labs.fr>,,5138,"Create, verify, restore and repair Elsehold file-backup fragments offline."
+2026-11-27T13:43:58Z,safetape,0.1.0,Parth,MIT,222095,Keep API keys out of your recorded LLM test cassettes. Works with vcrpy and pytest-recording.
+2026-11-27T13:46:25Z,ultrazohm-cpld-user,0.6.0.dev46007027869001,,LicenseRef-Bundled-Components,101664330,UltraZohm existing-firmware programmer
+2026-11-27T13:47:56Z,unique-interface,0.1.1,Unique50101,MIT,23970,Unique's black-and-white chat and file-review components for Python notebooks.
+2026-11-27T13:49:56Z,wholagged,0.3.8,Erik,PolyForm-Noncommercial-1.0.0,71894,"wholagged: is it your internet, your provider or Valve's servers? A network check for Dota 2."
+2026-11-27T13:51:19Z,fingerprint-machine,0.1.0,bitranox <bitranox@gmail.com>,MIT,295345,"Read a Windows machine's identity (SMBIOS, NICs, serials, TPM, licensing) as JSON and compare readings"
+2026-11-27T13:51:19Z,seirouter,0.0.1,SeiRouter <support@seirouter.com>,,1623,Reserved for SeiRouter (https://seirouter.com)
+2026-11-27T13:51:33Z,iotlabaggregator,2.3.1,IoT-LAB Team <admin@iot-lab.info>,CeCILL v2.1,33675,IoT-LAB testbed node connection command-line tools
+2026-11-27T13:52:07Z,sedmetrics,0.1.0,,Apache-2.0,480892,Evaluation metrics for Sound Event Detection
+2026-11-27T13:53:19Z,webfuse-nightly,0.1.0.dev202611271351,,MIT,157072,"Python SDK for Webfuse: Spaces, extensions and session automation"
+2026-11-27T13:55:19Z,pysofamyroom,0.2.0,Roberto Barumerli <roberto.baru@gmail.com>,EUPL-1.2 AND GPL-3.0-or-later,1056521,"Python interface to SofaMyRoom, a shoebox room acoustics simulator that renders binaural room impulse responses with SOFA HRTFs"
+2026-11-27T13:56:30Z,quickwork-session,0.1.0,juqo309,MIT,21337,Prove an Amazon Quick session is alive on the account's own proxy before it is pooled.
+2026-11-27T13:57:15Z,rulfo,0.1.7,Jorge Cardona <jorgeecardona@gmail.com>,MIT,105444,"Messaging between processes where a request gets zero, one or many replies and always an end. Status: early"
+2026-11-27T13:57:27Z,odoo-addon-sale-order-rename,16.0.1.0.0.2,"CorporateHub, Odoo Community Association (OCA)",AGPL-3,22750,Allows renaming of Quotation / Sale Order
+2026-11-27T13:57:43Z,motionstudio-api,0.3.0,Zahid Khalilov,MIT,101525,"Build and drive MotionStudio digital twins from Python: robots, humanoids, stations and their scenes"
+2026-11-27T13:59:18Z,tmenubar,0.1.0,ingo,,27302,"A drop-down menu bar widget with submenus, mnemonics and i18n support for Textual"
+2026-11-27T14:00:08Z,memorypass,0.1.1,NestDaddy <hello@nestdaddy.com>,MIT,228232,"Take your AI memory with you: import your ChatGPT, Claude and Gemini history, keep it on your machine, and let any MCP app (Claude, Cursor, Claude Code) know you from day one."
+2026-11-27T14:00:11Z,agentfold,0.2.1,agentfold contributors,Apache-2.0,431869,"Cut your LLM/agent bill two ways: route (an OpenAI-compatible gateway) and compile (fold a LangGraph workflow into one cached conversation) — measured, not promised."
+2026-11-27T14:00:14Z,binarycalc,0.1.0,BinaryCalc,MIT,97805,"Binary, hex, octal and decimal conversion, text to binary, Morse code, LCM, GCF and factors, from the engine behind BinaryCalc."
+2026-11-27T14:01:59Z,py-fatigue-mcp,0.1.0,,GPL-3.0-only,45259,Local MCP tools for Py-Fatigue v3
+2026-11-27T14:02:06Z,octophone,0.1.0,Samrat Man Singh <samratmansingh@gmail.com>,MIT,67629,Python SDK for Octophone — the native phone for your voice agents.
+2026-11-27T14:02:31Z,pliers-bio,4.0.1,Ilya Senatorov <ilya.senatorov@helmholtz-hips.de>,"MIT License Copyright (c) 2022 Ilya Senatorov Permission is hereby granted, free of charge, to any…",956856,Protein-ligand interaction benchmarking from protein structure contact graphs
+2026-11-27T14:04:23Z,corvustui,0.1.0,Zakariya Zahid,MIT,320694,CorvusTUI: Agentic Terminal Interface and Modular MCP Execution Engine
+2026-11-27T14:07:16Z,cheby-hdl,1.8.dev0,CERN <cheby-codegen@cern.ch>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",388920,Generate HDL/C/Doc from HW/SW interface description
+2026-11-27T14:08:17Z,emcfile-fast,0.2.0,,MIT,4818140,Rust SIMD+Zstd acceleration for emcfile (HDF5 and Parquet)
+2026-11-27T14:08:36Z,emcfile,0.2.0,,MIT,95402,Utilities for EMC photon patterns and detector geometry
+2026-11-27T14:09:20Z,fastbridge,0.1.0,korolenkowork,MIT,49762,"Expose FastAPI, Starlette, Django and Litestar endpoints as MCP and UTCP tools with one line."
+2026-11-27T14:12:34Z,omni-scraper,0.1.0,Loganathan M <Loganathanmanoharan2005@gmail.com>,MIT,268761,"Adaptive web scraping for Python: tiered HTTP/browser/stealth fetching, self-healing selectors, zero-config product and article extraction, LLM-ready Markdown, a polite resumable crawler and an MCP s…"
+2026-11-27T14:14:05Z,jupyter-websocket-provider,0.1.0,,BSD-3-Clause,37346,A WebSocket relay for shared Jupyter documents
+2026-11-27T14:16:20Z,lefx-config-widget,3.0.5,,MIT,110997,Embeddable Qt effect and feedback mapping configurator for LEFX V3
+2026-11-27T14:19:43Z,orca-agent-workflow,0.2.0,,MIT,179318,"Guardrails for running AI coding agents on code that matters: scoped workers, independent review and isolated checks, coordinated through Orca."
+2026-11-27T14:19:47Z,quick-toolkit-bijay,0.1.0,Timalsina Bijay,,3286,"A simple Python utility library for unit conversion, average score calculation, and word counting."
+2026-11-27T14:20:58Z,adops,0.1.0,Dimitry Katz,Apache-2.0,665069,"Self-hosted data pipelines: sync, transform and check data into a Postgres or DuckDB warehouse."
