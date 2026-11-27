@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T08:19:52Z,nexusos-xdr,1.2.0,NEXUS Contributors,MIT,689168,"nexusos-xdr — NEXUS agent dispatch bus (dispatch / callback / presence / patrol, with an MCP endpoint)"
+2026-11-27T08:23:07Z,is-calc,0.1.0,illusionhs <illusionhs@163.com>,MIT,16468,"A small calculator library with vector/matrix helpers, determinant, adjugate and inverse."
+2026-11-27T08:23:50Z,molnova,4.2.0,MolNova Team,MIT,9117,MolNova v4.2 - High-performance native Rust molecular & volumetric desktop visualizer launcher
+2026-11-27T08:25:08Z,mindmap-synaptome,0.1.0,Nino Herve <herve.nino@gmail.com>,MIT,684749,"Collect, store, and share all the metrics from a research study as one portable object."
+2026-11-27T08:26:45Z,quint-connect-py,0.1.0,,Apache-2.0,1552851,Replay Quint model traces against Python code
+2026-11-27T08:29:11Z,titan-statutory-mcp-gate,1.0.1,TITAN Capital Forensics LLC <audit@titancapitalforensics.com>,Apache-2.0,51945,"Stateless diagnostic statutory applicability, schema readiness, and Ed25519 workpaper hash gate for US, EU, and UAE compliance workflows."
+2026-11-27T08:29:35Z,qopai,0.1.11,,,183218,
+2026-11-27T08:30:28Z,zilo-det,0.1.0,,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",72842,CPU inference for the ZiLO Base COCO 80-class object detector
+2026-11-27T08:31:21Z,SGDF,0.5.0,Zhipeng Yao and SGDF contributors,MIT,36058,"SGDF gradient-filter optimizer: Sign, Muon, optional fused CUDA, distributed DTensor"
+2026-11-27T08:31:55Z,tembuilder,0.1.0,Tembuilder,MIT,106363,Official Python SDK for the Tembuilder PDF rendering API.
+2026-11-27T08:32:28Z,jiangxi-social-security,0.3.0,,,104535,江西人社单位社保 Python SDK
+2026-11-27T08:32:32Z,zhejiang-social-security,0.3.1,,,50361,浙江职工参保登记和暂停参保 Python SDK
+2026-11-27T08:35:32Z,mangono-addon-auth_security_bundle,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,3807,
+2026-11-27T08:37:00Z,data-analytics-agent-memory,0.1.0,,,84237,"Async, pluggable memory storage and retrieval components for AI agents."
+2026-11-27T08:41:04Z,amlnn-link,0.1.0,"Zhu Chen <chen.zhu@amlogic.com>, AMLNN Team <xinxin.he@amlogic.com>",Apache-2.0,3045114,"Amlogic NN client link: nnserver2 wire protocol, USB/socket transport, USB dma-buf zero copy"
+2026-11-27T08:41:37Z,decm,0.0.0,sgyaqing,Apache-2.0,2023,"DecM: a high-performance serving engine for System One decision models, and its Python SDK"
+2026-11-27T08:44:21Z,ioc-concord-mce-metrics,0.1.0,,Apache-2.0,95507,"CONCORD compliance, rounds, satisfaction, fairness and token cost as MCE metric plugins."
+2026-11-27T08:45:04Z,seyed,0.1.0,3dsadra <3dsadra.h@gmail.com>,MIT,12584,"A fun and random Python library for yes/no, fortunes, names, and more."
+2026-11-27T08:48:34Z,py-zkhb-sdk,1.0.1,guolei <174000902@qq.com>,,29955,zkhb WebService 平台 Python SDK - 同步接口调用（官方文档: 待补充）
+2026-11-27T08:49:44Z,yolla-voice-python,0.1.0,,MIT,175337,Python server SDK for the Yolla Voice Reseller API
+2026-11-27T08:50:47Z,eulix,0.1.0,Mohamed Ali El Euchi,MIT,110986,"Euler characteristic curves and surfaces of images, exact or differentiable, for any array library."
+2026-11-27T08:53:08Z,ioc-scope-client,0.2.0,,,433246,A client library for accessing Cognition Fabric API
+2026-11-27T08:53:28Z,sieve-mcp-server,0.1.0,Kai IWASAKI,MIT,59394,"Sieve-MCP: the MCP server that hands local files to AI tools in a shareable form, over the sieve-tray engines"
+2026-11-27T08:53:55Z,get41,0.1.0,41,MIT,27851,"Send your AI agents' OpenTelemetry spans to 41: one install, one line"
+2026-11-27T08:55:19Z,hexaly-assistant,15.0.20261126,Hexaly,LicenseRef-Proprietary,163953645,MCP server for Hexaly modeling and documentation
+2026-11-27T08:58:16Z,declarative-query,0.2.0,karthaszzz,MIT,24037,Compile declarative Pydantic query models into SQLAlchemy statements
+2026-11-27T08:58:40Z,my-heart-health,1.0.2,my-heart-health,MIT,29754,心理打卡 Agent — 记录睡眠/压力/情绪日记，每周自动复盘，帮用户看到情绪波动规律、触发事件，输出问题总结
+2026-11-27T08:59:24Z,naturgy-cli,0.1.0,Naturgy CLI contributors,MIT,80513,JSON-first CLI for your own Naturgy España (Omega) account
+2026-11-27T09:00:27Z,cuboid-tool,0.0.0,,,2834,
+2026-11-27T09:04:12Z,stream-pipes-sim,1.0.0,Aurélien Clairais <aureclai.dev@gmail.com>,MIT OR Apache-2.0,9645126,"Event-based mesoscopic LWR traffic model with per-lane pipes, class-restricted lanes and built-in verification"
+2026-11-27T09:04:53Z,szn-tools,1.13.0,,,294128,"SZN Tools - animated terminal toolbench, 82 tools, stdlib only"
+2026-11-27T09:07:59Z,cjk-ctx,0.2.1,cjk-ctx contributors,MIT,133229,中文可逆压缩 + 领域知识图谱：零依赖 MCP / CLI / 库，内置码表与可 PR 的领域词表包
+2026-11-27T09:10:07Z,novamx,0.0.1,"""NovaMX B.V."" <info@novamx.eu>",Proprietary,3308,Name reservation for NovaMX B.V. Not a functional product.
+2026-11-27T09:10:09Z,novamx-eu,0.0.1,"""NovaMX B.V."" <info@novamx.eu>",Proprietary,3333,Name reservation for NovaMX B.V. Not a functional product.
+2026-11-27T09:11:42Z,mailblaze-transactional,0.1.0,Mail Blaze <support@mailblaze.com>,MIT,99221,Official Python client for the Mail Blaze transactional email API
+2026-11-27T09:16:32Z,leanwall,0.1.0,Kaushal Jogi,MIT,282771,Local-first MCP firewall and token-compression proxy
+2026-11-27T09:16:34Z,boxcalc-cuc,0.1.0,student <test@cuc.edu.cn>,,5114,长方体尺寸计算工具包，计算体积、表面积、对角线
+2026-11-27T09:21:55Z,mapframe,0.3.0,Daniel Guerrero <dfgm2006@gmail.com>,MIT,1340127,"MapLibre GL JS maps for Jupyter, Voila and Solara: Python publishes the whole map and every view follows it."

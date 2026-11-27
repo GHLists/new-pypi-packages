@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 56,
-    "from": "2026-11-27T07:18:44.549234Z",
-    "path": "data/new-packages-2026-11-27T08-20-46-089172Z.csv",
-    "to": "2026-11-27T08:20:46.089172Z"
+    "count": 38,
+    "from": "2026-11-27T08:20:46.089172Z",
+    "path": "data/new-packages-2026-11-27T09-22-13-869041Z.csv",
+    "to": "2026-11-27T09:22:13.869041Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-27T08:19:52Z",
-      "package": "nexusos-xdr",
-      "since": "2026-11-27T07:18:44.549234Z",
-      "version": "1.2.0"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-27T05:30:44Z",
       "package": "wincontrol",
       "since": "2026-11-27T05:18:48.932378Z",
       "version": "0.1.2"
     }
   ],
-  "serial": 44240445,
+  "serial": 44242284,
   "source_truncated": false,
-  "window": "2026-11-27T08:20:46.089172Z"
+  "window": "2026-11-27T09:22:13.869041Z"
 }
