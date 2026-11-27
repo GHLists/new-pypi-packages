@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T12:21:25Z,lkthink-agent,0.1.1,,MIT,129478,Extensible Cognitive Agent Engine
+2026-11-27T12:26:23Z,cquda-continuumq,0.1.0,Aliyev Islom/ContinuumQ,MIT,84485,"Write CUDA-style kernels in Python: trace to an IR, run on NumPy (CPU SIMT emulation) or NVIDIA GPUs (PTX)."
+2026-11-27T12:28:19Z,econpulse,3.4.0,"Aref Hosseini, Kasra Sartaee",MIT,337906,"Economic calendar for your desktop: a floating widget and full calendar with countdowns, alerts and Actual/Forecast/Previous values."
+2026-11-27T12:33:16Z,lgd-passport,1.2.2,Xinghua Zhao,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",53885,"Offline verifier and negative-control vector set for agent passports, delegation chains and signed requests"
+2026-11-27T12:34:34Z,pyecrad-SR,1.8.0.dev2,Sébastien Riette <sebastien.riette@meteo.fr>,Apache-2.0,66276494,Python interface to the ecRad atmospheric radiation scheme
+2026-11-27T12:34:44Z,cofrgenet-torch,0.2.0,tpoisonooo,MIT,25995,PyTorch implementation of CoFrGeNet-FNG: non-expanding gated continued-fraction feed-forward layers (arXiv:2611.26835) with fused Triton fwd/bwd kernels
+2026-11-27T12:37:30Z,sendurl,0.1.0,DRG Technologies and Consultancy,MIT,71189,"Official Python client for the SendURL REST API: short links, QR codes and click analytics."
+2026-11-27T12:39:44Z,curvemetric,1.5.0,,Apache-2.0,159921,Financial curve diagnostics and numerical validation
+2026-11-27T12:42:16Z,nebius-tf-cost,1.0.0,Nebius TF Cost Estimate,Apache-2.0,102020,Estimate Nebius AI Cloud costs from Terraform plan/state JSON
+2026-11-27T12:42:40Z,anyconv-core,1.0.0,AnyConv,MIT,395633,AnyConv — движок подключаемых конвертеров данных
+2026-11-27T12:44:39Z,lunopt,0.0.0,Luna Space Ltd.,MPL-2.0,7355,"LUNOPT, the Lightweight Unified Nonlinear OPTimiser: the name reserved, the first release to follow"
+2026-11-27T12:46:55Z,agent-doctor-cli,0.5.0,Kushagra Sharma,MIT,302755,"Find out why your AI agent is expensive, slow or unreliable, and how to fix it."
+2026-11-27T12:46:57Z,rootos,1.0.1,kredt,MIT,549710,"ROOT // a sandboxed personal operating system, root of all things"
+2026-11-27T12:47:17Z,euler-slurm,0.4.0,Daniel Rothenpieler <rothenpielerdaniel@gmail.com>,MIT,151773,"SLURM jobs as typed, versioned JSON, with plain-language explanations of pending reasons, states and failures"
+2026-11-27T12:47:21Z,gemini-tender,0.2.0,Maxime 'Epoc' Gross <contact.nospam@epoc.nospam.fr>,LicenseRef-DBAD,15535,"A Gemini (the protocol) low-level client, implemented in Python"
+2026-11-27T12:48:31Z,pyopengate,0.1.0,Ben Tekkie,MIT,25062,Async Python client library for the OpenGate gate-opening API.
+2026-11-27T12:53:50Z,mizanpage,1.0.0,Laudelout Studio <contact@mizanpage.com>,MIT,17204,"Client officiel de l'API Mizanpage : générer des PDF depuis vos modèles, en direct ou en file d'attente, et vérifier les webhooks."
+2026-11-27T12:56:23Z,agoralar-source-markdown,0.1.0,,MIT,8312,"Заметки Markdown как источник объектов для AxisLar: frontmatter, #tags, [[wiki-links]]"
+2026-11-27T12:58:08Z,rozier-piecepack,0.3.1,Chris Rozier,Apache-2.0,53831,Zero-swap layout fallback for Qiskit when the circuit's interaction graph is split into pieces
+2026-11-27T13:00:26Z,auniqorm-native,2.0.0,,MIT,102955913,Native database engine for aUniqORM (Rust/tokio/sqlx)
+2026-11-27T13:00:35Z,sec-financial-analyst-mcp,1.0.1,Yigit Uysaloglu,MIT,32227,MCP server that gives AI assistants source-cited financial analysis of US public companies from SEC EDGAR filings.
+2026-11-27T13:01:25Z,auniqorm,2.0.0,Axis Communications AB,MIT,285825,A lightweight Python ORM library
+2026-11-27T13:06:32Z,claude-session-hub,0.1.1,lolloi,MIT,103382,"A local dashboard for all your Claude Code sessions: who is working, who is waiting for you."
+2026-11-27T13:08:06Z,lekha-mcp,0.1.0,,MIT,85758,"MCP server for Lekha API: parse Indian bank statement PDFs into transactions from Claude, Cursor, VS Code and other MCP clients."
+2026-11-27T13:09:10Z,sparsh-math-tools,1.0.0,Sparsh Bansal,,17796,A custom rational-first mathematics utility package.
+2026-11-27T13:11:50Z,krogoco-calendar,1.0.0,Jonny Bergdahl <github@bergdahl.it>,MIT,18790,Scrapes Krog & Co's calendar pages and turns them into iCalendar (ICS) files
+2026-11-27T13:11:54Z,langfuse-lite,0.1.0,,MIT,164960973,"A local Langfuse for experiment runs and agent tracing: one process, one SQLite file, the Langfuse SDKs unchanged."
+2026-11-27T13:12:13Z,monitoring-app-reporter,1.0.0,Inferyx DevOps <devops@inferyx.com>,LicenseRef-Proprietary,28431,"Upload an Inferyx user list to S3 on a schedule, for a monitoring-app console that cannot reach this server"
+2026-11-27T13:15:57Z,sigit-si-cli,1.4.0,Seto Elkahfi <seto@sigit.si>,Apache-2.0,19208807,"si, the sigit.si command line interface."
+2026-11-27T13:16:21Z,coherentica-compiler,0.0.0,,LicenseRef-Proprietary,1959,Placeholder: this name is reserved. The real package is not published on PyPI.
+2026-11-27T13:20:50Z,maxcombat,0.1.2,Olivier Coen,MIT,33238,Scalable batch-effect correction largely based on reComBat
+2026-11-27T13:21:25Z,lupaxa-github-billing,0.1.0,The Lupaxa Project <opensource@lupaxa.com>,Apache-2.0,41660,Report which GitHub organisations are about to cost money.
