@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T11:20:20Z,zurchin,0.0.1,Pidgeon,Apache-2.0,8875,Reserved for Zurchin (formerly Pidgeon). Use pidgeon until the switch.
+2026-11-27T11:21:04Z,pipecat-ormem,0.1.2,Ormem,Apache-2.0,28698,"Long-term memory for Pipecat voice agents, powered by Ormem"
+2026-11-27T11:21:40Z,darwin-cleaner,0.4.2,,MIT,54754,Contract- and rules-driven single-file cleaning engine: parquet → row/column forks → ordered middleware chain → data and meta
+2026-11-27T11:23:49Z,outerlimit-governance-mcp-sdk,0.0.0rc6,Outerlimit,Apache-2.0,11522,Outerlimit MCP governance for MCP Python SDK. Placeholder.
+2026-11-27T11:23:51Z,felpra-trading-mcp,0.7.0,,MIT,1787649,"MCP server for trading signal analysis, position monitoring, market regime detection, and Trust Layer (B2AI credibility verification)"
+2026-11-27T11:23:58Z,vintagecheck,0.2.0,,Apache-2.0,27385,Point-in-time audits for backtests with explicit release lineage
+2026-11-27T11:25:00Z,bomprobe,1.1.0,Aditya S.,MIT,7362,SBOM quality auditor for CycloneDX and SPDX
+2026-11-27T11:25:08Z,outerlimit-governance-smolagents,0.0.0rc6,Outerlimit,Apache-2.0,11545,Outerlimit agent governance for smolagents. Placeholder.
+2026-11-27T11:26:21Z,mcp-drongo,0.1.0,,Apache-2.0,332857,Declarative MCP control plane and runtime security gateway for AI agents.
+2026-11-27T11:26:48Z,raspbytes,1.1.0,Raspbytes,BSD-2-Clause,72675,Official Python SDK for the Raspbytes API
+2026-11-27T11:27:16Z,lfs-gtm,1.0.0,Kai Diefenbach <kai.diefenbach@iqpp.de>,MIT,17871,Google Tag Manager and Consent Mode adapter for Django (pairs with lfs-cookie-consent)
+2026-11-27T11:27:18Z,lfs-bulk-prices,2.0.0,Kai Diefenbach,BSD-3-Clause,37689,Bulk prices (price tiers by quantity) for LFS
+2026-11-27T11:27:20Z,lfs-samples,1.1,Kai Diefenbach,BSD-3-Clause,41195,Sample management for LFS
+2026-11-27T11:30:56Z,unislme,0.1.0,"""Dr. Sabir Makhlouf"" <sabir.makhlouf@gmail.com>",MIT,94605,"Unified SLME and Photovoltaic Post-Processor for WIEN2k, VASP, Quantum ESPRESSO, and Generic DFT codes"
+2026-11-27T11:32:35Z,neruton,0.2.0,neruton contributors,MIT,88042,Native pure-Python tunnel client & SDK for Neruton (WSS + Yamux HTTP/WebSocket intranet proxy)
+2026-11-27T11:35:41Z,langchain-zurchin,0.0.1,Pidgeon,Apache-2.0,9020,Reserved for Zurchin (formerly Pidgeon). Use langchain-pidgeon until the switch.
+2026-11-27T11:37:42Z,pylset,0.0.1,Håkan Hallberg <hakan.hallb@protonmail.com>,GPL-3.0-or-later,196603,A Python Package for Level Set Simulations of Microstructure Evolution
+2026-11-27T11:37:44Z,agentsealbook,0.0.1,Rupreet Gujral <hello@rupreetg.com>,MIT,4628,Placeholder package to reserve the agentsealbook name.
+2026-11-27T11:38:24Z,audit-autopilot,0.1.0,audit-autopilot contributors,MIT,43509,"Domain-agnostic automated audit batching, strict schema validation, isolated candidate label management, and anonymized regression test generation."
+2026-11-27T11:38:25Z,doc-preproc,0.1.0,doc-preproc contributors,MIT,32340,"Lightweight, non-destructive document image quality diagnosis, adaptive preprocessing, and exact 2D coordinate mapping."
+2026-11-27T11:38:31Z,verilith,0.1.0,,MIT OR Apache-2.0,5907920,Formally verified (Verus) URL and JSON parsers for Python
+2026-11-27T11:39:24Z,carpool-agents,0.2.0,,MIT,68859,"Many agent tasks, one ride. Batch independent LLM tasks into one verified request — same answers, a fraction of the tokens."
+2026-11-27T11:39:29Z,copilot-sdk-datacircle,0.1.0,,MIT,26388,GitHub Copilot SDK tools for the Datacircle API: find the best GTM APIs
+2026-11-27T11:40:24Z,solidrpc-rpc-xray,0.1.0,,Apache-2.0,41298,Prometheus metrics for HTTP JSON-RPC clients
+2026-11-27T11:40:56Z,jupyter-vybe,1.2.0,Robert Strauss <robertstrauss@pm.me>,BSD-3-Clause,573831,Fine-grained AI code generation in Jupyter notebooks
+2026-11-27T11:40:58Z,prompt-protection,4.5.0,,MIT,176411,"Provenance-tracked, fail-closed tool-call guard for Python agents."
+2026-11-27T11:41:12Z,medit-mcp,0.4.0,metiu,MIT,643130,"Free open-source AI music editor (DAW) and MCP server: write songs with Claude Code, Cursor or any AI agent - chords, beats, bass, melodies, vocals - with built-in synths, 31 effects, Auto-Tune, mixi…"
+2026-11-27T11:42:24Z,ithmb-core,1.9.11,Nami,MIT,2127836,Python bindings for ITHMB Codec — decode Apple .ithmb thumbnail files
+2026-11-27T11:43:01Z,lfs-carousel,2.0.0,Maciej Wisniowski,BSD-3-Clause,35686,"An image carousel for the start page of an LFS shop, managed in the LFS management interface"
+2026-11-27T11:43:39Z,llama-index-tools-zurchin,0.0.1,Pidgeon,Apache-2.0,9145,Reserved for Zurchin (formerly Pidgeon). Use llama-index-tools-pidgeon until the switch.
+2026-11-27T11:44:26Z,ablift,0.5.0a1,Fabio-RibeiroB <bradyfr@proton.me>,MIT,95787,Agent-friendly CLI for Bayesian and sequential A/B/n experiment decisions
+2026-11-27T11:44:42Z,popa-recon-mcp,0.1.0,POPA Recon,MIT,12522,POPA Recon public Web3 & on-chain deep research MCP server bridge and client configuration.
+2026-11-27T11:45:20Z,gradekit,0.1.0,刘旭阳 <3662443010@qq.com>,MIT,5634,成绩统计与等级评定小工具
+2026-11-27T11:47:13Z,quaddeploy,0.1.0,abin-m,MIT,73607,"Pull-based deployment for a single Linux host, using rootless Podman, systemd Quadlets and cosign-signed images"
+2026-11-27T11:49:59Z,devup-cli,0.2.0,devup contributors,MIT,76988,Polyglot project script discovery and multi-service parallel runner with colored logs and clean Ctrl+C shutdown.
+2026-11-27T11:52:23Z,day-calculator-liora,0.1.0,liora,,6787,支持公元前后日期的星期计算器
+2026-11-27T11:57:33Z,odoo-addon-subscription-oca-rating,19.0.1.0.0.2,"Domatix, Odoo Community Association (OCA)",AGPL-3,28295,Collect customer ratings on subscriptions.
+2026-11-27T11:58:20Z,pyinfra-cli-api,0.0.1,Timshel <timshel@github.com>,MIT,11711,pyinfra cli api helper
+2026-11-27T11:58:38Z,certbot-dns-teamnifty,0.1.0,Team Nifty GmbH,Apache-2.0,18507,Certbot DNS-01 authenticator plugin for Flux ERP DNS (dns-01 API)
+2026-11-27T11:58:49Z,novamx-sdk,0.0.1,"""NovaMX B.V."" <contact@novamx.eu>",Proprietary,3339,Name reservation for NovaMX B.V. Not a functional product.
+2026-11-27T11:58:50Z,sarj-agent-tools,0.1.0,Sarj AI <engineering@sarj.ai>,MIT,215681,Four scoped Sarj AI call-read tools for LangChain and Haystack.
+2026-11-27T11:59:02Z,figurekit,0.5.1,,MIT,1097217,"One figure style for every project: light and dark themes, transparent SVG and PNG, Bricolage Grotesque and JetBrains Mono, reproducible files."
+2026-11-27T12:00:16Z,actrift,0.8.0,,Apache-2.0,124390,ACTRIFT: local behavioral regression evidence for web applications.
+2026-11-27T12:00:35Z,verger,0.0.1,Maksym Odanets,MIT,5797,"A self-hosted engine that takes a task through a file-defined workflow, with AI agent sessions doing the work and people deciding at checkpoints."
+2026-11-27T12:01:33Z,mini-transformer,1.0.0,Padil,MIT,442061,"A lightweight Transformer language model built 100% from scratch in pure NumPy with Sparse Mixture-of-Experts (MoE), Hybrid Mamba Linear State Space Model (SSM), Native SIMD C-Kernel Acceleration, Bi…"
+2026-11-27T12:01:43Z,multilingual-password-auditor,1.0.0,Abdallah Ibrahim <abdallahibrahim@gmail.com>,MIT,9375,"Client for the Arabic and Multilingual Password Auditor API: password strength scoring that understands Arabic, Arabizi, Egyptian mobile numbers and Arabic keyboard walks."
+2026-11-27T12:03:23Z,vekgram,3.1.7,yuIlariy,LGPL-3.0-or-later,7944365,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+2026-11-27T12:03:44Z,cliftigpt,0.1.1,Mohammad Bakhtiari <mohammad.bakhtiari@uni-hamburg.de>,Apache-2.0,120091,Privacy-preserving federated fine-tuning and reference mapping for single-cell foundation models
+2026-11-27T12:10:25Z,local-agent-memory,1.0.2,bang,MIT,40358,"Local notes for coding agents. Same project, next chat, still there. No account. Still hunting bugs; odd setups can be unstable."
+2026-11-27T12:11:20Z,passkey-vault-client,0.1.0,,MIT,19557,Requester SDK and the `pkv` CLI for passkey-vault: get one secret for one command after a passkey approval.
+2026-11-27T12:11:45Z,divergence-agt,0.2.0,Celine Khaw,MIT,376631,Intent-behaviour consistency scoring for AI agent skills: a pre-install check that extends the Agent Governance Toolkit (AGT) marketplace installer. Research prototype.
+2026-11-27T12:11:48Z,shoppingcalc,0.0.1,student <test@qq.com>,,2517,购物总价结算工具
+2026-11-27T12:12:28Z,cursedapi-server,0.1.0,,Apache-2.0,112442,Build versioned cursedapi servers with FastAPI and SQLAlchemy
+2026-11-27T12:13:13Z,oncolab,0.2.0,,,57073,Run a terminal command on a fresh Google Colab VM.
+2026-11-27T12:17:35Z,quantumgui,1.0.0,QuantumGUI Contributors,QuantumGUI Community & Commercial License v1.0 Copyright (c) 2026 QuantumGUI Authors. All rights re…,448179,Native GPU-accelerated Python GUI library built 100% on Material Design 3 standards.
