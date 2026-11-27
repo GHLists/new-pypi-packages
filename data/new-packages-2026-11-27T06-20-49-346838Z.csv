@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T05:20:08Z,flexpyequate,0.1.0,takuizum,MIT,409575,"Equating of test score distributions: mean, linear, equipercentile and kernel equating, checked against R."
+2026-11-27T05:20:36Z,flexpyctt,0.1.0,takuizum,MIT,542994,"Model-free item and test analysis: polychoric correlations, dimensionality diagnostics and classical item analysis, without JAX."
+2026-11-27T05:20:42Z,funcpatch,0.1.0,funcpatch contributors,BSD-3-Clause,192782,"Runtime function implementation override for Python — one target, one owner, zero source changes."
+2026-11-27T05:21:58Z,entryclash,0.1.4,park-bit,"MIT License Copyright (c) 2026 park-bit and contributors Permission is hereby granted, free of char…",18737,Find Python packages that would install the same command.
+2026-11-27T05:22:27Z,infero-sdk,0.1.1,,,20764,Sync and async Python clients for the Infero API
+2026-11-27T05:22:31Z,robot-gate,0.2.0,Craig Merry <craigm26@gmail.com>,Apache-2.0,773770,"Deterministic on-robot deployment harness, ROS 2 pre-flight boundary interceptor, ISO 10218:2025 / EU 2023/1230 compliance pack generator, and change-triggered regression test gate."
+2026-11-27T05:22:32Z,graft-core,0.1.0,Craig Merry <craigm26@gmail.com>,Apache-2.0,14544,"Rust hot-path kernel for Graft Robotics (continuous Kay-Kajiya swept-path slab checks, Envelope 0.2 geometry, and LiDAR voxel-to-OBJ meshing)"
+2026-11-27T05:23:22Z,fractal-tax,0.1.0,,MIT,2452146,"A dated ledger of tax events with claims evaluated against the statute, facts kept apart from judgments."
+2026-11-27T05:24:52Z,simons-forecasting,0.1.3.post3,Abel AI Lab,Apache-2.0,1575473,Simons: Building Open Time Series Foundation Models through Auto-Research
+2026-11-27T05:25:27Z,cometaz,1.0.0,Asinerum Conlang Project,MIT,8683,Binance Crypto Comet Chart CLI Tool
+2026-11-27T05:26:30Z,eskin,0.1.0,Jinqi Wei <jinqi.wei@mbzuai.ac.ae>,MIT,35524,USB reader and live browser visualiser for 48x48 iontronic e-skin tactile sensors
+2026-11-27T05:28:14Z,local-diff-san,0.1.2,Sanskrit Coders <sanskrit-programmers@googlegroups.com>,MIT,41795,Single-pane word-flow and character-level local file and Git HEAD diff viewer for Sanskrit & Indic scholarship
+2026-11-27T05:30:07Z,pnuke,0.1.2,"Almost Ordinary <hello@almostordinary.dev>, Parth Gorde <parth@almostordinary.dev>",MIT OR Apache-2.0,4483840,⚡ The sub-millisecond port killer and listener cockpit for developers.
+2026-11-27T05:31:29Z,netinfra-taya777-reddit-phili-apr8b,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,49824,Technical network verification and high-availability endpoint registry for Taya777 Reddit Philippines Digital Entertainment Network
+2026-11-27T05:33:25Z,india-gst-kit,0.1.1,Hexaspace,MIT,20148,"GSTIN validation, CGST/SGST/IGST split, GSTR-1 style sales register and a CA-ready Excel workbook, from plain Python data."
+2026-11-27T05:33:37Z,interior-boq,0.1.0,Hexaspace,MIT,15072,"Bill of quantities (BOQ) and quote maths for home interiors: GST-inclusive rates, A/B options, totals by room and category, margins, discount before GST."
+2026-11-27T05:33:45Z,easy-memobird,0.1.0,,MIT,57717,咕咕机（Memobird）开放平台的极简 Python 客户端：两行代码打印文字和图片
+2026-11-27T05:33:54Z,interior-project-plan,0.1.0,Hexaspace,MIT,18266,"Stage templates and dated plans for interior projects, plus repeating tasks (Mon-Sat working days) and task dependencies with loop checks."
+2026-11-27T05:35:54Z,lite-esign,0.1.0,Hexaspace,MIT,15605,"Simple electronic acceptance for Python apps: typed name + I agree + optional drawn signature, SHA-256 fingerprint, signature certificate PDF, signed PDF copies, private signing links."
+2026-11-27T05:36:01Z,questionnaire-kit,0.1.0,Hexaspace,MIT,17869,"Client questionnaires for Python apps (conditional questions, answer cleaning, required checks, summaries) plus an interior design style quiz."
+2026-11-27T05:36:09Z,change-orders,0.1.0,Hexaspace,MIT,11425,"Change orders (variations) after a signed BOQ: add, remove or change quantities, money difference, vendor-order guards, plan shifts, payment milestones."
+2026-11-27T05:38:09Z,india-business-doc-templates,0.1.0,Hexaspace,MIT,16031,"Fill-in business document templates for Indian interior and contracting firms (quotation acceptance, change order, work order, handover certificate, payment reminder, EOT notice, NDA) with a tiny ren…"
+2026-11-27T05:38:16Z,procurement-tracker,0.1.0,Hexaspace,MIT,11399,"Procurement for interior and construction projects: status flow, need-by and order-by dates from lead times, late flags, PO maths with GST and advances, next actions, vendor quote comparison."
+2026-11-27T05:38:26Z,design-fee-calculator,0.1.0,Hexaspace,MIT,12343,"Fee calculator for design, PMC and turnkey services: 8 fee models (lump sum, per sq ft, % of cost, monthly, per visit, hourly, per deliverable, BOQ), minimums, caps, GST and payment schedules. Indian…"
+2026-11-27T05:38:33Z,mpl2pptx,0.3.1,YuMeow,MIT,812804,Convert Matplotlib SVG figures into editable PowerPoint drawings
+2026-11-27T05:39:06Z,somesh-j-framework,0.1.0,Somesh J <someshj777@gmail.com>,MIT,76701,"An end-to-end software engineering skill for AI coding agents, with an installer for Claude Code, Codex, Antigravity, Cursor, or a single pasteable prompt."
+2026-11-27T05:40:13Z,suite-gate,0.1.0,,Apache-2.0,254866,"One result format for six audit tools, a gate that gives one verdict per branch, and an MCP server that runs them."
+2026-11-27T05:40:17Z,sales-followups,0.1.0,Hexaspace,MIT,11106,"Follow-up rules for small sales teams: automatic chase dates for leads, quotes, proposals and visits, Overdue / Today / Next 7 days list, outcome logging, WhatsApp click-to-chat links."
+2026-11-27T05:41:17Z,simple-json-func,0.1.0,GGN_2015,MIT,11179,a simple way to create json configuration for functions
+2026-11-27T05:41:24Z,tensoract-sdk,1.0.1,Tensoract,,19333,Official Python SDK for the Tensoract Platform Public API
+2026-11-27T05:43:34Z,snow-mhd,0.1.0,Prateek Mayank,MIT,41663,SNOW neural-operator inference for steady-state solar-wind MHD
+2026-11-27T05:50:12Z,pdf2word-pro,0.1.0,wqzh,MIT,95248,"Convert PDF to Word (.docx) while preserving layout: paragraphs, tables, images, side-by-side figures, headers and footers."
+2026-11-27T05:51:51Z,perucompras-cli,0.1.0,,LicenseRef-Proprietary,4216476,A command-line client for Perú Compras catalogs
+2026-11-27T05:58:47Z,sd3-preset-forge,1.0.0,Y4Nsm,MIT,242157,Deterministic TDD-driven preset engineering forge and compiler for Toontrack Superior Drummer 3
+2026-11-27T06:02:43Z,noullama,0.2.0,parasite6,MIT,30988,Ask decision models loaded in Noullama questions from Python.
+2026-11-27T06:07:48Z,percia,0.3.1,"""Velvee, Inc."" <support@velvee.ai>",MIT,903495,"Python SDK for the Percia API: watches, events, cameras, integrations, REST hooks and webhook signature verification."
+2026-11-27T06:10:39Z,lockrauth,1.0.0,LockrAuth Team <support@lockr.io>,,8294,Official LockrAuth client SDK with automated hardware ID (HWID) fingerprint locking and token verification for Python desktop applications.
+2026-11-27T06:11:26Z,espdl,0.0.0,,Apache-2.0,2635,Placeholder release that reserves the espdl name on PyPI.
+2026-11-27T06:13:12Z,comfy-aimdo-rust,0.1.0,rattus,GPL-3.0-only,2141321,Rust CUDA backend for the ComfyUI AI Model Dynamic Offloader
+2026-11-27T06:15:41Z,tongji-cli,0.1.0,,,406483,同济校园服务的非官方命令行工具
+2026-11-27T06:17:18Z,veloxframe,1.0.1,YJ-Niu,MIT,208139182,A DataFrame-like library built on Rust
+2026-11-27T06:20:09Z,nvidia-world-ai,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1061,Zero version placeholder for nvidia_world_ai
+2026-11-27T06:20:20Z,nvidia-world-ai-cli,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1073,Zero version placeholder for nvidia_world_ai_cli

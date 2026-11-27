@@ -8,40 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 05:18 UTC
+## Latest list — 2026-11-27 06:20 UTC
 
-New packages created between 2026-11-27 04:18 UTC and 2026-11-27 05:18 UTC.
+New packages created between 2026-11-27 05:18 UTC and 2026-11-27 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-27T05-18-48-932378Z.csv)
+[Full CSV](data/new-packages-2026-11-27T06-20-49-346838Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-27 04:20:24 | [SingleLensFitter](https://pypi.org/project/SingleLensFitter/) | 0.1.0 |  | 2.1 MB | Single-lens (PSPL / FSPL / annual+space parallax) light-curve fitting |
-| 2026-11-27 04:22:13 | [fastpg-cli](https://pypi.org/project/fastpg-cli/) | 0.1.0 | ajaxgiit | 51.5 kB | Genera proyectos FastAPI + PostgreSQL listos para trabajar: Docker (dev/prod),… |
-| 2026-11-27 04:28:21 | [atica](https://pypi.org/project/atica/) | 0.5.0 | Zabiullah Khan, Syeda Zoya, J… | 1.7 MB | Manufacturing calculation library and desktop app: units, packaging, BOM, produ… |
-| 2026-11-27 04:29:16 | [agent-castellan](https://pypi.org/project/agent-castellan/) | 0.1.0 | Hiren Kachhadiya | 486.7 kB | Least-privilege permissions for multi-agent AI systems: YAML allow/deny/ask rul… |
-| 2026-11-27 04:33:40 | [cluster-geometry-profiler](https://pypi.org/project/cluster-geometry-profiler/) | 0.1.0 |  | 44.5 kB | High-dimensional geometry diagnostics for principled clustering |
-| 2026-11-27 04:35:43 | [timtam](https://pypi.org/project/timtam/) | 0.0.1 | Aman Arora <aman@amaarora.git… | 4.3 kB | A minimal, readable PyTorch lab for training, evaluating, and ablating Decision… |
-| 2026-11-27 04:36:37 | [dex-connector-superdurable-webhook](https://pypi.org/project/dex-connector-superdurable-webhook/) | 0.1.0 |  | 87.4 kB | Super Durable Webhook connector for Dex Flows |
-| 2026-11-27 04:36:37 | [piu-mosso](https://pypi.org/project/piu-mosso/) | 0.1.0 | Ning Wang | 98.0 kB | Fast single-cell utilities: FAISS nearest neighbours, a fast UMAP and Seurat v3… |
-| 2026-11-27 04:41:20 | [numba-bessel](https://pypi.org/project/numba-bessel/) | 1.0.1 | 34j | 46.1 kB | Bessel functions in numba / numba-cuda-mlir |
-| 2026-11-27 04:41:58 | [presidio-ko](https://pypi.org/project/presidio-ko/) | 0.1.0 |  | 37.5 kB | Korean phone number and bank account recognizers and a Korean context enhancer… |
-| 2026-11-27 04:44:07 | [zzh-deepep-npu-test](https://pypi.org/project/zzh-deepep-npu-test/) | 0.1.0.dev2 |  | 11.9 MB | DeepEP for Ascend: native runtime and optional communication/GMM operators |
-| 2026-11-27 04:45:54 | [frevana-agent-app-runner](https://pypi.org/project/frevana-agent-app-runner/) | 0.1.0 |  | 40.1 kB | Run shared Frevana Agent Apps in a local AI agent. |
-| 2026-11-27 04:51:06 | [emagine](https://pypi.org/project/emagine/) | 0.1.0 | Emagine Solutions Technology | 74.0 kB | Deploy and manage agents hosted on the Emagine platform. |
-| 2026-11-27 04:55:19 | [e5-f2f-f2f-extractor](https://pypi.org/project/e5-f2f-f2f-extractor/) | 0.0.0a0 | Element5, Inc. | 1.6 kB | Name reserved by Element5, Inc. to prevent dependency confusion. Not a real pac… |
-| 2026-11-27 04:55:21 | [e5-f2f-observation-tracker](https://pypi.org/project/e5-f2f-observation-tracker/) | 0.0.0a0 | Element5, Inc. | 1.7 kB | Name reserved by Element5, Inc. to prevent dependency confusion. Not a real pac… |
-| 2026-11-27 04:55:22 | [e5-f2f-ocr-parser](https://pypi.org/project/e5-f2f-ocr-parser/) | 0.0.0a0 | Element5, Inc. | 1.6 kB | Name reserved by Element5, Inc. to prevent dependency confusion. Not a real pac… |
-| 2026-11-27 04:55:24 | [e5-f2f-pdf-to-image-layer](https://pypi.org/project/e5-f2f-pdf-to-image-layer/) | 0.0.0a0 | Element5, Inc. | 1.7 kB | Name reserved by Element5, Inc. to prevent dependency confusion. Not a real pac… |
-| 2026-11-27 05:00:35 | [tarpit-guard](https://pypi.org/project/tarpit-guard/) | 0.2.0 | Maniram | 30.4 kB | Flag AI-reverse-engineering tarpits (obfuscated / token-burning code) before yo… |
-| 2026-11-27 05:02:43 | [fontpkg-noto-sans-hebrew](https://pypi.org/project/fontpkg-noto-sans-hebrew/) | 3.1 |  | 77.9 kB | Noto Sans Hebrew font family, packaged for Python by fontpkg |
-| 2026-11-27 05:02:45 | [fontpkg-poiret-one](https://pypi.org/project/fontpkg-poiret-one/) | 1.101 |  | 68.7 kB | Poiret One font family, packaged for Python by fontpkg |
-| 2026-11-27 05:02:47 | [fontpkg-tangerine](https://pypi.org/project/fontpkg-tangerine/) | 1.301 |  | 73.6 kB | Tangerine font family, packaged for Python by fontpkg |
-| 2026-11-27 05:02:49 | [fontpkg-rammetto-one](https://pypi.org/project/fontpkg-rammetto-one/) | 1.100 |  | 42.5 kB | Rammetto One font family, packaged for Python by fontpkg |
-| 2026-11-27 05:03:50 | [duyi-utils-lenovo](https://pypi.org/project/duyi-utils-lenovo/) | 0.1.4 |  | 4.7 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
-| 2026-11-27 05:05:40 | [ragbench-eval](https://pypi.org/project/ragbench-eval/) | 1.1.1 | Harshit Gadge | 162.1 kB | Evaluate any retriever on BEIR-format data: nDCG, recall and MRR with bootstrap… |
-| 2026-11-27 05:07:27 | [gh-htmlpreview](https://pypi.org/project/gh-htmlpreview/) | 0.1.0 | Jay Qi | 35.1 kB | Preview HTML files from GitHub repositories in your browser. |
-| 2026-11-27 05:11:06 | [pull-requests-san](https://pypi.org/project/pull-requests-san/) | 0.1.0 | Sanskrit Coders <sanskrit-pro… | 129.3 kB | Single-pane word-flow and character-level GitHub PR review tool for Sanskrit &… |
-| 2026-11-27 05:12:56 | [bibash-trip-budget](https://pypi.org/project/bibash-trip-budget/) | 0.1.0 |  | 1.7 kB | A simple Python library to calculate total trip costs. |
-| 2026-11-27 05:16:37 | [msentity](https://pypi.org/project/msentity/) | 1.2.3 |  | 18.2 MB | Python binding of the msentity C++ library (MSDS, MSP, MGF, TSV, CSV) |
-| 2026-11-27 05:16:53 | [msentity-similarity](https://pypi.org/project/msentity-similarity/) | 2.1.0 |  | 18.2 MB | Spectrum similarity and .mssim files (Python binding of msentity-similarity) |
+| 2026-11-27 05:20:08 | [flexpyequate](https://pypi.org/project/flexpyequate/) | 0.1.0 | takuizum | 409.6 kB | Equating of test score distributions: mean, linear, equipercentile and kernel e… |
+| 2026-11-27 05:20:36 | [flexpyctt](https://pypi.org/project/flexpyctt/) | 0.1.0 | takuizum | 543.0 kB | Model-free item and test analysis: polychoric correlations, dimensionality diag… |
+| 2026-11-27 05:20:42 | [funcpatch](https://pypi.org/project/funcpatch/) | 0.1.0 | funcpatch contributors | 192.8 kB | Runtime function implementation override for Python — one target, one owner, ze… |
+| 2026-11-27 05:21:58 | [entryclash](https://pypi.org/project/entryclash/) | 0.1.4 | park-bit | 18.7 kB | Find Python packages that would install the same command. |
+| 2026-11-27 05:22:27 | [infero-sdk](https://pypi.org/project/infero-sdk/) | 0.1.1 |  | 20.8 kB | Sync and async Python clients for the Infero API |
+| 2026-11-27 05:22:31 | [robot-gate](https://pypi.org/project/robot-gate/) | 0.2.0 | Craig Merry <craigm26@gmail.c… | 773.8 kB | Deterministic on-robot deployment harness, ROS 2 pre-flight boundary intercepto… |
+| 2026-11-27 05:22:32 | [graft-core](https://pypi.org/project/graft-core/) | 0.1.0 | Craig Merry <craigm26@gmail.c… | 14.5 kB | Rust hot-path kernel for Graft Robotics (continuous Kay-Kajiya swept-path slab… |
+| 2026-11-27 05:23:22 | [fractal-tax](https://pypi.org/project/fractal-tax/) | 0.1.0 |  | 2.5 MB | A dated ledger of tax events with claims evaluated against the statute, facts k… |
+| 2026-11-27 05:24:52 | [simons-forecasting](https://pypi.org/project/simons-forecasting/) | 0.1.3.post3 | Abel AI Lab | 1.6 MB | Simons: Building Open Time Series Foundation Models through Auto-Research |
+| 2026-11-27 05:25:27 | [cometaz](https://pypi.org/project/cometaz/) | 1.0.0 | Asinerum Conlang Project | 8.7 kB | Binance Crypto Comet Chart CLI Tool |
+| 2026-11-27 05:26:30 | [eskin](https://pypi.org/project/eskin/) | 0.1.0 | Jinqi Wei <jinqi.wei@mbzuai.a… | 35.5 kB | USB reader and live browser visualiser for 48x48 iontronic e-skin tactile senso… |
+| 2026-11-27 05:28:14 | [local-diff-san](https://pypi.org/project/local-diff-san/) | 0.1.2 | Sanskrit Coders <sanskrit-pro… | 41.8 kB | Single-pane word-flow and character-level local file and Git HEAD diff viewer f… |
+| 2026-11-27 05:30:07 | [pnuke](https://pypi.org/project/pnuke/) | 0.1.2 | Almost Ordinary <hello@almost… | 4.5 MB | ⚡ The sub-millisecond port killer and listener cockpit for developers. |
+| 2026-11-27 05:31:29 | [netinfra-taya777-reddit-phili-apr8b](https://pypi.org/project/netinfra-taya777-reddit-phili-apr8b/) | 1.0.0 | Autonomous Infrastructure Lab… | 49.8 kB | Technical network verification and high-availability endpoint registry for Taya… |
+| 2026-11-27 05:33:25 | [india-gst-kit](https://pypi.org/project/india-gst-kit/) | 0.1.1 | Hexaspace | 20.1 kB | GSTIN validation, CGST/SGST/IGST split, GSTR-1 style sales register and a CA-re… |
+| 2026-11-27 05:33:37 | [interior-boq](https://pypi.org/project/interior-boq/) | 0.1.0 | Hexaspace | 15.1 kB | Bill of quantities (BOQ) and quote maths for home interiors: GST-inclusive rate… |
+| 2026-11-27 05:33:45 | [easy-memobird](https://pypi.org/project/easy-memobird/) | 0.1.0 |  | 57.7 kB | 咕咕机（Memobird）开放平台的极简 Python 客户端：两行代码打印文字和图片 |
+| 2026-11-27 05:33:54 | [interior-project-plan](https://pypi.org/project/interior-project-plan/) | 0.1.0 | Hexaspace | 18.3 kB | Stage templates and dated plans for interior projects, plus repeating tasks (Mo… |
+| 2026-11-27 05:35:54 | [lite-esign](https://pypi.org/project/lite-esign/) | 0.1.0 | Hexaspace | 15.6 kB | Simple electronic acceptance for Python apps: typed name + I agree + optional d… |
+| 2026-11-27 05:36:01 | [questionnaire-kit](https://pypi.org/project/questionnaire-kit/) | 0.1.0 | Hexaspace | 17.9 kB | Client questionnaires for Python apps (conditional questions, answer cleaning,… |
+| 2026-11-27 05:36:09 | [change-orders](https://pypi.org/project/change-orders/) | 0.1.0 | Hexaspace | 11.4 kB | Change orders (variations) after a signed BOQ: add, remove or change quantities… |
+| 2026-11-27 05:38:09 | [india-business-doc-templates](https://pypi.org/project/india-business-doc-templates/) | 0.1.0 | Hexaspace | 16.0 kB | Fill-in business document templates for Indian interior and contracting firms (… |
+| 2026-11-27 05:38:16 | [procurement-tracker](https://pypi.org/project/procurement-tracker/) | 0.1.0 | Hexaspace | 11.4 kB | Procurement for interior and construction projects: status flow, need-by and or… |
+| 2026-11-27 05:38:26 | [design-fee-calculator](https://pypi.org/project/design-fee-calculator/) | 0.1.0 | Hexaspace | 12.3 kB | Fee calculator for design, PMC and turnkey services: 8 fee models (lump sum, pe… |
+| 2026-11-27 05:38:33 | [mpl2pptx](https://pypi.org/project/mpl2pptx/) | 0.3.1 | YuMeow | 812.8 kB | Convert Matplotlib SVG figures into editable PowerPoint drawings |
+| 2026-11-27 05:39:06 | [somesh-j-framework](https://pypi.org/project/somesh-j-framework/) | 0.1.0 | Somesh J <someshj777@gmail.co… | 76.7 kB | An end-to-end software engineering skill for AI coding agents, with an installe… |
+| 2026-11-27 05:40:13 | [suite-gate](https://pypi.org/project/suite-gate/) | 0.1.0 |  | 254.9 kB | One result format for six audit tools, a gate that gives one verdict per branch… |
+| 2026-11-27 05:40:17 | [sales-followups](https://pypi.org/project/sales-followups/) | 0.1.0 | Hexaspace | 11.1 kB | Follow-up rules for small sales teams: automatic chase dates for leads, quotes,… |
+| 2026-11-27 05:41:17 | [simple-json-func](https://pypi.org/project/simple-json-func/) | 0.1.0 | GGN_2015 | 11.2 kB | a simple way to create json configuration for functions |
+| 2026-11-27 05:41:24 | [tensoract-sdk](https://pypi.org/project/tensoract-sdk/) | 1.0.1 | Tensoract | 19.3 kB | Official Python SDK for the Tensoract Platform Public API |
+| 2026-11-27 05:43:34 | [snow-mhd](https://pypi.org/project/snow-mhd/) | 0.1.0 | Prateek Mayank | 41.7 kB | SNOW neural-operator inference for steady-state solar-wind MHD |
+| 2026-11-27 05:50:12 | [pdf2word-pro](https://pypi.org/project/pdf2word-pro/) | 0.1.0 | wqzh | 95.2 kB | Convert PDF to Word (.docx) while preserving layout: paragraphs, tables, images… |
+| 2026-11-27 05:51:51 | [perucompras-cli](https://pypi.org/project/perucompras-cli/) | 0.1.0 |  | 4.2 MB | A command-line client for Perú Compras catalogs |
+| 2026-11-27 05:58:47 | [sd3-preset-forge](https://pypi.org/project/sd3-preset-forge/) | 1.0.0 | Y4Nsm | 242.2 kB | Deterministic TDD-driven preset engineering forge and compiler for Toontrack Su… |
+| 2026-11-27 06:02:43 | [noullama](https://pypi.org/project/noullama/) | 0.2.0 | parasite6 | 31.0 kB | Ask decision models loaded in Noullama questions from Python. |
+| 2026-11-27 06:07:48 | [percia](https://pypi.org/project/percia/) | 0.3.1 | "Velvee, Inc." <support@velve… | 903.5 kB | Python SDK for the Percia API: watches, events, cameras, integrations, REST hoo… |
+| 2026-11-27 06:10:39 | [lockrauth](https://pypi.org/project/lockrauth/) | 1.0.0 | LockrAuth Team <support@lockr… | 8.3 kB | Official LockrAuth client SDK with automated hardware ID (HWID) fingerprint loc… |
+| 2026-11-27 06:11:26 | [espdl](https://pypi.org/project/espdl/) | 0.0.0 |  | 2.6 kB | Placeholder release that reserves the espdl name on PyPI. |
+| 2026-11-27 06:13:12 | [comfy-aimdo-rust](https://pypi.org/project/comfy-aimdo-rust/) | 0.1.0 | rattus | 2.1 MB | Rust CUDA backend for the ComfyUI AI Model Dynamic Offloader |
+| 2026-11-27 06:15:41 | [tongji-cli](https://pypi.org/project/tongji-cli/) | 0.1.0 |  | 406.5 kB | 同济校园服务的非官方命令行工具 |
+| 2026-11-27 06:17:18 | [veloxframe](https://pypi.org/project/veloxframe/) | 1.0.1 | YJ-Niu | 208.1 MB | A DataFrame-like library built on Rust |
+| 2026-11-27 06:20:09 | [nvidia-world-ai](https://pypi.org/project/nvidia-world-ai/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for nvidia_world_ai |
+| 2026-11-27 06:20:20 | [nvidia-world-ai-cli](https://pypi.org/project/nvidia-world-ai-cli/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for nvidia_world_ai_cli |
