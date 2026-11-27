@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T06:24:49Z,django-dev-tickets,0.2.0,unluckynelson,MIT,144616,"An issue tracker that lives inside your Django app: a kanban board, a report widget and notifications."
+2026-11-27T06:25:23Z,ectype-data,0.1.0,ZeroPoint Holdings LLC,Apache-2.0,2792040,"Ectype: learn a statistical fingerprint of a table, generate faithful synthetic data, and prove how faithful it is."
+2026-11-27T06:27:13Z,byteseek,0.1.0,byteseek contributors,MIT,14237270,"Fast literal and fuzzy text search with JSON/YAML/TOML search, written in Rust"
+2026-11-27T06:27:21Z,railway-helper-xethhung12,0.0.1,Xeth Hung <admin@xethh.me>,GPL-3.0-only,43126,CLI and Python helper to trigger Railway service redeployments via the Railway GraphQL API
+2026-11-27T06:29:13Z,oisigma-drawdown,0.1.0,Oisigma <m@oisigma.com>,MIT,19106,"Descriptive drawdown episode distribution, depth percentiles, time-under-water statistics, and severity histogram (Python companion to Drawdown Severity Histogram [oisigma] on TradingView)."
+2026-11-27T06:32:45Z,cpython-internals-inspector,0.1.0,,,33597,A tool for inspecting the internal layout of CPython objects
+2026-11-27T06:35:53Z,serveutil,0.1.0,,Apache-2.0,35680920,Readable compute and bandwidth timelines for LLM serving
+2026-11-27T06:36:29Z,vernier-leaderboard,1.0.2,"Arya Sikder, Sriram Pillutla",Apache-2.0,11479196,"Reports what a forecasting leaderboard's own scores can establish: its resolution, its leading tier, and whether its order depends on who else submitted."
+2026-11-27T06:37:28Z,marine-extremes,0.1.0,Jie Ren <renjie22@mails.ucas.ac.cn>,,2561656,"High-performance, Rust-accelerated detection of marine heatwaves, marine cold spells, and general marine extremes across 1D-4D gridded and multi-calendar datasets."
+2026-11-27T06:40:45Z,cloudbyte-tracer,0.1.0,CloudByte,Apache-2.0,54367,CloudByte agent observability tracing
+2026-11-27T06:41:16Z,blender-connector,0.2.0,Repository Maintainers <maintainers@knuckles.team>,MIT,167688,"Blender connector and MCP server; proxies the mcp-for-blender upstream and serves the packaged Blender skills, prompts and ontology"
+2026-11-27T06:41:50Z,fahali-guard,1.0.0,,MIT,13490,"3-line cryptographic pre-trade risk clearance guard (FRCT v1) for CCXT, Alpaca, Hyperliquid, and autonomous Python AI trading agents."
+2026-11-27T06:42:46Z,virus-scanner-common,0.0.0.dev0,Divio AG,,763,Not currently available on PyPI. Placeholder registered by Divio AG.
+2026-11-27T06:44:41Z,fr-async,0.1.0,Omena0 <omena0mc@gmail.com>,LicenseRef-PolyForm-Noncommercial-1.0.0,62541,Async but with yield instead of await
+2026-11-27T06:45:01Z,jiecheng-pkg,0.1.0,QingZhe,"MIT License Copyright (c) 2026 QingZhe Permission is hereby granted, free of charge, to any person…",8115,A tiny factorial toolkit for learning how to publish a package to PyPI (Experiment 3).
+2026-11-27T06:45:09Z,valkyria-cli,0.1.0,Anupam,MIT,420206,"Terminal-first, multi-model AI agent with local retrieval, controlled system access, and durable sessions"
+2026-11-27T06:48:16Z,lzytools-OCR,0.1.0,PPJUST,,10984,Python自用包-OCR相关方法
+2026-11-27T06:54:32Z,voiddo-utils,1.1.3,voiddo studio <data@voiddo.com>,MIT,65515,"Python client for the vøiddo utilities API (data.voiddo.com): PDF, image, QR, CSV/Excel, JSON/YAML conversion, HTML to PDF, DNS/RDAP and other lookups."
+2026-11-27T06:54:33Z,voiddo-mcp,1.1.3,voiddo studio <data@voiddo.com>,MIT,18778,"stdio proxy for the vøiddo utilities MCP server (data.voiddo.com): file conversion, rendering, validation and lookup tools for agents."
+2026-11-27T06:55:47Z,tmux-api,0.1.0,Mark Atwood <me@mark.atwood.name>,MIT,23031,HTTP API for tmux automation and AI agents
+2026-11-27T06:58:35Z,shared-jkx,0.1.0,,,2346,Add your description here
+2026-11-27T07:02:14Z,wechatmp-publish-mcp,0.1.0,wxmp contributors,MIT,179826,"MCP server for the WeChat Official Account console: 贴图 image messages, drafts, publish / scheduled publish. 公众号后台 MCP：贴图、草稿、发布与定时发布"
+2026-11-27T07:07:21Z,say-hi-sushil-001,0.1.0,,,2241,
+2026-11-27T07:10:12Z,gradetool-hubuqin,0.1.0,呼布钦 <hubuqin0828@163.com>,MIT,12555,成绩等级评定与班级统计工具（Python 课程实验6）
+2026-11-27T07:10:34Z,footballcharts,0.1.0,Football Charts <contact@football-charts.com>,MIT,38430,"Football (soccer) data for 98 leagues as pandas DataFrames: results with half-time scores and goal minutes, xG and match statistics, tables, fixtures with calibrated model probabilities and live scor…"
+2026-11-27T07:10:55Z,Namaste-001,0.1.0,,,2160,
+2026-11-27T07:13:43Z,switchboard-room,0.1.0,leondgarse,,17079,Let Claude Code sessions on any host message each other through a small room server
+2026-11-27T07:14:41Z,nonebot-plugin-acemusic,0.1.1,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,10038,在 NoneBot 2 的 OneBot V11 私聊中提交 ACE Music 音乐任务并查询结果
+2026-11-27T07:14:51Z,odoo-addon-helpdesk_ticket_pureict,17.0.1.0.0,Mint System GmbH,AGPL-3,415703,Add change management related fields to Ticket.
+2026-11-27T07:14:53Z,odoo-apps-Odoo-Apps-Helpdesk,17.0.20261127.0,,,1323,
+2026-11-27T07:16:30Z,ebsd-magus,2.0.0,Ulrich Kerzel,MIT,1195311,Standalone workflow manager for EBSD simulations

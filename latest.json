@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-11-27T05:18:48.932378Z",
-    "path": "data/new-packages-2026-11-27T06-20-49-346838Z.csv",
-    "to": "2026-11-27T06:20:49.346838Z"
+    "count": 31,
+    "from": "2026-11-27T06:20:49.346838Z",
+    "path": "data/new-packages-2026-11-27T07-18-44-549234Z.csv",
+    "to": "2026-11-27T07:18:44.549234Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-27T05:30:44Z",
       "package": "wincontrol",
       "since": "2026-11-27T05:18:48.932378Z",
       "version": "0.1.2"
     }
   ],
-  "serial": 44236675,
+  "serial": 44238266,
   "source_truncated": false,
-  "window": "2026-11-27T06:20:49.346838Z"
+  "window": "2026-11-27T07:18:44.549234Z"
 }
