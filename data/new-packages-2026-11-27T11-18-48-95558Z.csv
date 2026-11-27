@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T09:41:21Z,stackspirit,0.6.1,Syver-August Meyer,MIT,176814307,StackSpirit: local-first supervisor for AI coding agents
+2026-11-27T10:20:08Z,ssstktok-url-parser,1.0.1,ssstktok Engineering <asemalatif@gmail.com>,MIT,10958,"Zero-dependency Python utility to parse, normalize, strip tracking parameters, and extract 19-digit media IDs from short-form video, story, and photo carousel URLs."
+2026-11-27T10:22:09Z,passkey-vault-server,0.1.0,,MIT,84845,passkey-vault server and approval page: release one secret to one command after a passkey approval.
+2026-11-27T10:26:16Z,pyarea,0.2.0,Kin Largadas,LGPL-3.0-or-later,192855,Python package for reading McIDAS AREA files
+2026-11-27T10:28:53Z,glassbox-antivirus,0.1.0,Korolev A. D.,MIT,108456,"Прозрачный антивирусный сканер для Windows: открытый код, понятный отчёт, ничего не удаляет без спроса"
+2026-11-27T10:30:52Z,gotisink,0.1.1,Xabi Bello,MIT,7036,Send Bugsink/Sentry error alerts to Gotify.
+2026-11-27T10:32:48Z,vllm-ascend-gdn-decode-fusion,0.1.0,cholely <1427850140k@gmail.com>,Apache-2.0,37829,Install the GDN decode-path fusion patch for vllm-ascend (Ascend 910B)
+2026-11-27T10:34:16Z,anykv,0.0.1,AnyKV maintainers,Apache-2.0,10524,"AnyKV: an interoperability layer for LLM context state. Translate, transfer and reuse KV cache across heterogeneous models. Early development."
+2026-11-27T10:37:12Z,agentbouncer-signer,1.0.0,AgentBouncer <support@agentbouncer.io>,MIT,20371,Official Python SDK for signing AI agent and MCP requests verified by AgentBouncer (RFC 9421 / Web Bot Auth)
+2026-11-27T10:37:49Z,stagetui-video,0.1.0a2,,MIT OR Apache-2.0,2336939,"The video add-on for stagetui: play video files and links in a pane, with sound."
+2026-11-27T10:38:32Z,duskfm,0.1.0,Frank Lynam,MIT,46561,"Endless, never-repeating music from lo-fi to synthwave, synthesized on the spot: no samples, nothing recorded."
+2026-11-27T10:40:13Z,datalint-mcp,0.1.0,Asma Hachaichi,MIT,52786,"An MCP server that lets Claude audit your data: profiles, missing values, duplicates and more."
+2026-11-27T10:42:26Z,pytunia,0.1,Karl Stroetmann <karl.stroetmann@dhbw-mannheim.de>,BSD-3-Clause,339164,"Jasmin, the assembler for the Java Virtual Machine, in Python"
+2026-11-27T10:42:44Z,dumpb,0.0.3,robelta <robelta@Indiantech.com>,MIT,28971,Pure-stdlib SQLite database dumper
+2026-11-27T10:46:37Z,text2date,0.1.0,"Vectorize AI, Inc.",MIT,17991065,"Finds the date ranges in a question (""last week"", ""early 2024"") with a 9 MB numpy model"
+2026-11-27T10:47:46Z,azpass,0.1.0,Stéphane Brunner,BSD-3-Clause,31516,Command line tool to manage Azure Key Vault secrets
+2026-11-27T10:48:08Z,clichess-cli,0.9.0,Jude,MIT,46579,Play chess in your terminal against an LLM or Stockfish
+2026-11-27T10:49:56Z,leangage,0.1.1,,Apache-2.0,238704,The trusted server that runs a Lean-proved kernel behind HTTP
+2026-11-27T10:50:40Z,qwen-agent-datacircle,0.1.0,,MIT,21442,Qwen-Agent tools for the Datacircle API: find the best GTM APIs
+2026-11-27T10:52:22Z,clawtube,0.1.0,Mehmet Resit Gul,MIT,78664,"Local-first YouTube transcript extraction for AI agents - single videos, channels, and full playlists, no API key required."
+2026-11-27T10:53:04Z,digm-vllm,0.2.0,"Sai Jathin Bhupalam, Naveen N C",Apache-2.0,47166,Training-free KV-cache eviction inside vLLM (research prototype)
+2026-11-27T10:56:49Z,py-stellantis-ssdp,0.1.0,Igor Novgorodov <igor@novg.net>,Apache-2.0,80580,Async Python client for the Stellantis SSDP connected-car cloud API (Jeep 2.0 app)
+2026-11-27T10:58:10Z,vernkv,1.0.0,,Apache-2.0,19713694,Zero-dependency Python SDK & high-speed local vector RAG database powered by VernKV
+2026-11-27T10:59:05Z,TransCINaM,1.0.0.1,Augusto de Lelis Araujo,GNU General Public License v3.0,36481,...
+2026-11-27T10:59:25Z,pgweb,0.1.0,,,696,
+2026-11-27T11:00:11Z,odoo-addon-product-cost-security-purchase,19.0.1.0.0.2,"360ERP, Odoo Community Association (OCA)",AGPL-3,25247,Glue module between product_cost_security and purchase
+2026-11-27T11:01:07Z,runcheck,0.0.1,Rupreet Gujral <hello@rupreetg.com>,MIT,5361,Placeholder package for runcheck
+2026-11-27T11:01:44Z,cronous,0.1.2,,Apache-2.0,70471,"Chronos client for Python and FastAPI: run job handlers in your app, submit immediate and delayed jobs, and manage jobs, schedules, queues and executions"
+2026-11-27T11:02:22Z,ghostdiff-lab,0.7.0,,Apache-2.0,127231,Compare observable browser behavior.
+2026-11-27T11:04:48Z,acclimate-sdk,0.3.0,,Apache-2.0,33532,"Python SDK for delivering versioned agent instructions, skills and memory."
+2026-11-27T11:05:48Z,asset-guard,0.1.0,cuong,MIT,46455,"CLI to find and remove unused and duplicate image assets in Xcode projects, built for CI"
+2026-11-27T11:10:01Z,kingai-studio,0.1.0,King AI,MIT,818,King AI - browser-based AI video and image generation client
+2026-11-27T11:11:24Z,pageboygent,0.0.1,Zircon Shawn,GPL-3.0-or-later,686331,"Pageboygent can Arranging, Gathering and Exploring literature, help you Better Organize your Growing Expository Notes and Track research trends."
+2026-11-27T11:11:48Z,klimax-planner,1.0.0,Francisco Martín Rico,Apache-2.0,12872097,"Klimax: an HTN planner for HDDL, in Python"
+2026-11-27T11:13:17Z,nz-sdk,0.1.0,kaecho,MIT,150223,Wire-compatible native Python SDK and drop-in CLI agent for Nezha Monitoring (nezhahq/nezha)
+2026-11-27T11:13:59Z,bornlens,0.1.0,,Apache-2.0,19885,Finite-shot comparisons of Pauli expectations
+2026-11-27T11:15:39Z,bw-helper,0.2.0,achu <you@example.com>,MIT,3419,A Hackfest8.0 CTF package
+2026-11-27T11:16:43Z,attackmate-api-server,1.1.0,Wolfgang Hotwagner,EUPL-1.2,42798,API server for remote control and execution of AttackMate instances.
+2026-11-27T11:16:43Z,coder-agent,0.1.0,sailor <sds819@126.com>,"MIT License Copyright (c) 2025 Kilian A. Lieret and Carlos E. Jimenez Permission is hereby granted,…",565379,"A coding agent for the terminal, for the browser and as a library"
+2026-11-27T11:16:55Z,mdshelf,0.1.0,Shamiq The Dev,MIT,2248262,"Browse a folder of Markdown files locally: sidebar, outline, highlights, margin comments, share and archive. No dependencies, works offline."
+2026-11-27T11:17:23Z,compactlab,0.2.0,compactlab contributors,MIT,664504,Measure where to auto-compact from your own agent history: cost vs context-rot trade-offs per model and role.
+2026-11-27T11:18:13Z,margin-mcp,0.10.1,"Rishit Anand, Advait Sharma, Arsalaan Alam, Tanvi Sanghai",MIT,387246,Local MCP server for Indian financial research and deterministic analysis
