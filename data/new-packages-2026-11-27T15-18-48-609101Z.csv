@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T14:25:18Z,crewkube,0.0.0,,Apache-2.0,11196,"Python client for Crewkube, a Kubernetes-native framework for task-focused AI agents (early development)."
+2026-11-27T14:26:46Z,ckanext-aiextract,1.0.0,Matthias Büschelberger,AGPL-3.0-or-later,86153,CKAN extension that extracts text from documents (e.g. PDFs) as input for AI applications
+2026-11-27T14:27:09Z,dbhealth,0.0.1,,Apache-2.0,11106,Name reserved by the DBHealth project to prevent typosquatting. The agent is dbhealth-agent.
+2026-11-27T14:27:45Z,giu-mcp,0.3.0,,PolyForm-Noncommercial-1.0.0,93704,MCP server for the GIU student portal and CMS
+2026-11-27T14:28:38Z,coldtake,0.1.0,vicennial,Apache-2.0,465964,"Blind second opinions from another model family for any big AI decision. Reuses your existing Claude, Codex, and Gemini CLIs. Local, open source, zero API keys."
+2026-11-27T14:28:41Z,coldtake-omnigent,0.1.0,vicennial,Apache-2.0,12424,"Omnigent UI Scorecard extension for coldtake (Extension API v1, conflict-free with polly and debby)"
+2026-11-27T14:30:02Z,vimax,1.2.0,,MIT,4079843,"Agentic video generation with idea, script, novel, TUI, and Web UI workflows"
+2026-11-27T14:30:25Z,videoagent,0.1.0,,MIT,206848,"Agentic video understanding, editing, and remaking"
+2026-11-27T14:30:40Z,pharmatox,0.0.1,Kyriakos Georgiou,,4976,A Python based prediction tool for toxicity for new molecules for scientific use.
+2026-11-27T14:33:20Z,odoo-addon-sale-product-identification-pos,18.0.1.0.0.2,"Binhex,Odoo Community Association (OCA)",AGPL-3,446489,Sale Product Identification Numbers Pos
+2026-11-27T14:35:16Z,tasktohuman,0.1.0,"João Figueiredo Consultoria, Lda",Apache-2.0,63134,"Official Python SDK for TaskToHuman: ask a Human, get the decision back."
+2026-11-27T14:35:26Z,cobbler-tftp,0.1.0,Team Cobbler <cobbler.project@gmail.com>,GPL-2.0-or-later,94677,The tftp server daemon for Cobbler
+2026-11-27T14:36:43Z,multicamcalib,0.1.0,Remco Pieters,MIT OR Apache-2.0,204679,"Multi-camera calibration, world alignment, diagnostics, and interchange with OpenCV"
+2026-11-27T14:39:49Z,corepkg,0.1.0,"""Lord J. Hackwell"" <code+sign@lordhck.com>",MIT,27828,Build packages for Core Linux
+2026-11-27T14:41:06Z,tancat,0.1.0,Cat Tan Operations Ltd <hello@tancat.dev>,BUSL-1.1,63208241,"AI-powered Playwright test generator using local LLMs (llama.cpp, Ollama, LM Studio)"
+2026-11-27T14:41:53Z,math-research-ledger,1.5.2,Caie777,Apache-2.0,734296,"Persistent research memory, context, dependency tracking and verification for mathematics."
+2026-11-27T14:42:47Z,pii-roundtrip,1.0.1,Vladimir Beskorovainyi,Apache-2.0,135335,"Local reversible anonymisation of Russian and UK English documents for use with external LLMs, and a benchmark of existing tools"
+2026-11-27T14:43:14Z,cocobrown,0.4.0,choroship357,Apache-2.0,150640574,"Compiler-inspired mathematical & algorithmic animation engine with Rust core, native Typst math, and zero-FFmpeg media pipeline"
+2026-11-27T14:43:14Z,ragebait,0.1.0,Jarvis,,2171,Add your description here
+2026-11-27T14:44:00Z,up-klimax,1.0.0,Francisco Martín Rico,Apache-2.0,50300,"Klimax, an HTN planner for HDDL, as an engine of the Unified Planning Framework"
+2026-11-27T14:44:28Z,graphrs,0.1.0,gauravshinde1729,MIT,1048568,"Fast integer-indexed graphs for Python, backed by Rust (PyO3)"
+2026-11-27T14:46:26Z,coppermesh,0.1.0,RaffaeleBiondi,GPL-3.0-or-later,1083020,Constrained Delaunay triangulation and Delaunay refinement in Rust: Coppernicus's 2D mesher
+2026-11-27T14:46:42Z,shingles,0.0.1,Simon Wörpel,AGPL-3.0-or-later,80884,"Document and corpus scale text primitives with character offsets: tokens, sentences, chunks, fingerprints, n-grams and phrase matching"
+2026-11-27T14:46:43Z,collective.quota,1.0.0,"""Enfold Systems, Inc."" <info@enfoldsystems.com>",GPL-2.0-only,220811,"Disk quota for Plone sites: measures the space used by uploaded files and images, warns editors near the limit, enforces a hard limit, and helps find and delete the biggest items."
+2026-11-27T14:47:25Z,suub-elib-schemas,0.3.0,,,3163,DTOs of the Search Service of the Staats- und Universitätsbibliothek Bremen
+2026-11-27T14:47:42Z,enigmascope,2.0.1,Madhan (Madhanmaaz),MIT,16367,Encrypted file capsule stored inside an image or other binary file.
+2026-11-27T14:48:43Z,grad-sdk,0.2.0a2,Gradiated,MIT,255088,"Python SDK for the Gradiated training platform: datasets, managed fine-tuning runs, evals, artifacts and deployments."
+2026-11-27T14:51:54Z,coinpopbit-futures-math,1.0.0,CoinPopBit <contact@coinpopbit.com>,MIT,21681,"Deterministic zero-dependency math estimates for isolated futures liquidation price, breakeven, risk-based position sizing, average entry price, and risk-reward ratio."
+2026-11-27T14:53:05Z,rankshift-regression,0.1.0,,,8331,One-call regression comparison and segment mix sensitivity analysis
+2026-11-27T14:55:45Z,sharkpos,0.1.0,ZEIRO SpA <contacto@sharkpos.cl>,MIT,27735,Cliente oficial de SharkPOS API: boleta y factura electrónica del SII de Chile (Chilean electronic invoicing).
+2026-11-27T15:00:45Z,langchain-fidem,0.1.0,Fidem <hola@fidemcheck.com>,MIT,10003,"Check which company operates an online shop before an AI agent pays. Fidem shop check as a LangChain tool. Free, no API key."
+2026-11-27T15:01:53Z,lamina-py,0.2.0,Christopher R. Gubbin,MIT OR Apache-2.0,2101930,Python bindings over the lamina-mode guided basis
+2026-11-27T15:02:27Z,vexora,0.1.0,Vexora Contributors,,6078,A collection of useful Python utilities
+2026-11-27T15:04:28Z,android-pilot,0.2.0a1,minhalvp,Apache-2.0,44792,MCP server that lets an AI agent drive an Android device over adb
+2026-11-27T15:05:37Z,surfacecheck,0.1.0,PhaseTensor,Apache-2.0,46756,"European implied volatility surface validation, static arbitrage diagnostics, SVI/SSVI calibration, and quantitative model-risk analysis"
+2026-11-27T15:06:17Z,ty-zombies,2.0.0,codest0411,MIT,75017,"A fast, tactical terminal typing survival game with campaign levels, bosses, mutators, daily challenges, and endless waves."
+2026-11-27T15:08:44Z,calins,1.0.0b3,Barthelemi Petillon <barth.petillon@gmail.com>,BSD-3-Clause,3873441,"Package used to compute ND uncertainties propagation, sensitivities analyses and assimilation with GLLSM"
+2026-11-27T15:13:34Z,credit-memo-agent,0.2.0,Anoop Vijayan,MIT,1681654,"Turns a UK small business's bank statements into a credit memo draft where every number traces to its transactions, reviewed and signed by a person, on your own computer."
+2026-11-27T15:14:22Z,fastapi-sql-limiter,0.3.0,Ragavan,MIT,57102,"Distributed PostgreSQL-backed rate limiting for FastAPI. Atomic counters, simple integration and no Redis required."
+2026-11-27T15:15:35Z,calibmap,0.1.0,,Apache-2.0,62186,Offline quantum calibration analytics and hardware stability diagnostics
+2026-11-27T15:15:47Z,hutch,0.0.1,Cariad Eccleston,MIT,4358,Website hosting in bunny.net
+2026-11-27T15:16:11Z,trior,0.1.0,,MIT,700270,Experimental Rust-powered structured concurrency runtime for Python
+2026-11-27T15:16:45Z,obsidian-lite-mcp,1.0.0,,MIT,24294,"Small MCP server that reads an Obsidian vault from disk: Obsidian-accurate links and backlinks, sections, search. No app, no dependencies."
