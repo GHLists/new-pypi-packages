@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T22:19:00Z,odcr-postgres,0.2.2,"sulfibashy, odcr contributors",Apache-2.0,2923,odcr connector for PostgreSQL: installs odcr with the postgres driver.
+2026-11-27T22:19:12Z,odcr-synapse,0.2.2,"sulfibashy, odcr contributors",Apache-2.0,2917,odcr connector for Azure Synapse Analytics: installs odcr with the synapse driver.
+2026-11-27T22:19:23Z,odcr-mysql,0.2.2,"sulfibashy, odcr contributors",Apache-2.0,2892,odcr connector for MySQL / MariaDB: installs odcr with the mysql driver.
+2026-11-27T22:19:44Z,deskhand,0.10.0,sobelendimm,GPL-3.0-or-later,2770568,"Lets AI agents (Claude Code and other MCP clients) use your KDE Plasma desktop safely, on your screen or on an invisible second desktop"
+2026-11-27T22:24:52Z,opencrafter,0.1.0rc1,,GPL-3.0-or-later,75300,Backend client for the open-crafter Minecraft mod (control socket + shared-memory frames)
+2026-11-27T22:24:56Z,kestrelpy,0.0.1,,,1471,"Reserved for the Python package of Kestrel, a reservoir modelling application."
+2026-11-27T22:25:18Z,agent-efficiency,1.4.3,Jeager070,MIT,547536,"Zero-dependency local context index, log compression, session memory, context doctor, and lean MCP server for AI coding agents."
+2026-11-27T22:33:54Z,stapel-integrations-core,0.1.0,,MIT,78582,"Shared base of Stapel integrations: stored connections, access, safe HTTP, provider registry"
+2026-11-27T22:36:31Z,stapel-atlassian,0.1.0,,MIT,75307,"Jira and Confluence Cloud for Stapel: guarded client, integrations, connection provider"
+2026-11-27T22:39:07Z,beets-romanize,0.1.0,Curtis Rueden <curtis@rueden.us>,Unlicense,86998,"Latin-script names and titles for beets paths, from MusicBrainz aliases, pseudo-releases and romanization"
+2026-11-27T22:40:35Z,captionm,0.1.0,,,26145,"Customizable media captioning engine for images, GIFs, and videos with discord.py support."
+2026-11-27T22:47:12Z,satpp,0.2.0,Bror Jönsson <brorfred@gmail.com>,MIT,32053062,"Satellite primary production models (PSM, VGPM, CbPM, CAFE, AbPM and others) with shared optics, light and physiology"
+2026-11-27T22:51:40Z,subsnip,1.1.0,ddddaaaattttoooo,MIT,26075,"Playlist CSV to official 320k MP3s with tags, cover art and synced lyrics"
+2026-11-27T22:52:37Z,stapel-cms,0.1.0,,MIT,237132,"Public content: pages, blog, menus and SEO for the Stapel framework"
+2026-11-27T22:52:37Z,stapel-courses,0.1.0,,MIT,244499,"Courses, lessons, enrollment, progress, quizzes and certificates for the Stapel framework"
+2026-11-27T22:54:16Z,dataeuropa,0.1.0,Nigel Randsley <nigel.randsley@protonmail.com>,MIT,49661,"Python client for the data.europa.eu open data portal (Search API, Registry, SPARQL)"
+2026-11-27T22:55:39Z,stapel-slack,0.1.0,,MIT,25411,"Slack for Stapel: incoming-webhook posting from Markdown, connection provider"
+2026-11-27T22:55:55Z,stapel-hubspot,0.1.0,,MIT,27107,"HubSpot for Stapel: notes on CRM records from Markdown, connection provider"
+2026-11-27T22:58:40Z,stapel-delivery,0.1.0,,MIT,194335,"Delivery methods, rates, pickup points, address book and shipment tracking for the Stapel framework"
+2026-11-27T22:59:09Z,bugle-sdk,0.1.0,Joe Georgeo Slamie,,6070,Automatic request reporting middleware for Bugle
+2026-11-27T23:00:24Z,cripcha,1.0.3,Crispy Medias <contact@crispy-medias.fr>,MIT,24068,"Server side check of Cripcha tokens (Django, Flask, FastAPI): the privacy-first, cookie-free captcha hosted in the EU"
+2026-11-27T23:01:01Z,dex-connector-twilio-messaging,0.2.1,,MIT,156420,Dex-native Twilio Programmable Messaging connector
+2026-11-27T23:02:34Z,dex-connector-typeform,0.2.0,,MIT,117287,Typeform connector for Dex Flows
+2026-11-27T23:03:20Z,kubestrata,0.1.4,,MIT,36599141,"Read-only, time-layered inventory of Kubernetes clusters for migration planning"
+2026-11-27T23:03:34Z,memhouse-lite,0.0.0,,Apache-2.0,1926,"Part of MemHouse, governed memory for AI agents. This version holds the name; the first release is 2.0.0."
+2026-11-27T23:04:03Z,dex-connector-unsplash,0.1.0,,MIT,89462,Unsplash connector for Dex Flows
+2026-11-27T23:04:28Z,particle-imaging-models,0.6.0,Samuel Young,MIT,1871385,"Pretraining, fine-tuning and inference of foundation models for particle-imaging detectors"
+2026-11-27T23:05:31Z,kyb-api-toolkit,0.1.0,,MIT,7669,"One-line Python client for sanctions screening, EU VAT/LEI validation and UK company KYB APIs (RapidAPI)."
+2026-11-27T23:09:04Z,deascii,0.1.0,Len4ik <leozor2244@gmail.com>,,4443,"Библиотека для декодирования ASCII, русских и испанских символов"
+2026-11-27T23:11:16Z,g191-filter,2026.11.4,"""Jan.Reimes"" <jan.reimes@head-acoustics.com>",MIT,10959228,IIR/FIR filters according to Recommendation ITU-T G.191 (Software Tool Library). Provided at arbitrary sampling rates and in many formats
+2026-11-27T23:12:07Z,kirei-py,0.1.0,taiyo tamura <gtaiyou24@gmail.com>,MIT,73003,モジュラモノリス + ヘキサゴナルアーキテクチャ + DDD の規約を、import-linter と Pylint で検査する
+2026-11-27T23:15:23Z,aioleafi,0.0.1,Leafi,Apache-2.0,44393,Asyncio client for the Leafi Nova local TLS-PSK API
+2026-11-27T23:15:51Z,keytyper,0.1.0,Leonardo Savio Ferreira <leosavio@leosavio.com>,MIT,28775,"A powerful, cross-platform Python library for creating beautiful terminal output with typing effects, colors, and formatting"
+2026-11-27T23:18:02Z,stapel-promotions,0.1.0,,MIT,186607,Promo codes and automatic discounts over opaque purchasables for the Stapel framework
+2026-11-27T23:18:03Z,stapel-feed,0.1.0,,MIT,131432,"Posts, comments, reactions and feeds for the Stapel framework"
+2026-11-27T23:18:06Z,stapel-inventory,0.1.0,,MIT,169838,"Stock per location, holds and a movement ledger for the Stapel framework"
