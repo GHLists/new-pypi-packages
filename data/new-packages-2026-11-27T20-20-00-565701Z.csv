@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T19:19:51Z,cornerwork,0.1.1,,Proprietary,12254467,Let a coreAgent chat work in a folder on this computer.
+2026-11-27T19:22:25Z,darazpy,0.1.0,Tayyab Kharl,MIT,47510,An easy Daraz Scraper
+2026-11-27T19:23:41Z,aiospectrum,0.1.0,ColeMundus,MIT,187344,"Pure-async Python client library for Spectrum residential Account, Network, Equipment, Client, Outage, Service Appointment, Billing Summary, and Plan APIs."
+2026-11-27T19:24:32Z,sponsorkit,0.1.0,Sponsorkit contributors,MIT,85505,"Build GitHub Sponsors and Open Collective contributions directly into your software: check who supports you, open a checkout, nag politely."
+2026-11-27T19:26:28Z,membannk,0.1.1,,MIT,38397,"One local memory shared by all your AI assistants (Claude, ChatGPT, Gemini, Grok) over MCP."
+2026-11-27T19:29:08Z,livetally,0.0.1,,Apache-2.0,1758,"LiveTally: reliability tally for AI agent tools, MCP servers and models. Coming soon."
+2026-11-27T19:29:53Z,outbound-guard,0.0.0,MrNaif2018,MIT,1869,Outbound request protection for Python apps. First release coming soon.
+2026-11-27T19:32:21Z,nuclearbomb,0.2.0,Amir,MIT,16387,Defensive network and system diagnostics toolkit
+2026-11-27T19:36:06Z,django-vista,0.1.1,,MIT,1279136,Static Django model diagrams with live local updates
+2026-11-27T19:39:37Z,odoo-addon-product-template-xmlid,20.0.1.0.0.1,Fluvo,LGPL-3,288398,Predictable XML IDs for products created in the interface
+2026-11-27T19:40:23Z,comfort-advisor,0.1.0,Lyman Epp,AGPL-3.0-or-later,66009,Psychrometric comfort evaluation and natural ventilation advice
+2026-11-27T19:40:30Z,respx2,2.0.0a1,,BSD-3-Clause,54240,A utility for mocking out the Python HTTPX2 and HTTP Core libraries.
+2026-11-27T19:42:39Z,serenus,0.0.1,ShadowStrike <r@strategos.au>,Proprietary,3603,ShadowStrike tool. Coming soon.
+2026-11-27T19:42:50Z,zalyx,0.0.1,Zalyx,,2010,Zalyx client library (placeholder).
+2026-11-27T19:43:47Z,deslopy,0.0.0,,MIT,2362,"Reserved for deslopy, a linter for Python code structure. Not released yet."
+2026-11-27T19:47:04Z,hcalory-control-hbh3,0.1.7,Evan Foster <evan@fos.tech>,,22841,A tool for controlling Hcalory diesel heaters over Bluetooth. Fork with HBH-3/HBH1S support.
+2026-11-27T19:48:08Z,tg-mpv,0.2.0,Quillai Mohammed Eisa <quillai.dev@gmail.com>,GPL-3.0-or-later,151984,Stream Telegram videos (found via a Telegram bot) directly into mpv without downloading them first
+2026-11-27T19:49:05Z,pmwDPR,0.2.2,,,47549,PMW to DPR swath collocation with pixel time screening
+2026-11-27T19:51:57Z,sapphyre,0.12.0,Kevin Moran <thernn8891@gmail.com>,GPL-3.0-or-later,1222837,Gene recovery from genome assemblies and unassembled reads for phylogenomics
+2026-11-27T19:54:31Z,secure-md2pdf,0.1.0,Cristian Bravo Lillo,MIT,3765968,"Informes PDF sencillos y seguros a partir de Markdown / Simple, secure PDF reports from Markdown"
+2026-11-27T19:55:11Z,epo-playground,1.3.1,,BSD-3-Clause,35158,A command-line interface for communicating with AI models
+2026-11-27T19:56:22Z,ticket-precedent,0.2.0,Vladislav Barot <vladislav.barot@gmail.com>,MIT,221263,"Have we solved this before? Local hybrid search (BM25 + embeddings) over JIRA, Mantis and GitHub tickets, served to AI agents over MCP."
+2026-11-27T19:57:28Z,gitsit,0.1.0b3,,,5759072,GitSit Studio — version control reimagined
+2026-11-27T20:04:42Z,simrig-mcp,0.1.1,,MIT,129391,MCP servers for sim racing on Windows: Assetto Corsa / CSP / Content Manager config and Pimax VR headsets.
+2026-11-27T20:06:00Z,fedcausal,1.0.0,"José A. Gámez, José M. Puerta",MIT,152344,"Federated Bayesian network structure learning and causal discovery: FedGES and FedRCD, on top of causalbase"
+2026-11-27T20:06:03Z,labplotlib-flow-api,0.1.0,LabPlotLib,,20524,Reusable Python flowchart model with SVG and PNG rendering
+2026-11-27T20:07:01Z,evener,0.0.1,,MIT OR Apache-2.0,4227,"Reserved name for Evener, the Rust harness that runs AI agents and evens the load across them. No functionality yet"
+2026-11-27T20:15:30Z,pytest-busy,0.1.0,Michał Pasternak <michal.dtz@gmail.com>,MIT,35146,Parallel pytest runs (xdist -n) on one machine take turns instead of thrashing it: the next run waits for a free slot (flock). Plus a `pytest-busy` command showing what is running.
+2026-11-27T20:16:05Z,surge-ml,0.1.0,Álvaro Sánchez Villar,BSD 3-Clause License Copyright (c) 2025 Álvaro Sánchez Villar All rights reserved. Redistribution a…,936693,"Surrogate modeling framework for scientific workflows: SciML, AutoML, UQ, and MLOps-style provenance in a declarative pipeline"
+2026-11-27T20:16:31Z,specify-pmi,0.3.0,Paul Fremantle,Apache-2.0,100986412,"Add manufacturing intent (GD&T, fits, threads, finish) to STEP parts and write it as AP242 semantic PMI"
+2026-11-27T20:18:25Z,aipass-ai-mail,0.0.1,AIPass,MIT,1343,"Reserved for the AIPass project: ai-mail, as a standalone package. Code arrives with 0.1.0."
+2026-11-27T20:18:26Z,aipass-api,0.0.1,AIPass,MIT,1303,"Reserved for the AIPass project: api, as a standalone package. Code arrives with 0.1.0."
+2026-11-27T20:18:27Z,aipass-backup,0.0.1,AIPass,MIT,1335,"Reserved for the AIPass project: backup, as a standalone package. Code arrives with 0.1.0."
+2026-11-27T20:18:28Z,aipass-cli,0.0.1,AIPass,MIT,1303,"Reserved for the AIPass project: cli, as a standalone package. Code arrives with 0.1.0."
+2026-11-27T20:19:33Z,crisol-workbench,0.1.3,Jose Ignacio Gonzalez,MIT OR Apache-2.0,32939554,"Native, IDE-grade workbench windows from a Python script."

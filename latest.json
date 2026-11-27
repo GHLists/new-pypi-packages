@@ -1,55 +1,83 @@
 {
   "list": {
-    "count": 54,
-    "from": "2026-11-27T18:18:59.105397Z",
-    "path": "data/new-packages-2026-11-27T19-19-13-365913Z.csv",
-    "to": "2026-11-27T19:19:13.365913Z"
+    "count": 35,
+    "from": "2026-11-27T19:19:13.365913Z",
+    "path": "data/new-packages-2026-11-27T20-20-00-565701Z.csv",
+    "to": "2026-11-27T20:20:00.565701Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-27T19:10:25Z",
       "package": "betterleaks-cli",
       "since": "2026-11-27T18:18:59.105397Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-27T19:10:38Z",
       "package": "betterleaks-sdk",
       "since": "2026-11-27T18:18:59.105397Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-27T17:54:41Z",
       "package": "curly-message-lint",
       "since": "2026-11-27T17:19:03.798615Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-27T17:53:31Z",
       "package": "curly-message-parser",
       "since": "2026-11-27T17:19:03.798615Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-27T16:30:03Z",
       "package": "outerlimit-governance-agent-pydantic-ai",
       "since": "2026-11-27T16:19:05.944346Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-27T16:28:09Z",
       "package": "outerlimit-governance-agent-strands",
       "since": "2026-11-27T16:19:05.944346Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-27T19:28:32Z",
+      "package": "qwen-tts-cpu",
+      "since": "2026-11-27T19:19:13.365913Z",
+      "version": "0.3.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-27T19:34:17Z",
+      "package": "qwen-tts-runtime",
+      "since": "2026-11-27T19:19:13.365913Z",
+      "version": "0.3.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-27T19:30:24Z",
+      "package": "qwentts-gradio",
+      "since": "2026-11-27T19:19:13.365913Z",
+      "version": "0.3.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-27T19:32:21Z",
+      "package": "qwenvox-tts-3",
+      "since": "2026-11-27T19:19:13.365913Z",
+      "version": "0.3.0"
     }
   ],
-  "serial": 44267161,
+  "serial": 44269270,
   "source_truncated": false,
-  "window": "2026-11-27T19:19:13.365913Z"
+  "window": "2026-11-27T20:20:00.565701Z"
 }
