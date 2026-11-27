@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T00:19:56Z,orbitar-jth,2.0.0,The orbitaR developers,GPL-3.0-only,38091741,The JTH v2.0 PAW-XML datasets of family jth-2.0 for orbitar
+2026-11-27T00:20:36Z,orbitar,0.0.1,The orbitaR developers,PolyForm-Noncommercial-1.0.0,3070431,"Quantum simulation at native speed, powered by Rust."
+2026-11-27T00:22:04Z,qqfrontier,0.1.1,Merwan Roudane <merwanroudane920@gmail.com>,MIT,534143,"Frontier quantile-on-quantile econometrics: QQ connectedness, cross-quantilogram, robust QQ causality, quantile coherency, QQARDL"
+2026-11-27T00:22:21Z,mahadasha,0.1.0,"""Mahadasha.com"" <support@mahadasha.com>",MIT,23831,"Official Python SDK for the Mahadasha Swiss Ephemeris Vedic Astrology API (Kundli, Vimshottari Dasha, Divisional Charts, Shadbala, Ashtakavarga, Panchang & Matching)."
+2026-11-27T00:26:35Z,agentjam,0.3.0,,MIT,610912,"Allow your agents to discover, message, and delegate tasks to any other agent over AgentJam."
+2026-11-27T00:31:15Z,omnitax,0.1.0,"Thomas Roder, Abrinca Genomics",MIT,213925,"Biological taxonomies (NCBI, GTDB and a few more) as Python objects, in one SQLite file or behind a small server, with a benchmarked way to translate between NCBI and GTDB."
+2026-11-27T00:33:51Z,ownserver,0.1.0,,Apache-2.0,30789,A small static file server with optional live reload and ngrok tunnels.
+2026-11-27T00:49:04Z,eptx,1.0.0,Eptx <contact@eptx.space>,MIT,19731,"Official Python client for the Eptx API: background removal, captions, noise removal and text to speech, on private hardware."
+2026-11-27T00:49:57Z,ldr-integrations-google-displayvideo,0.1.0,Sam Kenney <sam.kenney@louder.com.au>,MIT,434027,Async Google API client library for displayvideo
+2026-11-27T00:57:01Z,hpc-core,0.1.0,,Apache-2.0,90023,"Dependency-free contract, transport interface and Slurm adapter for DataSpark HPC tools."
+2026-11-27T00:58:00Z,margin-commit-graph,0.1.0,Waddah Ali,MIT,55461,Draws a repository's history as its tree and tells the story in it.
+2026-11-27T00:58:29Z,happycheng,0.1.0,happycheng <happycheng@example.com>,MIT,27097,happycheng — 原始 .py 文件原样分发（单文件顶层模块）
+2026-11-27T00:59:34Z,pyiol2-client,0.1.0,Ezequiel Primon <ezeprimo@gmail.com>,"MIT License Copyright (c) 2025 Ezequiel Primon Permission is hereby granted, free of charge, to any…",294913,Cliente Python para la API de IOL Inversiones (REST v1 + WebSocket de market data)
+2026-11-27T01:03:27Z,py-lmobile-sdk,1.0.1,guolei <174000902@qq.com>,,32589,微网通联短信平台 Python SDK - 同步接口调用（官方文档: https://www.lmobile.cn/ApiPages/index.html）
+2026-11-27T01:04:08Z,cnnsim,0.4.0,Thorsten Kranz,MIT,72861,Chua–Yang cellular neural networks in PyTorch: GPU simulation and training
+2026-11-27T01:06:25Z,pixellens,0.1.0,Abolfazl Moeini,MIT,73478,"Local-first CLI for converting animations/icons/3D images to SVG/AVIF/WebP with pixel, layout, and SSIM diffing."
+2026-11-27T01:09:05Z,wpls,0.1.0,AJ Slater,MIT,125241,Lists the wallpaper file path currently showing on each desktop/space on macOS.
+2026-11-27T01:09:43Z,nave-xai,0.1.4,Ahcène Boubekki,MIT,34455704,NAVE (Neuro-Activated Vision Explanations): concept-based explanations of vision encoders.
+2026-11-27T01:16:37Z,django-typed-fields,0.1.0,Henrique Bastos <henrique@bastos.net>,MIT,23587,Django fields for typed values and scalar compound values
+2026-11-27T01:17:41Z,jsspector,0.1.1,,Apache-2.0,18030796,Static and dynamic security analyzer for JavaScript and TypeScript
+2026-11-27T01:17:48Z,pyrn,0.1.0,,Apache-2.0,25688543,"Rust-powered Python/pytest Test Impact Analysis, content-addressed test caching, and isolated warm-pool execution engine"

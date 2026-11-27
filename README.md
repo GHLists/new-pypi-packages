@@ -8,26 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 00:20 UTC
+## Latest list — 2026-11-27 01:21 UTC
 
-New packages created between 2026-11-26 23:21 UTC and 2026-11-27 00:20 UTC.
+New packages created between 2026-11-27 00:20 UTC and 2026-11-27 01:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-27T00-20-35-239995Z.csv)
+[Full CSV](data/new-packages-2026-11-27T01-21-21-470369Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-26 23:21:41 | [fkpt2](https://pypi.org/project/fkpt2/) | 0.1.0 | Mario A. Rodriguez-Meza | 1.0 MB | One-loop redshift-space power spectrum multipoles |
-| 2026-11-26 23:22:40 | [trustcomponent](https://pypi.org/project/trustcomponent/) | 0.0.1b1 | Trustcaptcha GmbH <mail@trust… | 205.9 kB | Official TrustComponent SDK for Python: TrustCaptcha, TrustAnalytics, TrustMoni… |
-| 2026-11-26 23:22:48 | [gurp-vaults-sdk](https://pypi.org/project/gurp-vaults-sdk/) | 0.0.1 |  | 540 B | Placeholder gurpuvtelh20 |
-| 2026-11-26 23:25:22 | [graphe-code](https://pypi.org/project/graphe-code/) | 0.1.1 |  | 173.7 kB | The code graph of a host project: what calls what, what cites what. |
-| 2026-11-26 23:26:15 | [py-euvd](https://pypi.org/project/py-euvd/) | 0.2.0 | Dominik Muhs | 76.0 kB | Dependency-free Python client for the EU Vulnerability Database (EUVD) API |
-| 2026-11-26 23:26:19 | [langfuse-neomundi](https://pypi.org/project/langfuse-neomundi/) | 0.1.0 | Sebastien FAVRE <sebastien@ne… | 28.6 kB | Write NeoMundi measurements back into Langfuse as scores on the trace |
-| 2026-11-26 23:27:26 | [odcr](https://pypi.org/project/odcr/) | 0.2.0 | sulfibashy, odcr contributors | 154.6 kB | Open Data Contract Runtime: enforce ODCS data contracts where data lands, recon… |
-| 2026-11-26 23:50:19 | [yukipdf](https://pypi.org/project/yukipdf/) | 1.0 |  | 26.9 kB |  |
-| 2026-11-26 23:55:30 | [topwater](https://pypi.org/project/topwater/) | 0.1.0a4 |  | 803.7 kB | Give your agent one `bash` tool backed by a simulated Linux shell and your own… |
-| 2026-11-27 00:01:23 | [paybound](https://pypi.org/project/paybound/) | 0.1.0 |  | 53.6 kB | Paybound: let AI agents pay on BNB Smart Chain only what a person approved. Tes… |
-| 2026-11-27 00:03:35 | [fhoat](https://pypi.org/project/fhoat/) | 0.1.1 | Karthik Rajgopal <karthik.raj… | 94.6 kB | Oat UI for FastHTML: a drop-in for Pico |
-| 2026-11-27 00:08:40 | [hfpin](https://pypi.org/project/hfpin/) | 0.1.0 | Dip Pansuriya | 25.1 kB | Pin Hugging Face models and datasets in your code to exact commits |
-| 2026-11-27 00:15:08 | [embedsleuth](https://pypi.org/project/embedsleuth/) | 0.1.0 |  | 128.1 kB | Evidence-based embedded diagnostics for AI hosts via MCP |
-| 2026-11-27 00:16:06 | [tree-sitter-mib](https://pypi.org/project/tree-sitter-mib/) | 0.3.0 | Eric Brown | 429.5 kB | SNMP MIB (SMIv1/SMIv2) grammar for tree-sitter |
-| 2026-11-27 00:18:36 | [ontometer-corpus](https://pypi.org/project/ontometer-corpus/) | 0.1.0 | Alexander Belikov <alexander@… | 666.7 kB | The OntoMeter Corpus of public ontologies: derivation pipeline, table loaders a… |
+| 2026-11-27 00:19:56 | [orbitar-jth](https://pypi.org/project/orbitar-jth/) | 2.0.0 | The orbitaR developers | 38.1 MB | The JTH v2.0 PAW-XML datasets of family jth-2.0 for orbitar |
+| 2026-11-27 00:20:36 | [orbitar](https://pypi.org/project/orbitar/) | 0.0.1 | The orbitaR developers | 3.1 MB | Quantum simulation at native speed, powered by Rust. |
+| 2026-11-27 00:22:04 | [qqfrontier](https://pypi.org/project/qqfrontier/) | 0.1.1 | Merwan Roudane <merwanroudane… | 534.1 kB | Frontier quantile-on-quantile econometrics: QQ connectedness, cross-quantilogra… |
+| 2026-11-27 00:22:21 | [mahadasha](https://pypi.org/project/mahadasha/) | 0.1.0 | "Mahadasha.com" <support@maha… | 23.8 kB | Official Python SDK for the Mahadasha Swiss Ephemeris Vedic Astrology API (Kund… |
+| 2026-11-27 00:26:35 | [agentjam](https://pypi.org/project/agentjam/) | 0.3.0 |  | 610.9 kB | Allow your agents to discover, message, and delegate tasks to any other agent o… |
+| 2026-11-27 00:31:15 | [omnitax](https://pypi.org/project/omnitax/) | 0.1.0 | Thomas Roder, Abrinca Genomics | 213.9 kB | Biological taxonomies (NCBI, GTDB and a few more) as Python objects, in one SQL… |
+| 2026-11-27 00:33:51 | [ownserver](https://pypi.org/project/ownserver/) | 0.1.0 |  | 30.8 kB | A small static file server with optional live reload and ngrok tunnels. |
+| 2026-11-27 00:49:04 | [eptx](https://pypi.org/project/eptx/) | 1.0.0 | Eptx <contact@eptx.space> | 19.7 kB | Official Python client for the Eptx API: background removal, captions, noise re… |
+| 2026-11-27 00:49:57 | [ldr-integrations-google-displayvideo](https://pypi.org/project/ldr-integrations-google-displayvideo/) | 0.1.0 | Sam Kenney <sam.kenney@louder… | 434.0 kB | Async Google API client library for displayvideo |
+| 2026-11-27 00:57:01 | [hpc-core](https://pypi.org/project/hpc-core/) | 0.1.0 |  | 90.0 kB | Dependency-free contract, transport interface and Slurm adapter for DataSpark H… |
+| 2026-11-27 00:58:00 | [margin-commit-graph](https://pypi.org/project/margin-commit-graph/) | 0.1.0 | Waddah Ali | 55.5 kB | Draws a repository's history as its tree and tells the story in it. |
+| 2026-11-27 00:58:29 | [happycheng](https://pypi.org/project/happycheng/) | 0.1.0 | happycheng <happycheng@exampl… | 27.1 kB | happycheng — 原始 .py 文件原样分发（单文件顶层模块） |
+| 2026-11-27 00:59:34 | [pyiol2-client](https://pypi.org/project/pyiol2-client/) | 0.1.0 | Ezequiel Primon <ezeprimo@gma… | 294.9 kB | Cliente Python para la API de IOL Inversiones (REST v1 + WebSocket de market da… |
+| 2026-11-27 01:03:27 | [py-lmobile-sdk](https://pypi.org/project/py-lmobile-sdk/) | 1.0.1 | guolei <174000902@qq.com> | 32.6 kB | 微网通联短信平台 Python SDK - 同步接口调用（官方文档: https://www.lmobile.cn/ApiPages/index.html） |
+| 2026-11-27 01:04:08 | [cnnsim](https://pypi.org/project/cnnsim/) | 0.4.0 | Thorsten Kranz | 72.9 kB | Chua–Yang cellular neural networks in PyTorch: GPU simulation and training |
+| 2026-11-27 01:06:25 | [pixellens](https://pypi.org/project/pixellens/) | 0.1.0 | Abolfazl Moeini | 73.5 kB | Local-first CLI for converting animations/icons/3D images to SVG/AVIF/WebP with… |
+| 2026-11-27 01:09:05 | [wpls](https://pypi.org/project/wpls/) | 0.1.0 | AJ Slater | 125.2 kB | Lists the wallpaper file path currently showing on each desktop/space on macOS. |
+| 2026-11-27 01:09:43 | [nave-xai](https://pypi.org/project/nave-xai/) | 0.1.4 | Ahcène Boubekki | 34.5 MB | NAVE (Neuro-Activated Vision Explanations): concept-based explanations of visio… |
+| 2026-11-27 01:16:37 | [django-typed-fields](https://pypi.org/project/django-typed-fields/) | 0.1.0 | Henrique Bastos <henrique@bas… | 23.6 kB | Django fields for typed values and scalar compound values |
+| 2026-11-27 01:17:41 | [jsspector](https://pypi.org/project/jsspector/) | 0.1.1 |  | 18.0 MB | Static and dynamic security analyzer for JavaScript and TypeScript |
+| 2026-11-27 01:17:48 | [pyrn](https://pypi.org/project/pyrn/) | 0.1.0 |  | 25.7 MB | Rust-powered Python/pytest Test Impact Analysis, content-addressed test caching… |
