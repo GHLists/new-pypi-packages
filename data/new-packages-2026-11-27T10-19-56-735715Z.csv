@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T09:23:56Z,botsting,0.0.3,,Apache-2.0,945226,"Evidence-first security testing for LLM applications: report what was proven, not what looked bad."
+2026-11-27T09:27:17Z,hashvault-py,0.2.0,hashvault contributors,MIT,27756,一体化可验证溯源内核：多算法摘要 + 哈希链 + Merkle/MMR + Ed25519 签名 + 外部锚定 + 三层校验
+2026-11-27T09:27:48Z,inventree-wurth-barcode,0.1.2,Simone Amadori <simone@amadori.bs.it>,MIT,17742,InvenTree plugin: scan the barcodes of the Würth Elektronik labels (part lookup and purchase order receiving)
+2026-11-27T09:28:02Z,unhertz,0.1.0,Camilla Buys <camilla.buys@gmail.com>,MIT,83023,A CLI for politely informing unwanted instruments that their services are no longer required.
+2026-11-27T09:28:19Z,kronbot,0.2.1,,MIT,143108,Автозапись на физкультуру ИТМО из терминала
+2026-11-27T09:30:41Z,snipc,0.1.0,GraffGit,MIT,13961,Generate aesthetic code snippet cards straight from your terminal
+2026-11-27T09:30:42Z,jopedro-finances-data,0.1.0,,,55818,Finance data infrastructure clients
+2026-11-27T09:31:34Z,vsl-agt,0.1.0,,MIT,43778,"VSL gates and the VERBA ledger inside Microsoft's Agent Governance Toolkit: an Agent Hooks interceptor and an AGT ToolCallInterceptor, with recorded actions and computed enforcement."
+2026-11-27T09:34:25Z,str-processor-Leo-Std,0.1.0,Leo_Std <xinjingyifang@outlook.com>,MIT,6541,A simple string processing utility package for lab experiment
+2026-11-27T09:39:49Z,ssonal-pyutils,0.1.0,Sonal Gupta,MIT,6473,Python utilities for palindrome and Armstrong number checking
+2026-11-27T09:40:15Z,tgsweep,0.3.0,umbrella-at,MIT,85228,Delete your own Telegram messages from the chats you pick
+2026-11-27T09:42:42Z,cuc-news-crawler,0.1.0,JOHN <2243856059@qq.com>,MIT,7303,A simple Selenium crawler for CUC news pages
+2026-11-27T09:43:37Z,atlas-master,1.0.0,"Mark Aron Szulyovszky <mark@aperiodic.io>, Daniel Szemerey <daniel@aperiodic.io>",MIT,5323965,Atlas - the open security master for real-world-asset and crypto perpetuals
+2026-11-27T09:44:39Z,curaitor,0.1.0a1,Gert Behiels,PolyForm-Noncommercial-1.0.0,750010,"(loggair / confluid / liquifai) adapter for dataset curation & analysis: outlier detection, distance metrics, synthetic-vs-real comparison, label cleaning, dimensionality reduction."
+2026-11-27T09:45:21Z,flagcov,0.1.0,FlagCov contributors,MIT,4410474,"Code coverage for feature flags: find the Flagsmith flag states your tests never ran, weighted by real production traffic."
+2026-11-27T09:46:52Z,my-heart-test,1.0.0,my-heart-test,MIT,14390,基于 acps-sdk 智能体互联协议的心理测评 Agent：根据用户情况推荐测评题目，完成后给出测评结果与治疗建议。
+2026-11-27T09:48:31Z,xtrom-engine,0.3.1,Xtrom,Apache-2.0,342160,Deterministic runtime enforcement engine for AI agents (taint/IFC + policy).
+2026-11-27T09:48:33Z,xtrom-sdk,0.5.0,Xtrom,Apache-2.0,219197,Xtrom SDK — wrap AI-agent tools with runtime enforcement (taint/IFC + policy).
+2026-11-27T09:48:34Z,xtrom,0.5.0,Xtrom,Apache-2.0,10399,Xtrom: deterministic runtime firewall for AI coding agents. Installs xtrom-sdk and its `xtrom` command.
+2026-11-27T09:51:11Z,nxs-api,1.0.0rc1,,Apache-2.0,1156743,"Python client for the NXS network APIs, the Risk Graph and the NXS Intelligence API: typed models, API keys and OAuth PKCE, cursor and Link pagination, RFC 9457 problems, retries, rate limits, webhoo…"
+2026-11-27T09:51:38Z,rootpheno,0.0.2,jklai <p10911004@gmail.com>,MIT,40108,A Python toolkit for plant root phenotyping.
+2026-11-27T09:53:01Z,id-translate,0.1.0,,MIT,173148,Deterministic extract/apply/QA engine so AI agents translate documents into Indonesian without overwriting sources.
+2026-11-27T09:54:15Z,sonicscrew,0.1.0,L42ARO,MPL-2.0,30878,Typed Python client for the sonic-screwdriver compute-box: turn a legacy program's tasks into async functions.
+2026-11-27T09:54:24Z,kernelatlas,0.1.0,KernelAtlas contributors,Apache-2.0,654554,Discover and validate kernel and compilation choices for Transformers inference
+2026-11-27T09:54:56Z,pyxis-harness-checkpoint-memory,0.1.1.dev6,Onenightcarnival,MIT,7647,PyxisHarness plugin: in-memory checkpointer and store for temporary sessions
+2026-11-27T09:55:46Z,scorekit-lbwnb,0.1.0,LBENB <3486009873@qq.com>,MIT,8179,成绩统计与等级评定工具包
+2026-11-27T10:00:15Z,rf-browser-recorder-toolbar,0.1.0,,Apache-2.0,35096,Record Robot Framework browser tests with annotated steps
+2026-11-27T10:00:38Z,mcp_winrm,1.1.2,Junki,ISC,24338,WinRM-based MCP Server (基于 WinRM 的 MCP 服务器，纯 Python 实现)
+2026-11-27T10:02:06Z,wa-meta-ai,0.1.1,Aditya Shinde,MIT,52144,"Open-source REST API, Python SDK, CLI, and MCP server for WhatsApp Meta AI image generation & media extraction"
+2026-11-27T10:03:24Z,brickscape,0.1.0,xanzure,MIT,272888,"MCP server for designing LEGO builds that can actually be built: terrain generators, strict connection and collision checks, renders, part lists and instructions."
+2026-11-27T10:04:55Z,hiraku,0.2.0,"Johannes Kirschner <johannes.kirschner@sdsc.ethz.ch>, Matteo Fasulo <matteo.fasulo@sdsc.ethz.ch>, Q…",Apache-2.0,303252,Core metadata and launch APIs for AI-assisted data science
+2026-11-27T10:05:42Z,freight-calculator,0.1.0,你的名字 <you@example.com>,MIT,10685,快递运费计算器：按重量、距离、加急与会员状态计算运费
+2026-11-27T10:05:55Z,cli-interview-kit,0.1.0,Northbridge Capital,MIT,78756,"Python CLIs whose prompts are declared once and answered at the terminal, by flags, or by an AI assistant."
+2026-11-27T10:06:02Z,agoralar,0.16.0,authorlarciss <author.larciss@gmail.com>,MIT,94430,"Продуктовая оболочка ядра AxisLar: интерфейсы, реестр плагинов, готовые хранилища"
+2026-11-27T10:06:05Z,agoralar-store-sqlite,0.4.3,,MIT,10551,SQLite-хранилище для AxisLar (плагин AgoraLar)
+2026-11-27T10:06:06Z,eotools,1.0.0,HYGEOS team,Apache-2.0,147013,A collection of tools and modules for building processing chains.
+2026-11-27T10:06:09Z,agoralar-store-json,0.5.3,,MIT,6203,JSON-хранилище для AxisLar (плагин AgoraLar)
+2026-11-27T10:06:11Z,agoralar-source-sql,0.2.3,,MIT,8060,SQL (sqlite) как источник объектов для AxisLar (плагин AgoraLar)
+2026-11-27T10:11:05Z,ibdic-auth,0.0.1,,,2047,Name reserved by IBDIC. Contains no code.
+2026-11-27T10:13:56Z,randonneuring-connect-mcp,3.1.0,Prathap Pandian <mprathappandian@gmail.com>,MIT,58398,Connect AI assistants to randonneuring cycling data - Explore Audax India events and worldwide LRM results with 8 intelligent tools
+2026-11-27T10:14:18Z,shotweave,0.1.0,PhaseTensor,Apache-2.0,31086,Integer shot allocation for independent quantum measurement experiments
+2026-11-27T10:14:33Z,marklark,0.1.0,,MIT OR Apache-2.0,33525168,"Maintain Markdown documents: humans write intents, agents write hermetic Starlark, marklark runs it deterministically"
+2026-11-27T10:19:34Z,ohos-devloop-pc,0.4.0,guozejun <guozejun@huawei.com>,Apache-2.0,92956,Windows PC 操作代理（强烈建议而非服务器必需）：PC 服务、设备锁、rkflash 刷机、DAYU600 向导
