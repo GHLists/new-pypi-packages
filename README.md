@@ -8,42 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 07:18 UTC
+## Latest list — 2026-11-27 08:20 UTC
 
-New packages created between 2026-11-27 06:20 UTC and 2026-11-27 07:18 UTC.
+New packages created between 2026-11-27 07:18 UTC and 2026-11-27 08:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-27T07-18-44-549234Z.csv)
+[Full CSV](data/new-packages-2026-11-27T08-20-46-089172Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-27 06:24:49 | [django-dev-tickets](https://pypi.org/project/django-dev-tickets/) | 0.2.0 | unluckynelson | 144.6 kB | An issue tracker that lives inside your Django app: a kanban board, a report wi… |
-| 2026-11-27 06:25:23 | [ectype-data](https://pypi.org/project/ectype-data/) | 0.1.0 | ZeroPoint Holdings LLC | 2.8 MB | Ectype: learn a statistical fingerprint of a table, generate faithful synthetic… |
-| 2026-11-27 06:27:13 | [byteseek](https://pypi.org/project/byteseek/) | 0.1.0 | byteseek contributors | 14.2 MB | Fast literal and fuzzy text search with JSON/YAML/TOML search, written in Rust |
-| 2026-11-27 06:27:21 | [railway-helper-xethhung12](https://pypi.org/project/railway-helper-xethhung12/) | 0.0.1 | Xeth Hung <admin@xethh.me> | 43.1 kB | CLI and Python helper to trigger Railway service redeployments via the Railway… |
-| 2026-11-27 06:29:13 | [oisigma-drawdown](https://pypi.org/project/oisigma-drawdown/) | 0.1.0 | Oisigma <m@oisigma.com> | 19.1 kB | Descriptive drawdown episode distribution, depth percentiles, time-under-water… |
-| 2026-11-27 06:32:45 | [cpython-internals-inspector](https://pypi.org/project/cpython-internals-inspector/) | 0.1.0 |  | 33.6 kB | A tool for inspecting the internal layout of CPython objects |
-| 2026-11-27 06:35:53 | [serveutil](https://pypi.org/project/serveutil/) | 0.1.0 |  | 35.7 MB | Readable compute and bandwidth timelines for LLM serving |
-| 2026-11-27 06:36:29 | [vernier-leaderboard](https://pypi.org/project/vernier-leaderboard/) | 1.0.2 | Arya Sikder, Sriram Pillutla | 11.5 MB | Reports what a forecasting leaderboard's own scores can establish: its resoluti… |
-| 2026-11-27 06:37:28 | [marine-extremes](https://pypi.org/project/marine-extremes/) | 0.1.0 | Jie Ren <renjie22@mails.ucas.… | 2.6 MB | High-performance, Rust-accelerated detection of marine heatwaves, marine cold s… |
-| 2026-11-27 06:40:45 | [cloudbyte-tracer](https://pypi.org/project/cloudbyte-tracer/) | 0.1.0 | CloudByte | 54.4 kB | CloudByte agent observability tracing |
-| 2026-11-27 06:41:16 | [blender-connector](https://pypi.org/project/blender-connector/) | 0.2.0 | Repository Maintainers <maint… | 167.7 kB | Blender connector and MCP server; proxies the mcp-for-blender upstream and serv… |
-| 2026-11-27 06:41:50 | [fahali-guard](https://pypi.org/project/fahali-guard/) | 1.0.0 |  | 13.5 kB | 3-line cryptographic pre-trade risk clearance guard (FRCT v1) for CCXT, Alpaca,… |
-| 2026-11-27 06:42:46 | [virus-scanner-common](https://pypi.org/project/virus-scanner-common/) | 0.0.0.dev0 | Divio AG | 763 B | Not currently available on PyPI. Placeholder registered by Divio AG. |
-| 2026-11-27 06:44:41 | [fr-async](https://pypi.org/project/fr-async/) | 0.1.0 | Omena0 <omena0mc@gmail.com> | 62.5 kB | Async but with yield instead of await |
-| 2026-11-27 06:45:01 | [jiecheng-pkg](https://pypi.org/project/jiecheng-pkg/) | 0.1.0 | QingZhe | 8.1 kB | A tiny factorial toolkit for learning how to publish a package to PyPI (Experim… |
-| 2026-11-27 06:45:09 | [valkyria-cli](https://pypi.org/project/valkyria-cli/) | 0.1.0 | Anupam | 420.2 kB | Terminal-first, multi-model AI agent with local retrieval, controlled system ac… |
-| 2026-11-27 06:48:16 | [lzytools-OCR](https://pypi.org/project/lzytools-OCR/) | 0.1.0 | PPJUST | 11.0 kB | Python自用包-OCR相关方法 |
-| 2026-11-27 06:54:32 | [voiddo-utils](https://pypi.org/project/voiddo-utils/) | 1.1.3 | voiddo studio <data@voiddo.co… | 65.5 kB | Python client for the vøiddo utilities API (data.voiddo.com): PDF, image, QR, C… |
-| 2026-11-27 06:54:33 | [voiddo-mcp](https://pypi.org/project/voiddo-mcp/) | 1.1.3 | voiddo studio <data@voiddo.co… | 18.8 kB | stdio proxy for the vøiddo utilities MCP server (data.voiddo.com): file convers… |
-| 2026-11-27 06:55:47 | [tmux-api](https://pypi.org/project/tmux-api/) | 0.1.0 | Mark Atwood <me@mark.atwood.n… | 23.0 kB | HTTP API for tmux automation and AI agents |
-| 2026-11-27 06:58:35 | [shared-jkx](https://pypi.org/project/shared-jkx/) | 0.1.0 |  | 2.3 kB | Add your description here |
-| 2026-11-27 07:02:14 | [wechatmp-publish-mcp](https://pypi.org/project/wechatmp-publish-mcp/) | 0.1.0 | wxmp contributors | 179.8 kB | MCP server for the WeChat Official Account console: 贴图 image messages, drafts,… |
-| 2026-11-27 07:07:21 | [say-hi-sushil-001](https://pypi.org/project/say-hi-sushil-001/) | 0.1.0 |  | 2.2 kB |  |
-| 2026-11-27 07:10:12 | [gradetool-hubuqin](https://pypi.org/project/gradetool-hubuqin/) | 0.1.0 | 呼布钦 <hubuqin0828@163.com> | 12.6 kB | 成绩等级评定与班级统计工具（Python 课程实验6） |
-| 2026-11-27 07:10:34 | [footballcharts](https://pypi.org/project/footballcharts/) | 0.1.0 | Football Charts <contact@foot… | 38.4 kB | Football (soccer) data for 98 leagues as pandas DataFrames: results with half-t… |
-| 2026-11-27 07:10:55 | [Namaste-001](https://pypi.org/project/Namaste-001/) | 0.1.0 |  | 2.2 kB |  |
-| 2026-11-27 07:13:43 | [switchboard-room](https://pypi.org/project/switchboard-room/) | 0.1.0 | leondgarse | 17.1 kB | Let Claude Code sessions on any host message each other through a small room se… |
-| 2026-11-27 07:14:41 | [nonebot-plugin-acemusic](https://pypi.org/project/nonebot-plugin-acemusic/) | 0.1.1 | Ace Data Cloud Dev <dev@aceda… | 10.0 kB | 在 NoneBot 2 的 OneBot V11 私聊中提交 ACE Music 音乐任务并查询结果 |
-| 2026-11-27 07:14:51 | [odoo-addon-helpdesk_ticket_pureict](https://pypi.org/project/odoo-addon-helpdesk_ticket_pureict/) | 17.0.1.0.0 | Mint System GmbH | 415.7 kB | Add change management related fields to Ticket. |
-| 2026-11-27 07:14:53 | [odoo-apps-Odoo-Apps-Helpdesk](https://pypi.org/project/odoo-apps-Odoo-Apps-Helpdesk/) | 17.0.20261127.0 |  | 1.3 kB |  |
-| 2026-11-27 07:16:30 | [ebsd-magus](https://pypi.org/project/ebsd-magus/) | 2.0.0 | Ulrich Kerzel | 1.2 MB | Standalone workflow manager for EBSD simulations |
+| 2026-11-27 07:19:17 | [umbruch](https://pypi.org/project/umbruch/) | 0.5.1 |  | 207.4 MB | umbruch: an HTML/CSS/MathML/SVG to PDF renderer (the umbruch executable as a Py… |
+| 2026-11-27 07:20:48 | [xtr-identity](https://pypi.org/project/xtr-identity/) | 0.1.0rc6 |  | 39.7 kB | Windows-first public OIDC desktop SDK for MCS and XTR |
+| 2026-11-27 07:23:32 | [mxc-web-ui-tools](https://pypi.org/project/mxc-web-ui-tools/) | 0.2.0 | Maxwell Carlson <carlsonamax@… | 26.8 kB | Small reusable local ASGI and static browser service for application-owned view… |
+| 2026-11-27 07:24:13 | [judgemeter](https://pypi.org/project/judgemeter/) | 0.1.0 | Aman Singh Rajpoot | 30.5 kB | Measure how far an LLM judge can be trusted: human agreement, position bias and… |
+| 2026-11-27 07:25:34 | [structa-maestro](https://pypi.org/project/structa-maestro/) | 0.2.0 | structa-maestro contributors | 298.2 kB | Structured data extraction engine transforming unstructured documents into vali… |
+| 2026-11-27 07:27:19 | [tool-samudis514-samudra-crypto-954vgmen](https://pypi.org/project/tool-samudis514-samudra-crypto-954vgmen/) | 0.1.3 |  | 13.2 kB | Executa for the samudra-crypto Anna App |
+| 2026-11-27 07:32:17 | [miniworlds-data](https://pypi.org/project/miniworlds-data/) | 0.1.0 | Andreas Siebel | 36.6 kB | Data structure visualization worlds for miniworlds |
+| 2026-11-27 07:32:20 | [mcp-server-gaussdb-data](https://pypi.org/project/mcp-server-gaussdb-data/) | 0.1.0 |  | 38.2 kB | MCP Server for Huawei Cloud GaussDB (data plane: in-database SQL for AI clients) |
+| 2026-11-27 07:32:31 | [mystring-tools-2131030295](https://pypi.org/project/mystring-tools-2131030295/) | 0.1.0 | 你的名字 <你的邮箱@example.com> | 5.2 kB | 一个简单的Python字符串处理工具包 |
+| 2026-11-27 07:35:05 | [mymathkit](https://pypi.org/project/mymathkit/) | 0.1.0 |  | 6.5 kB | 一个简单的数学工具包：四则运算与常用单位换算 |
+| 2026-11-27 07:38:17 | [flowdeck](https://pypi.org/project/flowdeck/) | 0.2.1 | zyxc <1426094384@qq.com> | 2.4 MB | APScheduler 的现代化前台：FastAPI + Vue3，plombery 的完美替代（兼容其 Python API） |
+| 2026-11-27 07:38:18 | [zscaler-dp-mcp](https://pypi.org/project/zscaler-dp-mcp/) | 0.2.0 | Sarthak Jain | 242.8 kB | Unofficial MCP server for Zscaler Data Protection (ZIA DLP + Workflow Automatio… |
+| 2026-11-27 07:39:24 | [driftcatch](https://pypi.org/project/driftcatch/) | 0.1.0 | Neel Deshmane | 334.8 kB | Catch the moment your AI agent's behaviour changes. |
+| 2026-11-27 07:40:17 | [chad-pii](https://pypi.org/project/chad-pii/) | 0.1.0 | Michael Chad Tollison | 19.1 kB | Find and redact personal data (names, emails, phones, SSNs, cards, IPs, passpor… |
+| 2026-11-27 07:46:08 | [compias](https://pypi.org/project/compias/) | 0.1.1 | Imanol Elizondo | 66.5 kB | Python simplificado que se traduce a ensamblador de PIC18 (PIC18F4550). |
+| 2026-11-27 07:50:05 | [china-sourcing-sdk](https://pypi.org/project/china-sourcing-sdk/) | 1.0.0 | JiStudio <dev@jistudio.dev> | 10.0 kB | Zero-dependency bilingual (EN/ZH) Python SDK for 1688 wholesale, Goofish (Xiany… |
+| 2026-11-27 07:50:07 | [jistudio-youtube-transcript](https://pypi.org/project/jistudio-youtube-transcript/) | 1.0.0 | JiStudio <dev@jistudio.dev> | 8.9 kB | Zero-dependency Python SDK for cloud-IP-safe YouTube transcripts, SRT subtitles… |
+| 2026-11-27 07:50:10 | [shopee-global-api](https://pypi.org/project/shopee-global-api/) | 1.0.0 | JiStudio <dev@jistudio.dev> | 11.9 kB | Zero-dependency Python SDK for Shopee Global 8-Market API (exact unrounded sold… |
+| 2026-11-27 07:50:13 | [skyscanner-flights-sdk](https://pypi.org/project/skyscanner-flights-sdk/) | 1.0.0 | JiStudio <dev@jistudio.dev> | 9.3 kB | Zero-dependency Python SDK for live multi-airline Skyscanner flight search, cab… |
+| 2026-11-27 07:51:32 | [strhelper-demo-202613093073](https://pypi.org/project/strhelper-demo-202613093073/) | 0.1.0 | 王挺 | 10.5 kB | 一个轻量的字符处理工具包：清洗、统计、回文判断、凯撒加密 |
+| 2026-11-27 07:54:20 | [docx-to-pdf-converter](https://pypi.org/project/docx-to-pdf-converter/) | 0.1.1 | Rahul Khairnar | 9.0 MB | Convert Word documents (.docx) to PDF in pure Python: no Word, LibreOffice or o… |
+| 2026-11-27 07:56:02 | [txtkit](https://pypi.org/project/txtkit/) | 0.1.0 | reverend114 <reverend114@exam… | 12.3 kB | 轻量中文文本处理小工具：字符统计、词频、清洗、按显示宽度截断 |
+| 2026-11-27 07:57:48 | [mytextkit-2131030295](https://pypi.org/project/mytextkit-2131030295/) | 0.0.0 |  | 5.4 kB |  |
+| 2026-11-27 07:57:58 | [moxi-connector](https://pypi.org/project/moxi-connector/) | 0.0.0 |  | 3.1 kB | Placeholder for moxi-connector, part of Moxi. Not released yet: install a later… |
+| 2026-11-27 07:58:00 | [moxi-dev](https://pypi.org/project/moxi-dev/) | 0.0.0 |  | 3.0 kB | Placeholder for moxi-dev, part of Moxi. Not released yet: install a later versi… |
+| 2026-11-27 07:58:01 | [moxi-launcher](https://pypi.org/project/moxi-launcher/) | 0.0.0 |  | 3.1 kB | Placeholder for moxi-launcher, part of Moxi. Not released yet: install a later… |
+| 2026-11-27 07:58:02 | [moxi-loadout](https://pypi.org/project/moxi-loadout/) | 0.0.0 |  | 3.1 kB | Placeholder for moxi-loadout, part of Moxi. Not released yet: install a later v… |
+| 2026-11-27 07:58:42 | [labelearth-geedim](https://pypi.org/project/labelearth-geedim/) | 2.0.1 | The Geedim Contributors, Labe… | 134.4 kB | Windowed image downloads for LabelEarth Engine |
+| 2026-11-27 08:00:37 | [watchpost-agent](https://pypi.org/project/watchpost-agent/) | 0.4.1 | Popcornnnnnnnn | 539.4 kB | Headless local background bridge for your coding agent — zero-copy-paste head-s… |
+| 2026-11-27 08:01:40 | [simple-calculator-liuqi](https://pypi.org/project/simple-calculator-liuqi/) | 0.1.0 | liuqi | 10.3 kB | A simple calculator supporting arithmetic, power and modulo |
+| 2026-11-27 08:03:38 | [nexusos-common](https://pypi.org/project/nexusos-common/) | 1.0.0 | NEXUS Contributors | 67.8 kB | nexusos-common — shared anchor resolution for the NEXUS packages (NEXUS_HOME /… |
+| 2026-11-27 08:05:08 | [darwin-collector](https://pypi.org/project/darwin-collector/) | 0.1.0 | Hong | 75.2 kB | Configuration-free data collection library: register adapters, run one collecti… |
+| 2026-11-27 08:07:23 | [parapix](https://pypi.org/project/parapix/) | 0.2.0 |  | 45.6 kB | Is this strategy's edge real, or is it noise? |
+| 2026-11-27 08:07:30 | [pyphyex](https://pypi.org/project/pyphyex/) | 0.9.4 | Quentin Rodier <quentin.rodie… | 1.1 MB | Python binding of the PHYEX atmospheric physics package and 1D model (phyex1d) |
+| 2026-11-27 08:07:53 | [devlab-agent](https://pypi.org/project/devlab-agent/) | 0.2.0 | Yuvaraj Pattabi <yuva.devlab@… | 53.7 kB | Canonical SSE wire protocol, Pydantic event models, and FastAPI streaming helpe… |
+| 2026-11-27 08:09:22 | [mktpack](https://pypi.org/project/mktpack/) | 0.1.0 | myuanz | 9.2 MB | 精确金融时序数据格式与读写库 |
+| 2026-11-27 08:10:25 | [mxc-termdash](https://pypi.org/project/mxc-termdash/) | 0.10.0 | Maxwell Carlson <carlsonamax@… | 104.7 kB | Thread-safe, in-place terminal dashboard with stats, progress bars, and CMake-l… |
+| 2026-11-27 08:11:50 | [tedera-py](https://pypi.org/project/tedera-py/) | 0.1.0 | OLAP Company | 49.0 kB | The official Python SDK for TEDERA. |
+| 2026-11-27 08:12:14 | [adk-libpetri](https://pypi.org/project/adk-libpetri/) | 0.2.0 | Dennis Berger | 650.5 kB | Coloured Time Petri Net orchestration core for Google ADK (Python), built on li… |
+| 2026-11-27 08:12:20 | [3lc-compute-plugin-jupyter](https://pypi.org/project/3lc-compute-plugin-jupyter/) | 0.1.1 |  | 362.8 kB | JupyterLab with the 3LC Python package for the 3LC compute service — on this ma… |
+| 2026-11-27 08:12:27 | [3lc-compute-plugin-aws](https://pypi.org/project/3lc-compute-plugin-aws/) | 0.1.2 |  | 621.1 kB | AWS EC2 infrastructure plugin for the 3LC compute service: disposable GPU nodes. |
+| 2026-11-27 08:12:40 | [rh-pycordis-libero-franka-auto-release](https://pypi.org/project/rh-pycordis-libero-franka-auto-release/) | 0.1.0 | Felix-Zhenghao | 4.2 kB | Recover from a failed grasp: when a close leaves the gripper almost fully close… |
+| 2026-11-27 08:12:42 | [rh-pycordis-libero-franka-sensor-proprio](https://pypi.org/project/rh-pycordis-libero-franka-sensor-proprio/) | 0.1.0 | Felix-Zhenghao | 2.6 kB | Read the franka robot's own state in LIBERO. Provides the sensors `gripper_widt… |
+| 2026-11-27 08:12:44 | [rh-pycordis-libero-franka](https://pypi.org/project/rh-pycordis-libero-franka/) | 0.1.0 | Felix-Zhenghao | 2.9 kB | Drive LIBERO's single-arm Franka Panda through its OSC_POSE controller. Provide… |
+| 2026-11-27 08:12:46 | [rh-pycordis-libero-sensor-cam-external](https://pypi.org/project/rh-pycordis-libero-sensor-cam-external/) | 1.0 | Felix-Zhenghao | 2.9 kB | Capture RGB images of the whole workspace from LIBERO's agentview camera. Provi… |
+| 2026-11-27 08:12:53 | [tripo-cli](https://pypi.org/project/tripo-cli/) | 2026.11.27.1 | Ace Data Cloud <support@aceda… | 9.5 kB | Tripo 3D generation and model tools for the Ace Data Cloud API |
+| 2026-11-27 08:13:00 | [3lc-compute-plugin-machines](https://pypi.org/project/3lc-compute-plugin-machines/) | 0.1.0 |  | 184.3 kB | Run 3LC compute jobs on machines you already own — an SSH-reachable GPU box, or… |
+| 2026-11-27 08:15:04 | [mcp-tripo](https://pypi.org/project/mcp-tripo/) | 2026.11.27.0 | Ace Data Cloud <support@aceda… | 33.9 kB | Generate and edit 3D models and animate characters with Tripo on Ace Data Cloud |
+| 2026-11-27 08:15:28 | [jev-sindhi](https://pypi.org/project/jev-sindhi/) | 0.1.0 | Muhammad Noman, LughaatNLP, D… | 44.6 kB | Sindhi decision-model inference for Jev |
+| 2026-11-27 08:17:04 | [nexusos-gate](https://pypi.org/project/nexusos-gate/) | 1.2.0 | NEXUS Contributors | 272.5 kB | nexusos-gate — NEXUS declarative quality-gate engine (scenario YAML + pluggable… |
+| 2026-11-27 08:18:33 | [nexusos-mem](https://pypi.org/project/nexusos-mem/) | 1.2.0 | NEXUS Contributors | 451.0 kB | nexusos-mem — NEXUS shared knowledge base: hybrid FTS + optional vector retriev… |
+| 2026-11-27 08:20:09 | [3lc-compute-plugin-azure](https://pypi.org/project/3lc-compute-plugin-azure/) | 0.1.1 |  | 300.0 kB | Microsoft Azure infrastructure plugin for the 3LC compute service: disposable G… |
+| 2026-11-27 08:20:11 | [3lc-compute-plugin-rf-detr](https://pypi.org/project/3lc-compute-plugin-rf-detr/) | 0.2.1 |  | 511.3 kB | RF-DETR training plugin for the 3LC compute service (venv-isolated). |
+| 2026-11-27 08:20:11 | [shipping-fee-calc-2026](https://pypi.org/project/shipping-fee-calc-2026/) | 0.1.0 | Experiment 6 Student <student… | 10.1 kB | A zero-dependency shipping fee calculator based on weight, distance, region and… |
+| 2026-11-27 08:20:15 | [3lc-compute-plugin-huggingface](https://pypi.org/project/3lc-compute-plugin-huggingface/) | 0.1.7 |  | 572.5 kB | Browse Hugging Face datasets, import them into 3LC tables, and share 3LC tables… |
+| 2026-11-27 08:20:18 | [simpleplot-lite](https://pypi.org/project/simpleplot-lite/) | 0.1.0 | Your Name <you@example.com> | 10.1 kB | 一个简单的 Python 画图工具包，封装折线图、柱状图和饼图 |

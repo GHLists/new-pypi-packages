@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T07:19:17Z,umbruch,0.5.1,,,207361288,umbruch: an HTML/CSS/MathML/SVG to PDF renderer (the umbruch executable as a Python package)
+2026-11-27T07:20:48Z,xtr-identity,0.1.0rc6,,MIT,39690,Windows-first public OIDC desktop SDK for MCS and XTR
+2026-11-27T07:23:32Z,mxc-web-ui-tools,0.2.0,Maxwell Carlson <carlsonamax@gmail.com>,MIT,26813,Small reusable local ASGI and static browser service for application-owned views.
+2026-11-27T07:24:13Z,judgemeter,0.1.0,Aman Singh Rajpoot,MIT,30474,"Measure how far an LLM judge can be trusted: human agreement, position bias and self-consistency."
+2026-11-27T07:25:34Z,structa-maestro,0.2.0,structa-maestro contributors,"MIT License Copyright (c) 2026 structa-maestro contributors Permission is hereby granted, free of c…",298243,"Structured data extraction engine transforming unstructured documents into validated, traceable canonical records."
+2026-11-27T07:27:19Z,tool-samudis514-samudra-crypto-954vgmen,0.1.3,,,13196,Executa for the samudra-crypto Anna App
+2026-11-27T07:32:17Z,miniworlds-data,0.1.0,Andreas Siebel,,36577,Data structure visualization worlds for miniworlds
+2026-11-27T07:32:20Z,mcp-server-gaussdb-data,0.1.0,,MIT,38170,MCP Server for Huawei Cloud GaussDB (data plane: in-database SQL for AI clients)
+2026-11-27T07:32:31Z,mystring-tools-2131030295,0.1.0,你的名字 <你的邮箱@example.com>,MIT,5168,一个简单的Python字符串处理工具包
+2026-11-27T07:35:05Z,mymathkit,0.1.0,,MIT,6483,一个简单的数学工具包：四则运算与常用单位换算
+2026-11-27T07:38:17Z,flowdeck,0.2.1,zyxc <1426094384@qq.com>,MPL-2.0,2444135,APScheduler 的现代化前台：FastAPI + Vue3，plombery 的完美替代（兼容其 Python API）
+2026-11-27T07:38:18Z,zscaler-dp-mcp,0.2.0,Sarthak Jain,Apache-2.0,242800,Unofficial MCP server for Zscaler Data Protection (ZIA DLP + Workflow Automation). Not affiliated with or supported by Zscaler.
+2026-11-27T07:39:24Z,driftcatch,0.1.0,Neel Deshmane,MIT,334808,Catch the moment your AI agent's behaviour changes.
+2026-11-27T07:40:17Z,chad-pii,0.1.0,Michael Chad Tollison,MIT,19126,"Find and redact personal data (names, emails, phones, SSNs, cards, IPs, passports, driver's licenses, API keys, IBANs) with a fine-tuned DistilBERT model plus checksum rules."
+2026-11-27T07:46:08Z,compias,0.1.1,Imanol Elizondo,MIT,66550,Python simplificado que se traduce a ensamblador de PIC18 (PIC18F4550).
+2026-11-27T07:50:05Z,china-sourcing-sdk,1.0.0,JiStudio <dev@jistudio.dev>,MIT,10030,"Zero-dependency bilingual (EN/ZH) Python SDK for 1688 wholesale, Goofish (Xianyu), AliExpress & Lazada sourcing via Apify."
+2026-11-27T07:50:07Z,jistudio-youtube-transcript,1.0.0,JiStudio <dev@jistudio.dev>,MIT,8918,"Zero-dependency Python SDK for cloud-IP-safe YouTube transcripts, SRT subtitles, Top-5 Most-Replayed viral heatmap peaks & MP4/M4A downloads."
+2026-11-27T07:50:10Z,shopee-global-api,1.0.0,JiStudio <dev@jistudio.dev>,MIT,11875,"Zero-dependency Python SDK for Shopee Global 8-Market API (exact unrounded sold counts, Live bags, batch 20 SKUs & affiliate)."
+2026-11-27T07:50:13Z,skyscanner-flights-sdk,1.0.0,JiStudio <dev@jistudio.dev>,MIT,9251,"Zero-dependency Python SDK for live multi-airline Skyscanner flight search, cabin classes & fare monitoring via Apify."
+2026-11-27T07:51:32Z,strhelper-demo-202613093073,0.1.0,王挺,MIT,10459,一个轻量的字符处理工具包：清洗、统计、回文判断、凯撒加密
+2026-11-27T07:54:20Z,docx-to-pdf-converter,0.1.1,Rahul Khairnar,MIT,9037147,"Convert Word documents (.docx) to PDF in pure Python: no Word, LibreOffice or other program needed."
+2026-11-27T07:56:02Z,txtkit,0.1.0,reverend114 <reverend114@example.com>,MIT,12320,轻量中文文本处理小工具：字符统计、词频、清洗、按显示宽度截断
+2026-11-27T07:57:48Z,mytextkit-2131030295,0.0.0,,,5390,
+2026-11-27T07:57:58Z,moxi-connector,0.0.0,,MIT,3102,"Placeholder for moxi-connector, part of Moxi. Not released yet: install a later version."
+2026-11-27T07:58:00Z,moxi-dev,0.0.0,,MIT,3039,"Placeholder for moxi-dev, part of Moxi. Not released yet: install a later version."
+2026-11-27T07:58:01Z,moxi-launcher,0.0.0,,MIT,3093,"Placeholder for moxi-launcher, part of Moxi. Not released yet: install a later version."
+2026-11-27T07:58:02Z,moxi-loadout,0.0.0,,MIT,3081,"Placeholder for moxi-loadout, part of Moxi. Not released yet: install a later version."
+2026-11-27T07:58:42Z,labelearth-geedim,2.0.1,"The Geedim Contributors, LabelEarth maintainers",Apache-2.0,134443,Windowed image downloads for LabelEarth Engine
+2026-11-27T08:00:37Z,watchpost-agent,0.4.1,Popcornnnnnnnn,Apache-2.0,539372,Headless local background bridge for your coding agent — zero-copy-paste head-starts delivered to your phone
+2026-11-27T08:01:40Z,simple-calculator-liuqi,0.1.0,liuqi,"MIT License Copyright (c) 2026 liuqi Permission is hereby granted, free of charge, to any person ob…",10324,"A simple calculator supporting arithmetic, power and modulo"
+2026-11-27T08:03:38Z,nexusos-common,1.0.0,NEXUS Contributors,MIT,67804,nexusos-common — shared anchor resolution for the NEXUS packages (NEXUS_HOME / vault_root / task_root / subpath / expand_env) plus a private-path lint scanner
+2026-11-27T08:05:08Z,darwin-collector,0.1.0,Hong,MIT,75245,"Configuration-free data collection library: register adapters, run one collection task, return a result"
+2026-11-27T08:07:23Z,parapix,0.2.0,,,45608,"Is this strategy's edge real, or is it noise?"
+2026-11-27T08:07:30Z,pyphyex,0.9.4,"Quentin Rodier <quentin.rodier@meteo.fr>, Sébastien Riette <sebastien.riette@meteo.fr>",CeCILL-C FREE SOFTWARE LICENSE AGREEMENT Notice This Agreement is a Free Software license agreement…,1123278,Python binding of the PHYEX atmospheric physics package and 1D model (phyex1d)
+2026-11-27T08:07:53Z,devlab-agent,0.2.0,Yuvaraj Pattabi <yuva.devlab@gmail.com>,,53729,"Canonical SSE wire protocol, Pydantic event models, and FastAPI streaming helpers for DevLab AI agents"
+2026-11-27T08:09:22Z,mktpack,0.1.0,myuanz,MIT,9238897,精确金融时序数据格式与读写库
+2026-11-27T08:10:25Z,mxc-termdash,0.10.0,Maxwell Carlson <carlsonamax@gmail.com>,MIT,104724,"Thread-safe, in-place terminal dashboard with stats, progress bars, and CMake-like build output."
+2026-11-27T08:11:50Z,tedera-py,0.1.0,OLAP Company,LicenseRef-TEDERA-Restricted-Use,49042,The official Python SDK for TEDERA.
+2026-11-27T08:12:14Z,adk-libpetri,0.2.0,Dennis Berger,Apache-2.0,650478,"Coloured Time Petri Net orchestration core for Google ADK (Python), built on libpetri"
+2026-11-27T08:12:20Z,3lc-compute-plugin-jupyter,0.1.1,,Apache-2.0,362845,JupyterLab with the 3LC Python package for the 3LC compute service — on this machine or a GPU node.
+2026-11-27T08:12:27Z,3lc-compute-plugin-aws,0.1.2,,Apache-2.0,621123,AWS EC2 infrastructure plugin for the 3LC compute service: disposable GPU nodes.
+2026-11-27T08:12:40Z,rh-pycordis-libero-franka-auto-release,0.1.0,Felix-Zhenghao,MIT,4188,"Recover from a failed grasp: when a close leaves the gripper almost fully closed and a model, judging from the action's rationale, says the close was meant to grasp, reopen it automatically and tell…"
+2026-11-27T08:12:42Z,rh-pycordis-libero-franka-sensor-proprio,0.1.0,Felix-Zhenghao,MIT,2636,Read the franka robot's own state in LIBERO. Provides the sensors `gripper_width` and `eef_pose`.
+2026-11-27T08:12:44Z,rh-pycordis-libero-franka,0.1.0,Felix-Zhenghao,MIT,2940,"Drive LIBERO's single-arm Franka Panda through its OSC_POSE controller. Provides the actor `franka`, which executes an action command over a given number of environment steps."
+2026-11-27T08:12:46Z,rh-pycordis-libero-sensor-cam-external,1.0,Felix-Zhenghao,MIT,2850,Capture RGB images of the whole workspace from LIBERO's agentview camera. Provides the sensor `external_scene_view` and its one-line description for the system prompt.
+2026-11-27T08:12:53Z,tripo-cli,2026.11.27.1,Ace Data Cloud <support@acedata.cloud>,MIT,9497,Tripo 3D generation and model tools for the Ace Data Cloud API
+2026-11-27T08:13:00Z,3lc-compute-plugin-machines,0.1.0,,Apache-2.0,184269,"Run 3LC compute jobs on machines you already own — an SSH-reachable GPU box, or this one (infrastructure kind)."
+2026-11-27T08:15:04Z,mcp-tripo,2026.11.27.0,Ace Data Cloud <support@acedata.cloud>,MIT,33911,Generate and edit 3D models and animate characters with Tripo on Ace Data Cloud
+2026-11-27T08:15:28Z,jev-sindhi,0.1.0,"Muhammad Noman, LughaatNLP, Danish Mahdi",Apache-2.0,44632,Sindhi decision-model inference for Jev
+2026-11-27T08:17:04Z,nexusos-gate,1.2.0,NEXUS Contributors,MIT,272501,nexusos-gate — NEXUS declarative quality-gate engine (scenario YAML + pluggable check pool)
+2026-11-27T08:18:33Z,nexusos-mem,1.2.0,NEXUS Contributors,MIT,451001,nexusos-mem — NEXUS shared knowledge base: hybrid FTS + optional vector retrieval and scoring over PostgreSQL
+2026-11-27T08:20:09Z,3lc-compute-plugin-azure,0.1.1,,Apache-2.0,299999,Microsoft Azure infrastructure plugin for the 3LC compute service: disposable GPU virtual machines and Blob containers as storage.
+2026-11-27T08:20:11Z,3lc-compute-plugin-rf-detr,0.2.1,,Apache-2.0,511252,RF-DETR training plugin for the 3LC compute service (venv-isolated).
+2026-11-27T08:20:11Z,shipping-fee-calc-2026,0.1.0,Experiment 6 Student <student@example.com>,MIT,10058,"A zero-dependency shipping fee calculator based on weight, distance, region and urgency"
+2026-11-27T08:20:15Z,3lc-compute-plugin-huggingface,0.1.7,,Apache-2.0,572507,"Browse Hugging Face datasets, import them into 3LC tables, and share 3LC tables back as Hugging Face datasets."
+2026-11-27T08:20:18Z,simpleplot-lite,0.1.0,Your Name <you@example.com>,MIT,10102,一个简单的 Python 画图工具包，封装折线图、柱状图和饼图
