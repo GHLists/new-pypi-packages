@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T04:27:00Z,faiss-defuse,0.1.1,,MIT,550725,"Inspect, convert and load LangChain FAISS stores without executing pickle: static scan, pickle-free format, flag-free loader."
+2026-11-28T04:27:12Z,openai-poc-proof-abhishekthakur,0.0.1,Abhishek Thakur,,2838,Simple PoC package
+2026-11-28T04:28:02Z,masklens,0.1.4,LeeGyeongPil,MIT,855634,"Preflight check for SFT loss masks: verify which tokens a chat template, tokenizer and labels will actually train on, before you spend GPU time."
+2026-11-28T04:29:03Z,embedstamp,0.1.4,LeeGyeongPil,MIT,110963,"Stamp a vector index with its embedding model's fingerprint, detect silent model swaps at query time, and re-embed safely."
+2026-11-28T04:30:10Z,lightrag-dedupe,0.1.1,LeeGyeongPil,MIT,117447,"Deterministic, reviewable duplicate-entity merge plans for LightRAG knowledge graphs (unofficial tool)."
+2026-11-28T04:31:15Z,uvcyber-poc,0.0.2,Abhishek Thakur,,2625,Simple PoC package
+2026-11-28T04:32:33Z,mpl-depth-style,0.6.1,,,8779746,Scientific 3D plotting with VTK and native Matplotlib axes
+2026-11-28T04:34:26Z,darwin-merger,0.1.1,,MIT,40390,Business-free engine that merges cleaned DataFrames into one trustworthy dataset with confidence and audit report
+2026-11-28T04:34:46Z,maggie,0.2.0,Ben Whewell,MIT,106482,Mesh-Agnostic Graphics for Group-wise Iteration and Evolution
+2026-11-28T04:35:44Z,yellow-belt-imaging,0.1.1,Tim Molteno <tim@elec.ac.nz>,MIT,34125,A textual TUI for driving the full_containerized meerkat-pipeline image under apptainer/singularity (the APPTAINER.md flow)
+2026-11-28T04:53:39Z,hansu,0.3.0,Zhi & Heng,MIT,82268,A structural image codec (HS2) with topology signatures and an image-similarity index
+2026-11-28T04:57:42Z,echidnae-json,0.1.1,ellainng,MIT,11289,"JSON parsing, serialization and JavaScript-style object traversal"
+2026-11-28T04:57:45Z,flipper-mcp-jamiew,0.7.3,,MIT,79952,"MCP server for driving a Flipper Zero over USB-CDC serial, with a bundled RF/IR protocol registry."
+2026-11-28T04:57:56Z,cmipget,0.1.0,Jie Ren <renjie22@mails.ucas.ac.cn>,MIT,188164,"Agent-ready CMIP7 & CMIP6 data downloader (Python SDK, CLI, MCP server, and Agent Skill)"
+2026-11-28T04:58:13Z,digitakt-digitone-mcp,0.6.0,Jamie Dubs,MIT,151595,MCP servers for controlling Elektron Digitakt and Digitone over MIDI
+2026-11-28T04:58:19Z,echidnae-fetch,0.2.1,ellainng,MIT,27385,JavaScript-style Fetch and Promise APIs for Python
+2026-11-28T04:59:06Z,echidnae-javascript,0.3.0,ellainng,MIT,175816,JavaScript-style Python values and a bounded Python-to-JavaScript compiler
+2026-11-28T04:59:43Z,echidnae-python,0.3.0,ellainng,MIT,62290,Verified offline Python application assembly and runtime interfaces
+2026-11-28T05:00:25Z,echidnae,0.1.0,ellainng,MIT,4210,Independent language implementations and interoperability
+2026-11-28T05:00:55Z,dex-connector-vercel,0.1.0,,MIT,87303,Vercel connector for Dex Flows
+2026-11-28T05:01:07Z,dixi-tower,0.1.0,Dixi Project,MIT,142432,"Local control tower for coding agents: launch, watch and steer Claude Code and Codex sessions from one web panel."
+2026-11-28T05:02:00Z,xenolocus,1.0.0,Runtime-Slayers & XenoLocus Research Consortium,MIT,236884,"Real-Time Translational Medicine, Clinical Biophysics & Under-Tooled Quantitative Biology Python SDK — Cortical Spreading Depolarization, Microvascular CTH/Glycocalyx, Baroreflex/HRT, Viscoelastic TE…"
+2026-11-28T05:02:27Z,incident-agent,0.1.1,,MIT,99108,"Watches payflow-engine and agentic-rag, and investigates their incidents with a read-only Strands agent."
+2026-11-28T05:03:29Z,elidia-ai-evidentia,0.1.0,Elidia / AiUtils,,158577,Elidia AI Evidentia — Hermes-driven all-in-one digital forensics desktop application
+2026-11-28T05:03:37Z,emotion-nurse-nearby,1.0.0,emotion-nurse-nearby,MIT,35345,基于 ACPs-SDK 的精神科出院情绪随访双智能体：EmotionFollowUpAgent 定期随访情绪/睡眠/服药，发现持续恶化自动通过 AIP RPC 转诊 FollowUpNurseAgent 提醒复诊
+2026-11-28T05:06:33Z,megadata-rs,0.3.0,hoare211,,8895098,The Ultimate LLM Data Pipeline Engine
+2026-11-28T05:07:19Z,symplast,0.0.1,,,2396,Symplast: Globally Consistent System Knowledge Graph (package reservation)
+2026-11-28T05:07:47Z,crabxl-bindings,0.6.0,,MIT,387827509,Native Rust module shared by crabxl and crabxl-openpyxl. Install crabxl or crabxl-openpyxl instead.
+2026-11-28T05:09:45Z,crabxl-openpyxl,0.6.0,,MIT,477948,"Drop-in openpyxl replacement with a Rust core: run openpyxl code unchanged to read, write and edit Excel .xlsx files faster, in less memory."
+2026-11-28T05:10:53Z,kubegate,0.1.0,Frane Bandov <frane.bandov@gmail.com>,Apache-2.0,35794,"Control Key Automation KUBE gate modules (AVO, Easy, Key Automation, Levada) over BLE and cloud."
+2026-11-28T05:12:15Z,browser-director,0.3.0,Abhinav Nigam <abhinav.nigam86@gmail.com>,MIT,165452,The browser MCP server that operates a site and directs a narrated demo of it
+2026-11-28T05:13:01Z,calendaring-sync,0.1.0,Sashank Bhamidi,AGPL-3.0-or-later,462501,"Calendar sync state: sync tokens, object versions, change tracking, and conflict detection"
+2026-11-28T05:15:41Z,assertion-ledger,0.0.1,,Apache-2.0,2688,Decides which business fact an AI agent should trust when sources conflict. Pre-alpha placeholder.
+2026-11-28T05:16:07Z,aportee,0.1.0,,MIT,43483,"Python client and command-line tool for the à portée access API for Canada: walking, cycling and transit."
+2026-11-28T05:18:14Z,kepos,0.0.1,,,2396,"Kepos: Codebase Anti-Entropy, Structural Ratchets, and Friction Scanner (package reservation)"
