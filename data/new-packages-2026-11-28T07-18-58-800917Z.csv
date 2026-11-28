@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T06:19:57Z,notedcar-copart-api,0.1.0,,MIT,10977,"Copart API and IAAI API client: live lots, photos, current bids and sale history with final bids, through the NotedCar catalogue API."
+2026-11-28T06:23:09Z,acroformer,1.1.1,Fury Oktria Putra,MIT,25227,"Turn flat PDF forms into fillable AcroForms, with every field named after its printed label."
+2026-11-28T06:24:29Z,nbloom,0.0.2,,,15147,
+2026-11-28T06:26:10Z,rusticai-unidb,0.1.0,Dragonscale Industries Inc.,Apache-2.0,46587,Typed Uni-DB database capabilities for Rustic AI
+2026-11-28T06:26:30Z,burst-surveyor,0.4.0,Ari Polterovich,MIT,163368,Automated morphology fitting of radio bursts and folded pulsar profiles
+2026-11-28T06:27:17Z,llama-index-tools-helmswap,0.1.0,HelmSwap <support@helmswap.com>,MIT,11778,llama-index tools helmswap integration: swap quotes and unsigned swap transactions (non-custodial)
+2026-11-28T06:29:15Z,datasette-charts-pie,0.1a0,Datasette,Apache-2.0,82156,"Pie, donut, sunburst and rose charts for datasette-charts"
+2026-11-28T06:33:37Z,usemo,0.1.1,UseMo <support@usemo.com>,MIT,17907,Minimal zero-dependency Python client and CLI for the UseMo AI creative API.
+2026-11-28T06:37:28Z,grokmap-mcp,0.3.1,K. L. Aadithya,MIT,3235,"MCP server for grokmap: lets coding agents see which AI-written code nobody on the team understands, and quiz you on it."
+2026-11-28T06:39:33Z,ectype-mcp,0.1.0,ZeroPoint Holdings LLC,Apache-2.0,290429,"An MCP server for Ectype: realistic, checkable synthetic tables for AI agents, made locally."
+2026-11-28T06:43:58Z,nova-book,0.1.0,eagleye-china <zdt168@sina.cn>,MIT,9279,"A stunning, GPU-accelerated desktop application for PySide6."
+2026-11-28T06:46:52Z,rfmkit,0.1.0,Rsquared Academy <aravindhebbali@rsquaredacademy.com>,MIT,1815525,"Recency, frequency and monetary (RFM) analysis in pure pandas and matplotlib."
+2026-11-28T06:51:37Z,matrix-ops-calc,0.1.0,,,8150,矩阵初等行变换、矩阵乘法与行最简形计算器
+2026-11-28T06:57:28Z,pyropdf-layout-models,0.1.0,Yusuke Hayashi <yusuke8h@gmail.com>,Apache-2.0,48463820,PP-DocLayout_plus-L INT8 RTen model for pyropdf's optional offline layout detector
+2026-11-28T06:58:59Z,fvc3d,0.1.1,Laura N. Sotomayor,MIT,66789,Transfer 2D vegetation growth-form labels into georeferenced 3D UAS LiDAR point clouds.
+2026-11-28T07:00:57Z,chronodux,0.1.0,"Samriddha Maity <sam.maity4411@gmail.com>, SamWorks Studios <contact@samworks.cyberdeep.qzz.io>, Cy…",LicenseRef-UOSL-1.0,25892,A lightweight Python thread and code execution service manager.
+2026-11-28T07:04:09Z,network-validators,0.1.0rc1,,MIT,26310,"Validators for IP addresses, subnets, ranges, hostnames, ports and MAC addresses, with stable error codes."
+2026-11-28T07:08:09Z,krouter-memory,2.2.1,KRouter contributors,MIT,1263938,"Your AI remembers what you decided, and what you changed your mind about: plain-Markdown memory for any MCP app."
+2026-11-28T07:10:22Z,fast-sddp,0.1.0,,MIT,78236158,SDDP on scenario lattices with a warm-started Clp core
+2026-11-28T07:13:14Z,usmp-protocol,0.1.0,starLORD03,MIT,402571,Universal Service Migration Protocol: move your data between services and platforms without losing it.
+2026-11-28T07:16:20Z,nirmala,0.1.0,Parth Khandelwal,Apache-2.0,95686,"Grounded, verifiable document extraction: PDFs in, typed Pydantic models and an auditable verdict out."
+2026-11-28T07:16:56Z,flagpact,0.1.1,Nithinaug,MIT,629141,Check a Flagsmith config change against every app version before you publish it
+2026-11-28T07:18:23Z,unifyxl,0.1.0,skrtk98,MIT,92782,"One API for xlsx (openpyxl) and xls (xlrd + xlwt), including cell formatting and merged cells"

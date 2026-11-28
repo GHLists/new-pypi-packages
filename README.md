@@ -8,35 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 06:19 UTC
+## Latest list — 2026-11-28 07:18 UTC
 
-New packages created between 2026-11-28 05:19 UTC and 2026-11-28 06:19 UTC.
+New packages created between 2026-11-28 06:19 UTC and 2026-11-28 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-28T06-19-02-113732Z.csv)
+[Full CSV](data/new-packages-2026-11-28T07-18-58-800917Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-28 05:21:07 | [wormbench](https://pypi.org/project/wormbench/) | 1.0.1 | Chris Julian Zaharia | 2.7 MB | Grade simulated or real C. elegans tracks against real-worm behaviour |
-| 2026-11-28 05:23:36 | [railtracks-toolevo](https://pypi.org/project/railtracks-toolevo/) | 0.1.0 | Guan Zheng Huang | 27.9 kB | Tool descriptions that evolve from an agent's own failed calls: a drop-in middl… |
-| 2026-11-28 05:26:28 | [touchmusic](https://pypi.org/project/touchmusic/) | 0.2.0 | Mark Varkevisser | 142.8 kB | Gesture-controlled live vocals, character voices, and beat-synced looping |
-| 2026-11-28 05:33:21 | [site-paths](https://pypi.org/project/site-paths/) | 0.1.0 |  | 44.4 kB | Stop a site from telling strangers which private routes exist: a wall for ASGI,… |
-| 2026-11-28 05:34:33 | [tensorplot-rs](https://pypi.org/project/tensorplot-rs/) | 0.1.0 | Recep Kaan Karaman <kaanrkara… | 12.2 MB | Neural network architecture diagrams for papers — CNNs to LLMs (TikZ, SVG, PNG,… |
-| 2026-11-28 05:39:54 | [llms-free](https://pypi.org/project/llms-free/) | 1.0.0 | llms.free | 9.1 kB | Zero-dependency Python client and CLI for daily-verified Free LLM APIs, live up… |
-| 2026-11-28 05:44:52 | [hookbrake](https://pypi.org/project/hookbrake/) | 0.1.0 | Aprameya Acharya | 60.1 kB | Runtime circuit-breaker, PostToolUse secret vault, output compactor, and sessio… |
-| 2026-11-28 05:46:25 | [mathshuttle](https://pypi.org/project/mathshuttle/) | 0.8.0 |  | 537.1 kB | Move equations between LaTeX and Word / PowerPoint, both ways, offline (texmath… |
-| 2026-11-28 05:46:56 | [openredirex](https://pypi.org/project/openredirex/) | 0.0.0 | placeholder (name-squat prote… | 3.8 kB | Name-protection placeholder. NOT the tool. Real OpenRedirex: https://github.com… |
-| 2026-11-28 05:47:29 | [corsy](https://pypi.org/project/corsy/) | 0.0.0 | placeholder (name-squat prote… | 3.7 kB | Name-protection placeholder. NOT the tool. Real Corsy: https://github.com/s0md3… |
-| 2026-11-28 05:52:20 | [aether-agent-framework](https://pypi.org/project/aether-agent-framework/) | 1.3.0 | Atikur Rahman | 105.4 kB | Free autonomous agent framework: plan-act-observe loop, 20 built-in tools, mult… |
-| 2026-11-28 05:53:43 | [bbpe-tokenizer](https://pypi.org/project/bbpe-tokenizer/) | 0.5.4 | bbpe_rs contributors | 136.9 MB | A high-performance byte-level BPE tokenizer with a Rust core and Python wrapper. |
-| 2026-11-28 05:56:06 | [msftrecon](https://pypi.org/project/msftrecon/) | 0.0.0 | placeholder (name-squat prote… | 3.8 kB | Name-protection placeholder. NOT the tool. Real MSFTRecon: https://github.com/A… |
-| 2026-11-28 05:56:39 | [o365spray](https://pypi.org/project/o365spray/) | 0.0.0 | placeholder (name-squat prote… | 3.8 kB | Name-protection placeholder. NOT the tool. Real o365spray: https://github.com/0… |
-| 2026-11-28 05:57:46 | [fortell-rules](https://pypi.org/project/fortell-rules/) | 0.1.0 |  | 46.0 kB | Score a strategy against Fortell's Evaluation rules before paying (Harness Blue… |
-| 2026-11-28 06:00:44 | [mcp-guard-gateway](https://pypi.org/project/mcp-guard-gateway/) | 0.2.0 | Hardik Bahri | 86.4 kB | Inline security gateway for AI agents and MCP tool servers: RBAC, prompt-inject… |
-| 2026-11-28 06:03:24 | [zero-context](https://pypi.org/project/zero-context/) | 0.2.1 | ujjwalkat07 <ukcode07@gmail.c… | 59.0 kB | Lightweight Python SDK for the Zero-Context memory engine API |
-| 2026-11-28 06:06:00 | [swb.one](https://pypi.org/project/swb.one/) | 1.0.0 |  | 4.5 MB | First-party agents working together. |
-| 2026-11-28 06:06:11 | [dimage5400](https://pypi.org/project/dimage5400/) | 0.1.0 | verysimples <verysimples@prot… | 98.5 kB | Driver for the Konica Minolta DiMAGE Scan Elite 5400 and 5400 II film scanners |
-| 2026-11-28 06:09:30 | [privacy-gateway](https://pypi.org/project/privacy-gateway/) | 0.2.0 | Michael Jung | 657.4 kB | Offline pseudonymization gateway between documents and external LLMs |
-| 2026-11-28 06:12:49 | [japan-holidays](https://pypi.org/project/japan-holidays/) | 1.0.0 | "Tomohiro Kaneda (Kurashina D… | 21.6 kB | Japanese public holidays from the Cabinet Office CSV |
-| 2026-11-28 06:13:34 | [arabickit](https://pypi.org/project/arabickit/) | 0.1.0 | episodely | 7.6 kB | Arabic text cleanup: tashkeel, letter variants, digits. |
-| 2026-11-28 06:15:58 | [bd-lab-1339](https://pypi.org/project/bd-lab-1339/) | 0.1.0 |  | 25.2 kB | Nine ISL75 Big Data Lab exercises for Hadoop, Spark, and Pig |
-| 2026-11-28 06:17:31 | [lanaudio](https://pypi.org/project/lanaudio/) | 1.2.0 | Sanket Jambhulkar | 120.4 kB | Stream your PC's audio, lossless and in sync, to everyone on your LAN. A sassy,… |
+| 2026-11-28 06:19:57 | [notedcar-copart-api](https://pypi.org/project/notedcar-copart-api/) | 0.1.0 |  | 11.0 kB | Copart API and IAAI API client: live lots, photos, current bids and sale histor… |
+| 2026-11-28 06:23:09 | [acroformer](https://pypi.org/project/acroformer/) | 1.1.1 | Fury Oktria Putra | 25.2 kB | Turn flat PDF forms into fillable AcroForms, with every field named after its p… |
+| 2026-11-28 06:24:29 | [nbloom](https://pypi.org/project/nbloom/) | 0.0.2 |  | 15.1 kB |  |
+| 2026-11-28 06:26:10 | [rusticai-unidb](https://pypi.org/project/rusticai-unidb/) | 0.1.0 | Dragonscale Industries Inc. | 46.6 kB | Typed Uni-DB database capabilities for Rustic AI |
+| 2026-11-28 06:26:30 | [burst-surveyor](https://pypi.org/project/burst-surveyor/) | 0.4.0 | Ari Polterovich | 163.4 kB | Automated morphology fitting of radio bursts and folded pulsar profiles |
+| 2026-11-28 06:27:17 | [llama-index-tools-helmswap](https://pypi.org/project/llama-index-tools-helmswap/) | 0.1.0 | HelmSwap <support@helmswap.co… | 11.8 kB | llama-index tools helmswap integration: swap quotes and unsigned swap transacti… |
+| 2026-11-28 06:29:15 | [datasette-charts-pie](https://pypi.org/project/datasette-charts-pie/) | 0.1a0 | Datasette | 82.2 kB | Pie, donut, sunburst and rose charts for datasette-charts |
+| 2026-11-28 06:33:37 | [usemo](https://pypi.org/project/usemo/) | 0.1.1 | UseMo <support@usemo.com> | 17.9 kB | Minimal zero-dependency Python client and CLI for the UseMo AI creative API. |
+| 2026-11-28 06:37:28 | [grokmap-mcp](https://pypi.org/project/grokmap-mcp/) | 0.3.1 | K. L. Aadithya | 3.2 kB | MCP server for grokmap: lets coding agents see which AI-written code nobody on… |
+| 2026-11-28 06:39:33 | [ectype-mcp](https://pypi.org/project/ectype-mcp/) | 0.1.0 | ZeroPoint Holdings LLC | 290.4 kB | An MCP server for Ectype: realistic, checkable synthetic tables for AI agents,… |
+| 2026-11-28 06:43:58 | [nova-book](https://pypi.org/project/nova-book/) | 0.1.0 | eagleye-china <zdt168@sina.cn> | 9.3 kB | A stunning, GPU-accelerated desktop application for PySide6. |
+| 2026-11-28 06:46:52 | [rfmkit](https://pypi.org/project/rfmkit/) | 0.1.0 | Rsquared Academy <aravindhebb… | 1.8 MB | Recency, frequency and monetary (RFM) analysis in pure pandas and matplotlib. |
+| 2026-11-28 06:51:37 | [matrix-ops-calc](https://pypi.org/project/matrix-ops-calc/) | 0.1.0 |  | 8.2 kB | 矩阵初等行变换、矩阵乘法与行最简形计算器 |
+| 2026-11-28 06:57:28 | [pyropdf-layout-models](https://pypi.org/project/pyropdf-layout-models/) | 0.1.0 | Yusuke Hayashi <yusuke8h@gmai… | 48.5 MB | PP-DocLayout_plus-L INT8 RTen model for pyropdf's optional offline layout detec… |
+| 2026-11-28 06:58:59 | [fvc3d](https://pypi.org/project/fvc3d/) | 0.1.1 | Laura N. Sotomayor | 66.8 kB | Transfer 2D vegetation growth-form labels into georeferenced 3D UAS LiDAR point… |
+| 2026-11-28 07:00:57 | [chronodux](https://pypi.org/project/chronodux/) | 0.1.0 | Samriddha Maity <sam.maity441… | 25.9 kB | A lightweight Python thread and code execution service manager. |
+| 2026-11-28 07:04:09 | [network-validators](https://pypi.org/project/network-validators/) | 0.1.0rc1 |  | 26.3 kB | Validators for IP addresses, subnets, ranges, hostnames, ports and MAC addresse… |
+| 2026-11-28 07:08:09 | [krouter-memory](https://pypi.org/project/krouter-memory/) | 2.2.1 | KRouter contributors | 1.3 MB | Your AI remembers what you decided, and what you changed your mind about: plain… |
+| 2026-11-28 07:10:22 | [fast-sddp](https://pypi.org/project/fast-sddp/) | 0.1.0 |  | 78.2 MB | SDDP on scenario lattices with a warm-started Clp core |
+| 2026-11-28 07:13:14 | [usmp-protocol](https://pypi.org/project/usmp-protocol/) | 0.1.0 | starLORD03 | 402.6 kB | Universal Service Migration Protocol: move your data between services and platf… |
+| 2026-11-28 07:16:20 | [nirmala](https://pypi.org/project/nirmala/) | 0.1.0 | Parth Khandelwal | 95.7 kB | Grounded, verifiable document extraction: PDFs in, typed Pydantic models and an… |
+| 2026-11-28 07:16:56 | [flagpact](https://pypi.org/project/flagpact/) | 0.1.1 | Nithinaug | 629.1 kB | Check a Flagsmith config change against every app version before you publish it |
+| 2026-11-28 07:18:23 | [unifyxl](https://pypi.org/project/unifyxl/) | 0.1.0 | skrtk98 | 92.8 kB | One API for xlsx (openpyxl) and xls (xlrd + xlwt), including cell formatting an… |
