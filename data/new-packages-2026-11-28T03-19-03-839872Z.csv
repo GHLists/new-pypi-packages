@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T02:22:15Z,atlas-env,0.1.0,3I Atlas,MIT,18346,CLI + SDK + agent framework for the 3I Atlas Gym
+2026-11-28T02:28:40Z,n3memorycore-free-codex,1.9.2,N3MemoryCore contributors,Apache-2.0,306205,Persistent hybrid-search memory store for Codex (Free Edition)
+2026-11-28T02:34:16Z,prettyopenapi,0.1.0,laconal,Apache-2.0,1175621,"A clean API documentation page for FastAPI: docs, code samples in cURL / Python / Node.js / Go and a Try it form, built from your OpenAPI document."
+2026-11-28T02:35:39Z,telegram-exec-notifier,0.2.1,,,42744,"Run Claude, Codex and Kiro from Telegram and get execution notifications"
+2026-11-28T02:39:53Z,oscura-atti,0.1.1,Francesco R <424577+francescor@users.noreply.github.com>,AGPL-3.0-or-later,183622,"Redact personal data (PII) in public-sector documents with consistent labels (Person 1, Person 2...) instead of black boxes. Local and rule-based: CLI, library and MCP server."
+2026-11-28T02:40:43Z,gvar-toolbox,0.1.0,,,1873773,"Global VAR toolbox, ported from Pesaran's GVAR Toolbox 2.0 (MATLAB)"
+2026-11-28T02:42:42Z,hatchmark,0.0.0,,Apache-2.0,1776,Hatchmark: an agent-first dashboard compiler. Placeholder release; the first real version is coming soon.
+2026-11-28T02:42:56Z,cxlib,0.18.0rc1,,Apache-2.0,15881347,"CX format library — parse, stream, and convert CX/XML/JSON/YAML/TOML"
+2026-11-28T02:44:17Z,py-tjbrhk-sdk,1.0.1,guolei <174000902@qq.com>,,28329,TJBRHK Speaker Python SDK - 同步接口调用
+2026-11-28T02:46:47Z,kaizige-utils,0.1.0,,,3203,一个提供加减乘除运算的 Python 工具库，用于学习构建、发布与安装
+2026-11-28T02:49:12Z,sqlbabel,0.0.1,,Apache-2.0,1584,"SQL translation between warehouse dialects, verified. Successor to SQLQuack."
+2026-11-28T02:49:14Z,sqlbabel-cli,0.0.1,,Apache-2.0,1616,Native command-line executable for SQLBabel. Under development.
+2026-11-28T02:49:16Z,sqlferry,0.0.1,,Apache-2.0,1520,Part of SQLStack. Early placeholder.
+2026-11-28T02:49:17Z,sqlferry-cli,0.0.1,,Apache-2.0,1604,Native command-line executable for sqlferry. Under development.
+2026-11-28T02:51:01Z,framelens,0.4.0,Ekberjan Derman <ekberjanderman@gmail.com>,Apache-2.0,52697,FrameLensAI Python SDK - eval and regression testing for video AI
+2026-11-28T02:51:08Z,eptakode,0.0.0,Eptalights Research,Proprietary,3318,Placeholder. The Eptakode SDK is distributed privately to Eptakode members.
+2026-11-28T02:51:09Z,parallel-variable-mcp,0.1.0,Parallel Variable Open Platform <open-platform@parallelvariable.com>,MIT,38011,Official MCP Server for Parallel Variable (平行变量) — Let real digital residents respond to your ideas.
+2026-11-28T02:51:58Z,local-llm-gateway,0.1.2,Yin Kang,MIT,53473,"Local-first OpenAI-compatible LLM gateway: zero dependency, fail-closed, auditable"
+2026-11-28T02:59:45Z,web3-systemic-agent,1.0.2,RafaCoelho33,Apache-2.0,566857,Autonomous Web3 Security and Governance Auditor MCP Server with Two-Stage Hybrid LLM Pipeline and x402 Micropayments
+2026-11-28T03:04:09Z,dwsocket,0.6.0,wuchhao,BSD-3-Clause AND BSD-2-Clause,29171,"WebSocket support for Django, maintained as a fork of dwebsocket."
+2026-11-28T03:09:10Z,trendspull,0.1.0,"""Maxwell A. Konnaris"" <maxwellkonnaris@gmail.com>",MIT,4720383,Collect Google Trends timelines as a tidy pandas DataFrame
+2026-11-28T03:17:15Z,bambu3mf,0.1.0,Gavin Stark,MIT,45922,Python library for creating Bambu Studio 3MF files
