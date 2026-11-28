@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-11-28T08:18:59.624477Z",
-    "path": "data/new-packages-2026-11-28T09-22-06-286696Z.csv",
-    "to": "2026-11-28T09:22:06.286696Z"
+    "count": 24,
+    "from": "2026-11-28T09:22:06.286696Z",
+    "path": "data/new-packages-2026-11-28T10-19-02-77213Z.csv",
+    "to": "2026-11-28T10:19:02.77213Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-28T08:53:42Z",
       "package": "anylink",
       "since": "2026-11-28T08:18:59.624477Z",
@@ -15,20 +15,13 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-28T05:22:13Z",
-      "package": "easyui-material",
-      "since": "2026-11-28T05:19:37.467541Z",
-      "version": "0.1.1"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-28T06:50:19Z",
       "package": "goshikq-ai",
       "since": "2026-11-28T06:19:02.113732Z",
       "version": null
     }
   ],
-  "serial": 44290501,
+  "serial": 44291613,
   "source_truncated": false,
-  "window": "2026-11-28T09:22:06.286696Z"
+  "window": "2026-11-28T10:19:02.77213Z"
 }

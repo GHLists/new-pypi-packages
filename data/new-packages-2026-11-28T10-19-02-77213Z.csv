@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T09:24:01Z,dependencyproof-mcp,0.1.1,Ahmed Saeed,MIT,40795,"Offline verification of explicit dependency, import and configuration claims."
+2026-11-28T09:25:12Z,skillledger,0.1.1,,MIT,29493,"Offline skill frontmatter review, provenance and inventory CLI/MCP"
+2026-11-28T09:25:31Z,testhellos,0.3.0,Adarsh Kumar,MIT,7593,A collection of reusable Python utilities
+2026-11-28T09:27:12Z,sourceatlas-mcp,0.1.0,,MIT,22434,Offline MCP evidence organizer for supplied public-source records
+2026-11-28T09:29:28Z,handoffpilot-mcp,0.2.0,,MIT,36604,"Offline task handoff snapshots, revision history and Markdown"
+2026-11-28T09:31:19Z,loglens-mcp,0.1.0,,MIT,22629,Offline bounded compile and test log summaries
+2026-11-28T09:32:44Z,releasebrief,0.1.0,Ahmed Saeed,MIT,24118,Draft release notes and stable semantic version suggestions from supplied commit subjects.
+2026-11-28T09:43:56Z,certbot-dns-realtimeregister,0.1.3,PJ,Apache-2.0,21803,Realtime Register DNS Authenticator plugin for Certbot
+2026-11-28T09:44:13Z,nomem-ai,0.3.0,Saswat Tulo <tulosaswat@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",142626,"Not Only Memory — a transparent, token-budgeted, LLM-free memory layer for agentic and RAG applications."
+2026-11-28T09:44:25Z,cybertrust-bridge,0.1.0,Signal True,,36702,CyberTrust Bridge — the mail-carrier side of the Wazuh Bridge: receives the Android app's chained posture events inside PRoot/Termux and feeds them to your own Wazuh agent.
+2026-11-28T09:46:22Z,firecrawl-mcp-server,0.1.0,campaign N11,MIT,8814,"Minimal benign MCP stdio server (safe_add helper) that self-identifies the host GPU, used as a Firecrawl-ecosystem MCP carrier."
+2026-11-28T09:47:18Z,campai-api,0.1.0,Stephan Lukasczyk,EUPL-1.2,56624,"Idiomatic, type-safe Python SDK for the Campai REST API."
+2026-11-28T09:53:11Z,temporal-typing,0.2.0,Ju Lin,MIT,18311,"Declare behavioural specifications in Python with typing annotations, using the semantics of TLA+."
+2026-11-28T09:56:12Z,cugraph-equivariant,24.4.0,campaign-n3,MIT,3792,Benign dependency-free stub for an authorized dependency-confusion proof
+2026-11-28T09:57:37Z,traceport-ai,0.0.1,Shineport Innovations Private Limited,Apache-2.0,56767,Official Python SDK for the Traceport API: one shared client and per-product modules.
+2026-11-28T10:00:55Z,dynalite-eeprom,0.1.0,Sam Dunster <me@sdunster.com>,MIT,158913,"Unofficial decoder for the memory of Signify Dynalite DyNet devices: panel buttons, channels, sensors and tasks"
+2026-11-28T10:02:49Z,digiwebscape,0.16.16,"""Hitender Sharma (DigiWebscape)"" <support@digiwebscape.com>",MIT,19735,"Official Python SDK for DigiWebscape Platform (AI Visibility, Telemetry, Webhooks & MCP)"
+2026-11-28T10:02:59Z,voice2voice,0.1.1,,MIT,19582,Synchronous and asynchronous Python SDK for the Voice2Voice Translator API
+2026-11-28T10:04:23Z,cmdop-observations,0.1.0,,MIT,111311,Shared opt-in CMDOP launcher observations with bounded best-effort delivery
+2026-11-28T10:05:24Z,collective.silverpoint,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,GPL-2.0-only,141380,silverpoint charts as Plone content: a Chart type with a Classic UI view.
+2026-11-28T10:05:28Z,candle-torch,0.1.0,,,1857331,PyTorch interfaces backed by Candle
+2026-11-28T10:11:38Z,wiv-air,0.1.2,Wiv,Apache-2.0,27082,Wiv Air agent SDK: send OpenTelemetry traces to Air and check your agent wallet before you spend.
+2026-11-28T10:15:10Z,camsper-astro-tools,0.5.0,"Alireza Molaeinezhad, Nicholas Walton, Marco Riello, Eduardo González Solares, Leigh Smith, Giusepp…",Apache-2.0,7220185,"Open astronomy tools for AI agents and scripts: NASA ADS and arXiv, SIMBAD/NED/VizieR/Gaia and VO archives, and offline coordinate, time, unit, cosmology and observing calculators, as a Python librar…"
+2026-11-28T10:18:31Z,arks-cli,0.1.1,,Apache-2.0 OR MIT,19228835,"arks for Git - native Rust Git-compatible CLI, daemon, forge client, and self-hosted server"
