@@ -8,34 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 07:18 UTC
+## Latest list — 2026-11-28 08:18 UTC
 
-New packages created between 2026-11-28 06:19 UTC and 2026-11-28 07:18 UTC.
+New packages created between 2026-11-28 07:18 UTC and 2026-11-28 08:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-28T07-18-58-800917Z.csv)
+[Full CSV](data/new-packages-2026-11-28T08-18-59-624477Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-28 06:19:57 | [notedcar-copart-api](https://pypi.org/project/notedcar-copart-api/) | 0.1.0 |  | 11.0 kB | Copart API and IAAI API client: live lots, photos, current bids and sale histor… |
-| 2026-11-28 06:23:09 | [acroformer](https://pypi.org/project/acroformer/) | 1.1.1 | Fury Oktria Putra | 25.2 kB | Turn flat PDF forms into fillable AcroForms, with every field named after its p… |
-| 2026-11-28 06:24:29 | [nbloom](https://pypi.org/project/nbloom/) | 0.0.2 |  | 15.1 kB |  |
-| 2026-11-28 06:26:10 | [rusticai-unidb](https://pypi.org/project/rusticai-unidb/) | 0.1.0 | Dragonscale Industries Inc. | 46.6 kB | Typed Uni-DB database capabilities for Rustic AI |
-| 2026-11-28 06:26:30 | [burst-surveyor](https://pypi.org/project/burst-surveyor/) | 0.4.0 | Ari Polterovich | 163.4 kB | Automated morphology fitting of radio bursts and folded pulsar profiles |
-| 2026-11-28 06:27:17 | [llama-index-tools-helmswap](https://pypi.org/project/llama-index-tools-helmswap/) | 0.1.0 | HelmSwap <support@helmswap.co… | 11.8 kB | llama-index tools helmswap integration: swap quotes and unsigned swap transacti… |
-| 2026-11-28 06:29:15 | [datasette-charts-pie](https://pypi.org/project/datasette-charts-pie/) | 0.1a0 | Datasette | 82.2 kB | Pie, donut, sunburst and rose charts for datasette-charts |
-| 2026-11-28 06:33:37 | [usemo](https://pypi.org/project/usemo/) | 0.1.1 | UseMo <support@usemo.com> | 17.9 kB | Minimal zero-dependency Python client and CLI for the UseMo AI creative API. |
-| 2026-11-28 06:37:28 | [grokmap-mcp](https://pypi.org/project/grokmap-mcp/) | 0.3.1 | K. L. Aadithya | 3.2 kB | MCP server for grokmap: lets coding agents see which AI-written code nobody on… |
-| 2026-11-28 06:39:33 | [ectype-mcp](https://pypi.org/project/ectype-mcp/) | 0.1.0 | ZeroPoint Holdings LLC | 290.4 kB | An MCP server for Ectype: realistic, checkable synthetic tables for AI agents,… |
-| 2026-11-28 06:43:58 | [nova-book](https://pypi.org/project/nova-book/) | 0.1.0 | eagleye-china <zdt168@sina.cn> | 9.3 kB | A stunning, GPU-accelerated desktop application for PySide6. |
-| 2026-11-28 06:46:52 | [rfmkit](https://pypi.org/project/rfmkit/) | 0.1.0 | Rsquared Academy <aravindhebb… | 1.8 MB | Recency, frequency and monetary (RFM) analysis in pure pandas and matplotlib. |
-| 2026-11-28 06:51:37 | [matrix-ops-calc](https://pypi.org/project/matrix-ops-calc/) | 0.1.0 |  | 8.2 kB | 矩阵初等行变换、矩阵乘法与行最简形计算器 |
-| 2026-11-28 06:57:28 | [pyropdf-layout-models](https://pypi.org/project/pyropdf-layout-models/) | 0.1.0 | Yusuke Hayashi <yusuke8h@gmai… | 48.5 MB | PP-DocLayout_plus-L INT8 RTen model for pyropdf's optional offline layout detec… |
-| 2026-11-28 06:58:59 | [fvc3d](https://pypi.org/project/fvc3d/) | 0.1.1 | Laura N. Sotomayor | 66.8 kB | Transfer 2D vegetation growth-form labels into georeferenced 3D UAS LiDAR point… |
-| 2026-11-28 07:00:57 | [chronodux](https://pypi.org/project/chronodux/) | 0.1.0 | Samriddha Maity <sam.maity441… | 25.9 kB | A lightweight Python thread and code execution service manager. |
-| 2026-11-28 07:04:09 | [network-validators](https://pypi.org/project/network-validators/) | 0.1.0rc1 |  | 26.3 kB | Validators for IP addresses, subnets, ranges, hostnames, ports and MAC addresse… |
-| 2026-11-28 07:08:09 | [krouter-memory](https://pypi.org/project/krouter-memory/) | 2.2.1 | KRouter contributors | 1.3 MB | Your AI remembers what you decided, and what you changed your mind about: plain… |
-| 2026-11-28 07:10:22 | [fast-sddp](https://pypi.org/project/fast-sddp/) | 0.1.0 |  | 78.2 MB | SDDP on scenario lattices with a warm-started Clp core |
-| 2026-11-28 07:13:14 | [usmp-protocol](https://pypi.org/project/usmp-protocol/) | 0.1.0 | starLORD03 | 402.6 kB | Universal Service Migration Protocol: move your data between services and platf… |
-| 2026-11-28 07:16:20 | [nirmala](https://pypi.org/project/nirmala/) | 0.1.0 | Parth Khandelwal | 95.7 kB | Grounded, verifiable document extraction: PDFs in, typed Pydantic models and an… |
-| 2026-11-28 07:16:56 | [flagpact](https://pypi.org/project/flagpact/) | 0.1.1 | Nithinaug | 629.1 kB | Check a Flagsmith config change against every app version before you publish it |
-| 2026-11-28 07:18:23 | [unifyxl](https://pypi.org/project/unifyxl/) | 0.1.0 | skrtk98 | 92.8 kB | One API for xlsx (openpyxl) and xls (xlrd + xlwt), including cell formatting an… |
+| 2026-11-28 07:14:07 | [VesselFlow](https://pypi.org/project/VesselFlow/) | 0.0.1 | Dhaval Kadia <dhavalkadiamsu@… | 294.6 kB | VesselFlow: In-Silico Vascular Modeling and Flow Simulation |
+| 2026-11-28 07:21:25 | [officectrl-sdk](https://pypi.org/project/officectrl-sdk/) | 0.1.7 | karlmoriaty | 32.7 kB | Thin Python SDK for the officectrl resident pipe — forwards officectrl commands… |
+| 2026-11-28 07:30:37 | [openvireo](https://pypi.org/project/openvireo/) | 1.2.1 | OpenVireo <admin@openvireo.co… | 14.1 MB | Python binding of openvireo-core: OpenVireo accounts, vaults, sync and share li… |
+| 2026-11-28 07:35:44 | [ctk-split-pane](https://pypi.org/project/ctk-split-pane/) | 0.1.0 | Mikael Gois | 18.4 kB | A resizable split-pane widget for CustomTkinter. |
+| 2026-11-28 07:40:52 | [marcarr](https://pypi.org/project/marcarr/) | 0.1.1 |  | 872.4 kB | Know what's in every scene: shots, subtitles, scenes, faces and tags for your P… |
+| 2026-11-28 07:41:18 | [hugpy-downloader](https://pypi.org/project/hugpy-downloader/) | 0.1.0.3 |  | 134.7 kB | Standalone headless model downloader: plans against Discovery's inventory, down… |
+| 2026-11-28 07:41:32 | [omni-desktop-mcp](https://pypi.org/project/omni-desktop-mcp/) | 0.1.0 | yangdw2024 | 86.4 kB | Desktop automation MCP server: compact UIA tree diffs, native Windows OCR (Chin… |
+| 2026-11-28 07:42:12 | [sociallens](https://pypi.org/project/sociallens/) | 0.1.0 | SocialLens | 22.5 kB | Official Python client for the SocialLens API: public social media profile, pos… |
+| 2026-11-28 07:44:25 | [s3-vectors-at-home](https://pypi.org/project/s3-vectors-at-home/) | 0.1.0 |  | 231.0 kB | S3 vector search with MinIO, FAISS, and FastAPI |
+| 2026-11-28 07:52:22 | [technicallyfit](https://pypi.org/project/technicallyfit/) | 0.1.0 | TechnicallyFit Dynamics Inc. | 123.1 kB | Python client for the TechnicallyFit API: typed calls generated from the public… |
+| 2026-11-28 07:53:32 | [error-of](https://pypi.org/project/error-of/) | 0.1.0 | space | 27.7 kB | Errors as observations: side, three-error walk diagnostics, and invariant-witne… |
+| 2026-11-28 07:54:06 | [stagetui-3d](https://pypi.org/project/stagetui-3d/) | 1.0.0 |  | 5.8 MB | The 3D add-on for stagetui: look at glTF, OBJ and STL models in a pane and turn… |
+| 2026-11-28 07:55:10 | [shirudo-python](https://pypi.org/project/shirudo-python/) | 0.1.0rc1 | shirudo-python contributors | 81.1 kB | Read Shirudo host status reports in Python |
+| 2026-11-28 08:02:33 | [due-extractor](https://pypi.org/project/due-extractor/) | 0.3.1 | Abhishek Manjunatha | 536.5 kB | DUE: Declarative Universal Extractor. Extract from any API into your data lake… |
+| 2026-11-28 08:06:19 | [nativelang-classify](https://pypi.org/project/nativelang-classify/) | 0.2.0 |  | 4.8 kB | Classify text locally using categories you choose. |
+| 2026-11-28 08:09:33 | [paystage](https://pypi.org/project/paystage/) | 0.1.0 |  | 19.5 kB | Thin Python transport to the hosted PayStage MCP endpoint. The evaluator is Typ… |
+| 2026-11-28 08:12:11 | [moxi-notes](https://pypi.org/project/moxi-notes/) | 0.0.0 |  | 3.1 kB | Placeholder for moxi-notes, part of Moxi. Not released yet: install a later ver… |
+| 2026-11-28 08:12:13 | [moxi-projects](https://pypi.org/project/moxi-projects/) | 0.0.0 |  | 3.1 kB | Placeholder for moxi-projects, part of Moxi. Not released yet: install a later… |
+| 2026-11-28 08:12:14 | [moxi-publishing](https://pypi.org/project/moxi-publishing/) | 0.0.0 |  | 3.1 kB | Placeholder for moxi-publishing, part of Moxi. Not released yet: install a late… |
+| 2026-11-28 08:12:16 | [moxi-repo](https://pypi.org/project/moxi-repo/) | 0.0.0 |  | 3.0 kB | Placeholder for moxi-repo, part of Moxi. Not released yet: install a later vers… |

@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T07:14:07Z,VesselFlow,0.0.1,Dhaval Kadia <dhavalkadiamsu@gmail.com>,AGPL-3.0-only,294621,VesselFlow: In-Silico Vascular Modeling and Flow Simulation
+2026-11-28T07:21:25Z,officectrl-sdk,0.1.7,karlmoriaty,Apache-2.0,32694,"Thin Python SDK for the officectrl resident pipe — forwards officectrl commands to a running resident, no per-command process spawn."
+2026-11-28T07:30:37Z,openvireo,1.2.1,OpenVireo <admin@openvireo.com>,MIT OR Apache-2.0,14101276,"Python binding of openvireo-core: OpenVireo accounts, vaults, sync and share links"
+2026-11-28T07:35:44Z,ctk-split-pane,0.1.0,Mikael Gois,MIT,18400,A resizable split-pane widget for CustomTkinter.
+2026-11-28T07:40:52Z,marcarr,0.1.1,,MIT,872433,"Know what's in every scene: shots, subtitles, scenes, faces and tags for your Plex library"
+2026-11-28T07:41:18Z,hugpy-downloader,0.1.0.3,,,134712,"Standalone headless model downloader: plans against Discovery's inventory, downloads only what is missing, verifies every file by hash and merges into the flat store layout"
+2026-11-28T07:41:32Z,omni-desktop-mcp,0.1.0,yangdw2024,MIT,86420,"Desktop automation MCP server: compact UIA tree diffs, native Windows OCR (Chinese + English), background-first input delivery, and safety guardrails. Windows is the supported platform; macOS and Lin…"
+2026-11-28T07:42:12Z,sociallens,0.1.0,SocialLens,MIT,22451,"Official Python client for the SocialLens API: public social media profile, post and comment data from 9 networks as JSON."
+2026-11-28T07:44:25Z,s3-vectors-at-home,0.1.0,,,230960,"S3 vector search with MinIO, FAISS, and FastAPI"
+2026-11-28T07:52:22Z,technicallyfit,0.1.0,TechnicallyFit Dynamics Inc.,MIT,123104,"Python client for the TechnicallyFit API: typed calls generated from the public OpenAPI spec, plus observation builders, retries, offline batching, typed errors, teammate sign-in and webhook verifica…"
+2026-11-28T07:53:32Z,error-of,0.1.0,space,MIT,27676,"Errors as observations: side, three-error walk diagnostics, and invariant-witnessed self-healing."
+2026-11-28T07:54:06Z,stagetui-3d,1.0.0,,MIT OR Apache-2.0,5849042,"The 3D add-on for stagetui: look at glTF, OBJ and STL models in a pane and turn them with the mouse."
+2026-11-28T07:55:10Z,shirudo-python,0.1.0rc1,shirudo-python contributors,BSD-2-Clause,81105,Read Shirudo host status reports in Python
+2026-11-28T08:02:33Z,due-extractor,0.3.1,Abhishek Manjunatha,Apache-2.0,536506,DUE: Declarative Universal Extractor. Extract from any API into your data lake with no custom scripts.
+2026-11-28T08:06:19Z,nativelang-classify,0.2.0,,MIT,4798,Classify text locally using categories you choose.
+2026-11-28T08:09:33Z,paystage,0.1.0,,MIT,19533,Thin Python transport to the hosted PayStage MCP endpoint. The evaluator is TypeScript; this package holds no policy logic and no keys.
+2026-11-28T08:12:11Z,moxi-notes,0.0.0,,MIT,3060,"Placeholder for moxi-notes, part of Moxi. Not released yet: install a later version."
+2026-11-28T08:12:13Z,moxi-projects,0.0.0,,MIT,3086,"Placeholder for moxi-projects, part of Moxi. Not released yet: install a later version."
+2026-11-28T08:12:14Z,moxi-publishing,0.0.0,,MIT,3109,"Placeholder for moxi-publishing, part of Moxi. Not released yet: install a later version."
+2026-11-28T08:12:16Z,moxi-repo,0.0.0,,MIT,3048,"Placeholder for moxi-repo, part of Moxi. Not released yet: install a later version."
