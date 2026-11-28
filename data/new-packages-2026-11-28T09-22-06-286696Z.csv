@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T08:13:29Z,kiddo-lang,1.1.0,Arijit Chakraborty,MIT License Copyright (c) 2026 Arijit Chakraborty (ItzAjx / lonewolfFSD) Permission is hereby grant…,343800,KIDDO Programming Language — Read it like English. Run anything for real.
+2026-11-28T08:22:46Z,anylink-agent,0.9.2,,MIT,74032,"Python SDK for AnyLink Protocol v3.2 — Personal Agent Network with Cloud Memory Brain, Multi-Model Gateway, resilient WebSocket bus, interactive tasks, and binary artifacts"
+2026-11-28T08:23:27Z,corrlens,0.1.0,Debisree Ray <debisreer@gmail.com>,BSD-3-Clause,333537,"Automated, assumption-aware correlation and association analysis for mixed-type data"
+2026-11-28T08:29:22Z,laterite-outcrop,0.1.0,,MIT,1207231,"Matplotlib plots for AGS4 geotechnical data: a borehole log, a strip log and a plasticity chart."
+2026-11-28T08:32:12Z,laterite-quarry,0.1.0,,MIT,97005,"A polite CLI for pulling public AGS4 geotechnical datasets (BGS, RVO) into a local, citable mirror."
+2026-11-28T08:37:16Z,evertranscript,0.0.2,EverTranscript <support@evertranscript.com>,Apache-2.0,1995,"A live and archived transcript of every meeting. Transcribed locally with whisper.cpp, saved as plain markdown you own. 100% local by default."
+2026-11-28T08:37:40Z,memhouse,2.0.0rc2,,Apache-2.0,317387,"Python SDK for MemHouse, a governed memory service for AI agents: a client generated from the OpenAPI specification, and lifecycle hooks that only call the API"
+2026-11-28T08:37:54Z,dandelion-core,2.0.0a1,,MIT,11446081,Dandelion reusable agent core with native C++17 multi-protocol LLM provider.
+2026-11-28T08:42:40Z,ctxsplit,0.1.0,episodely,MIT,7085,Split long text into overlapping chunks for LLM context windows.
+2026-11-28T08:43:53Z,patchpilot-mcp,0.4.1,Ahmed Saeed,MIT,646483,Incremental review of explicit source and unified diff text.
+2026-11-28T08:46:48Z,btclib-rocksdict,0.3.29.1,,,388117371,Rocksdb Python Binding
+2026-11-28T08:47:42Z,3dprintmon,0.2.0,Christopher Eslick,MIT,136243,"A tray icon that watches your Klipper 3D printers and tells you when a print finishes, fails or needs you."
+2026-11-28T08:50:25Z,beannetworktester,1.1.0,DonislawDev,MPL-2.0,29265021,"Slow down, break or cut the real network in your tests: latency, packet loss, jitter, outages, for one server or one process. For pytest, Playwright for Python and any Python code."
+2026-11-28T08:52:18Z,hosteday-python,0.1.0,HosteDay Engineering <sdk@hosteday.com>,MIT,139393,"Official Python SDK for HosteDay — Isolated Cloud Backends, Dynamic REST CRUD, Auth, Realtime (Laravel Reverb / Pusher v7), Push Notifications, and Background Jobs."
+2026-11-28T08:54:32Z,bedro-system,0.1.0,bedro-system,"MIT License Copyright (c) 2026 bedro-system Permission is hereby granted, free of charge, to any pe…",26228,Video altyazı (bedro_cc) ve Türkçe dublaj (bedro_db) modülleri.
+2026-11-28T08:55:29Z,axislar-contract,6.0.0,authorlarciss <author.larciss@gmail.com>,MIT,6358,Контракт AxisLar: версия совместимости для ядра и плагинов
+2026-11-28T09:00:25Z,tracekit-sdk,0.1.0,its-bismay <2023ugee070@nitjsr.ac.in>,MIT,79372,Minimal zero-dependency Python observability SDK
+2026-11-28T09:00:52Z,opencausal,0.2.1,Kelvin Lim,MIT,2986870,"Clean-room MIT causal discovery (Rust core, PyO3 wheels)"
+2026-11-28T09:01:14Z,mcp-technical-verification,1.0.0,meanusarcanus <meanusarcanus@gmail.com>,Apache-2.0,13379,Official Python Client SDK for Deterministic Technical Verification Model Context Protocol (MCP) Server
+2026-11-28T09:01:42Z,silicore-knowledge,1.0.0,"Florent Valette, Philippe Thierry","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",92773,Local knowledge server (hybrid RAG) for pyGdbToolkit
+2026-11-28T09:04:03Z,sms-claim-audit,0.1.0,,MIT,15115,Offline static audit of documented outbound text delivery
+2026-11-28T09:04:12Z,gomu-server,0.0.1,,Apache-2.0,13041,"ゴム (gomu) server: the service behind gomu, which runs coding agents as Kubernetes Jobs. Early release: in development."
+2026-11-28T09:04:12Z,push-claim-audit,0.1.0,,MIT,16967,Offline static audit of documented device-notification delivery
+2026-11-28T09:04:18Z,gomu,0.0.1,,Apache-2.0,13004,"ゴム (gomu): elastic compute for coding agents. Run Claude Code, Codex and DeepSeek agents as Kubernetes Jobs from any session. Early release: in development."
+2026-11-28T09:04:20Z,voice-claim-audit,0.1.0,,MIT,22141,Static audit of documented spoken capabilities
+2026-11-28T09:04:28Z,clipboard-claim-audit,0.1.0,,MIT,15801,Static audit of documented pasteboard capabilities
+2026-11-28T09:13:36Z,tsplitter,0.1.0,ikoch,MIT,30261,A mouse-resizable two-pane splitter widget for Textual applications
+2026-11-28T09:16:33Z,databridge-cli,0.1.1,Ahmed Saeed,MIT,23510,Portable local CSV and JSON table operations
+2026-11-28T09:17:06Z,localelens,0.1.1,,MIT,24527,Offline JSON and ARB translation resource quality checks
+2026-11-28T09:17:56Z,polish-studio-mcp,0.1.1,,MIT,30386,Local deterministic design-token audit and redesign MCP server
