@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T11:18:14Z,becda-mcp,0.1.0,,MIT,27691,"Official MCP server for Becda decision memory & Decision Rules: AI reads, Becda learns how you decide."
+2026-11-28T11:19:14Z,cascade-local,0.12.0,"Syed Maarij, Jaweria Anwer",MIT,243648,"Local-first LLM runtime: runs models on your machine, caches repeated questions, and routes hard ones to a provider or server you choose."
+2026-11-28T11:19:44Z,quillflow,0.0.0,Pedro José,,2586,Add your description here
+2026-11-28T11:20:52Z,preston-async,5.0.0,Celeo <mattboulanger@fastmail.com>,MIT,114930,"Async (asyncio/aiohttp) EVE ESI API access tool, forked from Preston"
+2026-11-28T11:24:59Z,rowdelta,0.2.0,Atharv Patil,MIT,85748,"Diff two tables (CSV, Parquet, JSON, SQLite, DuckDB or git revisions) by key: added, removed and changed rows, column by column. Fast, because it runs on DuckDB."
+2026-11-28T11:25:37Z,minimindslab-line-column-map,0.1.0,MiniMindsLab,MIT,7436,"Map absolute character offsets to 1-based line and column positions in text, with optional reverse lookup from line/column to offset."
+2026-11-28T11:31:08Z,vexqon,0.2.0,Vexqon,,28585,Vexqon AI: Python SDK and CLI for scanning code and Android APKs for security issues (kod va APK xavfsizligini tekshirish)
+2026-11-28T11:35:32Z,personyze,1.1.0,Personyze <support@personyze.com>,MIT,275633,Server-side personalization and A/B testing with Personyze. No required dependencies.
+2026-11-28T11:35:38Z,symbolinfo,1.0.4,Muhəmməd Zeynallı <bildiris15@gmail.com>,,5919,Unicode symbol identification and information
+2026-11-28T11:36:58Z,openpatterns,0.1.1,openpatterns contributors,Apache-2.0,56736,Permissively-licensed candlestick and chart pattern detection engine with no-repaint (confirmed_at) semantics
+2026-11-28T11:41:15Z,freeaigenerator,0.1.0,Free AI Generator,MIT,784,"One free AI image in the browser, then text or photo to 720p short video."
+2026-11-28T11:41:40Z,lucille-host,0.1.0,lucille-host maintainers,MIT,2770089,"A small program that runs a closed, reviewed set of named operations on your computer when your paired Lucille account asks."
+2026-11-28T11:41:56Z,lupaxa-lupe,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",58922,A small general-purpose interpreted scripting language for learning how languages are designed and executed.
+2026-11-28T11:42:31Z,plasgos-ai-sdk,0.4.0,Plasgos,"MIT License Copyright (c) 2026 plasgos Permission is hereby granted, free of charge, to any person…",150239,"SDK Python Plas AI PRO: menjalankan agent, streaming event, dan membaca sesi lewat HTTP API."
+2026-11-28T11:45:59Z,career-recommend-mcp,0.1.0,,,4017,求职信息抓取 MCP 工具
+2026-11-28T11:48:47Z,ledger-recon-kit,0.1.1,Elvin Haxverdiyev,MIT,44838,Explainable reconciliation of ledger and bank statement transactions
+2026-11-28T11:50:53Z,assay-bittensor,0.4.1,assay contributors,MIT,152700,Assay your subnet's incentive mechanism — find the gaming vectors before the judges do.
+2026-11-28T11:51:21Z,gitnexus,1.0.0,,MIT,18723,CMDOP universal CLI launcher
+2026-11-28T11:57:52Z,boxcalculator,0.0.1,kskblzdjd <student@example.com>,MIT,8358,长方体计算工具包，计算体积、表面积、底面周长
+2026-11-28T11:58:17Z,pymetrix-eviews,0.1.0a1,Geoffrey Heenan,BSD-3-Clause,293376,"EViews workfiles into pymetrix: a bundle written by an (experimental) export program, read with its metadata, equations and models"
+2026-11-28T11:59:43Z,blora-agent-sdk,27.0.0b1,Blora Agent contributors,GPL-3.0-or-later,36987,Python SDK for the Blora Agent stdio protocol
+2026-11-28T11:59:45Z,mangono-addon-security_audit_log_passkey,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,5174,
+2026-11-28T12:00:12Z,fakex,0.2.1,Vib Tools <hello@vibtools.io>,MIT,328965,"The Ultimate Mock Persona & Bio-Data Generator for Database Seeding, QA Testing, and Browser Automation"
+2026-11-28T12:02:50Z,e5-rf-fb-worker-core,0.0.0a0,"Element5, Inc.",Proprietary,1589,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-28T12:02:51Z,e5-task-sdk-python,0.0.0a0,"Element5, Inc.",Proprietary,1565,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-28T12:06:16Z,e5-f2f-poc-extractor,0.0.0a0,"Element5, Inc.",Proprietary,1588,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-28T12:06:17Z,e5-f2f-primary-diagnosis-matcher,0.0.0a0,"Element5, Inc.",Proprietary,1739,"Name reserved by Element5, Inc. to prevent dependency confusion. Not a real package; installing it does nothing."
+2026-11-28T12:12:51Z,artos,1.0.0,kredt,MIT,507582,"ARTOS // a sandboxed personal operating system, root of all art"
+2026-11-28T12:14:23Z,visers,1.1.0,,Apache-2.0,2529291,Native CPU visual embeddings for image files and encoded bytes
+2026-11-28T12:16:38Z,tadqiq,0.0.1,muhssamy,MIT,4895,Data-quality checks for deployed Power BI / Fabric semantic models.
+2026-11-28T12:18:29Z,agentkt,0.1.0,,,5195816,Rotation- and revocation-aware Agent key transparency SDK

@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-11-28T10:19:02.77213Z",
-    "path": "data/new-packages-2026-11-28T11-18-58-439937Z.csv",
-    "to": "2026-11-28T11:18:58.439937Z"
+    "count": 31,
+    "from": "2026-11-28T11:18:58.439937Z",
+    "path": "data/new-packages-2026-11-28T12-19-02-473126Z.csv",
+    "to": "2026-11-28T12:19:02.473126Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-28T08:53:42Z",
       "package": "anylink",
       "since": "2026-11-28T08:18:59.624477Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-28T11:18:14Z",
-      "package": "becda-mcp",
-      "since": "2026-11-28T10:19:02.77213Z",
-      "version": "0.1.0"
     }
   ],
-  "serial": 44292676,
+  "serial": 44293826,
   "source_truncated": false,
-  "window": "2026-11-28T11:18:58.439937Z"
+  "window": "2026-11-28T12:19:02.473126Z"
 }
