@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T22:33:36Z,genefox,1.1.2,Vindhya Data Science <info@vindhyadatascience.com>,MIT,305250,Python client for the shared GeneFox scientific runtime
+2026-11-28T00:19:51Z,ts-ara,0.5.0.post1,funara,Apache-2.0,97255,"Production-grade probabilistic time-series forecasting runtime with mixed-precision ONNX, calendar alignment, covariate filtering, and conformal calibration."
+2026-11-28T00:23:07Z,kascade-core,0.0.1,Brian Dillon,Apache-2.0,12152,"Core router pipeline for kascade: keyword tier, LLM tier, merge and coverage."
+2026-11-28T00:23:16Z,email-auth-check,0.1.0,Jainendra Ojha,MIT,12179,"Check SPF, DKIM, DMARC and MX records of a sending domain over DNS-over-HTTPS"
+2026-11-28T00:23:22Z,enrichment-run-checklist,1.0.0,Jainendra Ojha,MIT,11389,"Turn the data enrichment playbook steps into a checklist for each run, and audit the output CSV against its gate rules."
+2026-11-28T00:23:25Z,warmup-ramp-planner,1.0.0,Jainendra Ojha,MIT,11149,Plan a gradual email warmup ramp for a new mailbox and check each day's results before raising volume.
+2026-11-28T00:23:27Z,icp-scoring-sheet,0.1.0,Jainendra Ojha,MIT,14312,"A spreadsheet template with live formulas that scores accounts against your ideal customer profile, plus a Python scorer that gives the same numbers"
+2026-11-28T00:23:28Z,kascade,0.0.1,Brian Dillon,Apache-2.0,12188,"kascade with middle tiers, semantic matching, provider plugins and usage ledger."
+2026-11-28T00:24:02Z,lexwheel-core,0.0.1,Brian Dillon,Apache-2.0,12223,"Core term catalog for lexwheel: manual curation, time-based retirement, SQLite store."
+2026-11-28T00:24:24Z,lexwheel,0.0.1,Brian Dillon,Apache-2.0,12269,"lexwheel with multitenancy, feedback lifecycle, suggestions and outcome attribution."
+2026-11-28T00:29:23Z,fathomdb-mcp,0.8.32,,MIT,44484524,"FathomDB MCP server binary (default read-only, opt-in per-store scoped writes over stdio)"
+2026-11-28T00:30:44Z,dfor,0.1.0,,MIT,72454,"Build, diagram, and diagnose OR-Tools CP-SAT models as Polars pipelines"
+2026-11-28T00:35:56Z,lightbox-cull,0.1.0,,Apache-2.0,1855635,Local-first photo culling and intelligent selection system
+2026-11-28T00:37:08Z,sermonindex,0.1.0,SermonIndex.net,MIT,26893,"Client for the SermonIndex.net API: sermons, speakers, topics and scripture. Standard library only."
+2026-11-28T00:37:59Z,tuff-sdk,0.21.0,Kannan Kalidasan,MIT,8202406,"The Tuff SDK for Python: install, update, and remove agent capability packs from your application."
+2026-11-28T00:39:13Z,parlant-datacircle,0.1.0,,MIT,23241,Parlant tools for the Datacircle API: find the best GTM APIs
+2026-11-28T00:41:42Z,chopper-csv,0.7.0,,MIT,3898735,Split large CSVs with bounded memory and ordered Chopper Jobs
+2026-11-28T00:43:38Z,pytrajopt,0.1.2,R Sandeepkumar,LGPL-3.0-only,45093,A minimal python package to solve multiphase and single phase optimal control problems using direct multiple shooting and collocation.
+2026-11-28T00:47:14Z,tenxyte-langchain,0.1.0,Tenxyte,MIT,27389,"LangChain/LangGraph connector for AIRS/1.0 — AI agent identity, delegation, and Human-in-the-Loop governance. Pure HTTP client, no dependency on the tenxyte package."
+2026-11-28T00:47:20Z,datacook-app,2.13.1,Philipp Temminghoff,MIT,669239,Qt desktop tool for pandas data analysis that records every transformation as replayable Python code
+2026-11-28T00:47:31Z,pydaltoolboxdp,0.2.1,CEFET/RJ,MIT,26017,"Deep ++ extensions for pydaltoolbox, pytspredit, and pyharbinger"
+2026-11-28T00:49:27Z,tenxyte-mcp-server,0.1.0,Tenxyte,MIT,21339,"MCP server exposing AIRS/1.0 Agent Token upkeep (status, heartbeat, usage reporting, pending actions) as tools for MCP clients such as Claude Desktop. Pure HTTP client, no dependency on the tenxyte p…"
+2026-11-28T00:51:03Z,enuf,0.2,Tim Menzies <timm@ieee.org>,MIT,17157,"Trees that are good enough: small, fast, close to LightGBM"
+2026-11-28T00:53:22Z,geneticevo-core,0.1.0a8,,MIT,1511003,Optional native CPU training engine for geneticevo
+2026-11-28T00:55:58Z,cfdi-kit,1.1.0,Diego Tepichin,MIT,84057,"Parse SAT CFDI invoices (XML) into dataframes, Excel and a local income / expense / VAT report. Nothing leaves your machine."
+2026-11-28T01:03:31Z,flpit-http,0.0.1,riemar,MIT,2011,"Planned HTTP client for flpit, built around cooperative CancellationToken usage."
+2026-11-28T01:07:48Z,strokes-gained,0.1.0,Shotto <press@shottogolf.com>,MIT,34269,"Calculate strokes gained in golf: expected strokes to hole out from any lie and distance, strokes gained per shot, hole and round, and strokes lost to scratch by handicap. From Mark Broadie's PGA Tou…"
+2026-11-28T01:09:45Z,sc-droplets,0.1.0,Aljes Binkevich,GPL-3.0-or-later,383271,"Every cell vs empty-droplet calling method for droplet single-cell data, version by version, on AnnData"
+2026-11-28T01:11:42Z,gitcx,0.1.0a3,ellainng,MIT,114333,A Git-compatible hosting platform powered by gitdx
+2026-11-28T01:12:58Z,offswitch,0.1.0,Joshua Almeida,MIT,46274,"A tiny, dependency-free, human-controlled, latching AI off switch."
+2026-11-28T01:13:27Z,pmwMRMS,0.2.0,,,62402,Passive microwave collocation with native MRMS grids
+2026-11-28T01:13:46Z,tree-sitter-mel,1.0.0,Colin Kennedy,MIT,312450,"Parse Autodesk Maya's MEL (.mel) and Maya ASCII (.ma) files, using tree-sitter"
+2026-11-28T01:18:19Z,seed-dev-db,0.1.0,KiraQiez,Apache-2.0,117275,Schema-aware synthetic data for development and testing
