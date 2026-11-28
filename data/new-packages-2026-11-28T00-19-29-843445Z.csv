@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-27T23:19:44Z,stapel-reservations,0.1.0,,MIT,183875,"Schedules, slots and reservations over opaque bookables for the Stapel framework"
+2026-11-27T23:19:49Z,stapel-referrals,0.1.0,,MIT,200588,"Referral codes, attribution and rewards for the Stapel framework"
+2026-11-27T23:20:16Z,exact-lattice-quantiles,0.28.0,Alexis Roman,MIT,432717,"Exact phase margin and cheapest feasible design for multi-rate periodic sampling, in rational arithmetic with zero dependencies."
+2026-11-27T23:22:59Z,yellowcode,0.1.0a30,,MIT OR Apache-2.0,60715799,Yellowcode CLI: 1C configurations and file databases without the 1C platform
+2026-11-27T23:26:46Z,deadkey,0.9.5,,Apache-2.0,226536,"A local AI that can't lie about what's on your disk — 0-VRAM bi-temporal SQLite memory, 0.01ms epistemic gate, and cartridge-isolated MCP/A2A/OpenAI proxy."
+2026-11-27T23:28:08Z,pyalexaalerts,0.1.0,Kyron Longwood,MIT,89021,"An unofficial Python library for programmatically managing Amazon Alexa alarms, timers, and reminders."
+2026-11-27T23:29:40Z,rustleaks,0.3.0a1,,MIT AND BSD-3-Clause AND Apache-2.0 AND Apache-2.0 WITH LLVM-exception,15731999,Scan bytes and text for secrets with the Rustleaks engine
+2026-11-27T23:30:13Z,artios,0.1.0,"Arda Goreci <arda@ligo.bio>, ""Oliver J. Cort"" <oli@ligo.bio>",Apache-2.0,8712035,Generative models for ligand-binding protein design: all-atom motif scaffolding and sequence design.
+2026-11-27T23:40:51Z,pytest-changes,0.0.1,Daniel Pepper,MIT,4749,"assert that a block of code changes a value, like RSpec's change matcher"
+2026-11-27T23:41:08Z,pankohub,0.1.0,,AGPL-3.0-or-later,759076,"Turns language-learning material (textbooks, teacher sheets, transcripts) into checked Anki cards with pictures, examples and audio."
+2026-11-27T23:41:42Z,dota-netcheck,0.3.12,Erik,PolyForm-Noncommercial-1.0.0,10532,The old name of wholagged: installs wholagged and keeps the dota-netcheck command working.
+2026-11-27T23:43:41Z,brego,0.1.1,,,17647,"Brego API client for partner apps: OAuth connect flow, token refresh and webhook signature checks."
+2026-11-27T23:45:31Z,recheck-ai,0.1.1,Joshua Almeida <192924532+fitzyracing1@users.noreply.github.com>,MIT,33307,Re-fetch AI source URLs live and verify quoted claims still appear on the page.
+2026-11-27T23:45:51Z,rlsmoc,1.0,Larry Trammell <ridgerat@ridgerat-tech.us>,CC-BY-4.0,430981,"Fast, highly-random latin squares generator"
+2026-11-27T23:50:20Z,maxenger,0.2.0,Maxexiyo,MIT,40756,Librería para hacer bots de Maxenger
+2026-11-27T23:51:25Z,python-graphql-core-rs,0.1.1,,,1308212,
+2026-11-27T23:53:24Z,ai-disclosure-magic,0.1.0,Marcus Garcia,MIT,6078,Magic de célula para Jupyter/IPython que sinaliza código gerado por IA e registra o prompt usado.
+2026-11-27T23:55:46Z,tibalib,0.1.0,TIBA,,4763,Mi primera libreria. Hace graficas qr y mas
+2026-11-27T23:58:07Z,gettextpo,0.1.2,Naoya Yamashita <conao3@gmail.com>,GPL-3.0-or-later,10341119,gettextpo wrapper
+2026-11-27T23:59:33Z,shifter-launcher,0.1.0,,Apache-2.0,9714,Launcher for the Shifter inference engine
+2026-11-28T00:07:08Z,encounter-outcomes,0.1.0,"Zoe Rosenberg, Richard O'Shaughnessy",MIT,5758889,Reduced model for passages of stellar-mass black holes through massive stars
+2026-11-28T00:08:29Z,stability-nexus,1.0.0,Luca D'Angelo <ldgaetano@protonmail.com>,MIT,41297,Stability Nexus multi-protocol simulation library.
+2026-11-28T00:08:45Z,cirbethon,1.0.0,Jose Felipe Licea Munoz <felipelicea1989@gmail.com>,MIT,61484,Intercambio de informes CIRBE (Central de Información de Riesgos del Banco de España) en archivos de texto de ancho fijo. Proceso GRI-IE202501-V1.1.
+2026-11-28T00:09:04Z,sap-watt,1.6.7,shrek-abaper,MIT,8705,Watt: an engineering CLI for SAP lifecycle work. Power your SAP Engineering.
+2026-11-28T00:11:41Z,motorical,0.1.0,,MIT,35794,"Official Python client for the Motorical transactional email API, Public API and Communications API, generated from the OpenAPI specification. Standard library only."
+2026-11-28T00:15:02Z,vetgate,0.1.0,,"MIT License Copyright (c) 2026 vetgate contributors Permission is hereby granted, free of charge, t…",83988,"Fast local security & quality gate for LLM-generated code (C# first). Deterministic, explainable, millisecond diff mode."
+2026-11-28T00:15:53Z,aa-pilotstats,0.1.0,Thrainkrilleve,"MIT License Copyright (c) 2026 Thrainkrilleve Permission is hereby granted, free of charge, to any…",200052,"Pilot and fleet stats for Alliance Auth: upload EVE combat logs, attribute stats to characters and mains, and see a fleet leaderboard."
+2026-11-28T00:16:41Z,devberry,0.0.1,,,2886,DevBerry - reservado.
