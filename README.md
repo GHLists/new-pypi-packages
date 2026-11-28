@@ -8,33 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 03:19 UTC
+## Latest list — 2026-11-28 04:18 UTC
 
-New packages created between 2026-11-28 02:18 UTC and 2026-11-28 03:19 UTC.
+New packages created between 2026-11-28 03:19 UTC and 2026-11-28 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-28T03-19-03-839872Z.csv)
+[Full CSV](data/new-packages-2026-11-28T04-18-58-567717Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-28 02:22:15 | [atlas-env](https://pypi.org/project/atlas-env/) | 0.1.0 | 3I Atlas | 18.3 kB | CLI + SDK + agent framework for the 3I Atlas Gym |
-| 2026-11-28 02:28:40 | [n3memorycore-free-codex](https://pypi.org/project/n3memorycore-free-codex/) | 1.9.2 | N3MemoryCore contributors | 306.2 kB | Persistent hybrid-search memory store for Codex (Free Edition) |
-| 2026-11-28 02:34:16 | [prettyopenapi](https://pypi.org/project/prettyopenapi/) | 0.1.0 | laconal | 1.2 MB | A clean API documentation page for FastAPI: docs, code samples in cURL / Python… |
-| 2026-11-28 02:35:39 | [telegram-exec-notifier](https://pypi.org/project/telegram-exec-notifier/) | 0.2.1 |  | 42.7 kB | Run Claude, Codex and Kiro from Telegram and get execution notifications |
-| 2026-11-28 02:39:53 | [oscura-atti](https://pypi.org/project/oscura-atti/) | 0.1.1 | Francesco R <424577+francesco… | 183.6 kB | Redact personal data (PII) in public-sector documents with consistent labels (P… |
-| 2026-11-28 02:40:43 | [gvar-toolbox](https://pypi.org/project/gvar-toolbox/) | 0.1.0 |  | 1.9 MB | Global VAR toolbox, ported from Pesaran's GVAR Toolbox 2.0 (MATLAB) |
-| 2026-11-28 02:42:42 | [hatchmark](https://pypi.org/project/hatchmark/) | 0.0.0 |  | 1.8 kB | Hatchmark: an agent-first dashboard compiler. Placeholder release; the first re… |
-| 2026-11-28 02:42:56 | [cxlib](https://pypi.org/project/cxlib/) | 0.18.0rc1 |  | 15.9 MB | CX format library — parse, stream, and convert CX/XML/JSON/YAML/TOML |
-| 2026-11-28 02:44:17 | [py-tjbrhk-sdk](https://pypi.org/project/py-tjbrhk-sdk/) | 1.0.1 | guolei <174000902@qq.com> | 28.3 kB | TJBRHK Speaker Python SDK - 同步接口调用 |
-| 2026-11-28 02:46:47 | [kaizige-utils](https://pypi.org/project/kaizige-utils/) | 0.1.0 |  | 3.2 kB | 一个提供加减乘除运算的 Python 工具库，用于学习构建、发布与安装 |
-| 2026-11-28 02:49:12 | [sqlbabel](https://pypi.org/project/sqlbabel/) | 0.0.1 |  | 1.6 kB | SQL translation between warehouse dialects, verified. Successor to SQLQuack. |
-| 2026-11-28 02:49:14 | [sqlbabel-cli](https://pypi.org/project/sqlbabel-cli/) | 0.0.1 |  | 1.6 kB | Native command-line executable for SQLBabel. Under development. |
-| 2026-11-28 02:49:16 | [sqlferry](https://pypi.org/project/sqlferry/) | 0.0.1 |  | 1.5 kB | Part of SQLStack. Early placeholder. |
-| 2026-11-28 02:49:17 | [sqlferry-cli](https://pypi.org/project/sqlferry-cli/) | 0.0.1 |  | 1.6 kB | Native command-line executable for sqlferry. Under development. |
-| 2026-11-28 02:51:01 | [framelens](https://pypi.org/project/framelens/) | 0.4.0 | Ekberjan Derman <ekberjanderm… | 52.7 kB | FrameLensAI Python SDK - eval and regression testing for video AI |
-| 2026-11-28 02:51:08 | [eptakode](https://pypi.org/project/eptakode/) | 0.0.0 | Eptalights Research | 3.3 kB | Placeholder. The Eptakode SDK is distributed privately to Eptakode members. |
-| 2026-11-28 02:51:09 | [parallel-variable-mcp](https://pypi.org/project/parallel-variable-mcp/) | 0.1.0 | Parallel Variable Open Platfo… | 38.0 kB | Official MCP Server for Parallel Variable (平行变量) — Let real digital residents r… |
-| 2026-11-28 02:51:58 | [local-llm-gateway](https://pypi.org/project/local-llm-gateway/) | 0.1.2 | Yin Kang | 53.5 kB | Local-first OpenAI-compatible LLM gateway: zero dependency, fail-closed, audita… |
-| 2026-11-28 02:59:45 | [web3-systemic-agent](https://pypi.org/project/web3-systemic-agent/) | 1.0.2 | RafaCoelho33 | 566.9 kB | Autonomous Web3 Security and Governance Auditor MCP Server with Two-Stage Hybri… |
-| 2026-11-28 03:04:09 | [dwsocket](https://pypi.org/project/dwsocket/) | 0.6.0 | wuchhao | 29.2 kB | WebSocket support for Django, maintained as a fork of dwebsocket. |
-| 2026-11-28 03:09:10 | [trendspull](https://pypi.org/project/trendspull/) | 0.1.0 | "Maxwell A. Konnaris" <maxwel… | 4.7 MB | Collect Google Trends timelines as a tidy pandas DataFrame |
-| 2026-11-28 03:17:15 | [bambu3mf](https://pypi.org/project/bambu3mf/) | 0.1.0 | Gavin Stark | 45.9 kB | Python library for creating Bambu Studio 3MF files |
+| 2026-11-28 03:22:48 | [tuitela](https://pypi.org/project/tuitela/) | 0.3.2 | Fabio Souza | 1.0 MB | Terminal UIs in pure Python: an immutable model, a view, and widgets that wire… |
+| 2026-11-28 03:22:52 | [cenit](https://pypi.org/project/cenit/) | 0.1.0 | Santiago Papiernik | 33.3 kB | Versioned Python library for CENIT compensation codes |
+| 2026-11-28 03:27:16 | [plumaden-mcp](https://pypi.org/project/plumaden-mcp/) | 0.1.0 | Plumaden | 174.6 kB | MCP server + Python SDK for Plumaden — browse, buy, and publish content from an… |
+| 2026-11-28 03:27:28 | [callable-lipsync](https://pypi.org/project/callable-lipsync/) | 0.1.0 | Callable <support@callable.co… | 38.1 MB | A tiny speech-to-face model: streaming lip sync, blinks, gaze and head motion o… |
+| 2026-11-28 03:29:39 | [bnspellnum](https://pypi.org/project/bnspellnum/) | 0.1.0 | Ediphas Labs | 16.6 kB | Spell out numbers in Bangla: words, currency (taka/paisa), ordinals, years and… |
+| 2026-11-28 03:32:09 | [pbi-mcp-server](https://pypi.org/project/pbi-mcp-server/) | 0.3.0 | Justin DeStefano | 470.0 kB | Local-first MCP server for inspecting and safely editing Power BI PBIP projects |
+| 2026-11-28 03:38:19 | [argvgate](https://pypi.org/project/argvgate/) | 0.1.0 | Anish Pentyala | 78.1 kB | A policy gate for coding-agent tool calls that parses shell commands instead of… |
+| 2026-11-28 03:38:22 | [csvhonest](https://pypi.org/project/csvhonest/) | 0.1.4 | Anish Pentyala | 79.6 kB | Audit what your CSV loader will silently change before you load it. |
+| 2026-11-28 03:38:25 | [tokaudit](https://pypi.org/project/tokaudit/) | 0.2.0 |  | 235.1 kB | Analyze LLM request logs to find wasted prompt tokens and quantify prompt-cachi… |
+| 2026-11-28 03:38:28 | [asofaudit](https://pypi.org/project/asofaudit/) | 0.4.0 |  | 51.0 kB | Offline bitemporal feature-selection audit against explicit version histories |
+| 2026-11-28 03:42:28 | [tydocx](https://pypi.org/project/tydocx/) | 0.1.0 |  | 91.5 MB | Universal Typst to Word (.docx) converter |
+| 2026-11-28 03:44:32 | [koharu-mcp](https://pypi.org/project/koharu-mcp/) | 0.4.0 | Koharu | 38.3 kB | Koharu MCP Windows AI computer-use agent with local approval and 30/60 FPS scre… |
+| 2026-11-28 03:46:51 | [episodely-promptlint](https://pypi.org/project/episodely-promptlint/) | 0.1.0 | episodely | 8.2 kB | Lint LLM prompts for vague wording, missing output format and conflicting rules. |
+| 2026-11-28 03:46:56 | [episodely-skillcheck](https://pypi.org/project/episodely-skillcheck/) | 0.1.0 | episodely | 8.9 kB | Lint agent SKILL.md files: frontmatter, dead links and duplicate names. |
+| 2026-11-28 03:47:19 | [comfy-peer-host](https://pypi.org/project/comfy-peer-host/) | 0.1.0 |  | 40.2 kB | Headless collaboration host for Comfy UI Web: lets people build and run ComfyUI… |
+| 2026-11-28 03:50:43 | [xdoc-tools](https://pypi.org/project/xdoc-tools/) | 0.1.0 |  | 252.2 kB | 让 Agent 读懂任意文档：本地、离线、忠实的文档转文本层（MCP + CLI） |
+| 2026-11-28 03:54:39 | [jsonheal](https://pypi.org/project/jsonheal/) | 0.1.0 | episodely | 8.6 kB | Repair the broken JSON that LLMs return. |
+| 2026-11-28 03:55:00 | [episodely-leakcheck](https://pypi.org/project/episodely-leakcheck/) | 0.1.0 | episodely | 8.2 kB | Scan a folder for leaked API keys and secrets before you push. |
+| 2026-11-28 03:55:11 | [cronwords](https://pypi.org/project/cronwords/) | 0.1.0 | episodely | 8.9 kB | Explain a cron expression in plain English. |
+| 2026-11-28 03:56:11 | [plumaden](https://pypi.org/project/plumaden/) | 0.1.0 | Plumaden | 3.6 kB | Pointer to plumaden-mcp, the Plumaden MCP server and Python SDK |
+| 2026-11-28 03:59:41 | [cueaudit](https://pypi.org/project/cueaudit/) | 0.1.0 | Prabhu Rangaraju | 37.5 kB | Deterministic audit of multiple choice benchmark items for item writing flaws |
+| 2026-11-28 04:00:53 | [stalsend-sdk](https://pypi.org/project/stalsend-sdk/) | 0.1.0 | StalSend | 7.2 kB | Official Python client for the StalSend email API |
+| 2026-11-28 04:01:07 | [jols](https://pypi.org/project/jols/) | 1.0 | Oliver Simner | 12.8 kB | JustOpenedLetsStart (JOLS) Is a template manager so you can start coding your p… |
+| 2026-11-28 04:10:34 | [harness-framework](https://pypi.org/project/harness-framework/) | 0.1.0 | Nguyễn Trường Lâu | 466.2 kB | Secure, fast, and economical agent harness for Microsoft Ecosystem. |
+| 2026-11-28 04:10:55 | [wayfolio](https://pypi.org/project/wayfolio/) | 0.1.0a1 | songwp | 3.5 MB | 途册 Wayfolio — 把公园与行程编译成 A4 册子与 A0 挂图 |
+| 2026-11-28 04:12:42 | [tilo-sdk](https://pypi.org/project/tilo-sdk/) | 0.5.3 |  | 994.8 kB | Drive Tilo workspaces from Python: the same resources, actions, runs and undo a… |
+| 2026-11-28 04:16:16 | [finevoice](https://pypi.org/project/finevoice/) | 0.1.0 |  | 6.6 kB | Python SDK for the FineVoice API |
+| 2026-11-28 04:17:09 | [jc-etlforge](https://pypi.org/project/jc-etlforge/) | 0.7.0 | Jacivaldo Carvalho <jacivaldo… | 73.5 kB | A minimalist, plugin-driven ETL framework with declarative pipelines, concurren… |

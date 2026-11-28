@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T03:22:48Z,tuitela,0.3.2,Fabio Souza,MIT,1034666,"Terminal UIs in pure Python: an immutable model, a view, and widgets that wire themselves"
+2026-11-28T03:22:52Z,cenit,0.1.0,Santiago Papiernik,MIT,33348,Versioned Python library for CENIT compensation codes
+2026-11-28T03:27:16Z,plumaden-mcp,0.1.0,Plumaden,MIT,174561,"MCP server + Python SDK for Plumaden — browse, buy, and publish content from an AI agent"
+2026-11-28T03:27:28Z,callable-lipsync,0.1.0,Callable <support@callable.com.ai>,Apache-2.0,38081267,"A tiny speech-to-face model: streaming lip sync, blinks, gaze and head motion on one CPU thread"
+2026-11-28T03:29:39Z,bnspellnum,0.1.0,Ediphas Labs,MIT,16643,"Spell out numbers in Bangla: words, currency (taka/paisa), ordinals, years and dates. Zero dependencies."
+2026-11-28T03:32:09Z,pbi-mcp-server,0.3.0,Justin DeStefano,GPL-3.0-or-later,469993,Local-first MCP server for inspecting and safely editing Power BI PBIP projects
+2026-11-28T03:38:19Z,argvgate,0.1.0,Anish Pentyala,MIT,78128,A policy gate for coding-agent tool calls that parses shell commands instead of matching strings.
+2026-11-28T03:38:22Z,csvhonest,0.1.4,Anish Pentyala,MIT,79564,Audit what your CSV loader will silently change before you load it.
+2026-11-28T03:38:25Z,tokaudit,0.2.0,,MIT,235066,Analyze LLM request logs to find wasted prompt tokens and quantify prompt-caching savings
+2026-11-28T03:38:28Z,asofaudit,0.4.0,,MIT,50950,Offline bitemporal feature-selection audit against explicit version histories
+2026-11-28T03:42:28Z,tydocx,0.1.0,,Apache-2.0,91510246,Universal Typst to Word (.docx) converter
+2026-11-28T03:44:32Z,koharu-mcp,0.4.0,Koharu,CC-BY-4.0,38279,Koharu MCP Windows AI computer-use agent with local approval and 30/60 FPS screen streaming
+2026-11-28T03:46:51Z,episodely-promptlint,0.1.0,episodely,MIT,8247,"Lint LLM prompts for vague wording, missing output format and conflicting rules."
+2026-11-28T03:46:56Z,episodely-skillcheck,0.1.0,episodely,MIT,8874,"Lint agent SKILL.md files: frontmatter, dead links and duplicate names."
+2026-11-28T03:47:19Z,comfy-peer-host,0.1.0,,,40202,"Headless collaboration host for Comfy UI Web: lets people build and run ComfyUI graphs on this machine over WebRTC (PeerJS), no browser needed."
+2026-11-28T03:50:43Z,xdoc-tools,0.1.0,,MIT,252232,让 Agent 读懂任意文档：本地、离线、忠实的文档转文本层（MCP + CLI）
+2026-11-28T03:54:39Z,jsonheal,0.1.0,episodely,MIT,8561,Repair the broken JSON that LLMs return.
+2026-11-28T03:55:00Z,episodely-leakcheck,0.1.0,episodely,MIT,8214,Scan a folder for leaked API keys and secrets before you push.
+2026-11-28T03:55:11Z,cronwords,0.1.0,episodely,MIT,8933,Explain a cron expression in plain English.
+2026-11-28T03:56:11Z,plumaden,0.1.0,Plumaden,MIT,3623,"Pointer to plumaden-mcp, the Plumaden MCP server and Python SDK"
+2026-11-28T03:59:41Z,cueaudit,0.1.0,Prabhu Rangaraju,MIT,37481,Deterministic audit of multiple choice benchmark items for item writing flaws
+2026-11-28T04:00:53Z,stalsend-sdk,0.1.0,StalSend,MIT,7203,Official Python client for the StalSend email API
+2026-11-28T04:01:07Z,jols,1.0,Oliver Simner,MIT,12821,JustOpenedLetsStart (JOLS) Is a template manager so you can start coding your project without having to make the same files over and over again
+2026-11-28T04:10:34Z,harness-framework,0.1.0,Nguyễn Trường Lâu,Apache-2.0,466246,"Secure, fast, and economical agent harness for Microsoft Ecosystem."
+2026-11-28T04:10:55Z,wayfolio,0.1.0a1,songwp,MIT,3531929,途册 Wayfolio — 把公园与行程编译成 A4 册子与 A0 挂图
+2026-11-28T04:12:42Z,tilo-sdk,0.5.3,,MIT OR Apache-2.0,994791,"Drive Tilo workspaces from Python: the same resources, actions, runs and undo as clicking or an agent."
+2026-11-28T04:16:16Z,finevoice,0.1.0,,,6586,Python SDK for the FineVoice API
+2026-11-28T04:17:09Z,jc-etlforge,0.7.0,Jacivaldo Carvalho <jacivaldocarvalho@gmail.com>,MIT,73452,"A minimalist, plugin-driven ETL framework with declarative pipelines, concurrency, and CLI support."
