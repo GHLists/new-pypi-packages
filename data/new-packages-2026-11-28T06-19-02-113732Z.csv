@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T05:21:07Z,wormbench,1.0.1,Chris Julian Zaharia,Apache-2.0 AND CC0-1.0 AND CC-BY-4.0,2696415,Grade simulated or real C. elegans tracks against real-worm behaviour
+2026-11-28T05:23:36Z,railtracks-toolevo,0.1.0,Guan Zheng Huang,MIT,27861,Tool descriptions that evolve from an agent's own failed calls: a drop-in middleware for Railtracks
+2026-11-28T05:26:28Z,touchmusic,0.2.0,Mark Varkevisser,,142797,"Gesture-controlled live vocals, character voices, and beat-synced looping"
+2026-11-28T05:33:21Z,site-paths,0.1.0,,Apache-2.0,44364,"Stop a site from telling strangers which private routes exist: a wall for ASGI, WSGI and Django."
+2026-11-28T05:34:33Z,tensorplot-rs,0.1.0,Recep Kaan Karaman <kaanrkaraman@gmail.com>,MIT,12242986,"Neural network architecture diagrams for papers — CNNs to LLMs (TikZ, SVG, PNG, PDF)."
+2026-11-28T05:39:54Z,llms-free,1.0.0,llms.free,MIT,9063,"Zero-dependency Python client and CLI for daily-verified Free LLM APIs, live uptime probes, and local open-weight model VRAM specs from llms.free."
+2026-11-28T05:44:52Z,hookbrake,0.1.0,Aprameya Acharya,MIT,60129,"Runtime circuit-breaker, PostToolUse secret vault, output compactor, and session waste auditor for AI coding agents."
+2026-11-28T05:46:25Z,mathshuttle,0.8.0,,MIT,537064,"Move equations between LaTeX and Word / PowerPoint, both ways, offline (texmath via pandoc)"
+2026-11-28T05:46:56Z,openredirex,0.0.0,placeholder (name-squat protection),MIT,3812,Name-protection placeholder. NOT the tool. Real OpenRedirex: https://github.com/devanshbatham/Openredirex
+2026-11-28T05:47:29Z,corsy,0.0.0,placeholder (name-squat protection),MIT,3679,Name-protection placeholder. NOT the tool. Real Corsy: https://github.com/s0md3v/Corsy
+2026-11-28T05:52:20Z,aether-agent-framework,1.3.0,Atikur Rahman,MIT,105402,"Free autonomous agent framework: plan-act-observe loop, 20 built-in tools, multi-agent handoffs, live Web UI, any OpenAI-compatible API or local Ollama model"
+2026-11-28T05:53:43Z,bbpe-tokenizer,0.5.4,bbpe_rs contributors,MIT OR Apache-2.0,136863243,A high-performance byte-level BPE tokenizer with a Rust core and Python wrapper.
+2026-11-28T05:56:06Z,msftrecon,0.0.0,placeholder (name-squat protection),MIT,3802,Name-protection placeholder. NOT the tool. Real MSFTRecon: https://github.com/Arcanum-Sec/msftrecon
+2026-11-28T05:56:39Z,o365spray,0.0.0,placeholder (name-squat protection),MIT,3806,Name-protection placeholder. NOT the tool. Real o365spray: https://github.com/0xZDH/o365spray
+2026-11-28T05:57:46Z,fortell-rules,0.1.0,,MIT,46045,Score a strategy against Fortell's Evaluation rules before paying (Harness Blueprint).
+2026-11-28T06:00:44Z,mcp-guard-gateway,0.2.0,Hardik Bahri,MIT,86419,"Inline security gateway for AI agents and MCP tool servers: RBAC, prompt-injection and tool-misuse checks, DLP redaction, SIEM-ready audit logs."
+2026-11-28T06:03:24Z,zero-context,0.2.1,ujjwalkat07 <ukcode07@gmail.com>,MIT,59026,Lightweight Python SDK for the Zero-Context memory engine API
+2026-11-28T06:06:00Z,swb.one,1.0.0,,Apache-2.0,4473593,First-party agents working together.
+2026-11-28T06:06:11Z,dimage5400,0.1.0,verysimples <verysimples@proton.me>,GPL-3.0-or-later,98522,Driver for the Konica Minolta DiMAGE Scan Elite 5400 and 5400 II film scanners
+2026-11-28T06:09:30Z,privacy-gateway,0.2.0,Michael Jung,MIT,657407,Offline pseudonymization gateway between documents and external LLMs
+2026-11-28T06:12:49Z,japan-holidays,1.0.0,"""Tomohiro Kaneda (Kurashina Design)"" <oss@kurashina.jp>",MIT,21643,Japanese public holidays from the Cabinet Office CSV
+2026-11-28T06:13:34Z,arabickit,0.1.0,episodely,MIT,7589,"Arabic text cleanup: tashkeel, letter variants, digits."
+2026-11-28T06:15:58Z,bd-lab-1339,0.1.0,,,25213,"Nine ISL75 Big Data Lab exercises for Hadoop, Spark, and Pig"
+2026-11-28T06:17:31Z,lanaudio,1.2.0,Sanket Jambhulkar,MIT,120388,"Stream your PC's audio, lossless and in sync, to everyone on your LAN. A sassy, animated terminal app."
