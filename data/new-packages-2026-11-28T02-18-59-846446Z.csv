@@ -1,0 +1,12 @@
+created_at,package,version,author,license,size,summary
+2026-11-28T01:19:44Z,leetcommand,0.0.0,Ninth Lantern LLC,MIT,3889,Placeholder: the real release of leetcommand is coming. Repository: https://github.com/sudoleet/leetcommand
+2026-11-28T01:25:16Z,snugpy,0.1.0,,MIT,115849,"Build and measure compact, full-compatibility CPython distributions"
+2026-11-28T01:34:46Z,db33studio,1.0.1,hussein,Apache-2.0,295431,"A local, single-user database client for PostgreSQL, MySQL, SQLite and Redis."
+2026-11-28T01:35:30Z,sqltoviz,0.1.0a2,,Apache-2.0,776806,Local SQL result visualization: deterministic preview
+2026-11-28T01:36:31Z,tokenwise-py,0.1.0,episodely,MIT,7591,Estimate tokens and cost of a prompt across popular LLMs.
+2026-11-28T01:43:25Z,fujielab-fer,0.1.0,Shinya Fujie <shinya.fujie@chibatech.ac.jp>,Apache-2.0,230663,"Fast facial expression recognition (emotion, valence/arousal, action units, gaze, head pose, face mesh, blendshapes) built on py-feat Detectorv2, with face-behavior features and a causal face tokeniz…"
+2026-11-28T01:48:02Z,music-rename,0.1.0,yoshioyamazoe,MIT,69989,Rename katakana artist names of non-Japanese artists in the macOS Music app to their original (English) names.
+2026-11-28T01:48:16Z,perpetua-rl,0.0.1a0,Skyfall Research,MIT,1400812,A lifetime-first interface for continual reinforcement learning
+2026-11-28T01:56:04Z,vfb,0.1.0,,MIT,4205511,"A virtual display with Xvfb's command line on Linux, macOS and Windows"
+2026-11-28T02:01:13Z,db-mutex,0.3.0,Rishi Rana,MIT,57563,"A distributed mutex for Postgres or MySQL. One table, heartbeat-based liveness, automatic crash recovery. No ZooKeeper, no Redis."
+2026-11-28T02:12:28Z,telinkbt,0.4,Matthew Garrett,,15902,Python implementation of Telink Bluetooth mesh network
