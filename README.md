@@ -8,35 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 10:19 UTC
+## Latest list — 2026-11-28 11:18 UTC
 
-New packages created between 2026-11-28 09:22 UTC and 2026-11-28 10:19 UTC.
+New packages created between 2026-11-28 10:19 UTC and 2026-11-28 11:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-28T10-19-02-77213Z.csv)
+[Full CSV](data/new-packages-2026-11-28T11-18-58-439937Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-28 09:24:01 | [dependencyproof-mcp](https://pypi.org/project/dependencyproof-mcp/) | 0.1.1 | Ahmed Saeed | 40.8 kB | Offline verification of explicit dependency, import and configuration claims. |
-| 2026-11-28 09:25:12 | [skillledger](https://pypi.org/project/skillledger/) | 0.1.1 |  | 29.5 kB | Offline skill frontmatter review, provenance and inventory CLI/MCP |
-| 2026-11-28 09:25:31 | [testhellos](https://pypi.org/project/testhellos/) | 0.3.0 | Adarsh Kumar | 7.6 kB | A collection of reusable Python utilities |
-| 2026-11-28 09:27:12 | [sourceatlas-mcp](https://pypi.org/project/sourceatlas-mcp/) | 0.1.0 |  | 22.4 kB | Offline MCP evidence organizer for supplied public-source records |
-| 2026-11-28 09:29:28 | [handoffpilot-mcp](https://pypi.org/project/handoffpilot-mcp/) | 0.2.0 |  | 36.6 kB | Offline task handoff snapshots, revision history and Markdown |
-| 2026-11-28 09:31:19 | [loglens-mcp](https://pypi.org/project/loglens-mcp/) | 0.1.0 |  | 22.6 kB | Offline bounded compile and test log summaries |
-| 2026-11-28 09:32:44 | [releasebrief](https://pypi.org/project/releasebrief/) | 0.1.0 | Ahmed Saeed | 24.1 kB | Draft release notes and stable semantic version suggestions from supplied commi… |
-| 2026-11-28 09:43:56 | [certbot-dns-realtimeregister](https://pypi.org/project/certbot-dns-realtimeregister/) | 0.1.3 | PJ | 21.8 kB | Realtime Register DNS Authenticator plugin for Certbot |
-| 2026-11-28 09:44:13 | [nomem-ai](https://pypi.org/project/nomem-ai/) | 0.3.0 | Saswat Tulo <tulosaswat@gmail… | 142.6 kB | Not Only Memory — a transparent, token-budgeted, LLM-free memory layer for agen… |
-| 2026-11-28 09:44:25 | [cybertrust-bridge](https://pypi.org/project/cybertrust-bridge/) | 0.1.0 | Signal True | 36.7 kB | CyberTrust Bridge — the mail-carrier side of the Wazuh Bridge: receives the And… |
-| 2026-11-28 09:46:22 | [firecrawl-mcp-server](https://pypi.org/project/firecrawl-mcp-server/) | 0.1.0 | campaign N11 | 8.8 kB | Minimal benign MCP stdio server (safe_add helper) that self-identifies the host… |
-| 2026-11-28 09:47:18 | [campai-api](https://pypi.org/project/campai-api/) | 0.1.0 | Stephan Lukasczyk | 56.6 kB | Idiomatic, type-safe Python SDK for the Campai REST API. |
-| 2026-11-28 09:53:11 | [temporal-typing](https://pypi.org/project/temporal-typing/) | 0.2.0 | Ju Lin | 18.3 kB | Declare behavioural specifications in Python with typing annotations, using the… |
-| 2026-11-28 09:56:12 | [cugraph-equivariant](https://pypi.org/project/cugraph-equivariant/) | 24.4.0 | campaign-n3 | 3.8 kB | Benign dependency-free stub for an authorized dependency-confusion proof |
-| 2026-11-28 09:57:37 | [traceport-ai](https://pypi.org/project/traceport-ai/) | 0.0.1 | Shineport Innovations Private… | 56.8 kB | Official Python SDK for the Traceport API: one shared client and per-product mo… |
-| 2026-11-28 10:00:55 | [dynalite-eeprom](https://pypi.org/project/dynalite-eeprom/) | 0.1.0 | Sam Dunster <me@sdunster.com> | 158.9 kB | Unofficial decoder for the memory of Signify Dynalite DyNet devices: panel butt… |
-| 2026-11-28 10:02:49 | [digiwebscape](https://pypi.org/project/digiwebscape/) | 0.16.16 | "Hitender Sharma (DigiWebscap… | 19.7 kB | Official Python SDK for DigiWebscape Platform (AI Visibility, Telemetry, Webhoo… |
-| 2026-11-28 10:02:59 | [voice2voice](https://pypi.org/project/voice2voice/) | 0.1.1 |  | 19.6 kB | Synchronous and asynchronous Python SDK for the Voice2Voice Translator API |
-| 2026-11-28 10:04:23 | [cmdop-observations](https://pypi.org/project/cmdop-observations/) | 0.1.0 |  | 111.3 kB | Shared opt-in CMDOP launcher observations with bounded best-effort delivery |
-| 2026-11-28 10:05:24 | [collective.silverpoint](https://pypi.org/project/collective.silverpoint/) | 0.1.0 | Ernesto Crespo <ecrespo@gmail… | 141.4 kB | silverpoint charts as Plone content: a Chart type with a Classic UI view. |
-| 2026-11-28 10:05:28 | [candle-torch](https://pypi.org/project/candle-torch/) | 0.1.0 |  | 1.9 MB | PyTorch interfaces backed by Candle |
-| 2026-11-28 10:11:38 | [wiv-air](https://pypi.org/project/wiv-air/) | 0.1.2 | Wiv | 27.1 kB | Wiv Air agent SDK: send OpenTelemetry traces to Air and check your agent wallet… |
-| 2026-11-28 10:15:10 | [camsper-astro-tools](https://pypi.org/project/camsper-astro-tools/) | 0.5.0 | Alireza Molaeinezhad, Nichola… | 7.2 MB | Open astronomy tools for AI agents and scripts: NASA ADS and arXiv, SIMBAD/NED/… |
-| 2026-11-28 10:18:31 | [arks-cli](https://pypi.org/project/arks-cli/) | 0.1.1 |  | 19.2 MB | arks for Git - native Rust Git-compatible CLI, daemon, forge client, and self-h… |
+| 2026-11-28 10:20:27 | [intendora](https://pypi.org/project/intendora/) | 0.1.2 |  | 1.2 MB | A goal grid: nine blocks of nine squares, kept in an embedded graph database. |
+| 2026-11-28 10:24:53 | [soda-singlepass](https://pypi.org/project/soda-singlepass/) | 0.2.0 | Hari Mittapalli <harimittapal… | 26.2 kB | Unofficial add-on for soda-core-spark-df: one query per table partition for agg… |
+| 2026-11-28 10:31:26 | [langchain-aicheckerhumanizer](https://pypi.org/project/langchain-aicheckerhumanizer/) | 0.1.0 |  | 31.8 kB | AI Checker Humanizer detection and rewriting tools for LangChain |
+| 2026-11-28 10:32:06 | [esys-tools](https://pypi.org/project/esys-tools/) | 0.2.0 | Project maintainers | 76.4 kB | Install and update catalogued LibESys command-line tools |
+| 2026-11-28 10:34:38 | [fairmark](https://pypi.org/project/fairmark/) | 0.1.0a1 | The Fairmark Authors | 20.2 MB | Deterministic valuation engine for analysts and AI agents — fair value, hallmar… |
+| 2026-11-28 10:38:39 | [flexcode-editor](https://pypi.org/project/flexcode-editor/) | 1.0.0 |  | 58.6 kB | A lightweight graphical code editor built with Python and Pygame. |
+| 2026-11-28 10:39:52 | [charactergenerator](https://pypi.org/project/charactergenerator/) | 1.0.0 | vdbma | 16.7 kB | Generates Characters from user tables |
+| 2026-11-28 10:39:55 | [rtansformers](https://pypi.org/project/rtansformers/) | 0.0.1 | campaign-n3 | 3.8 kB | Benign dependency-free stub for an authorized typosquat/name-claim proof |
+| 2026-11-28 10:40:17 | [mergefolio](https://pypi.org/project/mergefolio/) | 0.1.0 |  | 16.4 kB | Explicit, strict Word MERGEFIELD rendering without Microsoft Word |
+| 2026-11-28 10:44:22 | [fadodb](https://pypi.org/project/fadodb/) | 0.9.0 |  | 185.9 MB | FadoDB for Python: a database over HTTP, or in the same process |
+| 2026-11-28 10:48:16 | [scietex.voltage-amplifier-service](https://pypi.org/project/scietex.voltage-amplifier-service/) | 0.2.0 | Anton Bondarenko <bond.anton@… | 101.9 kB | Scietex microservice daemon for voltage amplifier monitoring and control |
+| 2026-11-28 10:48:32 | [bioalign](https://pypi.org/project/bioalign/) | 0.1.0 | Alper Karagöl <akaragol@mit.e… | 38.1 kB | Homology search, multiple sequence alignment, Shannon conservation analytics, N… |
+| 2026-11-28 10:52:37 | [hullkit](https://pypi.org/project/hullkit/) | 0.0.1 |  | 4.6 kB | Developer CLI for Hullkit: build CLIs extended by sandboxed WebAssembly plugins… |
+| 2026-11-28 10:52:39 | [hullkit-sdk](https://pypi.org/project/hullkit-sdk/) | 0.0.1 |  | 3.9 kB | Python SDK for writing Hullkit WebAssembly plugins (in development) |
+| 2026-11-28 10:54:58 | [dots-causal](https://pypi.org/project/dots-causal/) | 0.1.0 | Pedro Sanchez, Damian Machlan… | 53.1 kB | DOTS (Diffusion Ordered Temporal Structure): causal structure learning from tim… |
+| 2026-11-28 10:55:06 | [anthromesh](https://pypi.org/project/anthromesh/) | 0.2.0 | AnthroMesh Contributors | 334.8 kB | Preference memory, owner escalation, and verifiable delegation for AI agents (M… |
+| 2026-11-28 10:58:37 | [tkhtmlview-gfm](https://pypi.org/project/tkhtmlview-gfm/) | 0.1.0 | Palash Bauri <palashbauri1@gm… | 26.6 kB | Display HTML with Tkinter + GitHub Flavored Markdown support |
+| 2026-11-28 10:59:30 | [inim-smartliving](https://pypi.org/project/inim-smartliving/) | 0.1.0 | Skacco | 58.4 kB | Python library for INIM SmartLiving alarm panels (local SmartLAN protocol) |
+| 2026-11-28 11:01:14 | [piitrace](https://pypi.org/project/piitrace/) | 1.0.0 | Shubham Kumar | 261.1 kB | Read-only personal data discovery for MySQL, PostgreSQL and MongoDB, built for… |
+| 2026-11-28 11:01:17 | [readmescore](https://pypi.org/project/readmescore/) | 0.1.0 | episodely | 8.1 kB | Score a README and say what is missing. |
+| 2026-11-28 11:05:50 | [zt-oawf-cli](https://pypi.org/project/zt-oawf-cli/) | 0.1.0 |  | 26.8 kB | ZT OAWF CLI scaffold |
+| 2026-11-28 11:06:26 | [gateledger](https://pypi.org/project/gateledger/) | 0.1.0 | hakari-labs | 116.9 kB | Pass/fail and cost receipts for multi-stage LLM pipelines. Gates, judge calibra… |
+| 2026-11-28 11:06:29 | [loupe-scan](https://pypi.org/project/loupe-scan/) | 0.2.0 | Frank Duah | 412.6 kB | Find text on web pages that human readers can't see but AI agents can. |
+| 2026-11-28 11:08:25 | [intentguard-mcp](https://pypi.org/project/intentguard-mcp/) | 0.3.0 | Burak Çoruk | 145.9 kB | Deterministic runtime security policy engine |
+| 2026-11-28 11:10:19 | [rten](https://pypi.org/project/rten/) | 0.29.0a1 |  | 7.6 MB | Machine learning runtime |
+| 2026-11-28 11:13:53 | [ezco](https://pypi.org/project/ezco/) | 0.1.0 |  | 207.4 kB | Security guard for AI coding agents: fake packages, leaked secrets, poisoned ag… |
+| 2026-11-28 11:15:46 | [actovisio-framework](https://pypi.org/project/actovisio-framework/) | 0.14.0 | Pictovap Contributors <hello@… | 271.5 kB | Image workflow for content publishers who spend hours finding free images and p… |
+| 2026-11-28 11:17:12 | [bd-taka-words](https://pypi.org/project/bd-taka-words/) | 1.0.0 | "Mehedi Hasan (Top System)" <… | 18.8 kB | Zero-dependency Bangladeshi Taka (BDT / ৳) Lakh-Crore formatter and Bangla/Engl… |
